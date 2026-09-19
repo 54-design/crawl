@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SID INTERIORS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "517429",
+    "phone_number": "+91 89715 85031",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thumba, Andhra Pradesh 517416",
+    "area": "517429",
+    "latitude": 13.261213699999999,
+    "longitude": 78.8435378,
+    "place_id": "ChIJpwZi48FjrTsRbcQb9ZOX0dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwZi48FjrTsRbcQb9ZOX0dA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:24:01"
+  },
+  {
+    "business_name": "Arhaan Interior Studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "517429",
+    "phone_number": "+91 77994 52233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No : 1,2, C M S Complex, 20-3-124/A1, Leela Mahal Cir, Akkarampalle, Tirupati, Andhra Pradesh 517501",
+    "area": "Akkarampalle",
+    "latitude": 13.6418241,
+    "longitude": 79.4282951,
+    "place_id": "ChIJv1zY1VRKTToRwGVRJ0UaJ9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1zY1VRKTToRwGVRJ0UaJ9o",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:24:02"
+  }
+]

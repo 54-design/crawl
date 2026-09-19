@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nwellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Beauty Parlour, Day spa, Spa",
+    "pincode": "517418",
+    "phone_number": "+91 93918 03316",
+    "website": "https://nwellness.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "First floor, Plot no. 6, Rd Number 3, UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills",
+    "latitude": 17.4246695,
+    "longitude": 78.43705779999999,
+    "place_id": "ChIJG8dfAACXyzsRFPjN9F1vBV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8dfAACXyzsRFPjN9F1vBV4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:10:08"
+  },
+  {
+    "business_name": "Byraveswar Lifecare Medicals",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "517418",
+    "phone_number": "+91 73825 72245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Annamayya Dist, bus stand, 3-2, Biraveswar Lifecare Medicals, Mudivedu, Andhra Pradesh 517350",
+    "area": "517418",
+    "latitude": 13.706075199999999,
+    "longitude": 78.5084375,
+    "place_id": "ChIJ1Q4gpJtdsjsRUa_BbyESBLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Q4gpJtdsjsRUa_BbyESBLI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:10:10"
+  }
+]

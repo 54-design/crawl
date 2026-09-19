@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoukath General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "517418",
+    "phone_number": "+91 89197 31249",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Esate, Madanapalle, Andhra Pradesh 517326",
+    "area": "Esate",
+    "latitude": 13.5644377,
+    "longitude": 78.5109454,
+    "place_id": "ChIJ-275IKlnsjsRyMjzr21dvDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-275IKlnsjsRyMjzr21dvDU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:12"
+  },
+  {
+    "business_name": "Vyshnavi provision store & DTH Sales and Service",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517418",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "K RAMIGANIVARIPALLI, Kannemadugu, Andhra Pradesh 517418",
+    "area": "K RAMIGANIVARIPALLI",
+    "latitude": 13.7712737,
+    "longitude": 78.49010009999999,
+    "place_id": "ChIJHfnUbkNbsjsRFzY8zOfPQ4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfnUbkNbsjsRFzY8zOfPQ4s",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:12"
+  }
+]

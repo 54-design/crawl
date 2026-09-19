@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAGASAI",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "517429",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "42G7+6CG, SH 88, Kasiralla, Andhra Pradesh 517422",
+    "area": "517429",
+    "latitude": 13.125036,
+    "longitude": 79.014237,
+    "place_id": "ChIJC5UbawBnrTsRg6x4a7_-7tY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5UbawBnrTsRg6x4a7_-7tY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:24:18"
+  },
+  {
+    "business_name": "VGP Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "517429",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "5VHW+V7J, Bangarupalem, Vootuvanka, Gollapalle, Andhra Pradesh 517429",
+    "area": "Bangarupalem, Vootuvanka",
+    "latitude": 13.179721299999999,
+    "longitude": 78.8956372,
+    "place_id": "ChIJW4dw7gVlrTsR6pJnwYR2qTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4dw7gVlrTsR6pJnwYR2qTs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:24:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkat Fitness Center",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517424",
+    "phone_number": "+91 81868 18654",
+    "website": "https://www.instagram.com/venkatfitnesscenter/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vivekananda nagar, Swarna Bharathi Nagar, West Gudur Rural, Andhra Pradesh 524101",
+    "area": "Vivekananda nagar, Swarna Bharathi Nagar",
+    "latitude": 14.1504547,
+    "longitude": 79.84695959999999,
+    "place_id": "ChIJxdF9VD7jTDoR-F2b5LdORUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdF9VD7jTDoR-F2b5LdORUM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:18:32"
+  },
+  {
+    "business_name": "POWER GYM Ladies & Gents Fitness Centre",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Health consultant",
+    "pincode": "517424",
+    "phone_number": "+91 88866 68838",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kowshik Plaza, 14/9, Market Road, near VEGETABLE MARKET, Konetimitta, Nehru Nagar, West Gudur Rural, Andhra Pradesh 524101",
+    "area": "Konetimitta, Nehru Nagar",
+    "latitude": 14.1460078,
+    "longitude": 79.850427,
+    "place_id": "ChIJf2UPj6LjTDoRpAEONx1OAIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2UPj6LjTDoRpAEONx1OAIg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:18:32"
+  }
+]

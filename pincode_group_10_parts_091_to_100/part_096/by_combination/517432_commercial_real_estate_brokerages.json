@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Real Estate Agency",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "517432",
+    "phone_number": "+91 97436 97099",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Billakempanahalli, Karnataka 562109",
+    "area": "517432",
+    "latitude": 12.8065457,
+    "longitude": 77.3997593,
+    "place_id": "ChIJQ6vCwDhGrjsRSUAxoOaKXhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6vCwDhGrjsRSUAxoOaKXhE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:26:25"
+  },
+  {
+    "business_name": "Merchant Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "517432",
+    "phone_number": "+91 98459 77061",
+    "website": "https://www.merchantrealtors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7, 1, Main, 2nd Cross Rd, Ganganagar, Thimaiah Garden, RT Nagar, Bengaluru, Karnataka 560032",
+    "area": "Ganganagar, Thimaiah Garden, RT Nagar",
+    "latitude": 13.0176958,
+    "longitude": 77.597264,
+    "place_id": "ChIJYwcOgs0XrjsRVvn2YRwkfAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwcOgs0XrjsRVvn2YRwkfAU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:26:25"
+  }
+]

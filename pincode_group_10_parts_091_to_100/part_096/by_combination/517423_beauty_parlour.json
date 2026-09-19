@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keerthi Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "517423",
+    "phone_number": "+91 94401 01750",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R9MJ+6X3, Krishnagiri - Palamaner Rd, Kadiriobanapalle, Andhra Pradesh 517423",
+    "area": "517423",
+    "latitude": 12.8329916,
+    "longitude": 78.3824147,
+    "place_id": "ChIJ7YWlvXq_rTsRYJ0yVAXIm1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YWlvXq_rTsRYJ0yVAXIm1c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:17:07"
+  },
+  {
+    "business_name": "Soundarya beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "517423",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VCF4+CJ5, Shanthipuram, Arimuthanapalle, Andhra Pradesh 517423",
+    "area": "Shanthipuram",
+    "latitude": 12.873485899999999,
+    "longitude": 78.4066014,
+    "place_id": "ChIJL3xxeAC9rTsRkqumRz8d9Rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3xxeAC9rTsRkqumRz8d9Rw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:17:07"
+  }
+]

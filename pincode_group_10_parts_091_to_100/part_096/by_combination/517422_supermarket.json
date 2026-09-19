@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Jyothi Super Bazaar",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "638X+MHP, Ponniamman Koil St, Mittoor, Chittoor, Andhra Pradesh 517001",
+    "area": "Mittoor",
+    "latitude": 13.216707699999999,
+    "longitude": 79.0989486,
+    "place_id": "ChIJR_lFUfFdrTsRb8lc2Ucq9mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_lFUfFdrTsRb8lc2Ucq9mE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:28"
+  },
+  {
+    "business_name": "SuperK - Palani Supermart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517422",
+    "phone_number": "N/A",
+    "website": "https://www.superk.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Post and Mandal, H.No - 4-344, Yadamari, Chittoor, Andhra Pradesh 517422",
+    "area": "517422",
+    "latitude": 13.1567546,
+    "longitude": 79.0391975,
+    "place_id": "ChIJGWni4V5drTsROZWdivmb8lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWni4V5drTsROZWdivmb8lY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:28"
+  }
+]

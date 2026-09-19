@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A Digital Blogger",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "517418",
+    "phone_number": "N/A",
+    "website": "https://aseemjuneja.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sebiz Infotech, Sector 67, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Sector 67",
+    "latitude": 30.6803475,
+    "longitude": 76.7263203,
+    "place_id": "ChIJLS4V7qvvDzkRvejqDuh6Jpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLS4V7qvvDzkRvejqDuh6Jpo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:10:35"
+  },
+  {
+    "business_name": "Fortune Fiscal Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Online Share Trading Center",
+    "pincode": "517418",
+    "phone_number": "+91 265 236 1450",
+    "website": "http://www.fortunefiscal.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "208, Blue Chip Complex, Near Kala Ghoda, Sarod, Sayajiganj, Vadodara, Gujarat 390007",
+    "area": "Near Kala Ghoda, Sarod, Sayajiganj",
+    "latitude": 22.3079099,
+    "longitude": 73.1862448,
+    "place_id": "ChIJqxektFPPXzkRcjdBi6ebOl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxektFPPXzkRcjdBi6ebOl8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:10:37"
+  }
+]

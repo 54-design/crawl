@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hervik Healthcare Private Limited",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "517505",
+    "phone_number": "+91 99859 79770",
+    "website": "http://www.hervikhealthcare.com/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Survey No. 600/B, Chandragiri, Tirupati, Andhra Pradesh 517101",
+    "area": "517505",
+    "latitude": 13.5813253,
+    "longitude": 79.3226634,
+    "place_id": "ChIJn2mSXK-zsjsRblWsqOhvdSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2mSXK-zsjsRblWsqOhvdSA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:56"
+  },
+  {
+    "business_name": "Pacific Medical Systems",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "517505",
+    "phone_number": "+91 90004 01754",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10-15-32, KK Layout, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6353878,
+    "longitude": 79.41850269999999,
+    "place_id": "ChIJYWJwuchLTToRCVvteZEtlMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWJwuchLTToRCVvteZEtlMM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:57"
+  }
+]

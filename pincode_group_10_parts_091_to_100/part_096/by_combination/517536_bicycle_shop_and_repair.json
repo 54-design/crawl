@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopi bike machanic shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "517536",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-123/2, Collegemitta, Boppapuram, Akbarnivasa Khandrika, Andhra Pradesh 524132",
+    "area": "Collegemitta, Boppapuram",
+    "latitude": 13.950411599999999,
+    "longitude": 79.5870403,
+    "place_id": "ChIJXdVlHQAlTToRmSeWf7UBjHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdVlHQAlTToRmSeWf7UBjHI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:44:19"
+  },
+  {
+    "business_name": "Track & Trail Store - Rajakilpakkam - Montra, Hercules, BSA, Mach City",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "517536",
+    "phone_number": "+91 80 6287 8196",
+    "website": "https://shop.trackandtrail.in/cycles-store/chennai/rajakilpakkam/montra-hercules-bsa-mach-city-cycle-store-proficient-technologies-in-rajakilpakkam-chennai--2oxZaE/home",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground Floor, Proficient Technologies, 60, Velachery Main Rd, nearby CaratLane Jewellery, Sembakkam, Rajakilpakkam, Chennai, Tamil Nadu 600073",
+    "area": "Sembakkam",
+    "latitude": 12.9228509,
+    "longitude": 80.1486336,
+    "place_id": "ChIJlTTR6uZeUjoRkzGKk-gBOrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTTR6uZeUjoRkzGKk-gBOrI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:44:21"
+  }
+]

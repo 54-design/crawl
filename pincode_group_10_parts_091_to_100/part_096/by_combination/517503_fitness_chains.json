@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KSHATRIYAS GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "517503",
+    "phone_number": "+91 93966 66671",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "20-2-660, Tanya plaza, A3, Tirumala Bypass Rd, opp. Reliance Trends, Korlagunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Korlagunta",
+    "latitude": 13.6351269,
+    "longitude": 79.4280584,
+    "place_id": "ChIJ0dH0Z-RLTToRw56qYngM8d8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dH0Z-RLTToRw56qYngM8d8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:07"
+  },
+  {
+    "business_name": "PULSE FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517503",
+    "phone_number": "+91 93467 20320",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pulse Fitness Gym In, Bhavani Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Bhavani Nagar",
+    "latitude": 13.6389651,
+    "longitude": 79.4170714,
+    "place_id": "ChIJtU6GMIZLTToRHrJOn9kQlcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtU6GMIZLTToRHrJOn9kQlcc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:07"
+  }
+]

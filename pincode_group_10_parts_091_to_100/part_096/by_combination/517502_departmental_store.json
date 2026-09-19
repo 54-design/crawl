@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heritage Sales Point",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Majikalava, to, Avilala Rd, opp. registration office, M.R.Pally, Bairagi patteda, Tirupati, Avilali, Andhra Pradesh 517502",
+    "area": "M.R.Pally, Bairagi patteda",
+    "latitude": 13.6144833,
+    "longitude": 79.41648219999999,
+    "place_id": "ChIJaa_DKQBLTToR-up5hK70ZxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaa_DKQBLTToR-up5hK70ZxI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:28:40"
+  },
+  {
+    "business_name": "Sree Garuda Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JC67+XXF, Ambedhkar Colony, Tirupati, Avilali, Andhra Pradesh 517508",
+    "area": "Ambedhkar Colony",
+    "latitude": 13.612429599999999,
+    "longitude": 79.4149162,
+    "place_id": "ChIJE07xUABLTToRs3iqWpbOLLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE07xUABLTToRs3iqWpbOLLA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:28:40"
+  }
+]

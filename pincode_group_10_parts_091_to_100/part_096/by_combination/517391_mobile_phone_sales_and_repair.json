@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cell Top Service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Computer accessories store, Cell phone accessory store",
+    "pincode": "517391",
+    "phone_number": "+91 97409 40095",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 733,
+    "address": "949 ground floor, 16th Main Rd, next to swadist Aahar hotel, BTM 2nd Stage, 2nd Stage, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+    "area": "BTM 2nd Stage, 2nd Stage, BTM Layout 2nd Stage, BTM Layout",
+    "latitude": 12.9137977,
+    "longitude": 77.610162,
+    "place_id": "ChIJZw8XD_0UrjsRwMlv9zud2q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZw8XD_0UrjsRwMlv9zud2q8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:56:21"
+  },
+  {
+    "business_name": "The Boss enterprise, Mobile sales and services",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "517391",
+    "phone_number": "+91 77950 03095",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chakavelu chelur t, Karnataka 563124",
+    "area": "517391",
+    "latitude": 13.825387699999999,
+    "longitude": 78.09708859999999,
+    "place_id": "ChIJJwXHcukvsjsRtHV9NLo5fyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwXHcukvsjsRtHV9NLo5fyQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:56:23"
+  }
+]

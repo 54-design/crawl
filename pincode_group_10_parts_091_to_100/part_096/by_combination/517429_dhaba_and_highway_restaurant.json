@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "517429",
+    "phone_number": "+91 98427 91337",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Before toll plaza, Shop no 44 20, Bengaluru - Chennai Highway, from, Kilachur, Tamil Nadu 635809",
+    "area": "Veppangal",
+    "latitude": 12.9055685,
+    "longitude": 78.9548942,
+    "place_id": "ChIJQx85mO0UrTsRgvyv_nc5LVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQx85mO0UrTsRgvyv_nc5LVY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:23:24"
+  },
+  {
+    "business_name": "AKL's Highway Kitchen-GM",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517429",
+    "phone_number": "+91 96068 42841",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Bengaluru - Tirupati Hwy, Ragimanipenta, Mogili, Andhra Pradesh 517429",
+    "area": "517429",
+    "latitude": 13.1886099,
+    "longitude": 78.8650806,
+    "place_id": "ChIJiyIc4jVlrTsRIiIdi4sko6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyIc4jVlrTsRIiIdi4sko6I",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:23:25"
+  }
+]

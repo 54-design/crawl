@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vinayaka Suppliers",
+    "search_category": "Hotel",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "517408",
+    "phone_number": "+91 85000 80678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, SBI Colony, Chittoor, Andhra Pradesh 517001",
+    "area": "SBI Colony, KR Palli",
+    "latitude": 13.218972899999999,
+    "longitude": 79.1192002,
+    "place_id": "ChIJ6y4uqUZZrTsRU6jnDHMkbDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6y4uqUZZrTsRU6jnDHMkbDA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:01:20"
+  },
+  {
+    "business_name": "MKB FOOD HOUSE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "517408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "199/15, opposite MRO OFFICE, Palamaner, Andhra Pradesh 517408",
+    "area": "517408",
+    "latitude": 13.202027099999999,
+    "longitude": 78.73096269999999,
+    "place_id": "ChIJtbVmTQB_rTsRqRfEdHPLMOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbVmTQB_rTsRqRfEdHPLMOU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:01:21"
+  }
+]

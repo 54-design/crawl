@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zoya Mobiles",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "517422",
+    "phone_number": "+91 97034 90323",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "26, Yadamari, Andhra Pradesh 517422",
+    "area": "517422",
+    "latitude": 13.1598964,
+    "longitude": 79.0386302,
+    "place_id": "ChIJFcQUzspdrTsRYkblZHP__PE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcQUzspdrTsRYkblZHP__PE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:15:45"
+  },
+  {
+    "business_name": "Vaishno Mobiles Accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "517422",
+    "phone_number": "+91 98991 57094",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H-17, Main Vikas Marg, near Metro Pillar-35, near sai mandir Raymond showroom, Veer Savarkar Block, Block L, Laxmi Nagar, Delhi, 110092",
+    "area": "Veer Savarkar Block, Block L, Laxmi Nagar",
+    "latitude": 28.6320601,
+    "longitude": 77.2794069,
+    "place_id": "ChIJjwc3eKz8DDkRFUoPT9fjpj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwc3eKz8DDkRFUoPT9fjpj4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:15:46"
+  }
+]

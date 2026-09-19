@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinnappa setty",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "517426",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q77J+2HR, Sodiganipalle, Andhra Pradesh 517426",
+    "area": "517426",
+    "latitude": 12.762619899999999,
+    "longitude": 78.2813956,
+    "place_id": "ChIJVZBKFwDHrTsRp6JuD0OB7lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZBKFwDHrTsRp6JuD0OB7lI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:21:53"
+  },
+  {
+    "business_name": "Dr.B.V.Srikanth Suresh",
+    "search_category": "Doctors",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "517426",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P8XP+4JF, Urban Colony, Bairaganipalle (Rural), Andhra Pradesh 517425",
+    "area": "Urban Colony",
+    "latitude": 12.747810399999999,
+    "longitude": 78.3365381,
+    "place_id": "ChIJt74jegC5rTsRpcDeOpe3iJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt74jegC5rTsRpcDeOpe3iJo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:21:53"
+  }
+]

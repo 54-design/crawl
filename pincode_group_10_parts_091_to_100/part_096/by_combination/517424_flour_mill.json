@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "manjunatha flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "517424",
+    "phone_number": "+91 94405 31488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2F2R+FC9, near rtcbustand dhanapuram cross road, Venkatagirikota, Andhra Pradesh 517424",
+    "area": "517424",
+    "latitude": 13.0011724,
+    "longitude": 78.4911248,
+    "place_id": "ChIJI8qFzJyZrTsRUp5LmPqpVQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8qFzJyZrTsRUp5LmPqpVQI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:18:01"
+  },
+  {
+    "business_name": "Flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "517424",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WCVC+G5H m)chittoor, Konganapalli(v)ramakuppam, Venkatagirikota, Andhra Pradesh 517424",
+    "area": "517424",
+    "latitude": 12.9438239,
+    "longitude": 78.420493,
+    "place_id": "ChIJrahuPSuXrTsRaFVufYKYop4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrahuPSuXrTsRaFVufYKYop4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:18:01"
+  }
+]

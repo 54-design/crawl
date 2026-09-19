@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwaraj Family Restaurant & Lodge",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517426",
+    "phone_number": "+91 90751 71000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 177,
+    "address": "Mudkhed - Umri Rd, beside Shri Sairaj Petroleum, Mudkhed, Maharashtra 431806",
+    "area": "517426",
+    "latitude": 19.1359653,
+    "longitude": 77.5095884,
+    "place_id": "ChIJHUApPjghzjsRgjWylN2917s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUApPjghzjsRgjWylN2917s",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:21:41"
+  },
+  {
+    "business_name": "GR Village Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517426",
+    "phone_number": "+91 85002 44222",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1481,
+    "address": "Shop No 1, Anantharajupeta, Andhra Pradesh 516105",
+    "area": "517426",
+    "latitude": 13.996512099999999,
+    "longitude": 79.3305702,
+    "place_id": "ChIJ88HZfMrVsjsRke__WCqHyhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88HZfMrVsjsRke__WCqHyhU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:21:42"
+  }
+]

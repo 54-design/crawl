@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Your Business Needs",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment, Marketing consultant",
+    "pincode": "517503",
+    "phone_number": "07525 364814",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Your Business Needs, 517503, India",
+    "area": "517503",
+    "latitude": 52.8378768,
+    "longitude": -2.3274808,
+    "place_id": "ChIJA4V-eaoVcUgRFXezkwkCHyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4V-eaoVcUgRFXezkwkCHyY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:32:23"
+  },
+  {
+    "business_name": "Apex Hr Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, BPO Placement Agency, Employment consultant, Unemployment office",
+    "pincode": "517503",
+    "phone_number": "+91 76761 11049",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "13/1, 1st Floor, Khathija Manzil, Standage Rd, Fraser Town, Bengaluru, Karnataka 560005",
+    "area": "Fraser Town",
+    "latitude": 12.999419999999999,
+    "longitude": 77.6165298,
+    "place_id": "ChIJJ7M6_tIXrjsRnsR1DUJgPm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7M6_tIXrjsRnsR1DUJgPm8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:32:24"
+  }
+]

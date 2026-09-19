@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ys gate",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "517419",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "72HP+26M, Kanipakam, Andhra Pradesh 517131",
+    "area": "517419",
+    "latitude": 13.2775912,
+    "longitude": 79.03554799999999,
+    "place_id": "ChIJISvtpoFfrTsRDkU8y4tZeQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISvtpoFfrTsRDkU8y4tZeQ8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:12:10"
+  },
+  {
+    "business_name": "Ganga Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "517419",
+    "phone_number": "+91 90080 03905",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 163,
+    "address": "1st Floor, Chandra Plaza, 611, Avenue Rd, Anchepet, Chickpet, Bengaluru, Karnataka 560053",
+    "area": "Anchepet, Chickpet",
+    "latitude": 12.971343,
+    "longitude": 77.580259,
+    "place_id": "ChIJ8ydI6gsWrjsR9G8ber-mHJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ydI6gsWrjsR9G8ber-mHJQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:12:10"
+  }
+]

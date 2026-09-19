@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SLV boy hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "517507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "5, Karakambadi Rd, opp. America bar, Mangalam, Tirupati, Andhra Pradesh 517501",
+    "area": "Mangalam",
+    "latitude": 13.642042,
+    "longitude": 79.4303496,
+    "place_id": "ChIJCcRuKABLTToRveVVgzeLYtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcRuKABLTToRveVVgzeLYtE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:39:11"
+  },
+  {
+    "business_name": "Sri Srinivasa boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "517507",
+    "phone_number": "+91 80953 53603",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Leela Mahal Cir, Korlagunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Korlagunta",
+    "latitude": 13.6410279,
+    "longitude": 79.42819,
+    "place_id": "ChIJkV5SvZRLTToR-nGrG8vr4HY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkV5SvZRLTToR-nGrG8vr4HY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:39:11"
+  }
+]

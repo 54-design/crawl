@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Molala Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Alternative medicine practitioner",
+    "pincode": "517503",
+    "phone_number": "+91 94400 75918",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 98,
+    "address": "10-11-377, Doddapuram St, opp. sri devi complex, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6338479,
+    "longitude": 79.4205046,
+    "place_id": "ChIJfx42IARLTToRzgldAQKAHU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfx42IARLTToRzgldAQKAHU8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:04"
+  },
+  {
+    "business_name": "SLVR Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "517503",
+    "phone_number": "+91 63023 75323",
+    "website": "https://slvrdentalandcosmeticcare.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3/258, Pudi Road, S.V.P. Colony Tiruchanur, Tirupati, Andhra Pradesh 517503, Andhra Pradesh 517501",
+    "area": "SANKARNIADU COLONY, Tiruchanur",
+    "latitude": 13.6047672,
+    "longitude": 79.451968,
+    "place_id": "ChIJGS28SgN1tCARlf88kZ3RRZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGS28SgN1tCARlf88kZ3RRZ0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:06"
+  }
+]

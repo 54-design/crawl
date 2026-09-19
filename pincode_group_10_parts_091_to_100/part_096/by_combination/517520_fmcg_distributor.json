@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gomatha Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "517520",
+    "phone_number": "+91 94901 21815",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prakash Plaza, opp. Srinivasam, Peddakapu Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Peddakapu Colony",
+    "latitude": 13.630894099999999,
+    "longitude": 79.4276296,
+    "place_id": "ChIJ63EMZahLTToRiodVUheVt7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63EMZahLTToRiodVUheVt7Y",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:40:04"
+  },
+  {
+    "business_name": "Dileep Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer, Wholesale Food Store",
+    "pincode": "517520",
+    "phone_number": "+91 94402 70991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10-3-222A, Kotakommala St, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6349015,
+    "longitude": 79.4186599,
+    "place_id": "ChIJvd9BEgRLTToR8K9sT7EDXM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvd9BEgRLTToR8K9sT7EDXM8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:40:04"
+  }
+]

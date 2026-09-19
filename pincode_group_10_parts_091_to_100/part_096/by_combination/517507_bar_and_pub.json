@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PCR wine shop",
+    "search_category": "Bar and Pub",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "517507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 53,
+    "address": "JFJ4+8F9, SV Auto Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "SV Auto Nagar",
+    "latitude": 13.6307832,
+    "longitude": 79.45623789999999,
+    "place_id": "ChIJb-AVesVLTToRjo7wjB74neo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-AVesVLTToRjo7wjB74neo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:18"
+  },
+  {
+    "business_name": "Goa Wines",
+    "search_category": "Bar and Pub",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "517507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 93,
+    "address": "JCJG+RX9, 3rd Rd, Tata Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Tata Nagar",
+    "latitude": 13.6320417,
+    "longitude": 79.42749169999999,
+    "place_id": "ChIJg7q5wxpLTToRxX3DCCn2Ycc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7q5wxpLTToRxX3DCCn2Ycc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:18"
+  }
+]

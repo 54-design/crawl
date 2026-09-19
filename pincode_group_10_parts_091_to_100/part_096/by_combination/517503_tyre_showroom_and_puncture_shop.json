@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vaari Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "517503",
+    "phone_number": "+91 84999 19444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JF87+3GC, Daminedu, Tirupati, Andhra Pradesh 517503",
+    "area": "517503",
+    "latitude": 13.6151112,
+    "longitude": 79.4640673,
+    "place_id": "ChIJPSyGQABLTToRlLzCcWEY2KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSyGQABLTToRlLzCcWEY2KU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:12"
+  },
+  {
+    "business_name": "Bulli Puncture Shop",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire repair shop",
+    "all_categories": "Tire repair shop, Tire shop",
+    "pincode": "517503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "Ploat, No.18/80Tiruchanoor, Rd, Padmavathi Puram, Korramenugunta, mayabajapakkanaTirupati, Tirupati, Andhra Pradesh 517503",
+    "area": "Padmavathi Puram, Korramenugunta",
+    "latitude": 13.619714799999999,
+    "longitude": 79.43560959999999,
+    "place_id": "ChIJCatpa1lLTToRBd1uneGzfes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCatpa1lLTToRBd1uneGzfes",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:13"
+  }
+]

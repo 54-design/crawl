@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prithvi Lodge",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "517416",
+    "phone_number": "+91 85722 26905",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "6494+25J, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "KR Palli",
+    "latitude": 13.2175797,
+    "longitude": 79.1053833,
+    "place_id": "ChIJ_yE_C6perTsR4zdXUwaziFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yE_C6perTsR4zdXUwaziFE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:06:37"
+  },
+  {
+    "business_name": "Mango Tranquil Luxury Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "517416",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/mango_tranquil",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chandragiri, Mittapalem, Andhra Pradesh 517102",
+    "area": "517416",
+    "latitude": 13.6154283,
+    "longitude": 79.3145603,
+    "place_id": "ChIJS3WLGAC1sjsRxyLlPd3RvLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3WLGAC1sjsRxyLlPd3RvLQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:06:37"
+  }
+]

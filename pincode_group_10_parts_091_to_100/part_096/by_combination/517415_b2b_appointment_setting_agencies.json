@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB Client Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business administration service",
+    "all_categories": "Business administration service, Service establishment",
+    "pincode": "517415",
+    "phone_number": "07778 031146",
+    "website": "https://abclientsolutions.co.uk/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "AB Client Solutions, 517415, India",
+    "area": "517415",
+    "latitude": 51.1172726,
+    "longitude": 0.5456238999999999,
+    "place_id": "ChIJzcEMB4VJ30cRZAGbflqqZnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcEMB4VJ30cRZAGbflqqZnc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:05:24"
+  },
+  {
+    "business_name": "Business Engagement Consultancy",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "517415",
+    "phone_number": "N/A",
+    "website": "https://b2bengagementconsultancy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Business Engagement Consultancy, 517415, India",
+    "area": "517415",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJH1oCv9KVlmoRnhQSW6QB3Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1oCv9KVlmoRnhQSW6QB3Y0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:05:24"
+  }
+]

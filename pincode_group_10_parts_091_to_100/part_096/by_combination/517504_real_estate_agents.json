@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YODHAA REALTY",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "517504",
+    "phone_number": "N/A",
+    "website": "https://www.yodhaarealty.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "SHELL PETROL BUNK, 22-4-99/7, road, opposite ROAD, Tirumala Reddy Nagar, Mangalam, Tirupati, Andhra Pradesh 517501",
+    "area": "Tirumala Reddy Nagar, Mangalam",
+    "latitude": 13.646645,
+    "longitude": 79.4454136,
+    "place_id": "ChIJFVV6gNxLTToRXt0gmxflcq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVV6gNxLTToRXt0gmxflcq8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:01"
+  },
+  {
+    "business_name": "KMR INFRA DEVELOPERS PVT LTD (Tirupati)",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company, Industrial real estate agency",
+    "pincode": "517504",
+    "phone_number": "N/A",
+    "website": "https://kmrinfradevlopers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "20-3-5/3, Siva Jyothi Nagar, near KBR HOTAL, Meghdoot Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Meghdoot Nagar",
+    "latitude": 13.6493373,
+    "longitude": 79.42596429999999,
+    "place_id": "ChIJi2Ol9E1LTToRJ8zinxeLba0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2Ol9E1LTToRJ8zinxeLba0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:02"
+  }
+]

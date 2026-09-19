@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.V.J.POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "517415",
+    "phone_number": "+91 96636 01999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5GW7+WRJ, Nangali - Tayalur Rd, Gummakal, B.Kurubarahalli, Karnataka 563132",
+    "area": "517415",
+    "latitude": 13.1973448,
+    "longitude": 78.5145124,
+    "place_id": "ChIJKZJz_HuGrTsREEMGhY4PQM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZJz_HuGrTsREEMGhY4PQM0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:04:15"
+  },
+  {
+    "business_name": "SAI DENTAL CLINIC PILER",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517415",
+    "phone_number": "+91 78931 95163",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 68,
+    "address": "MW4V+45R, Pileru, Bodumalluvaripalle, Pileru, Andhra Pradesh 517214",
+    "area": "Pileru",
+    "latitude": 13.655351999999999,
+    "longitude": 78.9428875,
+    "place_id": "ChIJ-4hCDpCVsjsRzJJaTqKgOds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4hCDpCVsjsRzJJaTqKgOds",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:04:15"
+  }
+]

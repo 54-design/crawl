@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya Business Point",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Prepaid SIM card store",
+    "pincode": "517505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2-142, Gym Street, beside Mahalakshmi Enterprises, New, Landmark:, Cherlopalli, Tirupati, Andhra Pradesh 517505",
+    "area": "New, Landmark:",
+    "latitude": 13.6158073,
+    "longitude": 79.3654166,
+    "place_id": "ChIJFRGgLL21sjsRSJ3gUttjHso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRGgLL21sjsRSJ3gUttjHso",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:35:46"
+  },
+  {
+    "business_name": "Sigma Cell communications",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "517505",
+    "phone_number": "+91 877 659 6203",
+    "website": "http://www.sigmaaldrich.com/life-science/cell-culture.html",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Anna Rao Circle, KT Rd, Srinivasa Nagar, N G O Colony, Tirupati, Andhra Pradesh 517507",
+    "area": "Srinivasa Nagar, N G O Colony",
+    "latitude": 13.6469259,
+    "longitude": 79.4192265,
+    "place_id": "ChIJiazc-_tKTToRxSfWy1fu1g4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiazc-_tKTToRxSfWy1fu1g4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:35:47"
+  }
+]

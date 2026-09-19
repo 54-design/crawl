@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bulls gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Pepper fry.com, building, Karakambadi Rd, near american bar, Madhav Nagar, Shiv Jyoti Nagar, Tirupati, Andhra Pradesh 517507",
+    "area": "Madhav Nagar, Shiv Jyoti Nagar",
+    "latitude": 13.6427895,
+    "longitude": 79.4313078,
+    "place_id": "ChIJpf7JsOZLTToRtfWHQqOsBcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf7JsOZLTToRtfWHQqOsBcs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:33:03"
+  },
+  {
+    "business_name": "7T5 boutique fitness /Beats Fitness studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gymnasium school, Physical fitness program, Weight loss service",
+    "pincode": "517504",
+    "phone_number": "+91 63006 56425",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 237,
+    "address": "ORM Fantasy, 1st & 2nd Floor, Hare Krishna Rd, Near Iscon Temple, Vinayaka Nagar, Tirupati, Andhra Pradesh 517507",
+    "area": "Srinivasa Nagar, Vinayaka Nagar",
+    "latitude": 13.647759299999999,
+    "longitude": 79.4158461,
+    "place_id": "ChIJkWYncPtKTToRNF_JP4IZYmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWYncPtKTToRNF_JP4IZYmg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:33:03"
+  }
+]

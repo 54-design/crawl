@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIVASAKTHI TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "517426",
+    "phone_number": "+91 94439 64163",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "BOOPATHI STREET, RCS MAIN ROAD, near KALIYAMMAN KOVIL, Natrampalli, Tamil Nadu 635852",
+    "area": "517426",
+    "latitude": 12.587124399999999,
+    "longitude": 78.5039992,
+    "place_id": "ChIJEcYAqQWtrTsRkgBlSNdlOmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcYAqQWtrTsRkgBlSNdlOmY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:22:07"
+  },
+  {
+    "business_name": "GM Holidays",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "517426",
+    "phone_number": "+91 63811 72715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Arasamara Street, Kodaiyanchi, Tamil Nadu 635801",
+    "area": "517426",
+    "latitude": 12.6683425,
+    "longitude": 78.5811301,
+    "place_id": "ChIJ_xs-IaOprTsRiDz038oErag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xs-IaOprTsRiDz038oErag",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:22:07"
+  }
+]

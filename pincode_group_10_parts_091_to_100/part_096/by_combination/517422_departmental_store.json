@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mama store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "517422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Arigavarapalli, gudiyatham, Dakshinapathapalayam, Tamil Nadu 632603",
+    "area": "Arigavarapalli",
+    "latitude": 13.056532599999999,
+    "longitude": 78.947081,
+    "place_id": "ChIJj3LjsXpprTsR-XR4lza3c80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3LjsXpprTsR-XR4lza3c80",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:28"
+  },
+  {
+    "business_name": "DAYA GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Wholesaler",
+    "pincode": "517422",
+    "phone_number": "+91 93934 96111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "18-822, Ponniamman Koil St, Mittoor, Chittoor, Andhra Pradesh 517001",
+    "area": "Mittoor",
+    "latitude": 13.216673199999999,
+    "longitude": 79.09902369999999,
+    "place_id": "ChIJ_WIO3-xdrTsRx1g-ijRu6p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WIO3-xdrTsRx1g-ijRu6p4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:31"
+  }
+]

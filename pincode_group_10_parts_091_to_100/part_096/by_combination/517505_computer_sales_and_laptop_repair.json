@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Gallery",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store, Computer security service, Data recovery service",
+    "pincode": "517505",
+    "phone_number": "+91 90324 88860",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "Ramakrishna Delux Circle, No: 5-5-326/C, Reservoir Road, Ramakrishna Paradise Apartment, Tirupati, Andhra Pradesh 517501",
+    "area": "Sarojini Devi Layout",
+    "latitude": 13.6382166,
+    "longitude": 79.4110724,
+    "place_id": "ChIJC8bmchpLTToRkt7koYa-Eik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8bmchpLTToRkt7koYa-Eik",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:35:44"
+  },
+  {
+    "business_name": "PRINTECH COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Printer repair service, Printer ink refill store, Printing equipment supplier",
+    "pincode": "517505",
+    "phone_number": "+91 99631 72828",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 70,
+    "address": "Shop No. 70 SRIDEVI COMPLEX, Tilak Rd, Tirupati, Andhra Pradesh 517501",
+    "area": "Other, Kotramangalam",
+    "latitude": 13.6341133,
+    "longitude": 79.4213889,
+    "place_id": "ChIJ0U4tuy9LTToRRAt_57iZMQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U4tuy9LTToRRAt_57iZMQQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:35:44"
+  }
+]

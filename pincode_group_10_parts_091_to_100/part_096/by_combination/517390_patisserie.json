@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SV Sweets&Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517390",
+    "phone_number": "+91 94416 01190",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 142,
+    "address": "Sathyavedu Rd, Satyavedu, Andhra Pradesh 517588",
+    "area": "517390",
+    "latitude": 13.438994899999999,
+    "longitude": 79.9567302,
+    "place_id": "ChIJ_XJlQXx7TToRj9_-MAlgBAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XJlQXx7TToRj9_-MAlgBAE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:53:36"
+  },
+  {
+    "business_name": "Venkatesh General Store Cum Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Service establishment",
+    "pincode": "517390",
+    "phone_number": "+91 98666 78139",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Venkatesh General Store Cum Bakery, 517390, India",
+    "area": "517390",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJNTNpvEw3sjsRAheq1VbaqhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTNpvEw3sjsRAheq1VbaqhM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:53:37"
+  }
+]

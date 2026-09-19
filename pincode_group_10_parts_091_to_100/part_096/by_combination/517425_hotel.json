@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murugan Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517425",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 23,
+    "address": "Newpet kuppam, 17-143, Bairaganipalle (Rural), Andhra Pradesh 517425",
+    "area": "Chinnakurbalapalle Rural",
+    "latitude": 12.744588,
+    "longitude": 78.342274,
+    "place_id": "ChIJLQWmss25rTsR3M2DR_nqRbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQWmss25rTsR3M2DR_nqRbE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:20:45"
+  },
+  {
+    "business_name": "Hotel keshava",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517425",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "KES Nagar, Kuppam, Pedda Bangarunatham, Andhra Pradesh 517425",
+    "area": "517425",
+    "latitude": 12.721447699999999,
+    "longitude": 78.3601467,
+    "place_id": "ChIJ5abzJKG3rTsRmcm4v-iXLi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5abzJKG3rTsRmcm4v-iXLi0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:20:45"
+  }
+]

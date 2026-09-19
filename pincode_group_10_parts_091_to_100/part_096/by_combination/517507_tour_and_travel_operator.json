@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TT Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Car leasing service, Taxi service, Tour agency, Tour operator, Tourist attraction",
+    "pincode": "517507",
+    "phone_number": "+91 88869 88835",
+    "website": "https://tttourstirupati-oss.github.io/tt-tours-packages/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "4-31, Govinda Nagar, Madhav Nagar, Shiv Jyoti Nagar, Tirupati, Andhra Pradesh 517520",
+    "area": "Madhav Nagar, Shiv Jyoti Nagar",
+    "latitude": 13.6433615,
+    "longitude": 79.4318036,
+    "place_id": "ChIJqcy16bxLTToRSZPLhafqsv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcy16bxLTToRSZPLhafqsv8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:44"
+  },
+  {
+    "business_name": "Royal tours & travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Travel agency",
+    "pincode": "517507",
+    "phone_number": "+91 93983 66790",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Rajiv Gandhi Jct Rd, Nagar, Jeevakona, Tirupati, Andhra Pradesh 517501",
+    "area": "Nagar, Jeevakona",
+    "latitude": 13.6505007,
+    "longitude": 79.4300172,
+    "place_id": "ChIJhyjWbelLTToR9UGU4W-D2xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyjWbelLTToR9UGU4W-D2xo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:44"
+  }
+]

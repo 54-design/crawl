@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Service (Bhargavi Auto)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517424",
+    "phone_number": "+91 8071 648 334",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-venkatagirikota",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "M/s Bhargavi Automobiles, Beside Indial Oil Bunk, GMR Funtion Hall Darasalla, Pallikuppam, Kuppam Road, Patrapalle, Andhra Pradesh 517424",
+    "area": "Raghubir Nagar",
+    "latitude": 13.001167599999999,
+    "longitude": 78.4794568,
+    "place_id": "ChIJ_whIeZeZrTsRPn2dUlgSqFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_whIeZeZrTsRPn2dUlgSqFY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:18:37"
+  },
+  {
+    "business_name": "Ashok Leyland Service Centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517424",
+    "phone_number": "+91 89777 42408",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Kuppam Road, Venkatagirikota, Panthanahalli, Karnataka 563136",
+    "area": "517424",
+    "latitude": 12.9886802,
+    "longitude": 78.4712224,
+    "place_id": "ChIJO_YjO7-XrTsR7n8bHhdMjbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_YjO7-XrTsR7n8bHhdMjbU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:18:38"
+  }
+]

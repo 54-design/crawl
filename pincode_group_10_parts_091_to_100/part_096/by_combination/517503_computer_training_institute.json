@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambient Software Training Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "517503",
+    "phone_number": "+91 88014 03939",
+    "website": "http://www.ambientcomputers.in/",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "3-132/1, Post Office St, Gowri Nagar, Thukivakam, Tirupati, Andhra Pradesh 517520",
+    "area": "Gowri Nagar",
+    "latitude": 13.6369706,
+    "longitude": 79.5044345,
+    "place_id": "ChIJBffGiAVJTToRufOLCZTJaBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBffGiAVJTToRufOLCZTJaBY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:48"
+  },
+  {
+    "business_name": "Victory Technical Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Computer accessories store, Computer consultant, Computer repair service, Computer service, Computer store, Education center, Educational institution",
+    "pincode": "517503",
+    "phone_number": "+91 77022 63141",
+    "website": "https://sites.google.com/view/victory-technical-institute/home",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "shop-3, 9/92, Arch Road, YOGIMALLAVARAM, Yogimallavaram, Tiruchanur, Andhra Pradesh 517503",
+    "area": "YOGIMALLAVARAM, Yogimallavaram, Tiruchanur",
+    "latitude": 13.6102408,
+    "longitude": 79.4434239,
+    "place_id": "ChIJ1yDO9eRLTToRn4Jcdw1BxX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yDO9eRLTToRn4Jcdw1BxX8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:31:51"
+  }
+]

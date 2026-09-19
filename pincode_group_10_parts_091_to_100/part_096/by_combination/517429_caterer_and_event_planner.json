@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palmshore Restaurant Ashok Nagar",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Barbecue restaurant",
+    "all_categories": "Barbecue restaurant, Grill, Banquet hall, Buffet restaurant, Catering food and drink supplier, Chinese restaurant, Indian restaurant, Meal delivery, Takeout restaurant, Middle Eastern restaurant",
+    "pincode": "517429",
+    "phone_number": "+91 90436 02244",
+    "website": "https://www.palmshore.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "95, Jawaharlal Nehru Salai Jaffarkhanpett, near Kasi Theatre, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Kasi Estate, Ashok Nagar",
+    "latitude": 13.029863899999999,
+    "longitude": 80.2086365,
+    "place_id": "ChIJ-SWKKiBnUjoRa0uog6yWq9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SWKKiBnUjoRa0uog6yWq9E",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:24:16"
+  },
+  {
+    "business_name": "Copper Kitchen Vadapalani",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Banquet hall, Biryani restaurant, Chettinad restaurant, Chinese restaurant, Halal restaurant, Meal delivery, Takeout restaurant, Restaurant supply store",
+    "pincode": "517429",
+    "phone_number": "+91 90437 40200",
+    "website": "http://www.copperkitchen.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "5, Arunachalam Rd, Rajendra Colony, Vadapalani, Chennai, Tamil Nadu 600093",
+    "area": "Rajendra Colony, Vadapalani",
+    "latitude": 13.0505801,
+    "longitude": 80.20369269999999,
+    "place_id": "ChIJ9QX7BMRmUjoRT6YKO9I2IbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QX7BMRmUjoRT6YKO9I2IbA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:24:16"
+  }
+]

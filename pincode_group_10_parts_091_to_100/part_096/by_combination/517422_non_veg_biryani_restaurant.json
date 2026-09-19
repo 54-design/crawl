@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhiruchi Multicuisine Family Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant",
+    "pincode": "517422",
+    "phone_number": "+91 96298 77788",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 2511,
+    "address": "No. 34A, K.E.V. Plaza, Auxillium College Road, 41a, 4th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "area": "Suthanthira Ponvizha Nagar, Gandhi Nagar",
+    "latitude": 12.9584742,
+    "longitude": 79.13835399999999,
+    "place_id": "ChIJd-v3S29HrTsR_RzQ4dXs6bU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-v3S29HrTsR_RzQ4dXs6bU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:37"
+  },
+  {
+    "business_name": "Bandhi Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Indian restaurant, Biryani restaurant",
+    "pincode": "517422",
+    "phone_number": "+91 76677 88147",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 688,
+    "address": "34/1 A, Katpadi Rd, opp. to cmc out gate, Thottapalayam, Vellore, Tamil Nadu 632004",
+    "area": "Thottapalayam",
+    "latitude": 12.9245603,
+    "longitude": 79.133286,
+    "place_id": "ChIJj3OpQ5U4rTsRk69xIBmcd5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3OpQ5U4rTsRk69xIBmcd5M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:37"
+  }
+]

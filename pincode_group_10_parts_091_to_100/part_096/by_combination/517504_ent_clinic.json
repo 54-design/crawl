@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhaya Ent Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "92, Old Maternity Hospital Rd, Bhavani Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Bhavani Nagar",
+    "latitude": 13.639182499999999,
+    "longitude": 79.4180945,
+    "place_id": "ChIJG3OORgJLTToR575-nVC_E0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3OORgJLTToR575-nVC_E0o",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:33:00"
+  },
+  {
+    "business_name": "ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "517504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JCP9+4GR, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6353694,
+    "longitude": 79.4187642,
+    "place_id": "ChIJR7_UX-xLTToRveJEaClvbDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7_UX-xLTToRveJEaClvbDg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:33:00"
+  }
+]

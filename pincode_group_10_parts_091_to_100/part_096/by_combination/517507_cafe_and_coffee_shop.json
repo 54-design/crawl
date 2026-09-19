@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaapi Dairies",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "JCXX+92J Kaapi Dairies Branch, Mangalam, Tirupati, Andhra Pradesh 517507",
+    "area": "Mangalam",
+    "latitude": 13.648466899999999,
+    "longitude": 79.4475239,
+    "place_id": "ChIJMWihrVVLTToR6WLMgFQ8k-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWihrVVLTToR6WLMgFQ8k-o",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:14"
+  },
+  {
+    "business_name": "Cherry’s Lounge",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517507",
+    "phone_number": "+91 83097 78582",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "22-4-59, JCXW+648, 22-4-59, Karakambadi Rd, beside Shell petrol bunk, near Dmart, Sri Venkateshwara Colony, Mangalam, Tirupati, Andhra Pradesh 517507",
+    "area": "Sri Venkateshwara Colony, Mangalam",
+    "latitude": 13.6479787,
+    "longitude": 79.44531549999999,
+    "place_id": "ChIJf6uAbT9LTToRK99X1SjI5Ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6uAbT9LTToRK99X1SjI5Ig",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:15"
+  }
+]

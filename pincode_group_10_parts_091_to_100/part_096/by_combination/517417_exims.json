@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DM SOURCE EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "517417",
+    "phone_number": "+91 94447 55619",
+    "website": "http://dmexim.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "65QF+C8, Perumalai R.F., Punnapatti, Tamil Nadu 624401",
+    "area": "517417",
+    "latitude": 10.2385906,
+    "longitude": 78.1733509,
+    "place_id": "ChIJLTnMTQClADsRJUZrJX2GYwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTnMTQClADsRJUZrJX2GYwo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:00"
+  },
+  {
+    "business_name": "GALAXY EXIMM",
+    "search_category": "EXIMS",
+    "primary_category": "Chemical Exporter",
+    "all_categories": "Chemical Exporter",
+    "pincode": "517417",
+    "phone_number": "+91 94425 57588",
+    "website": "https://galaxyeximm.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14/63-5, Ayeepalayam Athanoor (P.O, Rasipuram (T.K, Tamil Nadu 636301",
+    "area": "517417",
+    "latitude": 11.5117134,
+    "longitude": 78.14944059999999,
+    "place_id": "ChIJDScKBAvpqzsRRxDFN8CnhYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDScKBAvpqzsRRxDFN8CnhYI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:00"
+  }
+]

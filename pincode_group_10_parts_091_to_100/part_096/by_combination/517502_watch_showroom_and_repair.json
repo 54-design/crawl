@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Times",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Cell phone store",
+    "pincode": "517502",
+    "phone_number": "+91 98851 73806",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 37,
+    "address": "203, Gandhi Road, Tirupati, Andhra Pradesh 517501",
+    "area": "Balaji Colony",
+    "latitude": 13.6312272,
+    "longitude": 79.4152696,
+    "place_id": "ChIJ0SaRPgVLTToR65Fahnq71fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SaRPgVLTToR65Fahnq71fQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:02"
+  },
+  {
+    "business_name": "M D watch corner",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "517502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "lay out, D. No.18-1-504,Y.R.R. complex, opp. Income tax office, Bhavani Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Bhavani Nagar",
+    "latitude": 13.637703799999999,
+    "longitude": 79.41881049999999,
+    "place_id": "ChIJnacGpplLTToROIq2lPu-yT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnacGpplLTToROIq2lPu-yT0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Food",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fast food restaurant",
+    "pincode": "517502",
+    "phone_number": "+91 93953 88075",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "606, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Bairagi patteda",
+    "latitude": 13.6180509,
+    "longitude": 79.42401459999999,
+    "place_id": "ChIJBZUrSnVLTToRfn5EmKVooSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZUrSnVLTToRfn5EmKVooSk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:44"
+  },
+  {
+    "business_name": "IMPULSE EVENTS AND CATERING",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "517502",
+    "phone_number": "+91 60007 06037",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Dharmapur Path, Beltola Tiniali, Guwahati, Assam 781028",
+    "area": "Beltola Tiniali",
+    "latitude": 26.124178,
+    "longitude": 91.8000685,
+    "place_id": "ChIJj-KQ39BfWjcRywewwnrgGCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-KQ39BfWjcRywewwnrgGCE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagya Lakshmi Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "517391",
+    "phone_number": "+91 95353 08657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Chelur, Karnataka 563124",
+    "area": "517391",
+    "latitude": 13.7078256,
+    "longitude": 78.0980941,
+    "place_id": "ChIJ3W1mBgAjsjsRs1JKWxZKe7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3W1mBgAjsjsRs1JKWxZKe7c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:55:19"
+  },
+  {
+    "business_name": "M Seenu Sah Silk Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Boutique, Silk store",
+    "pincode": "517391",
+    "phone_number": "+91 94437 24065",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "65/24, Sheikpet Nadu St, opp. Taluka Office, Ennaikaran, Kanchipuram, Tamil Nadu 631501",
+    "area": "Ennaikaran",
+    "latitude": 12.8331255,
+    "longitude": 79.7051183,
+    "place_id": "ChIJ--Im4VfCUjoRG05DoqXXhN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--Im4VfCUjoRG05DoqXXhN4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:55:21"
+  }
+]

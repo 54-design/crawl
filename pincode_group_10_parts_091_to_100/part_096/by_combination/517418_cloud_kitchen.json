@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YUMNAS THE CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517418",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@Yumnasvlogs?si=2mSYYm0V3MhAJVfc",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-257, behind SBI ATM, Society Colony, Ponnetipalem Rural, Andhra Pradesh 517325",
+    "area": "Society Colony",
+    "latitude": 13.564262,
+    "longitude": 78.4941176,
+    "place_id": "ChIJt5w4bwBnsjsRYOqAHJCs7jQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5w4bwBnsjsRYOqAHJCs7jQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:21"
+  },
+  {
+    "business_name": "DevAnsh Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517418",
+    "phone_number": "+91 84510 11497",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gurukrupa Garden, Balaji Layout, Janata Colony, Amrutahalli, Yellankha, Bengaluru, Karnataka 560092",
+    "area": "Balaji Layout, Janata Colony, Amrutahalli, Yellankha",
+    "latitude": 13.0631018,
+    "longitude": 77.60428619999999,
+    "place_id": "ChIJYUINrQEZrjsRx1vvS37DKIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUINrQEZrjsRx1vvS37DKIw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:22"
+  }
+]

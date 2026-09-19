@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xpres Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "517505",
+    "phone_number": "+91 98941 91111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Regional Transport Office Rd, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "area": "Phase 2, Sathuvachari",
+    "latitude": 12.932679199999999,
+    "longitude": 79.1566526,
+    "place_id": "ChIJqRbhXy05rTsRmuROltZnsAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRbhXy05rTsRmuROltZnsAI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:35:40"
+  },
+  {
+    "business_name": "Thandava Dance Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Dance company",
+    "pincode": "517505",
+    "phone_number": "+91 98659 56825",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "rangasamy kulam, 79 B, Vilakadi Koil St, Kanchipuram, Tamil Nadu 631502",
+    "area": "517505",
+    "latitude": 12.8233476,
+    "longitude": 79.70867989999999,
+    "place_id": "ChIJT_ZFylfCUjoRr4CGD6tGQdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_ZFylfCUjoRr4CGD6tGQdg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:35:40"
+  }
+]

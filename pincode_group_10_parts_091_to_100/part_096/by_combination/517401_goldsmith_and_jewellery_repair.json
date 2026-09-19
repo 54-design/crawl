@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARK jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "517401",
+    "phone_number": "+91 96982 81963",
+    "website": "https://www.arkjewels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "34/A, Pallipattu Road, Mettupalayam, Jaffarabad, Madanancheri, Tamil Nadu 635754",
+    "area": "Mettupalayam, Jaffarabad",
+    "latitude": 12.6918204,
+    "longitude": 78.6107346,
+    "place_id": "ChIJySCo3qaprTsRmAC8h62hgQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySCo3qaprTsRmAC8h62hgQU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:57:07"
+  },
+  {
+    "business_name": "Ramesh Jewellerys & Work Shop",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "517401",
+    "phone_number": "+91 87909 22547",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "1/83/A/3, Bhavani Colony, Veera Reddy Nagar, Bayanna Nagar, Boduppal, Hyderabad, Telangana 500092",
+    "area": "Bhavani Colony, Veera Reddy Nagar, Bayanna Nagar, Boduppal",
+    "latitude": 17.421592999999998,
+    "longitude": 78.5823092,
+    "place_id": "ChIJey110fCfyzsRWnDFezGD2sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey110fCfyzsRWnDFezGD2sQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 05:57:10"
+  }
+]

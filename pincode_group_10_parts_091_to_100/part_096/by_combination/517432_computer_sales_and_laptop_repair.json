@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electronics",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "517432",
+    "phone_number": "+91 91508 00043",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Kannikapuram, Nellorepettai, Tamil Nadu 632604",
+    "area": "Kannikapuram",
+    "latitude": 12.945324099999999,
+    "longitude": 78.83761109999999,
+    "place_id": "ChIJKchy8KdyrTsR4syOYS0jAms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKchy8KdyrTsR4syOYS0jAms",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:26:11"
+  },
+  {
+    "business_name": "INDIAN SYSTEMS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "517432",
+    "phone_number": "+91 97875 59222",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "204A, Colourpalayam ERTHANGAL, GUDIYATHAM, Tamil Nadu 632604",
+    "area": "517432",
+    "latitude": 12.948879199999999,
+    "longitude": 78.8299794,
+    "place_id": "ChIJAa2STMNzrTsRio2mFCAgQZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAa2STMNzrTsRio2mFCAgQZI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:26:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Qwickwash laundry services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "517419",
+    "phone_number": "+91 80194 29333",
+    "website": "http://qwickwash.com/",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "34-1400, next to ayyappa temple, Murakambattu, Chittoor, Andhra Pradesh 517127",
+    "area": "517419",
+    "latitude": 13.254314599999999,
+    "longitude": 79.12068769999999,
+    "place_id": "ChIJsbZzMQBZrTsRqd8AqTpkIxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbZzMQBZrTsRqd8AqTpkIxs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:12:21"
+  },
+  {
+    "business_name": "star pest control",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "517419",
+    "phone_number": "+91 89030 23737",
+    "website": "https://www.starpestcontrol.co.in/",
+    "rating": 4.9,
+    "reviews_count": 170,
+    "address": "2-851/4, 3rd floor, Venkateswara Colony, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "Venkateswara Colony, KR Palli",
+    "latitude": 13.2133322,
+    "longitude": 79.1146413,
+    "place_id": "ChIJnYNYcYxbrTsRw4bpDzTZEOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYNYcYxbrTsRw4bpDzTZEOA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:12:21"
+  }
+]

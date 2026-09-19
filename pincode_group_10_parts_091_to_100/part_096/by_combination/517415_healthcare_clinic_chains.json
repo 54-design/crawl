@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishi Valley Rural Health Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517415",
+    "phone_number": "+91 85712 80086",
+    "website": "https://www.rishivalley.org/rural-health-centre",
+    "rating": 4.4,
+    "reviews_count": 39,
+    "address": "JFR3+M3V, Rishi Valley School, Andhra Pradesh 517352",
+    "area": "Rishi Valley",
+    "latitude": 13.6417421,
+    "longitude": 78.4526764,
+    "place_id": "ChIJg33Oix9osjsRuCxyWsVMkNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg33Oix9osjsRuCxyWsVMkNE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:04:18"
+  },
+  {
+    "business_name": "PES Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517415",
+    "phone_number": "N/A",
+    "website": "https://pesimsr.pes.edu/",
+    "rating": 4.5,
+    "reviews_count": 200,
+    "address": "PES Hospital, Located in PES Institute of Medical Sciences and Research NH- 219, Nalagampalle, Andhra Pradesh 517425",
+    "area": "517415",
+    "latitude": 12.7897734,
+    "longitude": 78.36475639999999,
+    "place_id": "ChIJW8ChGoW5rTsRvRmaV7xjXjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8ChGoW5rTsRvRmaV7xjXjI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:04:18"
+  }
+]

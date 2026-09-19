@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Your specs",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center, Optical Wholesaler, Sunglasses store",
+    "pincode": "517520",
+    "phone_number": "+91 95150 96062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Leelamahal circle, Tirumala Bypass Rd, adjacent Keerthi medicals, Srinivasa Nagar, Korlagunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Srinivasa Nagar, Korlagunta",
+    "latitude": 13.641334299999999,
+    "longitude": 79.4273528,
+    "place_id": "ChIJNzspWSJLTToRg9RGFm9SX1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzspWSJLTToRg9RGFm9SX1k",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:40:25"
+  },
+  {
+    "business_name": "PS OPTICALS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "517520",
+    "phone_number": "+91 91606 88899",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "Ramulavari Temple, Narth Mada Street, near Chinna Bazar Street, Nehru Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Nehru Nagar",
+    "latitude": 13.635305899999999,
+    "longitude": 79.4156648,
+    "place_id": "ChIJkVeamQRLTToRHTTz4V4cEZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVeamQRLTToRHTTz4V4cEZ0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:40:25"
+  }
+]

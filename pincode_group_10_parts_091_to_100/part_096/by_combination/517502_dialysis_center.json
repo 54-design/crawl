@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AADHYA KIDNEY CENTRE",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J9CP+XX4, Gandhi Rd, L. S. Nagar, Lakshmi Srinivasa Nagar, Vidya Nagar Colony, peruru, Andhra Pradesh 517502",
+    "area": "L. S. Nagar, Lakshmi Srinivasa Nagar, Vidya Nagar Colony",
+    "latitude": 13.6223815,
+    "longitude": 79.3874527,
+    "place_id": "ChIJ1RejyjZLTToRPx1kq1aiyE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RejyjZLTToRPx1kq1aiyE0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:11"
+  },
+  {
+    "business_name": "Suguna Kidney and Multispeciality Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Nephrologist",
+    "pincode": "517502",
+    "phone_number": "+91 877 225 5610",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 20,
+    "address": "18-1-647, opposite to OM hospitals, RS Gardens, Tirupati, Andhra Pradesh 517501",
+    "area": "RS Gardens",
+    "latitude": 13.6379162,
+    "longitude": 79.4228254,
+    "place_id": "ChIJ8eyaSgFLTToRHkv5RICf3w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eyaSgFLTToRHkv5RICf3w0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:13"
+  }
+]

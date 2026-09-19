@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOFIA Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile phone repair shop, Repair service",
+    "pincode": "517526",
+    "phone_number": "+91 82485 74959",
+    "website": "https://mofia.in/",
+    "rating": 4.9,
+    "reviews_count": 5226,
+    "address": "2/14, VOC STREET, Ambal Nagar Main Rd, Ambal Nagar, Ekkatuthangal, Chennai, Tamil Nadu 600032",
+    "area": "Ambal Nagar, Ekkatuthangal",
+    "latitude": 13.017927499999999,
+    "longitude": 80.2038178,
+    "place_id": "ChIJ7we0S8lnUjoRF8CfQgkA2P8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7we0S8lnUjoRF8CfQgkA2P8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:43:11"
+  },
+  {
+    "business_name": "Star Mobiles Nungambakkam",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store",
+    "pincode": "517526",
+    "phone_number": "+91 70103 34025",
+    "website": "http://www.starmobiles.in/",
+    "rating": 4.5,
+    "reviews_count": 5344,
+    "address": "Eldorado Building, Nungambakkam High Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600034",
+    "area": "Thousand Lights West, Thousand Lights",
+    "latitude": 13.060962499999999,
+    "longitude": 80.2474333,
+    "place_id": "ChIJ96nes9RnUjoRwsZ-YVGe7yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96nes9RnUjoRwsZ-YVGe7yk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:43:11"
+  }
+]

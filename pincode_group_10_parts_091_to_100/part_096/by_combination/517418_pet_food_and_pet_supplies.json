@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMK Pets World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "517418",
+    "phone_number": "+91 81063 61325",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "6-116-2, above, near Balijagadda Street, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517418",
+    "latitude": 13.7849718,
+    "longitude": 78.58982999999999,
+    "place_id": "ChIJ5SUlBCNZsjsR1epZaiiRGJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SUlBCNZsjsR1epZaiiRGJ8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:15"
+  },
+  {
+    "business_name": "Sri lakshmi Venkateswara traders",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "517418",
+    "phone_number": "+91 97012 66531",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Gurramkonda, Andhra Pradesh 517297",
+    "area": "517418",
+    "latitude": 13.7814924,
+    "longitude": 78.589618,
+    "place_id": "ChIJl7vUGadZsjsRJ3X7kVfxkak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7vUGadZsjsRJ3X7kVfxkak",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:18"
+  }
+]

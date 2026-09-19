@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New College Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "517415",
+    "phone_number": "+91 98495 05143",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "K.Lakshmi Nilayam, Bangalore Rd, opp. B.T. College, P and T Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "P and T Colony",
+    "latitude": 13.5559228,
+    "longitude": 78.49938709999999,
+    "place_id": "ChIJy3j8P3VmsjsRQ-Z2zusr4Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3j8P3VmsjsRQ-Z2zusr4Hw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:04:57"
+  },
+  {
+    "business_name": "VIHAS STATIONARY & GIFTS",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "517415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2-25-B-F, Under Karnataka Bank, P R N Towers, Kadiri Rd, Madanapalle, Andhra Pradesh 517325",
+    "area": "Kuravanka, Society Colony",
+    "latitude": 13.5635084,
+    "longitude": 78.4990882,
+    "place_id": "ChIJSRW-LnxnsjsRkOQFT7zrUtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRW-LnxnsjsRkOQFT7zrUtY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:04:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavya beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "517426",
+    "phone_number": "+91 95509 35638",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JP Rd, Chinnakurbalapalle Rural, Bairaganipalle (Rural), Andhra Pradesh 517425",
+    "area": "Chinnakurbalapalle Rural",
+    "latitude": 12.7465557,
+    "longitude": 78.3368335,
+    "place_id": "ChIJi-gbIQC5rTsRKaXTYSRdASQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-gbIQC5rTsRKaXTYSRdASQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:22:20"
+  },
+  {
+    "business_name": "Nature glow beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "517426",
+    "phone_number": "+91 93452 31644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nature glow beauty parlour, Karapattu, Tamil Nadu 635306",
+    "area": "517426",
+    "latitude": 12.3630743,
+    "longitude": 78.54266609999999,
+    "place_id": "ChIJow8SgIFbrDsR5s0JHc38hRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow8SgIFbrDsR5s0JHc38hRE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:22:20"
+  }
+]

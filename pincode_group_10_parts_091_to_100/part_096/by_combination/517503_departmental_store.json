@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Habit Eats E-Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store, Chocolate shop, Gift shop, Stationery store, Wholesaler household appliances",
+    "pincode": "517503",
+    "phone_number": "+91 90001 25959",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "middle, Raghavendra nagar main road Near sgs arts college Ananta college to spdcl office, Tirupati, Andhra Pradesh 517501",
+    "area": "Raghavendra Nagar",
+    "latitude": 13.6183588,
+    "longitude": 79.42788639999999,
+    "place_id": "ChIJKYE5txdLTToR8PL7XjWYkzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYE5txdLTToR8PL7XjWYkzM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:30:32"
+  },
+  {
+    "business_name": "Sri Vasundhara super market",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517503",
+    "phone_number": "+91 95434 48527",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1-50/39/50-7, Vasundhara Nagar, Tiruchanur, Yogimallvaram, Andhra Pradesh 517503",
+    "area": "Vasundhara Nagar, Tiruchanur",
+    "latitude": 13.602755799999999,
+    "longitude": 79.44606809999999,
+    "place_id": "ChIJaZ9BLB9LTToRuhcalUkHwHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZ9BLB9LTToRuhcalUkHwHg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:30:32"
+  }
+]

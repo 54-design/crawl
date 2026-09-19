@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bairava Auto Mobiles",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "517408",
+    "phone_number": "+91 98497 11073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 3, Sai Nagar, Palamaner, Andhra Pradesh 517408",
+    "area": "Sai Nagar",
+    "latitude": 13.206831,
+    "longitude": 78.7375244,
+    "place_id": "ChIJE2q5l5F_rTsRjDnJj27RMbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2q5l5F_rTsRjDnJj27RMbU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:00:54"
+  },
+  {
+    "business_name": "EV HUB STORE",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "517408",
+    "phone_number": "+91 82474 79969",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "B.V.R, 12-160/8, Kummara St, Punganur, Andhra Pradesh 517247",
+    "area": "517408",
+    "latitude": 13.3605444,
+    "longitude": 78.57621929999999,
+    "place_id": "ChIJ040TiYp_sjsR8ppmL442dKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ040TiYp_sjsR8ppmL442dKE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:00:54"
+  }
+]

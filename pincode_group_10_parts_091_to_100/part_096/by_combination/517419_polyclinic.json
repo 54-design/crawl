@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healpuri Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517419",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narasinga Rayani Pet, Andhra Pradesh 517419",
+    "area": "517419",
+    "latitude": 13.1755362,
+    "longitude": 79.2091617,
+    "place_id": "ChIJ____b31QrTsRgHaRyId0x3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____b31QrTsRgHaRyId0x3Q",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:11:26"
+  },
+  {
+    "business_name": "Helapuri Poly Clinic Nursing Home",
+    "search_category": "Polyclinic",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "517419",
+    "phone_number": "+91 866 223 2002",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narasinga Rayani Pet, Andhra Pradesh 517419",
+    "area": "517419",
+    "latitude": 13.1755362,
+    "longitude": 79.2091617,
+    "place_id": "ChIJ____b31QrTsR2CSUnG9rkpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____b31QrTsR2CSUnG9rkpw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:11:26"
+  }
+]

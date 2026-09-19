@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DetailR",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "517526",
+    "phone_number": "+91 93929 29951",
+    "website": "https://detailr.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/10/1, 1, NH9, behind Varun Hospital, RC Reddy Colony, Bharat Heavy Electricals Limited, Ramachandrapuram, Hyderabad, Telangana 502032",
+    "area": "RC Reddy Colony, Bharat Heavy Electricals Limited",
+    "latitude": 17.5110516,
+    "longitude": 78.29353449999999,
+    "place_id": "ChIJGZ8hCIqTyzsR66EtSwdAiwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZ8hCIqTyzsR66EtSwdAiwE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:42:27"
+  },
+  {
+    "business_name": "NANDEESHWARA CAR CARE",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "517526",
+    "phone_number": "+91 75693 87660",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Cattle farm, Rajeev Nagar colony, Moram, Palamaner, Andhra Pradesh 517408",
+    "area": "Rajeev Nagar colony",
+    "latitude": 13.1903258,
+    "longitude": 78.700755,
+    "place_id": "ChIJQ9Mzygd5rTsRO8OCRlWElKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9Mzygd5rTsRO8OCRlWElKo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:42:28"
+  }
+]

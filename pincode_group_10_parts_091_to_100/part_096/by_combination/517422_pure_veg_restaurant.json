@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri krishna Bhavan",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517422",
+    "phone_number": "+91 81878 85401",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mittoor, Chittoor, Andhra Pradesh 517001",
+    "area": "Mittoor",
+    "latitude": 13.2164436,
+    "longitude": 79.1022073,
+    "place_id": "ChIJgcHDgsVdrTsR5GmncqBqkxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcHDgsVdrTsR5GmncqBqkxk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:36"
+  },
+  {
+    "business_name": "Veg gate(pure veg hotel)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "517422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QFJW+8M8, Somanahalli, Karnataka 560116",
+    "area": "517422",
+    "latitude": 12.780795399999999,
+    "longitude": 77.4966949,
+    "place_id": "ChIJjxDUNABDrjsRQL6repvkGAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxDUNABDrjsRQL6repvkGAY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:14:38"
+  }
+]

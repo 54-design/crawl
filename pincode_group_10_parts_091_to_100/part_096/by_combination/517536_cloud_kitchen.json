@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "517536",
+    "phone_number": "+91 62812 70895",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flat No 501 5th Floor, Sri Mukunda Enclave Satya Sagar Colony, Rd No. 3, Satavahana Nagar Colony, Satya Sagar Nagar, Vanasthalipuram, Hyderabad, Telangana 500070",
+    "area": "Satavahana Nagar Colony, Satya Sagar Nagar",
+    "latitude": 17.3166249,
+    "longitude": 78.5713571,
+    "place_id": "ChIJrYYP1HyhyzsRbLHtHfV-kpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYYP1HyhyzsRbLHtHfV-kpg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:43:51"
+  },
+  {
+    "business_name": "Moms Cloud Kitchenn",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "517536",
+    "phone_number": "+91 89776 28082",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RK Villa, 36-72, Defence Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Defence Colony, Sainikpuri",
+    "latitude": 17.4869959,
+    "longitude": 78.5370382,
+    "place_id": "ChIJJRPmsEObyzsRRKXdNoUQSS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRPmsEObyzsRRKXdNoUQSS0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:43:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DN Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517507",
+    "phone_number": "+91 91766 22874",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 88,
+    "address": "1a, Railway Sta Rd, Ramapuram, azharkan street, Alandur, St.Thomas Mount, Tamil Nadu 600016",
+    "area": "Ramapuram, azharkan street, Alandur",
+    "latitude": 13.0013831,
+    "longitude": 80.20091649999999,
+    "place_id": "ChIJR4LMcQBnUjoR8brk8C4N_EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4LMcQBnUjoR8brk8C4N_EI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:42"
+  },
+  {
+    "business_name": "Chendu Air",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "517507",
+    "phone_number": "+91 78932 36059",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 54,
+    "address": "police Station, Tirumala Bypass Rd, opp. Alipiri, Srinivasa Nagar, Shiv Jyoti Nagar, Tirupati, Andhra Pradesh 517507",
+    "area": "Srinivasa Nagar, Shiv Jyoti Nagar",
+    "latitude": 13.648759199999999,
+    "longitude": 79.4254486,
+    "place_id": "ChIJK-WSIFZKTToR1WXJt_nEIeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-WSIFZKTToR1WXJt_nEIeU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:38:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopi Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "517422",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "526Q+5C9, Yadamari, Andhra Pradesh 517422",
+    "area": "517422",
+    "latitude": 13.1604181,
+    "longitude": 79.0386237,
+    "place_id": "ChIJ3wMXU3JdrTsR8S8_N9cOmTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wMXU3JdrTsR8S8_N9cOmTQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:15:21"
+  },
+  {
+    "business_name": "Lucky Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "517422",
+    "phone_number": "+91 91105 08137",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "28, Yadamari, Andhra Pradesh 517422",
+    "area": "517422",
+    "latitude": 13.1597999,
+    "longitude": 79.0398053,
+    "place_id": "ChIJl27pGKFdrTsRHCLLgxCqrLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl27pGKFdrTsRHCLLgxCqrLQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:15:21"
+  }
+]

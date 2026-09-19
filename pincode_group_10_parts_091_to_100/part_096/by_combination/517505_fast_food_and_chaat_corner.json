@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel sri pavithra",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517505",
+    "phone_number": "+91 92475 63717",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "H8QC+WJ2, PN Rd, Chandragiri, Andhra Pradesh 517101",
+    "area": "517505",
+    "latitude": 13.5897545,
+    "longitude": 79.3215134,
+    "place_id": "ChIJcXTHms2zsjsRkC2hM3_Uj34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXTHms2zsjsRkC2hM3_Uj34",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:34"
+  },
+  {
+    "business_name": "Hotel Saravana Bavan",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Hotel",
+    "pincode": "517505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Bhanumati Rd, Balajy Colony, Tirumala, Tirupati Urban, Andhra Pradesh 517504",
+    "area": "Balajy Colony, Tirumala",
+    "latitude": 13.6777964,
+    "longitude": 79.3510433,
+    "place_id": "ChIJfeI4ngK1sjsRpvg-bdXUBAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeI4ngK1sjsRpvg-bdXUBAI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:34"
+  }
+]

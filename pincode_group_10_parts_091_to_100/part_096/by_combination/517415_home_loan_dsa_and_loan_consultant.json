@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HSR Finserv",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Investment service",
+    "pincode": "517415",
+    "phone_number": "+91 90308 18058",
+    "website": "https://hsrfinserv.in/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Anjana Enclave, 50-80-7/A, Gurudwara Junction, behind Vijaya Medical Centre, Near GVK Plaza, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "Near GVK Plaza, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7368113,
+    "longitude": 83.307687,
+    "place_id": "ChIJ4Q21LDdDOToRJ7aZRL8E6zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Q21LDdDOToRJ7aZRL8E6zA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:05:04"
+  },
+  {
+    "business_name": "DMS Associates",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "517415",
+    "phone_number": "+91 96036 66689",
+    "website": "http://www.dmsloanz.com/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Sri Sai Apartments, F No 201, Raghavendra Nagar Colony, Bhagayath Layout, Saraswathi Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Raghavendra Nagar Colony, Bhagayath Layout, Saraswathi Colony, Uppal",
+    "latitude": 17.3922772,
+    "longitude": 78.56260879999999,
+    "place_id": "ChIJHc3APNqfyzsRDjWRndyHJhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHc3APNqfyzsRDjWRndyHJhg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:05:06"
+  }
+]

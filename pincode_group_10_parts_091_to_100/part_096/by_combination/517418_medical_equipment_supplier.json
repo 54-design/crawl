@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life line medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "517418",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QHJQ+CCF, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517418",
+    "latitude": 13.7810799,
+    "longitude": 78.588608,
+    "place_id": "ChIJHa6qH4ZZsjsRxqW7pPVaolc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHa6qH4ZZsjsRxqW7pPVaolc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:41"
+  },
+  {
+    "business_name": "Sai Pavitra Medical Services",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "517418",
+    "phone_number": "+91 877 222 2492",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "JCJF+V44, Head Post Office St, Mallaiah Gunta Katta, Tata Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Mallaiah Gunta Katta, Tata Nagar",
+    "latitude": 13.6321371,
+    "longitude": 79.42282569999999,
+    "place_id": "ChIJ32QhrAdLTToRnDYJj4etzUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32QhrAdLTToRnDYJj4etzUY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:09:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MK Cakes",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517502",
+    "phone_number": "+91 96001 87007",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "RC road, Annamayya Circle, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Bairagi patteda",
+    "latitude": 13.6216876,
+    "longitude": 79.41792339999999,
+    "place_id": "ChIJ2W9rfylLTToRHYqe9bQIXdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2W9rfylLTToRHYqe9bQIXdU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:28:47"
+  },
+  {
+    "business_name": "BISOU AIR BYPASS ROAD",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Dessert shop",
+    "pincode": "517502",
+    "phone_number": "+91 82971 10849",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 146,
+    "address": "Air Bypass Rd, beside YAMAHA Showroom, Royal Nagar, Avilali, Andhra Pradesh 517502",
+    "area": "Royal Nagar",
+    "latitude": 13.6226787,
+    "longitude": 79.4131393,
+    "place_id": "ChIJYaL8awtLTToR2m-T1KkRA2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaL8awtLTToR2m-T1KkRA2Y",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:28:47"
+  }
+]

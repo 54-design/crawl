@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ortho Spine Hospital",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Dermatologist, Orthotics & Prosthetics Centre, Pain management physician, Orthopedic surgeon, Skin care clinic, Sports medicine physician",
+    "pincode": "517502",
+    "phone_number": "+91 97003 11155",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "10-13-508, ICICI Bank Lane, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6359204,
+    "longitude": 79.4209181,
+    "place_id": "ChIJf7sQSQFLTToRJ686mM6eczw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7sQSQFLTToRJ686mM6eczw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:09"
+  },
+  {
+    "business_name": "Sagar Hospital",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517502",
+    "phone_number": "+91 877 228 7888",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "151, Sairam Street, T. Nagar, Nehru Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "T. Nagar, Nehru Nagar",
+    "latitude": 13.6377554,
+    "longitude": 79.4177346,
+    "place_id": "ChIJYUTosQNLTToRcOx2FTKl1R4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUTosQNLTToRcOx2FTKl1R4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:29:10"
+  }
+]

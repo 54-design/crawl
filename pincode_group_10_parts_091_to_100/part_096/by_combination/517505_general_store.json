@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhu Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517505",
+    "phone_number": "+91 95811 11013",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1, Ambedkar Colony, Mallamgunta, Andhra Pradesh 517508",
+    "area": "517505",
+    "latitude": 13.6024517,
+    "longitude": 79.3945104,
+    "place_id": "ChIJYQLsIRZLTToR2HfuTMDwVcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQLsIRZLTToR2HfuTMDwVcI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:25"
+  },
+  {
+    "business_name": "Sri Sudha General Stores",
+    "search_category": "General Store",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "517505",
+    "phone_number": "+91 94411 16487",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "D No: 14, 94, Bazar St, Oldpet, Chandragiri, Andhra Pradesh 517101",
+    "area": "Oldpet",
+    "latitude": 13.5867718,
+    "longitude": 79.3152264,
+    "place_id": "ChIJZQjgfSu1sjsRAkdW4aCrRZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQjgfSu1sjsRAkdW4aCrRZE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:34:27"
+  }
+]

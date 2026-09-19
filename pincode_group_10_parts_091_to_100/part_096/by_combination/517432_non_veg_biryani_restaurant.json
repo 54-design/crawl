@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous special biryani point",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "517432",
+    "phone_number": "+91 96374 66477",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Loha - Kandhar Rd, Kandahar, Maharashtra 431714",
+    "area": "517432",
+    "latitude": 18.8754387,
+    "longitude": 77.17889199999999,
+    "place_id": "ChIJTX-kiUrNzzsRM5WkBjyilf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTX-kiUrNzzsRM5WkBjyilf8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:25:06"
+  },
+  {
+    "business_name": "waris chicken kabab centre",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517432",
+    "phone_number": "+91 63050 68219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RTC Depot, Road, opposite Chittoor, Palamaner, Andhra Pradesh 517408",
+    "area": "517432",
+    "latitude": 13.201231,
+    "longitude": 78.75388989999999,
+    "place_id": "ChIJMb7dK097rTsRh8gxErhBWbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMb7dK097rTsRh8gxErhBWbU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:25:09"
+  }
+]

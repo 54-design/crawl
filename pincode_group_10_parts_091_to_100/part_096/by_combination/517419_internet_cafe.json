@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srushti Infotech",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Passport Agent",
+    "pincode": "517419",
+    "phone_number": "+91 92472 94108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "puttur main road, Sowcar Sulaiman Colony, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "Sowcar Sulaiman Colony, KR Palli",
+    "latitude": 13.216549299999999,
+    "longitude": 79.11590149999999,
+    "place_id": "ChIJI_j10-5brTsR2xRHBkTpDLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_j10-5brTsR2xRHBkTpDLo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:12:12"
+  },
+  {
+    "business_name": "Sai Jyothi Enterprises",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Fast food restaurant, Ice cream shop, Lamination service, Money transfer service",
+    "pincode": "517419",
+    "phone_number": "+91 79893 42596",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Vasanthapuram, Andhra Pradesh 517132",
+    "area": "517419",
+    "latitude": 13.100339199999999,
+    "longitude": 79.1251964,
+    "place_id": "ChIJnZFbWIlFrTsR97y_g8QJnSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZFbWIlFrTsR97y_g8QJnSc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:12:13"
+  }
+]

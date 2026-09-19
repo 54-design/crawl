@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Meridian Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "517415",
+    "phone_number": "+91 85398 91580",
+    "website": "http://www.greenmeridiantpt.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "PILGRIMS AMENITIES CENTER, KT Rd, near Nandi Circle, Srinivasa Nagar, N G O Colony, Tirupati, Andhra Pradesh 517507",
+    "area": "Srinivasa Nagar, N G O Colony",
+    "latitude": 13.6535505,
+    "longitude": 79.4202767,
+    "place_id": "ChIJ0e4_GABLTToRZ5KcYfZBA6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0e4_GABLTToRZ5KcYfZBA6k",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:03:54"
+  },
+  {
+    "business_name": "Food in Woods Pure Veg.",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Banquet hall",
+    "pincode": "517415",
+    "phone_number": "+91 94042 33872",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "beside Central bank of india, Sakoli, Maharashtra 441802",
+    "area": "517415",
+    "latitude": 21.086202699999998,
+    "longitude": 80.00000639999999,
+    "place_id": "ChIJhV2XatVzKzoRlW1unjjdOxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhV2XatVzKzoRlW1unjjdOxo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:03:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan Juice Center & Milan Café",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "517504",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/milanjuicecenter_official?igsh=NHdyOXcwOGFjN3Jr",
+    "rating": 3.5,
+    "reviews_count": 35,
+    "address": "8FR8+MCR, Almas X Rd, Model Town Colony, Sardar Colony, Nawab Saheb Kunta, Hyderabad, Telangana 500053",
+    "area": "Model Town Colony, Sardar Colony, Nawab Saheb Kunta",
+    "latitude": 17.341717,
+    "longitude": 78.4658729,
+    "place_id": "ChIJlQXaQgCXyzsRMz3gVUlgxms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQXaQgCXyzsRMz3gVUlgxms",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:32:36"
+  },
+  {
+    "business_name": "Drunken Monkey",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "517504",
+    "phone_number": "+91 72075 11778",
+    "website": "https://www.thedrunkenmonkey.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Balaya complex, beside icici bank, ana rao circle, KT Rd, Tirupati, Andhra Pradesh 517507",
+    "area": "Srinivasa Nagar",
+    "latitude": 13.6457017,
+    "longitude": 79.41921669999999,
+    "place_id": "ChIJ_zVccKhLTToRRF7yzuv2_b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zVccKhLTToRRF7yzuv2_b0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:32:39"
+  }
+]
