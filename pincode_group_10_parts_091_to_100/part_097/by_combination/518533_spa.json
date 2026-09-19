@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Platinum salon@spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "518533",
+    "phone_number": "+91 99494 07887",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 99,
+    "address": "2/455-E-3, NK Rd, opposite to Sai Baba temple, Telugu Peta, Nandyala, Andhra Pradesh 518501",
+    "area": "Telugu Peta",
+    "latitude": 15.4871915,
+    "longitude": 78.486767,
+    "place_id": "ChIJnYjIIU6ttTsR1RdMZchXLmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYjIIU6ttTsR1RdMZchXLmk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:44:13"
+  },
+  {
+    "business_name": "Touch Spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "518533",
+    "phone_number": "+91 95025 62661",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balaji Complex, S.No: 7, NTR Complex, Nandyala, Andhra Pradesh 518501",
+    "area": "Telugu Peta",
+    "latitude": 15.485459299999999,
+    "longitude": 78.4874992,
+    "place_id": "ChIJmeu6402ttTsRQtN5mRY3yYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeu6402ttTsRQtN5mRY3yYQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:44:13"
+  }
+]

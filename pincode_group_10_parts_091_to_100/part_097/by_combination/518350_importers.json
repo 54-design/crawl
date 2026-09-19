@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.S. Suppliers",
+    "search_category": "Importers",
+    "primary_category": "Importers",
+    "all_categories": "Importers",
+    "pincode": "518350",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H9Q7+245, MDR142, Salakalakonda, Andhra Pradesh 518347",
+    "area": "518350",
+    "latitude": 15.587525,
+    "longitude": 77.36286799999999,
+    "place_id": "ChIJtXqVHhFQtjsRyGd4Jxcyrrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXqVHhFQtjsRyGd4Jxcyrrw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:48:55"
+  },
+  {
+    "business_name": "irgfresheggs",
+    "search_category": "Importers",
+    "primary_category": "Egg supplier",
+    "all_categories": "Egg supplier",
+    "pincode": "518350",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "survey number-906 kotekal, mandal, Yemmiganur, Andhra Pradesh 518302",
+    "area": "mandal",
+    "latitude": 15.6632752,
+    "longitude": 77.3780542,
+    "place_id": "ChIJP2Lg8iBPtjsReJhW0xvBBV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2Lg8iBPtjsReJhW0xvBBV0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:48:55"
+  }
+]

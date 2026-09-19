@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vowelmedia",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "518462",
+    "phone_number": "+91 93816 64770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "vowelmedia, 518462, India",
+    "area": "518462",
+    "latitude": 17.4123487,
+    "longitude": 78.4080456,
+    "place_id": "ChIJJ7OeLS5xtjsR-Pl3GWCWLp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7OeLS5xtjsR-Pl3GWCWLp0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:16:52"
+  },
+  {
+    "business_name": "Jabbar DIGITAL & LAB",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "518462",
+    "phone_number": "+91 95817 89248",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "bus-stand, old, Parappa complex, Kodumur, Andhra Pradesh 518464",
+    "area": "Parappa complex",
+    "latitude": 15.685110799999999,
+    "longitude": 77.7718749,
+    "place_id": "ChIJs1O_4ZlxtjsR9_K-ZhUqUpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1O_4ZlxtjsR9_K-ZhUqUpE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:16:52"
+  }
+]

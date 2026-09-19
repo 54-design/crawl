@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sravani Multi Speciality Clinic",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518411",
+    "phone_number": "+91 95731 75281",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "State Bank Circle, 40/828, Club Road, near SV Complex, near Hyderabad Sweet house, Prakash Nagar, Kurnool, Andhra Pradesh 518004",
+    "area": "Prakash Nagar",
+    "latitude": 15.833765099999999,
+    "longitude": 78.04032409999999,
+    "place_id": "ChIJYVqSnJnntTsR_x4XiHkWlLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVqSnJnntTsR_x4XiHkWlLg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:04:25"
+  },
+  {
+    "business_name": "GG Lifecare",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler, Pharmacy",
+    "pincode": "518411",
+    "phone_number": "+91 452 450 0692",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Ground Floor, 223, Naicker New St, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Simmakkal, Madurai Main",
+    "latitude": 9.923866,
+    "longitude": 78.117114,
+    "place_id": "ChIJ6zPYV4_FADsRh9QXM4fnkjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zPYV4_FADsRh9QXM4fnkjM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:04:28"
+  }
+]

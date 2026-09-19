@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eskala Prasad Iron Mart",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518533",
+    "phone_number": "+91 99850 95131",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 23,
+    "address": "PH98+8WP, Velugodu, Andhra Pradesh 518533",
+    "area": "518533",
+    "latitude": 15.718329599999999,
+    "longitude": 78.5673255,
+    "place_id": "ChIJQY2V94GmtTsR68IITNLGdp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQY2V94GmtTsR68IITNLGdp0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:04"
+  },
+  {
+    "business_name": "Sri Potti sri Ramulu center Velugodu",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518533",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Potti Sri Ramulu Center, Velugodu, Andhra Pradesh 518533",
+    "area": "518533",
+    "latitude": 15.718584199999999,
+    "longitude": 78.5669121,
+    "place_id": "ChIJMVegXwCntTsRML9H2N0DfgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVegXwCntTsRML9H2N0DfgA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:05"
+  }
+]

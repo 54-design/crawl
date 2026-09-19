@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Personal loan",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Service establishment",
+    "pincode": "518360",
+    "phone_number": "+91 99901 44355",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Personal loan, 518360, India",
+    "area": "518360",
+    "latitude": 22.5797234,
+    "longitude": 75.48862419999999,
+    "place_id": "ChIJJfxEhMvjYjkRf-mxedA0Q1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfxEhMvjYjkRf-mxedA0Q1g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:50:44"
+  },
+  {
+    "business_name": "Absolute Finser Services Pvt Ltd",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "518360",
+    "phone_number": "+91 97644 75655",
+    "website": "http://www.absolutefinser.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Office No 203, 2nd Floor, Salunke Vihar Rd, Wanowrie, Pune, Maharashtra 411048",
+    "area": "Wanowrie",
+    "latitude": 18.4814392,
+    "longitude": 73.89861909999999,
+    "place_id": "ChIJ068z6NjDwjsRFjhkysJ88Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ068z6NjDwjsRFjhkysJ88Zs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:50:44"
+  }
+]

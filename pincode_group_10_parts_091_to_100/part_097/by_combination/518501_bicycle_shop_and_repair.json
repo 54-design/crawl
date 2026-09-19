@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khaja Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Two Wheeler Repair Shop",
+    "pincode": "518501",
+    "phone_number": "+91 90109 18771",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S.No 52265, beside Khaleel Shiddique High School, NGO Colony, Nandyala, Andhra Pradesh 518502",
+    "area": "NGO Colony",
+    "latitude": 15.4682192,
+    "longitude": 78.48852459999999,
+    "place_id": "ChIJqYXwnLpStDsRJMccD8ww890",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYXwnLpStDsRJMccD8ww890",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:28:53"
+  },
+  {
+    "business_name": "Sudha Lakshmi Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "518501",
+    "phone_number": "+91 94945 92216",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Shop No 13 &14, Srinivasa Market Complex Opp: Canara Bank, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.483300499999999,
+    "longitude": 78.4860052,
+    "place_id": "ChIJ2fq2IFKttTsREX6DircXKkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fq2IFKttTsREX6DircXKkg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:28:55"
+  }
+]

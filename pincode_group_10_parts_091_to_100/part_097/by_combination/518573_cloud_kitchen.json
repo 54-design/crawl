@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food guru cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "518573",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11-19-73/2, Mastan Manyam Colony, Venna Valli Vari Peta, Eluru, Andhra Pradesh 534001",
+    "area": "Mastan Manyam Colony, Venna Valli Vari Peta",
+    "latitude": 16.71125,
+    "longitude": 81.118028,
+    "place_id": "ChIJl5SNegAVNjoRkc7LxSePQMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5SNegAVNjoRkc7LxSePQMI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:50:53"
+  },
+  {
+    "business_name": "Delight Marketing (Seven Star Interio)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen furniture store",
+    "all_categories": "Kitchen furniture store",
+    "pincode": "518573",
+    "phone_number": "+91 88558 84989",
+    "website": "http://www.delightmarketingnagpur.com/",
+    "rating": 4.8,
+    "reviews_count": 180,
+    "address": "Plot No. 5, Balaji Nagar Bhawani, Bhavani Mata Mandir Rd, Nagpur, Maharashtra 440035",
+    "area": "518573",
+    "latitude": 21.1511426,
+    "longitude": 79.1598362,
+    "place_id": "ChIJ-akZhaHH1DsR9zxEFLmkeRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-akZhaHH1DsR9zxEFLmkeRs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:50:55"
+  }
+]

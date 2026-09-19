@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B tech wala cafe & Tiffins",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "518553",
+    "phone_number": "+91 63051 67101",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "kadapa highway, Kurnool, Duvvuru, Andhra Pradesh 516175",
+    "area": "518553",
+    "latitude": 14.8557884,
+    "longitude": 78.64919259999999,
+    "place_id": "ChIJoTMdawB9tDsR6wmU3FLi-2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTMdawB9tDsR6wmU3FLi-2I",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:47:09"
+  },
+  {
+    "business_name": "Hotel vidya reddy",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 110,
+    "address": "NH40, Andhra Pradesh 518553",
+    "area": "518553",
+    "latitude": 14.956678,
+    "longitude": 78.58843759999999,
+    "place_id": "ChIJRf-ib25jtDsR5wB5cZia55s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRf-ib25jtDsR5wB5cZia55s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:47:09"
+  }
+]

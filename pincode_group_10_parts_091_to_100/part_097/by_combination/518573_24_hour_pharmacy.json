@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pharmacy distributor",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group, Service establishment, Pharmacy",
+    "pincode": "518573",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pharmacy distributor, 518573, India",
+    "area": "518573",
+    "latitude": 16.0849458,
+    "longitude": 80.1500435,
+    "place_id": "ChIJI1Xkb19jSjoRlEs7T6Kl3tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1Xkb19jSjoRlEs7T6Kl3tQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:51:08"
+  },
+  {
+    "business_name": "Apollo Pharmacy Kuchipudi- Pedapudi",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "518573",
+    "phone_number": "+91 91540 37630",
+    "website": "https://www.apollopharmacy.in/medical-stores",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "D.NO: 4-125-1, SURVEY NO: 12/1,GROUND FLOOR, MACHILIPATNAM ROAD KUCHIPUDI, PEDAPUDI,MOVVA MANDAL, Kuchipudi, Andhra Pradesh 521138",
+    "area": "518573",
+    "latitude": 16.2774098,
+    "longitude": 80.9066053,
+    "place_id": "ChIJnbMjeaz9SToRk_ikXbM5zTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbMjeaz9SToRk_ikXbM5zTc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:51:08"
+  }
+]

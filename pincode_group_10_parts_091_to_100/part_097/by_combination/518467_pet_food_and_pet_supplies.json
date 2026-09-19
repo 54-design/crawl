@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Breeders",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "518467",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QXHV+WQX, Kurnool, Lakshmipuram, Andhra Pradesh 518003",
+    "area": "518467",
+    "latitude": 15.779864499999999,
+    "longitude": 77.9944968,
+    "place_id": "ChIJ8Ygz2MrftTsRF2yCNAXq3Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Ygz2MrftTsRF2yCNAXq3Yo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:24:34"
+  },
+  {
+    "business_name": "Krishna Pet Care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Veterinarian",
+    "pincode": "518467",
+    "phone_number": "+91 80747 91434",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anna Canteen Line, Ulchala - Kurnool Rd, near Shilpa Nandanavanam, Parimala Nagar2, L. Peta, Andhra Pradesh 518003",
+    "area": "Parimala Nagar2",
+    "latitude": 15.824106599999999,
+    "longitude": 78.0132685,
+    "place_id": "ChIJv2tNNEbhtTsRhr9NCo62xL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2tNNEbhtTsRhr9NCo62xL8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:24:37"
+  }
+]

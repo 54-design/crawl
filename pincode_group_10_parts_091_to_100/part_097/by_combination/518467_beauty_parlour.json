@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honey beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "518467",
+    "phone_number": "+91 96036 08747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 76, revenue ward, H no 76/100-5-3-2-1, Gopi Nagar Rd, Guru Raghavendra Nagar, Kalluru, Andhra Pradesh 518003",
+    "area": "Guru Raghavendra Nagar",
+    "latitude": 15.821565,
+    "longitude": 78.015232,
+    "place_id": "ChIJ65uGjbvftTsRGT2DIASDd_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65uGjbvftTsRGT2DIASDd_o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:25:25"
+  },
+  {
+    "business_name": "She zone beauty parlour A/C",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "518467",
+    "phone_number": "+91 90106 22570",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gurubrahma Nagar, near bellary chowrasta Besides SBI Bank, opp lane to ho petrol pump, Andhra Pradesh 518003",
+    "area": "Guru Raghavendra Nagar",
+    "latitude": 15.8237288,
+    "longitude": 78.0167937,
+    "place_id": "ChIJk483d2vftTsRWaj861NUfnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk483d2vftTsRWaj861NUfnc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:25:25"
+  }
+]

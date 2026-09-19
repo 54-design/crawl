@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AryaVyshya Tiffins & General Stores",
+    "search_category": "General Store",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "7G75+484, Shanthinagaram, Allagadda, Bathalur, Andhra Pradesh 518510",
+    "area": "Shanthinagaram",
+    "latitude": 15.2627566,
+    "longitude": 78.5083132,
+    "place_id": "ChIJDfVbQgBbtDsRxiJNdCSff0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfVbQgBbtDsRxiJNdCSff0s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:33:52"
+  },
+  {
+    "business_name": "Kanthamma genaral store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8GCQ+P8P, Sirvella, Andhra Pradesh 518563",
+    "area": "518510",
+    "latitude": 15.3228025,
+    "longitude": 78.5392193,
+    "place_id": "ChIJY7BNCABRtDsRlKz3J0VyhFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7BNCABRtDsRlKz3J0VyhFs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:33:52"
+  }
+]

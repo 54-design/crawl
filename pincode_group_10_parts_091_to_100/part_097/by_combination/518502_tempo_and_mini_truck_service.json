@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bigtruck - Online Truck Booking, Truck Transporter Services for Pan India",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck rental agency",
+    "all_categories": "Truck rental agency, Logistics service, Transportation service, Trucking company, Warehouse",
+    "pincode": "518502",
+    "phone_number": "+91 90199 28737",
+    "website": "https://www.bigtruck.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1st Floor, Sai Golden Nest, Bus Stand, opposite Basavanagar, Talacauvery Layout, Vibhutipura, Bengaluru, Karnataka 560037",
+    "area": "Talacauvery Layout, Vibhutipura",
+    "latitude": 12.9664182,
+    "longitude": 77.6824738,
+    "place_id": "ChIJUWPEjz8UrjsRjp0TCeVz2hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWPEjz8UrjsRjp0TCeVz2hs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:52"
+  },
+  {
+    "business_name": "Sandip Motors - Mahindra Trucks & Buses Ltd.",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop, Machine workshop",
+    "pincode": "518502",
+    "phone_number": "+91 95455 99702",
+    "website": "https://www.mahindratruckandbus.com/",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Outer Ring Rd, near FLD Hotel & Jio petrol pump, Pandhurna, Gao, Nagpur, Bidgaon-Tarodi Kh.-Pandhurna, Maharashtra 441202",
+    "area": "Pandhurna, Gao",
+    "latitude": 21.1071334,
+    "longitude": 79.1814581,
+    "place_id": "ChIJccjcddy51DsR0GtTmd_RNbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccjcddy51DsR0GtTmd_RNbw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:54"
+  }
+]

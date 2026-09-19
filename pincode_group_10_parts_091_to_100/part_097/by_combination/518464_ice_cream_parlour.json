@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dodla dairy",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518464",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MQM9+939, Kodumur, Andhra Pradesh 518464",
+    "area": "518464",
+    "latitude": 15.683400899999999,
+    "longitude": 77.7677288,
+    "place_id": "ChIJg95nJwBxtjsRg2EsjjTZq0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg95nJwBxtjsRg2EsjjTZq0U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:06"
+  },
+  {
+    "business_name": "ICE MAX",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518464",
+    "phone_number": "+91 91777 81330",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Revenue Ward 12, 14-83-A, Kurukunda Veedhi, East Bc Colony, Guduru, Andhra Pradesh 518466",
+    "area": "518464",
+    "latitude": 15.7755117,
+    "longitude": 77.8066533,
+    "place_id": "ChIJmxEeLgBztjsRKwcjilnWzjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxEeLgBztjsRKwcjilnWzjg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:07"
+  }
+]

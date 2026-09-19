@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sindhu fancy store",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "518543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TB Rd, Allagadda, Andhra Pradesh 518543",
+    "area": "518543",
+    "latitude": 15.1357704,
+    "longitude": 78.5057138,
+    "place_id": "ChIJN3_4BgBdtDsREH0QbP5pKV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3_4BgBdtDsREH0QbP5pKV4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:32"
+  },
+  {
+    "business_name": "GVR Textiles",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "518543",
+    "phone_number": "+91 99857 53600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Main Bazar, Allagadda, Andhra Pradesh 518543",
+    "area": "Main Bazar",
+    "latitude": 15.132348599999998,
+    "longitude": 78.513761,
+    "place_id": "ChIJZ8xe5_FdtDsRfIs9rwRThkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8xe5_FdtDsRfIs9rwRThkE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:35"
+  }
+]

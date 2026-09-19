@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Kurnool Business Directory",
+    "search_category": "Tradeshows",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Publisher",
+    "pincode": "518385",
+    "phone_number": "N/A",
+    "website": "https://mykurnool.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Eswar nagar, Gandhi Nagar, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.8333529,
+    "longitude": 78.0406501,
+    "place_id": "ChIJF6gIFPyjxqQRgMXwmr6kSO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6gIFPyjxqQRgMXwmr6kSO8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:54:51"
+  },
+  {
+    "business_name": "India Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "518385",
+    "phone_number": "+91 80747 01800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Check Post, Pedda Amberpet, Hayathnagar_Khalsa, Telangana 501513",
+    "area": "518385",
+    "latitude": 17.3207357,
+    "longitude": 78.6401266,
+    "place_id": "ChIJueuWVhOgyzsRYBY2sKs230g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueuWVhOgyzsRYBY2sKs230g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:54:51"
+  }
+]

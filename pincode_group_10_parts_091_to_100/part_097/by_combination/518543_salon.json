@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madina Beauty Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "518543",
+    "phone_number": "+91 96035 91036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khubdha street, Allagadda, Andhra Pradesh 518543",
+    "area": "518543",
+    "latitude": 15.133351399999999,
+    "longitude": 78.51359649999999,
+    "place_id": "ChIJE0UVohxdtDsRVvel_3J-cjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0UVohxdtDsRVvel_3J-cjY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:46:05"
+  },
+  {
+    "business_name": "BOYS CUTS HAIR SALON",
+    "search_category": "Salon",
+    "primary_category": "Salon",
+    "all_categories": "Salon",
+    "pincode": "518543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4GM7+7C4, Allagadda, Andhra Pradesh 518543",
+    "area": "518543",
+    "latitude": 15.133125499999998,
+    "longitude": 78.51357879999999,
+    "place_id": "ChIJT8xFDABdtDsRv-L6PqUmLaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8xFDABdtDsRv-L6PqUmLaY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:46:05"
+  }
+]

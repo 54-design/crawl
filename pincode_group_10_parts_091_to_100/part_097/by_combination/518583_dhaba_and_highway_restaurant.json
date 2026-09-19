@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandigarh Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "518583",
+    "phone_number": "+91 89682 99719",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1313,
+    "address": "Sahibzada Ajit Singh Nagar, Punjab 140301",
+    "area": "518583",
+    "latitude": 30.7593671,
+    "longitude": 76.6108196,
+    "place_id": "ChIJG0VQksX6DzkRJ_L7tFf362E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0VQksX6DzkRJ_L7tFf362E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:52:43"
+  },
+  {
+    "business_name": "Bala ji ka dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518583",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 13,
+    "address": "No C/6Sander DumpKanpur, Kanpur - Lucknow Rd, opposite Mahana Petrol Pump, AlambaghLucknow, Uttar Pradesh 226005",
+    "area": "Sardari Khera, Railway Colony, AlambaghLucknow",
+    "latitude": 26.8169136,
+    "longitude": 80.905349,
+    "place_id": "ChIJvzTPGgD9mzkRA4tHspbgrhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzTPGgD9mzkRA4tHspbgrhY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:52:44"
+  }
+]

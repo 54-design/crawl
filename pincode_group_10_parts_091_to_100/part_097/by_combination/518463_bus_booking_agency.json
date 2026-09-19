@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deviswamy travellers",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "518463",
+    "phone_number": "+91 99897 64247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "H. No : 1/2883 sree sai ganesh colony, road, near ymc water storage, near Laxman theatre, Yemmiganur, Andhra Pradesh 518360",
+    "area": "Timmappa Colony",
+    "latitude": 15.760007,
+    "longitude": 77.4709122,
+    "place_id": "ChIJnWRkZG1BtjsRW4Qyes1oeic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWRkZG1BtjsRW4Qyes1oeic",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:17:43"
+  },
+  {
+    "business_name": "Sulthan Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "518463",
+    "phone_number": "+91 91823 39401",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Old Bus Stop, Karivemula, Andhra Pradesh 518465",
+    "area": "518463",
+    "latitude": 15.6055181,
+    "longitude": 77.5864782,
+    "place_id": "ChIJw2VszoFntjsRoknrCNUfXF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2VszoFntjsRoknrCNUfXF0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:17:43"
+  }
+]

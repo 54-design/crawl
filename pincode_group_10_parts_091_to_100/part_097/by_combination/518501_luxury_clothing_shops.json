@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New fashion designer",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Fashion designer",
+    "pincode": "518501",
+    "phone_number": "+91 80969 46242",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "D.No: 4/75, Near Masjid E Badar Chandbada, Nandyala, Andhra Pradesh 518501",
+    "area": "Telugu Peta",
+    "latitude": 15.4870062,
+    "longitude": 78.48574529999999,
+    "place_id": "ChIJHYM86FGttTsR23EUn6bfdhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYM86FGttTsR23EUn6bfdhs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:28:35"
+  },
+  {
+    "business_name": "The Raymond Shop",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Men's clothing store, Tuxedo shop, Youth clothing store",
+    "pincode": "518501",
+    "phone_number": "+91 80 6986 5992",
+    "website": "https://padmavathi-nagar.myraymond.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Ground Floor, No. 25-684-304, Padmavati Nagar Rd, beside Sathya Electronics, Padmavathi Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Padmavathi Nagar",
+    "latitude": 15.481955999999998,
+    "longitude": 78.48458699999999,
+    "place_id": "ChIJCe52LjmttTsRnx3Isqw-q0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCe52LjmttTsRnx3Isqw-q0Y",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:28:35"
+  }
+]

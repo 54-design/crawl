@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadik Cool drink",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PF7H+5GX, Regadiguduru, Andhra Pradesh 518508",
+    "area": "518508",
+    "latitude": 15.712984299999999,
+    "longitude": 78.47886249999999,
+    "place_id": "ChIJuUsKZgCltTsRmThq4B7QzrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUsKZgCltTsRmThq4B7QzrE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:11"
+  },
+  {
+    "business_name": "Mano Rishi Enterprices",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MCHG+4MP, Gadivemula, Andhra Pradesh 518508",
+    "area": "518508",
+    "latitude": 15.6778286,
+    "longitude": 78.4267093,
+    "place_id": "ChIJpx5dTua7tTsR4C9jB7A5VHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpx5dTua7tTsR4C9jB7A5VHk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:13"
+  }
+]

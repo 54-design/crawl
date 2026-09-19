@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518385",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 33, Tuggali, Andhra Pradesh 518390",
+    "area": "518385",
+    "latitude": 15.309693099999999,
+    "longitude": 77.5463118,
+    "place_id": "ChIJtzKEXADztjsRnfhq5p5gnmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzKEXADztjsRnfhq5p5gnmw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:53:20"
+  },
+  {
+    "business_name": "New KHANA KAZANA Exclusive Mandhi Point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "518385",
+    "phone_number": "+91 70133 68950",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near hanuman circle, Housing Board Colony, Guntakal, Andhra Pradesh 515803",
+    "area": "Housing Board Colony",
+    "latitude": 15.1536976,
+    "longitude": 77.3736156,
+    "place_id": "ChIJU1UfcRHvtjsR-nhUPEYel7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1UfcRHvtjsR-nhUPEYel7U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:53:21"
+  }
+]

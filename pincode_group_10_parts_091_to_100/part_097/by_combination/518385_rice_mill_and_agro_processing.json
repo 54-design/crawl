@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruthi Industries (Rice Mill)",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "518385",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "26, 29 & 30, Plot No 25, Gooty Road, Guntakal, Andhra Pradesh 515803",
+    "area": "518385",
+    "latitude": 15.1611234,
+    "longitude": 77.4181236,
+    "place_id": "ChIJOZlnYkrvtjsRFNue_ZHu64w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZlnYkrvtjsRFNue_ZHu64w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:54:46"
+  },
+  {
+    "business_name": "GTL Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "518385",
+    "phone_number": "+91 98486 97315",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "5C5G+96G, Guntakal, Andhra Pradesh 515803",
+    "area": "518385",
+    "latitude": 15.1584338,
+    "longitude": 77.4255735,
+    "place_id": "ChIJ99FWFtjutjsRP6geACMzTjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99FWFtjutjsRP6geACMzTjc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:54:46"
+  }
+]

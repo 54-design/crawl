@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haritha Hotel Aptdc Ahobilam",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518510",
+    "phone_number": "+91 85192 52060",
+    "website": "https://tourism.ap.gov.in/hotellist?cityCode=77&unitCode=ALL",
+    "rating": 3.5,
+    "reviews_count": 551,
+    "address": "4MMG+R48 Varada, near prahlada, Ahobilam, Andhra Pradesh 518543",
+    "area": "518510",
+    "latitude": 15.1345394,
+    "longitude": 78.675322,
+    "place_id": "ChIJS5KcZ0b1tDsRoEJ44TvVN0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5KcZ0b1tDsRoEJ44TvVN0M",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:55"
+  },
+  {
+    "business_name": "Malolan Guest House(Ahobilam Math)",
+    "search_category": "Resort",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "518510",
+    "phone_number": "+91 85192 52045",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 557,
+    "address": "Sannithi St, Ahobilam, Andhra Pradesh 518543",
+    "area": "518510",
+    "latitude": 15.1337598,
+    "longitude": 78.675086,
+    "place_id": "ChIJlfwMa0b1tDsRuz6HJRIqTOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfwMa0b1tDsRuz6HJRIqTOc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:55"
+  }
+]

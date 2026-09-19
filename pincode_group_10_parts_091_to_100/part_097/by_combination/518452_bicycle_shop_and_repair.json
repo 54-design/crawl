@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Hari Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "518452",
+    "phone_number": "+91 94945 07960",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4-24, Dinnedevarapadu, Andhra Pradesh 518007",
+    "area": "518452",
+    "latitude": 15.7718663,
+    "longitude": 78.0374463,
+    "place_id": "ChIJ01oUNi_dtTsRFuZor0d2ofU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01oUNi_dtTsRFuZor0d2ofU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:13:57"
+  },
+  {
+    "business_name": "Raghavendra Bike Point",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "518452",
+    "phone_number": "+91 94405 88921",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "S.No: 70-126 B4-2, Chennamma Circle, Kallur, opp. Ramalayam Temple, Kalluru, Andhra Pradesh 518003",
+    "area": "Sampath Nagar",
+    "latitude": 15.814178199999999,
+    "longitude": 78.0273527,
+    "place_id": "ChIJy442PfvdtTsRF_pbcP_bJ1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy442PfvdtTsRF_pbcP_bJ1Y",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:13:57"
+  }
+]

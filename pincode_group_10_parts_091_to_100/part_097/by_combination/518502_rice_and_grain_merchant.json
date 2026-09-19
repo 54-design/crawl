@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandi Super Market",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "518502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "FF9R+35F, Lalitanagar, Nandyala, Andhra Pradesh 518502",
+    "area": "Lalitanagar",
+    "latitude": 15.467688899999999,
+    "longitude": 78.4904289,
+    "place_id": "ChIJZ99YbrpStDsRZv5rP3krLOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ99YbrpStDsRZv5rP3krLOA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:08"
+  },
+  {
+    "business_name": "Mini rice mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "518502",
+    "phone_number": "+91 98480 88428",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Thalveda, Telangana 504306",
+    "area": "518502",
+    "latitude": 19.1020859,
+    "longitude": 78.3130788,
+    "place_id": "ChIJISEXpNyLzTsRw-Dos4lF5H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISEXpNyLzTsRw-Dos4lF5H0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:09"
+  }
+]

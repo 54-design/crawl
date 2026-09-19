@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali electrical",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "518508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PG33+8PX, Velpanur, Andhra Pradesh 518533",
+    "area": "518508",
+    "latitude": 15.7033501,
+    "longitude": 78.5043482,
+    "place_id": "ChIJh_0AcgCltTsRoT8BeDg3i8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_0AcgCltTsRoT8BeDg3i8s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:48"
+  },
+  {
+    "business_name": "Schlegel Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "518508",
+    "phone_number": "N/A",
+    "website": "http://schlegelplumbing.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Schlegel Plumbing, 518508, India",
+    "area": "518508",
+    "latitude": 32.959652399999996,
+    "longitude": -96.711846,
+    "place_id": "ChIJo4J7VTUU40gR31s243fWz3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4J7VTUU40gR31s243fWz3o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:48"
+  }
+]

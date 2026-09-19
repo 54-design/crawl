@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon Boutique",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "518510",
+    "phone_number": "+91 63032 66425",
+    "website": "https://keaindia.com/",
+    "rating": 4.9,
+    "reviews_count": 165,
+    "address": "shop No - 4, Prasanka Apartment, HIG - 611, near Vijetha Super Market, Kukatpally Housing Board Colony, K P H B Phase 6, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 6, Kukatpally",
+    "latitude": 17.4885385,
+    "longitude": 78.3891349,
+    "place_id": "ChIJ9cHLYA6TyzsRtFWqmrj3_o8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cHLYA6TyzsRtFWqmrj3_o8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:54"
+  },
+  {
+    "business_name": "Balloon Decorations - Balloon Decoration In Gurgaon",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Balloon store, Party planner",
+    "pincode": "518510",
+    "phone_number": "N/A",
+    "website": "https://balloondecorations.in/",
+    "rating": 4.9,
+    "reviews_count": 164,
+    "address": "Plot 240/B, Phase IV, Udyog Vihar, Sector 18, Gurugram, Haryana 122015",
+    "area": "Phase IV, Udyog Vihar, Sector 18",
+    "latitude": 28.500077299999997,
+    "longitude": 77.0823255,
+    "place_id": "ChIJny8UuI0ZDTkRRP6IMlIOL2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJny8UuI0ZDTkRRP6IMlIOL2s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:54"
+  }
+]

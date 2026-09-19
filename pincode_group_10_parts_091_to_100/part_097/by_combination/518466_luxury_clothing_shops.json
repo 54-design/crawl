@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "F4 Fashion Hub",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Garment Exporter, Men's clothing store",
+    "pincode": "518466",
+    "phone_number": "+91 96766 65181",
+    "website": "https://f4fashionhub.com/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "26/4, Choti Market Rd, Fakheerwada, Chatri Bagh, Kurnool, Andhra Pradesh 518001",
+    "area": "Fakheerwada, Chatri Bagh",
+    "latitude": 15.8274969,
+    "longitude": 78.0522019,
+    "place_id": "ChIJ1Qfy1F7ntTsR5N9PzS_VRfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Qfy1F7ntTsR5N9PzS_VRfc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:22:59"
+  },
+  {
+    "business_name": "Surprise collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "518466",
+    "phone_number": "+91 89786 69050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 9, Gowri Gopal Hospital Rd, beside woodland lodge budhawarpeta, Kurnool, Andhra Pradesh 518002",
+    "area": "518466",
+    "latitude": 15.824366999999999,
+    "longitude": 78.0404054,
+    "place_id": "ChIJlaK2WoLdtTsRtczGLqlPuKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaK2WoLdtTsRtczGLqlPuKQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:22:59"
+  }
+]

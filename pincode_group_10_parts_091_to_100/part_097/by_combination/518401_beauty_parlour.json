@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reena's Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Products Wholesaler",
+    "pincode": "518401",
+    "phone_number": "+91 92900 18922",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Reena's line, Saibaba Pet, Nandikotkur, Andhra Pradesh 518401",
+    "area": "Saibaba Pet",
+    "latitude": 15.8507004,
+    "longitude": 78.2630842,
+    "place_id": "ChIJZ5sWIpHqtTsRQBzPQwR2ncQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5sWIpHqtTsRQBzPQwR2ncQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:15"
+  },
+  {
+    "business_name": "Andhra Pradesh Tribal Co-Operative Corporation's Natural Products",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "518401",
+    "phone_number": "+91 81216 32863",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "R25R+CVP, Maddur Nagar, Kurnool, Andhra Pradesh 518002",
+    "area": "Maddur Nagar",
+    "latitude": 15.8085972,
+    "longitude": 78.0422116,
+    "place_id": "ChIJg0qBrezdtTsRwIRVhR1s2xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0qBrezdtTsRwIRVhR1s2xI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:17"
+  }
+]

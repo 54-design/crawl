@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Health Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518523",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GF37+RP3, Moolasagaram, Nandyala, Andhra Pradesh 518501",
+    "area": "Moolasagaram",
+    "latitude": 15.5045182,
+    "longitude": 78.4642958,
+    "place_id": "ChIJcw9u4UKztTsRMAvsX09FcZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcw9u4UKztTsRMAvsX09FcZI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:42:23"
+  },
+  {
+    "business_name": "SHIFA AYURVEDIC STORE & DRY FRUITS",
+    "search_category": "Wellness Center",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "518523",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Byrmal St, near basavana temple, Telugu Peta, Nandyala, Andhra Pradesh 518501",
+    "area": "Telugu Peta",
+    "latitude": 15.4891294,
+    "longitude": 78.48366949999999,
+    "place_id": "ChIJOfFnJy6ttTsRZa3prxXQiq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfFnJy6ttTsRZa3prxXQiq4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:42:23"
+  }
+]

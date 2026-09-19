@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jabbar Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "518502",
+    "phone_number": "+91 99497 79358",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shroff Bazar Rd, Havanapet, Shakthi Gudi, Adoni, Andhra Pradesh 518301",
+    "area": "Havanapet, Shakthi Gudi",
+    "latitude": 15.626420399999999,
+    "longitude": 77.2746851,
+    "place_id": "ChIJefeXyYZNtjsRTa1zGCyFpWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefeXyYZNtjsRTa1zGCyFpWg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:24"
+  },
+  {
+    "business_name": "Gold Workshop",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Costume jewelry shop, Diamond buyer, Diamond Merchant, Goldsmith, Jewelry appraiser, Jewelry buyer, Jewelry designer, Jewelry engraver, Jewelry store",
+    "pincode": "518502",
+    "phone_number": "01279 445440",
+    "website": "https://goldworkshop.co.uk/",
+    "rating": 4.9,
+    "reviews_count": 204,
+    "address": "Unit 9, THE WATER GARDENS, S Gate, Harlow CM20 1AB, United Kingdom",
+    "area": "518502",
+    "latitude": 51.7683791,
+    "longitude": 0.0949626,
+    "place_id": "ChIJBxwbbRGf2EcRJS3Eg5DCoEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxwbbRGf2EcRJS3Eg5DCoEQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:25"
+  }
+]

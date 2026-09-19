@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ammu's Pets & Kennels",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "518350",
+    "phone_number": "+91 97004 00309",
+    "website": "https://ammuspetskennels.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "lower ground floor, Nagarjuna Circle 20, 6-3-349, Alpha Business Centre, 2A, Road No. 1, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Dwarakapuri, Banjara Hills",
+    "latitude": 17.4247877,
+    "longitude": 78.4485381,
+    "place_id": "ChIJRbioxjSXyzsRMW7vwgI9nEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbioxjSXyzsRMW7vwgI9nEA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:10"
+  },
+  {
+    "business_name": "Sai krishna Pets & More",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "518350",
+    "phone_number": "+91 93948 14339",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "Shop number 12, metro pillar no 875, 6-36/4, opposite to RTC Bus depot, Pragathi Nagar, Moosapet, Hyderabad, Telangana 500018",
+    "area": "Pragathi Nagar, Moosapet",
+    "latitude": 17.4734043,
+    "longitude": 78.424762,
+    "place_id": "ChIJT_eJnHmRyzsRxwC5a8uA67A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_eJnHmRyzsRxwC5a8uA67A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:12"
+  }
+]

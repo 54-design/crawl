@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store",
+    "pincode": "518511",
+    "phone_number": "+91 98667 60627",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "124, Srinivasa Complex, near Srinidhi Hotel, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.4849383,
+    "longitude": 78.4847186,
+    "place_id": "ChIJiTpjL1KttTsReAby0e6BFy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTpjL1KttTsReAby0e6BFy8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:37:02"
+  },
+  {
+    "business_name": "KVR COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer service",
+    "pincode": "518511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near bus stand, Ayyavari Kodur, Nandyala, Andhra Pradesh 518523",
+    "area": "518511",
+    "latitude": 15.580406,
+    "longitude": 78.52229609999999,
+    "place_id": "ChIJLzX8qISvtTsRgCn49sM2xkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzX8qISvtTsRgCn49sM2xkQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:37:02"
+  }
+]

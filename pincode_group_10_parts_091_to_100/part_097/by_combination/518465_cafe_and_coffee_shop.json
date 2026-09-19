@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Buddha cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518465",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 52,
+    "address": "87/1100-2, Brundavan Nagar, Revenue Colony, Sree Rama Nagar, Kalluru, Andhra Pradesh 518002",
+    "area": "Brundavan Nagar, Revenue Colony, Sree Rama Nagar",
+    "latitude": 15.8063799,
+    "longitude": 78.0483637,
+    "place_id": "ChIJne3xQQDdtTsRiDmJu6FPSvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJne3xQQDdtTsRiDmJu6FPSvw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:20:56"
+  },
+  {
+    "business_name": "Venkateswrlu",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518465",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road 1, Chinna Gollapalem, Devanakonda, Andhra Pradesh 518465",
+    "area": "518465",
+    "latitude": 15.5384903,
+    "longitude": 77.5484925,
+    "place_id": "ChIJ-yo3LgBdtjsRXnYNcOVtYng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yo3LgBdtjsRXnYNcOVtYng",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:20:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nature's Kitchen",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "518442",
+    "phone_number": "+91 99639 09494",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 229,
+    "address": "GM24+GCM, 2nd Ln, Gayatri Nagar, Siddhartha Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Gayatri Nagar, Siddhartha Nagar, Benz Circle",
+    "latitude": 16.5013251,
+    "longitude": 80.6560499,
+    "place_id": "ChIJSaOZ6Mf6NToRxq7PSeqSBFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaOZ6Mf6NToRxq7PSeqSBFI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:11:28"
+  },
+  {
+    "business_name": "MilletBEATS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "518442",
+    "phone_number": "+91 98853 11333",
+    "website": "http://www.milletbeatsorganics.online/",
+    "rating": 4.9,
+    "reviews_count": 84,
+    "address": "DNO:58-4-12A, Panta Kaluva Rd, opposite MARIS STELLA INDORE STADIUM, Old P&T Colony, Ramachandra Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Old P&T Colony, Ramachandra Nagar",
+    "latitude": 16.498732099999998,
+    "longitude": 80.66050249999999,
+    "place_id": "ChIJneO4K6_7NToRdhw4IP0ej9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneO4K6_7NToRdhw4IP0ej9Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:11:28"
+  }
+]

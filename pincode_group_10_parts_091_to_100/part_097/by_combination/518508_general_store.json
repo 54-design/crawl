@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thirumala Medicle and general Stores",
+    "search_category": "General Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "518508",
+    "phone_number": "+91 94933 26608",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QF82+9G4, Thudicherla, Andhra Pradesh 518508",
+    "area": "518508",
+    "latitude": 15.7658855,
+    "longitude": 78.451335,
+    "place_id": "ChIJNTM8F5i8tTsRZg93jpyHRSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTM8F5i8tTsRZg93jpyHRSA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:02"
+  },
+  {
+    "business_name": "Mythri General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "regadaguduru mine, Vanala, rode, Pamulapadu, Andhra Pradesh 518508",
+    "area": "518508",
+    "latitude": 15.7430867,
+    "longitude": 78.4576,
+    "place_id": "ChIJ-xuSj5q7tTsRMEkwaEpSBc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xuSj5q7tTsRMEkwaEpSBc8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:05"
+  }
+]

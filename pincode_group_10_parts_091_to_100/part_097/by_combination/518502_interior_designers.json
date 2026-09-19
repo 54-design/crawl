@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Basha",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "518502",
+    "phone_number": "+91 70934 01232",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "26/607/Z-10a, Noonepalli, Lalitanagar, Nandyala, Andhra Pradesh 518502",
+    "area": "Noonepalli, Lalitanagar",
+    "latitude": 15.4636366,
+    "longitude": 78.4859662,
+    "place_id": "ChIJFS85VK5TtDsRIRrIUr42cik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFS85VK5TtDsRIRrIUr42cik",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:59"
+  },
+  {
+    "business_name": "Ananya Group of Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior architect office, Interior Decorator, Interior fitting contractor",
+    "pincode": "518502",
+    "phone_number": "+91 78932 19988",
+    "website": "https://agi.ind.in/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "H.No: 5-86, SC Colony Boyalakuntla, SiriVella Mandal, Nandyala, Andhra Pradesh 518501",
+    "area": "SBI Colony",
+    "latitude": 15.4776876,
+    "longitude": 78.487285,
+    "place_id": "ChIJEYGdwVdTtDsR_eSF6enTkuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYGdwVdTtDsR_eSF6enTkuA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:00"
+  }
+]

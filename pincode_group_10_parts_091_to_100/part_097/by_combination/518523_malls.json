@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khaja Fancy Store,Main Bazer, Nandyal",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518523",
+    "phone_number": "+91 99663 50855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Main Bazar Rd, Sri Potti Sriramulu Colony, Telugu Peta, Nandyala, Andhra Pradesh 518501",
+    "area": "Sri Potti Sriramulu Colony, Telugu Peta",
+    "latitude": 15.4902023,
+    "longitude": 78.48656969999999,
+    "place_id": "ChIJS-s2HlCttTsR7NLl99tDmvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-s2HlCttTsR7NLl99tDmvA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:43:11"
+  },
+  {
+    "business_name": "Palla Plaza",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518523",
+    "phone_number": "+91 95537 86555",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "FFRP+398, Main Bazar Rd, Telugu Peta, Nandyala, Andhra Pradesh 518501",
+    "area": "Telugu Peta",
+    "latitude": 15.4901685,
+    "longitude": 78.4859503,
+    "place_id": "ChIJ66K1GVCttTsR8FK4r-iBE2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66K1GVCttTsR8FK4r-iBE2o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:43:11"
+  }
+]

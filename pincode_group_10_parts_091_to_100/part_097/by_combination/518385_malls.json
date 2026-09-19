@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshita Stores",
+    "search_category": "Malls",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "518385",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "7FPX+CV5, Peravali, Andhra Pradesh 518390",
+    "area": "518385",
+    "latitude": 15.286006299999999,
+    "longitude": 77.4997193,
+    "place_id": "ChIJz1gUkEzytjsRA-smB7TSf8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1gUkEzytjsRA-smB7TSf8M",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:54:55"
+  },
+  {
+    "business_name": "Kasam shoping mall",
+    "search_category": "Malls",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "518385",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "10/57, 10, Anjaman Colony, Guntakal, Andhra Pradesh 515801",
+    "area": "Anjaman Colony",
+    "latitude": 15.1693024,
+    "longitude": 77.37406399999999,
+    "place_id": "ChIJm7O0YQDltjsR2RvwZNbnEX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7O0YQDltjsR2RvwZNbnEX4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:54:57"
+  }
+]

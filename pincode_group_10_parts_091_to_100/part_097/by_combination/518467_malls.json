@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JUVI TCS (The Complete Shopping) RAZAK",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518467",
+    "phone_number": "+91 80960 40892",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "JUVI STREET, Bastipadu, Andhra Pradesh 518218",
+    "area": "518467",
+    "latitude": 15.7120365,
+    "longitude": 77.9704337,
+    "place_id": "ChIJ0So1B3zZtTsRye3fAZfEzJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0So1B3zZtTsRye3fAZfEzJg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:26:16"
+  },
+  {
+    "business_name": "Apoorva Rohini Plaza",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Condominium complex",
+    "pincode": "518467",
+    "phone_number": "N/A",
+    "website": "http://apoorvabuilders.com/",
+    "rating": 3.6,
+    "reviews_count": 130,
+    "address": "APOORVA ROHINI PLAZA, Hyderabad - Bengaluru Hwy, Stantanpuram, Kurnool, Andhra Pradesh 518003",
+    "area": "Stantanpuram",
+    "latitude": 15.837952,
+    "longitude": 78.0148861,
+    "place_id": "ChIJw09nM7LgtTsR0QZ--vjjRAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw09nM7LgtTsR0QZ--vjjRAc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:26:19"
+  }
+]

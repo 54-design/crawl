@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janapriya Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "518533",
+    "phone_number": "+91 95331 77677",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sharif Bulding, Velugode, Kurnool, Velugodu, Andhra Pradesh 518533",
+    "area": "Velugode",
+    "latitude": 15.721665,
+    "longitude": 78.5667766,
+    "place_id": "ChIJT-VVXV2ntTsRe1mbo0iIUYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-VVXV2ntTsRe1mbo0iIUYw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:43:42"
+  },
+  {
+    "business_name": "vamsheedara hospital",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "518533",
+    "phone_number": "+91 91337 16991",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "PH99+C4V, Velugodu, Andhra Pradesh 518533",
+    "area": "518533",
+    "latitude": 15.7186223,
+    "longitude": 78.56780859999999,
+    "place_id": "ChIJF0m-t4GmtTsReygdIjI2pTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0m-t4GmtTsReygdIjI2pTw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:43:45"
+  }
+]

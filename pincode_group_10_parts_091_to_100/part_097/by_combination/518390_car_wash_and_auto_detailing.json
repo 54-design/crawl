@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Supreme Luxe Autos",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "518390",
+    "phone_number": "07438 523595",
+    "website": "http://www.supremeluxeautos.co.uk/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Supreme Luxe Autos, 518390, India",
+    "area": "518390",
+    "latitude": 52.2397844,
+    "longitude": -0.8803981999999999,
+    "place_id": "ChIJyY6xVfnPVAARLbD12RkzzZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyY6xVfnPVAARLbD12RkzzZU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:55:36"
+  },
+  {
+    "business_name": "Gloss N Shine Auto Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "518390",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gloss N Shine Auto Spa, 518390, India",
+    "area": "518390",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJz4hIaUQxjoARQ4Q4NbyF4zQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4hIaUQxjoARQ4Q4NbyF4zQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:55:38"
+  }
+]

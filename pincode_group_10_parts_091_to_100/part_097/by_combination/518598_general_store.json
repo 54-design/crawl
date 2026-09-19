@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandhya Rani Traders",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518598",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "6/215, Oid Busstand, Kurnool, Betamcherla, Andhra Pradesh 518599",
+    "area": "518598",
+    "latitude": 15.451826599999999,
+    "longitude": 78.14886609999999,
+    "place_id": "ChIJjctSQFEztDsRhJ_Z_GiDYoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjctSQFEztDsRhJ_Z_GiDYoM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:58:10"
+  },
+  {
+    "business_name": "Rangaiah General store",
+    "search_category": "General Store",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "518598",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "92JP+74X, Bukkapuram, Kottapalle, Andhra Pradesh 518598",
+    "area": "Bukkapuram",
+    "latitude": 15.380742699999999,
+    "longitude": 78.03534379999999,
+    "place_id": "ChIJnxARBQAttDsRZmXMSF7olT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxARBQAttDsRZmXMSF7olT4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:58:13"
+  }
+]

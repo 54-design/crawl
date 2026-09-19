@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518385",
+    "phone_number": "+91 93982 82972",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "no .18/795, 60 Feet Rd, Tilak Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Tilak Nagar",
+    "latitude": 15.1620125,
+    "longitude": 77.3822376,
+    "place_id": "ChIJqfou2HrvtjsRkRe9ia2BO1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfou2HrvtjsRkRe9ia2BO1s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:53:18"
+  },
+  {
+    "business_name": "Bachi Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518385",
+    "phone_number": "+91 94942 59698",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6/610, Vidya Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Vidya Nagar",
+    "latitude": 15.1703321,
+    "longitude": 77.36563989999999,
+    "place_id": "ChIJO2hyCtLltjsRJbJqd882SR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2hyCtLltjsRJbJqd882SR4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:53:18"
+  }
+]

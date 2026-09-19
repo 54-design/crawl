@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "518401",
+    "phone_number": "+91 92480 94455",
+    "website": "http://www.navata.com/",
+    "rating": 4.1,
+    "reviews_count": 30,
+    "address": "D.NO, 11-668, NANDYALA ROAD, opp. BALA VENKATA RAMANA WARE HOUSE, Nandikotkur, NANDYALA, Andhra Pradesh 518401",
+    "area": "518401",
+    "latitude": 15.849685399999998,
+    "longitude": 78.26703479999999,
+    "place_id": "ChIJD9fL1HbrtTsR7BnEc0p05ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9fL1HbrtTsR7BnEc0p05ts",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:03"
+  },
+  {
+    "business_name": "Prasad Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "518401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Gooty Rd, Abbas Nagar, Kallur, Kalluru, Andhra Pradesh 518002",
+    "area": "Abbas Nagar, Kallur",
+    "latitude": 15.7963238,
+    "longitude": 78.03519659999999,
+    "place_id": "ChIJOyiojMPdtTsRB4OAWR-Son4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyiojMPdtTsRB4OAWR-Son4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:05"
+  }
+]

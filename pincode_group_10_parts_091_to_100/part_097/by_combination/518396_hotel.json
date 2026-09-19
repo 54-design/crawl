@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Ramanjini",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518396",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kurnool 7/45near water tank nemakal village chippagiri mandal kurnool district pin code:518396, Alur, Nemakallu, Andhra Pradesh 518396",
+    "area": "518396",
+    "latitude": 15.283146899999998,
+    "longitude": 77.2893912,
+    "place_id": "ChIJBXlzKAD7tjsRa3w2GV8tNXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXlzKAD7tjsRa3w2GV8tNXc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:59:40"
+  },
+  {
+    "business_name": "Hotel Veeresh",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518396",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "77MQ+34G, Nemakallu, Andhra Pradesh 518396",
+    "area": "518396",
+    "latitude": 15.2827757,
+    "longitude": 77.2876047,
+    "place_id": "ChIJGeVbRgD7tjsRVv__8stGolg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeVbRgD7tjsRVv__8stGolg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:59:40"
+  }
+]

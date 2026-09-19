@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vinayaka Cycle Agency",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "518465",
+    "phone_number": "+91 99666 00310",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "36-10-47, Stadium Rd, Innespeta, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Innespeta",
+    "latitude": 16.9959093,
+    "longitude": 81.7762663,
+    "place_id": "ChIJx3i7pnekNzoRLIB7E5yCBOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3i7pnekNzoRLIB7E5yCBOM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:21:26"
+  },
+  {
+    "business_name": "SRM BIKE ZONE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motor scooter repair shop",
+    "all_categories": "Motor scooter repair shop",
+    "pincode": "518465",
+    "phone_number": "+91 91605 01488",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 15,
+    "address": "5-54, pattikona road, Aspari, Andhra Pradesh 518347",
+    "area": "518465",
+    "latitude": 15.475694599999999,
+    "longitude": 77.39074099999999,
+    "place_id": "ChIJh6YK6M9ZtjsRDBICUo_g-kY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6YK6M9ZtjsRDBICUo_g-kY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:21:27"
+  }
+]

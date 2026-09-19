@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Land",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "518401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R376+892, Kurnool, Andhra Pradesh 518002",
+    "area": "518401",
+    "latitude": 15.8132687,
+    "longitude": 78.0608786,
+    "place_id": "ChIJnYsgAgDdtTsROuj7FbJju5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYsgAgDdtTsROuj7FbJju5U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:52"
+  },
+  {
+    "business_name": "On The Market India",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "518401",
+    "phone_number": "+91 861 239 3001",
+    "website": "https://www.onthemarket.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MIG 18, Housing Board, Kallurupalli, Andhra Pradesh 524003",
+    "area": "Housing Board",
+    "latitude": 14.3817268,
+    "longitude": 79.9578659,
+    "place_id": "ChIJxXnTnY_zTDoRylFgjaU0JeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXnTnY_zTDoRylFgjaU0JeQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:53"
+  }
+]

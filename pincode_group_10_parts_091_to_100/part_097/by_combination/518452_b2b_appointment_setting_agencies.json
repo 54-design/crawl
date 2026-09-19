@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BookMyServices",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency, Service establishment",
+    "pincode": "518452",
+    "phone_number": "+91 86888 42714",
+    "website": "https://www.bookmyservices.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BookMyServices, 518452, India",
+    "area": "518452",
+    "latitude": 20.8584951,
+    "longitude": 76.5629608,
+    "place_id": "ChIJ0QHcGxBko0cR5n8hRF_lD-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QHcGxBko0cR5n8hRF_lD-c",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:05"
+  },
+  {
+    "business_name": "Victoria Placements",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant",
+    "pincode": "518452",
+    "phone_number": "N/A",
+    "website": "https://victoriaplacements.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "618, CTC, Park Ln, Kalasiguda, Hyderabad, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.440658199999998,
+    "longitude": 78.4898577,
+    "place_id": "ChIJFeHy-k6byzsRj_oX_hoquP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeHy-k6byzsRj_oX_hoquP8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:06"
+  }
+]

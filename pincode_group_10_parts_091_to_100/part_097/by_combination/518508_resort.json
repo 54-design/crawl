@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK VILLAGE RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Home Stay",
+    "pincode": "518508",
+    "phone_number": "+91 90002 83314",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 249,
+    "address": "C/O R K village Farmhouse 35 ERLAMPALLE IRALA MANDAL 35, Erlampalle, Andhra Pradesh 517130",
+    "area": "518508",
+    "latitude": 13.3707174,
+    "longitude": 78.9763902,
+    "place_id": "ChIJ_1kX6tWfsjsRc1iUVwF2HtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1kX6tWfsjsRc1iUVwF2HtU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:33:03"
+  },
+  {
+    "business_name": "Namooru Hill View",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "518508",
+    "phone_number": "+91 88677 54133",
+    "website": "https://namooruhillview.com/",
+    "rating": 4.4,
+    "reviews_count": 305,
+    "address": "113/1,Thekalahalli village Manchenahalli, Gauribidanur, Chikkaballapur, Karnataka 562101",
+    "area": "518508",
+    "latitude": 13.5559848,
+    "longitude": 77.64111969999999,
+    "place_id": "ChIJYbE__k3rsTsR3dPhrmBGDgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbE__k3rsTsR3dPhrmBGDgg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:33:04"
+  }
+]

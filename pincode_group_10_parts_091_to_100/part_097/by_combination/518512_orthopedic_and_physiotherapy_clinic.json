@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NIO Ortho Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic",
+    "pincode": "518512",
+    "phone_number": "+91 95001 02433",
+    "website": "https://nioorthoclinics.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "12, 2nd Main Rd, Ram Nagar, Nanganallur, Chennai, Tamil Nadu 600061",
+    "area": "Ram Nagar, Nanganallur",
+    "latitude": 12.983748499999999,
+    "longitude": 80.1933973,
+    "place_id": "ChIJH_9RynxdUjoROD2kUfD_VUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_9RynxdUjoROD2kUfD_VUU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:38:05"
+  },
+  {
+    "business_name": "Physiocraft India",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy equipment supplier",
+    "all_categories": "Physiotherapy equipment supplier",
+    "pincode": "518512",
+    "phone_number": "+91 87003 55011",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Shop No 3, Khasra No 1122, Tiranga Building, Bagga Link Rd, Rithala Extension, Rithala, Rohini, Delhi, 110085",
+    "area": "Rithala Extension, Rithala, Rohini",
+    "latitude": 28.722451799999998,
+    "longitude": 77.10213879999999,
+    "place_id": "ChIJR70eMSwHDTkRMuDBaX7EeCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR70eMSwHDTkRMuDBaX7EeCs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:38:06"
+  }
+]

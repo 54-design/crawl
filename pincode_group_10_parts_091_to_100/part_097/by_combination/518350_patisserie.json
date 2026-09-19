@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Slv Bangalore Bakery Deva",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery equipment",
+    "all_categories": "Bakery equipment",
+    "pincode": "518350",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "JGQJ+462, Ternekal, Andhra Pradesh 518465",
+    "area": "518350",
+    "latitude": 15.637762599999999,
+    "longitude": 77.5305022,
+    "place_id": "ChIJH3vgTOBDtjsRykjmUbDwpsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3vgTOBDtjsRykjmUbDwpsc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:11"
+  },
+  {
+    "business_name": "New Surya Enterprises",
+    "search_category": "Patisserie",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Bakery and Cake Shop, General store",
+    "pincode": "518350",
+    "phone_number": "+91 73372 11163",
+    "website": "https://www.newsuryaenterprises.com/",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "3-3-803, General Bazaar, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "General Bazaar, Kalasiguda",
+    "latitude": 17.437323,
+    "longitude": 78.4927699,
+    "place_id": "ChIJt83JgxmayzsRmWqoX6e7Mew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt83JgxmayzsRmWqoX6e7Mew",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:14"
+  }
+]

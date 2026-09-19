@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sri Chennakesava medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "518405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M5PH+75H, Unnamed Road, Orvakal, Andhra Pradesh 518010",
+    "area": "518405",
+    "latitude": 15.6855909,
+    "longitude": 78.17792539999999,
+    "place_id": "ChIJ-00bwifFtTsRzRMZKvv3MQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-00bwifFtTsRzRMZKvv3MQM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:44"
+  },
+  {
+    "business_name": "Ellenbarrie Industrial gases",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Oxygen equipment supplier",
+    "all_categories": "Oxygen equipment supplier",
+    "pincode": "518405",
+    "phone_number": "N/A",
+    "website": "https://ellenbarrie.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "M43X+GQG, Guttapadu, Andhra Pradesh 518010",
+    "area": "518405",
+    "latitude": 15.6538203,
+    "longitude": 78.14944129999999,
+    "place_id": "ChIJ1xInJgDFtTsRGdl272SUU0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xInJgDFtTsRGdl272SUU0o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:46"
+  }
+]

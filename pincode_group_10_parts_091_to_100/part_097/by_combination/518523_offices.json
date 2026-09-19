@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grama sachivalayam",
+    "search_category": "Offices",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "518523",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GGHP+C65, Nandyal - Atmakur Rd, A Kodur, Ayyavari Kodur, Andhra Pradesh 518523",
+    "area": "A Kodur",
+    "latitude": 15.528510299999999,
+    "longitude": 78.5356053,
+    "place_id": "ChIJ64lnf2SttTsRJeo0bdS0AA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64lnf2SttTsRJeo0bdS0AA4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:43:13"
+  },
+  {
+    "business_name": "ICDS Project Nandyal Urban",
+    "search_category": "Offices",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "518523",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "FFQR+6GG, uppari Peta, Telugu Peta, Nandyala, Andhra Pradesh 518501",
+    "area": "uppari Peta, Telugu Peta",
+    "latitude": 15.4880625,
+    "longitude": 78.49132809999999,
+    "place_id": "ChIJy5rNX-uttTsRJ3IAisCVjOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5rNX-uttTsRJ3IAisCVjOg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:43:13"
+  }
+]

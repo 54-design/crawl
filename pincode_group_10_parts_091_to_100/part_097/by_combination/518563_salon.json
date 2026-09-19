@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seven hills saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "518563",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9FRX+36G, Gospadu, Dibaguntla, Andhra Pradesh 518563",
+    "area": "518563",
+    "latitude": 15.3901819,
+    "longitude": 78.49808159999999,
+    "place_id": "ChIJR_BfVwBTtDsRO2kC1CVsD4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_BfVwBTtDsRO2kC1CVsD4g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:49:46"
+  },
+  {
+    "business_name": "PAVAN HAIR STYLES",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "518563",
+    "phone_number": "+91 62811 97963",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH40, metta, Sirvella, Andhra Pradesh 518510",
+    "area": "metta",
+    "latitude": 15.3236844,
+    "longitude": 78.51355319999999,
+    "place_id": "ChIJk_fNsZ5RtDsRNrmcJwf4YKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_fNsZ5RtDsRNrmcJwf4YKo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:49:48"
+  }
+]

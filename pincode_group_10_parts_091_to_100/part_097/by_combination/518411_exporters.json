@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jesvil Corporation",
+    "search_category": "Exporters",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "518411",
+    "phone_number": "+91 96339 99904",
+    "website": "https://jesvil.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P.O, No:13/17, Cheriyapullingal, Puthankada Neyyattinkara, Thirupuram, Keralam 695133",
+    "area": "Puthankada",
+    "latitude": 8.3592706,
+    "longitude": 77.07244469999999,
+    "place_id": "ChIJ9TBhEUyvBTsRFhNsKirIfV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TBhEUyvBTsRFhNsKirIfV0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:05:42"
+  },
+  {
+    "business_name": "Rajyalakshmi Marine Exports",
+    "search_category": "Exporters",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "518411",
+    "phone_number": "+91 98481 77686",
+    "website": "http://www.rajyalakshmimarineexports.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GCHM+R9R, Seesali, Andhra Pradesh 534237",
+    "area": "518411",
+    "latitude": 16.5298023,
+    "longitude": 81.433403,
+    "place_id": "ChIJq6qqquYtNjoRPmQDcdfI8P0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqquYtNjoRPmQDcdfI8P0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:05:42"
+  }
+]

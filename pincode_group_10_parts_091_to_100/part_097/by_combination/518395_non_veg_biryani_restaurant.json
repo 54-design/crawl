@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518395",
+    "phone_number": "+91 96031 16570",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "SBI, SBI Rd, B C Colony, Aspari, Andhra Pradesh 518347",
+    "area": "B C Colony",
+    "latitude": 15.4789497,
+    "longitude": 77.3884836,
+    "place_id": "ChIJD44XwtpZtjsR4V5khXNppsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD44XwtpZtjsR4V5khXNppsE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:56:58"
+  },
+  {
+    "business_name": "Moksha Sri Restaurant & Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518395",
+    "phone_number": "N/A",
+    "website": "https://moksha-sri-restaurant.pages.dev/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moksha Sri Hotel and restaurant, Kurnool Road, Aspari, Andhra Pradesh 518380",
+    "area": "518395",
+    "latitude": 15.4780815,
+    "longitude": 77.3965329,
+    "place_id": "ChIJxQ4RSjNZtjsRwP9nzh-8xtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQ4RSjNZtjsRwP9nzh-8xtQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:56:58"
+  }
+]

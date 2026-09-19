@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavana Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "518462",
+    "phone_number": "+91 94926 12923",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 273,
+    "address": "behind Main Temple, Ahobilam, Andhra Pradesh 518543",
+    "area": "518462",
+    "latitude": 15.1318065,
+    "longitude": 78.6682228,
+    "place_id": "ChIJ0U84GUX1tDsRtYCuo9zd1hI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U84GUX1tDsRtYCuo9zd1hI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:16:19"
+  },
+  {
+    "business_name": "HOTEL DWARAKA",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518462",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "MQPF+C77, Kurnool Rd, Kodumur, Andhra Pradesh 518464",
+    "area": "518462",
+    "latitude": 15.6860383,
+    "longitude": 77.7731629,
+    "place_id": "ChIJaSDtagBxtjsRwSu3DOGy3wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSDtagBxtjsRwSu3DOGy3wE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:16:20"
+  }
+]

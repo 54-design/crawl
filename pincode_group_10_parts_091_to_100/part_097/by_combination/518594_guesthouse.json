@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri jwala narasimha guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "518594",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4MHF+MQM, Indiramma Colony, Ahobilam, Andhra Pradesh 518543",
+    "area": "Indiramma Colony",
+    "latitude": 15.1292238,
+    "longitude": 78.6744167,
+    "place_id": "ChIJhW4gEQD1tDsRYlwuZbmGQ0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhW4gEQD1tDsRYlwuZbmGQ0A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:57:24"
+  },
+  {
+    "business_name": "Ahobilam Rooms Ac/Non A/C ..",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "518594",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ahobilam, Andhra Pradesh 518543",
+    "area": "518594",
+    "latitude": 15.133766699999999,
+    "longitude": 78.6741657,
+    "place_id": "ChIJ8zTP7Mb1tDsRXly2xej3eoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zTP7Mb1tDsRXly2xej3eoQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:57:24"
+  }
+]

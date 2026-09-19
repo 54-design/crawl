@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arun And Amrutha",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518405",
+    "phone_number": "+91 88979 98661",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 16-1B, near Temple, Rollapadu, Andhra Pradesh 518405",
+    "area": "518405",
+    "latitude": 15.7597553,
+    "longitude": 78.365994,
+    "place_id": "ChIJ8U9wfUG_tTsRrF7FudH3EAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8U9wfUG_tTsRrF7FudH3EAI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:24"
+  },
+  {
+    "business_name": "Kesari Ice Cream Parlour & Fruit Juices",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518405",
+    "phone_number": "+91 63024 57466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "CG34+XWP, MSR Rd, opp. Srinivasa Theater, Kothapeta, Kanigiri, Andhra Pradesh 523230",
+    "area": "Kothapeta",
+    "latitude": 15.4049648,
+    "longitude": 79.5073318,
+    "place_id": "ChIJN1lVcQAvSzoRx2m8z61LqnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1lVcQAvSzoRx2m8z61LqnQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:27"
+  }
+]

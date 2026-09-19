@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shine Luxury Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "518573",
+    "phone_number": "+91 96184 32333",
+    "website": "https://shineluxuryspa.com/",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "50-121-12/1, 50-121-12, above Pure O Naturals, North Extension, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "North Extension, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7413254,
+    "longitude": 83.30612289999999,
+    "place_id": "ChIJGabZZcBDOToRld15CWjms_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGabZZcBDOToRld15CWjms_w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:51:43"
+  },
+  {
+    "business_name": "SPARC Mentoring & Consulting Services",
+    "search_category": "Spa Consultants",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "518573",
+    "phone_number": "+91 94921 47723",
+    "website": "https://www.sumanpachigulla.com/",
+    "rating": 4.9,
+    "reviews_count": 51,
+    "address": "Sundar Sai Appartment, SVN Nagar, Dharmapuri, Andhra Pradesh 535002",
+    "area": "Allipuram, SVN Nagar",
+    "latitude": 18.098615,
+    "longitude": 83.4182884,
+    "place_id": "ChIJkQEd1sybyzsRlP-GfJq7NYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQEd1sybyzsRlP-GfJq7NYk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:51:43"
+  }
+]

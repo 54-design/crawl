@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nvr Resorts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518543",
+    "phone_number": "+91 93469 47547",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indiramma Colony, Ahobilam, Andhra Pradesh 518543",
+    "area": "Indiramma Colony",
+    "latitude": 15.130632299999998,
+    "longitude": 78.6721965,
+    "place_id": "ChIJU63xTfD1tDsRUly2V_4DMuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU63xTfD1tDsRUly2V_4DMuc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:46:15"
+  },
+  {
+    "business_name": "Haritha Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518543",
+    "phone_number": "+91 97053 89600",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "4447+2CJ, Belum, Andhra Pradesh 518123",
+    "area": "518543",
+    "latitude": 15.1050831,
+    "longitude": 78.1135204,
+    "place_id": "ChIJXYF7CU09tDsRc9aRBPz97hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYF7CU09tDsRc9aRBPz97hM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:46:15"
+  }
+]

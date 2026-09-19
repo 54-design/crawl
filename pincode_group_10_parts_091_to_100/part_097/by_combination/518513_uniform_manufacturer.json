@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Latest tailors",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Tailor",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bastand, Santajuturu, Andhra Pradesh 518513",
+    "area": "Bastand",
+    "latitude": 15.6260947,
+    "longitude": 78.5356034,
+    "place_id": "ChIJQWDzbVivtTsRg2k6QdqhHU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWDzbVivtTsRg2k6QdqhHU4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:39:47"
+  },
+  {
+    "business_name": "Aashirvad Garments",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing store",
+    "pincode": "518513",
+    "phone_number": "+91 95736 43598",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "11-2-152 to 156, Ganesh Temple Ln, opp. to Medplus, Seethaphalmandi, Padmarao Nagar, Secunderabad, Telangana 500061",
+    "area": "Seethaphalmandi, Padmarao Nagar",
+    "latitude": 17.428981399999998,
+    "longitude": 78.51570219999999,
+    "place_id": "ChIJ6-u9q4CZyzsR2M6K1R6b4vY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-u9q4CZyzsR2M6K1R6b4vY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:39:49"
+  }
+]

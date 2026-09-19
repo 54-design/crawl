@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anushka Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518543",
+    "phone_number": "+91 95056 97132",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "4MMG+GP3, Ahobilam, Andhra Pradesh 518543",
+    "area": "518543",
+    "latitude": 15.133752699999999,
+    "longitude": 78.6767919,
+    "place_id": "ChIJW9SxSkb1tDsRwjYm6mONjn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9SxSkb1tDsRwjYm6mONjn8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:19"
+  },
+  {
+    "business_name": "Tapasvi foods",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518543",
+    "phone_number": "+91 90357 78776",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Nadyal main road, Chagalamarri, Andhra Pradesh 518553",
+    "area": "518543",
+    "latitude": 14.954782,
+    "longitude": 78.5894412,
+    "place_id": "ChIJB2EAKC9jtDsRnVooVXFNpcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2EAKC9jtDsRnVooVXFNpcc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:19"
+  }
+]

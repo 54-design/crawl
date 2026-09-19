@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Cure clinic",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "518598",
+    "phone_number": "N/A",
+    "website": "http://mrpharmacy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Betamcherla, Andhra Pradesh 518599",
+    "area": "518598",
+    "latitude": 15.4513793,
+    "longitude": 78.14823489999999,
+    "place_id": "ChIJsRnkJW3NtTsRywEVbVAjcBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRnkJW3NtTsRywEVbVAjcBw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:58:39"
+  },
+  {
+    "business_name": "సుధాకర్ మెడికల్",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "518598",
+    "phone_number": "+91 94401 65172",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rangapuram, Andhra Pradesh 518598",
+    "area": "518598",
+    "latitude": 15.407475199999999,
+    "longitude": 78.07590909999999,
+    "place_id": "ChIJwVJWvagttDsRjeXMSW9YnDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVJWvagttDsRjeXMSW9YnDI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:58:39"
+  }
+]

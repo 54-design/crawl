@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ekart Courier Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "518523",
+    "phone_number": "N/A",
+    "website": "http://www.ekartlogistics.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "518501, Farook Nagar, Salim Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Farook Nagar, Salim Nagar",
+    "latitude": 15.4856196,
+    "longitude": 78.4906848,
+    "place_id": "ChIJAXmnIUyttTsRkk0qYJoqrww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXmnIUyttTsRkk0qYJoqrww",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:42:50"
+  },
+  {
+    "business_name": "ASAP Couriers Nandyal",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "518523",
+    "phone_number": "+91 79979 91211",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FFJJ+H7M, Padmavathi Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Padmavathi Nagar",
+    "latitude": 15.481451999999999,
+    "longitude": 78.4806675,
+    "place_id": "ChIJD0s2nFSttTsRcA0PRdFPSB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0s2nFSttTsRcA0PRdFPSB0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:42:50"
+  }
+]

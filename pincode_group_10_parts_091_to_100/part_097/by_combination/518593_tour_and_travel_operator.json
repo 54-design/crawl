@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "518593",
+    "phone_number": "+91 99857 61261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Rythunagaram, Raitunagar, Andhra Pradesh 518502",
+    "area": "Rythunagaram",
+    "latitude": 15.448000899999998,
+    "longitude": 78.4755155,
+    "place_id": "ChIJyRPq5vRTtDsRKhNyntMMO4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRPq5vRTtDsRKhNyntMMO4Y",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:55:13"
+  },
+  {
+    "business_name": "KSR TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "518593",
+    "phone_number": "+91 93927 21849",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Hanuman temple, rythunagaram, Raitunagar, Andhra Pradesh 518502",
+    "area": "rythunagaram",
+    "latitude": 15.4509092,
+    "longitude": 78.4755299,
+    "place_id": "ChIJzak1cNFTtDsR6y3Vadix14s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzak1cNFTtDsR6y3Vadix14s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:55:13"
+  }
+]

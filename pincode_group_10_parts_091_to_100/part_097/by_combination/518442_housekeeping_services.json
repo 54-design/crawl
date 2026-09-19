@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rita Enterprise",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial equipment supplier",
+    "all_categories": "Janitorial equipment supplier, Cleaning products supplier, Coffee machine supplier, Janitorial service, Vending machine supplier",
+    "pincode": "518442",
+    "phone_number": "+91 88796 66234",
+    "website": "https://ritaenterprise.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghatkopar Industrial Estate, B-14/B-14A, Lal Bahadur Shastri Marg, behind R City Mall, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "area": "Amrut Nagar, Ghatkopar West",
+    "latitude": 19.1018254,
+    "longitude": 72.9139328,
+    "place_id": "ChIJOZEm6oPI5zsRhnG9O3nIUmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZEm6oPI5zsRhnG9O3nIUmY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:12:56"
+  },
+  {
+    "business_name": "Vishal Management Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services",
+    "pincode": "518442",
+    "phone_number": "+91 86478 87777",
+    "website": "https://www.vishalmanagementservices.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "910, Corporate Annexe, Sonawala Rd, near Udyog Bhavan, Sonawala Industry Estate, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Sonawala Industry Estate, Goregaon East",
+    "latitude": 19.161445,
+    "longitude": 72.8511003,
+    "place_id": "ChIJnR6fZWy35zsRpP5s2U9h_eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnR6fZWy35zsRpP5s2U9h_eU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:12:56"
+  }
+]

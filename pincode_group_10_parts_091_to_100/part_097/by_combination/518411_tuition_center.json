@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHERRY HOME TUITIONS",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service, Educational consultant, Private Tutor",
+    "pincode": "518411",
+    "phone_number": "+91 90004 40762",
+    "website": "https://cherryhometuitions.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sanjeeva Reddy Nagar, Hyderabad, Telangana 500038",
+    "area": "Sanjeeva Reddy Nagar",
+    "latitude": 17.4436875,
+    "longitude": 78.4458125,
+    "place_id": "ChIJITuZ-wSRyzsRcchfK_fIlWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITuZ-wSRyzsRcchfK_fIlWg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:05:14"
+  },
+  {
+    "business_name": "Tutor Times",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "518411",
+    "phone_number": "+91 80076 66652",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 45,
+    "address": "27, Manewada Ring Road, near Uday Nagar, Shree Ram Nagar, Ashirwad Nagar, Nagpur, Maharashtra 440024",
+    "area": "Shree Ram Nagar, Ashirwad Nagar",
+    "latitude": 21.1065587,
+    "longitude": 79.1146797,
+    "place_id": "ChIJ2U3lcwC51DsRUITa82Gc1YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2U3lcwC51DsRUITa82Gc1YY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:05:14"
+  }
+]

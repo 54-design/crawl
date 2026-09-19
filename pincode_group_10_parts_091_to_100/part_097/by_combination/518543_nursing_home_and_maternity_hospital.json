@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivasa Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518543",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "TB Rd, Allagadda, Andhra Pradesh 518543",
+    "area": "518543",
+    "latitude": 15.136397899999999,
+    "longitude": 78.5059186,
+    "place_id": "ChIJ-S75IhNdtDsRDiD5REF6z6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S75IhNdtDsRDiD5REF6z6o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:36"
+  },
+  {
+    "business_name": "Vahida Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "518543",
+    "phone_number": "+91 85602 70758",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tadipatri Road, near Sanjamala Motu, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "518543",
+    "latitude": 14.8481455,
+    "longitude": 78.38385,
+    "place_id": "ChIJxxkG5OFztDsRddUS-8IsS3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxkG5OFztDsRddUS-8IsS3k",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:45:38"
+  }
+]

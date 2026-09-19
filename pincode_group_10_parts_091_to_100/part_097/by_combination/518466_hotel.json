@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva S Grand",
+    "search_category": "Hotel",
+    "primary_category": "Motel",
+    "all_categories": "Motel",
+    "pincode": "518466",
+    "phone_number": "+91 91821 15219",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "SNS complex, Shiva S Grand, Bangalore - Hyderabad Service Rd, near Mr idli, Dinnedevarapadu, Andhra Pradesh 518002",
+    "area": "518466",
+    "latitude": 15.786198899999999,
+    "longitude": 78.0329994,
+    "place_id": "ChIJKaLdTADdtTsRNYdng4UKJBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKaLdTADdtTsRNYdng4UKJBY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:43"
+  },
+  {
+    "business_name": "Aahvaanam A/C deluxe lodge and dormitory",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "518466",
+    "phone_number": "+91 96402 89999",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 220,
+    "address": "2nd Floor, Ukon Shoppy Ln, opp. to APSRTC Bus Stand Road, Other, Sita Rama Nagar, Kurnool, Andhra Pradesh 518003",
+    "area": "Other, Sita Rama Nagar",
+    "latitude": 15.825767599999999,
+    "longitude": 78.0267052,
+    "place_id": "ChIJZ7uuaizntTsRoz8KZD7lcuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7uuaizntTsRoz8KZD7lcuw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:43"
+  }
+]

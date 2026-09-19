@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aha Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "518462",
+    "phone_number": "+91 94940 06665",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "WVW3+CJ5, Shanthinagar, Telangana 509126",
+    "area": "518462",
+    "latitude": 15.9473205,
+    "longitude": 77.8552503,
+    "place_id": "ChIJJz4RDwAJtjsR6T0MEJP5ztU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJz4RDwAJtjsR6T0MEJP5ztU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:24"
+  },
+  {
+    "business_name": "Meenakshi Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "518462",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main road, opp. bus stand, Shanthinagar, Telangana 509126",
+    "area": "518462",
+    "latitude": 15.9481988,
+    "longitude": 77.8521408,
+    "place_id": "ChIJx_YsqIIJtjsRUMhEIFbF4Q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_YsqIIJtjsRUMhEIFbF4Q4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:24"
+  }
+]

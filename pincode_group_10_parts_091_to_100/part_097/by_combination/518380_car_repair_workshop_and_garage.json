@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car serviece SR MOTORS",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "518380",
+    "phone_number": "+91 81868 58129",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "SR motors, Pattikonda, adoni rode, Gooty - Adoni Rd, near by dargha, rode, Pattikonda, Andhra Pradesh 518380",
+    "area": "rode",
+    "latitude": 15.4098917,
+    "longitude": 77.48560119999999,
+    "place_id": "ChIJs0LbA-z1tjsRdC3NFDq309E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0LbA-z1tjsRdC3NFDq309E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:49"
+  },
+  {
+    "business_name": "Naveen Puncture Shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "518380",
+    "phone_number": "+91 95423 76082",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 14,
+    "address": "8G8V+2FV, Tuggali, Andhra Pradesh 518390",
+    "area": "518380",
+    "latitude": 15.315116699999999,
+    "longitude": 77.5436805,
+    "place_id": "ChIJGUKRuEDztjsRjm_CEoGLAbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUKRuEDztjsRjm_CEoGLAbQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:50"
+  }
+]

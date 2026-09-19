@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kebab House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant",
+    "pincode": "518396",
+    "phone_number": "+91 98494 19849",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 177,
+    "address": "7/26-D, Bhagya Nagar, Shanti Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Bhagya Nagar, Shanti Nagar",
+    "latitude": 15.161806499999999,
+    "longitude": 77.3712963,
+    "place_id": "ChIJLXde5ZbltjsRGaRcgfZLHEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXde5ZbltjsRGaRcgfZLHEQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:43"
+  },
+  {
+    "business_name": "Bawarchi Biriyani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant, Fast food restaurant, Indian restaurant",
+    "pincode": "518396",
+    "phone_number": "+91 91334 93553",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 134,
+    "address": "Anjuman colony, station road, beside Canara Bank 515801, Anjaman Colony, Guntakal, Andhra Pradesh 515801",
+    "area": "Anjaman Colony",
+    "latitude": 15.168935,
+    "longitude": 77.3745527,
+    "place_id": "ChIJl9VqQovltjsRzIq3qJByRmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9VqQovltjsRzIq3qJByRmY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:46"
+  }
+]

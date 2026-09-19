@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.G.N Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "39, KVR Garden Ln, KVR Garden Colony, Kurnool, Andhra Pradesh 518001",
+    "area": "KVR Garden Colony",
+    "latitude": 15.8279474,
+    "longitude": 78.0459003,
+    "place_id": "ChIJF9Iir2HntTsRmoVidKwigFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9Iir2HntTsRmoVidKwigFY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:40"
+  },
+  {
+    "business_name": "Hospital Supplier",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stop, No. 153, Near, N Veli St, Simmakkal, Madurai, Tamil Nadu 625001",
+    "area": "Simmakkal, Madurai Main",
+    "latitude": 9.9245669,
+    "longitude": 78.1168138,
+    "place_id": "ChIJs70AUo_FADsRt5fcXPD9Z-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs70AUo_FADsRt5fcXPD9Z-o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:42"
+  }
+]

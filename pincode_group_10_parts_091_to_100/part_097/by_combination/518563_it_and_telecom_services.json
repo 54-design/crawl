@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jio Point",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "518563",
+    "phone_number": "N/A",
+    "website": "http://www.jio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D - 1-356 Survey - 384/2 Rudravaram Road Circle, Sirvella, Andhra Pradesh 518563",
+    "area": "518563",
+    "latitude": 15.321034899999999,
+    "longitude": 78.53424509999999,
+    "place_id": "ChIJ2xCENx5RtDsREO8mdR13YhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xCENx5RtDsREO8mdR13YhA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:50:15"
+  },
+  {
+    "business_name": "GEETHANJALI DTH COMMUNICATION",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "518563",
+    "phone_number": "N/A",
+    "website": "http://geethanjalidth.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8GCM+CPF, Sirvella, Andhra Pradesh 518563",
+    "area": "518563",
+    "latitude": 15.3209398,
+    "longitude": 78.53437219999999,
+    "place_id": "ChIJUwZrtstRtDsRs1OPiCWMtLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwZrtstRtDsRs1OPiCWMtLo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:50:15"
+  }
+]

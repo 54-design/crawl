@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranga Cool Drinks",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "518350",
+    "phone_number": "+91 93478 59681",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 87,
+    "address": "Kurnool Rd, Kunkanur, Andhra Pradesh 518465",
+    "area": "518350",
+    "latitude": 15.5572308,
+    "longitude": 77.5455382,
+    "place_id": "ChIJ8W-j2tBdtjsR0c2trLVnkVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W-j2tBdtjsR0c2trLVnkVM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:49:07"
+  },
+  {
+    "business_name": "Croma - Kurnool",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Appliance store, Computer accessories store, Refrigerator store",
+    "pincode": "518350",
+    "phone_number": "+91 74161 62763",
+    "website": "https://store.croma.com/croma-kurnool-electronics-retail-and-repair-shop-river-view-colony-kurnool-263567/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Center Talkies Road, Raj Vihar Road, Madavanagar, River View Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "Madavanagar, River View Colony",
+    "latitude": 15.828342399999999,
+    "longitude": 78.03794769999999,
+    "place_id": "ChIJERhGZHvntTsRdcX5JO-v_iQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERhGZHvntTsRdcX5JO-v_iQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:49:08"
+  }
+]

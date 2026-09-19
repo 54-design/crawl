@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI Life Insurance Company Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company",
+    "pincode": "518502",
+    "phone_number": "+91 85142 25246",
+    "website": "https://www.sbilife.co.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "D.No.25-454/A, First Floor R.S.Road, Gate, Sanjeev Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Sanjeev Nagar",
+    "latitude": 15.481475,
+    "longitude": 78.47997699999999,
+    "place_id": "ChIJwbHzAFettTsRJD9FaE1jgKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbHzAFettTsRJD9FaE1jgKM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:31"
+  },
+  {
+    "business_name": "HDFC ERGO Insurance Agent: Midde Venkataramana",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "518502",
+    "phone_number": "+91 80 4595 0234",
+    "website": "https://agent.hdfcergo.com/hdfc-ergo-insurance-agent-midde-venkataramana-insurance-broker-pusulur-kurnool-524395/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No 5/33, SC Colony, Pusulur, Andhra Pradesh 518593",
+    "area": "518502",
+    "latitude": 15.421359599999999,
+    "longitude": 78.4155033,
+    "place_id": "ChIJ2RkmssVNtDsRlNruT-rLrUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RkmssVNtDsRlNruT-rLrUw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:31"
+  }
+]

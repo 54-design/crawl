@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOLDEN ZOYA CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "518405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 82,
+    "address": "Postal Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "Postal Colony",
+    "latitude": 15.8405791,
+    "longitude": 78.0362852,
+    "place_id": "ChIJW6zQjkPntTsRqXaELFs-_Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6zQjkPntTsRqXaELFs-_Ys",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:24"
+  },
+  {
+    "business_name": "Spandana tea",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518405",
+    "phone_number": "+91 92469 24688",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Q3H4+3R5, 273, highway, near pullareddy dental college, nataraja nagar, Dinnedevarapadu, Andhra Pradesh 518007",
+    "area": "nataraja nagar",
+    "latitude": 15.778372899999999,
+    "longitude": 78.0568296,
+    "place_id": "ChIJRzzjKArdtTsRraqFXnyW68Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzzjKArdtTsRraqFXnyW68Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:24"
+  }
+]

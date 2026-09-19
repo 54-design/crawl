@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.Kashim",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Basic Colony, Bc colony, near by School, Paramaturu, Andhra Pradesh 518513",
+    "area": "518513",
+    "latitude": 15.625729699999999,
+    "longitude": 78.524588,
+    "place_id": "ChIJKyzEzKqvtTsRUj4XIama4Co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyzEzKqvtTsRUj4XIama4Co",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:39:31"
+  },
+  {
+    "business_name": "Eswar fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Fish processing",
+    "all_categories": "Fish processing",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MH6M+57G, Thimmana palle Thimmana palle, Velugodu, Andhra Pradesh 518533",
+    "area": "Timmana Palle",
+    "latitude": 15.660437,
+    "longitude": 78.5832128,
+    "place_id": "ChIJJYdOiLCptTsRPULLFjTtpiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYdOiLCptTsRPULLFjTtpiA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:39:31"
+  }
+]

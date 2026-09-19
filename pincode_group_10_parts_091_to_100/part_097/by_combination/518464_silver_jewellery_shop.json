@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SVN jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "518464",
+    "phone_number": "+91 96422 15571",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rd, Kodumur, Andhra Pradesh 518464",
+    "area": "518464",
+    "latitude": 15.6840175,
+    "longitude": 77.7718464,
+    "place_id": "ChIJuVkv1gBxtjsR3j13e6U-Xig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVkv1gBxtjsR3j13e6U-Xig",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:11"
+  },
+  {
+    "business_name": "Gudur",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "518464",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "QRF4+V3P, Guduru, Andhra Pradesh 518466",
+    "area": "518464",
+    "latitude": 15.7747177,
+    "longitude": 77.8052009,
+    "place_id": "ChIJbywEVQBztjsRjX-bNm2loJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbywEVQBztjsRjX-bNm2loJM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:12"
+  }
+]

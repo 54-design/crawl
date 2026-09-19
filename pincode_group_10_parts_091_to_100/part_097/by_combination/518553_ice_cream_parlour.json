@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer icecream 🍨🍦",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XH7R+3M5, Chagalamarri, Andhra Pradesh 518553",
+    "area": "518553",
+    "latitude": 14.962630899999999,
+    "longitude": 78.5917249,
+    "place_id": "ChIJQ2PIXABjtDsRn7KojXBoD1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2PIXABjtDsRn7KojXBoD1w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:47:13"
+  },
+  {
+    "business_name": "Supreme Ice Creams",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "518553",
+    "phone_number": "+91 89192 55549",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 102,
+    "address": "Nagarajupeta Old Subrahmanyeswara Swamy Temple, Naga Raju Pet, Palakollu, Andhra Pradesh 534260",
+    "area": "Naga Raju Pet",
+    "latitude": 16.5242328,
+    "longitude": 81.72470679999999,
+    "place_id": "ChIJO6vorfraNzoRTYRdao6Pohc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6vorfraNzoRTYRdao6Pohc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:47:13"
+  }
+]

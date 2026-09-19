@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Estaa Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "518390",
+    "phone_number": "+91 98564 05555",
+    "website": "https://www.estaasweets.com/",
+    "rating": 4.6,
+    "reviews_count": 845,
+    "address": "KMP Galleria, Meenakshi Layout, Near police Quarters, Amrutha college road,Parappana agrahara, Hosa Rd, Choodasandra, Bengaluru, Karnataka 560100",
+    "area": "Choodasandra",
+    "latitude": 12.8823273,
+    "longitude": 77.6724172,
+    "place_id": "ChIJSebbXl0TrjsR-XSKz86jNyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSebbXl0TrjsR-XSKz86jNyM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:55:07"
+  },
+  {
+    "business_name": "Sweet India",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Bakery and Cake Shop",
+    "pincode": "518390",
+    "phone_number": "+91 89125 68457",
+    "website": "https://www.sweetindia.in/",
+    "rating": 4.2,
+    "reviews_count": 4377,
+    "address": "10-1-44, Sampath Vinayaka Temple Rd, CBM Compound, Ram Nagar, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "CBM Compound, Ram Nagar",
+    "latitude": 17.7251376,
+    "longitude": 83.31657349999999,
+    "place_id": "ChIJVb3_37FpOToRRQZuR-_bnvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVb3_37FpOToRRQZuR-_bnvs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:55:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Music N Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Chess instructor, Event planner, Guitar instructor, Music school, Vocal Instructor, Wedding service",
+    "pincode": "518380",
+    "phone_number": "+91 98731 54134",
+    "website": "http://www.musicndance.in/",
+    "rating": 3.5,
+    "reviews_count": 53,
+    "address": "83, Bannu Enclave, Rd Number 42, Co-operative Group Housing Societies Pitampura, Pitampura, Delhi, 110034",
+    "area": "Co-operative Group Housing Societies Pitampura, Pitampura",
+    "latitude": 28.6911003,
+    "longitude": 77.1179841,
+    "place_id": "ChIJVVVVVcEDDTkRTU8XCWs9Vto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVcEDDTkRTU8XCWs9Vto",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:52:30"
+  },
+  {
+    "business_name": "Rock'nroll Music and Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "518380",
+    "phone_number": "+91 90363 01101",
+    "website": "http://www.rocknroll.co.in/",
+    "rating": 4.9,
+    "reviews_count": 122,
+    "address": "S1 -2nd Floor, RGR Complex, Cluster_doddathoguru 1, 2, 10th Cross Rd, Celebrity Paradise Layout, Doddathoguru, Electronic City Phase I, Electronic City, Doddathoguru, Karnataka 560100",
+    "area": "Celebrity Paradise Layout, Doddathoguru, Electronic City Phase I, Electronic City",
+    "latitude": 12.8475208,
+    "longitude": 77.6501055,
+    "place_id": "ChIJbz2Gm7trrjsR8HNEkrrSElI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbz2Gm7trrjsR8HNEkrrSElI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:52:31"
+  }
+]

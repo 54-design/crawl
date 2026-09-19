@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Top Hospitality Consultant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "518467",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Top Hospitality Consultant, 518467, India",
+    "area": "518467",
+    "latitude": 21.0680074,
+    "longitude": 76.1429065,
+    "place_id": "ChIJ7U0yxcGlkmkRudksepgRDhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7U0yxcGlkmkRudksepgRDhM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:25:39"
+  },
+  {
+    "business_name": "Akmal Associates",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "518467",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Santosh Nagar Colony, Lanjapeta, L. Peta, Andhra Pradesh 518003",
+    "area": "Santosh Nagar Colony",
+    "latitude": 15.838352299999999,
+    "longitude": 78.012017,
+    "place_id": "ChIJk4nl-KThtTsRqC9lS5gZdPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4nl-KThtTsRqC9lS5gZdPY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:25:41"
+  }
+]

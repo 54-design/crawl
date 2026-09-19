@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mubarak general stores",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "518442",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pamulapadu, Andhra Pradesh 518442",
+    "area": "518442",
+    "latitude": 15.840836,
+    "longitude": 78.4931117,
+    "place_id": "ChIJAVT9O7WjtTsR0R5YjjnOCmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVT9O7WjtTsR0R5YjjnOCmg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:13:13"
+  },
+  {
+    "business_name": "Minesh Traders",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "518442",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KG Rd, Kurnool, Pamulapadu, Andhra Pradesh 518442",
+    "area": "518442",
+    "latitude": 15.840884599999999,
+    "longitude": 78.49408199999999,
+    "place_id": "ChIJRZeDb_ijtTsR10zm_EqCx8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZeDb_ijtTsR10zm_EqCx8s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:13:15"
+  }
+]

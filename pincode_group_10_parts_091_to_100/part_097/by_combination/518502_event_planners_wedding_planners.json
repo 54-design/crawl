@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMILEY EVENTS",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "518502",
+    "phone_number": "+91 63009 22738",
+    "website": "http://www.smiley-events.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "42/1201-1, beside 7th heaven upstairs, murthunjaya kunta, Kadapa, Chinna Chauku, Andhra Pradesh 516001",
+    "area": "murthunjaya kunta, Kadapa",
+    "latitude": 14.4675912,
+    "longitude": 78.8353386,
+    "place_id": "ChIJrbBw34dzszsRkbnYtKtT4xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbBw34dzszsRkbnYtKtT4xA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:12"
+  },
+  {
+    "business_name": "The Party Den",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Theater company",
+    "all_categories": "Theater company",
+    "pincode": "518502",
+    "phone_number": "+91 70700 80883",
+    "website": "https://thepartyden.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "FR6G+WC8, Nagarajupeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Nagarajupeta",
+    "latitude": 14.4620514,
+    "longitude": 78.8259669,
+    "place_id": "ChIJadZKpvFzszsR-l7OZzEbjY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadZKpvFzszsR-l7OZzEbjY8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harita Hotel, AP Tourism",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518390",
+    "phone_number": "+91 90104 70556",
+    "website": "https://tourism.ap.gov.in/hotellist?cityCode=76&unitCode=ALL",
+    "rating": 3.6,
+    "reviews_count": 748,
+    "address": "Temple, Dist, opp. Mahanandi, Mahanandi, Timmapuram, Andhra Pradesh 518502",
+    "area": "Mahanandi",
+    "latitude": 15.4716604,
+    "longitude": 78.6254814,
+    "place_id": "ChIJkxGIDDtVtDsRcMKBYkTQsRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxGIDDtVtDsRcMKBYkTQsRY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:56:03"
+  },
+  {
+    "business_name": "Button Eyes Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "518390",
+    "phone_number": "+91 90105 70780",
+    "website": "http://www.buttoneyes.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "8636+X6G Tehsil, Moinabad, Tolkatta, Telangana 501504",
+    "area": "518390",
+    "latitude": 17.3038666,
+    "longitude": 78.20807719999999,
+    "place_id": "ChIJZ_OU3PPByzsRpyIbr6I616U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_OU3PPByzsRpyIbr6I616U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:56:04"
+  }
+]

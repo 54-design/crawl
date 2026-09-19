@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARVY RESIDENCY Lodge A/C",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Hotel",
+    "pincode": "518563",
+    "phone_number": "+91 99899 07171",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 176,
+    "address": "near RTC Bus Stand, Seetharama Nagar, Chintakunta, Andhra Pradesh 518134",
+    "area": "Seetharama Nagar",
+    "latitude": 15.2307867,
+    "longitude": 78.3111346,
+    "place_id": "ChIJD_E2kjhHtDsRk2emabhzShA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_E2kjhHtDsRk2emabhzShA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:49:57"
+  },
+  {
+    "business_name": "VISHNU NILAYAM",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518563",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "9FG9+RRR, Unnamed Road, S.Nagulavaram, Andhra Pradesh 518593",
+    "area": "518563",
+    "latitude": 15.377122799999999,
+    "longitude": 78.4695074,
+    "place_id": "ChIJceSHnQROtDsRAuJ41uONEf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceSHnQROtDsRAuJ41uONEf8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:50:00"
+  }
+]

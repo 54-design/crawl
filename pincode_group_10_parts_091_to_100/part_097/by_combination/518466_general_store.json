@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manohar Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518466",
+    "phone_number": "+91 70755 89828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanjeevaiah Nagar, Gudur, Guduru, Andhra Pradesh 518466",
+    "area": "Sanjeevaiah Nagar",
+    "latitude": 15.775384899999999,
+    "longitude": 77.8015434,
+    "place_id": "ChIJc_lNc5dztjsRTlPWkifWC48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_lNc5dztjsRTlPWkifWC48",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:22:38"
+  },
+  {
+    "business_name": "HARI STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518466",
+    "phone_number": "+91 91336 68181",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Telugu St, Verdhi, Gudur, Guduru, Andhra Pradesh 518466",
+    "area": "Verdhi",
+    "latitude": 15.777469199999999,
+    "longitude": 77.8010355,
+    "place_id": "ChIJy333vxhztjsRxU40hDCQj3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy333vxhztjsRxU40hDCQj3M",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:22:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "event management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "518412",
+    "phone_number": "N/A",
+    "website": "http://www.3cdecorators.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "event management, 518412, India",
+    "area": "518412",
+    "latitude": 22.8063513,
+    "longitude": 75.9260529,
+    "place_id": "ChIJmWQU9SVgXmMR9Z_WpCSbraI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWQU9SVgXmMR9Z_WpCSbraI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:07:01"
+  },
+  {
+    "business_name": "La fiesta event management company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "518412",
+    "phone_number": "+91 86021 98028",
+    "website": "https://www.lafiestaeventsplanner.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "La fiesta event management company, 518412, India",
+    "area": "518412",
+    "latitude": 28.5936474,
+    "longitude": 77.2291652,
+    "place_id": "ChIJ-8eS-DmpjioR5PNfrUo7bDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8eS-DmpjioR5PNfrUo7bDQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:07:04"
+  }
+]

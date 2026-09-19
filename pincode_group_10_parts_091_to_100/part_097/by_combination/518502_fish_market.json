@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sooraj Sea Foods",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "518502",
+    "phone_number": "+91 99128 29786",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "FX8W+799, Mypad Road, PC Naidu Nagar, Zakir Hussain Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "PC Naidu Nagar, Zakir Hussain Nagar",
+    "latitude": 14.465668599999999,
+    "longitude": 79.9959815,
+    "place_id": "ChIJpTX3Hr2MTDoR36RZou2WpMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTX3Hr2MTDoR36RZou2WpMg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:09"
+  },
+  {
+    "business_name": "Chennuru Fish Point🐟",
+    "search_category": "Fish Market",
+    "primary_category": "Fish & chips restaurant",
+    "all_categories": "Fish & chips restaurant",
+    "pincode": "518502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "9GHV+W59, Chennuru, Andhra Pradesh 518583",
+    "area": "518502",
+    "latitude": 15.3797968,
+    "longitude": 78.54297969999999,
+    "place_id": "ChIJ_WI1cABRtDsRMkjMarz8OFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WI1cABRtDsRMkjMarz8OFA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:16"
+  }
+]

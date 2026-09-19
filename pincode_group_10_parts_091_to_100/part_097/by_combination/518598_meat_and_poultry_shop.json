@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALLA CHICKEN MARKET",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken restaurant, Chicken shop, Store",
+    "pincode": "518598",
+    "phone_number": "+91 96527 76010",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Besides Library, Betamcherla, Andhra Pradesh 518599",
+    "area": "518598",
+    "latitude": 15.451242899999999,
+    "longitude": 78.1488928,
+    "place_id": "ChIJpz7TkdAytDsRsLaZD0SwsnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpz7TkdAytDsRsLaZD0SwsnI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:58:10"
+  },
+  {
+    "business_name": "Rangapuram, Andhra Pradesh 518598",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "518598",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rangapuram, Andhra Pradesh",
+    "area": "518598",
+    "latitude": 15.4004134,
+    "longitude": 78.0766036,
+    "place_id": "ChIJ1Qpx7FQstDsR4_rwz0TUnrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Qpx7FQstDsR4_rwz0TUnrw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:58:10"
+  }
+]

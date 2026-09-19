@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Srinivasa general stores",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Stationery store",
+    "pincode": "518464",
+    "phone_number": "+91 90303 11065",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Bhudawar peta, 46/736-C near, beside Sri chakra hospital, Kurnool, Andhra Pradesh 518002",
+    "area": "Budhawara Peta",
+    "latitude": 15.8199986,
+    "longitude": 78.0419982,
+    "place_id": "ChIJRepe9qrdtTsRZTrbxALXOO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRepe9qrdtTsRZTrbxALXOO4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:18:58"
+  },
+  {
+    "business_name": "Sri Swamy Cool Drinks",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518464",
+    "phone_number": "+91 95507 73013",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Shop No 2-35, opp. High School, Kodumur, Andhra Pradesh 518464",
+    "area": "518464",
+    "latitude": 15.682455399999998,
+    "longitude": 77.7647987,
+    "place_id": "ChIJs_f3P9JxtjsRMTzpjEPjE04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_f3P9JxtjsRMTzpjEPjE04",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bengali Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mangal Bazar Monu Complex, 1234, Main Road, G Lingapuram, Khora Colony, Bandi Atmakur, N💕, Andhra Pradesh 518513",
+    "area": "G Lingapuram, Khora Colony",
+    "latitude": 15.617688099999999,
+    "longitude": 78.56994739999999,
+    "place_id": "ChIJjVvvIACptTsRJ6t63qTTpK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVvvIACptTsRJ6t63qTTpK0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:39:53"
+  },
+  {
+    "business_name": "Doragari Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "518513",
+    "phone_number": "+91 99809 90280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bandi Atmakur, Andhra Pradesh 518523",
+    "area": "518513",
+    "latitude": 15.580406,
+    "longitude": 78.52229609999999,
+    "place_id": "ChIJaxgy9J2vtTsR7bSldlKru60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxgy9J2vtTsR7bSldlKru60",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:39:53"
+  }
+]

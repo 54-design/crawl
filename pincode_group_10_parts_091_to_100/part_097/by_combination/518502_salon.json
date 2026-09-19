@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indu Beauty Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "518502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "FF4W+G66, NGO Colony, Nandyala, Ayyalur, Andhra Pradesh 518502",
+    "area": "NGO Colony",
+    "latitude": 15.456288599999999,
+    "longitude": 78.49550359999999,
+    "place_id": "ChIJoZpW6zlTtDsRoCS8MC9NbhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZpW6zlTtDsRoCS8MC9NbhY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:02"
+  },
+  {
+    "business_name": "HIZAH-Beauty Lush",
+    "search_category": "Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store",
+    "pincode": "518502",
+    "phone_number": "+91 99896 96893",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2/138, Nadigadda, Telugu Peta, Nandyala, Andhra Pradesh 518501",
+    "area": "Nadigadda, Telugu Peta",
+    "latitude": 15.4888135,
+    "longitude": 78.4867964,
+    "place_id": "ChIJf6KyWxSttTsRbfEyXZsa1Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6KyWxSttTsRbfEyXZsa1Tw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:04"
+  }
+]

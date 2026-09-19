@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise Associates",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "518510",
+    "phone_number": "+91 95425 08352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "8-8-32/15, Allagadda - Koilkuntla Rd, Sai Baba Temple Temple Area, Gayathri Devi Temple Area, Allagadda, Andhra Pradesh 518543",
+    "area": "Sai Baba Temple Temple Area, Gayathri Devi Temple Area",
+    "latitude": 15.1279805,
+    "longitude": 78.5040504,
+    "place_id": "ChIJcYGsKgBdtDsRbb4fOcWu0S8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYGsKgBdtDsRbb4fOcWu0S8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:24"
+  },
+  {
+    "business_name": "PRS travels Allagadda",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "518510",
+    "phone_number": "+91 95738 45889",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Allagadda Bus Stand Rd, Rajanagaram, Allagadda, Andhra Pradesh 518543",
+    "area": "Rajanagaram",
+    "latitude": 15.129238299999999,
+    "longitude": 78.50453259999999,
+    "place_id": "ChIJn8dGaQBdtDsRO3X_44_zk4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8dGaQBdtDsRO3X_44_zk4U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:24"
+  }
+]

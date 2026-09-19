@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bakers Delight",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518593",
+    "phone_number": "+91 90521 43783",
+    "website": "https://www.bakersdelight.com.au/",
+    "rating": 3.5,
+    "reviews_count": 19,
+    "address": "3-130, Nagula Katta, Nandyala, Andhra Pradesh 518501",
+    "area": "Nagula Katta",
+    "latitude": 15.4768654,
+    "longitude": 78.4841536,
+    "place_id": "ChIJxT9BB61StDsRJxKrTmxgtAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxT9BB61StDsRJxKrTmxgtAA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:54:36"
+  },
+  {
+    "business_name": "CakeWalkers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518593",
+    "phone_number": "+91 70008 83565",
+    "website": "https://instagram.com/_cakewalkers__?igshid=MzNlNGNkZWQ4Mg==",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "3rd house from, Sahara Office, Vikas Nagar, near Sahara Office, Kondagaon, Chhattisgarh 494226",
+    "area": "518593",
+    "latitude": 19.5905216,
+    "longitude": 81.66690419999999,
+    "place_id": "ChIJM11Rm5fPLzoRyzirACQThOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM11Rm5fPLzoRyzirACQThOQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:54:38"
+  }
+]

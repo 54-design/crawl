@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SATISH EVENTS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "518401",
+    "phone_number": "+91 94417 61425",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H NO 3/15, Kota St, Nandikotkur, Andhra Pradesh 518401",
+    "area": "518401",
+    "latitude": 15.858460699999998,
+    "longitude": 78.2604097,
+    "place_id": "ChIJ3YI4IprrtTsR2PLfqWlBcqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YI4IprrtTsR2PLfqWlBcqg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:29"
+  },
+  {
+    "business_name": "Mubarak suppliers",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "518401",
+    "phone_number": "+91 63010 57371",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bilakalaguduru, Andhra Pradesh 518508",
+    "area": "518401",
+    "latitude": 15.684989199999999,
+    "longitude": 78.4425803,
+    "place_id": "ChIJ2z5dcYq7tTsRlD8LWZIw2DQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2z5dcYq7tTsRlD8LWZIw2DQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:29"
+  }
+]

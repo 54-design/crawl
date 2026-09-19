@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518462",
+    "phone_number": "+91 99892 94106",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MQPF+449, Veldurthi, road, Kodumur, Andhra Pradesh 518464",
+    "area": "518462",
+    "latitude": 15.685282299999999,
+    "longitude": 77.7728468,
+    "place_id": "ChIJn0AYNeZxtjsRdYSrEMruets",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0AYNeZxtjsRdYSrEMruets",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:38"
+  },
+  {
+    "business_name": "AJ Medical & Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "518462",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Oppo. Mee seva, Old, MRO Office Rd, Guduru, Andhra Pradesh 518466",
+    "area": "518462",
+    "latitude": 15.774621,
+    "longitude": 77.8064165,
+    "place_id": "ChIJKfu2soJztjsRT7RSW_Py5Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfu2soJztjsRT7RSW_Py5Z8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:38"
+  }
+]

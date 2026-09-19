@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Biryani House",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Indian restaurant",
+    "pincode": "518502",
+    "phone_number": "+91 70954 30360",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "21/452-x6a, Farook Nagar Rd, beside Water Plant, Salim Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Salim Nagar",
+    "latitude": 15.4867894,
+    "longitude": 78.49278749999999,
+    "place_id": "ChIJ9RnXEwCttTsRqbJWXCNAgCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RnXEwCttTsRqbJWXCNAgCY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:19"
+  },
+  {
+    "business_name": "Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518502",
+    "phone_number": "+91 79959 99926",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FFMF+QR2, Padmavati Nagar Rd, Saleem Nagar, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Saleem Nagar, Srinivasa Nagar",
+    "latitude": 15.484384799999999,
+    "longitude": 78.47450119999999,
+    "place_id": "ChIJ1zEmBaqytTsRHntQ5z22ul0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zEmBaqytTsRHntQ5z22ul0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:19"
+  }
+]

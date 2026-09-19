@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janapa Reddy poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "518349",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R27R+5RJ, beside Vikas School, Lakshmi Nagar Colony, Kurnool, Andhra Pradesh 518002",
+    "area": "Lakshmi Nagar Colony",
+    "latitude": 15.8129569,
+    "longitude": 78.04201979999999,
+    "place_id": "ChIJrz8XthrdtTsRu7CuK5V7RcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrz8XthrdtTsRu7CuK5V7RcA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:45:34"
+  },
+  {
+    "business_name": "Sree challa pharma and surgicals",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "518349",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Birla compound, beside wall mart, nehal center, River View Colony, Kurnool, Andhra Pradesh 518002",
+    "area": "nehal center, River View Colony",
+    "latitude": 15.8281257,
+    "longitude": 78.0372792,
+    "place_id": "ChIJtX2u_fDntTsRyrJgEEyUn9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtX2u_fDntTsRyrJgEEyUn9I",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:45:36"
+  }
+]

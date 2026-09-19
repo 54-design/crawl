@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thrive Business Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Service establishment",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "http://thrivebusinessservices.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Thrive Business Services, 518380, India",
+    "area": "518380",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJW-PVkVFV2YARJDRefkyp3Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-PVkVFV2YARJDRefkyp3Pw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:52:47"
+  },
+  {
+    "business_name": "Tafe",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Accountant, Accounting firm, Auditor, Bookkeeping service, Business to business service, Service establishment, Financial audit, Financial consultant",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "https://www.tafesolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tafe, 518380, India",
+    "area": "518380",
+    "latitude": 29.797932499999998,
+    "longitude": -82.26258,
+    "place_id": "ChIJuf3CfYY5wQsRv_4-Mh4yMNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuf3CfYY5wQsRv_4-Mh4yMNk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:52:47"
+  }
+]

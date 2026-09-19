@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tata Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "518401",
+    "phone_number": "+91 1800 209 7979",
+    "website": "https://dealer-locator.cars.tatamotors.com/",
+    "rating": 3.9,
+    "reviews_count": 75,
+    "address": "Flat No, 36, Gopi Nagar Rd, Guru Raghavendra Nagar, Kurnool, Andhra Pradesh 518003",
+    "area": "Guru Raghavendra Nagar",
+    "latitude": 15.832504499999999,
+    "longitude": 78.0169794,
+    "place_id": "ChIJA5kHQKzgtTsRBdApeqWEEz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5kHQKzgtTsRBdApeqWEEz8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:00:58"
+  },
+  {
+    "business_name": "NEXA (MSA Motors, Kurnool, Auto Nagar)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Electric motor vehicle dealer",
+    "pincode": "518401",
+    "phone_number": "+91 80 6251 2771",
+    "website": "https://www.nexaofkurnoolwest.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ward No. 96 11, National Highway 44, Plot No. 1, 1A, 2, 2A, Auto Nagar, Santosh Nagar Colony, Kurnool, Andhra Pradesh 518003",
+    "area": "Auto Nagar, Santosh Nagar Colony",
+    "latitude": 15.837416399999999,
+    "longitude": 78.0143843,
+    "place_id": "ChIJGUpEL7LgtTsRVfmCz24-l48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUpEL7LgtTsRVfmCz24-l48",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:01"
+  }
+]

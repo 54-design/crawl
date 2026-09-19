@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "518405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MCJG+43Q, Gadivemula, Andhra Pradesh 518508",
+    "area": "518405",
+    "latitude": 15.680327,
+    "longitude": 78.42523419999999,
+    "place_id": "ChIJrRukTgC7tTsR1L_A8Jdce2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRukTgC7tTsR1L_A8Jdce2o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:03:46"
+  },
+  {
+    "business_name": "Vajrateja Rice Cluster PVT LTD",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "518405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Haliya, Telangana 508377",
+    "area": "518405",
+    "latitude": 16.7795958,
+    "longitude": 79.3198506,
+    "place_id": "ChIJG2biPwDNyjsRJZjnoUMytmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2biPwDNyjsRJZjnoUMytmI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:03:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TELECOM SYSTEMS",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "IT and Telecom Services",
+    "all_categories": "IT and Telecom Services",
+    "pincode": "518432",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Beerappagadda, Uppal, Hyderabad, Telangana 500039",
+    "area": "Beerappagadda, Uppal",
+    "latitude": 17.4064843,
+    "longitude": 78.5631719,
+    "place_id": "ChIJ_5poqjWZyzsRUQi-OYARH2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5poqjWZyzsRUQi-OYARH2E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:10:57"
+  },
+  {
+    "business_name": "Mamtha Mobiles",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "518432",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "C Camp, Kurnool, Andhra Pradesh 518002",
+    "area": "C Camp",
+    "latitude": 15.8069212,
+    "longitude": 78.0428239,
+    "place_id": "ChIJUxk_sZTdtTsRut11eiYDO1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxk_sZTdtTsRut11eiYDO1A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:10:59"
+  }
+]

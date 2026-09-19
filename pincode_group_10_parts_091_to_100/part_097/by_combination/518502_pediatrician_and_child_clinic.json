@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandan child surgical care",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "518502",
+    "phone_number": "+91 86087 07676",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Padmavati Nagar Rd, Saleem Nagar, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Saleem Nagar, Srinivasa Nagar",
+    "latitude": 15.4839883,
+    "longitude": 78.4758098,
+    "place_id": "ChIJRWNvNL-ttTsRAduw59m5l2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWNvNL-ttTsRAduw59m5l2M",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:34"
+  },
+  {
+    "business_name": "Rapha Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518502",
+    "phone_number": "+91 85142 45111",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 70,
+    "address": "FFG8+Q7H, Bommala Satram Rd, Moolasagaram, Nandyala, Andhra Pradesh 518501",
+    "area": "Moolasagaram",
+    "latitude": 15.476433,
+    "longitude": 78.465215,
+    "place_id": "ChIJdUXLjFJNtDsRVY-4XbKNIdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUXLjFJNtDsRVY-4XbKNIdI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:35"
+  }
+]

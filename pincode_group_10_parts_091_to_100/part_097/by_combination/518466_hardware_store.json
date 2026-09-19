@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fazal Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Bathroom supply store",
+    "pincode": "518466",
+    "phone_number": "+91 99892 19754",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "Shop No: 5/50, S.M.T. Complex, NH 44, Santosh Nagar Colony, Kurnool, Andhra Pradesh 518003",
+    "area": "Santosh Nagar Colony",
+    "latitude": 15.838539299999999,
+    "longitude": 78.0138108,
+    "place_id": "ChIJrZwo1rPgtTsRjpPCs8mRJtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZwo1rPgtTsRjpPCs8mRJtg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:21"
+  },
+  {
+    "business_name": "SUPER Hardware & Sanitary",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "518466",
+    "phone_number": "+91 98493 85150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vaddegeri Rd, Khadak Pura, Kurnool, Andhra Pradesh 518001",
+    "area": "Khadak Pura",
+    "latitude": 15.829157499999999,
+    "longitude": 78.04496089999999,
+    "place_id": "ChIJrbgIpDTntTsR-HcCptVDdx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbgIpDTntTsR-HcCptVDdx0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kota's Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "518510",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/kotas.gym?igsh=NzJqOHI1eWNuMXVj",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "4GJ6+R9G, Allagadda, Andhra Pradesh 518543",
+    "area": "518510",
+    "latitude": 15.1320461,
+    "longitude": 78.5110116,
+    "place_id": "ChIJdWPJcgBdtDsRBTbrYHYiDBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWPJcgBdtDsRBTbrYHYiDBo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:21"
+  },
+  {
+    "business_name": "BBR Indoor Stadium",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "518510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 52,
+    "address": "4GF7+Q9F, Stadium Rd, Rajanagaram, Allagadda, Andhra Pradesh 518543",
+    "area": "Rajanagaram",
+    "latitude": 15.124449799999999,
+    "longitude": 78.5134101,
+    "place_id": "ChIJU0vomHBdtDsRz6Ekvyk3YUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0vomHBdtDsRz6Ekvyk3YUc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:34:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajenta Residency",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "518401",
+    "phone_number": "+91 85182 22179",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "D.No. 51-916-B-62 To 67, S.V.R Complex Opp. RTC Bus Stand, Kurnool, Andhra Pradesh 518003",
+    "area": "Sita Rama Nagar",
+    "latitude": 15.8256669,
+    "longitude": 78.02742889999999,
+    "place_id": "ChIJ8y-DN1bntTsRLF57etOtCvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y-DN1bntTsRLF57etOtCvA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:30"
+  },
+  {
+    "business_name": "MBL Regency",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518401",
+    "phone_number": "+91 88860 03090",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "MBL COMPLEX, Railway Station Rd, Narasimha Reddy Nagar, NR Nagar, Bangar Pet, Kurnool, Andhra Pradesh 518004",
+    "area": "Narasimha Reddy Nagar, NR Nagar, Bangar Pet",
+    "latitude": 15.833025899999999,
+    "longitude": 78.0335099,
+    "place_id": "ChIJN5KC6mrntTsRdHRYBQwzIbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5KC6mrntTsRdHRYBQwzIbk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:31"
+  }
+]

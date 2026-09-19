@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AM Home Needs",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Home goods store",
+    "pincode": "518396",
+    "phone_number": "+91 99494 69144",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Am Home Needs, 407/20 D, Hanuman Circle, Donimukkala, Guntakal, Andhra Pradesh 515803",
+    "area": "Donimukkala",
+    "latitude": 15.152616499999999,
+    "longitude": 77.3734514,
+    "place_id": "ChIJUY8osWjltjsR-lqmWHzJVnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUY8osWjltjsR-lqmWHzJVnY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:59:17"
+  },
+  {
+    "business_name": "KBN WELDING WORKS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "518396",
+    "phone_number": "+91 97037 48200",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2/58 Aluru Road Aluru Riad, Anantapur, Andhra Pradesh 515803",
+    "area": "Donimukkala",
+    "latitude": 15.153357799999998,
+    "longitude": 77.3737672,
+    "place_id": "ChIJPxLaLH7ltjsRHIIlWRDcz_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxLaLH7ltjsRHIIlWRDcz_w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:59:19"
+  }
+]

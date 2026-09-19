@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh Footwear And Tyres.Business",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "518464",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Old Bustand.Shop No 1, Kodumur, Andhra Pradesh 518464",
+    "area": "518464",
+    "latitude": 15.685023099999999,
+    "longitude": 77.7722064,
+    "place_id": "ChIJZzZhgeFxtjsRxWkoC7YinW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzZhgeFxtjsRxWkoC7YinW0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:12"
+  },
+  {
+    "business_name": "Srinu Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "518464",
+    "phone_number": "+91 90008 33321",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "rode, Veldurthi, Dhone, Andhra Pradesh 518216",
+    "area": "518464",
+    "latitude": 15.5529365,
+    "longitude": 77.92899849999999,
+    "place_id": "ChIJ5y4zuwLWtTsRNHQEUrTF8v4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5y4zuwLWtTsRNHQEUrTF8v4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather Bussiness",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "518583",
+    "phone_number": "+91 90307 65400",
+    "website": "https://leather-bussiness.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-4-877/41/A, Musheerabad, Bholakpur, Kavadiguda, Hyderabad, Telangana 500080",
+    "area": "Musheerabad, Bholakpur, Kavadiguda",
+    "latitude": 17.4207177,
+    "longitude": 78.498635,
+    "place_id": "ChIJqx-sm5iZyzsRrTgGfDV8FMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqx-sm5iZyzsRrTgGfDV8FMI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:52:55"
+  },
+  {
+    "business_name": "The Leather Home",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "518583",
+    "phone_number": "+91 11 2581 9904",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5636/77, Regar Pura, Karol Bagh West Extension Area, Nehru Nagar, Regar Pura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Karol Bagh West Extension Area, Nehru Nagar, Regar Pura, Karol Bagh",
+    "latitude": 28.6503338,
+    "longitude": 77.1855011,
+    "place_id": "ChIJ_____5wCDTkRIh48mEGrXqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____5wCDTkRIh48mEGrXqs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:52:55"
+  }
+]

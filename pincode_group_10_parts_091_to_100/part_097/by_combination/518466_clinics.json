@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuradha Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518466",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QRF4+R6R, Guduru, Andhra Pradesh 518466",
+    "area": "518466",
+    "latitude": 15.7746228,
+    "longitude": 77.80550579999999,
+    "place_id": "ChIJbzLLVQ5ztjsRUPj5FotLd38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzLLVQ5ztjsRUPj5FotLd38",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:00"
+  },
+  {
+    "business_name": "Primary Healcare Center",
+    "search_category": "Clinics",
+    "primary_category": "Public medical center",
+    "all_categories": "Public medical center",
+    "pincode": "518466",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VV5P+4G6, Thulasipuram, Kurnool, Basavapuram, Andhra Pradesh 518004",
+    "area": "518466",
+    "latitude": 15.857784599999999,
+    "longitude": 77.8862582,
+    "place_id": "ChIJhZhdjJQLtjsR0c53MJH67cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZhdjJQLtjsR0c53MJH67cA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:00"
+  }
+]

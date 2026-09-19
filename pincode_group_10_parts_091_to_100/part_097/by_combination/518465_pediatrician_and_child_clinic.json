@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Tejaswi Karuturi",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Child health care center, Children Policlinic, Day care center, Hospital, Neonatal physician, Pediatrician",
+    "pincode": "518465",
+    "phone_number": "+91 85000 23456",
+    "website": "http://www.kifyhospital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kify Children’s Hospital, Meduri St, Danavai Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Danavai Peta",
+    "latitude": 17.005902499999998,
+    "longitude": 81.78405959999999,
+    "place_id": "ChIJ_1liyCWjNzoRQKQODrjhImI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1liyCWjNzoRQKQODrjhImI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:21:13"
+  },
+  {
+    "business_name": "Manga Balakrishna Children's Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric clinic",
+    "all_categories": "Pediatric clinic",
+    "pincode": "518465",
+    "phone_number": "+91 89199 20889",
+    "website": "http://www.mangabalakrishnachildrensclinic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "16-10-1368/B, Under Bridge Rd, beside Pallavi hospital, Shiva Nagar, Warangal, Telangana 506002",
+    "area": "Shiva Nagar",
+    "latitude": 17.9720211,
+    "longitude": 79.6009081,
+    "place_id": "ChIJI2NPlSNFMzoRfGyJ-F3EKsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2NPlSNFMzoRfGyJ-F3EKsc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:21:13"
+  }
+]

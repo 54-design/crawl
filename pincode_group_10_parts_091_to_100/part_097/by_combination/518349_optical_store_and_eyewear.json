@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OPTICAL WORLD",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "518349",
+    "phone_number": "+91 70751 51464",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 52/190, Ambedkar Circle, Old Bus Stand Area, Kurnool, Andhra Pradesh 518001",
+    "area": "Old Bus Stand Area",
+    "latitude": 15.8336195,
+    "longitude": 78.05016239999999,
+    "place_id": "ChIJc4EnmBTntTsR6qsFLgpSJMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4EnmBTntTsR6qsFLgpSJMU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:45:25"
+  },
+  {
+    "business_name": "Optikos Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Optometrist",
+    "pincode": "518349",
+    "phone_number": "+91 91584 86808",
+    "website": "http://optikos.in/",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "Optikos, Shop No.3, 1018, Nilkanth Complex, DEEP BUNGALOW CHOWK, Mitra Nagar, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+    "area": "Mitra Nagar, Model Colony, Shivajinagar",
+    "latitude": 18.5298579,
+    "longitude": 73.8346184,
+    "place_id": "ChIJo73X6Xi_wjsRFvk9hdwfkqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo73X6Xi_wjsRFvk9hdwfkqg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:45:25"
+  }
+]

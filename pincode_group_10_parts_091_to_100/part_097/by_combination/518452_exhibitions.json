@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Archaeological Museum Kurnool",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Museum",
+    "pincode": "518452",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "R2FQ+WPG, NH40, Alluri Sitarama Raju Nagar, Kurnool, Andhra Pradesh 518002",
+    "area": "Alluri Sitarama Raju Nagar",
+    "latitude": 15.824821799999999,
+    "longitude": 78.0393319,
+    "place_id": "ChIJOxAahvXdtTsR2v8hKxq8yo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxAahvXdtTsR2v8hKxq8yo0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:00"
+  },
+  {
+    "business_name": "V-Believers Marketing Pvt. Ltd. Company",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "518452",
+    "phone_number": "+91 93909 61838",
+    "website": "http://www.vbelievers.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Petrol Bunk, Gooty Rd, near Gooty, Srirama Colny, Kallur, Kalluru, Andhra Pradesh 518003",
+    "area": "Srirama Colny, Kallur",
+    "latitude": 15.7941538,
+    "longitude": 78.0346488,
+    "place_id": "ChIJbxPBLgDdtTsRKrZI8v2T7rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxPBLgDdtTsRKrZI8v2T7rM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:01"
+  }
+]

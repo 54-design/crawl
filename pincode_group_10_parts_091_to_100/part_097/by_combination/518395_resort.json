@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spring Valley Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Extended stay hotel, Farmstay, Hill Station, Hotel, Home Stay, Restaurant, Swimming pool",
+    "pincode": "518395",
+    "phone_number": "+91 90004 62221",
+    "website": "http://www.springv.in/",
+    "rating": 4.6,
+    "reviews_count": 206,
+    "address": "Bharani Estates, Plot No 2, YSR Puram, Ananthagiri, Mentada, Kotai, Andhra Pradesh 535273",
+    "area": "YSR Puram, Ananthagiri",
+    "latitude": 18.2724626,
+    "longitude": 83.1489488,
+    "place_id": "ChIJPzC6Mz7HOzoRmZpiu8TZ_iA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzC6Mz7HOzoRmZpiu8TZ_iA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:57:49"
+  },
+  {
+    "business_name": "Wild Hill Top Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "518395",
+    "phone_number": "+91 78937 12345",
+    "website": "http://springv.in/",
+    "rating": 4.2,
+    "reviews_count": 388,
+    "address": "Bharani estates,Plot No 501 YSR PURAM,N R PURAM,NEAR KASIPATNAM,ANANTAGIRI, Y.S.R.Puram, Andhra Pradesh 535273",
+    "area": "Y.S.R.Puram",
+    "latitude": 18.272262599999998,
+    "longitude": 83.1496229,
+    "place_id": "ChIJbdKDFVTHOzoRa1i4LNeuZLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdKDFVTHOzoRa1i4LNeuZLg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:57:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS FUNCTION HALL",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "518466",
+    "phone_number": "+91 90001 51247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "K Nagalapuram, Andhra Pradesh 518467",
+    "area": "518466",
+    "latitude": 15.753644399999999,
+    "longitude": 77.9067939,
+    "place_id": "ChIJNT25DAB1tjsR4FG6TEEetw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNT25DAB1tjsR4FG6TEEetw8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:40"
+  },
+  {
+    "business_name": "SSK FUNCTION HALL",
+    "search_category": "Banquet Hall",
+    "primary_category": "Religious destination",
+    "all_categories": "Religious destination",
+    "pincode": "518466",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward 12, Rajaveedhi Revenue, 8-145A, East Bc Colony, Guduru, Andhra Pradesh 518466",
+    "area": "518466",
+    "latitude": 15.773871699999999,
+    "longitude": 77.8041482,
+    "place_id": "ChIJIxJZBABztjsR3z54LwOlL40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxJZBABztjsR3z54LwOlL40",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:23:40"
+  }
+]

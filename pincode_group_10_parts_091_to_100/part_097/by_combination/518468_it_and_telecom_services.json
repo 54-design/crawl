@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "518468",
+    "phone_number": "+91 97048 93144",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G SUNKANNA, S/o, 6-4A, Mettupalle, Peapully, Andhra Pradesh 518221",
+    "area": "518468",
+    "latitude": 15.290693999999998,
+    "longitude": 77.806891,
+    "place_id": "ChIJh5zuZiKFtjsRrTU3rdnuxcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5zuZiKFtjsRrTU3rdnuxcU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:27:43"
+  },
+  {
+    "business_name": "SURYA MOBILES SERVICE",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "518468",
+    "phone_number": "+91 81423 31633",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sc colonly, Alamkonda, Andhra Pradesh 518468",
+    "area": "518468",
+    "latitude": 15.439876499999999,
+    "longitude": 77.7354009,
+    "place_id": "ChIJz51aRE1jtjsRSpqi7I_W1eY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz51aRE1jtjsRSpqi7I_W1eY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:27:46"
+  }
+]

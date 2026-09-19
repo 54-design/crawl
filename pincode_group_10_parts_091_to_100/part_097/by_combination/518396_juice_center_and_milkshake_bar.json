@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COOL BAR",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant, Ice cream shop",
+    "pincode": "518396",
+    "phone_number": "+91 97406 93520",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 195,
+    "address": "1, Akkayamma Layout, 2nd, Gullappa Rd, Chikkana Layout, Subbayianiah Palyam, Banaswadi, Bengaluru, Karnataka 560033",
+    "area": "Chikkana Layout, Subbayianiah Palyam, Banaswadi",
+    "latitude": 13.013328699999999,
+    "longitude": 77.63949389999999,
+    "place_id": "ChIJwbSq8KcXrjsRNgfmwuT42xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbSq8KcXrjsRNgfmwuT42xI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:42"
+  },
+  {
+    "business_name": "J J SUPER COOL DRINKS & ICE CREAM",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop",
+    "pincode": "518396",
+    "phone_number": "+91 98660 37839",
+    "website": "http://www.jj.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D/No : 30, 14, Galiveedu Rd, Kothapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Kothapeta",
+    "latitude": 14.0589763,
+    "longitude": 78.7485222,
+    "place_id": "ChIJw33Vqd0DszsRz22Jr4NnaG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw33Vqd0DszsRz22Jr4NnaG8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ancy entertainment",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9/10 B, Bandi Atmakur, Andhra Pradesh 518523",
+    "area": "518513",
+    "latitude": 15.5827712,
+    "longitude": 78.5234133,
+    "place_id": "ChIJd0NWifmvtTsR3je_Px3v6aM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0NWifmvtTsR3je_Px3v6aM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:40:58"
+  },
+  {
+    "business_name": "Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "JG43+PR5, Karimaddula, Andhra Pradesh 518523",
+    "area": "518513",
+    "latitude": 15.6067643,
+    "longitude": 78.50461709999999,
+    "place_id": "ChIJpcpSlCevtTsRFOtXiCVYCTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcpSlCevtTsRFOtXiCVYCTg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:40:58"
+  }
+]

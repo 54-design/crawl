@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sophie Home Cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sophie Home Cleaning, 518380, India",
+    "area": "518380",
+    "latitude": 47.1611554,
+    "longitude": 19.5051839,
+    "place_id": "ChIJ8eGeswPLQUcRY7T1Ak9ErJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eGeswPLQUcRY7T1Ak9ErJ0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:52:43"
+  },
+  {
+    "business_name": "Shika Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "no 3-194, Kurnool, Dinnedevarapadu, Andhra Pradesh 518007",
+    "area": "518380",
+    "latitude": 15.768710599999999,
+    "longitude": 78.0607244,
+    "place_id": "ChIJq6pejrDgtTsRiK7xRl8eu4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6pejrDgtTsRiK7xRl8eu4s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:52:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Breakdown Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "518502",
+    "phone_number": "+91 99777 65817",
+    "website": "https://jaiswalbreakdownservice.com/",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "Bilaspur Rd, beside Hotel Federation, Tifra, Bilaspur, Chhattisgarh 495004",
+    "area": "Tifra",
+    "latitude": 22.0523134,
+    "longitude": 82.1250452,
+    "place_id": "ChIJqahPXk0NKDoR5bx8leVCZ2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqahPXk0NKDoR5bx8leVCZ2U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:53"
+  },
+  {
+    "business_name": "Hussain towing service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "518502",
+    "phone_number": "+91 87904 73133",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hussain towing service, 518502, India",
+    "area": "518502",
+    "latitude": 15.6511692,
+    "longitude": 78.25660719999999,
+    "place_id": "ChIJY15t43XLi2gRZQpwxoLRWno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY15t43XLi2gRZQpwxoLRWno",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:55"
+  }
+]

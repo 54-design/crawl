@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiridi Sai Bakery(Venky Canteen)",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "518502",
+    "phone_number": "+91 94409 59676",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "25, 506A, beside Syndicate Bank, Srinivas Nagar, Sanjeev Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivas Nagar, Sanjeev Nagar",
+    "latitude": 15.486321799999999,
+    "longitude": 78.4833573,
+    "place_id": "ChIJ8WQstKuttTsR5dx7x5PxWBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WQstKuttTsR5dx7x5PxWBU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:13"
+  },
+  {
+    "business_name": "Best Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518502",
+    "phone_number": "+91 98492 37667",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FFPP+WQ7, NK Rd, beside Sai Baba Temple, Telugu Peta, Nandyala, Andhra Pradesh 518501",
+    "area": "Telugu Peta",
+    "latitude": 15.487298099999999,
+    "longitude": 78.48693469999999,
+    "place_id": "ChIJRb8rIk6ttTsRh3M-jCeoQRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRb8rIk6ttTsRh3M-jCeoQRo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:14"
+  }
+]

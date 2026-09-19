@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalitha Rice Shop",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "518501",
+    "phone_number": "+91 94409 33255",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Back Side, Nandi Super Market, Ngo's Colony, Lalitanagar, Nandyala, Andhra Pradesh 518502",
+    "area": "Ngo's Colony, Lalitanagar",
+    "latitude": 15.467855199999999,
+    "longitude": 78.49034499999999,
+    "place_id": "ChIJZyfbcbpStDsRyS2y7fbrUPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyfbcbpStDsRyS2y7fbrUPw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:28:15"
+  },
+  {
+    "business_name": "BISMILLAH TRADERS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "518501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "No. 29-278-G8-F2, H, Tekke Street, Nagula Katta, Nandyala, Andhra Pradesh 518501",
+    "area": "Nagula Katta",
+    "latitude": 15.4774827,
+    "longitude": 78.4842417,
+    "place_id": "ChIJMWq0gK5TtDsRANbTc-j3bd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWq0gK5TtDsRANbTc-j3bd8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:28:16"
+  }
+]

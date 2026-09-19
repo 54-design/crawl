@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Business development service, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "518452",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 4.9,
+    "reviews_count": 90,
+    "address": "2nd Floor, No. 14, 714/A/87/1120-6, Main Rd, above Federal Bank, C Camp, Kurnool, Andhra Pradesh 518002",
+    "area": "Revenue Colony, C Camp",
+    "latitude": 15.8032173,
+    "longitude": 78.0473298,
+    "place_id": "ChIJ1fbwZXXdtTsRF5g7ffXBcGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fbwZXXdtTsRF5g7ffXBcGw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:13:54"
+  },
+  {
+    "business_name": "Vinayak Auto Agency",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural service, Tractor repair shop",
+    "pincode": "518452",
+    "phone_number": "+91 79827 36476",
+    "website": "https://www.facebook.com/profile.php?id=100070340227122",
+    "rating": 4.9,
+    "reviews_count": 70,
+    "address": "8R26+Q73, Manakwar, Uttar Pradesh 212107",
+    "area": "518452",
+    "latitude": 25.301905599999998,
+    "longitude": 81.8106432,
+    "place_id": "ChIJF1072Mk3hTkRK6go7wMpCLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1072Mk3hTkRK6go7wMpCLI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:13:54"
+  }
+]

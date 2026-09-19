@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PC-CARE SYSTEMS [Computer, Laptop Sales & Service]",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Service establishment",
+    "pincode": "518513",
+    "phone_number": "+91 97467 58258",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "PC-CARE SYSTEMS [Computer, Laptop Sales & Service], 518513, India",
+    "area": "518513",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJDSSKQiHApzsRAe89NswcTLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSSKQiHApzsRAe89NswcTLM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:40:49"
+  },
+  {
+    "business_name": "Sameer Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Service establishment",
+    "pincode": "518513",
+    "phone_number": "+91 70062 41107",
+    "website": "https://sameercomputers.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sameer Computers, 518513, India",
+    "area": "518513",
+    "latitude": 34.0901096,
+    "longitude": 74.5454389,
+    "place_id": "ChIJfbaP6jaj4TgRRMcl26k_Mgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbaP6jaj4TgRRMcl26k_Mgc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:40:50"
+  }
+]

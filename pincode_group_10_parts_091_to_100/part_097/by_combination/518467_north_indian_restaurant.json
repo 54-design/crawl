@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doon punjabi family dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "518467",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "PX4V+55J, Chinna Tekur, Andhra Pradesh 518218",
+    "area": "518467",
+    "latitude": 15.7054674,
+    "longitude": 77.992876,
+    "place_id": "ChIJV0LvoWPZtTsRQLVAj093dN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0LvoWPZtTsRQLVAj093dN8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:24:39"
+  },
+  {
+    "business_name": "Bella's Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "518467",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vintage green field homes, Kurnool, Munagalapadu, Andhra Pradesh 518004",
+    "area": "518467",
+    "latitude": 15.857523899999999,
+    "longitude": 78.0053886,
+    "place_id": "ChIJbVCOqA_htTsR26avPgqEdW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVCOqA_htTsR26avPgqEdW4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:24:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ammaa Supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "518411",
+    "phone_number": "+91 99084 55578",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No. 12 & 51, Central Plaza, near K.C. Canal, Kurnool, Andhra Pradesh 518002",
+    "area": "518411",
+    "latitude": 15.8152209,
+    "longitude": 78.0412453,
+    "place_id": "ChIJK6PZwPLdtTsRZ_OIw7GT1UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6PZwPLdtTsRZ_OIw7GT1UY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:04:00"
+  },
+  {
+    "business_name": "Sri Rahul Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "518411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 24,
+    "address": "D.No: 25/547A, Degree College Road, behind Ramnath Theatre Rama Krishna, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.486325599999999,
+    "longitude": 78.4852437,
+    "place_id": "ChIJb2R48lGttTsRChhrkk0ThHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2R48lGttTsRChhrkk0ThHo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:04:02"
+  }
+]

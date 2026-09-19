@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aakash Hospitals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Hospital",
+    "pincode": "518350",
+    "phone_number": "+91 96660 02966",
+    "website": "http://www.aakashhospitals.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gayatri Estates, plot no.83, beside Vijaya Diagnostic Centre, Gayathree Estates, Deva Nagar, Kurnool, Andhra Pradesh 518002",
+    "area": "Gayathree Estates, Deva Nagar",
+    "latitude": 15.8134976,
+    "longitude": 78.0387646,
+    "place_id": "ChIJf9GuHQDdtTsRb4CholxCric",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9GuHQDdtTsRb4CholxCric",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:43"
+  },
+  {
+    "business_name": "C.N. Hospitals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre, Hospital",
+    "pincode": "518350",
+    "phone_number": "+91 85182 30377",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 88,
+    "address": "Birla Guest House, 50/716, Near Birla Gate, Krishna Reddy Nagar, B Camp, Kurnool, Andhra Pradesh 518002",
+    "area": "Krishna Reddy Nagar, B Camp",
+    "latitude": 15.804550599999999,
+    "longitude": 78.0390694,
+    "place_id": "ChIJHxoFUurdtTsROrSEKhFW8GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxoFUurdtTsROrSEKhFW8GY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:44"
+  }
+]

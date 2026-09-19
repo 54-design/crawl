@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Createve Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Photography service",
+    "pincode": "518390",
+    "phone_number": "+91 95130 35035",
+    "website": "https://www.createveevents.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "371/3, 1st floor, 8th Cross Rd, 6th Block, 1st Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "area": "6th Block, 1st Block, Jayanagar",
+    "latitude": 12.937008599999999,
+    "longitude": 77.5855626,
+    "place_id": "ChIJjUIYPFgVrjsRWa4mk4mkStE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUIYPFgVrjsRWa4mk4mkStE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:56:07"
+  },
+  {
+    "business_name": "Digital Creations event management services",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment, Event management company, Wedding planner",
+    "pincode": "518390",
+    "phone_number": "+91 97183 10455",
+    "website": "http://www.digitalcreations.in.net/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Digital Creations event management services, 518390, India",
+    "area": "518390",
+    "latitude": 28.3497508,
+    "longitude": 76.9754367,
+    "place_id": "ChIJKTQifdQczyYR5MSf_wiIL80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTQifdQczyYR5MSf_wiIL80",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:56:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salwa Garments",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Wholesaler",
+    "pincode": "518502",
+    "phone_number": "+91 80994 48300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ngos Colony Main Road, N.G, O's Colony, Lalitanagar, Nandyala, Andhra Pradesh 518502",
+    "area": "N.G, O's Colony, Lalitanagar",
+    "latitude": 15.4679728,
+    "longitude": 78.4892567,
+    "place_id": "ChIJx_0Eh7pStDsRiSkpsKr9w00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_0Eh7pStDsRiSkpsKr9w00",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:26"
+  },
+  {
+    "business_name": "Crown Taylors",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "518502",
+    "phone_number": "+91 98859 76869",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sai Baba nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Sai Baba nagar",
+    "latitude": 15.4715663,
+    "longitude": 78.48362039999999,
+    "place_id": "ChIJn_SdfhtTtDsR1aqvk3I4i4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_SdfhtTtDsR1aqvk3I4i4I",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:29"
+  }
+]

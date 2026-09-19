@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratham Grocery",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Store, Wholesaler",
+    "pincode": "518396",
+    "phone_number": "+91 88004 45477",
+    "website": "https://orgoils.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "F-99, Jagdish Nagar, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Jagdish Nagar, Patel Nagar 3, Patel Nagar",
+    "latitude": 28.6708398,
+    "longitude": 77.4254667,
+    "place_id": "ChIJn2AezDjxDDkRqYd_Cx3BIi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2AezDjxDDkRqYd_Cx3BIi8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:37"
+  },
+  {
+    "business_name": "DEEPA OILS - தீபா ஆயில் - OilManufacturer",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer, Agricultural Product Wholesaler, Food products supplier, Health food store, Oil refinery, Organic shop, Store, Wholesaler",
+    "pincode": "518396",
+    "phone_number": "+91 94429 04947",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "9/770A, Thekkpattu,Natrampalli, Thekkupattu, Tamil Nadu 635801",
+    "area": "518396",
+    "latitude": 12.6457725,
+    "longitude": 78.5686204,
+    "place_id": "ChIJoXJknqurrTsRU2DzcpV_Jto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXJknqurrTsRU2DzcpV_Jto",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:37"
+  }
+]

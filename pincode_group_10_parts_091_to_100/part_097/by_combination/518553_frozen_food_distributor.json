@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fryst Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "518553",
+    "phone_number": "+91 96899 21313",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "G4C8+89V, Near Mauli Cloth,At/post shahu Nagar, Parite,Tal-Karveer, Nigave Khalsa, Maharashtra 416211",
+    "area": "518553",
+    "latitude": 16.5208519,
+    "longitude": 74.1159247,
+    "place_id": "ChIJmzV3EYZRwDsRdnqWnYrIHik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzV3EYZRwDsRdnqWnYrIHik",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:47:06"
+  },
+  {
+    "business_name": "Rouchira Enterprises -Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "518553",
+    "phone_number": "+91 70752 59595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 3, Plot no 64, Kapra Municipal Office Rd, Ashok Enclave, Siva Puri Colony, Kapra, Hyderabad, Secunderabad, Telangana 500103",
+    "area": "Ashok Enclave, Siva Puri Colony, Kapra",
+    "latitude": 17.4857323,
+    "longitude": 78.5574626,
+    "place_id": "ChIJFyfyyWSbyzsREm_Vy6rDRsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFyfyyWSbyzsREm_Vy6rDRsU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:47:08"
+  }
+]

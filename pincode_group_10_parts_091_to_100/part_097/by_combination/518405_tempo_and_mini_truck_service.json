@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Truck Transport",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Moving service",
+    "all_categories": "Moving service",
+    "pincode": "518405",
+    "phone_number": "+91 96114 27637",
+    "website": "N/A",
+    "rating": 1.8,
+    "reviews_count": 4,
+    "address": "1st Floor, 220/225C, 7th B Cross, N S Pallya, Kaverappa Industrial Compound, Bannerghatta Road Cross, Bengaluru, Karnataka 560076",
+    "area": "Sahyadri Layout, Panduranga Nagar",
+    "latitude": 12.895870299999999,
+    "longitude": 77.5967761,
+    "place_id": "ChIJ9wO-MSMVrjsRD8FiTrvGBXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wO-MSMVrjsRD8FiTrvGBXQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:56"
+  },
+  {
+    "business_name": "Valvoline Truck Xpert - Nice Auto Garage",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop, Oil change service, Garage, Repair service, Truck parts supplier",
+    "pincode": "518405",
+    "phone_number": "+91 91779 76557",
+    "website": "https://www.valvoline.com/en-in?utm_source=locator&utm_medium=googleplaces",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Hotel Geetha Bhavan, KG Rd, Autonagar, Atmakur, Andhra Pradesh 518422",
+    "area": "Autonagar",
+    "latitude": 15.8792011,
+    "longitude": 78.5997453,
+    "place_id": "ChIJ29gjaa-ftTsRDD47uaUPSlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29gjaa-ftTsRDD47uaUPSlw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:02:57"
+  }
+]

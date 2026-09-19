@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BNI India",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business networking company",
+    "all_categories": "Business networking company",
+    "pincode": "518380",
+    "phone_number": "+91 98490 03047",
+    "website": "http://bni-hyderabadwest.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "No.5, 1st Floor, Lumbini Jewel Mall, Road No. 2, Venkateshwara Nagar, Aurora Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Venkateshwara Nagar, Aurora Colony, Banjara Hills",
+    "latitude": 17.425849,
+    "longitude": 78.4355039,
+    "place_id": "ChIJ45M8WNOQyzsRU9cq0MPIfSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45M8WNOQyzsRU9cq0MPIfSg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:53:01"
+  },
+  {
+    "business_name": "Wavpe",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business networking company",
+    "all_categories": "Business networking company",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "https://wavpe.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gowri Arcade, HIG-A-85, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Jayabheri Enclave, Gachibowli",
+    "latitude": 17.448995999999998,
+    "longitude": 78.36233279999999,
+    "place_id": "ChIJCWAgZe-TyzsRkrr-3vXfRao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWAgZe-TyzsRkrr-3vXfRao",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:53:01"
+  }
+]

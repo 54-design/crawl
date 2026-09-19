@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aero Vision Tech",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone service",
+    "all_categories": "Drone service, Drone shop, Electronics repair shop",
+    "pincode": "518594",
+    "phone_number": "+91 98414 12772",
+    "website": "http://www.aerovisiontech.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2nd Floor, 46, Ibrahim Sahib St, Thiruvalluvar Nagar, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Thiruvalluvar Nagar, George Town",
+    "latitude": 13.1034323,
+    "longitude": 80.2887068,
+    "place_id": "ChIJObgppUNvUjoR7OM9XCPXZt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObgppUNvUjoR7OM9XCPXZt4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:57:25"
+  },
+  {
+    "business_name": "Mana Rythu Drones",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone shop",
+    "all_categories": "Drone shop",
+    "pincode": "518594",
+    "phone_number": "+91 97038 86677",
+    "website": "https://manarythudrones.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Tadikonda, Andhra Pradesh 522236",
+    "area": "518594",
+    "latitude": 16.4267821,
+    "longitude": 80.4537335,
+    "place_id": "ChIJZRYuEAnzNToRSiF3v_yXLe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRYuEAnzNToRSiF3v_yXLe0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:57:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TaxiYatri Car Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "518380",
+    "phone_number": "N/A",
+    "website": "http://www.taxiyatri.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "TaxiYatri Car Rentals, 518380, India",
+    "area": "518380",
+    "latitude": 25.892757999999997,
+    "longitude": 74.4692633,
+    "place_id": "ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:55"
+  },
+  {
+    "business_name": "KIRAN TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Minibus taxi service",
+    "all_categories": "Minibus taxi service, Transportation service",
+    "pincode": "518380",
+    "phone_number": "+91 90002 07995",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "APSRTC BUS STAND, Kurnool, Andhra Pradesh 518003",
+    "area": "Other, Sita Rama Nagar",
+    "latitude": 15.8254229,
+    "longitude": 78.0270384,
+    "place_id": "ChIJdSOdJQvftTsRwmOuh0LiiF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSOdJQvftTsRwmOuh0LiiF0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:57"
+  }
+]

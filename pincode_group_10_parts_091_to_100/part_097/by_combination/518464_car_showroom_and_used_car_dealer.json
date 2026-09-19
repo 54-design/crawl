@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cars Land",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "518464",
+    "phone_number": "+91 70137 33873",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Laxminagar, Yemmiganoor road, Andhra Pradesh 518464",
+    "area": "518464",
+    "latitude": 15.685458599999999,
+    "longitude": 77.76377049999999,
+    "place_id": "ChIJE8d9TkJxtjsR5yUlEVRFuGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8d9TkJxtjsR5yUlEVRFuGo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:30"
+  },
+  {
+    "business_name": "Krupa Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "518464",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/d/1q5QLY0FM4hNBG_KvTYkI7c3M-GwJoIqB/p/1zNfEI4OfFQMUDqerC9GXV20lvGAeWgZb/edit",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "NH 216A, Vemagiri, Dowlaiswaram, Andhra Pradesh 533125",
+    "area": "Vemagiri",
+    "latitude": 16.9443494,
+    "longitude": 81.7932987,
+    "place_id": "ChIJ42gnOcajNzoRg-U7yh4ut6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42gnOcajNzoRg-U7yh4ut6Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:19:31"
+  }
+]

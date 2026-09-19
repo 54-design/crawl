@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shoeshop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "518350",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "D.Kotakonda village, Aspari, Kurnool, Andhra Pradesh 518350",
+    "area": "518350",
+    "latitude": 15.611158999999999,
+    "longitude": 77.4185584,
+    "place_id": "ChIJp2KVc2NFtjsRoOnfPFOlkqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2KVc2NFtjsRoOnfPFOlkqA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:26"
+  },
+  {
+    "business_name": "Andhra Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "518350",
+    "phone_number": "+91 94415 08678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "R2JX+JH4, Nehru Rd, Bongul Bazar, Marwari Street, Kurnool, Andhra Pradesh 518001",
+    "area": "Bongul Bazar, Marwari Street",
+    "latitude": 15.831505499999999,
+    "longitude": 78.0489504,
+    "place_id": "ChIJe3RiCGTntTsRgTARNCsknBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3RiCGTntTsRgTARNCsknBE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:47:27"
+  }
+]

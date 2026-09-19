@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAFAR COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer Hardware Company, Computer networking service, Computer store, Computer service, Computer software store, Data recovery service, Printer repair service",
+    "pincode": "518465",
+    "phone_number": "+91 98661 43194",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D.No: 46-9-31, Bypass Road, opp. SBI ATM, Danavai Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Danavai Peta",
+    "latitude": 17.0084072,
+    "longitude": 81.7804152,
+    "place_id": "ChIJpW-tCAqkNzoRKVW8hG4VlYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW-tCAqkNzoRKVW8hG4VlYI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:22:03"
+  },
+  {
+    "business_name": "Laptop Care (Computer Shop)",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "518465",
+    "phone_number": "+91 98274 25006",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "beside bank of india, Rajnandgaon, Chhattisgarh 491441",
+    "area": "518465",
+    "latitude": 21.095471399999997,
+    "longitude": 81.0317791,
+    "place_id": "ChIJp9615apFKToRHqx7xTJmP-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9615apFKToRHqx7xTJmP-U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:22:03"
+  }
+]

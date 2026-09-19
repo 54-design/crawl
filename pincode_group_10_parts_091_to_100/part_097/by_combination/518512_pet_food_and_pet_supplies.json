@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AGS pet's zone",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "518512",
+    "phone_number": "+91 81850 07033",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mydukur - Proddatur Rd, opposite Anna cantin, Vinayaka Nagar, S.Mydukur, Andhra Pradesh 516172",
+    "area": "Vinayaka Nagar",
+    "latitude": 14.7266721,
+    "longitude": 78.7304565,
+    "place_id": "ChIJu0rxJXt_szsRdBnbWdFSWmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0rxJXt_szsRdBnbWdFSWmc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:37:41"
+  },
+  {
+    "business_name": "The Animal's World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "518512",
+    "phone_number": "+91 80949 96522",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main, Chopasani Rd, opposite Dynamic GYM, opposite Chilghar, Shyam Nagar, Jodhpur, Rajasthan 342001",
+    "area": "Shyam Nagar",
+    "latitude": 26.274631799999998,
+    "longitude": 72.9841039,
+    "place_id": "ChIJM4hTozmNQTkRtodcfQEgcVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4hTozmNQTkRtodcfQEgcVA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:37:41"
+  }
+]

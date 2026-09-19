@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Tourist Rooms",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, General store",
+    "pincode": "518502",
+    "phone_number": "+91 97012 06928",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 102,
+    "address": "Mahanandi Rd, Mahanandi, Timmapuram, Andhra Pradesh 518502",
+    "area": "Mahanandi",
+    "latitude": 15.4681097,
+    "longitude": 78.6164623,
+    "place_id": "ChIJ5UQtQyFVtDsRqkyzleAWaKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UQtQyFVtDsRqkyzleAWaKE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:15"
+  },
+  {
+    "business_name": "Sri vasavi deluxe rooms",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Lodging",
+    "pincode": "518502",
+    "phone_number": "+91 83093 13904",
+    "website": "http://www.phanindra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahanandi, Timmapuram, Andhra Pradesh 518502",
+    "area": "Mahanandi",
+    "latitude": 15.4682646,
+    "longitude": 78.6257292,
+    "place_id": "ChIJQfpAIqFVtDsRuLlc_a7OZq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfpAIqFVtDsRuLlc_a7OZq0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:31:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chennai Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "518349",
+    "phone_number": "+91 86881 21669",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 181,
+    "address": "room no1subbramaiah complexes, Rajareddy St, near narayana school, Kadapa, Andhra Pradesh 516001",
+    "area": "Kadapa",
+    "latitude": 14.470245799999999,
+    "longitude": 78.8273549,
+    "place_id": "ChIJZRGX1g9yszsRnkY-AWe_w24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRGX1g9yszsRnkY-AWe_w24",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:45:09"
+  },
+  {
+    "business_name": "Bow boww to meow meow",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium shop, Bird shop, Pet groomer",
+    "pincode": "518349",
+    "phone_number": "+91 70320 31010",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 2173,
+    "address": "12-6-2/174, beside royal Enfield showroom, Vivek Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vivek Nagar, Kukatpally",
+    "latitude": 17.4832432,
+    "longitude": 78.41282079999999,
+    "place_id": "ChIJIWOdWbuRyzsRoQJgxDzZeUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWOdWbuRyzsRoQJgxDzZeUk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:45:09"
+  }
+]

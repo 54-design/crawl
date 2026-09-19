@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Praveen Achari",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518401",
+    "phone_number": "+91 80747 96299",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 19, 1B, Konidela, Kurnool, Andhra Pradesh 518411",
+    "area": "518401",
+    "latitude": 15.9261343,
+    "longitude": 78.2889612,
+    "place_id": "ChIJTbXyOazrtTsRpieu_uz2nW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbXyOazrtTsRpieu_uz2nW4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:00:29"
+  },
+  {
+    "business_name": "Shanmuka Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518401",
+    "phone_number": "+91 63016 74703",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 15, Bus Stand, 1A, Main Road, Konidela, Andhra Pradesh 518411",
+    "area": "518401",
+    "latitude": 15.9253954,
+    "longitude": 78.2880301,
+    "place_id": "ChIJmUPrxpfrtTsRTAiA9zDmvpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUPrxpfrtTsRTAiA9zDmvpo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:00:29"
+  }
+]

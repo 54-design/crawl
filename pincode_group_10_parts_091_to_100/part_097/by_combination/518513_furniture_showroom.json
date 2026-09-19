@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NANDA AGENCY",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13/408, VENGALA REDDY PETA, PRODDATUR, PRODDATUR, Andhra Pradesh 518512",
+    "area": "Venkannareddipeta",
+    "latitude": 15.527064699999999,
+    "longitude": 78.5753117,
+    "place_id": "ChIJ5Yuu1BSrtTsRPWrw6ze6y00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Yuu1BSrtTsRPWrw6ze6y00",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:40:24"
+  },
+  {
+    "business_name": "Kiran Kumar Reddy home",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "518513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "GGM3+2GV, Bheemavaram, Andhra Pradesh 518523",
+    "area": "518513",
+    "latitude": 15.53262,
+    "longitude": 78.5037967,
+    "place_id": "ChIJRfy0NACttTsR6b9evLSDiNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfy0NACttTsR6b9evLSDiNc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:40:24"
+  }
+]

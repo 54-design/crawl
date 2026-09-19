@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul eye care clinic and opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "518508",
+    "phone_number": "+91 63008 08275",
+    "website": "http://www.eyegear.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Warangal - Eturnagaram Rd, Akulavari Ghanpur, Eturnagaram, Telangana 506165",
+    "area": "518508",
+    "latitude": 18.3347207,
+    "longitude": 80.4251204,
+    "place_id": "ChIJD6tHfAC5MzoRysFv5EMm5og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6tHfAC5MzoRysFv5EMm5og",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:21"
+  },
+  {
+    "business_name": "OM SAI OPTICAL S",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "518508",
+    "phone_number": "+91 96663 37353",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. MSR FAMILY RESTAURANT, Rakasipet, Bellal Tarafa (Bodhan Rural), Bodhan, Telangana 503185",
+    "area": "Rakasipet",
+    "latitude": 18.6459786,
+    "longitude": 77.8903085,
+    "place_id": "ChIJhWdMVyp3zjsRetJJ9cfvlfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWdMVyp3zjsRetJJ9cfvlfM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:32:23"
+  }
+]

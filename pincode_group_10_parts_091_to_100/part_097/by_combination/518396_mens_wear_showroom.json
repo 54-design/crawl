@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion CLUB",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "518396",
+    "phone_number": "+91 74161 82440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arunachal complex, DMM Gate Rd, near nice water, opposite Guntakal, Hanumesh Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Hanumesh Nagar",
+    "latitude": 15.166556799999999,
+    "longitude": 77.37586399999999,
+    "place_id": "ChIJ8ahbd9XltjsRDzWYd3hEF-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ahbd9XltjsRDzWYd3hEF-M",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:49"
+  },
+  {
+    "business_name": "MR-MASTAR (mannat rolax fashion)",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "518396",
+    "phone_number": "+91 90003 90404",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kps theatre, Ashoka paradise hotel, Tilak Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Tilak Nagar",
+    "latitude": 15.166117199999999,
+    "longitude": 77.37798219999999,
+    "place_id": "ChIJbd8uZADltjsRvwtl6sCmLbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbd8uZADltjsRvwtl6sCmLbY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:58:49"
+  }
+]

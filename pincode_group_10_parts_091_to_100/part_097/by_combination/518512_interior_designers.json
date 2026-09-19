@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D Fayaz",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "518512",
+    "phone_number": "+91 94934 90596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G Lingapuram, Gali Chennaiah Palem, Andhra Pradesh 518513",
+    "area": "G Lingapuram",
+    "latitude": 15.6174988,
+    "longitude": 78.5664091,
+    "place_id": "ChIJ2dFVFACptTsRluET7w9Kv-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dFVFACptTsRluET7w9Kv-o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:38:30"
+  },
+  {
+    "business_name": "A1 showcase works",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "518512",
+    "phone_number": "+91 90005 65036",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "GGCX+M53, Bayyapu Kodur, Andhra Pradesh 518523",
+    "area": "518512",
+    "latitude": 15.5210887,
+    "longitude": 78.5484796,
+    "place_id": "ChIJKylmBCmttTsR3GBHO45IQIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKylmBCmttTsR3GBHO45IQIU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:38:30"
+  }
+]

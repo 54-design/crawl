@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR.DIY TGV Ananta Mall",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "518401",
+    "phone_number": "+91 1800 532 2829",
+    "website": "https://www.mrdiy.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SY. NO. 177 & 192, 4A, TGV ANANTHA CITY SQUARE MALL, Unit No.01, 2nd floor, 40/37-M, New Bus Stand Rd, River View Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "River View Colony",
+    "latitude": 15.826861999999998,
+    "longitude": 78.03545419999999,
+    "place_id": "ChIJ37Win8DntTsRKJtSnQCca9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37Win8DntTsRKJtSnQCca9E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:28"
+  },
+  {
+    "business_name": "Mahaboob Photo Frame Works & Lamination",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Picture frame shop",
+    "all_categories": "Picture frame shop, Lamination service",
+    "pincode": "518401",
+    "phone_number": "+91 99511 58677",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No: A10, Mohd. Wakf Complex, opp. Mourya Inn, Kurnool, River View Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "Kurnool, River View Colony",
+    "latitude": 15.828521799999999,
+    "longitude": 78.0368747,
+    "place_id": "ChIJq_x30l7ntTsRjFB_EwZlOaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_x30l7ntTsRjFB_EwZlOaY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:01:28"
+  }
+]

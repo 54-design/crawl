@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Weddings By Vicky",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "518508",
+    "phone_number": "+91 80955 51234",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Weddings By Vicky, 518508, India",
+    "area": "518508",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJQ8TvU1sRrjsR091cFz5ANtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8TvU1sRrjsR091cFz5ANtk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:33:01"
+  },
+  {
+    "business_name": "Events Grove",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "518508",
+    "phone_number": "+91 98779 05512",
+    "website": "https://eventsgrove.com/",
+    "rating": 4.9,
+    "reviews_count": 155,
+    "address": "Events Grove, 518508, India",
+    "area": "518508",
+    "latitude": 30.4543486,
+    "longitude": 77.462508,
+    "place_id": "ChIJ2TMVZmvvDzkRKnZVZyIEixw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TMVZmvvDzkRKnZVZyIEixw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:33:02"
+  }
+]

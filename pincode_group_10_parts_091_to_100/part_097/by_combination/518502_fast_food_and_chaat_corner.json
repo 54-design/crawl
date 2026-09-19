@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayaka Fast Food Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "518502",
+    "phone_number": "+91 98665 19827",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Padmavathi Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Padmavathi Nagar",
+    "latitude": 15.481787299999999,
+    "longitude": 78.4842188,
+    "place_id": "ChIJiTnl5FKttTsRj9odhzx9Tqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTnl5FKttTsRj9odhzx9Tqw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:17"
+  },
+  {
+    "business_name": "Sri Anushka Hot Chips",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Deli",
+    "all_categories": "Deli",
+    "pincode": "518502",
+    "phone_number": "+91 63000 05693",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 53,
+    "address": "FF9R+423, Opp: C V Complex, NGO Colony, Nandyala, Andhra Pradesh 518502",
+    "area": "NGO Colony",
+    "latitude": 15.4677694,
+    "longitude": 78.4900335,
+    "place_id": "ChIJg2EyZbpStDsRljSZ2_QFPk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2EyZbpStDsRljSZ2_QFPk0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:30:19"
+  }
+]

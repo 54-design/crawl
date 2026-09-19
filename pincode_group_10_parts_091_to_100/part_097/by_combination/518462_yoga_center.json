@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jannat Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "518462",
+    "phone_number": "+91 99633 50751",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Kodumur - Veldurthy Rd, Kodumur, Andhra Pradesh 518464",
+    "area": "518462",
+    "latitude": 15.685154899999999,
+    "longitude": 77.7739933,
+    "place_id": "ChIJ2cH-PQBxtjsR_E156tBMP_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cH-PQBxtjsR_E156tBMP_0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:44"
+  },
+  {
+    "business_name": "Galaxy Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "518462",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 33,
+    "address": "Yeddula market road, near to raghavendra college, Yemmiganur, Andhra Pradesh 518360",
+    "area": "Quible Colony, Indira Nagar",
+    "latitude": 15.764199,
+    "longitude": 77.475933,
+    "place_id": "ChIJEa5ZvL9BtjsRhBHP9wcHgf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa5ZvL9BtjsRhBHP9wcHgf0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:15:47"
+  }
+]

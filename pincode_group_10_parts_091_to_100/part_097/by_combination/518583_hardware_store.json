@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhavareddy hardware shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "518583",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9JWC+VG, Gajulapalli, Andhra Pradesh 518583",
+    "area": "518583",
+    "latitude": 15.397632199999999,
+    "longitude": 78.6217083,
+    "place_id": "ChIJu5tH5d1VtDsR5vP2YOxQWqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5tH5d1VtDsR5vP2YOxQWqY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:53:20"
+  },
+  {
+    "business_name": "Madhavareddy hardware shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "518583",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9JXH+JR, Gajulapalli, Andhra Pradesh 518583",
+    "area": "518583",
+    "latitude": 15.399094199999999,
+    "longitude": 78.6295829,
+    "place_id": "ChIJffYbJl1VtDsRXF9d934DAIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffYbJl1VtDsRXF9d934DAIQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:53:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Srp Event Organisers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "518501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 123, TTD Rd, near Srinivasa Complex, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.4850394,
+    "longitude": 78.4843819,
+    "place_id": "ChIJw5FvL1KttTsR1tnWwVxbNEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5FvL1KttTsR1tnWwVxbNEc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:29:18"
+  },
+  {
+    "business_name": "Maharaja Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Restaurant",
+    "pincode": "518501",
+    "phone_number": "+91 97046 07866",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 36,
+    "address": "women's college, Opp, Koti Reddy Cir, Maria Puram, Nagarajupeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Nagarajupeta",
+    "latitude": 14.4716978,
+    "longitude": 78.82295839999999,
+    "place_id": "ChIJp9u_lhByszsReidk5xV-gBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9u_lhByszsReidk5xV-gBA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:29:19"
+  }
+]

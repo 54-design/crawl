@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr.Hangout Café",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518380",
+    "phone_number": "+91 91334 52354",
+    "website": "https://mrhangout-caf.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kurnool - Sunkesula Rd, Kurnool, Andhra Pradesh 518004",
+    "area": "518380",
+    "latitude": 15.842658799999999,
+    "longitude": 78.0316406,
+    "place_id": "ChIJjVQB-1rhtTsR3hlIKxD3AxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVQB-1rhtTsR3hlIKxD3AxA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:26"
+  },
+  {
+    "business_name": "M.S.M Traders",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store",
+    "pincode": "518380",
+    "phone_number": "+91 97034 86834",
+    "website": "http://www.msmtraders.in/",
+    "rating": 4.2,
+    "reviews_count": 113,
+    "address": "Gooty - Adoni Rd, opp. Bajaj Showroom, Pattikonda, Andhra Pradesh 518380",
+    "area": "518380",
+    "latitude": 15.4028947,
+    "longitude": 77.49747909999999,
+    "place_id": "ChIJr1i2ipX1tjsRD1u0wh7WnRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1i2ipX1tjsRD1u0wh7WnRg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 08:51:29"
+  }
+]

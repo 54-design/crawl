@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRL Logistics Ltd - W S Colony",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Courier service, Freight Forwarding Agency, Transportation service, Trucking company",
+    "pincode": "518467",
+    "phone_number": "+91 1800 599 7800",
+    "website": "https://vrlgroup.in/vrl_logistics_service.aspx",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "behind GURU RAGHAVENDRA PETROL PUMP(IOC PERTOL PUMP, near R ADIO STN, Nehru Auto Nagar, Kurnool, Kalluru, Andhra Pradesh 518003",
+    "area": "Nehru Auto Nagar",
+    "latitude": 15.819149999999999,
+    "longitude": 78.00434,
+    "place_id": "ChIJe84WtnLftTsRrFFmIQAlxF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe84WtnLftTsRrFFmIQAlxF4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:24:34"
+  },
+  {
+    "business_name": "Adila biotec",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Agricultural Product Wholesaler, Beauty product supplier, Organic drug store",
+    "pincode": "518467",
+    "phone_number": "+91 98480 52515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "97-440/2, Bellary Rd, Nagendra Nagar, L. Peta, Andhra Pradesh 518003",
+    "area": "Nagendra Nagar",
+    "latitude": 15.8241105,
+    "longitude": 78.01288679999999,
+    "place_id": "ChIJgX9N5KngtTsRHvml0GTVkdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgX9N5KngtTsRHvml0GTVkdI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 09:24:36"
+  }
+]
