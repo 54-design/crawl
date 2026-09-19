@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOMA Sound and Lighting",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "515212",
+    "phone_number": "+91 88936 74012",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "TERA-255, Vaduthala, Kochi, Ernakulam, Keralam 682023",
+    "area": "Vaduthala",
+    "latitude": 10.014904999999999,
+    "longitude": 76.278999,
+    "place_id": "ChIJIbQbLX0NCDsRkCchosVN704",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbQbLX0NCDsRkCchosVN704",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:26:02"
+  },
+  {
+    "business_name": "Gokraft Events",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "515212",
+    "phone_number": "+91 99479 20626",
+    "website": "http://gokraft.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd floor, Vadakumthala colonnade, near P S mission Hospital, Kundannoor, Maradu, Ernakulam, Keralam 682304",
+    "area": "Kundannoor, Maradu",
+    "latitude": 9.9376794,
+    "longitude": 76.3217639,
+    "place_id": "ChIJP--Ujw_i_2gRjexMJ_TXhAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP--Ujw_i_2gRjexMJ_TXhAk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:26:02"
+  }
+]

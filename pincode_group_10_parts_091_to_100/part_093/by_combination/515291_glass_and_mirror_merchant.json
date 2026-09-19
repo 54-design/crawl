@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mirror and glass Shop",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass shop",
+    "all_categories": "Glass shop, Glass industry, Glass manufacturer, Microwave oven repair service, Mirror shop",
+    "pincode": "515291",
+    "phone_number": "+91 99303 20119",
+    "website": "https://mirror-and-glass.grexa.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "721/A, Veera Desai Rd, near to Kia park apartment, Azad Nagar, Andheri West, Mumbai, Maharashtra 400058",
+    "area": "Azad Nagar, Andheri West",
+    "latitude": 19.128711199999998,
+    "longitude": 72.83773049999999,
+    "place_id": "ChIJR4mM_EW35zsRJ6exe0PV4Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4mM_EW35zsRJ6exe0PV4Y4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:37:47"
+  },
+  {
+    "business_name": "The Glass twinkle",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "515291",
+    "phone_number": "+91 82749 66327",
+    "website": "https://the-glass-twinkle.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajarhat Main Rd, opposite kotak mahindra bank ATM, Dashadrone, SBI more, Rajarhat, kolkata, West Bengal 7000136",
+    "area": "Dashadrone, SBI more, Rajarhat",
+    "latitude": 22.6300763,
+    "longitude": 88.4480725,
+    "place_id": "ChIJe6_9mC11AjoRerQrG8EH7Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6_9mC11AjoRerQrG8EH7Pg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:37:47"
+  }
+]

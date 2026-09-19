@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhanu Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "515123",
+    "phone_number": "+91 87906 36439",
+    "website": "http://www.bhanuflowerdecoration.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chilakalapudi, Narasimha Nagar, Chilakalapudi, Machilipatnam, Andhra Pradesh 521002",
+    "area": "Narasimha Nagar, Chilakalapudi",
+    "latitude": 16.1974142,
+    "longitude": 81.1564746,
+    "place_id": "ChIJJ3Vs4nPnSToRiRvkct30Nyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3Vs4nPnSToRiRvkct30Nyg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:54"
+  },
+  {
+    "business_name": "SLV Flower Market",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "515123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 133,
+    "address": "HG32+GRG, Apparao St, Basinikonda, Madanapalle, Andhra Pradesh 517325",
+    "area": "Basinikonda",
+    "latitude": 13.5538201,
+    "longitude": 78.5020646,
+    "place_id": "ChIJ6WpxaN9lsjsRcsWWZxHU4aA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WpxaN9lsjsRcsWWZxHU4aA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:56"
+  }
+]

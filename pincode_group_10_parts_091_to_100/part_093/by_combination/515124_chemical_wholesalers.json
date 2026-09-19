@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roopa Industry Ltd",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "515124",
+    "phone_number": "+91 80963 30007",
+    "website": "https://www.roopaindustries.com/",
+    "rating": 2.9,
+    "reviews_count": 9,
+    "address": "G7P3+VV3, Patancheru Industrial Area, Patancheruvu, Hyderabad, Telangana 502319",
+    "area": "Patancheru Industrial Area",
+    "latitude": 17.537138499999998,
+    "longitude": 78.254682,
+    "place_id": "ChIJZ7q7XvHyyzsReE8fhqOo610",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7q7XvHyyzsReE8fhqOo610",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:09:07"
+  },
+  {
+    "business_name": "Neuland Laboratories Limited, Unit-1",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "515124",
+    "phone_number": "N/A",
+    "website": "https://www.neulandlabs.com/",
+    "rating": 4.8,
+    "reviews_count": 116,
+    "address": "Neuland Laboratories Limited, Unit-1, Survey No: 291, 346P, 347, 348P 473, 474 and 490/2, Veerabhadraswamy Temple Road Domadugu Vilage, Bothapally Village Gummadidala Mandal, Telangana 502313",
+    "area": "515124",
+    "latitude": 17.6555942,
+    "longitude": 78.3661955,
+    "place_id": "ChIJ98njljSKyzsR2T2Ei8nGJ2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98njljSKyzsR2T2Ei8nGJ2Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:09:07"
+  }
+]

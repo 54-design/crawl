@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Master Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515164",
+    "phone_number": "+91 98489 77421",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "14-11-22,Athchutha, Achuta Ramaiah St, Hanumanpet, Vijayawada, Andhra Pradesh 520003",
+    "area": "Hanumanpet",
+    "latitude": 16.5148846,
+    "longitude": 80.62256719999999,
+    "place_id": "ChIJ____I_3vNToR88CmKiIPTB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____I_3vNToR88CmKiIPTB8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:17"
+  },
+  {
+    "business_name": "Shoe Park",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515164",
+    "phone_number": "+91 98491 80770",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 11,
+    "address": "Vijayawada - Gudivada Rd, beside Mohandas Theatre, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamata, Benz Circle",
+    "latitude": 16.4949168,
+    "longitude": 80.66105379999999,
+    "place_id": "ChIJu1hA3cP6NToRdUmEseNCuUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1hA3cP6NToRdUmEseNCuUs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL FOOTWARE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515211",
+    "phone_number": "+91 89199 12210",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Check, Tr45 Lakshminarayana Complex, Post, near Bus Stand, Thumakunta, Bengaluru, Karnataka 515211",
+    "area": "515211",
+    "latitude": 13.7233877,
+    "longitude": 77.4980427,
+    "place_id": "ChIJ5XoDyiW9sTsR56SkYn-rlto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XoDyiW9sTsR56SkYn-rlto",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:35"
+  },
+  {
+    "business_name": "Dada Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515211",
+    "phone_number": "+91 81251 11555",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 24,
+    "address": "27-6-68, Prakasam Road, Besant Road Cross, Bus Stop, Governorpet, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5118528,
+    "longitude": 80.6277138,
+    "place_id": "ChIJq8Fj-gHwNToR_ST2muNsTOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8Fj-gHwNToR_ST2muNsTOw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:37"
+  }
+]

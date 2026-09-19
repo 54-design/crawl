@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Disney Kids wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515144",
+    "phone_number": "+91 98662 43104",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "10-2-138 E, T.K Street, near Chips Corner, Nehru Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Nehru Nagar",
+    "latitude": 13.6354291,
+    "longitude": 79.4181325,
+    "place_id": "ChIJQ0wkdQRLTToRlW6_OdQ1v-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0wkdQRLTToRlW6_OdQ1v-Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:13:06"
+  },
+  {
+    "business_name": "Galaxy Fashions",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515144",
+    "phone_number": "+91 877 225 5235",
+    "website": "https://www.instagram.com/rekhagroup/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Door No 157, Theertha Katta St, Varadaraja Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Varadaraja Nagar",
+    "latitude": 13.633492599999999,
+    "longitude": 79.4183913,
+    "place_id": "ChIJuY1HRwRLTToROqcwy5UUrdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuY1HRwRLTToROqcwy5UUrdo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:13:07"
+  }
+]

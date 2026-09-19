@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grow Online Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "515301",
+    "phone_number": "+91 81004 77364",
+    "website": "https://growonlinemarketing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Grow Online Marketing, 515301, India",
+    "area": "515301",
+    "latitude": 22.5354274,
+    "longitude": 88.3473528,
+    "place_id": "ChIJnWSv683w0wQRJlLDWus4QAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWSv683w0wQRJlLDWus4QAI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:40:28"
+  },
+  {
+    "business_name": "itgurusolutions",
+    "search_category": "Growth Marketing",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "515301",
+    "phone_number": "N/A",
+    "website": "https://www.itgurusolutions.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "itgurusolutions, 515301, India",
+    "area": "515301",
+    "latitude": 13.4222866,
+    "longitude": 0,
+    "place_id": "ChIJkfDFerQWKK8R-TFckjKPxgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfDFerQWKK8R-TFckjKPxgA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:40:28"
+  }
+]

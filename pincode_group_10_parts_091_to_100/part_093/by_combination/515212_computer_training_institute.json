@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BIT Institute of Technology",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College, Educational institution, Engineering school",
+    "pincode": "515212",
+    "phone_number": "+91 95055 18262",
+    "website": "https://www.bitit.org/",
+    "rating": 3.7,
+    "reviews_count": 209,
+    "address": "Bit institute of technology, Kadiri Road- Guddampali-, Gorantla- Hindupur - Banglore Road, Hindupuram, Andhra Pradesh 515202",
+    "area": "515212",
+    "latitude": 13.8651351,
+    "longitude": 77.5410241,
+    "place_id": "ChIJD87EuBiisTsRZCRswyYurPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD87EuBiisTsRZCRswyYurPI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:26:09"
+  },
+  {
+    "business_name": "The Right Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "515212",
+    "phone_number": "+91 75249 18465",
+    "website": "https://trci.org.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Hero Agency, Suchi, Uttar Pradesh 229128",
+    "area": "515212",
+    "latitude": 26.0856116,
+    "longitude": 81.3564782,
+    "place_id": "ChIJl8Lh75EHmzkRLBEmA2ng0q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8Lh75EHmzkRLBEmA2ng0q0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:26:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515159",
+    "phone_number": "+91 99490 60315",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9X2X RJ8, Mudigubba, Gunjepalle, Andhra Pradesh 515511",
+    "area": "Mudigubba",
+    "latitude": 14.35211,
+    "longitude": 77.9989308,
+    "place_id": "ChIJWx7t4IHhszsRRj3BfE9eAtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWx7t4IHhszsRRj3BfE9eAtA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:32"
+  },
+  {
+    "business_name": "Best Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "515159",
+    "phone_number": "+91 99661 11838",
+    "website": "https://www.bestmenswear.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Door No. 15/523/26, Pallavi Towers, 80ft Road Beside: Sri Sai Appolo Dental Hospital, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.677692799999999,
+    "longitude": 77.6044888,
+    "place_id": "ChIJUzLr-95KsTsRCqZfPJEwuzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzLr-95KsTsRCqZfPJEwuzQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:32"
+  }
+]

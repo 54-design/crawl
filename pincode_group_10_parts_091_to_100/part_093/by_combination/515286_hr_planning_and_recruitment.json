@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The HR Dept Swindon, North Wiltshire and East Cotswolds",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Consultant, Employment consultant, Recruiter",
+    "pincode": "515286",
+    "phone_number": "01793 683398",
+    "website": "https://hrdept.co.uk/swindon-north-wiltshire-east-cotswolds/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hargreaves Rd, Groundwell Industrial Estate, Suite A7 Gemini House, Swindon SN25 5AZ, United Kingdom",
+    "area": "515286",
+    "latitude": 51.5969312,
+    "longitude": -1.7743750999999999,
+    "place_id": "ChIJvfTbl0FEcUgRVkOaJwIir4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfTbl0FEcUgRVkOaJwIir4Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:36:41"
+  },
+  {
+    "business_name": "The HR Consultants",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Business management consultant, Employment consultant, Human resource consulting",
+    "pincode": "515286",
+    "phone_number": "01789 614311",
+    "website": "https://www.thehrconsultants.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Packwood House, Guild St, Stratford-upon-Avon CV37 6RP, United Kingdom",
+    "area": "515286",
+    "latitude": 52.1937238,
+    "longitude": -1.7050401,
+    "place_id": "ChIJO6tO6YfRcEgRFrTsnx3p8Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6tO6YfRcEgRFrTsnx3p8Wg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:36:43"
+  }
+]

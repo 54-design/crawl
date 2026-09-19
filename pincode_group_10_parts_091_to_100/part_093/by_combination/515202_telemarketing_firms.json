@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VCATCH",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company",
+    "pincode": "515202",
+    "phone_number": "+91 99452 33443",
+    "website": "http://vcatch.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "39/1, HMT Main Rd, next to Vishal Mart, Gokula 1st Stage, Mathikere Extension, Mathikere, Bengaluru, Karnataka 560054",
+    "area": "Gokula 1st Stage, Mathikere Extension, Mathikere",
+    "latitude": 13.0295805,
+    "longitude": 77.5613364,
+    "place_id": "ChIJXS08PkE9rjsRs9R6mRIEVqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXS08PkE9rjsRs9R6mRIEVqU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:10"
+  },
+  {
+    "business_name": "Call2Customers Call Center Pvt Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Call center",
+    "all_categories": "Call center",
+    "pincode": "515202",
+    "phone_number": "+91 98910 57170",
+    "website": "https://www.call2customers.com/",
+    "rating": 4,
+    "reviews_count": 47,
+    "address": "C-67, Hazratpur Wajidpur, C Block, Sector 63, Noida, Uttar Pradesh 201301",
+    "area": "Hazratpur Wajidpur, C Block, Sector 63",
+    "latitude": 28.618002599999997,
+    "longitude": 77.384267,
+    "place_id": "ChIJDRn7S8jjDDkRK3nxaQAzL_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRn7S8jjDDkRK3nxaQAzL_0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:10"
+  }
+]

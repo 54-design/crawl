@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Toyota Vijayawada",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "515211",
+    "phone_number": "+91 73311 00579",
+    "website": "https://www.lakshmitoyota.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "My Baby Hospital, 4/151, NH16 ENIKEPADU, near Anu, currency nagar, Prasadampadu, Andhra Pradesh 521108",
+    "area": "currency nagar",
+    "latitude": 16.5161424,
+    "longitude": 80.7017278,
+    "place_id": "ChIJzVx3B2LlNToR66ge5TcHV7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVx3B2LlNToR66ge5TcHV7g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:53"
+  },
+  {
+    "business_name": "Neon Motors Sales & Service",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "515211",
+    "phone_number": "+91 97030 64499",
+    "website": "https://www.neonmotors.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Patrunivalasa Flyover, NH 16, near Sai Dental College, Andhra Pradesh 532220",
+    "area": "515211",
+    "latitude": 18.706691,
+    "longitude": 84.3404831,
+    "place_id": "ChIJwRKtjHkVPDoRW7jyLidme6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRKtjHkVPDoRW7jyLidme6U",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:53"
+  }
+]

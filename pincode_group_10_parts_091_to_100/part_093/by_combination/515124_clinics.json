@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalith Heart and Lungs hospital",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515124",
+    "phone_number": "+91 92814 69455",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "meka vari complex, lalith hospital, 9-3-12, Roypeta, Narsapur, Andhra Pradesh 534275",
+    "area": "Roypeta",
+    "latitude": 16.433992099999998,
+    "longitude": 81.6964289,
+    "place_id": "ChIJ6RUwjFXZNzoRNzeGJkW54NY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RUwjFXZNzoRNzeGJkW54NY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:08:06"
+  },
+  {
+    "business_name": "Sneha Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515124",
+    "phone_number": "+91 99893 67237",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "109, Maridamma temple Street, near Sridevi Spices, Peddapuram, Andhra Pradesh 533437",
+    "area": "515124",
+    "latitude": 17.077849999999998,
+    "longitude": 82.139104,
+    "place_id": "ChIJW_zP8G-BNzoRluoLvqGHzhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_zP8G-BNzoRluoLvqGHzhY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:08:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZABI TURS & TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515212",
+    "phone_number": "+91 83284 20930",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9-1-53D, Panduranga Nagar, Rahamathpur, Hindupuram, Andhra Pradesh 515201",
+    "area": "Panduranga Nagar, Rahamathpur",
+    "latitude": 13.8258598,
+    "longitude": 77.496377,
+    "place_id": "ChIJd-13qJCjsTsRkYZkwUSvtFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-13qJCjsTsRkYZkwUSvtFs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:25:40"
+  },
+  {
+    "business_name": "KSN TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515212",
+    "phone_number": "+91 81431 79987",
+    "website": "https://www.ksntravels.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near MBS TOUR TRAVELS, near HP PETROL BUNK, Mukkidipeta, Hindupuram, Andhra Pradesh 515201",
+    "area": "Mukkidipeta",
+    "latitude": 13.822259899999999,
+    "longitude": 77.5009298,
+    "place_id": "ChIJkzIMJiujsTsRDSJnIRs_mRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzIMJiujsTsRDSJnIRs_mRY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:25:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "Thumakunta, Andhra Pradesh 515211",
+    "area": "515211",
+    "latitude": 13.7239922,
+    "longitude": 77.498149,
+    "place_id": "ChIJ27Z1irK9sTsRvILub9tmCHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27Z1irK9sTsRvILub9tmCHg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:24:08"
+  },
+  {
+    "business_name": "Manea The Salon - Gurunanak Colony",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Bridal shop, Nail salon, Hairdresser",
+    "pincode": "515211",
+    "phone_number": "+91 90526 99888",
+    "website": "https://www.maneathesalon.com/gurunanakcolony",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Anjaneya Restaurant Upstairs, Siva Complex, 3rd floor, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Vasavi Nagar, Guru Nanak Colony",
+    "latitude": 16.5035007,
+    "longitude": 80.6654516,
+    "place_id": "ChIJeWEPTkn7NToRN_tayeRxD4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWEPTkn7NToRN_tayeRxD4s",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:24:08"
+  }
+]

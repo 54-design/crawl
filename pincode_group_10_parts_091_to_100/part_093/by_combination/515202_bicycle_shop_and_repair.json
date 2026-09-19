@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirag Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "515202",
+    "phone_number": "+91 99042 58845",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 10, Astha Avenue, New IPCL Rd, Near Anandvan Complex, Gorwa, Vadodara, Gujarat 390023",
+    "area": "Near Anandvan Complex, Gorwa",
+    "latitude": 22.328524299999998,
+    "longitude": 73.1544636,
+    "place_id": "ChIJhUgz7-jIXzkRKwazEQNUjUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUgz7-jIXzkRKwazEQNUjUQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:22:07"
+  },
+  {
+    "business_name": "SUPER CYCLE COMPANY",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "515202",
+    "phone_number": "+91 99258 38980",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Madanzapa Rd, Nyay Mandir, Sultanpura, Vadodara, Gujarat 390001",
+    "area": "Nyay Mandir, Sultanpura",
+    "latitude": 22.2987876,
+    "longitude": 73.2054543,
+    "place_id": "ChIJk2A_A_PFXzkR3R7rBDvEImA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2A_A_PFXzkR3R7rBDvEImA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:22:07"
+  }
+]

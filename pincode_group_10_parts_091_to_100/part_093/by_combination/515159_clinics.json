@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr YSR Village Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CW4V+QC, Sankepalle, Andhra Pradesh 515159",
+    "area": "515159",
+    "latitude": 14.4069082,
+    "longitude": 77.9435895,
+    "place_id": "ChIJWQWlVzfhszsRNEGxrCL1VPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQWlVzfhszsRNEGxrCL1VPg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:42"
+  },
+  {
+    "business_name": "Nihira Nursing Home and hospital",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515159",
+    "phone_number": "+91 99592 64772",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd Road, Krishna Puram, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Krishna Puram",
+    "latitude": 14.9054345,
+    "longitude": 78.0075153,
+    "place_id": "ChIJ9a3BlwAdtDsRFhSlld-O6FM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a3BlwAdtDsRFhSlld-O6FM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:42"
+  }
+]

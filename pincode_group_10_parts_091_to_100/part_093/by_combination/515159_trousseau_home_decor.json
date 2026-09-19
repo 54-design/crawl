@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Javeed furniture",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture wholesaler",
+    "all_categories": "Furniture wholesaler",
+    "pincode": "515159",
+    "phone_number": "+91 79891 94967",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, near by Dharmavaram, nrr function, Pothukunta, Dharmavaram, Regatipalle, Andhra Pradesh 515671",
+    "area": "nrr function, Pothukunta",
+    "latitude": 14.417625399999999,
+    "longitude": 77.7071452,
+    "place_id": "ChIJ6WQ5I15DsTsRm_zfRl-Q3No",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WQ5I15DsTsRm_zfRl-Q3No",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:17:20"
+  },
+  {
+    "business_name": "SVB 99 STORE",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Variety store",
+    "all_categories": "Variety store, Toy store",
+    "pincode": "515159",
+    "phone_number": "N/A",
+    "website": "https://svb99store.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No 2,1st Floor, 9FHH+X5F Sanghi Arcade, 5-1-1066to99, opposite Gurudwara, Gowliguda, Hyderabad, Telangana 500012",
+    "area": "Putlibowli, Gowliguda",
+    "latitude": 17.3795993,
+    "longitude": 78.4794884,
+    "place_id": "ChIJ1S6yoKWZyzsRxS-xU8l7ydw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1S6yoKWZyzsRxS-xU8l7ydw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:17:20"
+  }
+]

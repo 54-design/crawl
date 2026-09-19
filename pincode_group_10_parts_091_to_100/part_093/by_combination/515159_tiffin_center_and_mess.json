@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TIFFIN EXPRESS (NAVI MUMBAI)",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "515159",
+    "phone_number": "+91 79774 74542",
+    "website": "https://tiffinexpress.online/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "PLOT NO 48, Seawoods West, Sector 44A, Seawoods, Navi Mumbai, Maharashtra 400706",
+    "area": "Seawoods West, Sector 44A, Seawoods",
+    "latitude": 19.012881699999998,
+    "longitude": 73.0112314,
+    "place_id": "ChIJcSn7f13D5zsR49aqxPBQ9lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSn7f13D5zsR49aqxPBQ9lo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:27"
+  },
+  {
+    "business_name": "A To Z Tiffin & Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "515159",
+    "phone_number": "+91 95813 21328",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 74,
+    "address": "S H 7, Pregnapur Road, Hyderabad, Telangana 502311",
+    "area": "515159",
+    "latitude": 17.8278245,
+    "longitude": 78.7023086,
+    "place_id": "ChIJq7C_i9iGzDsRd6gPWD1Hw2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7C_i9iGzDsRd6gPWD1Hw2k",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghu canteen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Andhra Pradesh State Sericulture Research and Development Institute, Melapuram, RTC Colony, Hindupuram, Andhra Pradesh 515201",
+    "area": "Melapuram, RTC Colony",
+    "latitude": 13.834194199999999,
+    "longitude": 77.4997691,
+    "place_id": "ChIJ4e8tWMOjsTsRi5keu7-m9lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4e8tWMOjsTsRi5keu7-m9lg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:26"
+  },
+  {
+    "business_name": "Vachi Thini Po South Indian Tiffins",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515211",
+    "phone_number": "+91 93944 31144",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Opp. APSRTC Bus Stand, Krishnalanka, Vijayawada, Andhra Pradesh 520013",
+    "area": "Opp. APSRTC Bus Stand, Krishnalanka",
+    "latitude": 16.5066021,
+    "longitude": 80.61549749999999,
+    "place_id": "ChIJhWIcTdjxNToRk1l8rsBwmhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWIcTdjxNToRk1l8rsBwmhk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:27"
+  }
+]

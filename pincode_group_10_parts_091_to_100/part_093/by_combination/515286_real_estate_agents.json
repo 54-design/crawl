@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanu Reddy Realty India Private Limited",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate consultant",
+    "pincode": "515286",
+    "phone_number": "+91 89127 99439",
+    "website": "https://hanureddyrealty.com/real-estate-in-vizag/",
+    "rating": 4.6,
+    "reviews_count": 134,
+    "address": "9-14-11, VIP Rd, CBM Compound, Siripuram, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "CBM Compound, Siripuram",
+    "latitude": 17.726905,
+    "longitude": 83.3155945,
+    "place_id": "ChIJTQbTt0BDOToRjhQyos-WeI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQbTt0BDOToRjhQyos-WeI8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:36:44"
+  },
+  {
+    "business_name": "Garuda gamer 7,",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency, Service establishment",
+    "pincode": "515286",
+    "phone_number": "+91 97421 93917",
+    "website": "https://garuda-gamer-7.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Garuda gamer 7,, 515286, India",
+    "area": "515286",
+    "latitude": 13.907729699999999,
+    "longitude": 77.0246695,
+    "place_id": "ChIJw70ioDLrBqwRctd-G6kIrd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw70ioDLrBqwRctd-G6kIrd8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:36:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ravi Raj Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Car leasing service, Car rental agency, Sightseeing Tour Operator, Tour operator, Travel agency",
+    "pincode": "515144",
+    "phone_number": "+91 87902 48771",
+    "website": "http://www.sriravirajtravels.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "10, Lawsons Bay Colony, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Lawsons Bay Colony, Pedda Waltair",
+    "latitude": 17.735411499999998,
+    "longitude": 83.33778079999999,
+    "place_id": "ChIJVb3_37FpOToRe3EsSniuGR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVb3_37FpOToRe3EsSniuGR4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:13:31"
+  },
+  {
+    "business_name": "Jain Travel Zone",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Insurance agency, Sightseeing Tour Operator, Tour operator",
+    "pincode": "515144",
+    "phone_number": "+91 88010 18018",
+    "website": "http://www.jaintravelzone.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nagamalli Plaza, Zilla Parishad, 101, Saileswar Sen Marg, near Kanak, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Krishna Nagar, Maharani Peta",
+    "latitude": 17.7098582,
+    "longitude": 83.3138135,
+    "place_id": "ChIJxUHAYA1DOToRdiq74NndXv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUHAYA1DOToRdiq74NndXv8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:13:31"
+  }
+]

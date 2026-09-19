@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V1 Fitness Unisex Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "515231",
+    "phone_number": "+91 62819 19185",
+    "website": "https://v1fitnessunisexgym.com/",
+    "rating": 4.8,
+    "reviews_count": 215,
+    "address": "Old NRI SCHOOL Building, opposite Honda show room, Korramenugunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Korramenugunta",
+    "latitude": 13.6292799,
+    "longitude": 79.43827329999999,
+    "place_id": "ChIJ2yHKykRLTToRhwsYJyFRrj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yHKykRLTToRhwsYJyFRrj4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:27:18"
+  },
+  {
+    "business_name": "BBC Bouncers Fitness GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515231",
+    "phone_number": "+91 94947 76969",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 205,
+    "address": "tn palem, Karakambadi Rd, opp. bharat petrol bunk, near D mart, Tirupati, Andhra Pradesh 517507",
+    "area": "Mangalam",
+    "latitude": 13.648808299999999,
+    "longitude": 79.4483575,
+    "place_id": "ChIJ0_7YcA5LTToRv9QduU_vGf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_7YcA5LTToRv9QduU_vGf0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:27:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Momo Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "515134",
+    "phone_number": "+91 70750 69770",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 63,
+    "address": "5R76+WX4, Puttaparthi, Yenumula Palli, Andhra Pradesh 515134",
+    "area": "515134",
+    "latitude": 14.1647625,
+    "longitude": 77.8124531,
+    "place_id": "ChIJkwUUIspksTsRxhPJKrrTQP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwUUIspksTsRxhPJKrrTQP0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:11:17"
+  },
+  {
+    "business_name": "Swathi Delicacy",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Chinese restaurant, Fast food restaurant, North Indian restaurant, South Indian restaurant",
+    "pincode": "515134",
+    "phone_number": "+91 94481 29493",
+    "website": "http://www.swathidelicacy.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "XWW2+45J, NH 75, Kunigal, Tumkur, Koppa, Karnataka 572142",
+    "area": "515134",
+    "latitude": 12.995411299999999,
+    "longitude": 76.9003171,
+    "place_id": "ChIJ96aG-WvDrzsRc_m5a0QoaiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96aG-WvDrzsRc_m5a0QoaiI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:11:19"
+  }
+]

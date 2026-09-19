@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petbee Vet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Pet groomer, Pet store, Pet supply store, Veterinary pharmacy",
+    "pincode": "515201",
+    "phone_number": "+91 98444 76555",
+    "website": "https://petbeevetclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 138,
+    "address": "46, Jumbo Sawari Dinne, 2nd Main Rd, beside Swad Puneri & Hot Chips, Jumbo Sawari, Royal County, 8th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Jumbo Sawari, Royal County, 8th Phase, J. P. Nagar",
+    "latitude": 12.8660342,
+    "longitude": 77.5793341,
+    "place_id": "ChIJ9ZB7STprrjsRAZE-dSqsr_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZB7STprrjsRAZE-dSqsr_A",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:20:14"
+  },
+  {
+    "business_name": "Royal Veterinary Clinic & Pet Shop",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "515201",
+    "phone_number": "+91 91139 44574",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 75,
+    "address": "SIT Main Road, beside MORE SUPER MARKET, Sri Krishna Nagar, Siddalingaiahna Palya, Tumakur, Karnataka 572103",
+    "area": "Sri Krishna Nagar, Siddalingaiahna Palya",
+    "latitude": 13.3287611,
+    "longitude": 77.122675,
+    "place_id": "ChIJ5yZu_rQtsDsRwSdAcYuhKHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yZu_rQtsDsRwSdAcYuhKHc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:20:14"
+  }
+]

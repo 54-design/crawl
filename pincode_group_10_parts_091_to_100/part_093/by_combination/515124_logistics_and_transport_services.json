@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B K Goods Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "515124",
+    "phone_number": "+91 40 2465 6786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-2-200/A/45, Osman Gunj Rd, Osmangunj, Jam Bagh, Hyderabad, Telangana 500012",
+    "area": "Osmangunj, Jam Bagh",
+    "latitude": 17.381471299999998,
+    "longitude": 78.4764127,
+    "place_id": "ChIJq6qqniqYyzsRBHS_jGoVkFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqniqYyzsRBHS_jGoVkFs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:08:20"
+  },
+  {
+    "business_name": "Drop Truck - Truck Rental Services",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Refrigerated transport service, Transportation service, Truck rental agency, Trucking company",
+    "pincode": "515124",
+    "phone_number": "+91 73050 63050",
+    "website": "https://droptruck.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "7/2, Anjaneyar Koil St, Little Mount, Saidapet, Chennai, Tamil Nadu 600015",
+    "area": "Little Mount, Saidapet",
+    "latitude": 13.0131423,
+    "longitude": 80.2234381,
+    "place_id": "ChIJPcyfCwBnUjoR5aERX8R7XmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcyfCwBnUjoR5aERX8R7XmI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:08:20"
+  }
+]

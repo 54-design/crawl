@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvani Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop",
+    "pincode": "515286",
+    "phone_number": "+91 99486 83636",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 2484,
+    "address": "Unit#2, Hp Petrol Bunk, Library Gate, Chinna Waltair Main Rd, Andhra University, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "HPCL Colony, Andhra University",
+    "latitude": 17.7204366,
+    "longitude": 83.3222906,
+    "place_id": "ChIJUeL90GlDOToR7X80NAIsfuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeL90GlDOToR7X80NAIsfuI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:35:26"
+  },
+  {
+    "business_name": "Dayaram’S",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop, Fast food restaurant, Restaurant",
+    "pincode": "515286",
+    "phone_number": "+91 95818 00434",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1524,
+    "address": "NH-5, Main Rd, Near Maddilapalem, Maddilapalem, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "Near Maddilapalem, Maddilapalem",
+    "latitude": 17.7370286,
+    "longitude": 83.32181609999999,
+    "place_id": "ChIJwxape1kVPDoRZNlck7JXZaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxape1kVPDoRZNlck7JXZaU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:35:27"
+  }
+]

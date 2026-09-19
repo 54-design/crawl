@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nellore Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515144",
+    "phone_number": "N/A",
+    "website": "https://www.zomato.com/nellore/nellore-cloud-kitchen-nellore-locality/order",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Door No : 26-16-62/3, Shop No-4 Vardhan Reddy College Buiding, Kaveri Nagar, ISKCON City, Nellore, Andhra Pradesh 524004",
+    "area": "ISKCON City, Kondayapalem",
+    "latitude": 14.419484299999999,
+    "longitude": 79.9773366,
+    "place_id": "ChIJF3Av8y7zTDoRiwthVKxsCbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3Av8y7zTDoRiwthVKxsCbg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:13:02"
+  },
+  {
+    "business_name": "R5 Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515144",
+    "phone_number": "+91 70133 60159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near under bridge, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Magunta Layout",
+    "latitude": 14.436962,
+    "longitude": 79.9745828,
+    "place_id": "ChIJKXjHSmzzTDoRlMVOI_HKT5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXjHSmzzTDoRlMVOI_HKT5o",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:13:02"
+  }
+]

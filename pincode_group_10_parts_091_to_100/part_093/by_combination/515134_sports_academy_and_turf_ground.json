@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rosh Cricket Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "515134",
+    "phone_number": "+91 99623 11876",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "42-48, Ormes Rd, Kilpauk, Chennai, Tamil Nadu 600010",
+    "area": "Kilpauk",
+    "latitude": 13.082067499999999,
+    "longitude": 80.2459138,
+    "place_id": "ChIJEbCQDQBlUjoRJ7G9UqIM7xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbCQDQBlUjoRJ7G9UqIM7xY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:12:19"
+  },
+  {
+    "business_name": "Aspire Sports Club",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "515134",
+    "phone_number": "+91 93784 04040",
+    "website": "http://aspiresportsclub.com/",
+    "rating": 4.6,
+    "reviews_count": 119,
+    "address": "Manjari Farm Rd, behind GRAND BAY Society, Shewalewadi, Pune, Maharashtra 412307",
+    "area": "Shewalewadi",
+    "latitude": 18.4924935,
+    "longitude": 73.9745847,
+    "place_id": "ChIJk1t58L1KWE4RAONrPF3vn5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1t58L1KWE4RAONrPF3vn5A",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:12:20"
+  }
+]

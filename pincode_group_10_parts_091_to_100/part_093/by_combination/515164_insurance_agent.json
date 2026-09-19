@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance Advisor",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "515164",
+    "phone_number": "N/A",
+    "website": "https://amitgupta510512.lifemitra.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "QX96+P8F, Pendra, Chhattisgarh 495119",
+    "area": "515164",
+    "latitude": 22.7693184,
+    "longitude": 81.960798,
+    "place_id": "ChIJbSICstrphzkROApd3Fl-WWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSICstrphzkROApd3Fl-WWo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:19:19"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, ATM, Business banking service, Car finance and loan company, Financial institution, Bank, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "515164",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/andhrapradesh/anantapur/hdfcbank-branch-ammavaripallemunimadugu",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Survey No 444/2, Ammavaru Palli, Munimadugu, Duddebanda, Andhra Pradesh 515164",
+    "area": "Ammavaru Palli",
+    "latitude": 14.1828042,
+    "longitude": 77.59603589999999,
+    "place_id": "ChIJyeFBNBltsTsRABRGJWMyxSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeFBNBltsTsRABRGJWMyxSY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:19:20"
+  }
+]

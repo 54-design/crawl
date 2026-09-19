@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai praja clinic",
+    "search_category": "Clinics",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "515241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XM6G+4H8, Palasamudram, Andhra Pradesh 515241",
+    "area": "515241",
+    "latitude": 13.960276799999999,
+    "longitude": 77.67645209999999,
+    "place_id": "ChIJFT3x9UCdsTsR3-FT5Ctn0Vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFT3x9UCdsTsR3-FT5Ctn0Vo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:54"
+  },
+  {
+    "business_name": "Sri manjunatha Lab",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palasamudram, Andhra Pradesh 515241",
+    "area": "515241",
+    "latitude": 13.956926,
+    "longitude": 77.6741768,
+    "place_id": "ChIJgbmMPgCdsTsRqlXoedasTb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbmMPgCdsTsRqlXoedasTb8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:54"
+  }
+]

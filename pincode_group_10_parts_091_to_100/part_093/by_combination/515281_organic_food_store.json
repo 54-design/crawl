@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nesara Organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "515281",
+    "phone_number": "+91 73386 16273",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 44,
+    "address": "1137, Balakrishna Rao Rd, K.G Koppal, Chamarajapuram Mohalla, Lakshmipuram, Mysuru, Karnataka 570005",
+    "area": "K.G Koppal, Chamarajapuram Mohalla, Lakshmipuram",
+    "latitude": 12.297510599999999,
+    "longitude": 76.64045109999999,
+    "place_id": "ChIJb_s_Jxl7rzsRZWi0PFIvS9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_s_Jxl7rzsRZWi0PFIvS9Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:33:35"
+  },
+  {
+    "business_name": "Orgonatural Organic and Natural Food",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Delivery service, Gourmet grocery store, Grocery delivery service, Natural goods store, Produce market",
+    "pincode": "515281",
+    "phone_number": "+91 98509 79160",
+    "website": "http://www.orgonatural.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Someshwar society, plot 13, Gholap Path, Vishal Nagar, Pimpri-Chinchwad, Pune, Maharashtra 411027",
+    "area": "Vishal Nagar",
+    "latitude": 18.5855368,
+    "longitude": 73.7799227,
+    "place_id": "ChIJq00brCS5wjsRYH1u7HBxuTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq00brCS5wjsRYH1u7HBxuTA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:33:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store",
+    "pincode": "515231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "P7VF+7Q9, SVKP College Ln, behind Lucky Shopping Mall, Jawahar Nagar Colony, Markapur, Andhra Pradesh 523316",
+    "area": "Jawahar Nagar Colony",
+    "latitude": 15.743154599999999,
+    "longitude": 79.27449089999999,
+    "place_id": "ChIJdQIwT8sxtTsRzJaZ2ZrSwD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQIwT8sxtTsRzJaZ2ZrSwD4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:25"
+  },
+  {
+    "business_name": "Vasant Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515231",
+    "phone_number": "+91 94922 11940",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "bus stand, #8-430,old, Guntakal, Andhra Pradesh 515801",
+    "area": "Hanumesh Nagar",
+    "latitude": 15.1655321,
+    "longitude": 77.3768109,
+    "place_id": "ChIJU6zRgWPltjsR9ry4i5nXE8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6zRgWPltjsR9ry4i5nXE8U",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:25"
+  }
+]

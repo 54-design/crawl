@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Somisetty Enterprises",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler, Agricultural service",
+    "pincode": "515241",
+    "phone_number": "+91 866 244 2694",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Door No. 29, 2-21, Rama Mandiram St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5135284,
+    "longitude": 80.63028419999999,
+    "place_id": "ChIJUebuzf_vNToRzbRsVrc1zsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUebuzf_vNToRzbRsVrc1zsw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:33"
+  },
+  {
+    "business_name": "Sri Vijaya Kanaka Durga Rice Company",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery store",
+    "pincode": "515241",
+    "phone_number": "+91 94402 41169",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "32-25-43, Samba Murthy Rd, Durgapuram, SN Puram, Bavajipet, Vijayawada, Andhra Pradesh 520003",
+    "area": "Durgapuram, SN Puram, Bavajipet",
+    "latitude": 16.5191278,
+    "longitude": 80.6381222,
+    "place_id": "ChIJzfecrFblNToR64HUVKU8FaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfecrFblNToR64HUVKU8FaQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:33"
+  }
+]

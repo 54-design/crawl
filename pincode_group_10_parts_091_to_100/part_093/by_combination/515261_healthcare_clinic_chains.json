@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeevini Hospitals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515261",
+    "phone_number": "+91 85542 20220",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Subash Rd, Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "area": "Adimurthy Nagar, Gulzarpet",
+    "latitude": 14.6774363,
+    "longitude": 77.5989431,
+    "place_id": "ChIJEwlAWNxKsTsRN1_mO-ZGmoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwlAWNxKsTsRN1_mO-ZGmoI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:30:42"
+  },
+  {
+    "business_name": "Lakshmi Hospital,",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515261",
+    "phone_number": "+91 62813 75865",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 63,
+    "address": "Vidyut nagar road, Vidyuth Nagar, circle, Anantapur, Andhra Pradesh 515001",
+    "area": "Vidyuth Nagar, circle",
+    "latitude": 14.666543899999999,
+    "longitude": 77.5971101,
+    "place_id": "ChIJ_UqaDd5KsTsRx7jawK02vzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UqaDd5KsTsRx7jawK02vzs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:30:42"
+  }
+]

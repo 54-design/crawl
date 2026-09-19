@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Florist, Flower delivery",
+    "pincode": "515291",
+    "phone_number": "+91 91385 59900",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Old bus stand, near Near gas agency Infront of Ifb point, Gohana, Haryana 131301",
+    "area": "515291",
+    "latitude": 29.1387598,
+    "longitude": 76.7001904,
+    "place_id": "ChIJgVlhEtzsDTkRAX2Kobkkivs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVlhEtzsDTkRAX2Kobkkivs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:38:02"
+  },
+  {
+    "business_name": "Lokesh Flower Decorations",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery, Flower designer",
+    "pincode": "515291",
+    "phone_number": "+91 90123 21693",
+    "website": "https://lokeshflowerdecoration.localo.site/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "THDC Colony, Dehrakhas, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "area": "THDC Colony, Dehrakhas, Patel Nagar",
+    "latitude": 30.3000562,
+    "longitude": 78.0198606,
+    "place_id": "ChIJuQvmdHopCTkRyVH818JQGyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQvmdHopCTkRyVH818JQGyE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:38:04"
+  }
+]

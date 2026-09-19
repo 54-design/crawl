@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Punjabi Family Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "515164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "5JGG+QX2, Gutturu, Andhra Pradesh 515164",
+    "area": "515164",
+    "latitude": 14.176882099999998,
+    "longitude": 77.62740289999999,
+    "place_id": "ChIJZaW3AgBtsTsRGQowYFbKygc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaW3AgBtsTsRGQowYFbKygc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:12"
+  },
+  {
+    "business_name": "M S Hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "515164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "5JWJ+Q9P, Gutturu, Andhra Pradesh 515164",
+    "area": "515164",
+    "latitude": 14.1969595,
+    "longitude": 77.6309646,
+    "place_id": "ChIJxTnZHABtsTsRLqLPgcUfOyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTnZHABtsTsRLqLPgcUfOyI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:13"
+  }
+]

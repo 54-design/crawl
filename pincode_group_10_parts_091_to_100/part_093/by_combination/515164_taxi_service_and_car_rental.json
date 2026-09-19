@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour operator, Travel agency",
+    "pincode": "515164",
+    "phone_number": "+91 90586 03545",
+    "website": "https://www.saitaxiservice.com/",
+    "rating": 4.8,
+    "reviews_count": 198,
+    "address": "1st Floor, MR Complex, road, Haridwar Bypass Rd, Brahmanwala, Dehradun, Uttarakhand 248121",
+    "area": "Brahmanwala",
+    "latitude": 30.2900781,
+    "longitude": 78.0113382,
+    "place_id": "ChIJXQ7aK8QrCTkRi1mc_tliMGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ7aK8QrCTkRi1mc_tliMGM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:37"
+  },
+  {
+    "business_name": "Vasanthakumar Cabs/Self Drive cars Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Minibus taxi service, Two Wheeler Rental Agency, Sightseeing Tour Operator, Taxi service, Taxi stand, Tour agency, Tour operator, Travel agency",
+    "pincode": "515164",
+    "phone_number": "+91 90033 92772",
+    "website": "http://www.vasanthakumarcabs.in/",
+    "rating": 4.9,
+    "reviews_count": 417,
+    "address": "160-C, Dheeran Nagar - Neduvasal Rd, near Aruthraa Vidyalaya Matriculation School, Dheeran Nagar, Thuraimangalam, Perambalur, Thoramangalam, Tamil Nadu 621220",
+    "area": "Dheeran Nagar, Thuraimangalam",
+    "latitude": 11.216673499999999,
+    "longitude": 78.8894073,
+    "place_id": "ChIJDYZlaV4dqzsR-PtKXqAJk3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYZlaV4dqzsR-PtKXqAJk3g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopalan Innovation Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Movie theater",
+    "pincode": "515144",
+    "phone_number": "+91 77956 54739",
+    "website": "https://www.gopalanmall.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "22, Bannerghatta Rd, Sarakki Industrial Layout, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Sarakki Industrial Layout, 3rd Phase, J. P. Nagar",
+    "latitude": 12.914403199999999,
+    "longitude": 77.5995815,
+    "place_id": "ChIJT67kUwQVrjsRSIJLVE-ff1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT67kUwQVrjsRSIJLVE-ff1I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:14:32"
+  },
+  {
+    "business_name": "Masulla Viswanath క్లాత్ మర్చంట్",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515144",
+    "phone_number": "+91 97040 35401",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "P9QX+FGJ, Ipperu, Andhra Pradesh 515711",
+    "area": "515144",
+    "latitude": 14.738708899999999,
+    "longitude": 77.39878039999999,
+    "place_id": "ChIJJTJGC9TNtjsR_7LB-i9fb-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTJGC9TNtjsR_7LB-i9fb-o",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:14:33"
+  }
+]

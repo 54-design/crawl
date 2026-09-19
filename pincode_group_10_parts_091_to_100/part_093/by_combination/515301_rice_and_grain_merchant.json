@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Brothers",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "515301",
+    "phone_number": "+91 94350 40681",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TR Phookan Rd, Fancy Bazaar, Guwahati, Assam 781001",
+    "area": "Fancy Bazaar",
+    "latitude": 26.1810208,
+    "longitude": 91.7373459,
+    "place_id": "ChIJGTru-jZaWjcRm_pcPUkEWE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTru-jZaWjcRm_pcPUkEWE4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:38:52"
+  },
+  {
+    "business_name": "Wellcome Mart Supermarket",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "515301",
+    "phone_number": "+91 99169 80090",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "3Q9P+FMM, College Rd, Opp BSNL Exchange office, M V Extenstion, Hoskote, Karnataka 562114",
+    "area": "M V Extenstion",
+    "latitude": 13.0686229,
+    "longitude": 77.78659139999999,
+    "place_id": "ChIJn3aAixQFrjsRX_2RkoThAew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3aAixQFrjsRX_2RkoThAew",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:38:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saanvi Trendz",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "515241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GHHW+MC7, Swathi Theatre Rd, Bhavanipuram, V D Puram, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, V D Puram",
+    "latitude": 16.5291714,
+    "longitude": 80.5960593,
+    "place_id": "ChIJVV7ePhvvNToRa-krOlqpY-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVV7ePhvvNToRa-krOlqpY-A",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:29:22"
+  },
+  {
+    "business_name": "Manjula beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RPQ4+V38, Chilamathur, Andhra Pradesh 515341",
+    "area": "515241",
+    "latitude": 13.8396504,
+    "longitude": 77.7052169,
+    "place_id": "ChIJMdmkEQCbsTsR6Wzw9Oy_9W0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdmkEQCbsTsR6Wzw9Oy_9W0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:29:22"
+  }
+]

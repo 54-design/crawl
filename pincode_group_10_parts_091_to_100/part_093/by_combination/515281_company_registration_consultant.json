@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rule Infinity business service",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Auditor, Business to business service, Chartered accountant, Financial consultant, Tax attorney, Tax collector's office, Tax consultant, Tax preparation service",
+    "pincode": "515281",
+    "phone_number": "+91 84381 12110",
+    "website": "https://theruleinfinity.com/",
+    "rating": 4.9,
+    "reviews_count": 264,
+    "address": "DGH Building, Vaithialingam road, Old Pallavaram, Tambaram, Tamil Nadu 600117",
+    "area": "Ranga Nagar, Old Pallavaram",
+    "latitude": 12.9542875,
+    "longitude": 80.1860028,
+    "place_id": "ChIJTdzL1IZeUjoRaKrMXAWHCKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdzL1IZeUjoRaKrMXAWHCKk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:34:58"
+  },
+  {
+    "business_name": "GST & Income Tax Returns (Zulufilings)",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "515281",
+    "phone_number": "N/A",
+    "website": "https://www.zulufilings.com/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Passport Seva Kendra Botcha Square, opposite Birla Junction, Muralinagar, Madhavadhara, Visakhapatnam, Andhra Pradesh 530007",
+    "area": "Muralinagar, Madhavadhara",
+    "latitude": 17.7433636,
+    "longitude": 83.26094549999999,
+    "place_id": "ChIJCYxqoJJdOToRjBTJ0y5Poow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYxqoJJdOToRjBTJ0y5Poow",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:34:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Durga Boys Hostel Vizag",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Student dormitory, Youth Hostel",
+    "pincode": "515159",
+    "phone_number": "+91 95739 03908",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 787,
+    "address": "Door No: 2-8-13, MIG 1B/88, Sector 9, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Sector 9, MVP Colony",
+    "latitude": 17.7429605,
+    "longitude": 83.341016,
+    "place_id": "ChIJB4M_eqtEOToRsO7eaWMatYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4M_eqtEOToRsO7eaWMatYM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:17:17"
+  },
+  {
+    "business_name": "Zostel Bangalore (Indiranagar)",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "515159",
+    "phone_number": "+91 44 4011 5819",
+    "website": "https://www.zostel.com/zostel/bangalore/bangalore-bngh107/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2032, 17th Main, 1st Cross Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "HAL 2nd Stage, Indiranagar",
+    "latitude": 12.9648497,
+    "longitude": 77.6420443,
+    "place_id": "ChIJxygthiEVrjsRiWL7RyvUeZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxygthiEVrjsRiWL7RyvUeZQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:17:18"
+  }
+]

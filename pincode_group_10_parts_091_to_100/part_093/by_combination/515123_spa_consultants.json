@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shine Luxury Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515123",
+    "phone_number": "+91 96184 32333",
+    "website": "https://shineluxuryspa.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "50-121-12/1, 50-121-12, above Pure O Naturals, North Extension, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "North Extension, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7413254,
+    "longitude": 83.30612289999999,
+    "place_id": "ChIJGabZZcBDOToRld15CWjms_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGabZZcBDOToRld15CWjms_w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:51"
+  },
+  {
+    "business_name": "Kohinoor Wellness Spa - Vizag",
+    "search_category": "Spa Consultants",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Day spa, Massage therapist, Spa, Wellness center",
+    "pincode": "515123",
+    "phone_number": "+91 77995 52699",
+    "website": "https://kohinoorwellnessandspa.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, Club F7 Building, beside Biryanis Restaurant, near governor's Bungalow, Siripuram, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "Siripuram",
+    "latitude": 17.7199282,
+    "longitude": 83.3154899,
+    "place_id": "ChIJ5wPa6rFDOToRG23Jn7veEVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wPa6rFDOToRG23Jn7veEVc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:51"
+  }
+]

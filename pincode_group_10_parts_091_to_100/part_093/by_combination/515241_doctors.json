@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Sreedhar Reddy office",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "515241",
+    "phone_number": "+91 997256663",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XP5F+64R, Anantapuram, Budili, Andhra Pradesh 515241",
+    "area": "515241",
+    "latitude": 13.9581178,
+    "longitude": 77.7227523,
+    "place_id": "ChIJy-QJh0KdsTsRlCEqfXYpQHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-QJh0KdsTsRlCEqfXYpQHQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:54"
+  },
+  {
+    "business_name": "Thanmayi Medicals",
+    "search_category": "Doctors",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "515241",
+    "phone_number": "+91 99853 50788",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "RPQ3+VW3, Main Rd, Chilamathur, Andhra Pradesh 515341",
+    "area": "515241",
+    "latitude": 13.8396409,
+    "longitude": 77.7048114,
+    "place_id": "ChIJ0RC5WQGbsTsRrWX3WCnaXp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RC5WQGbsTsRrWX3WCnaXp4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:28:56"
+  }
+]

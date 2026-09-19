@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JS Media World",
+    "search_category": "Media and Event",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Film Production Company, Media Consultant, Media house, Radio broadcaster, Recording studio, Video editing service",
+    "pincode": "515211",
+    "phone_number": "+91 89196 45714",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 83,
+    "address": "ANJANEYASWAMI TEMPLE, 26-25-36, Vemuri Vari St, near KOTHAVANTHENA, New Giri Puram, Suryaraopeta, VEEDHI, Vijayawada, Andhra Pradesh 520002",
+    "area": "New Giri Puram, Suryaraopeta, VEEDHI",
+    "latitude": 16.5151814,
+    "longitude": 80.6369788,
+    "place_id": "ChIJm5ameC3lNToRP2dFfC59s_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5ameC3lNToRP2dFfC59s_Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:24:22"
+  },
+  {
+    "business_name": "Sri Parameshwari Hall",
+    "search_category": "Media and Event",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "515211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 60,
+    "address": "RFGV+P7X, SVD Road, A.P, Mukkidipeta, Hindupuram, Andhra Pradesh 515201",
+    "area": "A.P, Mukkidipeta",
+    "latitude": 13.826854899999999,
+    "longitude": 77.4932195,
+    "place_id": "ChIJ_agc1aGjsTsRdqFOWSFFuw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_agc1aGjsTsRdqFOWSFFuw4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:24:22"
+  }
+]

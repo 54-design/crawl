@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedanth Speciality Clinics",
+    "search_category": "Polyclinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic",
+    "pincode": "515281",
+    "phone_number": "+91 95158 96327",
+    "website": "http://www.vedanthclinics.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "opposite Ambedkar Bhavan, near Municipal Office, Peddapuram, Andhra Pradesh 533437",
+    "area": "515281",
+    "latitude": 17.0746927,
+    "longitude": 82.144232,
+    "place_id": "ChIJ55qfC0SBNzoR9viwqcZ1mqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55qfC0SBNzoR9viwqcZ1mqw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:34:03"
+  },
+  {
+    "business_name": "Prahalada polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "515281",
+    "phone_number": "+91 89778 77564",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "opp. Prahalada kalyana mandapam, Opp KGH OP Gate, Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Opp KGH OP Gate, Jagadamba Junction",
+    "latitude": 17.7102775,
+    "longitude": 83.3049434,
+    "place_id": "ChIJCQ5My_9DOToR7cfiHY1Pjy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQ5My_9DOToR7cfiHY1Pjy4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:34:03"
+  }
+]

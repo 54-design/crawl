@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vimala Furnitures",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "515164",
+    "phone_number": "+91 94431 31621",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Vasan Eye Care, Ozhuginasery, Nagercoil, Therakalputhur, Tamil Nadu 629001",
+    "area": "Ozhuginasery",
+    "latitude": 8.190877,
+    "longitude": 77.4363138,
+    "place_id": "ChIJF_KE2jHxBDsRLBwa6WSsbtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_KE2jHxBDsRLBwa6WSsbtk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:52"
+  },
+  {
+    "business_name": "Nathan Timber Kadayaluruti",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "515164",
+    "phone_number": "+91 99422 08839",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2CGM+MHW, Kadayalurutti, Sendamaram, Tamil Nadu 627859",
+    "area": "515164",
+    "latitude": 9.0267321,
+    "longitude": 77.43395869999999,
+    "place_id": "ChIJ5-mibVCcBjsRa_rck9yYxSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-mibVCcBjsRa_rck9yYxSw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:52"
+  }
+]

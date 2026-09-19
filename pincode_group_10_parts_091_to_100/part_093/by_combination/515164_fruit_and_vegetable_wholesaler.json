@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "515164",
+    "phone_number": "+91 98491 24522",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 88,
+    "address": "H.O. No. 28-19-23, 28-19-14, Janda St, Opposite Shriram Chits, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Opposite Shriram Chits, Arundalpet, Governor Peta",
+    "latitude": 16.5152383,
+    "longitude": 80.6308888,
+    "place_id": "ChIJgTrKsf_vNToRkU5cvpIv2VE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTrKsf_vNToRkU5cvpIv2VE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:02"
+  },
+  {
+    "business_name": "Halli Thota",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "515164",
+    "phone_number": "+91 98866 67532",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "889 A, BEML road, Channasandra Main Rd, Channasandra, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098",
+    "area": "Channasandra, Rajarajeshwari Nagar",
+    "latitude": 12.9032982,
+    "longitude": 77.52124599999999,
+    "place_id": "ChIJf6YOmqY_rjsRu-_ahLAROVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6YOmqY_rjsRu-_ahLAROVA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:03"
+  }
+]

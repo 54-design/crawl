@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KSR Developers Pvt Ltd",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "515286",
+    "phone_number": "+91 89125 30936",
+    "website": "https://www.ksrdevelopers.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, P8R7+2CV, 50-1-23/90, opposite Rythu Bazar, TPT Colony, Balayya Sastri Layout, Seethammadhara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "TPT Colony, Balayya Sastri Layout, Seethammadhara",
+    "latitude": 17.7400468,
+    "longitude": 83.31337649999999,
+    "place_id": "ChIJVVVVFTNDOToRF5c05v-2L7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFTNDOToRF5c05v-2L7w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:36:44"
+  },
+  {
+    "business_name": "H Con Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "515286",
+    "phone_number": "N/A",
+    "website": "http://www.hconproperties.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hinjewadi - Wakad Rd, Hinjawadi, Pune, Hinjawadi, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.5908902,
+    "longitude": 73.7427173,
+    "place_id": "ChIJJ4xYvMm7wjsRFwehce_2uOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4xYvMm7wjsRFwehce_2uOQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:36:46"
+  }
+]

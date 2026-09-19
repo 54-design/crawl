@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kantha Sarees Shop",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "515164",
+    "phone_number": "+91 96630 48639",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Atp, Andhra Pradesh 515164",
+    "area": "515164",
+    "latitude": 14.1390388,
+    "longitude": 77.6108072,
+    "place_id": "ChIJrw1NNqZzsTsRrOwOcYEKwC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrw1NNqZzsTsRrOwOcYEKwC8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:12"
+  },
+  {
+    "business_name": "RUKMINI SILKS",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "515164",
+    "phone_number": "+91 861 235 0007",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 303,
+    "address": "14/5/16, Trunk Rd, VRC Centre, Nellore, Andhra Pradesh 524001",
+    "area": "VRC Centre",
+    "latitude": 14.454201099999999,
+    "longitude": 79.9836254,
+    "place_id": "ChIJk6TiV8iMTDoRLB2zhbJWjaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6TiV8iMTDoRLB2zhbJWjaU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:18:14"
+  }
+]

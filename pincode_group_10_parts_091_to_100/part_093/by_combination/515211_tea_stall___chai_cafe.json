@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AL SAFA CHAI HOUSE",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "515211",
+    "phone_number": "+91 99852 69542",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 115,
+    "address": "RFJV+WC9, Penukonda Rd, opp. Subbappa Pertol bunk, Mukkidipeta, Hindupuram, Andhra Pradesh 515201",
+    "area": "Mukkidipeta",
+    "latitude": 13.8322869,
+    "longitude": 77.4936086,
+    "place_id": "ChIJz7TIfaKjsTsRM9pSacN26kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7TIfaKjsTsRM9pSacN26kM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:23"
+  },
+  {
+    "business_name": "Saravana Tea Stall & Cool Drinks",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "515211",
+    "phone_number": "+91 94922 00022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Raghavendra Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Raghavendra Nagar",
+    "latitude": 13.6183219,
+    "longitude": 79.428786,
+    "place_id": "ChIJx1SZfJ9LTToRiOmlUUFYFjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1SZfJ9LTToRiOmlUUFYFjw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:25"
+  }
+]

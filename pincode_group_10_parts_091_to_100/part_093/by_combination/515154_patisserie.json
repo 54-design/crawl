@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pastry Inn",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Restaurant",
+    "pincode": "515154",
+    "phone_number": "+91 83093 85218",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "GNT Rd, Tuni, Andhra Pradesh 533401",
+    "area": "515154",
+    "latitude": 17.3571718,
+    "longitude": 82.538636,
+    "place_id": "ChIJkXf_tcPHOToRSwpMSrjvzRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXf_tcPHOToRSwpMSrjvzRI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:14:43"
+  },
+  {
+    "business_name": "JEELAN SWEETS",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "515154",
+    "phone_number": "+91 94936 56297",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway Station Rd, near Market, Mudigubba, Gunjepalle, Andhra Pradesh 515511",
+    "area": "Mudigubba",
+    "latitude": 14.3496463,
+    "longitude": 77.9958121,
+    "place_id": "ChIJ5cdME4PfszsRNQ46w-of9hA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cdME4PfszsRNQ46w-of9hA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:14:45"
+  }
+]

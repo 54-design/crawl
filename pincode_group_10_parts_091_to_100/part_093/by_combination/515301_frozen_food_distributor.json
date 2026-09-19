@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAADHANA FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515301",
+    "phone_number": "+91 98411 25626",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "No. 26/1 E, 18/1, Deenadayalan Street, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Pondy Bazaar, T. Nagar",
+    "latitude": 13.040317799999999,
+    "longitude": 80.23685689999999,
+    "place_id": "ChIJD3zY749nUjoRKL3qsP4SdmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3zY749nUjoRKL3qsP4SdmU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:38:54"
+  },
+  {
+    "business_name": "Frosty Food India (P) Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Food producer, Food products supplier, Frozen food manufacturer, Snack bar, Wholesaler",
+    "pincode": "515301",
+    "phone_number": "+91 90612 23339",
+    "website": "https://www.myfrostyfoods.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Door No.42, 869, Chittoor Rd, opp. Satish Car Garage, Cemetery Junction, Ayyappankavu, Kochi, Ernakulam, Keralam 682018",
+    "area": "Cemetery Junction, Ayyappankavu",
+    "latitude": 9.9939653,
+    "longitude": 76.2810286,
+    "place_id": "ChIJE4zPH_gNCDsRG4q8ZpkJmt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4zPH_gNCDsRG4q8ZpkJmt8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:38:56"
+  }
+]

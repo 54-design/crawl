@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Brolly",
+    "search_category": "Growth Marketing",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Coaching Center, Educational institution, Software Training Institute",
+    "pincode": "515133",
+    "phone_number": "+91 96969 63446",
+    "website": "https://digitalbrolly.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Metro Pillar No: A689, Jntu Metro Station, 3rd Floor, Dr Atmaram Estates, Nizampet X Roads, beside Sri Bhramaramba Theatre, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Jai Bharat Nagar, Hyder Nagar, Vasantha Nagar, Kukatpally",
+    "latitude": 17.499191,
+    "longitude": 78.3875181,
+    "place_id": "ChIJc7xtcP6RyzsRrYu97vPGvc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7xtcP6RyzsRrYu97vPGvc0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:10:59"
+  },
+  {
+    "business_name": "DigitGrow",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, E-commerce service, Internet marketing service, E - Commerce Agency",
+    "pincode": "515133",
+    "phone_number": "+91 99119 08332",
+    "website": "https://www.digitgrow.co.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "E 74, Block D, Bharat Nagar, New Friends Colony, New Delhi, Delhi 110025",
+    "area": "Block D, Bharat Nagar, New Friends Colony",
+    "latitude": 28.5655185,
+    "longitude": 77.2699007,
+    "place_id": "ChIJE_fpfeTjDDkRwYJ9PYoEfMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_fpfeTjDDkRwYJ9PYoEfMk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:10:59"
+  }
+]

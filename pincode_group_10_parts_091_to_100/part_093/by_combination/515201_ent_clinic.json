@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT Hospital Sudhakar Sir",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 21,
+    "address": "RFMV+HGW, Mukkidipeta, Hindupuram, Andhra Pradesh 515201",
+    "area": "Mukkidipeta",
+    "latitude": 13.8339761,
+    "longitude": 77.4938414,
+    "place_id": "ChIJoUuyoqKjsTsRLEU35yfROFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUuyoqKjsTsRLEU35yfROFQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:20:12"
+  },
+  {
+    "business_name": "Mukkidipeta",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Clinic",
+    "all_categories": "ENT Clinic",
+    "pincode": "515201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hindupuram, Andhra Pradesh",
+    "area": "Mukkidipeta",
+    "latitude": 13.8266271,
+    "longitude": 77.4902726,
+    "place_id": "ChIJFVQDUKCjsTsRbGMAVBr8Dxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVQDUKCjsTsRbGMAVBr8Dxw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:20:14"
+  }
+]

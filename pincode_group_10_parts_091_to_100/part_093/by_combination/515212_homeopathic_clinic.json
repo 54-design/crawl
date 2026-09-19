@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri venkateshwara homeo center",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "515212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VF3F+4WV, MDR47, Kodigenahalli, Andhra Pradesh 515212",
+    "area": "515212",
+    "latitude": 13.8528684,
+    "longitude": 77.47480829999999,
+    "place_id": "ChIJk9OYLhmjsTsRwuT5bWWE1Mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9OYLhmjsTsRwuT5bWWE1Mo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:25:24"
+  },
+  {
+    "business_name": "Renuka Homeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "515212",
+    "phone_number": "+91 98860 21731",
+    "website": "https://goo.gl/forms/IroYiTWHTeYzJCju1",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "166, Hosa Rd, IAS Layout, Eastwood Twp, Bengaluru, Karnataka 560035",
+    "area": "IAS Layout, Eastwood Township",
+    "latitude": 12.905456899999999,
+    "longitude": 77.675725,
+    "place_id": "ChIJLZ6vxWoTrjsR4LDRcBhPdbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZ6vxWoTrjsR4LDRcBhPdbY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:25:25"
+  }
+]

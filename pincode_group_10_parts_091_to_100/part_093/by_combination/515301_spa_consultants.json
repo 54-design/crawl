@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa Design Consultants Pvt. Ltd.",
+    "search_category": "Spa Consultants",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "515301",
+    "phone_number": "+91 98114 02204",
+    "website": "http://spadesign.in/",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "E33, Block E, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Block E, Noida Sector 3",
+    "latitude": 28.58176,
+    "longitude": 77.31891999999999,
+    "place_id": "ChIJlV1Jj1nkDDkRqgtPmIyeJmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlV1Jj1nkDDkRqgtPmIyeJmQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:39:47"
+  },
+  {
+    "business_name": "Grace SPA Consultant",
+    "search_category": "Spa Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "515301",
+    "phone_number": "+91 70301 04037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unit No 126, Kamlesh Apartment, Sher E Punjab Colony, Andheri East, Mumbai, Maharashtra 400069",
+    "area": "Sher E Punjab Colony, Andheri East",
+    "latitude": 19.1244782,
+    "longitude": 72.85324589999999,
+    "place_id": "ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:39:47"
+  }
+]

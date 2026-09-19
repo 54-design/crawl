@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Spice",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "515286",
+    "phone_number": "+91 77999 33781",
+    "website": "http://www.gadirajupalace.com/",
+    "rating": 4.4,
+    "reviews_count": 1833,
+    "address": "Sector 10, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Sector 10, MVP Colony",
+    "latitude": 17.7376906,
+    "longitude": 83.3417238,
+    "place_id": "ChIJ7TUCFy5FOToRJ9BdqMiEWDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TUCFy5FOToRJ9BdqMiEWDY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:35:29"
+  },
+  {
+    "business_name": "Welcomhotel By ITC Hotels, Devee Grand Bay, Visakhapatnam",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515286",
+    "phone_number": "+91 891 660 0101",
+    "website": "https://www.itchotels.in/hotels/visakhapatnam/welcomhotelgrandbay/dining.html?utm_source=google&utm_medium=Organic%20Search&utm_term=welcomhotelgrandbay%20Restaurants&utm_campaign=listing",
+    "rating": 4.5,
+    "reviews_count": 7406,
+    "address": "Beach Rd, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Krishna Nagar, Maharani Peta",
+    "latitude": 17.711814699999998,
+    "longitude": 83.3155787,
+    "place_id": "ChIJm0cOJm1DOToRgClAcjpe388",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0cOJm1DOToRgClAcjpe388",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:35:29"
+  }
+]

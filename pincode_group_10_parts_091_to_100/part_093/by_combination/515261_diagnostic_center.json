@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghavendra medicals",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "515261",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VFR5+VPG, Parigi, Andhra Pradesh 515261",
+    "area": "515261",
+    "latitude": 13.892223,
+    "longitude": 77.45936259999999,
+    "place_id": "ChIJ9y9REACnsTsRbB2rxox2Bvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9y9REACnsTsRbB2rxox2Bvo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:30:38"
+  },
+  {
+    "business_name": "Medical Shop",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "515261",
+    "phone_number": "+91 96667 72787",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "WF7W+FFP, Utakur, Andhra Pradesh 515261",
+    "area": "515261",
+    "latitude": 13.9137168,
+    "longitude": 77.4962104,
+    "place_id": "ChIJ4zmKNR6hsTsRv0vLgRp-mj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zmKNR6hsTsRv0vLgRp-mj4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:30:38"
+  }
+]

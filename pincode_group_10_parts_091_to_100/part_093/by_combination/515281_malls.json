@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CMR Shopping Mall - Markapuram",
+    "search_category": "Malls",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515281",
+    "phone_number": "+91 77999 18628",
+    "website": "https://www.cmrshoppingmall.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chaitanya Educational Society Area, Municipal Gandhi Park, 10/766, SVKP College Ln, Jawahar Nagar Colony, Markapur, Peda Yachavaram, Andhra Pradesh 523316",
+    "area": "Jawahar Nagar Colony",
+    "latitude": 15.744242199999999,
+    "longitude": 79.27537869999999,
+    "place_id": "ChIJIfmr95UxtTsReoQyREe3NQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfmr95UxtTsReoQyREe3NQE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:35:14"
+  },
+  {
+    "business_name": "Central Plaza",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515281",
+    "phone_number": "+91 88126 45812",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 3454,
+    "address": "Temple Rd, near Reliance Trends, Ashok Nagar, Eluru, Andhra Pradesh 534006",
+    "area": "Ashok Nagar",
+    "latitude": 16.7131065,
+    "longitude": 81.0971203,
+    "place_id": "ChIJo0DNG7YUNjoR6OiBmvDk3Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0DNG7YUNjoR6OiBmvDk3Pk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:35:16"
+  }
+]

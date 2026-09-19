@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Mohan naidu",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515159",
+    "phone_number": "+91 80744 08421",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9RXW+89M, D.Cherlopalle, Darsimala, Andhra Pradesh 515672",
+    "area": "515159",
+    "latitude": 14.398349699999999,
+    "longitude": 77.8459232,
+    "place_id": "ChIJofC7s51fsTsRE9jhKrxDTAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofC7s51fsTsRE9jhKrxDTAg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:17"
+  },
+  {
+    "business_name": "Elukuntla, Andhra Pradesh 515159",
+    "search_category": "Departmental Store",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "515159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Elukuntla, Andhra Pradesh",
+    "area": "515159",
+    "latitude": 14.3692719,
+    "longitude": 77.92559299999999,
+    "place_id": "ChIJNzXh09ZfsTsR6EJoLMqhTUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzXh09ZfsTsR6EJoLMqhTUE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:16:20"
+  }
+]

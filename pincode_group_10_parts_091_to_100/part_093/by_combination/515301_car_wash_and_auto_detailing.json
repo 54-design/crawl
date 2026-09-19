@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Autocorp",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515301",
+    "phone_number": "+91 97466 19777",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH 183, Velloor Road, Pampady, Keralam 686501",
+    "area": "515301",
+    "latitude": 9.5827849,
+    "longitude": 76.60872119999999,
+    "place_id": "ChIJ8xFVuE0tBjsRylo9PBfcVsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xFVuE0tBjsRylo9PBfcVsc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:39:24"
+  },
+  {
+    "business_name": "TOP 19 CAR & BIKE WASH",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515301",
+    "phone_number": "+91 98479 29595",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "N.H, Cross Road, Puthenpally, Varapuzha, Keralam 683517",
+    "area": "Puthenpally",
+    "latitude": 10.0814153,
+    "longitude": 76.2700215,
+    "place_id": "ChIJu4nrZRARCDsRFn59Gqe3wn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4nrZRARCDsRFn59Gqe3wn0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:39:24"
+  }
+]

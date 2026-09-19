@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Care Health Card",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "515211",
+    "phone_number": "+91 94038 90446",
+    "website": "https://bestcarehealthcard.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Fl.no 76, Lakshmipuram Colony, Poranki, Andhra Pradesh 521137",
+    "area": "Lakshmipuram Colony, Poranki",
+    "latitude": 16.4805103,
+    "longitude": 80.70237519999999,
+    "place_id": "ChIJn53Ml6H7NToR_EQ_d9GsPrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn53Ml6H7NToR_EQ_d9GsPrw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:49"
+  },
+  {
+    "business_name": "Vedanta Hospitals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515211",
+    "phone_number": "+91 91333 32744",
+    "website": "https://www.vedantahospitals.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "15-11-154, Mangalagiri Road, near Best Price, Agatha Varappadu, Guntur, Andhra Pradesh 522001",
+    "area": "Agatha Varappadu",
+    "latitude": 16.3071443,
+    "longitude": 80.46348239999999,
+    "place_id": "ChIJGd031K8KSjoRm5Ec2LmBPuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGd031K8KSjoRm5Ec2LmBPuc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:23:49"
+  }
+]

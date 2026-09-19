@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IBBANI Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery, Corporate gift supplier, Corporate office, Florist, Gift basket store",
+    "pincode": "515134",
+    "phone_number": "+91 99805 67415",
+    "website": "https://ibbaniflowers.in/",
+    "rating": 4.9,
+    "reviews_count": 515,
+    "address": "Next to Hotel Rasaganga, Ecospace Service Road, Outer Ring Rd, Bellandur, Bengaluru, Karnataka 560103",
+    "area": "Bellandur",
+    "latitude": 12.926164499999999,
+    "longitude": 77.6778278,
+    "place_id": "ChIJmTIPUJwTrjsRUcYZj8omPC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTIPUJwTrjsRUcYZj8omPC4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:12:06"
+  },
+  {
+    "business_name": "Fresh Petals BTM",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery, Flower designer, Flower market",
+    "pincode": "515134",
+    "phone_number": "+91 95356 97799",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "32/1, 7th Cross Rd, Maruti Nagar, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560068",
+    "area": "Maruti Nagar, 1st Stage, BTM 1st Stage",
+    "latitude": 12.917255299999999,
+    "longitude": 77.61263269999999,
+    "place_id": "ChIJ08zqb5sVrjsR7N58xShKn74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08zqb5sVrjsR7N58xShKn74",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:12:09"
+  }
+]

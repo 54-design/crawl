@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Playful Pandas Preschool & Daycare",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Day care center",
+    "all_categories": "Day care center, Preschool",
+    "pincode": "515261",
+    "phone_number": "+91 97392 63015",
+    "website": "https://www.playfulpandas.in/",
+    "rating": 4.9,
+    "reviews_count": 46,
+    "address": "First Floor, No. 9A, Hongansu, 4th Cross Rd, JHBCS Layout, Subramanyapura, Bengaluru, Karnataka 560061",
+    "area": "JHBCS Layout, Subramanyapura",
+    "latitude": 12.8926941,
+    "longitude": 77.54072409999999,
+    "place_id": "ChIJE44XoSFlqwkRvyyet1gxPng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE44XoSFlqwkRvyyet1gxPng",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:31:16"
+  },
+  {
+    "business_name": "Blooming Buds- A Preschool More On Values",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool, Kindergarten School, Montessori school, Primary school, School",
+    "pincode": "515261",
+    "phone_number": "+91 98436 08523",
+    "website": "https://www.bloomingbudspreschool.co.in/",
+    "rating": 4.9,
+    "reviews_count": 73,
+    "address": "466-A, Sujjur Madasamy Raja street,Thiruvananthapuram Kottai, Rajapalayam, Tamil Nadu 626117",
+    "area": "Thoppupatti",
+    "latitude": 9.4368907,
+    "longitude": 77.54843129999999,
+    "place_id": "ChIJkzz0F8PpBjsRWEWUtyZ9ET0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzz0F8PpBjsRWEWUtyZ9ET0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:31:17"
+  }
+]

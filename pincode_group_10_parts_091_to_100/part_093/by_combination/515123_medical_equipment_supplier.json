@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HI-TECH MEDICAL STORES",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "515123",
+    "phone_number": "+91 99517 75566",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "Ground Floor, Shyamala Building, D No 26-1-19, opp. MSR Hi-Tech Bus Shelter Kambalacheruvu, Kambala Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Kambala Peta",
+    "latitude": 17.012106199999998,
+    "longitude": 81.78023639999999,
+    "place_id": "ChIJZeeUHh6jNzoRE7epBnDWtcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeeUHh6jNzoRE7epBnDWtcc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:28"
+  },
+  {
+    "business_name": "Sri Venkateswara Agencies Pvt ltd",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Wholesaler",
+    "pincode": "515123",
+    "phone_number": "+91 77607 66789",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, Surya Sadan Building, 29-7-41, Vishnu Vardhana Rao St, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Governor Peta",
+    "latitude": 16.5121739,
+    "longitude": 80.63431179999999,
+    "place_id": "ChIJ_b4-EQD7NToRijXRkJ693Ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_b4-EQD7NToRijXRkJ693Ow",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:28"
+  }
+]

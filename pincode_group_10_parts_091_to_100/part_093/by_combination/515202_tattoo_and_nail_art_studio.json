@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Art Lounge",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Art supply store",
+    "all_categories": "Art supply store, Stationery store",
+    "pincode": "515202",
+    "phone_number": "+91 75880 66066",
+    "website": "https://www.artlounge.in/",
+    "rating": 4.8,
+    "reviews_count": 3890,
+    "address": "1st Floor, Karim Chambers, 3A, Ambalal Doshi Marg, next to Theobroma, Kala Ghoda, Fort, Mumbai, Maharashtra 400023",
+    "area": "Kala Ghoda, Fort",
+    "latitude": 18.930336999999998,
+    "longitude": 72.83229469999999,
+    "place_id": "ChIJ0zEIYOjR5zsR8gBRxTBCocY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zEIYOjR5zsR8gBRxTBCocY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:22:27"
+  },
+  {
+    "business_name": "Naughty Needles Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "515202",
+    "phone_number": "+91 97730 78082",
+    "website": "http://www.naughtyneedletattoo.com/",
+    "rating": 4.7,
+    "reviews_count": 182,
+    "address": "Shop No 7, Padmavati Kripa, Lower Ground Floor, Off M.G Road,, L.T Nagar, Road NO 2, Mahatma Gandhi Rd, Goregaon West, Mumbai, Maharashtra 400104",
+    "area": "Tilak Nagar, Goregaon West",
+    "latitude": 19.1629704,
+    "longitude": 72.84077669999999,
+    "place_id": "ChIJa8nNDVC25zsRUwZrXdyam-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8nNDVC25zsRUwZrXdyam-4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:22:27"
+  }
+]

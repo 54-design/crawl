@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Visakha Dairy Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "515212",
+    "phone_number": "+91 70365 57743",
+    "website": "http://www.visakhadairy.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Q985+GFQ, Beach Rd, Ntr Marg, Sagar Nagar, Endada, Andhra Pradesh 530045",
+    "area": "Ntr Marg, Sagar Nagar",
+    "latitude": 17.766346,
+    "longitude": 83.35872379999999,
+    "place_id": "ChIJf4uccz9bOToRPn-q3sWbLY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4uccz9bOToRPn-q3sWbLY8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:25:04"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "515212",
+    "phone_number": "+91 79818 48133",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. 3-253-8, Pargi Rd, Sevamandir, Kodigenahalli, Hindupuram, Andhra Pradesh 515212",
+    "area": "Sevamandir",
+    "latitude": 13.8586818,
+    "longitude": 77.4790005,
+    "place_id": "ChIJ9RJ970SjsTsRCJtv7zhYqCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RJ970SjsTsRCJtv7zhYqCA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:25:05"
+  }
+]

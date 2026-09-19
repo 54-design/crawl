@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAJ TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "515241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gorantla, Andhra Pradesh 515231",
+    "area": "515241",
+    "latitude": 13.984583899999999,
+    "longitude": 77.7484726,
+    "place_id": "ChIJv6nLLgN4sTsRxbAUcp_hQcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6nLLgN4sTsRxbAUcp_hQcA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:29:12"
+  },
+  {
+    "business_name": "SRI VARI TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "515241",
+    "phone_number": "+91 94933 94447",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. kanyaka parameswari temple, Chilamathur, Andhra Pradesh 515341",
+    "area": "515241",
+    "latitude": 13.8397312,
+    "longitude": 77.7082068,
+    "place_id": "ChIJNUejwc6bsTsR7Ibg0VaDLEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUejwc6bsTsR7Ibg0VaDLEw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:29:12"
+  }
+]

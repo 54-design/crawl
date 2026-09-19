@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kin physiotherapy clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "515231",
+    "phone_number": "+91 79931 06600",
+    "website": "https://www.kinphysiotherapy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, Inner Ring Road, above Vasudha Digitals, near Chillies Dhaba, Annapurna Nagar, Gorantla, Andhra Pradesh 522033",
+    "area": "Annapurna Nagar, Gorantla",
+    "latitude": 16.3353376,
+    "longitude": 80.436064,
+    "place_id": "ChIJXW1DApOLNToRLPbV8TN4hg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXW1DApOLNToRLPbV8TN4hg0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:27:11"
+  },
+  {
+    "business_name": "Dr Guru Advanced Physiotherapy and rehabilitation clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Physiotherapist",
+    "pincode": "515231",
+    "phone_number": "+91 80740 16915",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jammalamadugu, Andhra Pradesh 516434",
+    "area": "515231",
+    "latitude": 14.845467,
+    "longitude": 78.3804384,
+    "place_id": "ChIJAdo6ueNztDsR9fVJ68jjlkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdo6ueNztDsR9fVJ68jjlkw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:27:11"
+  }
+]

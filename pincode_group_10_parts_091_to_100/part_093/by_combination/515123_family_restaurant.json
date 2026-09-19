@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ms family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3CV4+9X9, Penukonda - Roddamkottala Rd, Roddam Kottala, Roddam, Andhra Pradesh 515123",
+    "area": "Roddam Kottala",
+    "latitude": 14.093422299999999,
+    "longitude": 77.4074759,
+    "place_id": "ChIJ_cKKXwAPsTsR3nf2owrW5JE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cKKXwAPsTsR3nf2owrW5JE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:07"
+  },
+  {
+    "business_name": "Jai matha raga family’s restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515123",
+    "phone_number": "+91 79896 69106",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "national highway, near Guttur, Hyderabad, Bangalore, Andhra Pradesh 515164",
+    "area": "515123",
+    "latitude": 14.1882925,
+    "longitude": 77.63047,
+    "place_id": "ChIJUyjzVqFtsTsRM7RaB0WlY0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyjzVqFtsTsRM7RaB0WlY0Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:06:07"
+  }
+]

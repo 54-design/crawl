@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TrueUniforms — Uniform Manufacturer in Hyderabad",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Manufacturer",
+    "pincode": "515261",
+    "phone_number": "+91 79899 20298",
+    "website": "https://www.trueuniforms.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 2, 2-2-19 to 21& 152/3, Pan Bazar, Old Gudi, Old Bhoiguda, Ranigunj, Secunderabad, Hyderabad, Telangana 500003",
+    "area": "Pan Bazar, Old Gudi, Old Bhoiguda, Ranigunj",
+    "latitude": 17.4359801,
+    "longitude": 78.4888799,
+    "place_id": "ChIJjxhaJKCbyzsR1YnNjz61Ngk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxhaJKCbyzsR1YnNjz61Ngk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:30:29"
+  },
+  {
+    "business_name": "Associated Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing store, Custom t-shirt store, Disposable Items shop, Fabric wholesaler, T-shirt store",
+    "pincode": "515261",
+    "phone_number": "+91 91691 69635",
+    "website": "https://www.uwears.store/",
+    "rating": 4.7,
+    "reviews_count": 328,
+    "address": "Unit-203, 2nd Floor, KeyTech Park Sadhana Compound, A-Wing, off Swami Vivekanand Road, Oshiwara, Jogeshwari West, Mumbai, Maharashtra 400102",
+    "area": "Oshiwara, Jogeshwari West",
+    "latitude": 19.148351299999998,
+    "longitude": 72.8449832,
+    "place_id": "ChIJBZosasy35zsRv2qDxiIPNEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZosasy35zsRv2qDxiIPNEE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:30:31"
+  }
+]
