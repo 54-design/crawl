@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Industrial chemicals wholesaler",
+    "pincode": "506146",
+    "phone_number": "+91 44 2674 5327",
+    "website": "http://adarshchem.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "24/51, Bangaru St, Vasantha nagar, Chinna Chembarambakkam, Ayanavaram, Chennai, Tamil Nadu 600023",
+    "area": "Vasantha nagar, Chinna Chembarambakkam, Ayanavaram",
+    "latitude": 13.099528,
+    "longitude": 80.24149659999999,
+    "place_id": "ChIJVZp1JmpmUjoR2y5sL8jHqho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZp1JmpmUjoR2y5sL8jHqho",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:06"
+  },
+  {
+    "business_name": "Eau Chemical Manufacturing Private Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Manufacturer, Water treatment plant",
+    "pincode": "506146",
+    "phone_number": "+91 44 2247 4100",
+    "website": "http://www.eauchem.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "PLOT NO : 90-A, Ambal Nagar Main Rd, Sri Ambal Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+    "area": "Sri Ambal Nagar, Keelkattalai",
+    "latitude": 12.9514123,
+    "longitude": 80.18403649999999,
+    "place_id": "ChIJNeKneVtdUjoRbJIcDuFrCoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeKneVtdUjoRbJIcDuFrCoA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Step's Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "506105",
+    "phone_number": "+91 84828 57595",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "address": "Shop no 4, Bhondve Empire, Ganesh Nagar, Ravet, Pune, Pimpri-Chinchwad, Maharashtra 412101",
+    "area": "Ganesh Nagar, Ravet",
+    "latitude": 18.6531029,
+    "longitude": 73.75241059999999,
+    "place_id": "ChIJ2f-oOwW5wjsRIz4NkCCH30w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f-oOwW5wjsRIz4NkCCH30w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:34"
+  },
+  {
+    "business_name": "Children Clinic Pediatrician Dr",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "506105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14-113/1, Mahadevapuram Colony, Sanath Nagar, Kanuru, Andhra Pradesh 520007",
+    "area": "Mahadevapuram Colony, Sanath Nagar",
+    "latitude": 16.4955837,
+    "longitude": 80.69059159999999,
+    "place_id": "ChIJ-6swB0D7NToRTePkjZ9UVmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6swB0D7NToRTePkjZ9UVmw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:34"
+  }
+]

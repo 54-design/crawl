@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VR FAMILY MART",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambedkar Center, Police Station Road, Jawahar Nagar, Subash Colony, Bhupalpally, Telangana 506169",
+    "area": "Jawahar Nagar, Subash Colony",
+    "latitude": 18.4377711,
+    "longitude": 79.86816519999999,
+    "place_id": "ChIJM1CFE9cbMzoR-Rj6JAwKI_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1CFE9cbMzoR-Rj6JAwKI_Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:21"
+  },
+  {
+    "business_name": "Sri lakshmi narasimha pooja store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Wine store",
+    "pincode": "506170",
+    "phone_number": "+91 90524 42323",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 56,
+    "address": "Unnamed Road, Kodavatancha, Madthapally, Telangana 506348",
+    "area": "506170",
+    "latitude": 18.2911958,
+    "longitude": 79.7550176,
+    "place_id": "ChIJb3RRCTMWMzoRtNOmu0XBQh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3RRCTMWMzoRtNOmu0XBQh8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:21"
+  }
+]

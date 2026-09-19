@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamthe Automotive",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier, Agricultural machinery manufacturer, Hydraulic repair service",
+    "pincode": "506142",
+    "phone_number": "+91 88059 80980",
+    "website": "http://www.kamtheautomotive.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "S. No, 16, Katraj Ghat Rd, Bhilarewadi, Pune, Maharashtra 411046",
+    "area": "Bhilarewadi",
+    "latitude": 18.422424,
+    "longitude": 73.8599306,
+    "place_id": "ChIJo71yijvrwjsRvZ4ehV7vNTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo71yijvrwjsRvZ4ehV7vNTQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:05:41"
+  },
+  {
+    "business_name": "Farmtrac Tractor - S S AUTOMOBILES",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "506142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Civil Court, Keharvali, Dasuya, Khera Kotli, Punjab 144205",
+    "area": "Keharvali",
+    "latitude": 31.7986439,
+    "longitude": 75.679171,
+    "place_id": "ChIJjZJj78unGzkReLfTRiJ-3Sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZJj78unGzkReLfTRiJ-3Sw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:05:41"
+  }
+]

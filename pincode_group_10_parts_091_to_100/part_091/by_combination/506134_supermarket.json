@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GM Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 31,
+    "address": "Aslam Khan St, Town-1, Mahbubnagar, Telangana 509001",
+    "area": "Town-1",
+    "latitude": 16.7454323,
+    "longitude": 77.9859719,
+    "place_id": "ChIJecwRK84nyjsRrC5zqXAe6L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecwRK84nyjsRrC5zqXAe6L0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:18"
+  },
+  {
+    "business_name": "Harshini Kiranam & General Stores",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506134",
+    "phone_number": "+91 87122572753",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 12,
+    "address": "Bhavani Nagar, NGO Colony Rd, NGOs Colony, Bhavani Nagar, Hanamkonda, Telangana 506001",
+    "area": "NGOs Colony, Bhavani Nagar",
+    "latitude": 18.004043199999998,
+    "longitude": 79.5453849,
+    "place_id": "ChIJOylLFHZPMzoRF--bFAXuvZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOylLFHZPMzoRF--bFAXuvZ4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:20"
+  }
+]

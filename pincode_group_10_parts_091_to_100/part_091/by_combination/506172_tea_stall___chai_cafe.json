@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaai Centre Café & Co-working",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Board game club, Brunch restaurant, Coffee store, Coworking space, Event planner, Event venue, Lunch restaurant, Restaurant, Tea house",
+    "pincode": "506172",
+    "phone_number": "+91 22 4969 6569",
+    "website": "https://instagram.com/chaaicentre?igshid=MWZjMTM2ODFkZg==",
+    "rating": 4.3,
+    "reviews_count": 1218,
+    "address": "Shop No-14, Mayuresh Cosmos, Sector 11, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+    "area": "Sector 11, CBD Belapur",
+    "latitude": 19.0158989,
+    "longitude": 73.04145489999999,
+    "place_id": "ChIJ0_28N1PC5zsRgkCAoNLwXfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_28N1PC5zsRgkCAoNLwXfA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:20"
+  },
+  {
+    "business_name": "Pentaiah Allam Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "506172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mini Bridge, Near, Hunter Rd, Vada, Warangal, Telangana 506002",
+    "area": "Vada",
+    "latitude": 17.9739214,
+    "longitude": 79.5916685,
+    "place_id": "ChIJoUivphhFMzoRiv8rtMhaXcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUivphhFMzoRiv8rtMhaXcE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:23"
+  }
+]

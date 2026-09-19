@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sneha farm",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "506221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RW6F+JW8, Lingampalli, Telangana 506223",
+    "area": "506221",
+    "latitude": 17.8115314,
+    "longitude": 78.924826,
+    "place_id": "ChIJ61p1xjudzDsROw591nE5tDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61p1xjudzDsROw591nE5tDE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:06"
+  },
+  {
+    "business_name": "Vision Care Eye Clinic & Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "506221",
+    "phone_number": "+91 80080 65341",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ALER ROAD, beside Jamia masjid, opp. ZP HIGH SCHOOL, Bachannapet, Telangana 506221",
+    "area": "506221",
+    "latitude": 17.7870022,
+    "longitude": 79.0353714,
+    "place_id": "ChIJn-ka-WuhzDsRpHNQbFB0ui8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-ka-WuhzDsRpHNQbFB0ui8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:06"
+  }
+]

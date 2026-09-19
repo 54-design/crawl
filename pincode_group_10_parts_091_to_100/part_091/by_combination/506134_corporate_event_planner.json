@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Party Buzz",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Function room facility",
+    "all_categories": "Function room facility",
+    "pincode": "506134",
+    "phone_number": "+91 85550 88272",
+    "website": "https://partybuzzvizag.figma.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd Floor, down road, 10/24, Kommadi Rd, jn, Madhurawada, Kommadi, Madhuravada, Andhra Pradesh 530048",
+    "area": "jn, Madhurawada",
+    "latitude": 17.8258723,
+    "longitude": 83.35527479999999,
+    "place_id": "ChIJtxhXBABdOToRTiFHSu2qHg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxhXBABdOToRTiFHSu2qHg8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:27"
+  },
+  {
+    "business_name": "Priya events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "506134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Dak Public School, Mayur Marg, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Prakash Nagar, Begumpet",
+    "latitude": 17.4420811,
+    "longitude": 78.4620394,
+    "place_id": "ChIJQ27TFruQyzsRrFIrtFg8slY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ27TFruQyzsRrFIrtFg8slY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheth Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Optometrist, Sunglasses store",
+    "pincode": "506222",
+    "phone_number": "+91 98242 30494",
+    "website": "http://www.shethopticals.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No 2,3, Sun Plaza Complex, Swastik Cross Rd, Swastik Society, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Swastik Society, Navrangpura",
+    "latitude": 23.037073,
+    "longitude": 72.560527,
+    "place_id": "ChIJD0AgZvOEXjkRj7qL-69LEKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0AgZvOEXjkRj7qL-69LEKw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:01"
+  },
+  {
+    "business_name": "Deep Optic Plus",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center, Optical Wholesaler, Optometrist, Sunglasses store",
+    "pincode": "506222",
+    "phone_number": "+91 94269 03321",
+    "website": "http://www.deepopticplus.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "32, Advait Complex, near, Sandesh Press Rd, Vastrapur, Ahmedabad, Gujarat 380054",
+    "area": "Vastrapur",
+    "latitude": 23.041095499999997,
+    "longitude": 72.5260207,
+    "place_id": "ChIJc6D4DbeEXjkR5FckH4XpEBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6D4DbeEXjkR5FckH4XpEBY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:01"
+  }
+]

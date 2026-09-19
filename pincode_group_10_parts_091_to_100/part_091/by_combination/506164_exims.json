@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ESI Hospital - Warangal City",
+    "search_category": "EXIMS",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506164",
+    "phone_number": "+91 1800 11 2526",
+    "website": "http://www.esic.nic.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "XJ9G+QCC, Narsampet Rd, Labour Colony, Warangal, Telangana 506013",
+    "area": "Labour Colony",
+    "latitude": 17.9694361,
+    "longitude": 79.6260101,
+    "place_id": "ChIJAZTvbshEMzoRe7RC1IEURCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZTvbshEMzoRe7RC1IEURCY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:19:54"
+  },
+  {
+    "business_name": "Exim india",
+    "search_category": "EXIMS",
+    "primary_category": "Media house",
+    "all_categories": "Media house",
+    "pincode": "506164",
+    "phone_number": "N/A",
+    "website": "https://eximin.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4RPM+FPR, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Veera Desai Industrial Estate, Andheri West",
+    "latitude": 19.1362497,
+    "longitude": 72.8342764,
+    "place_id": "ChIJS9JnUAC35zsR42j7-fMRnf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9JnUAC35zsR42j7-fMRnf4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:19:54"
+  }
+]

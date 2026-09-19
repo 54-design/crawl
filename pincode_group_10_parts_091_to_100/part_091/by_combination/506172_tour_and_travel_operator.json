@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goods vechicls",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "506172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pinnapaka (M) jaggaram (V, M) Jaggaram (V, Pinapaka, Manuguru, Telangana 507117",
+    "area": "M) Jaggaram (V",
+    "latitude": 18.0246301,
+    "longitude": 80.6919083,
+    "place_id": "ChIJ3djfmlTlMzoRmGn1qo3vcCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3djfmlTlMzoRmGn1qo3vcCo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:53"
+  },
+  {
+    "business_name": "Narsimhasagar Bus Stand",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "506172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "5GGM+3C6, Narsimhasagar, Telangana 506172",
+    "area": "506172",
+    "latitude": 18.1751546,
+    "longitude": 80.5335104,
+    "place_id": "ChIJhcyuarvrMzoR71Eto24kdNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcyuarvrMzoR71Eto24kdNg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:53"
+  }
+]

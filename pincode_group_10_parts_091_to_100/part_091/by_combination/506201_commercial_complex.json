@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kallem textile park",
+    "search_category": "Commercial Complex",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "506201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "J4XP+RRJ, Unnamed Road, Siripuram, Telangana 508101",
+    "area": "506201",
+    "latitude": 17.6495973,
+    "longitude": 79.13702599999999,
+    "place_id": "ChIJ5ZPytKtbyzsR3PKPkNLoVvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZPytKtbyzsR3PKPkNLoVvU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:36:40"
+  },
+  {
+    "business_name": "Sairam Xerox Centre",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "506201",
+    "phone_number": "+91 95058 20967",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "M55X+94R, Lingalaghanpur, Telangana 506201",
+    "area": "506201",
+    "latitude": 17.6584918,
+    "longitude": 79.1977807,
+    "place_id": "ChIJ5bRHUP5ZyzsR01ff60mDq_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bRHUP5ZyzsR01ff60mDq_Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:36:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KS PUMBLER SERVICE",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "506134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-9-239/2, Nagendranagar, Revenue Colony, Subedari, Hanamkonda, Telangana 506001",
+    "area": "Nagendranagar, Revenue Colony, Subedari",
+    "latitude": 17.986534799999998,
+    "longitude": 79.5435033,
+    "place_id": "ChIJ6RcOkMhPMzoR5giH1agkmcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RcOkMhPMzoR5giH1agkmcI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:08"
+  },
+  {
+    "business_name": "Plumbing Graceful service LLC",
+    "search_category": "Plumber",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Service establishment",
+    "pincode": "506134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Plumbing Graceful service LLC, 506134, India",
+    "area": "506134",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ93UW6hA1K4cR1W_Jsxsk9O4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93UW6hA1K4cR1W_Jsxsk9O4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:08"
+  }
+]

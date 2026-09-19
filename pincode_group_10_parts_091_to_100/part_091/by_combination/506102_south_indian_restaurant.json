@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simply South, Jubilee Hills",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "506102",
+    "phone_number": "+91 91007 17999",
+    "website": "http://simplysouthindia.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ground Floor, A V Towers, Plot No. 131, Rd Number 2, ICRISAT Colony, Jubilee Hills, Hyderabad, Telangana 500045",
+    "area": "ICRISAT Colony, Jubilee Hills",
+    "latitude": 17.4341072,
+    "longitude": 78.4167825,
+    "place_id": "ChIJydhPYMmWyzsRri2PwITPjMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydhPYMmWyzsRri2PwITPjMA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:48:43"
+  },
+  {
+    "business_name": "Dakshina Mandapa Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Family restaurant, Fast food restaurant, Buffet restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "506102",
+    "phone_number": "+91 40 2781 8989",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot No. 1-1-40, Sarojini Devi Rd, Krishna Complex, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Krishna Complex, Kalasiguda",
+    "latitude": 17.441332799999998,
+    "longitude": 78.4935331,
+    "place_id": "ChIJt7jYQReayzsRS3CESjPInBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7jYQReayzsRS3CESjPInBI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:48:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasavi Rice Marchant",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Rice shop",
+    "pincode": "506163",
+    "phone_number": "+91 93464 80090",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "19/6/196/1, Neruda Stachu, Telangana 506005",
+    "area": "Rangashaipet",
+    "latitude": 17.946993499999998,
+    "longitude": 79.59673719999999,
+    "place_id": "ChIJz0AzYNBaMzoRC1vbYbyPcVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0AzYNBaMzoRC1vbYbyPcVA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:16:21"
+  },
+  {
+    "business_name": "Sri Laxmi Fine rice",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store, Rice shop",
+    "pincode": "506163",
+    "phone_number": "+91 98483 45899",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "3-8-100, Tailors St, Kothur Jenda, Gandhi Nagar, Reddy Colony, Warangal, Hanamkonda, Telangana 506011",
+    "area": "Kothur Jenda, Gandhi Nagar, Reddy Colony",
+    "latitude": 18.007702899999998,
+    "longitude": 79.5708901,
+    "place_id": "ChIJFWA_T4NFMzoRCusBKC2io_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWA_T4NFMzoRCusBKC2io_c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:16:21"
+  }
+]

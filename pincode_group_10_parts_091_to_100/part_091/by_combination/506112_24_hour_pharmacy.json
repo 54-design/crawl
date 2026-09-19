@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healthcare Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506112",
+    "phone_number": "+91 79899 19455",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-58, Road, near Gavicharla, Rangashaipet, Warangal, Telangana 506005",
+    "area": "Rangashaipet",
+    "latitude": 17.946339299999998,
+    "longitude": 79.599755,
+    "place_id": "ChIJ1XpE0YBbMzoR0T1tYfSn9Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XpE0YBbMzoR0T1tYfSn9Vs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:16"
+  },
+  {
+    "business_name": "Aditya Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506112",
+    "phone_number": "+91 93461 50164",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "XHMV+GQM, Rabindranath Tagore Rd, Papaiahpet, chaman, Ramannapet, Warangal, Telangana 506002",
+    "area": "Papaiahpet, chaman, Ramannapet",
+    "latitude": 17.9838418,
+    "longitude": 79.59442059999999,
+    "place_id": "ChIJBQmA0xlFMzoR8QLDYKybkf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQmA0xlFMzoR8QLDYKybkf8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srirama Tyre Works",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "506105",
+    "phone_number": "+91 99859 69641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, opp. Kuravi, Kuravi, Telangana 506105",
+    "area": "506105",
+    "latitude": 17.5260392,
+    "longitude": 79.996045,
+    "place_id": "ChIJl2H6Y8SPNDoRhNhsYFfttOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2H6Y8SPNDoRhNhsYFfttOY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:42"
+  },
+  {
+    "business_name": "Sri Balaji Auto Consultancy",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Used motorcycle dealer",
+    "all_categories": "Used motorcycle dealer",
+    "pincode": "506105",
+    "phone_number": "+91 90108 33983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "S.V, P. Road, Raganna Darwaja, Kakatiya Colony, Hanamkonda, Telangana 506011",
+    "area": "Raganna Darwaja, Kakatiya Colony",
+    "latitude": 18.0037031,
+    "longitude": 79.5791526,
+    "place_id": "ChIJNdGzJZ5FMzoR22mbv8idFF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdGzJZ5FMzoR22mbv8idFF0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:42"
+  }
+]

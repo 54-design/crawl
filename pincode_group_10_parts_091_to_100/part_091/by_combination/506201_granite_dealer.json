@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Granites",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "506201",
+    "phone_number": "+91 90325 02700",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "6-9-85/6&7 Pillar no - 285, Shivarampally Rd, Chandrika Colony, Prashant Colony, Vivekananda Nagar, Rajendarnagar, Hyderabad, Shivarampally Jagir, Telangana 500052",
+    "area": "Chandrika Colony, Prashant Colony, Vivekananda Nagar, Rajendarnagar",
+    "latitude": 17.328827399999998,
+    "longitude": 78.4259883,
+    "place_id": "ChIJo3WiTEC9yzsRlk2a2Xwj7WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3WiTEC9yzsRlk2a2Xwj7WM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:41"
+  },
+  {
+    "business_name": "V.S. Granites",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "506201",
+    "phone_number": "+91 40 2370 6801",
+    "website": "http://www.vsgranites.com/",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "Czech Colony, Sanath Nagar, Hyderabad, Telangana 500018",
+    "area": "Czech Colony, Sanath Nagar",
+    "latitude": 17.4544586,
+    "longitude": 78.4353502,
+    "place_id": "ChIJY_YwTN2RyzsRtl86lyEfysA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_YwTN2RyzsRtl86lyEfysA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:43"
+  }
+]

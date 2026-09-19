@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Day",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "506112",
+    "phone_number": "+91 80 4162 8712",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 192,
+    "address": "401, 5th A Main Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar",
+    "latitude": 13.022001699999999,
+    "longitude": 77.6399879,
+    "place_id": "ChIJ6Wy-uSUXrjsRkIlkjrkOYTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Wy-uSUXrjsRkIlkjrkOYTw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:00"
+  },
+  {
+    "business_name": "Juicy Cravings(juice center and corner cafe)",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "506112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "Near, market road, Vengurla, Maharashtra 416516",
+    "area": "506112",
+    "latitude": 15.8617855,
+    "longitude": 73.6356962,
+    "place_id": "ChIJrSqzoYz5vzsRY2dW9oHpZQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSqzoYz5vzsRY2dW9oHpZQE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:00"
+  }
+]

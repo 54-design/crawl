@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siri Sahasra Medical Store Mondrai",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "506222",
+    "phone_number": "+91 96408 04904",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "G96X+549, kodakandla Main Rd, Jangon, Mondrai, Telangana 506302",
+    "area": "Jangon",
+    "latitude": 17.5104136,
+    "longitude": 79.3978597,
+    "place_id": "ChIJgdTufOOzNDoR-00xK-Pl0yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdTufOOzNDoR-00xK-Pl0yc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:09"
+  },
+  {
+    "business_name": "Vasavi Medical & General Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "506222",
+    "phone_number": "+91 80743 76083",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-67, near Gram Panchayat, Devaruppula, Telangana 506302",
+    "area": "506222",
+    "latitude": 17.5471023,
+    "longitude": 79.35558689999999,
+    "place_id": "ChIJkbV4E9hNyzsRYUTWhgDI17s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbV4E9hNyzsRYUTWhgDI17s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:09"
+  }
+]

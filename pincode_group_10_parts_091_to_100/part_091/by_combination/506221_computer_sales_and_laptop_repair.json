@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neotech Computer Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer desk store, Computer Hardware Company, Computer networking service, Computer service, Computer software store, Computer store, Computer Wholesaler, Printer repair service, Screen repair service",
+    "pincode": "506221",
+    "phone_number": "+91 40 2380 9566",
+    "website": "https://www.neotechcomputers.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ist Floor, 7-1-621/81/A, SR Nagar Main Rd, opposite Axis Bank, Sanjeeva Reddy Nagar Office Area, Sanjeeva Reddy Nagar, Hyderabad, Telangana 500038",
+    "area": "Sanjeeva Reddy Nagar Office Area, Sanjeeva Reddy Nagar",
+    "latitude": 17.4424968,
+    "longitude": 78.44350759999999,
+    "place_id": "ChIJq6qqasSQyzsRHBx5OGbR4as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqasSQyzsRHBx5OGbR4as",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:05"
+  },
+  {
+    "business_name": "The Computer Bazar Hyderabad",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer Wholesaler, Computer store",
+    "pincode": "506221",
+    "phone_number": "+91 70753 16555",
+    "website": "http://www.thecomputerbazar.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SHOP NO:309/A, Annapoorna Block, ADITYA ENCLAVE, Kumar Basti, Ameerpet, Hyderabad, Telangana 500089",
+    "area": "Kumar Basti, Ameerpet",
+    "latitude": 17.436605999999998,
+    "longitude": 78.444909,
+    "place_id": "ChIJhSJsF2uXyzsRWF6J0QXgrGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSJsF2uXyzsRWF6J0QXgrGY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:05"
+  }
+]

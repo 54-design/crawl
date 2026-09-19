@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VJ Tours Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "506144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "karunapuram, Telangana 506151",
+    "area": "506144",
+    "latitude": 17.9089439,
+    "longitude": 79.432412,
+    "place_id": "ChIJoVel6qNTMzoRhhmCno5obrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVel6qNTMzoRhhmCno5obrU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:09:30"
+  },
+  {
+    "business_name": "VINEETH TRAVELLS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "506144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kazipet, karunapuram, Warangal, Telangana 506151",
+    "area": "Kazipet",
+    "latitude": 17.9080561,
+    "longitude": 79.4318425,
+    "place_id": "ChIJv6UjsMNTMzoRGsuTG38YCRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6UjsMNTMzoRGsuTG38YCRc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:09:30"
+  }
+]

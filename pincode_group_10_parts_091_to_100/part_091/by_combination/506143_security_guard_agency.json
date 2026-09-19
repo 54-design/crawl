@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Security guard",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Service establishment",
+    "pincode": "506143",
+    "phone_number": "+91 82792 90713",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Security guard, 506143, India",
+    "area": "506143",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJP2fuvA--R4IROrwxw-RkkgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2fuvA--R4IROrwxw-RkkgU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:26"
+  },
+  {
+    "business_name": "Doga's Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Consultant, Service establishment, Security service",
+    "pincode": "506143",
+    "phone_number": "N/A",
+    "website": "https://dogasecurity.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Doga's Security Services, 506143, India",
+    "area": "506143",
+    "latitude": 43.7249499,
+    "longitude": -79.75939319999999,
+    "place_id": "ChIJ3Rn0zJ6uC0gR4qoMkaQY5s4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Rn0zJ6uC0gR4qoMkaQY5s4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:26"
+  }
+]

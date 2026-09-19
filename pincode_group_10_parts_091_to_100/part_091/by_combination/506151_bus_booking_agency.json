@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARATH TRAVELLS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "506151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13-85/1, Near Gramapanchayt, Peddapendyala, M: Dharmasagar, D:Hanmakonda, Hanamkonda, Telangana 506151",
+    "area": "D:Hanmakonda",
+    "latitude": 17.920041599999998,
+    "longitude": 79.4084187,
+    "place_id": "ChIJveEGw9xTMzoRo1D_I0UtiVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveEGw9xTMzoRo1D_I0UtiVk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:15:05"
+  },
+  {
+    "business_name": "AFZAL TOURS AND TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Transportation service, Travel agency",
+    "pincode": "506151",
+    "phone_number": "+91 91825 93341",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "19-6-268, Shamanpet, Shambunipet, Warangal, Telangana 506005",
+    "area": "Shamanpet, Shambunipet",
+    "latitude": 17.9479,
+    "longitude": 79.598969,
+    "place_id": "ChIJI3piOuFbMzoR8AG2BLa9Nyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3piOuFbMzoR8AG2BLa9Nyw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:15:06"
+  }
+]

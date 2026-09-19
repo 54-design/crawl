@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nancy wedding Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "506164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sagara Veedhi, Parkal, Telangana 506164",
+    "area": "506164",
+    "latitude": 18.197665399999998,
+    "longitude": 79.706076,
+    "place_id": "ChIJmVDfJS4_MzoRNETJufiwF6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVDfJS4_MzoRNETJufiwF6U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:19:16"
+  },
+  {
+    "business_name": "Beau's & Belle's Wedding Planners",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment, Wedding service",
+    "pincode": "506164",
+    "phone_number": "01787 540623",
+    "website": "https://www.beausandbellesweddingplanners.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beau's & Belle's Wedding Planners, 506164, India",
+    "area": "506164",
+    "latitude": 52.2481319,
+    "longitude": 0.8715731999999999,
+    "place_id": "ChIJubMtPYfx2EcRQ7TQlpABgQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubMtPYfx2EcRQ7TQlpABgQg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:19:20"
+  }
+]

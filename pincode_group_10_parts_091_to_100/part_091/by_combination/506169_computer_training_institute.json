@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GLOBAL COMPUTER EDUCATION",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "506169",
+    "phone_number": "+91 94913 24259",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Garepalle, Nallagunta, Telangana 505503",
+    "area": "506169",
+    "latitude": 18.6236635,
+    "longitude": 79.9465053,
+    "place_id": "ChIJIw7xd5n8MjoRxSzw63AvSCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIw7xd5n8MjoRxSzw63AvSCs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:28:44"
+  },
+  {
+    "business_name": "ramappatv,CEO",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "506169",
+    "phone_number": "+91 77801 14554",
+    "website": "http://ramappatv.wordpress.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No 4, Bhupalpally, Telangana 506169",
+    "area": "Bhupalpally",
+    "latitude": 18.442174899999998,
+    "longitude": 79.868577,
+    "place_id": "ChIJNyUsIV4dMzoR_6SwKo12JtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyUsIV4dMzoR_6SwKo12JtE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:28:46"
+  }
+]

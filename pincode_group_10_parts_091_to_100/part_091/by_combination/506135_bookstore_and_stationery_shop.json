@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ram Books and Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "506135",
+    "phone_number": "+91 80747 97719",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "19-9-479, Shambunipet, Warangal, Telangana 506005",
+    "area": "Shambunipet",
+    "latitude": 17.952129,
+    "longitude": 79.59971879999999,
+    "place_id": "ChIJ4_fLs-VbMzoRNllEVXTslZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_fLs-VbMzoRNllEVXTslZ0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:04:24"
+  },
+  {
+    "business_name": "Sri Venkateshwara Books & Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506135",
+    "phone_number": "+91 83741 27838",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ashok Colony Road, Ngos Road, Hanamkonda, Telangana 506001",
+    "area": "Ngos Road",
+    "latitude": 18.0050205,
+    "longitude": 79.5495026,
+    "place_id": "ChIJ70yKSjlPMzoRyorRiK-rQL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70yKSjlPMzoRyorRiK-rQL4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:04:24"
+  }
+]

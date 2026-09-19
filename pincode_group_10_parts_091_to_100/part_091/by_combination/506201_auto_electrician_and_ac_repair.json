@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchnath AC Car Service",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service",
+    "pincode": "506201",
+    "phone_number": "+91 98795 19994",
+    "website": "http://panchnathcaracservice.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Akshardham Society, Plot No. 7 to 8, Surat - Kamrej Hwy, nr. Shree Ghanshyam Restaurant, opp. Navjivan Hotel, Sarthana Jakat Naka, Nana Varachha, Surat, Khadsad, Gujarat 395013",
+    "area": "Sarthana Jakat Naka, Nana Varachha",
+    "latitude": 21.2341251,
+    "longitude": 72.9071905,
+    "place_id": "ChIJUSFVS4VG4DsRL_Jm7D0-XPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSFVS4VG4DsRL_Jm7D0-XPE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:34"
+  },
+  {
+    "business_name": "Savera Car Cool Centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "506201",
+    "phone_number": "+91 98855 11178",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhavani Nagar, Moosapet, Hyderabad, Telangana 500018",
+    "area": "Bhavani Nagar, Moosapet",
+    "latitude": 17.469664899999998,
+    "longitude": 78.42826459999999,
+    "place_id": "ChIJ2XWV_fuQyzsRefkorQ6_Hcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XWV_fuQyzsRefkorQ6_Hcg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:35"
+  }
+]

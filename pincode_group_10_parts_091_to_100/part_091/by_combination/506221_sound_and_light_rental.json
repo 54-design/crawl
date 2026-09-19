@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Berkshire Sound Hire",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Audiovisual equipment rental service",
+    "all_categories": "Audiovisual equipment rental service, Service establishment",
+    "pincode": "506221",
+    "phone_number": "07880 574775",
+    "website": "http://www.berkshiresoundhire.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Berkshire Sound Hire, 506221, India",
+    "area": "506221",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJM33epCibdkgRk7sMH8zvZOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM33epCibdkgRk7sMH8zvZOU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:50"
+  },
+  {
+    "business_name": "Soundfangled",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Audiovisual equipment rental service",
+    "all_categories": "Audiovisual equipment rental service, Event management company",
+    "pincode": "506221",
+    "phone_number": "01273 044607",
+    "website": "http://www.soundfangled.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "66 Hartington Rd, Brighton and Hove, Brighton BN2 3PB, United Kingdom",
+    "area": "Brighton and Hove",
+    "latitude": 50.8336942,
+    "longitude": -0.1196511,
+    "place_id": "ChIJ64cj2mqFdUgRs218JJPHt40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64cj2mqFdUgRs218JJPHt40",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:50"
+  }
+]

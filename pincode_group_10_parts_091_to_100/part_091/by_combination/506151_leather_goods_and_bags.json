@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Handbags shop",
+    "pincode": "506151",
+    "phone_number": "+91 91105 06453",
+    "website": "https://metrobags.store.shoopy.in/",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Battala Bazar, Papaiahpet, chaman, Warangal, Telangana 506002",
+    "area": "Battala Bazar, Papaiahpet, chaman",
+    "latitude": 17.982134,
+    "longitude": 79.5952408,
+    "place_id": "ChIJXaqy_I5FMzoR1b9trGDGtIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaqy_I5FMzoR1b9trGDGtIQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:44"
+  },
+  {
+    "business_name": "Varun Bag house",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "506151",
+    "phone_number": "+91 83285 40145",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "12-2-158, 506 002, Pinnavari St, Sherpura, Warangal, Telangana 506002",
+    "area": "Sherpura",
+    "latitude": 17.980880499999998,
+    "longitude": 79.5964046,
+    "place_id": "ChIJEYCM9xxFMzoRkNGKodNmUC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYCM9xxFMzoRkNGKodNmUC8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:44"
+  }
+]

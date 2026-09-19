@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vajra Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H.no, 4-57, Khammam - Warangal Hwy, Shambunipet, Warangal, Telangana 506005",
+    "area": "Shambunipet",
+    "latitude": 17.9481808,
+    "longitude": 79.5991092,
+    "place_id": "ChIJ-fq6ERZbMzoRvHsK9VTxe1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fq6ERZbMzoRvHsK9VTxe1E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:59"
+  },
+  {
+    "business_name": "LaxmiSri Medical and General stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QHF8+6MQ, near zphs hish school, Vardhanapeta, Telangana 506313",
+    "area": "Vardhanapeta",
+    "latitude": 17.7730831,
+    "longitude": 79.5667265,
+    "place_id": "ChIJbZXPv5dZMzoR2xdBaUiIR2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZXPv5dZMzoR2xdBaUiIR2k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:59"
+  }
+]

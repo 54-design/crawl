@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Fabrication Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "506132",
+    "phone_number": "+91 93988 12915",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "no.1, Alkapoor Rd, Alkapur Twp, Hyderabad, Telangana 500089",
+    "area": "Alkapur Township",
+    "latitude": 17.3918484,
+    "longitude": 78.3763294,
+    "place_id": "ChIJ2fydKeiVyzsRUf33YXv4JsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fydKeiVyzsRUf33YXv4JsM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:01"
+  },
+  {
+    "business_name": "NAZEER FABRICATION ENGINEERING WORKS",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Store",
+    "all_categories": "Store, Metal fabricator",
+    "pincode": "506132",
+    "phone_number": "+91 84640 80930",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near Mahindra Motors, Srinivas Nagar, Mubaraknagar, Nizamabad, Telangana 503002",
+    "area": "Srinivas Nagar, Mubaraknagar",
+    "latitude": 18.6993579,
+    "longitude": 78.12557819999999,
+    "place_id": "ChIJdcoGG7vEzTsRbShZk0PofLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcoGG7vEzTsRbShZk0PofLk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "506164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2-159, Parkal Rd, market Street, Parkal, Telangana 506164",
+    "area": "market Street",
+    "latitude": 18.197788,
+    "longitude": 79.70258539999999,
+    "place_id": "ChIJB9DgPVM-MzoRukDnK4qf9TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9DgPVM-MzoRukDnK4qf9TY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:14"
+  },
+  {
+    "business_name": "Shambulingam Flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "506164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "6P23+QMW, Velamawada, Parkal, Telangana 506164",
+    "area": "506164",
+    "latitude": 18.2019959,
+    "longitude": 79.7042056,
+    "place_id": "ChIJbwBkN1I-MzoRgk2dO_68uzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwBkN1I-MzoRgk2dO_68uzA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:14"
+  }
+]

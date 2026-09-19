@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tax On Tip",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Service establishment",
+    "pincode": "506164",
+    "phone_number": "+91 97808 80737",
+    "website": "https://www.taxontip.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tax On Tip, 506164, India",
+    "area": "506164",
+    "latitude": 40.266869,
+    "longitude": -179.3878585,
+    "place_id": "ChIJEx1874xgUSwRlT6PxIT5zuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEx1874xgUSwRlT6PxIT5zuI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:19:39"
+  },
+  {
+    "business_name": "TAX ACCOUNTS POINT",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "506164",
+    "phone_number": "+91 94504 55701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Uttar Pradesh 209111",
+    "area": "506164",
+    "latitude": 26.224506899999998,
+    "longitude": 79.8300835,
+    "place_id": "ChIJx8CRDKCknTkRbgL87oWtJF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8CRDKCknTkRbgL87oWtJF8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:19:39"
+  }
+]

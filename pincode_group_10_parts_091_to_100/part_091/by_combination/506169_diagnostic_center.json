@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thyrocare",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "506169",
+    "phone_number": "+91 96525 21831",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CVVC+65H, Bhupalpally, Telangana 506169",
+    "area": "506169",
+    "latitude": 18.4430604,
+    "longitude": 79.87047249999999,
+    "place_id": "ChIJ_3fKGX8cMzoRYYXy_ylfT9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3fKGX8cMzoRYYXy_ylfT9I",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:28:03"
+  },
+  {
+    "business_name": "Manikanta diagnostic",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "506169",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G2HH+M9Q Hinman temple, road 1, Mutharam, Telangana 505503",
+    "area": "506169",
+    "latitude": 18.5292012,
+    "longitude": 80.0284981,
+    "place_id": "ChIJFWj186MBMzoRhmbP61W6q1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWj186MBMzoRhmbP61W6q1Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:28:04"
+  }
+]

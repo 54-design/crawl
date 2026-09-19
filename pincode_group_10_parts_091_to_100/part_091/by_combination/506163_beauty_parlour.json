@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jahnavi Beauty parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "506163",
+    "phone_number": "+91 90596 66943",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "jahnavi Beauty Parlor, 15-19, Chinthalapalli Road, Venkatapur, Thorrur, Telangana 506163",
+    "area": "506163",
+    "latitude": 17.5861007,
+    "longitude": 79.6572082,
+    "place_id": "ChIJ1Tcj81e9NDoR5P-9e-7s0q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Tcj81e9NDoR5P-9e-7s0q0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:17:14"
+  },
+  {
+    "business_name": "Divya ladies emporium & beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Bangle Shop",
+    "all_categories": "Bangle Shop",
+    "pincode": "506163",
+    "phone_number": "+91 93465 77192",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GP9M+FF9, Main road, Danthalapally, Telangana 506324",
+    "area": "Danthalapally",
+    "latitude": 17.5186745,
+    "longitude": 79.7337313,
+    "place_id": "ChIJJV923hm9NDoRUbF_Dg68VsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJV923hm9NDoRUbF_Dg68VsU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:17:15"
+  }
+]

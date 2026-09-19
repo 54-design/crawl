@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri mallikarjuna jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "506167",
+    "phone_number": "+91 88850 20013",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-7-188/1, near bustand, Balaji Nagar, Jangaon, Telangana 506167",
+    "area": "Balaji Nagar",
+    "latitude": 17.7191547,
+    "longitude": 79.1609259,
+    "place_id": "ChIJPwf2TupZyzsRgoSQmsvkbVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwf2TupZyzsRgoSQmsvkbVk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:24:08"
+  },
+  {
+    "business_name": "Sri Sai Krishna Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "506167",
+    "phone_number": "+91 98487 60239",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Old Beat Bazar, Jangaon, Telangana 506167",
+    "area": "Old Beat Bazar",
+    "latitude": 17.7226552,
+    "longitude": 79.15438859999999,
+    "place_id": "ChIJP-V4JL1ZyzsRC3f7NDT16bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-V4JL1ZyzsRC3f7NDT16bQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:24:08"
+  }
+]

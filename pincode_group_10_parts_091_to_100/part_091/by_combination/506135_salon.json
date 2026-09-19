@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASHIWIK Salon Shop",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "506135",
+    "phone_number": "+91 94411 81276",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kothaguda 5-25, Kothaguda, Pakhal Kothguda, Telangana 506135",
+    "area": "506135",
+    "latitude": 17.9104688,
+    "longitude": 80.05658749999999,
+    "place_id": "ChIJz3lmbaN5MzoREfmVnkM96sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3lmbaN5MzoREfmVnkM96sg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:04:02"
+  },
+  {
+    "business_name": "NAGA HAIR CUTTING SHOP MASIVAGU",
+    "search_category": "Salon",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "506135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MASIVAGU, MASIVAGU CENTER, YELLANDU, Rompedu, bhdradrikothagudem, Telangana 507124",
+    "area": "YELLANDU",
+    "latitude": 17.693096099999998,
+    "longitude": 80.2730191,
+    "place_id": "ChIJVWZDKwB7NDoRkbEGo5_GDg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWZDKwB7NDoRkbEGo5_GDg8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:04:05"
+  }
+]

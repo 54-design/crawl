@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "506143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Uppugal - Ghanpur Rd, Ghanpur, Telangana 506143",
+    "area": "506143",
+    "latitude": 17.8517366,
+    "longitude": 79.37933319999999,
+    "place_id": "ChIJkZI5WVWrzDsRKrMz_q1nosE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZI5WVWrzDsRKrMz_q1nosE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:07:39"
+  },
+  {
+    "business_name": "Madhu Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "506143",
+    "phone_number": "+91 98497 36673",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MADHU ELECTRICALS STATION, 1-97/1, Ghanpur, Telangana 506144",
+    "area": "506143",
+    "latitude": 17.852719999999998,
+    "longitude": 79.3778184,
+    "place_id": "ChIJIYcdhqqszDsRmoiPchEYGc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYcdhqqszDsRmoiPchEYGc0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:07:43"
+  }
+]

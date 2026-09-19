@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stay fresh super market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "506166",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11-25-697, 80 Feet Rd, Kothawada, Warangal, Telangana 506006",
+    "area": "Kothawada",
+    "latitude": 17.9945992,
+    "longitude": 79.5997606,
+    "place_id": "ChIJeSi9lzVFMzoRC3WAVqSQ-tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSi9lzVFMzoRC3WAVqSQ-tw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:55"
+  },
+  {
+    "business_name": "S V Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "506166",
+    "phone_number": "+91 73963 81156",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "#14-7-86, Charbouli Rd, opposite Water Tank, Charbowli, Warangal, Telangana 506002",
+    "area": "Charbowli, Doctors Colony",
+    "latitude": 17.992877399999998,
+    "longitude": 79.6054742,
+    "place_id": "ChIJfx32Dx9FMzoRhi7SyeSjlTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfx32Dx9FMzoRhi7SyeSjlTg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:56"
+  }
+]

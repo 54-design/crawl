@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai tapri Best cafe in Nasik",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506134",
+    "phone_number": "+91 84848 29129",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 808,
+    "address": "Shraddha Mall Marg, Anandwan Colony, Krishi Nagar, Nashik, Maharashtra 422005",
+    "area": "Anandwan Colony, Krishi Nagar",
+    "latitude": 20.0020029,
+    "longitude": 73.7622841,
+    "place_id": "ChIJvbb2N83r3TsRwr4cV03sJ1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbb2N83r3TsRwr4cV03sJ1o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:27"
+  },
+  {
+    "business_name": "Family Enterprises",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "506134",
+    "phone_number": "+91 93456 56286",
+    "website": "http://familyenterprises.unaux.com/",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "no:338, Baruva Nagar, Teynampet, Chennai, Tamil Nadu 600018",
+    "area": "Baruva Nagar, Seethammal Extension, Teynampet",
+    "latitude": 13.0347294,
+    "longitude": 80.2499109,
+    "place_id": "ChIJiZVPqlFnUjoRv8ux9we13RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZVPqlFnUjoRv8ux9we13RM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:30"
+  }
+]

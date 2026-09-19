@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Marc Restaurant And Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant, Restaurant",
+    "pincode": "506201",
+    "phone_number": "+91 70757 98506",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "NH-163, Hyderabad - Warangal Hwy, Alair, Telangana 508101",
+    "area": "506201",
+    "latitude": 17.6558708,
+    "longitude": 79.0736565,
+    "place_id": "ChIJP8Y-xnpfyzsRvJ4Gc0_Pwbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8Y-xnpfyzsRvJ4Gc0_Pwbw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:04"
+  },
+  {
+    "business_name": "Native South - Kitchen & Brew House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Brewery",
+    "all_categories": "Brewery, Banquet hall",
+    "pincode": "506201",
+    "phone_number": "+91 94996 58888",
+    "website": "http://www.nativesouth.co.in/",
+    "rating": 4.5,
+    "reviews_count": 319,
+    "address": "Anand Mall, near OM Convention, Narsingi, Hyderabad, Telangana 500089",
+    "area": "Narsingi",
+    "latitude": 17.3842946,
+    "longitude": 78.360146,
+    "place_id": "ChIJ0xk2646VyzsRTj61rBJltTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xk2646VyzsRTj61rBJltTk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:05"
+  }
+]

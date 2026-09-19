@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDOMACH EXPO HYDERABAD",
+    "search_category": "Tradeshows",
+    "primary_category": "Tradeshows",
+    "all_categories": "Tradeshows",
+    "pincode": "506170",
+    "phone_number": "+91 87899 85530",
+    "website": "http://www.indomach.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No 124, Balijaguda Road Peddamberpet Village, Hyderabad, Telangana 501513",
+    "area": "506170",
+    "latitude": 17.3220772,
+    "longitude": 78.6441291,
+    "place_id": "ChIJO06GE-ehyzsRVadx2BLXsNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO06GE-ehyzsRVadx2BLXsNE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:04"
+  },
+  {
+    "business_name": "I Convention - A/C",
+    "search_category": "Tradeshows",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "506170",
+    "phone_number": "+91 91773 34455",
+    "website": "https://iconvention.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "plot no 2, syno 465,466,ODF colony, Ameenpur, Sanga reddy, Hyderabad, Telangana 502032",
+    "area": "Ameenpur, Sanga reddy",
+    "latitude": 17.5134936,
+    "longitude": 78.31832729999999,
+    "place_id": "ChIJmwXm3d2NyzsRQaZmgZvoPR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwXm3d2NyzsRQaZmgZvoPR0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A to Z Bazaar",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, General store, Kitchen supply store",
+    "pincode": "506221",
+    "phone_number": "+91 93466 76553",
+    "website": "https://rratozbazaar.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Choutuppal, Telangana 508252",
+    "area": "506221",
+    "latitude": 17.249900999999998,
+    "longitude": 78.9036304,
+    "place_id": "ChIJB9vPLAARyzsRzxwb83qaB0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9vPLAARyzsRzxwb83qaB0c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:52"
+  },
+  {
+    "business_name": "Pitara",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "506221",
+    "phone_number": "+91 77992 00902",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2- 412, VIMBRI BOULEVARARD 8, 302, Road No. 4, & 6, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "& 6, Banjara Hills",
+    "latitude": 17.4210752,
+    "longitude": 78.4430608,
+    "place_id": "ChIJIXtsg36XyzsRXCgifKbcmfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXtsg36XyzsRXCgifKbcmfg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:53"
+  }
+]

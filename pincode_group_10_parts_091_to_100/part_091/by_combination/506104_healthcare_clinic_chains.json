@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashwini Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506104",
+    "phone_number": "+91 870 255 9256",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2H34+MP5, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506001",
+    "area": "Kakaji Colony, Kakaji Nagar Colony",
+    "latitude": 18.0041328,
+    "longitude": 79.5568613,
+    "place_id": "ChIJdaX3TIJFMzoRbGst9Kr-zDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaX3TIJFMzoRbGst9Kr-zDU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:52:49"
+  },
+  {
+    "business_name": "Venkateshwara Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "506104",
+    "phone_number": "+91 92478 97407",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2G3W+V6V, NGO Colony Rd, Ashoka Colony, Hanamkonda, Telangana 506001",
+    "area": "Ashoka Colony",
+    "latitude": 18.0047397,
+    "longitude": 79.5455539,
+    "place_id": "ChIJabKn8HZPMzoRzI_cjRyV1dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabKn8HZPMzoRzI_cjRyV1dg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:52:50"
+  }
+]

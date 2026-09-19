@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legal services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "506221",
+    "phone_number": "+91 99517 50789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8-2-390/17, Road No. 5, Panchavati Society Colony, Devera Konda Basti, Green Valley, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Panchavati Society Colony, Devera Konda Basti, Green Valley, Banjara Hills",
+    "latitude": 17.4241231,
+    "longitude": 78.4427025,
+    "place_id": "ChIJ056RjjSRyzsRwg8xvPmGUJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ056RjjSRyzsRwg8xvPmGUJo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:17"
+  },
+  {
+    "business_name": "Sreekumar Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "506221",
+    "phone_number": "+91 83710 01001",
+    "website": "http://www.sreekumarassociates.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "ARA, 30, Vanchiyur Athani Ln, Vanchiyoor, Thiruvananthapuram, Keralam 695035",
+    "area": "Vanchiyoor",
+    "latitude": 8.4935446,
+    "longitude": 76.93942609999999,
+    "place_id": "ChIJhZNujpe7BTsRkHx3KbLwmMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZNujpe7BTsRkHx3KbLwmMw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:18"
+  }
+]

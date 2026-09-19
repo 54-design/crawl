@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelima Book Bank",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Books Wholesaler",
+    "all_categories": "Books Wholesaler",
+    "pincode": "506144",
+    "phone_number": "+91 98480 19565",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "61, Swami Vivekananda Rd, Battala Bazar, Sherpura, Warangal, Telangana 506002",
+    "area": "Battala Bazar, Sherpura",
+    "latitude": 17.9789863,
+    "longitude": 79.5959115,
+    "place_id": "ChIJ6ZJr7CJFMzoRjgC28oMvhjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZJr7CJFMzoRjgC28oMvhjI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:10:06"
+  },
+  {
+    "business_name": "Himalaya Book World",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "506144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7-179/1, Revenue Colony, Subedari, Warangal, Hanamkonda, Telangana 506001",
+    "area": "Revenue Colony, Subedari",
+    "latitude": 17.9935787,
+    "longitude": 79.541888,
+    "place_id": "ChIJWQBeLpdPMzoRImKyAGgfMPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQBeLpdPMzoRImKyAGgfMPc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:10:07"
+  }
+]

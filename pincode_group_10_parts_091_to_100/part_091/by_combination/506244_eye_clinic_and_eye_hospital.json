@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L V Prasad Eye Institute",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Doctor, Hospital, Hospital department, Ophthalmologist, Ophthalmology clinic, Optometrist, Pediatric ophthalmologist, Rehabilitation center",
+    "pincode": "506244",
+    "phone_number": "+91 80662 02020",
+    "website": "https://www.lvpei.org/",
+    "rating": 4.6,
+    "reviews_count": 17848,
+    "address": "LV Prasad Marg, Park View Enclave, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Park View Enclave, Banjara Hills",
+    "latitude": 17.424258599999998,
+    "longitude": 78.42771379999999,
+    "place_id": "ChIJZTuXsSyRyzsRzi9lRCLt7A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTuXsSyRyzsRzi9lRCLt7A8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:38"
+  },
+  {
+    "business_name": "Tandon Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "506244",
+    "phone_number": "+91 98331 11200",
+    "website": "https://tandoneyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Office No. 222, 2nd Floor, Adani Inspire Hub, JP Rd, above Tirumala Shopping Centre, Sahayog Nagar, Bhudargarh Colony, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Sahayog Nagar, Bhudargarh Colony, Andheri West",
+    "latitude": 19.1290321,
+    "longitude": 72.8278572,
+    "place_id": "ChIJ-0nIJyC25zsRT9oJf6bScz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0nIJyC25zsRT9oJf6bScz0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:40"
+  }
+]

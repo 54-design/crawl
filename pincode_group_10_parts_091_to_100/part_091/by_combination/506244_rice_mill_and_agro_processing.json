@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roopa Agro Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "506244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Q62X+J36, Fatheshapur, Telangana 506244",
+    "area": "506244",
+    "latitude": 17.7517422,
+    "longitude": 79.2474131,
+    "place_id": "ChIJzT0pS02pzDsRMA5wruxj5Qc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzT0pS02pzDsRMA5wruxj5Qc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:45:48"
+  },
+  {
+    "business_name": "SRI SRINIVASA RICE AND COTTON GINNING MILL",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Cotton mill",
+    "all_categories": "Cotton mill",
+    "pincode": "506244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Raghunathapally, Telangana 506244",
+    "area": "506244",
+    "latitude": 17.7627328,
+    "longitude": 79.2606617,
+    "place_id": "ChIJbT69R9upzDsRPiR_zkJBbZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT69R9upzDsRPiR_zkJBbZs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:45:48"
+  }
+]

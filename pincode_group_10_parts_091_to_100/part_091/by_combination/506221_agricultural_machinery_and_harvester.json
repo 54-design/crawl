@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Harvester Workshop",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Machine workshop",
+    "all_categories": "Machine workshop",
+    "pincode": "506221",
+    "phone_number": "+91 90004 42054",
+    "website": "http://harvestergs.blogspot.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-19, Jangaon - Siddipet Rd, Cherial, Telangana 506223",
+    "area": "506221",
+    "latitude": 17.9191485,
+    "longitude": 78.9735824,
+    "place_id": "ChIJE2ShMdiZzDsR0Y9ssOnYzSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2ShMdiZzDsR0Y9ssOnYzSk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:23"
+  },
+  {
+    "business_name": "SLN HARVESTERS kamal",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "506221",
+    "phone_number": "+91 96662 53780",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "6-146, Nagapuri--Keshwapur, Road, Gandikunta, Cherial, Telangana 506223",
+    "area": "Gandikunta",
+    "latitude": 17.8623863,
+    "longitude": 78.90646319999999,
+    "place_id": "ChIJVRrSJsibzDsRYmDPwacpuPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRrSJsibzDsRYmDPwacpuPE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:23"
+  }
+]

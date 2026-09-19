@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TripFriday",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "506201",
+    "phone_number": "+91 88978 51321",
+    "website": "http://tripfriday.com/",
+    "rating": 4.7,
+    "reviews_count": 334,
+    "address": "plot 41, shriven 41, Phase 1, Kamalapuri Colony, Hyderabad, Telangana 500073",
+    "area": "Phase 1, Sri Nagar Colony, Kamalapuri Colony, Banjara Hills",
+    "latitude": 17.4290454,
+    "longitude": 78.432576,
+    "place_id": "ChIJ9RYZ6nSRyzsRj-wlmitYW-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RYZ6nSRyzsRj-wlmitYW-A",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:35"
+  },
+  {
+    "business_name": "The Touring",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "506201",
+    "phone_number": "+91 94296 92294",
+    "website": "http://www.thetouring.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "The Touring, 506201, India",
+    "area": "506201",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJCySyvQEPPEwRJCiziHi2q04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCySyvQEPPEwRJCiziHi2q04",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "506112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQXH+3P, Nainala, Telangana 506368",
+    "area": "506112",
+    "latitude": 17.59771,
+    "longitude": 79.7793183,
+    "place_id": "ChIJG1NBYV-ZNDoRhlKKHT7ddp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1NBYV-ZNDoRhlKKHT7ddp8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:55:56"
+  },
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "506112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FMR3+7PR, Chennupati Ramakotayya Main Rd, Gopavarapugudem, Patamatalanka, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Gopavarapugudem, Patamatalanka, Benz Circle",
+    "latitude": 16.4907453,
+    "longitude": 80.6542544,
+    "place_id": "ChIJmyIGoa_7NToRq8ShNGQQQrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyIGoa_7NToRq8ShNGQQQrc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:55:57"
+  }
+]

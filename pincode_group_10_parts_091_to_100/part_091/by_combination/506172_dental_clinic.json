@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sri srinivasa hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "506172",
+    "phone_number": "+91 94413 04930",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-59/12/1, main road, Mangapet, Kamalapuram, Telangana 506172",
+    "area": "Mangapet",
+    "latitude": 18.2524116,
+    "longitude": 80.5154283,
+    "place_id": "ChIJ1zbY0ovBMzoRaiWxEfTtUd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zbY0ovBMzoRaiWxEfTtUd8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:39"
+  },
+  {
+    "business_name": "Kavitha Reddy Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "506172",
+    "phone_number": "+91 90009 44131",
+    "website": "https://kavithareddydental.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NGO Colony Road, Old Bus Depot Rd, near HDFC Bank, NGOs Colony, Ashoka Colony, Hanamkonda, Telangana 506001",
+    "area": "NGOs Colony, Ashoka Colony",
+    "latitude": 18.005073199999998,
+    "longitude": 79.5460348,
+    "place_id": "ChIJ9xKp1BBPMzoR2VL6kuUuYh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xKp1BBPMzoR2VL6kuUuYh0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:40"
+  }
+]

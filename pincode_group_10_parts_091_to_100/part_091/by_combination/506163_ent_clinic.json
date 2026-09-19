@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amulya Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "506163",
+    "phone_number": "+91 98663 07390",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XHX6+JH9, Kaloji Marg, Beside Labour Office, Balasamudram, Hanamkonda, Telangana 506001",
+    "area": "Balasamudram",
+    "latitude": 17.9990488,
+    "longitude": 79.5614792,
+    "place_id": "ChIJ0V8VNH5FMzoRXUnISjMmJX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0V8VNH5FMzoRXUnISjMmJX4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:16:49"
+  },
+  {
+    "business_name": "MedPlus",
+    "search_category": "ENT Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, General store, Medical supply store, Sports nutrition store, Vitamin & supplements store",
+    "pincode": "506163",
+    "phone_number": "+91 63039 26566",
+    "website": "https://www.medplusmart.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "292, 299, New D.No.15, 4-331/1), (Old D.No.15-4-331, MGM Rd, beside MGM Hospital Road, Mattewada, Warangal, Telangana 506002",
+    "area": "Mattewada, Papaiahpet, Ramannapet",
+    "latitude": 17.984532599999998,
+    "longitude": 79.59373889999999,
+    "place_id": "ChIJp0th9xpFMzoR8oqV4rwCufg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0th9xpFMzoR8oqV4rwCufg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:16:52"
+  }
+]

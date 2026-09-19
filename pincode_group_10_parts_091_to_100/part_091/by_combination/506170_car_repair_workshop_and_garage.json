@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shine care Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "60 1st main, Hosur Rd, 1st cross, AECS layout, Singasandra, Bengaluru, Karnataka 560068",
+    "area": "1st cross, AECS layout, Singasandra",
+    "latitude": 12.8902512,
+    "longitude": 77.6342724,
+    "place_id": "ChIJCwLd0gJrrjsRwJA-i5nqo-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwLd0gJrrjsRwJA-i5nqo-Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:57"
+  },
+  {
+    "business_name": "Auto spark car workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "506170",
+    "phone_number": "+91 80905 26281",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "4B Shanti Nagar, near LBL hospital, nadarganj, Lucknow, Uttar Pradesh 226008",
+    "area": "nadarganj, Sarojini Nagar",
+    "latitude": 26.7380832,
+    "longitude": 80.85835019999999,
+    "place_id": "ChIJM8sYTh_5mzkRsrHQxDZAl-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8sYTh_5mzkRsrHQxDZAl-0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:58"
+  }
+]

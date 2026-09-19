@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegas Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "506166",
+    "phone_number": "+91 11 6650 2020",
+    "website": "https://www.vegasmall.in/",
+    "rating": 4.6,
+    "reviews_count": 46714,
+    "address": "Plot no 6, North, Pocket 1, Sector 14 Dwarka, Dwarka, Delhi, 110078",
+    "area": "Pocket 1, Sector 14 Dwarka, Dwarka",
+    "latitude": 28.6011548,
+    "longitude": 77.0297233,
+    "place_id": "ChIJr2C0HtYdDTkRXrxWdNl3k-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2C0HtYdDTkRXrxWdNl3k-g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:46"
+  },
+  {
+    "business_name": "The Grand Venice Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store",
+    "pincode": "506166",
+    "phone_number": "+91 88606 66666",
+    "website": "https://veniceindia.com/",
+    "rating": 4.2,
+    "reviews_count": 51675,
+    "address": "Plot No SH3 Site IV, near Pari Chowk, Block B, Industrial Area, Surajpur Site 4, Greater Noida, Uttar Pradesh 201308",
+    "area": "Block B, Industrial Area, Surajpur Site 4",
+    "latitude": 28.4532942,
+    "longitude": 77.5257295,
+    "place_id": "ChIJVV4dVTDADDkRwt02xANyB_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVV4dVTDADDkRwt02xANyB_Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:46"
+  }
+]

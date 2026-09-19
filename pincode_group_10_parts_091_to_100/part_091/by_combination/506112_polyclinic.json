@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Shree Hospitals",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Gastroenterologist, Oncologist",
+    "pincode": "506112",
+    "phone_number": "+91 870 242 1163",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 60,
+    "address": "XHMX+RVW, Jayaprakash Narayan Road, Mandi Bazar, Girmajipet, Warangal, Telangana 506002",
+    "area": "Mandi Bazar, Girmajipet",
+    "latitude": 17.9846228,
+    "longitude": 79.599713,
+    "place_id": "ChIJNVhFzR5FMzoReVy6V6aHE4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVhFzR5FMzoReVy6V6aHE4s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:23"
+  },
+  {
+    "business_name": "Prime Care Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506112",
+    "phone_number": "+91 90056 04900",
+    "website": "http://primecarehospitals24x7.com/",
+    "rating": 4.5,
+    "reviews_count": 51,
+    "address": "5-9-211, opp. Skill Stork Early learning Campus, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Kishanpura",
+    "latitude": 18.0117319,
+    "longitude": 79.5600228,
+    "place_id": "ChIJvVg7enNFMzoRO_sO18q5GxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVg7enNFMzoRO_sO18q5GxI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:23"
+  }
+]

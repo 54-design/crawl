@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advisure Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Hotel, Restaurant",
+    "pincode": "506165",
+    "phone_number": "+91 98146 71220",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Plot #995, Level 3 Sector 82, JLPL Industrial Area, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.6518694,
+    "longitude": 76.7319572,
+    "place_id": "ChIJq6qqqhXtDzkR6pfH-_etPwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqhXtDzkR6pfH-_etPwk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:16"
+  },
+  {
+    "business_name": "Muthoot Money Gold Loan",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Auto auction, Business development service, Car finance and loan company, Financial advisor, Financial institution",
+    "pincode": "506165",
+    "phone_number": "+91 1800 202 7747",
+    "website": "https://branches.muthootfinance.com/gold-loan-agency-in-pasara-pasara-11527662/home",
+    "rating": 4.9,
+    "reviews_count": 24,
+    "address": "No. 5-142/1, Warangal - Eturnagaram Rd, near Srinivasa Mess & Hotel, Pasara, Telangana 506347",
+    "area": "506165",
+    "latitude": 18.191797599999997,
+    "longitude": 80.167481,
+    "place_id": "ChIJG3HHa8ahMzoR4d3VJQOTYoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3HHa8ahMzoR4d3VJQOTYoE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:16"
+  }
+]

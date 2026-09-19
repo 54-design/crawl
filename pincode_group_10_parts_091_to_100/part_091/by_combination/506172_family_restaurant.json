@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Renukaa Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506172",
+    "phone_number": "+91 94417 70520",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "6GX6+JCH, X Road, Mangapet, Komatipalle, Telangana 506172",
+    "area": "Mangapet",
+    "latitude": 18.2490736,
+    "longitude": 80.51109699999999,
+    "place_id": "ChIJ7wRSRQDBMzoRBw8hhgmbTqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wRSRQDBMzoRBw8hhgmbTqw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:26"
+  },
+  {
+    "business_name": "Bro's restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "506172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "8H42+98H, Venkatapuram, Telangana 507136",
+    "area": "506172",
+    "latitude": 18.305937099999998,
+    "longitude": 80.5508522,
+    "place_id": "ChIJiREbOQDFMzoRg4tbm37ypS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiREbOQDFMzoRg4tbm37ypS0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:26"
+  }
+]

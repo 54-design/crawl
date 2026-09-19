@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maggam Works",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "506144",
+    "phone_number": "+91 96183 28620",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, 6-1118/1, Police Station, KLN Reddy Colony, Subedari, Warangal, Hanamkonda, Telangana 506001",
+    "area": "KLN Reddy Colony, Subedari",
+    "latitude": 17.9971694,
+    "longitude": 79.5395807,
+    "place_id": "ChIJ44bURR1PMzoRCc3AtA_dn2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44bURR1PMzoRCc3AtA_dn2E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:09:06"
+  },
+  {
+    "business_name": "Hunter Jeans",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "506144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Opposite Amrutha Theater, Raganna Darwaja, New Raipura, Brahmanawada, Hanamkonda, Telangana 506011",
+    "area": "Opposite Amrutha Theater, Raganna Darwaja, New Raipura, Brahmanawada",
+    "latitude": 18.0054147,
+    "longitude": 79.57233409999999,
+    "place_id": "ChIJgdRNiSJFMzoR5_wAz-ZDeuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdRNiSJFMzoR5_wAz-ZDeuQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:09:08"
+  }
+]

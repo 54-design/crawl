@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IMA C.T Scan Centre, Narasampet",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "Warangal Rd, Narsampet, Telangana 506132",
+    "area": "506132",
+    "latitude": 17.924939,
+    "longitude": 79.8827867,
+    "place_id": "ChIJT0cmKBllMzoRg32Q_AC0ZGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0cmKBllMzoRg32Q_AC0ZGc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:59:41"
+  },
+  {
+    "business_name": "Shanthavardhan home",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "506132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Nspt Ntr colony, near Shanthavardhan home, Hebron Colony, Narsampet, Telangana 506132",
+    "area": "Hebron Colony",
+    "latitude": 17.9349792,
+    "longitude": 79.88345869999999,
+    "place_id": "ChIJIb5bB1JlMzoRBDnz_sazcmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIb5bB1JlMzoRBDnz_sazcmw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:59:45"
+  }
+]

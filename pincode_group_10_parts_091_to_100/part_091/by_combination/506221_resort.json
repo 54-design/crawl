@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Go resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "506221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q2QM+WGQ, Bachannapet, Telangana 506221",
+    "area": "506221",
+    "latitude": 17.7898265,
+    "longitude": 79.0338455,
+    "place_id": "ChIJSVGjEAChzDsRPhjmjvRnxDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVGjEAChzDsRPhjmjvRnxDw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:51"
+  },
+  {
+    "business_name": "Prabhakar farm house",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "506221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P3V4+CM, Peddaramancherla, Telangana 506221",
+    "area": "506221",
+    "latitude": 17.7435625,
+    "longitude": 79.0566875,
+    "place_id": "ChIJX_pFHgChzDsRDHYylR_Xnpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_pFHgChzDsRDHYylR_Xnpc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:51"
+  }
+]

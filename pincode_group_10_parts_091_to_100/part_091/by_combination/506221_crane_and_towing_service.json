@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyoti Car Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service, Towing equipment provider",
+    "pincode": "506221",
+    "phone_number": "+91 80 6590 8695",
+    "website": "https://www.jyoticraneservice.in/",
+    "rating": 5,
+    "reviews_count": 71,
+    "address": "Bhullar enclave, Jhampur, Sahibzada Ajit Singh Nagar, Punjab 160014",
+    "area": "506221",
+    "latitude": 30.7684182,
+    "longitude": 76.7090535,
+    "place_id": "ChIJjUY6vaTxDzkR729a-TlB0Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUY6vaTxDzkR729a-TlB0Ng",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:29"
+  },
+  {
+    "business_name": "BHUJBAL MOTORS",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "506221",
+    "phone_number": "+91 99701 14745",
+    "website": "https://bhujbal-motors.grexa.site/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Airport Rd, Sangvi Kh., Nanded, Maharashtra 431605",
+    "area": "506221",
+    "latitude": 19.1834255,
+    "longitude": 77.32928559999999,
+    "place_id": "ChIJpWiifM_X0TsRe8yKdgE-ieU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpWiifM_X0TsRe8yKdgE-ieU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:31"
+  }
+]

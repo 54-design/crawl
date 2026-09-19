@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Doc Vet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "506222",
+    "phone_number": "+91 97304 09525",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 159,
+    "address": "Shop 1st, Parmar hospital, DP Rd, beside Jain Temple, near WESTEND MALL, Aundh, Pune, Maharashtra 411067",
+    "area": "Aundh",
+    "latitude": 18.560133699999998,
+    "longitude": 73.8071186,
+    "place_id": "ChIJx1m9Eju_wjsRTG5cRtV2oxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1m9Eju_wjsRTG5cRtV2oxg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:09"
+  },
+  {
+    "business_name": "Dr. Doodley Pet Hospital Jayanagar - 24x7",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Emergency veterinarian service, Medical clinic, Pet supply store, Veterinary pharmacy",
+    "pincode": "506222",
+    "phone_number": "+91 99023 56133",
+    "website": "https://www.doodley.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "No. 18, 1356, 32nd E Cross Rd, 4th T Block East, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "4th T Block East, Jayanagar",
+    "latitude": 12.926874199999999,
+    "longitude": 77.5964714,
+    "place_id": "ChIJPziqAyMVrjsR01O0CN5bObA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPziqAyMVrjsR01O0CN5bObA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:10"
+  }
+]

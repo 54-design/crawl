@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L S Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "506142",
+    "phone_number": "+91 99011 37852",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "19/2, 17th B Main Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, 6th Block, Koramangala",
+    "latitude": 12.9357916,
+    "longitude": 77.6234333,
+    "place_id": "ChIJWQSvwEQUrjsRhX9oAQhb7bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQSvwEQUrjsRhX9oAQhb7bw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:41"
+  },
+  {
+    "business_name": "Shruthi Natural Foods",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506142",
+    "phone_number": "+91 80741 92255",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "A Block, Shop no:1to4, opposite:NCL GODAVARI, Jeedimetla Pipeline Rd, Hyderabad, Telangana 500067",
+    "area": "Praga Tools Colony, Jeedimetla",
+    "latitude": 17.5136573,
+    "longitude": 78.4725131,
+    "place_id": "ChIJK6Jp8PORyzsRC_-LtLRj-8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6Jp8PORyzsRC_-LtLRj-8w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:41"
+  }
+]

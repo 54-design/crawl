@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANIKANTA HOME NEEDS & GENERAL STORES",
+    "search_category": "General Store",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "506170",
+    "phone_number": "+91 95058 97700",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Bhupalpally Main Rd, Manjoor Nagar, Bhupalpally, Telangana 506170",
+    "area": "Manjoor Nagar",
+    "latitude": 18.403352299999998,
+    "longitude": 79.8508453,
+    "place_id": "ChIJ4aTpdxAbMzoRE2hlv8lDtZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aTpdxAbMzoRE2hlv8lDtZQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:25"
+  },
+  {
+    "business_name": "Kashi Generel store govardhan.juluri",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506170",
+    "phone_number": "+91 99497 79752",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hanuman temple, Bhulaxmi road, Jublinagar, Telangana 506348",
+    "area": "506170",
+    "latitude": 18.2523125,
+    "longitude": 79.8509375,
+    "place_id": "ChIJ32xDWdERMzoRvWuW3STf2qA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32xDWdERMzoRvWuW3STf2qA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:26"
+  }
+]

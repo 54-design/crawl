@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arun Plumbing Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "506132",
+    "phone_number": "+91 95539 00857",
+    "website": "https://sites.google.com/view/hyderabad-plumber",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Arun Plumbing Services, 506132, India",
+    "area": "506132",
+    "latitude": 17.4360887,
+    "longitude": 78.4183788,
+    "place_id": "ChIJnUshgk04n2QRqCOG8rq4jbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUshgk04n2QRqCOG8rq4jbY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:00:19"
+  },
+  {
+    "business_name": "Narsing plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "506132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "99P6+4V8, Narsingi, Hyderabad, Telangana 500089",
+    "area": "Narsingi",
+    "latitude": 17.3853516,
+    "longitude": 78.3620112,
+    "place_id": "ChIJxyRrWgCVyzsRHlWfDtBuYzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyRrWgCVyzsRHlWfDtBuYzE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:00:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakruthi resort",
+    "search_category": "Resort",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "506165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "868V+6XC, Tadvai, Medaram, Telangana 506347",
+    "area": "506165",
+    "latitude": 18.3155517,
+    "longitude": 80.2448933,
+    "place_id": "ChIJtUovHgClMzoRzC0nx5laPhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUovHgClMzoRzC0nx5laPhI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:12"
+  },
+  {
+    "business_name": "Markala's Residency",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "506165",
+    "phone_number": "+91 79935 53379",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "53GG+G8, Bussapur, Telangana 506344",
+    "area": "506165",
+    "latitude": 18.1762698,
+    "longitude": 80.0758244,
+    "place_id": "ChIJd_c8pPsLMzoRow29gobUSFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_c8pPsLMzoRow29gobUSFY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:13"
+  }
+]

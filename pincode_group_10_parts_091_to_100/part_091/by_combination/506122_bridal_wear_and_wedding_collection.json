@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wrapd - Rent A Party Dress",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "506122",
+    "phone_number": "+91 70937 44257",
+    "website": "http://www.wrapd.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shanthi Bagh Apartment, A 19, Indian Airlines Colony, Prakash Nagar, Begumpet, Hyderabad, Telangana 500003",
+    "area": "Indian Airlines Colony, Prakash Nagar, Begumpet",
+    "latitude": 17.4428794,
+    "longitude": 78.473263,
+    "place_id": "ChIJBV1ZLSiRyzsRa4hCUkPVKNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBV1ZLSiRyzsRa4hCUkPVKNw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:58:02"
+  },
+  {
+    "business_name": "Roopsagar Shopping Mall Pvt Ltd",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothes and fabric wholesaler, Shopping mall, Saree Shop",
+    "pincode": "506122",
+    "phone_number": "+91 87126 36774",
+    "website": "http://www.roopsagarshoppingmall.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8-5-145 Durga Nagar, X.Road old kurnol road Mailardevpally, nearby aaramghar, Katedhan, Hyderabad, Telangana 500005",
+    "area": "Durga Nagar",
+    "latitude": 17.314218999999998,
+    "longitude": 78.4443888,
+    "place_id": "ChIJeQcDncG9yzsRIhZlI4PUn6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQcDncG9yzsRIhZlI4PUn6A",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:58:02"
+  }
+]

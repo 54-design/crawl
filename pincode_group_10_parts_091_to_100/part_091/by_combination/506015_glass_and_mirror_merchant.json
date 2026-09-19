@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagendra Iron, Hardware & Glass Mart",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506015",
+    "phone_number": "+91 92469 34227",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 95,
+    "address": "Christian Colony Rd, Christian Colony, Karimnagar, Telangana 505001",
+    "area": "Christian Colony",
+    "latitude": 18.4381253,
+    "longitude": 79.1294317,
+    "place_id": "ChIJSxQF1ELZzDsRLMsEryezLkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxQF1ELZzDsRLMsEryezLkM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:45:38"
+  },
+  {
+    "business_name": "Hanuman Glass Mart And Hardware",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass merchant",
+    "all_categories": "Glass merchant",
+    "pincode": "506015",
+    "phone_number": "+91 93515 62408",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "753/B, Hunter Rd, Subedari, Warangal, Telangana 506001",
+    "area": "Subedari",
+    "latitude": 17.9769397,
+    "longitude": 79.58283449999999,
+    "place_id": "ChIJqwUOmz9FMzoR837EvU_vpnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwUOmz9FMzoR837EvU_vpnI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:45:39"
+  }
+]

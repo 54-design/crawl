@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukhman Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "506112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 141,
+    "address": "GP7Q+GXP, Danthalapally, Warangal, Danthalapally, Telangana 506324",
+    "area": "Danthalapally",
+    "latitude": 17.5138322,
+    "longitude": 79.7399658,
+    "place_id": "ChIJsXsE2GW9NDoRe5rViqeLhsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXsE2GW9NDoRe5rViqeLhsw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:01"
+  },
+  {
+    "business_name": "Baba Ramdev Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "506112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 59,
+    "address": "MJ94+9VR, SH 8, Telangana 506314",
+    "area": "506112",
+    "latitude": 17.668442,
+    "longitude": 79.60717,
+    "place_id": "ChIJpfAfJ3KlNDoRksekbASNL70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfAfJ3KlNDoRksekbASNL70",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:01"
+  }
+]

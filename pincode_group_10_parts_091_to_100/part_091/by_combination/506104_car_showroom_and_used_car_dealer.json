@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pramod Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "506104",
+    "phone_number": "N/A",
+    "website": "https://pramodmotors.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "6-215/7, Hunter Rd, Sri Ram Colony, Postal Colony, Subedari, Hanamkonda, Telangana 506001",
+    "area": "Sri Ram Colony, Postal Colony, Subedari",
+    "latitude": 17.992137,
+    "longitude": 79.55626989999999,
+    "place_id": "ChIJ___AGGxFMzoRqt1BCK1eJgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___AGGxFMzoRqt1BCK1eJgQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:52:52"
+  },
+  {
+    "business_name": "VVC Nissan",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Nissan dealer",
+    "all_categories": "Nissan dealer, Car dealer",
+    "pincode": "506104",
+    "phone_number": "+91 91672 15264",
+    "website": "https://dealers.nissan.in/vvc-nissan-vvc-nissan-nissan-dealer-peddammagadda-warangal-301525/Home",
+    "rating": 4.6,
+    "reviews_count": 34,
+    "address": "H No 3, 15/8/2, Parakala Road, Peddammagadda, Hanamkonda, Warangal, Telangana 506007",
+    "area": "Peddammagadda",
+    "latitude": 18.006622099999998,
+    "longitude": 79.58815109999999,
+    "place_id": "ChIJ772hdEpFMzoRPWjxvNCyaSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ772hdEpFMzoRPWjxvNCyaSU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:52:52"
+  }
+]

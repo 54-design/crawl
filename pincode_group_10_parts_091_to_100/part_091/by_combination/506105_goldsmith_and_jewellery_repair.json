@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasundhara jewellery works",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "506105",
+    "phone_number": "+91 99512 64328",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, opp. Busstand, chinthapalli village, Kuravi, Chinthapalle, Telangana 506105",
+    "area": "chinthapalli village",
+    "latitude": 17.4571385,
+    "longitude": 79.977564,
+    "place_id": "ChIJ8Y3JORaNNDoR2lztGjFE2c0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Y3JORaNNDoR2lztGjFE2c0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:22"
+  },
+  {
+    "business_name": "Yathi Raja Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "506105",
+    "phone_number": "+91 98487 22554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LYR Garden Road, Thorrur, Telangana 506163",
+    "area": "506105",
+    "latitude": 17.5862621,
+    "longitude": 79.6566177,
+    "place_id": "ChIJqZIqWH6jNDoRIBu_J1lmeh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZIqWH6jNDoRIBu_J1lmeh8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:25"
+  }
+]

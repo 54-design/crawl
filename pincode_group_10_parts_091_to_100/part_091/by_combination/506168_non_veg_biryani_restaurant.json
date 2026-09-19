@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sitara Grand",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant",
+    "pincode": "506168",
+    "phone_number": "+91 90305 55115",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 2791,
+    "address": "Bhupalpally Main Rd, near collector office,maisamma Temple, Manju nagar, Bhupalpally, Telangana 506170",
+    "area": "Manju nagar",
+    "latitude": 18.4122761,
+    "longitude": 79.8548565,
+    "place_id": "ChIJp_Zav4UbMzoRZUN2SQ8hJfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_Zav4UbMzoRZUN2SQ8hJfI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:25:51"
+  },
+  {
+    "business_name": "Sritara Classic Multi Cuisine Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant",
+    "pincode": "506168",
+    "phone_number": "+91 79896 64076",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "Bhupalpally Main Rd, near HP petrol bunk, Bhupalpally, Telangana 506169",
+    "area": "506168",
+    "latitude": 18.433180099999998,
+    "longitude": 79.8650699,
+    "place_id": "ChIJ_28MUwAbMzoRV46vuq-dKhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_28MUwAbMzoRV46vuq-dKhI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:25:51"
+  }
+]

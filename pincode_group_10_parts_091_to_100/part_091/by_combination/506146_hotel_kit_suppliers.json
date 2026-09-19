@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chanya Enterprises",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "506146",
+    "phone_number": "+91 98110 34466",
+    "website": "https://www.chanyaenterprises.in/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "246, Vardhman Premium Mall, Outer Ring Rd, Deepali, Pitampura, New Delhi, Delhi, 110034",
+    "area": "Deepali, Pitampura",
+    "latitude": 28.6965889,
+    "longitude": 77.11533589999999,
+    "place_id": "ChIJGViS7ggEDTkREQhKzxm2E8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGViS7ggEDTkREQhKzxm2E8o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:13:41"
+  },
+  {
+    "business_name": "Unique Hotel Ware",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "506146",
+    "phone_number": "+91 97469 72297",
+    "website": "https://uniquehotelware.com/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "C-1, Viswa Prabha Building, Ground Floor, 53/3732 C, 53/3732, Lal Salam Road, Vyttila, Kochi, Keralam 682019",
+    "area": "Ponnurunni, Vyttila",
+    "latitude": 9.9756187,
+    "longitude": 76.3116005,
+    "place_id": "ChIJx9QqGvNzCDsR_WTIlxs6s6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9QqGvNzCDsR_WTIlxs6s6I",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:13:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maid In Heaven Cleaning Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "506144",
+    "phone_number": "07934 144158",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maid In Heaven Cleaning Service, 506144, India",
+    "area": "506144",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJATYGvdRrU2kR4rRkCIikWZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATYGvdRrU2kR4rRkCIikWZ4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:10:18"
+  },
+  {
+    "business_name": "Blissfull Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial service",
+    "all_categories": "Janitorial service, Service establishment",
+    "pincode": "506144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Blissfull Cleaning Services, 506144, India",
+    "area": "506144",
+    "latitude": 18.0473016,
+    "longitude": -76.91903099999999,
+    "place_id": "ChIJSeGERuAT244RAIIJOPfthSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeGERuAT244RAIIJOPfthSM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:10:18"
+  }
+]

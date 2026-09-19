@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yetti Fish Farming",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing pond",
+    "all_categories": "Fishing pond",
+    "pincode": "506172",
+    "phone_number": "+91 94901 24337",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Narsimhasagar, Mangapet, Mulugu, Telangana 506172",
+    "area": "Mangapet",
+    "latitude": 18.1784353,
+    "longitude": 80.53205009999999,
+    "place_id": "ChIJZ_TOZ8brMzoRmHcJgzWtoWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_TOZ8brMzoRmHcJgzWtoWM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:17"
+  },
+  {
+    "business_name": "Myla Madhumohan reddy nilayam",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "506172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Burgampadu Eturnagaram Road, Mangapet, Borenarsapur, Telangana 506172",
+    "area": "Mangapet",
+    "latitude": 18.248177,
+    "longitude": 80.52787,
+    "place_id": "ChIJCZk2cHHBMzoR9Brk0zqqIaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZk2cHHBMzoR9Brk0zqqIaI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:17"
+  }
+]

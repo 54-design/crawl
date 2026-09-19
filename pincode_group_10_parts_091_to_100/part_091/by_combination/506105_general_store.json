@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi Kiranam General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506105",
+    "phone_number": "+91 99491 84987",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "16-4-1478/b, near Ramalayam, Shiva Nagar, Warangal, Telangana 506002",
+    "area": "Shiva Nagar",
+    "latitude": 17.9700971,
+    "longitude": 79.6036689,
+    "place_id": "ChIJYa3QlidFMzoRG2lfqk7qCbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYa3QlidFMzoRG2lfqk7qCbI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:10"
+  },
+  {
+    "business_name": "SRI MAHESHWARI SAI KIRAN TRADERS",
+    "search_category": "General Store",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Real Estate Builders & Construction Company",
+    "pincode": "506105",
+    "phone_number": "+91 63048 21503",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kargil centre, suryapeta road, Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.3878907,
+    "longitude": 79.88866809999999,
+    "place_id": "ChIJCxiLnkvtNDoRGmXQZvXq7ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxiLnkvtNDoRGmXQZvXq7ws",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:54:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wow party & decor shop",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "506163",
+    "phone_number": "+91 97054 16816",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "H.no:1-6, 103/1, VT road, Vidyanagar, Suryapet, Telangana 508213",
+    "area": "Sriram Nagar, Vidyanagar",
+    "latitude": 17.142880599999998,
+    "longitude": 79.623668,
+    "place_id": "ChIJM2df_3vbNDoR1oebcTFE1t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2df_3vbNDoR1oebcTFE1t0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:17:22"
+  },
+  {
+    "business_name": "Abhi Balloon Decorations and Event Management",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Flower designer, Party planner",
+    "pincode": "506163",
+    "phone_number": "+91 90520 59171",
+    "website": "https://business.google.com/website_shared/launch_bw.html?f=abhi-balloon-decorations-and-event-management.business.site&hl=en-in",
+    "rating": 4.9,
+    "reviews_count": 133,
+    "address": "629, Rajiv Nagar Colony, Babametta, Vizianagaram, Andhra Pradesh 535002",
+    "area": "Rajiv Nagar Colony, Babametta",
+    "latitude": 18.106911999999998,
+    "longitude": 83.41933499999999,
+    "place_id": "ChIJvf7McEvlOzoRdK-ee1pWJkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvf7McEvlOzoRdK-ee1pWJkA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:17:25"
+  }
+]

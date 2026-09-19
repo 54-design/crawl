@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen Mottun Shop",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "506166",
+    "phone_number": "+91 98485 48509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mamnoor, Warangal, Telangana 506005",
+    "area": "506166",
+    "latitude": 17.9077816,
+    "longitude": 79.5951036,
+    "place_id": "ChIJReCG9yJbMzoRIP0Cs8zPLFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReCG9yJbMzoRIP0Cs8zPLFs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:48"
+  },
+  {
+    "business_name": "raju kiranam",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506166",
+    "phone_number": "+91 99483 58052",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-224, Mamnoor, Warangal, Telangana 506005",
+    "area": "506166",
+    "latitude": 17.906914399999998,
+    "longitude": 79.5932953,
+    "place_id": "ChIJczH6YM1bMzoRj20KinRisqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczH6YM1bMzoRj20KinRisqk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:48"
+  }
+]

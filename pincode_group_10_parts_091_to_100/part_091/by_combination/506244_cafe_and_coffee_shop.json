@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nunemunthala Yadagiri tea point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506244",
+    "phone_number": "+91 96036 05135",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hno 8-3, NUNEMUNTHALA GUDEM, Raghunathapally, Telangana 506244",
+    "area": "NUNEMUNTHALA GUDEM",
+    "latitude": 17.776302299999998,
+    "longitude": 79.27892159999999,
+    "place_id": "ChIJUSIU78GpzDsR_K633CBIDtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSIU78GpzDsR_K633CBIDtk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:21"
+  },
+  {
+    "business_name": "Rajanna guest house",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "WHCG+FG, Thimmapur, Telangana 506005",
+    "area": "506244",
+    "latitude": 17.921139699999998,
+    "longitude": 79.5762878,
+    "place_id": "ChIJDbeTwwZbMzoRsBd0zvLbZGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbeTwwZbMzoRsBd0zvLbZGg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:24"
+  }
+]

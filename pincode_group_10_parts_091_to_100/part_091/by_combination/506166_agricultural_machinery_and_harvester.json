@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agriculture Machinery Store",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop",
+    "pincode": "506166",
+    "phone_number": "+91 87265 13020",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QPP5+9XG, Fateganj-Mohan Rd, Newal Ganj, Uttar Pradesh 209881",
+    "area": "506166",
+    "latitude": 26.7859326,
+    "longitude": 80.7099393,
+    "place_id": "ChIJbeUV_O8DnDkRlK5Daca3hQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeUV_O8DnDkRlK5Daca3hQ0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:38"
+  },
+  {
+    "business_name": "Agro House",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Steel industry",
+    "all_categories": "Steel industry",
+    "pincode": "506166",
+    "phone_number": "+91 73672 25130",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "396F+86J, Sahjalalpura, Barnagar, Madhya Pradesh 456771",
+    "area": "Sahjalalpura",
+    "latitude": 23.0608482,
+    "longitude": 75.3730202,
+    "place_id": "ChIJlcer_cS_YzkRWz41UkivvV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcer_cS_YzkRWz41UkivvV4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:38"
+  }
+]

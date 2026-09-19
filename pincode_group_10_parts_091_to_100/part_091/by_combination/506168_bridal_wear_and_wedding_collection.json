@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Skies Photography",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service, Service establishment, Photographer, Photography studio, Wedding photographer",
+    "pincode": "506168",
+    "phone_number": "+91 63015 04689",
+    "website": "https://blueskiesphotography.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Blue Skies Photography, 506168, India",
+    "area": "506168",
+    "latitude": 18.2084698,
+    "longitude": 79.8280492,
+    "place_id": "ChIJ157kCGedmY8RePs57CM3Jns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ157kCGedmY8RePs57CM3Jns",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:03"
+  },
+  {
+    "business_name": "Sri Sai Adhithi Beauty Parlour",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa, Beauty Parlour",
+    "pincode": "506168",
+    "phone_number": "+91 63041 42259",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8-131, Jayashankar, Reddy Colony, Subash Colony, Bhupalpally, Telangana 506169",
+    "area": "Reddy Colony, Subash Colony",
+    "latitude": 18.4394523,
+    "longitude": 79.8674576,
+    "place_id": "ChIJWcg-NMYbMzoRJn7mgamqC48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcg-NMYbMzoRJn7mgamqC48",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:03"
+  }
+]

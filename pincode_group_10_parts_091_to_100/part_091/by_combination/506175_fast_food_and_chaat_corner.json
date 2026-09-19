@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "506175",
+    "phone_number": "+91 99203 26579",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "4R3J+9CP, Vaikunthlal Mehta Rd, Yamuna Nagar, Nehru Nagar, Airport Area, Juhu, Mumbai, Maharashtra 400049",
+    "area": "Yamuna Nagar, Nehru Nagar, Airport Area, Juhu",
+    "latitude": 19.1034686,
+    "longitude": 72.83108589999999,
+    "place_id": "ChIJLX3BgcDJ5zsRnqzzMC9SQxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLX3BgcDJ5zsRnqzzMC9SQxs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:33:12"
+  },
+  {
+    "business_name": "Pasta nd corn,s",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "506175",
+    "phone_number": "+91 81710 17043",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Block A B, 213, Nehru Colony Rd, C Block, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "C Block, Nehru Colony, Dharampur",
+    "latitude": 30.3017167,
+    "longitude": 78.052284,
+    "place_id": "ChIJT7V3WEspCTkR34CbYDFa34s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7V3WEspCTkR34CbYDFa34s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:33:13"
+  }
+]

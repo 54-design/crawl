@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Colorado Real Estate Brokers, Inc.",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "https://www.corealestatebrokers.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "12412 York St, Thornton, CO 80241, United States",
+    "area": "506170",
+    "latitude": 39.9214562,
+    "longitude": -104.9587801,
+    "place_id": "ChIJi5GdoXhzbIcRZJJJxr_mYSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5GdoXhzbIcRZJJJxr_mYSQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:30:53"
+  },
+  {
+    "business_name": "Bharat Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "http://www.venkatsbi.reddy.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kothapalle, Telangana 506170",
+    "area": "506170",
+    "latitude": 18.3664168,
+    "longitude": 79.7827401,
+    "place_id": "ChIJ_er75scZMzoR4vekvY4jGJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_er75scZMzoR4vekvY4jGJc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:30:53"
+  }
+]

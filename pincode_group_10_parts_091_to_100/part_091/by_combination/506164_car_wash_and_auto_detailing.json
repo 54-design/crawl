@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SURYA Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "506164",
+    "phone_number": "+91 96525 42123",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "H No 2, 6-52, Huzurabad Road, Parkal, Telangana 506164",
+    "area": "506164",
+    "latitude": 18.198956499999998,
+    "longitude": 79.6924176,
+    "place_id": "ChIJ4Ta4jqg_MzoRrb0upixxSRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Ta4jqg_MzoRrb0upixxSRY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:48"
+  },
+  {
+    "business_name": "Ducks Auto Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "506164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Ducks Auto Detailing, 506164, India",
+    "area": "506164",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJZ8b9QrFvz4cRZbJQ_PJkNNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8b9QrFvz4cRZbJQ_PJkNNA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:51"
+  }
+]

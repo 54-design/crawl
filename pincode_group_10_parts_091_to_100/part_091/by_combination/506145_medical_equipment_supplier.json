@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VEDA MEDICAL STORES",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "506145",
+    "phone_number": "+91 97036 73133",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ankushapuram, Telangana 506367",
+    "area": "506145",
+    "latitude": 17.9685916,
+    "longitude": 79.1599529,
+    "place_id": "ChIJscIzEgC7zDsRi08ZVzWAIBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscIzEgC7zDsRi08ZVzWAIBY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:10"
+  },
+  {
+    "business_name": "Sri Venkateshwara medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "506145",
+    "phone_number": "+91 63017 16519",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Station Ghanpur, Fathepur, Telangana 506145",
+    "area": "506145",
+    "latitude": 17.8957959,
+    "longitude": 79.25987959999999,
+    "place_id": "ChIJdxkPrZWvzDsRkQYViiSJgFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxkPrZWvzDsRkQYViiSJgFA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:10"
+  }
+]

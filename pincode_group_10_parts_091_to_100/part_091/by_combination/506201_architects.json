@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kk",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "506201",
+    "phone_number": "+91 95731 20020",
+    "website": "http://kmarchitectsandbuilders.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9-100, POCHAMMA WADA, Alair, Telangana 508101",
+    "area": "POCHAMMA WADA",
+    "latitude": 17.6443229,
+    "longitude": 79.04122009999999,
+    "place_id": "ChIJ42tch9pdyzsRLNVLzA8F47s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42tch9pdyzsRLNVLzA8F47s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:45"
+  },
+  {
+    "business_name": "TSK ASSOCIATES Planners & Land Surveyors",
+    "search_category": "Architects",
+    "primary_category": "Land surveyor",
+    "all_categories": "Land surveyor, Architectural designer, Civil engineer",
+    "pincode": "506201",
+    "phone_number": "+91 73967 83494",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside Court, Alair, Telangana 508101",
+    "area": "506201",
+    "latitude": 17.6386394,
+    "longitude": 79.0338312,
+    "place_id": "ChIJoQsvVwCZyzsR-GmwESOrULw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQsvVwCZyzsR-GmwESOrULw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:45"
+  }
+]

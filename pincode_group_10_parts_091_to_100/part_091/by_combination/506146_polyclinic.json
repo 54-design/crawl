@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MADHAVI HOSPITAL",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506146",
+    "phone_number": "+91 63005 49796",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 52,
+    "address": "Chimakurthy Rd, NSP Colony, Chimakurthy, Andhra Pradesh 523226",
+    "area": "NSP Colony",
+    "latitude": 15.586996899999999,
+    "longitude": 79.8601764,
+    "place_id": "ChIJtYQ4Fa3jSjoRT7Tcety4AAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYQ4Fa3jSjoRT7Tcety4AAk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:13:00"
+  },
+  {
+    "business_name": "Sri Maruthi Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "506146",
+    "phone_number": "+91 92469 68163",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "9-180-11, Chilka Nagar Main Rd, Chilkanagar, Uppal, Hyderabad, Telangana 500039",
+    "area": "Chilkanagar, Uppal",
+    "latitude": 17.405610799999998,
+    "longitude": 78.56572349999999,
+    "place_id": "ChIJ25UJzjSZyzsRBYFJVoBUUok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25UJzjSZyzsRBYFJVoBUUok",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:13:02"
+  }
+]

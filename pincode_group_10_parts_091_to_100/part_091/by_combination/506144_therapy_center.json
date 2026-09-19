@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Santhosh bones Hospital",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506144",
+    "phone_number": "+91 98499 44642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V95F+QMC, Ghanpur, Telangana 506144",
+    "area": "506144",
+    "latitude": 17.8594379,
+    "longitude": 79.3741378,
+    "place_id": "ChIJS1R6mq6szDsRSdjxeDS9uwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1R6mq6szDsRSdjxeDS9uwc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:09:49"
+  },
+  {
+    "business_name": "Mallikamba Manovikasa Kendram",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "506144",
+    "phone_number": "+91 95022 52206",
+    "website": "http://mallikamba.com/",
+    "rating": 4.8,
+    "reviews_count": 43,
+    "address": "Srinivasa Nagar, Hanamkonda, Telangana 506001",
+    "area": "Srinivasa Nagar",
+    "latitude": 17.9994478,
+    "longitude": 79.5645012,
+    "place_id": "ChIJo_BP535FMzoRizPu2EUr5go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_BP535FMzoRizPu2EUr5go",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:09:51"
+  }
+]

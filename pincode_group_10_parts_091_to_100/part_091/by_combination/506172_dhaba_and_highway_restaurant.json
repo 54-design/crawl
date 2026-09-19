@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR RESTAURANT DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "506172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Kamalapur, Telangana 505102",
+    "area": "506172",
+    "latitude": 18.1673003,
+    "longitude": 79.52184799999999,
+    "place_id": "ChIJ6-sfbu83MzoRgGiufrn9KI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-sfbu83MzoRgGiufrn9KI8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:22"
+  },
+  {
+    "business_name": "Royal highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "506172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 26,
+    "address": "bus stand, opposite Cherla, Cherla (Z), Telangana 507133",
+    "area": "506172",
+    "latitude": 18.0768225,
+    "longitude": 80.82695149999999,
+    "place_id": "ChIJG2wN1wFZMToRREYsH4Jd0UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2wN1wFZMToRREYsH4Jd0UE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:23"
+  }
+]

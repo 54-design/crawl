@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saida Sadhik Wellness, fitness,Nutrition center",
+    "search_category": "Wellness Center",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist",
+    "pincode": "506222",
+    "phone_number": "+91 81798 63229",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JFVR+GF2, Mallampalle, Telangana 506317",
+    "area": "506222",
+    "latitude": 17.643767699999998,
+    "longitude": 79.491151,
+    "place_id": "ChIJ4WySFgCvNDoRYoPH9xiAf7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WySFgCvNDoRYoPH9xiAf7Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:36"
+  },
+  {
+    "business_name": "Primary health centre kodakandla",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7-116/2, Christian Colony, Kodakandla, Telangana 506222",
+    "area": "Christian Colony",
+    "latitude": 17.529272799999998,
+    "longitude": 79.51219979999999,
+    "place_id": "ChIJLYD9k_GxNDoRxI8rC0kgxa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYD9k_GxNDoRxI8rC0kgxa8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:36"
+  }
+]

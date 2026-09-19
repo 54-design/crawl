@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Gardens",
+    "search_category": "Tradeshows",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "506163",
+    "phone_number": "+91 94410 01487",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 46,
+    "address": "GHRH+VG3, Kodakandla, Telangana 506318",
+    "area": "506163",
+    "latitude": 17.5421482,
+    "longitude": 79.57879989999999,
+    "place_id": "ChIJE-U69lu7NDoRo83uTFA4ceA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-U69lu7NDoRo83uTFA4ceA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:02"
+  },
+  {
+    "business_name": "Amruth Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "506163",
+    "phone_number": "+91 93951 47751",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XJVH+34P, Beside Main Gate, New Grain Market, Grain Market, Balaji Nagar, Warangal, Telangana 506006",
+    "area": "New Grain Market, Grain Market, Balaji Nagar",
+    "latitude": 17.9927225,
+    "longitude": 79.62781489999999,
+    "place_id": "ChIJP49EtZJEMzoRhP4iK6feiAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP49EtZJEMzoRhP4iK6feiAA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:02"
+  }
+]

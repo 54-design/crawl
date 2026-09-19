@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tollgate - The Eating House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "506146",
+    "phone_number": "+91 70934 44545",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 2523,
+    "address": "Survey no. 358/B, Algunur, Telangana 505527",
+    "area": "506146",
+    "latitude": 18.3918942,
+    "longitude": 79.1437217,
+    "place_id": "ChIJu7iUuT3bzDsR5G7Xnyl_qYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7iUuT3bzDsR5G7Xnyl_qYg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:12:41"
+  },
+  {
+    "business_name": "Udipi's Upahar Manikonda",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "506146",
+    "phone_number": "+91 90591 59815",
+    "website": "https://udupirestaurant.co/",
+    "rating": 3.9,
+    "reviews_count": 3938,
+    "address": "2-3-3/2, Sri Krishna Heights, Harivillu Rd, Manikonda, Telangana 500089",
+    "area": "Shivapuri Colony, Muppas Panchavati Colony",
+    "latitude": 17.4078625,
+    "longitude": 78.3817894,
+    "place_id": "ChIJkSp1q56VyzsRb6G0-mwrhm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSp1q56VyzsRb6G0-mwrhm8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:12:41"
+  }
+]

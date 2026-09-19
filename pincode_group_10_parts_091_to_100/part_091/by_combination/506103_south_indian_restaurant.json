@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tamil Bhawan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "506103",
+    "phone_number": "+91 82338 37345",
+    "website": "https://www.thetamilbhawan.com/",
+    "rating": 4.5,
+    "reviews_count": 1114,
+    "address": "Gumanpura, Kota, Kota Municipal Area, Rajasthan 324005",
+    "area": "Gumanpura",
+    "latitude": 25.171828299999998,
+    "longitude": 75.8509986,
+    "place_id": "ChIJISI1w8KbbzkRh3pPPtrCdH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISI1w8KbbzkRh3pPPtrCdH8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:50:36"
+  },
+  {
+    "business_name": "Red chillies",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "506103",
+    "phone_number": "+91 96760 33123",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 118,
+    "address": "H2V8+22P, Mahabubabad - Yellandu Road Yellandu, road, near HP petrol Bunk, Mahabubabad, Telangana 506101",
+    "area": "506103",
+    "latitude": 17.592582099999998,
+    "longitude": 80.01507079999999,
+    "place_id": "ChIJefY55fKJNDoRqdGy-oczXQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefY55fKJNDoRqdGy-oczXQ0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:50:36"
+  }
+]

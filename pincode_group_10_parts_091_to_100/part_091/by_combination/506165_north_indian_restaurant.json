@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hostel Dinner Hall",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Gujarati restaurant",
+    "all_categories": "Gujarati restaurant",
+    "pincode": "506165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "8GF8+JFM, Punem Veerapuram (Z), Telangana 507136",
+    "area": "506165",
+    "latitude": 18.3240978,
+    "longitude": 80.5161794,
+    "place_id": "ChIJpfzHKfLGMzoReludaixN6Sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfzHKfLGMzoReludaixN6Sk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:20:15"
+  },
+  {
+    "business_name": "Md khajapasha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "506165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6GX9+8GP, Mangapet, Borenarsapur, Telangana 506172",
+    "area": "Mangapet",
+    "latitude": 18.2483286,
+    "longitude": 80.5188395,
+    "place_id": "ChIJCRj1bwDBMzoRpd-oikj40Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRj1bwDBMzoRpd-oikj40Jo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:20:15"
+  }
+]

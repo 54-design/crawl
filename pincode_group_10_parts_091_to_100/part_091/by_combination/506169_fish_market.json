@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varalakshmi Farm Fresh",
+    "search_category": "Fish Market",
+    "primary_category": "Agricultural production",
+    "all_categories": "Agricultural production, Religious goods store, Spices Wholesaler",
+    "pincode": "506169",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jangedu, Bhupalpally, Telangana 506169",
+    "area": "506169",
+    "latitude": 18.445369499999998,
+    "longitude": 79.8401915,
+    "place_id": "ChIJFalzFVQdMzoRErot_y66x6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFalzFVQdMzoRErot_y66x6s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:37"
+  },
+  {
+    "business_name": "Vinay Fish pond",
+    "search_category": "Fish Market",
+    "primary_category": "Aquaculture farm",
+    "all_categories": "Aquaculture farm",
+    "pincode": "506169",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HWMH+6H2, Sunderajpet Rd, Sundarajpeta, Kothapalle, Telangana 505503",
+    "area": "506169",
+    "latitude": 18.5830098,
+    "longitude": 79.9289046,
+    "place_id": "ChIJcc2vV0H9MjoRFNTkvySu0cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcc2vV0H9MjoRFNTkvySu0cA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:40"
+  }
+]

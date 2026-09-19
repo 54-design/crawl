@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "digital marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Service establishment",
+    "pincode": "506201",
+    "phone_number": "+91 63010 91063",
+    "website": "https://shravani.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "digital marketing, 506201, India",
+    "area": "506201",
+    "latitude": 18.3460581,
+    "longitude": 78.6325584,
+    "place_id": "ChIJD4O9s1gHEyoRtz47nD_Yisw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4O9s1gHEyoRtz47nD_Yisw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:36:36"
+  },
+  {
+    "business_name": "Growth Mythos",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Service establishment",
+    "pincode": "506201",
+    "phone_number": "+91 78277 05730",
+    "website": "https://www.growthmythos.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Growth Mythos, 506201, India",
+    "area": "506201",
+    "latitude": 28.1575438,
+    "longitude": 77.0595484,
+    "place_id": "ChIJ88f9-qy8AUoRaQfpoZXf2T0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88f9-qy8AUoRaQfpoZXf2T0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:36:38"
+  }
+]

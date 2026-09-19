@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atithi FOOD LAND",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "506166",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/atithi_foodland_amangal?utm_medium=",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "VG7H+WJF, SH 5, Amangal, Telangana 509321",
+    "area": "506166",
+    "latitude": 16.864668899999998,
+    "longitude": 78.5289863,
+    "place_id": "ChIJY7phXeFRyjsRRTOUL08WuBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7phXeFRyjsRRTOUL08WuBA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:22:06"
+  },
+  {
+    "business_name": "Vivaha Bhojanambu",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Andhra restaurant",
+    "pincode": "506166",
+    "phone_number": "+91 79997 99906",
+    "website": "http://www.vivahabhojanambu.co.in/",
+    "rating": 4.2,
+    "reviews_count": 13580,
+    "address": "Ground floor Shop # 12, Eden Square, Sangeet X roads, Regimental Bazar Main Rd, beside APOLLO HOSPITAL, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Regimental Bazaar, Shivaji Nagar",
+    "latitude": 17.4398131,
+    "longitude": 78.50498259999999,
+    "place_id": "ChIJjUUC8RCayzsRifrUICy4rNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUUC8RCayzsRifrUICy4rNc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:22:07"
+  }
+]

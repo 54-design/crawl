@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neon Hyundai Showroom & Service - Bhupalpally",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "506168",
+    "phone_number": "+91 80080 04996",
+    "website": "https://www.neonhyundai.com/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Sy.No.170, H No: 21-10-74/9, Ramaiahpally Road, Pulluri Ramaiahpally Village, Bhupalpally, Telangana 506169",
+    "area": "Pulluri Ramaiahpally Village",
+    "latitude": 18.428630899999998,
+    "longitude": 79.863023,
+    "place_id": "ChIJMTUz91obMzoRinMlG5u3qBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTUz91obMzoRinMlG5u3qBk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:19"
+  },
+  {
+    "business_name": "Bajaj Auto Credit | Select Bikes Bhupalapally | Two Wheeler Loan",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car finance and loan company",
+    "all_categories": "Car finance and loan company, Financial planner, Loan agency",
+    "pincode": "506168",
+    "phone_number": "+91 88060 08806",
+    "website": "https://www.bajajautocredit.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "17-387, Bhupalpally Main Rd, Jawahar Nagar, Bhupalpally, Telangana 506169",
+    "area": "Jawahar Nagar",
+    "latitude": 18.4276035,
+    "longitude": 79.86260759999999,
+    "place_id": "ChIJ4w5GXhIbMzoRjuAAVYTRnlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4w5GXhIbMzoRjuAAVYTRnlM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Car Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "506134",
+    "phone_number": "+91 92467 88866",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 382,
+    "address": "Shop No-4-24/1, Gangaram, Chanda Nagar, opposite Sri Hanuman Devalayam 🚩, Hyderabad, Telangana 500050",
+    "area": "Gangaram, Chanda Nagar",
+    "latitude": 17.4947306,
+    "longitude": 78.3294437,
+    "place_id": "ChIJ4Tuqd46SyzsRAiALnD12q_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Tuqd46SyzsRAiALnD12q_g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:56"
+  },
+  {
+    "business_name": "Geetha Bhavani Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "506134",
+    "phone_number": "+91 96183 32233",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 96,
+    "address": "H.No. 3-125/118, Warangal Road, opp. Bharat Petrol Pump, Shanti Nagar, Uppal, Hyderabad, Telangana 500039",
+    "area": "Shanti Nagar, Uppal",
+    "latitude": 17.4015792,
+    "longitude": 78.5740716,
+    "place_id": "ChIJrecK_M6eyzsRUXcUXFfezWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrecK_M6eyzsRUXcUXFfezWo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:56"
+  }
+]

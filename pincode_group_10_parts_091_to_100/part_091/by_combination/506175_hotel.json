@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Village Resorts",
+    "search_category": "Hotel",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "506175",
+    "phone_number": "+91 99666 87492",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Green Village Resorts, Sharajpet, Telangana 508101",
+    "area": "506175",
+    "latitude": 17.6249352,
+    "longitude": 79.1283979,
+    "place_id": "ChIJs77E46NbyzsRmPWyj-Bpvb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs77E46NbyzsRmPWyj-Bpvb4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:34:09"
+  },
+  {
+    "business_name": "Gruhaveda Nature Stay Camping",
+    "search_category": "Hotel",
+    "primary_category": "Campground",
+    "all_categories": "Campground",
+    "pincode": "506175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bondugula, Alair, Telangana 506221",
+    "area": "506175",
+    "latitude": 17.7563081,
+    "longitude": 78.9915796,
+    "place_id": "ChIJFZYiI3efzDsRtr5HlCz0gLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZYiI3efzDsRtr5HlCz0gLw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:34:09"
+  }
+]

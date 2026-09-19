@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarveshwara Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Iron & Steel Store",
+    "pincode": "506222",
+    "phone_number": "+91 96668 88592",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "MAIN ROAD VALIGONDA, X ROAD, opposite MANA GROMOR SHOP, near THORRUR, Voligonda, Bhongir, Telangana 508112",
+    "area": "506222",
+    "latitude": 17.4878666,
+    "longitude": 79.4759961,
+    "place_id": "ChIJ-9LCFDdByzsRWBQTNbqCOQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9LCFDdByzsRWBQTNbqCOQE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:24"
+  },
+  {
+    "business_name": "Abhi Paints And Iron Cement Shop",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "506222",
+    "phone_number": "+91 93461 13054",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 1-55, Main Road, Kodakandla, Telangana 506222",
+    "area": "Kodakandla",
+    "latitude": 17.5295485,
+    "longitude": 79.5024428,
+    "place_id": "ChIJMaXGw6CxNDoR1M6ltJPGzv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaXGw6CxNDoR1M6ltJPGzv0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:39:24"
+  }
+]

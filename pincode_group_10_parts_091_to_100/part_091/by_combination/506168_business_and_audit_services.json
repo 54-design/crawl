@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Audit Office",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor",
+    "pincode": "506168",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQ8H+3MH, Nacharam, Telangana 506168",
+    "area": "506168",
+    "latitude": 18.4651775,
+    "longitude": 79.77923659999999,
+    "place_id": "ChIJ_____xsfMzoR3eynrlhJxUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____xsfMzoR3eynrlhJxUg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:13"
+  },
+  {
+    "business_name": "CA Vijender Katam",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "506168",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9J6Q+3W, Pangidipalle, Telangana 506356",
+    "area": "506168",
+    "latitude": 18.360393,
+    "longitude": 79.639793,
+    "place_id": "ChIJba0WwVMlMzoREfPsehjz-00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJba0WwVMlMzoREfPsehjz-00",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:16"
+  }
+]

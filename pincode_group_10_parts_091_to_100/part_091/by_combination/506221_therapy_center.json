@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Care Physiotherapy Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506221",
+    "phone_number": "+91 99084 86882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Oppsite, SBI Bank, Cherial,, Hyderabad, Telangana 506223",
+    "area": "506221",
+    "latitude": 17.9215384,
+    "longitude": 78.9721409,
+    "place_id": "ChIJN1VVVXmXzDsRQGo7XAUc1tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1VVVXmXzDsRQGo7XAUc1tk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:45"
+  },
+  {
+    "business_name": "Bone setting",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "506221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "VVJ3+G49, Unnamed Road, Guruvannapeta, Telangana 506355",
+    "area": "506221",
+    "latitude": 17.8812955,
+    "longitude": 78.85287079999999,
+    "place_id": "ChIJg9qi0VibzDsRh9kJD39qJZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9qi0VibzDsRh9kJD39qJZw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:45"
+  }
+]

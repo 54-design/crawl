@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prashanthi nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506145",
+    "phone_number": "+91 870 242 5502",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.no16, 10-1294, Shiva Nagar, Warangal, Telangana 506002",
+    "area": "Shiva Nagar",
+    "latitude": 17.9722284,
+    "longitude": 79.6040034,
+    "place_id": "ChIJ0be6_JFFMzoRBUKLwpmqi5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0be6_JFFMzoRBUKLwpmqi5U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:04"
+  },
+  {
+    "business_name": "Kalyani Super Speciality Hospital | Best Hospital In Hanamkonda",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Women's health clinic",
+    "all_categories": "Women's health clinic",
+    "pincode": "506145",
+    "phone_number": "+91 870 257 7077",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 82,
+    "address": "2H47+PRF, Bus Stand Road, Near Asian Mall, Sai Nagar, Hanamkonda, Telangana 506001",
+    "area": "Near Asian Mall, Sai Nagar",
+    "latitude": 18.0053236,
+    "longitude": 79.5630793,
+    "place_id": "ChIJ8wfJ_4BFMzoRexX8vDN88tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wfJ_4BFMzoRexX8vDN88tg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:05"
+  }
+]

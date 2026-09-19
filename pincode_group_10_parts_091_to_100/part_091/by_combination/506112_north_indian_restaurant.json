@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MFC (Mom's Food Court) Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "506112",
+    "phone_number": "+91 63058 07500",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 1102,
+    "address": "WVGQ+Q8P, Narsampet Main Rd, beside Muncipal Office, Narsampet, Telangana 506132",
+    "area": "506112",
+    "latitude": 17.9269654,
+    "longitude": 79.88831689999999,
+    "place_id": "ChIJq_JEaJRlMzoR-xTBaeT4J1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_JEaJRlMzoR-xTBaeT4J1c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:03"
+  },
+  {
+    "business_name": "Javeed Kalyani Biryani Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fast food restaurant",
+    "pincode": "506112",
+    "phone_number": "+91 93970 42696",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 493,
+    "address": "1-8-290, NH163, Balasamudram, Hanamkonda, Telangana 506001",
+    "area": "Balasamudram",
+    "latitude": 17.9966626,
+    "longitude": 79.5506089,
+    "place_id": "ChIJYVTZsOlPMzoRlYmlW07Fn7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVTZsOlPMzoRlYmlW07Fn7w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:03"
+  }
+]

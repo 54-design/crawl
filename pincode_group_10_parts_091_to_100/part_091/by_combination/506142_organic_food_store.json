@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalaya Organic Vegetable Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "506142",
+    "phone_number": "+91 81252 69993",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "2G3W+PJH, NGO Colony Rd, Near Sumangali Function Hall , Opp. SOni Bakery, Ashoka Colony, Hanamkonda, Telangana 506001",
+    "area": "Near Sumangali Function Hall , Opp. SOni Bakery, Ashoka Colony",
+    "latitude": 18.0043164,
+    "longitude": 79.5466146,
+    "place_id": "ChIJN-VuqndPMzoR-qvCxyXienI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-VuqndPMzoR-qvCxyXienI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:05:04"
+  },
+  {
+    "business_name": "MSR Natural Farms",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farm",
+    "all_categories": "Farm, Natural goods store",
+    "pincode": "506142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "1-1-40/3, Chaitanyapuri Colony, Prashanthnagar Colony, Kazipet, Hanamkonda, Telangana 506004",
+    "area": "Chaitanyapuri Colony, Prashanthnagar Colony",
+    "latitude": 17.992421999999998,
+    "longitude": 79.5318234,
+    "place_id": "ChIJI7fXdqRPMzoRQ5gxDyqvRP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7fXdqRPMzoRQ5gxDyqvRP8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:05:05"
+  }
+]

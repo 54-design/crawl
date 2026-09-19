@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Internet & xerox shop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "506165",
+    "phone_number": "+91 98666 35126",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7HXC+V54, Veerapuram, Wadagudem G, Telangana 507136",
+    "area": "506165",
+    "latitude": 18.2996272,
+    "longitude": 80.5704682,
+    "place_id": "ChIJy3q7SwDFMzoRqKCr732CUwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3q7SwDFMzoRqKCr732CUwI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:24"
+  },
+  {
+    "business_name": "10-13 house",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "506165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10-13 uppedu Veerapuram vi Angana badi school road, Venkatapuram mandal mulugu distic Telangana state pincode code, Telangana 507133",
+    "area": "506165",
+    "latitude": 18.2905277,
+    "longitude": 80.5943542,
+    "place_id": "ChIJTcP7bwDFMzoRRdrDvkIF3Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcP7bwDFMzoRRdrDvkIF3Vs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:24"
+  }
+]

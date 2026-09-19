@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "506169",
+    "phone_number": "+91 88866 79352",
+    "website": "http://www.navata.com/",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "D.NO 5-9, CROSS ROAD, Chinthakani, Kataram, Telangana 505503",
+    "area": "506169",
+    "latitude": 18.6167595,
+    "longitude": 79.9439457,
+    "place_id": "ChIJFSRUXc79MjoRS-hqii7PD_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSRUXc79MjoRS-hqii7PD_8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:28:15"
+  },
+  {
+    "business_name": "Kataram Bus Stand",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "506169",
+    "phone_number": "N/A",
+    "website": "http://www.tsrtc.telangana.gov.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "JWFQ+XJ4, Kataram, Telangana 505503",
+    "area": "506169",
+    "latitude": 18.624885799999998,
+    "longitude": 79.93906489999999,
+    "place_id": "ChIJD-WtuS79MjoRgf6GSToaoqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-WtuS79MjoRgf6GSToaoqI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:28:17"
+  }
+]

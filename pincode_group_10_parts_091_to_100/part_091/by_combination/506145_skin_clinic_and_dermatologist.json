@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TR Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506145",
+    "phone_number": "+91 77080 07026",
+    "website": "https://trskinclinic.com/",
+    "rating": 4.2,
+    "reviews_count": 134,
+    "address": "Vijaya health centre, 175, NSK Salai Rd, next to Shell petrol bunk, Ottagapalayam, Kannika Puram, Vadapalani, Chennai, Tamil Nadu 600026",
+    "area": "Ottagapalayam, Kannika Puram, Vadapalani",
+    "latitude": 13.0478904,
+    "longitude": 80.206732,
+    "place_id": "ChIJNzAz0ZFnUjoRisAc5Vm4SB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzAz0ZFnUjoRisAc5Vm4SB4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:07"
+  },
+  {
+    "business_name": "Tolasi Dermatology",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Laser hair removal service, Venereologist",
+    "pincode": "506145",
+    "phone_number": "+91 63646 62812",
+    "website": "https://www.tolasi.com/",
+    "rating": 4.7,
+    "reviews_count": 296,
+    "address": "99/4, 17th B Main Rd, KHB Block Koramangala, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Block Koramangala, 5th Block, Koramangala",
+    "latitude": 12.9358352,
+    "longitude": 77.621217,
+    "place_id": "ChIJJ7JZNdM_rjsRdc-kvlEO2z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7JZNdM_rjsRdc-kvlEO2z4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:07"
+  }
+]

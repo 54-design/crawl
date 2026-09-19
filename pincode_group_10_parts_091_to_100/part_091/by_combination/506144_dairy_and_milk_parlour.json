@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "506144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Pipariya, Madhya Pradesh 482010",
+    "area": "506144",
+    "latitude": 23.2429126,
+    "longitude": 79.97084319999999,
+    "place_id": "ChIJn3T9y3uvgTkRO7IXNWRhxzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3T9y3uvgTkRO7IXNWRhxzc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:51"
+  },
+  {
+    "business_name": "Priya Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "506144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2H3H+VMF, Kakatiya Colony Main Rd, Raganna Darwaja, Kakatiya Colony, Hanamkonda, Telangana 506011",
+    "area": "Raganna Darwaja, Kakatiya Colony",
+    "latitude": 18.0046776,
+    "longitude": 79.5791744,
+    "place_id": "ChIJaWnLV55FMzoR7excFo78IeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWnLV55FMzoR7excFo78IeY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:52"
+  }
+]

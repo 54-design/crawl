@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avenue Automotives ️",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "506221",
+    "phone_number": "+91 72598 83241",
+    "website": "http://avenueautomitives.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11/1, NH7, 11/1, NH7, Santhosapuram, Koramangala 2nd Block, Koramangala, Bengaluru, Karnataka 560034",
+    "area": "Santhosapuram, Koramangala 2nd Block, Koramangala",
+    "latitude": 12.925308099999999,
+    "longitude": 77.6181304,
+    "place_id": "ChIJxavOV6oVrjsRAxBHvX0Cyn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxavOV6oVrjsRAxBHvX0Cyn4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:24"
+  },
+  {
+    "business_name": "Maruti Suzuki Service (Adarsha Automotive)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "506221",
+    "phone_number": "+91 77996 26633",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-jangaon",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Service Wing, H.No.339, Hyderabad Rd, Jangaon, Telangana 506167",
+    "area": "506221",
+    "latitude": 17.7030829,
+    "longitude": 79.1406908,
+    "place_id": "ChIJQY-vEq9ZyzsRRpQj1QdeXBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQY-vEq9ZyzsRRpQj1QdeXBQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:25"
+  }
+]

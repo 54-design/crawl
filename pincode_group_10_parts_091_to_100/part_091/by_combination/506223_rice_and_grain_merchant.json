@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubam Rice Shop General Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506223",
+    "phone_number": "+91 98660 57574",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 8, 5-70, Railway, Station Rd, opp. Devi Takes Road, Girmajipet, Warangal, Telangana 506002",
+    "area": "Girmajipet",
+    "latitude": 17.9751276,
+    "longitude": 79.6033483,
+    "place_id": "ChIJnVX5a4pFMzoRAhMt896SmTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVX5a4pFMzoRAhMt896SmTk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:40:29"
+  },
+  {
+    "business_name": "Sri Mallikarjuna rice traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler, Service establishment",
+    "pincode": "506223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sri Mallikarjuna rice traders, 506223, India",
+    "area": "506223",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJC0Jt2kKRyzsRJdP2d-94F9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0Jt2kKRyzsRJdP2d-94F9Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:40:30"
+  }
+]

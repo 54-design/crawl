@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE VEDA",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Water Tank Cleaners",
+    "all_categories": "Water Tank Cleaners",
+    "pincode": "506142",
+    "phone_number": "+91 90443 30099",
+    "website": "http://www.shreeveda.co.in/",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "Naimnagar, 5-11-598, Kanakadurga Colony, Vijayapal Colony, Srinagar Colony, Hanamkonda, Telangana 506001",
+    "area": "Kanakadurga Colony, Vijayapal Colony, Srinagar Colony",
+    "latitude": 18.002171999999998,
+    "longitude": 79.5395092,
+    "place_id": "ChIJc-eEmbJPMzoR4SmIc7nn6-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-eEmbJPMzoR4SmIc7nn6-Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:33"
+  },
+  {
+    "business_name": "Rita Enterprise",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial equipment supplier",
+    "all_categories": "Janitorial equipment supplier, Cleaning products supplier, Coffee machine supplier, Janitorial service, Vending machine supplier",
+    "pincode": "506142",
+    "phone_number": "+91 88796 66234",
+    "website": "https://ritaenterprise.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghatkopar Industrial Estate, B-14/B-14A, Lal Bahadur Shastri Marg, behind R City Mall, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "area": "Amrut Nagar, Ghatkopar West",
+    "latitude": 19.1018254,
+    "longitude": 72.9139328,
+    "place_id": "ChIJOZEm6oPI5zsRhnG9O3nIUmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZEm6oPI5zsRhnG9O3nIUmY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:34"
+  }
+]

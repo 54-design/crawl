@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandi_al_arab",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506104",
+    "phone_number": "+91 86885 37137",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 66,
+    "address": "opposite durga mata temple, Bheemaram, Hanamkonda, Telangana 506015",
+    "area": "Bheemaram",
+    "latitude": 18.0297201,
+    "longitude": 79.5427223,
+    "place_id": "ChIJj8EARmNPMzoRWMm1KXAjsOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8EARmNPMzoRWMm1KXAjsOY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:52:26"
+  },
+  {
+    "business_name": "Grill In The Garden",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "Naimnagar, Opposite Vagdevi Degree College, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Opposite Vagdevi Degree College, Kishanpura",
+    "latitude": 18.012539999999998,
+    "longitude": 79.55769699999999,
+    "place_id": "ChIJNTRi_ZlPMzoRvSnTSibyl10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTRi_ZlPMzoRvSnTSibyl10",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:52:26"
+  }
+]

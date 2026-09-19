@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sri vasavi clothstores",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "506105",
+    "phone_number": "+91 99897 67471",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "SH 240, Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.3854298,
+    "longitude": 79.8943754,
+    "place_id": "ChIJe-BuARXtNDoRKM5wSnKt-N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-BuARXtNDoRKM5wSnKt-N0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:55:50"
+  },
+  {
+    "business_name": "Praveen Enterprises",
+    "search_category": "Commercial Complex",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Office",
+    "pincode": "506105",
+    "phone_number": "+91 82803 33333",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Seven Hills Hospital Ln, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Kishanpura",
+    "latitude": 18.0120363,
+    "longitude": 79.5597947,
+    "place_id": "ChIJv0eBZn1PMzoRTqP8_0itNaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0eBZn1PMzoRTqP8_0itNaA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:55:51"
+  }
+]

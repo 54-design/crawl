@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen Jo Car washing shop at Venkatapuram",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "506165",
+    "phone_number": "+91 88978 20169",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kakanaka Durga, Brahmam Gari Temple St, Venkatapuram, Telangana 507136",
+    "area": "506165",
+    "latitude": 18.5100816,
+    "longitude": 80.4144646,
+    "place_id": "ChIJpUL-rfW1MzoR-IE1ckUOW0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUL-rfW1MzoR-IE1ckUOW0M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:20:40"
+  },
+  {
+    "business_name": "Wheelz and Wash Studio",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Wheel alignment service",
+    "pincode": "506165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9-318/1/1, beside Stupam, Mulugu, Telangana 506343",
+    "area": "506165",
+    "latitude": 18.190179399999998,
+    "longitude": 79.93686799999999,
+    "place_id": "ChIJlWGgKdENMzoRkUCciiHgokE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWGgKdENMzoRkUCciiHgokE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:20:40"
+  }
+]

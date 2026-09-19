@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Family Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "506244",
+    "phone_number": "+91 97017 10215",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "3-3, Eppagudem, Jangaon, Telangana 506143",
+    "area": "Eppagudem",
+    "latitude": 17.7870116,
+    "longitude": 79.3757037,
+    "place_id": "ChIJp7fbj5qrzDsRtLbMURp0dsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7fbj5qrzDsRtLbMURp0dsM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:23"
+  },
+  {
+    "business_name": "Rajanna Family Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Soup kitchen",
+    "pincode": "506244",
+    "phone_number": "+91 77024 28553",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Surey No 99 Kolkonda, Devruppala, Jangaon, Telangana 506303",
+    "area": "Devruppala",
+    "latitude": 17.653836899999998,
+    "longitude": 79.33297809999999,
+    "place_id": "ChIJAYsOAJ1TyzsRRF3qD07rozw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYsOAJ1TyzsRRF3qD07rozw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:26"
+  }
+]

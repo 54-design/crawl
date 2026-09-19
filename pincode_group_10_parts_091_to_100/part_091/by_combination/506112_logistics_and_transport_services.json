@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "506112",
+    "phone_number": "+91 92480 94455",
+    "website": "https://navata.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Nekkonda Bridge, Nekkonda, Telangana 506122",
+    "area": "506112",
+    "latitude": 17.7965023,
+    "longitude": 79.7978643,
+    "place_id": "ChIJ3zlm6adhMzoRJaS5XACgsZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zlm6adhMzoRJaS5XACgsZg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:34"
+  },
+  {
+    "business_name": "Surya Lorry Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "506112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WHQW+6MF, 1-111, Rangashaipet, Warangal, Telangana 506005",
+    "area": "Rangashaipet",
+    "latitude": 17.9380173,
+    "longitude": 79.5966373,
+    "place_id": "ChIJO41Ai7NbMzoRTdAoDGPCeQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO41Ai7NbMzoRTdAoDGPCeQQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:34"
+  }
+]

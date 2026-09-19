@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Philip's Health Care Services",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Laboratory equipment supplier, Medical supply store, Protective clothing supplier, Surgical Products Wholesaler",
+    "pincode": "506201",
+    "phone_number": "+91 94402 76098",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 567,
+    "address": "124, Near Back gate of Hotel Marriot, Hyderabad, Telangana 500080. Opp to Tea City Cafe Hotel, Ph: 9440276098, 040-27534572 Gandhinagar, SBI Colony, Bakaram, Kavadiguda, Hyderabad, Telangana 500080",
+    "area": "SBI Colony, Bakaram, Kavadiguda",
+    "latitude": 17.4209049,
+    "longitude": 78.4881624,
+    "place_id": "ChIJkQq-qPGZyzsR3ZctEQ8pEDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQq-qPGZyzsR3ZctEQ8pEDk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:26"
+  },
+  {
+    "business_name": "Erode Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "506201",
+    "phone_number": "+91 98431 72226",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "52 & 53, MLR St, near Erode Blood Bank, Kaikolar Thottam, Erode, Tamil Nadu 638001",
+    "area": "Kaikolar Thottam",
+    "latitude": 11.336207499999999,
+    "longitude": 77.7201173,
+    "place_id": "ChIJ37-f_NhvqTsRbea9tfzU0Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37-f_NhvqTsRbea9tfzU0Jw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:27"
+  }
+]

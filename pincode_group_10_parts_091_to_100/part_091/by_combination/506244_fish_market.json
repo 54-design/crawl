@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fish & chips restaurant",
+    "all_categories": "Fish & chips restaurant",
+    "pincode": "506244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Q764+7RX, Main Road, Raghunathapally, Telangana 506244",
+    "area": "506244",
+    "latitude": 17.760726599999998,
+    "longitude": 79.2571011,
+    "place_id": "ChIJsan5WQCpzDsRl96GsVib73E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsan5WQCpzDsRl96GsVib73E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:13"
+  },
+  {
+    "business_name": "Vasu Fish Hunting Store",
+    "search_category": "Fish Market",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506244",
+    "phone_number": "+91 93475 58400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 7-1, Raghunathpally, opp. Railway Station, Jangaon, Telangana 506244",
+    "area": "506244",
+    "latitude": 17.7565584,
+    "longitude": 79.2571284,
+    "place_id": "ChIJW2A-Vk6pzDsR0vhva1y4oYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2A-Vk6pzDsR0vhva1y4oYY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:13"
+  }
+]

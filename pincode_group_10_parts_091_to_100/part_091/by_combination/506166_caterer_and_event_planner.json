@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GRANDIOSE CATERERS",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Restaurant supply store",
+    "pincode": "506166",
+    "phone_number": "+91 94958 88282",
+    "website": "https://www.instagram.com/grandiosecaterers",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Vattiyoorkavu Jn.p.o, Vattiyoorkkav-Arappura Rd, Thiruvananthapuram, Keralam 695013",
+    "area": "506166",
+    "latitude": 8.523403,
+    "longitude": 76.9882047,
+    "place_id": "ChIJ74jvbR-6BTsRtvM9RrrafGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74jvbR-6BTsRtvM9RrrafGQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:04"
+  },
+  {
+    "business_name": "S N Catering Service",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Event management company, Restaurant supply store",
+    "pincode": "506166",
+    "phone_number": "+91 95660 12029",
+    "website": "https://www.instagram.com/sncateringservice/?hl=en",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Number 2, DRR St, Charles Nagar, Pattabiram, Tamil Nadu 600072",
+    "area": "Charles Nagar",
+    "latitude": 13.123097,
+    "longitude": 80.05803139999999,
+    "place_id": "ChIJL2d0jFSIUjoRvyqIXS-fw-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2d0jFSIUjoRvyqIXS-fw-M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:23:04"
+  }
+]

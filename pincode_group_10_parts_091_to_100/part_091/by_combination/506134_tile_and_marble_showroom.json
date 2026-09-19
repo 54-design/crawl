@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramanya Enterprises",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Home goods store",
+    "pincode": "506134",
+    "phone_number": "+91 96528 27940",
+    "website": "https://www.ramanyaenterprises.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4-70/26/1, Sai Nagar Colony Rd, beside Swagath Grand, Sai Nagar, Nagole, Hyderabad, Telangana 500068",
+    "area": "Sai Nagar, Nagole",
+    "latitude": 17.362709499999998,
+    "longitude": 78.5576813,
+    "place_id": "ChIJ6Ww_wsuYyzsR3cKpOSIa5WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Ww_wsuYyzsR3cKpOSIa5WM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:06"
+  },
+  {
+    "business_name": "Tile Source",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Stone supplier, Swimming pool",
+    "pincode": "506134",
+    "phone_number": "+91 99610 09625",
+    "website": "http://www.tilesourcekochi.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "34/1264 C, opposite Oberon Mall, near Anchumana Temple Road, Edappally, Kochi, Ernakulam, Keralam 682024",
+    "area": "Edappally",
+    "latitude": 10.0136886,
+    "longitude": 76.3101997,
+    "place_id": "ChIJIaOboAYNCDsRTbHQDl5mm30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaOboAYNCDsRTbHQDl5mm30",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:06"
+  }
+]

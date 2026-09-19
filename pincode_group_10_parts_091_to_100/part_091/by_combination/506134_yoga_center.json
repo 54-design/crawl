@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Girls Power Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506134",
+    "phone_number": "+91 62815 49698",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Circuit House Rd, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "area": "Nakkala Gutta",
+    "latitude": 17.999029699999998,
+    "longitude": 79.5498752,
+    "place_id": "ChIJd1v2lwtPMzoRnLBzu1Vy8tE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1v2lwtPMzoRnLBzu1Vy8tE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:52"
+  },
+  {
+    "business_name": "Sampoorna Arogya Institute of Yoga & Naturopathy",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Ayurvedic clinic, Meditation Class, Naturopathic practitioner, Pain management physician, Personal trainer, Physiotherapist, Physiotherapy Center, Yoga instructor, Yoga Retreat Center",
+    "pincode": "506134",
+    "phone_number": "+91 91825 97270",
+    "website": "http://www.saiyn.in/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "1-7-4/3, South Kamala Nagar, ECIL, Anupuram Colony, Moula Ali, Hyderabad, Secunderabad, Telangana 500062",
+    "area": "South Kamala Nagar, ECIL, Anupuram Colony, Moula Ali",
+    "latitude": 17.4745114,
+    "longitude": 78.5633062,
+    "place_id": "ChIJw8L1Nu2byzsRfklhruXRoEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8L1Nu2byzsRfklhruXRoEc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:52"
+  }
+]

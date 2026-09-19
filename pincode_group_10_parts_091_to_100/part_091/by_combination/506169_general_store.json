@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506169",
+    "phone_number": "+91 98857 32802",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jangedu, Bhupalpally, Telangana 506169",
+    "area": "506169",
+    "latitude": 18.443424,
+    "longitude": 79.8414039,
+    "place_id": "ChIJ4TARzmYdMzoRYA5ke1JOu0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TARzmYdMzoRYA5ke1JOu0I",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:37"
+  },
+  {
+    "business_name": "Nandini Books & general stores",
+    "search_category": "General Store",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "506169",
+    "phone_number": "+91 98481 77370",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "National Highway 353, Bhupalpally, Telangana 506169",
+    "area": "506169",
+    "latitude": 18.441863299999998,
+    "longitude": 79.86985419999999,
+    "place_id": "ChIJXRLTRX8cMzoRSL6a7HBws1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRLTRX8cMzoRSL6a7HBws1k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:37"
+  }
+]

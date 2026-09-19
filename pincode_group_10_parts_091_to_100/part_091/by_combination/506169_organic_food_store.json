@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Koyyuru",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "506169",
+    "phone_number": "+91 80080 02439",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No: 5, 6/1, Main Road, Koyyuru, Telangana 505503",
+    "area": "506169",
+    "latitude": 18.608815,
+    "longitude": 79.837218,
+    "place_id": "ChIJ76jwGKjjMjoRsRuKhm6b8Es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76jwGKjjMjoRsRuKhm6b8Es",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:37"
+  },
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Kataram (Garepalli)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "506169",
+    "phone_number": "+91 77022 01619",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SY No: 251/A, near Police Station, Garepalle, Nallagunta, Telangana 505503",
+    "area": "506169",
+    "latitude": 18.6195824,
+    "longitude": 79.9451757,
+    "place_id": "ChIJ11Q2RhD9MjoRK7RhGSEgGnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11Q2RhD9MjoRK7RhGSEgGnc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:27:37"
+  }
+]

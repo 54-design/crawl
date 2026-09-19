@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Project Director Housing department",
+    "search_category": "Offices",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CV62+Q94, Bhupalpally, Kompalle, Telangana 506170",
+    "area": "506170",
+    "latitude": 18.41161,
+    "longitude": 79.8510032,
+    "place_id": "ChIJNyMcNwAbMzoRpbSZKS1hZAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyMcNwAbMzoRpbSZKS1hZAk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:11"
+  },
+  {
+    "business_name": "Sub Register office",
+    "search_category": "Offices",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "9VX2+R56, Bhupalpally, Kompalle, Telangana 506170",
+    "area": "506170",
+    "latitude": 18.3997896,
+    "longitude": 79.8497931,
+    "place_id": "ChIJKcflPAAbMzoRsiIqckhiDKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcflPAAbMzoRsiIqckhiDKM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:31:12"
+  }
+]

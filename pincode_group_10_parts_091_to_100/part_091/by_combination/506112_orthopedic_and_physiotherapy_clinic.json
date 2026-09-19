@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya physiotherapy clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "506112",
+    "phone_number": "+91 90145 42776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Hno:19-9-4 & 5/b,Kankamma Complex, opp. urban PHC, Shambunipet, Warangal, Telangana 506005",
+    "area": "Shambunipet",
+    "latitude": 17.947973599999997,
+    "longitude": 79.5986008,
+    "place_id": "ChIJGXNOUuFbMzoRvjuuIPhkwmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXNOUuFbMzoRvjuuIPhkwmU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:22"
+  },
+  {
+    "business_name": "ORTHO RELIEF PHYSIOTHERAPY CLINIC",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "506112",
+    "phone_number": "+91 72068 62927",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagat Singh Nagar, Dera Bassi, Punjab 140507",
+    "area": "Bhagat Singh Nagar",
+    "latitude": 30.586926899999998,
+    "longitude": 76.8564444,
+    "place_id": "ChIJ1fkCZ9m_DzkRAWCY1NSO0Qc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fkCZ9m_DzkRAWCY1NSO0Qc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:25"
+  }
+]

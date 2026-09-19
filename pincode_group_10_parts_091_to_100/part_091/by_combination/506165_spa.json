@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa senter",
+    "search_category": "Spa",
+    "primary_category": "Personal trainer",
+    "all_categories": "Personal trainer",
+    "pincode": "506165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gp Building, Eturnagaram, Ramannagudem, Telangana 506165",
+    "area": "506165",
+    "latitude": 18.3226163,
+    "longitude": 80.4539906,
+    "place_id": "ChIJYwS6XAC5MzoRsjUxdu_SLuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwS6XAC5MzoRsjUxdu_SLuA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:01"
+  },
+  {
+    "business_name": "Lakshmi Prasanna",
+    "search_category": "Spa",
+    "primary_category": "Facial spa",
+    "all_categories": "Facial spa",
+    "pincode": "506165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8CQH+4WQ, Eturnagaram, Telangana 506165",
+    "area": "506165",
+    "latitude": 18.3378265,
+    "longitude": 80.4298553,
+    "place_id": "ChIJtaEAb3m5MzoRFHnrqiqzNdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaEAb3m5MzoRFHnrqiqzNdM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:21:01"
+  }
+]

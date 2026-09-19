@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RJ CONSULTANCY SERVICES",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Payroll Service Provider",
+    "all_categories": "Payroll Service Provider",
+    "pincode": "506143",
+    "phone_number": "+91 94404 00069",
+    "website": "http://rjconsultancyservice.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Road No. 4, Bhuswvingar, Alwal, Hyderabad, Secunderabad, Telangana 500010",
+    "area": "Bhuswvingar, Alwal",
+    "latitude": 17.5115064,
+    "longitude": 78.4961481,
+    "place_id": "ChIJGQcAPSmbyzsRBxQolg6SxYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQcAPSmbyzsRBxQolg6SxYQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:27"
+  },
+  {
+    "business_name": "Vakilkaro",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Corporate office",
+    "pincode": "506143",
+    "phone_number": "+91 72298 02445",
+    "website": "https://vakilkaro.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mukhya Nagar, near Geetanjali Towers Geetanjali Tower, Madrampur, Civil Lines, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Madrampur, Civil Lines",
+    "latitude": 26.907672299999998,
+    "longitude": 75.77933709999999,
+    "place_id": "ChIJ04txbky1bTkRo0-qp_MU2lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04txbky1bTkRo0-qp_MU2lY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:27"
+  }
+]

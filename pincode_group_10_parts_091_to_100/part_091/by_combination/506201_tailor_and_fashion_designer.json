@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "506201",
+    "phone_number": "+91 81060 66276",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kranthi nagar, Gundlagudem, Alair, Telangana 508101",
+    "area": "Kranthi nagar",
+    "latitude": 17.643373699999998,
+    "longitude": 79.0441768,
+    "place_id": "ChIJV_Xlp09dyzsRaHVULe77-_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_Xlp09dyzsRaHVULe77-_M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:12"
+  },
+  {
+    "business_name": "Bombay Tailors & Drapers",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Designer Clothing Store",
+    "pincode": "506201",
+    "phone_number": "+91 11 4905 6167",
+    "website": "https://www.instagram.com/bombaytailorsdrapers?igsh=MWplMWxrd3V2YWN4dw==",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "8/4, Moti Nagar Rd, Block 8, Moti Nagar, New Delhi, Delhi, 110015",
+    "area": "Block 8, Moti Nagar",
+    "latitude": 28.6590578,
+    "longitude": 77.1402385,
+    "place_id": "ChIJAQAAwAcDDTkRAfjRuBxNido",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwAcDDTkRAfjRuBxNido",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:13"
+  }
+]

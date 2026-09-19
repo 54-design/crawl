@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandini Fashion Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "506224",
+    "phone_number": "+91 98660 55742",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "# 20-99, Opp; Old Bus Stand, Main Road, Cherial, Hyderabad, Telangana 506223",
+    "area": "506224",
+    "latitude": 17.9243654,
+    "longitude": 78.96850529999999,
+    "place_id": "ChIJBXe6JXyXzDsRHSXA7cAr1NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXe6JXyXzDsRHSXA7cAr1NU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:43:25"
+  },
+  {
+    "business_name": "laxmisri digitals",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer, Service establishment",
+    "pincode": "506224",
+    "phone_number": "N/A",
+    "website": "https://www.laxmisridigitals.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "laxmisri digitals, 506224, India",
+    "area": "506224",
+    "latitude": 16.270409,
+    "longitude": 80.7610164,
+    "place_id": "ChIJ0_oQTk1vC08RAIQo9roVsV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_oQTk1vC08RAIQo9roVsV0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:43:25"
+  }
+]

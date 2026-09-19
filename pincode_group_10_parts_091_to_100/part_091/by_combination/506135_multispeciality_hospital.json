@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Uday Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506135",
+    "phone_number": "+91 63019 63898",
+    "website": "https://www.sriudayhospital.com/",
+    "rating": 3.8,
+    "reviews_count": 53,
+    "address": "opposite to Vegetables Market, Balasamudram, Hanamkonda, Telangana 506001",
+    "area": "Balasamudram",
+    "latitude": 18.0052901,
+    "longitude": 79.55863289999999,
+    "place_id": "ChIJt201XLdPMzoRRT87auL75V4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt201XLdPMzoRRT87auL75V4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:03:33"
+  },
+  {
+    "business_name": "Sri Lalitha Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "506135",
+    "phone_number": "+91 91333 66898",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 71,
+    "address": "Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "area": "Kakaji Colony, Kakaji Nagar Colony",
+    "latitude": 18.0051411,
+    "longitude": 79.5675842,
+    "place_id": "ChIJtdtgSYJFMzoRixQeDmKW5wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdtgSYJFMzoRixQeDmKW5wc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:03:33"
+  }
+]

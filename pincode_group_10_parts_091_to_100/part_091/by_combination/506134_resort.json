@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Valley Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Amusement park, Banquet hall, Event venue, Water park, Wedding venue",
+    "pincode": "506134",
+    "phone_number": "+91 96662 09209",
+    "website": "https://dreamvalleyresorts.com/",
+    "rating": 4.1,
+    "reviews_count": 17886,
+    "address": "Survey No. 78/8, X Roads, Before, Chilkur, Nazeebnagar, Telangana 501504",
+    "area": "Before",
+    "latitude": 17.3075707,
+    "longitude": 78.3075763,
+    "place_id": "ChIJaxLKDu6_yzsRid6UDXYdlXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxLKDu6_yzsRid6UDXYdlXY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:24"
+  },
+  {
+    "business_name": "Aalankrita Resort And Convention",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Buffet restaurant, Convention center, Recreation center",
+    "pincode": "506134",
+    "phone_number": "+91 92402 39999",
+    "website": "http://aalankrita.com/",
+    "rating": 4.3,
+    "reviews_count": 22537,
+    "address": "Thumkunta Village, Shamirpet, Secunderabad, Telangana 500078",
+    "area": "Thumkunta Village, Shamirpet",
+    "latitude": 17.5724056,
+    "longitude": 78.5571104,
+    "place_id": "ChIJOVsgfn2EyzsRlW73w__Gdxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVsgfn2EyzsRlW73w__Gdxo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:02:24"
+  }
+]

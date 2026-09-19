@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dodla Dairy Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "506134",
+    "phone_number": "+91 90106 87440",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 2-45, NGO Colony Rd, near Bhavani Matha Temple, Hanamkonda, Telangana 506001",
+    "area": "506134",
+    "latitude": 18.0041139,
+    "longitude": 79.5444723,
+    "place_id": "ChIJ37GMK_FPMzoR-9o-5_lEy6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37GMK_FPMzoR-9o-5_lEy6o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:20"
+  },
+  {
+    "business_name": "Priya Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "506134",
+    "phone_number": "+91 99086 12119",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "F44C+55P, Arepally Rd, opp. Farmers Cart, Bank Colony, Karimnagar, Telangana 505001",
+    "area": "Bank Colony",
+    "latitude": 18.455465,
+    "longitude": 79.1204485,
+    "place_id": "ChIJ8UknbNDYzDsRroQXbxyzfn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UknbNDYzDsRroQXbxyzfn8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:01:21"
+  }
+]

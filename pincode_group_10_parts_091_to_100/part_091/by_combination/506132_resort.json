@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Errabelli resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "506132",
+    "phone_number": "+91 76600 53377",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "3-5, main road, Kapula Kanapathy, Telangana 506005",
+    "area": "506132",
+    "latitude": 17.897890699999998,
+    "longitude": 79.64407109999999,
+    "place_id": "ChIJkdoBB3VbMzoRQlqA0JxdCtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdoBB3VbMzoRQlqA0JxdCtQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:00:36"
+  },
+  {
+    "business_name": "HARITHA Hotel PAKHAL",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "506132",
+    "phone_number": "N/A",
+    "website": "https://tourism.telangana.gov.in/",
+    "rating": 3.8,
+    "reviews_count": 112,
+    "address": "WXXJ+67P, PAKHAL, Gundam, Telangana 506135",
+    "area": "506132",
+    "latitude": 17.9480999,
+    "longitude": 79.9806991,
+    "place_id": "ChIJxd0BXkJ7MzoR8N9tYS4jAJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxd0BXkJ7MzoR8N9tYS4jAJ4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:00:37"
+  }
+]

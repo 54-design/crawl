@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pasha chicken shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "506143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "VGP4+V9W, Venkatapuram, Telangana 506003",
+    "area": "506143",
+    "latitude": 17.8872259,
+    "longitude": 79.5059526,
+    "place_id": "ChIJu5uNkRlRMzoRQz0o2GBCNKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5uNkRlRMzoRQz0o2GBCNKQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:58"
+  },
+  {
+    "business_name": "Tawakkal chicken center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "506143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "XJQ2+F75, Pochamma Maidan, Vasavi Colony, Kothawada, Warangal, Telangana 506002",
+    "area": "Pochamma Maidan, Vasavi Colony, Kothawada",
+    "latitude": 17.9886478,
+    "longitude": 79.6007248,
+    "place_id": "ChIJ8y8DaABFMzoRhrr7k4LpISk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y8DaABFMzoRhrr7k4LpISk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:59"
+  }
+]

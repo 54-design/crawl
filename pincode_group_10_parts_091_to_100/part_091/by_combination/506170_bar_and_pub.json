@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paatha Manduva",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9R73+3WH, Unnamed Road, Gudadupalle, Telangana 506170",
+    "area": "506170",
+    "latitude": 18.3626924,
+    "longitude": 79.8048535,
+    "place_id": "ChIJ1wBjAlEZMzoRNYnHL2BIqUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wBjAlEZMzoRNYnHL2BIqUc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:35"
+  },
+  {
+    "business_name": "Ashok hotel kothapet",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "506170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "9Q73+WMG, Kothapet, Telangana 506170",
+    "area": "506170",
+    "latitude": 18.3648027,
+    "longitude": 79.7541969,
+    "place_id": "ChIJ8Se_Bo8ZMzoRwYnH8IsImCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Se_Bo8ZMzoRwYnH8IsImCQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:29:36"
+  }
+]

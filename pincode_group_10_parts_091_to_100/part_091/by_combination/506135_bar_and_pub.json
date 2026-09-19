@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GSP Bar and cool drinks",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "506135",
+    "phone_number": "+91 88854 68910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PH88+9W9, Thirmalayapally main road, Thirmalapalle, Telangana 506314",
+    "area": "506135",
+    "latitude": 17.715990299999998,
+    "longitude": 79.5673656,
+    "place_id": "ChIJLUQbDACnNDoRE0_IMKenNaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUQbDACnNDoRE0_IMKenNaA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:03:21"
+  },
+  {
+    "business_name": "Maharshi Bar And Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Indian restaurant",
+    "pincode": "506135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 180,
+    "address": "WFM5+6R5, Hyderabad - Warangal Hwy, Telangana 506142",
+    "area": "506135",
+    "latitude": 17.9330134,
+    "longitude": 79.4596001,
+    "place_id": "ChIJ0QUDBRpSMzoRYrKSVyX5zog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QUDBRpSMzoRYrKSVyX5zog",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:03:23"
+  }
+]

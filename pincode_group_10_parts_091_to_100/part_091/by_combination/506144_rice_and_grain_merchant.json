@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Kuberan Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler, Wholesale grocer",
+    "pincode": "506144",
+    "phone_number": "+91 89515 55272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "19th Cross, Rashtra Pati Rd, Nanjanagudu, Karnataka 571301",
+    "area": "506144",
+    "latitude": 12.1198341,
+    "longitude": 76.6766499,
+    "place_id": "ChIJ8VIgVZZprzsRBr-GltNfzJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VIgVZZprzsRBr-GltNfzJU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:53"
+  },
+  {
+    "business_name": "PRINCE RICE DEPOT",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "506144",
+    "phone_number": "+91 97054 06465",
+    "website": "https://prince-rice-depot.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no-9, Model Towers, Bapuji Nagar, Bowenpally, Secunderabad, Telangana 500011",
+    "area": "Bapuji Nagar, Bowenpally",
+    "latitude": 17.4663576,
+    "longitude": 78.4829642,
+    "place_id": "ChIJ-Y38V5CbyzsRSr4fMGsvgK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Y38V5CbyzsRSr4fMGsvgK8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:54"
+  }
+]

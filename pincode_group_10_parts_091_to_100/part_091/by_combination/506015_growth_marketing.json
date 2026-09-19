@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yourneeds.in",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "506015",
+    "phone_number": "+91 92471 80697",
+    "website": "https://yourneeds.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-11-451, Gopalpur Rd, beside CTC Play School, Nayeem Nagar, Gopalapuram, Hanamkonda, Telangana 506009",
+    "area": "Nayeem Nagar, Gopalapuram",
+    "latitude": 18.0200078,
+    "longitude": 79.5422553,
+    "place_id": "ChIJyYj0CftPMzoR8ndzy9sQi2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYj0CftPMzoR8ndzy9sQi2s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:46:34"
+  },
+  {
+    "business_name": "TOP Marketing Solutions",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "506015",
+    "phone_number": "+91 77027 56707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "77-78, Phase 3, Kamalapuri Colony, Banjara Hills, Hyderabad, Telangana 500045",
+    "area": "Phase 3, Kamalapuri Colony, Banjara Hills",
+    "latitude": 17.428893,
+    "longitude": 78.4302866,
+    "place_id": "ChIJiUTU3JkepGERU8uNZdxoF9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUTU3JkepGERU8uNZdxoF9U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:46:35"
+  }
+]

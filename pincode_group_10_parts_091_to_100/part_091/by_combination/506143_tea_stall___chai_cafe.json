@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Duniya",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506143",
+    "phone_number": "+91 79814 32548",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bus stand, Govardhanagiri, Telangana 506301",
+    "area": "506143",
+    "latitude": 17.793324,
+    "longitude": 79.31193139999999,
+    "place_id": "ChIJp4M9bACrzDsRB3O3xFHkQ9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4M9bACrzDsRB3O3xFHkQ9M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:07:02"
+  },
+  {
+    "business_name": "Suchi Tiffins",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506143",
+    "phone_number": "+91 80080 50777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 248,
+    "address": "1, beside Kandala Dhaba, Kazipet, Telangana 506003",
+    "area": "Madikonda",
+    "latitude": 17.9679419,
+    "longitude": 79.4924465,
+    "place_id": "ChIJ2XI1HxZOMzoR9ZT82eR8nsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XI1HxZOMzoR9ZT82eR8nsY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:07:06"
+  }
+]

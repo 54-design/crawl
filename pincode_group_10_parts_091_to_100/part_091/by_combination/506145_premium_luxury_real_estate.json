@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Home Abhra",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "506145",
+    "phone_number": "N/A",
+    "website": "http://myhomeconstructions.com/",
+    "rating": 4.4,
+    "reviews_count": 990,
+    "address": "Inorbit Mall, Road, Mindspace Madhapur Rd, Silpa Gram Craft Village, HITEC City, Hyderabad, Telangana 500032",
+    "area": "Silpa Gram Craft Village, HITEC City",
+    "latitude": 17.4333431,
+    "longitude": 78.3836017,
+    "place_id": "ChIJXXV7Uf2TyzsR_ZQI74kkfIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXV7Uf2TyzsR_ZQI74kkfIk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:12:11"
+  },
+  {
+    "business_name": "SOBHA Nesara",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex, Apartment building, Condominium complex",
+    "pincode": "506145",
+    "phone_number": "+91 80 4646 4500",
+    "website": "https://www.sobha.com/pune/sobha-nesara/",
+    "rating": 4.3,
+    "reviews_count": 104,
+    "address": "Right Bhusari Colony, Kothrud, Pune, Maharashtra 411023",
+    "area": "Right Bhusari Colony, Kothrud",
+    "latitude": 18.5063296,
+    "longitude": 73.7858265,
+    "place_id": "ChIJqzauOAO_wjsRTmqy8xUj5LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzauOAO_wjsRTmqy8xUj5LM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:12:11"
+  }
+]

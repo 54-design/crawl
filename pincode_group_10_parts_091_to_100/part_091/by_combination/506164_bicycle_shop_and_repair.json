@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh Bike Point",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "506164",
+    "phone_number": "+91 99595 04878",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-51, Parkal, Telangana 506164",
+    "area": "506164",
+    "latitude": 18.1988712,
+    "longitude": 79.7032065,
+    "place_id": "ChIJqYARMfo_MzoR6jYyJ5VpJg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYARMfo_MzoR6jYyJ5VpJg8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:52"
+  },
+  {
+    "business_name": "Gayathri automobiles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "506164",
+    "phone_number": "+91 94402 20225",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "5PV4+VHH, Parkal, Telangana 506164",
+    "area": "506164",
+    "latitude": 18.1946813,
+    "longitude": 79.70648229999999,
+    "place_id": "ChIJrWlmgLI_MzoR6c_MwaCra84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWlmgLI_MzoR6c_MwaCra84",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:18:52"
+  }
+]

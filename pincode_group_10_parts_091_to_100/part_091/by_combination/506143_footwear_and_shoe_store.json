@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 SHOE MART",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506143",
+    "phone_number": "+91 94907 86334",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 1, 23, Rural, Zaffergadh, Telangana 506316",
+    "area": "506143",
+    "latitude": 17.7686645,
+    "longitude": 79.4860449,
+    "place_id": "ChIJXRh7WblXMzoRmLioxly8AHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRh7WblXMzoRmLioxly8AHA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:07:14"
+  },
+  {
+    "business_name": "LAXMI Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506143",
+    "phone_number": "+91 86603 25937",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sation Ghanpur, 1-2, Sation, Ghanpur, Telangana 506143",
+    "area": "506143",
+    "latitude": 17.8513323,
+    "longitude": 79.3848953,
+    "place_id": "ChIJuwsJ7ZOtzDsRyHymeZTbQyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwsJ7ZOtzDsRyHymeZTbQyE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:07:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Team IN Filings",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business management consultant, Certified public accountant, Payroll Service Provider, Tax consultant, Tax preparation",
+    "pincode": "506143",
+    "phone_number": "+91 78922 56853",
+    "website": "https://teamindia.co.in/",
+    "rating": 5,
+    "reviews_count": 172,
+    "address": "2nd floor, 17/2, Kodigehalli Main Rd, near Chairman club, opp. to SRPC staff quarters, Sahakar Nagar, Sanjeevini Nagar, Bengaluru, Karnataka 560092",
+    "area": "Sahakar Nagar, Sanjeevini Nagar",
+    "latitude": 13.057974399999999,
+    "longitude": 77.5869537,
+    "place_id": "ChIJV-Cn-SQYrjsRmR1GHD8Qmc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-Cn-SQYrjsRmR1GHD8Qmc8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:29"
+  },
+  {
+    "business_name": "Finaccy Business Solutions LLP",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Accounting firm, Auditor, Service establishment, Website designer",
+    "pincode": "506143",
+    "phone_number": "+91 98737 48407",
+    "website": "http://finaccyindia.in/",
+    "rating": 5,
+    "reviews_count": 75,
+    "address": "Finaccy Business Solutions LLP, 506143, India",
+    "area": "506143",
+    "latitude": 24.0588239,
+    "longitude": 82.0977722,
+    "place_id": "ChIJA65EUKB0pKcRg7GfWbfpFDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA65EUKB0pKcRg7GfWbfpFDU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:08:29"
+  }
+]

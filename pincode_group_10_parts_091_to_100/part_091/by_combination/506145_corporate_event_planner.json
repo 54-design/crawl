@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event Creators",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner",
+    "pincode": "506145",
+    "phone_number": "+91 94494 40226",
+    "website": "http://www.eventcreators.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2, 39th cross, 16th A Main Rd, 4th T Block East, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "4th T Block East, Jayanagar",
+    "latitude": 12.9205686,
+    "longitude": 77.5884935,
+    "place_id": "ChIJM5LUE6AVrjsRapw0WQPH32I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5LUE6AVrjsRapw0WQPH32I",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:50"
+  },
+  {
+    "business_name": "Call4Party - Event & Party Organizer",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "506145",
+    "phone_number": "N/A",
+    "website": "https://call4party.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Call4Party - Event & Party Organizer, 506145, India",
+    "area": "506145",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJLx_xAsjlDDkRQMcBbUfQA94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx_xAsjlDDkRQMcBbUfQA94",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:11:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Champions Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506168",
+    "phone_number": "+91 87001 58852",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H.No 6, 85/8, Hitech Colony, beside Sangamitra Degree and P.G Collge, near MRO Office, Jawahar Nagar, Subash Colony, Bhupalpally, Telangana 506169",
+    "area": "Jawahar Nagar, Subash Colony",
+    "latitude": 18.4365789,
+    "longitude": 79.8687933,
+    "place_id": "ChIJKeM_fUEbMzoR3Fh1nUO3Q6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeM_fUEbMzoR3Fh1nUO3Q6w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:15"
+  },
+  {
+    "business_name": "Hanuman Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506168",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Reddy Colony, Subash Colony, Bhupalpally, Telangana 506169",
+    "area": "Reddy Colony, Subash Colony",
+    "latitude": 18.4407236,
+    "longitude": 79.8662901,
+    "place_id": "ChIJ7yRRgHgcMzoRAV3YLzn57GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yRRgHgcMzoRAV3YLzn57GA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:15"
+  }
+]

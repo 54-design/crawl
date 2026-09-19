@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fishermen Catch",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Fishery, Fish processing, Fish store, Fresh food market, Prawn fishing, Seafood farm, Seafood wholesaler",
+    "pincode": "506201",
+    "phone_number": "+91 99665 49996",
+    "website": "https://www.fishermencatch.com/",
+    "rating": 4.7,
+    "reviews_count": 308,
+    "address": "Caterpillar Rd, Narsingi, Hyderabad, Telangana 500089",
+    "area": "Narsingi",
+    "latitude": 17.3878301,
+    "longitude": 78.3607081,
+    "place_id": "ChIJd-6bBxuVyzsR1vTpyBGQGQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-6bBxuVyzsR1vTpyBGQGQQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:00"
+  },
+  {
+    "business_name": "Hyderabad Fisheries",
+    "search_category": "Fish Market",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Fishery",
+    "pincode": "506201",
+    "phone_number": "+91 81795 17011",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Vivekananda Nagar, Shivarampally Jagir, Telangana 500052",
+    "area": "Vivekananda Nagar",
+    "latitude": 17.333573899999998,
+    "longitude": 78.426952,
+    "place_id": "ChIJL7peD6iXyzsRl_ij5KI4PQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7peD6iXyzsRl_ij5KI4PQU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:35:00"
+  }
+]

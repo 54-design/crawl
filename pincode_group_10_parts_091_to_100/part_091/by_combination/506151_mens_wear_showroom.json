@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Rama Men's Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "506151",
+    "phone_number": "+91 97907 32736",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri Rama Mens Wear, Main Road, Warangal, Dharmasagar, Telangana 506142",
+    "area": "506151",
+    "latitude": 17.9929752,
+    "longitude": 79.4411697,
+    "place_id": "ChIJaxBwjtZNMzoRACvPguiugCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxBwjtZNMzoRACvPguiugCo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:39"
+  },
+  {
+    "business_name": "WASIL TRADERS WHOLESALE",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "506151",
+    "phone_number": "+91 76739 72040",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/96, Papaiahpet, Chaman, Shairpura, Sherpura, Warangal, Telangana 506002",
+    "area": "Papaiahpet, Chaman, Shairpura, Sherpura",
+    "latitude": 17.9831653,
+    "longitude": 79.5954204,
+    "place_id": "ChIJMSNv6j9FMzoR2zMX7peagjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSNv6j9FMzoR2zMX7peagjk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:41"
+  }
+]

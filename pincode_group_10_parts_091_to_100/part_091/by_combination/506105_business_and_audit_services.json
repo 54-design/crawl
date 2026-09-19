@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thrive Business Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Service establishment",
+    "pincode": "506105",
+    "phone_number": "N/A",
+    "website": "http://thrivebusinessservices.net/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Thrive Business Services, 506105, India",
+    "area": "506105",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJW-PVkVFV2YARJDRefkyp3Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-PVkVFV2YARJDRefkyp3Pw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:55:33"
+  },
+  {
+    "business_name": "BBAS | Bookkeeping & Accounting",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Accountant, Accounting firm, Business administration service, Service establishment, Payroll Service Provider, Superannuation consultant",
+    "pincode": "506105",
+    "phone_number": "N/A",
+    "website": "https://bbasbooks.com.au/contact-us/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "BBAS | Bookkeeping & Accounting, 506105, India",
+    "area": "506105",
+    "latitude": -36.569921199999996,
+    "longitude": 145.4691789,
+    "place_id": "ChIJ9a5mi-VE0WoRYXwglPaRdyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a5mi-VE0WoRYXwglPaRdyw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:55:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BN FOREX AND TRAVEL SERVICES",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Travel agency, Travel services",
+    "pincode": "506170",
+    "phone_number": "+91 90419 99288",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Booth No. 88, Phase 3B2, Phase 3B-2, Sector 60, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 3B2, Phase 3B-2, Sector 60",
+    "latitude": 30.709639,
+    "longitude": 76.72146599999999,
+    "place_id": "ChIJp-1LGYbuDzkRoqIjNeDCEdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-1LGYbuDzkRoqIjNeDCEdQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:30:47"
+  },
+  {
+    "business_name": "Raj Money Transfer",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Service establishment",
+    "pincode": "506170",
+    "phone_number": "+91 88268 08283",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Raj Money Transfer, 506170, India",
+    "area": "506170",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJPcEzkVviDDkR1diOaZ9xlXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcEzkVviDDkR1diOaZ9xlXU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:30:47"
+  }
+]

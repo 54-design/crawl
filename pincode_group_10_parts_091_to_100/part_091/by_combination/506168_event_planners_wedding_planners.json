@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Rama Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "506168",
+    "phone_number": "+91 89786 46398",
+    "website": "https://sree-rama-events.vercel.app/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Rajeev Nagar Rd, Bhupalpally, Telangana 506169",
+    "area": "506168",
+    "latitude": 18.439942,
+    "longitude": 79.8701612,
+    "place_id": "ChIJUVjcq9kbMzoRvYbH9k0QsWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVjcq9kbMzoRvYbH9k0QsWA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:44"
+  },
+  {
+    "business_name": "Sri Laxmi Sai Gardens",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "506168",
+    "phone_number": "+91 98485 13553",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Parkal road, Mogula Pally, Telangana 506366",
+    "area": "506168",
+    "latitude": 18.3036581,
+    "longitude": 79.6448972,
+    "place_id": "ChIJk3WTQZI7MzoRS4MaO2-DsSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3WTQZI7MzoRS4MaO2-DsSY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:26:46"
+  }
+]

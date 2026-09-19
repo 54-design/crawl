@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitanyasri Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "506163",
+    "phone_number": "+91 81869 92303",
+    "website": "http://chaitanyasrinursinghome.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "O City Main Rd, Kashibugga, Prathap Nagar, Warangal, Telangana 506002",
+    "area": "Kashibugga, Prathap Nagar",
+    "latitude": 17.981201199999997,
+    "longitude": 79.6093056,
+    "place_id": "ChIJCT4WWVpFMzoR298FMh4X8H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCT4WWVpFMzoR298FMh4X8H8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:16:45"
+  },
+  {
+    "business_name": "Eminence Home Health Care Warangal",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "506163",
+    "phone_number": "+91 90100 35559",
+    "website": "https://eminencehomecare.com/home-care-services-in-warangal/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mulugu Rd, Vidya Nagar, Warangal, Telangana 506006",
+    "area": "Vidya Nagar",
+    "latitude": 18.0054573,
+    "longitude": 79.596105,
+    "place_id": "ChIJ-3jjA2NFMzoR-7uBF-OnMgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3jjA2NFMzoR-7uBF-OnMgA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:16:48"
+  }
+]

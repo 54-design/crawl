@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sangeetha jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "506221",
+    "phone_number": "+91 93476 27418",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Netaji road, Cherial, Telangana 506223",
+    "area": "506221",
+    "latitude": 17.9200375,
+    "longitude": 78.973367,
+    "place_id": "ChIJMfGHTgCZzDsRK6cLKGvkCUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfGHTgCZzDsRK6cLKGvkCUU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:01"
+  },
+  {
+    "business_name": "kubera silver",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "506221",
+    "phone_number": "+91 96666 55898",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "D-NO:39-7, ANJANEYA 10, 2, ANJANEYA Pantulu Street, beside B.N.R GOLD AND DIAMONDS, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.5016565,
+    "longitude": 80.6411699,
+    "place_id": "ChIJ35ktil_7NToRrFK1dYbHASg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35ktil_7NToRrFK1dYbHASg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:37:03"
+  }
+]

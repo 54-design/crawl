@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teja Eye Clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "506112",
+    "phone_number": "+91 99085 67839",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "6-2-58, Lane No.2, near, Vijaya Theater Road, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "area": "Kakaji Colony, Kakaji Nagar Colony",
+    "latitude": 18.0042317,
+    "longitude": 79.568702,
+    "place_id": "ChIJ77fu-X5PMzoRpGgjxhint6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77fu-X5PMzoRpGgjxhint6U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:19"
+  },
+  {
+    "business_name": "Aravind Eye Clinic - Tirumangalam",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506112",
+    "phone_number": "+91 4549 450 502",
+    "website": "http://www.aravind.org/",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Tirumangalam, Tamil Nadu 625706",
+    "area": "506112",
+    "latitude": 9.8275083,
+    "longitude": 77.9891947,
+    "place_id": "ChIJIcCI9E7SADsRttB3eE34f_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcCI9E7SADsRttB3eE34f_Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:56:22"
+  }
+]

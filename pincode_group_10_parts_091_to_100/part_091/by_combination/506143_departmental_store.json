@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Kirana & General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506143",
+    "phone_number": "+91 98667 62118",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "1-205, Station Ghanpur Road, Warangal District, Zaffergadh, Telangana 506316",
+    "area": "506143",
+    "latitude": 17.7669569,
+    "longitude": 79.48583099999999,
+    "place_id": "ChIJab0ItR1WMzoR6MB2XaN2-Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJab0ItR1WMzoR6MB2XaN2-Jo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:54"
+  },
+  {
+    "business_name": "Mahadev Kiranam & General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V92H+MJ5, Uppugal - Ghanpur Rd, Ghanpur, Telangana 506143",
+    "area": "506143",
+    "latitude": 17.8516337,
+    "longitude": 79.3791159,
+    "place_id": "ChIJi_eJXlWrzDsRIEoFnJqf10k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_eJXlWrzDsRIEoFnJqf10k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:54"
+  }
+]

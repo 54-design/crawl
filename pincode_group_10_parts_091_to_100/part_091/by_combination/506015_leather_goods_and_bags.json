@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azra Leathers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "506015",
+    "phone_number": "+91 89786 03263",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Shutter No.2, Sign Board, 15-3-105, Main Road, opp. Govt. Multi Speciality Hospital, beside Mahila Police Station, Rangampet, Warangal, Telangana 506007",
+    "area": "Rangampet",
+    "latitude": 17.9956814,
+    "longitude": 79.5902002,
+    "place_id": "ChIJm5pR8g5FMzoRc98LLP7gul8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5pR8g5FMzoRc98LLP7gul8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:45:05"
+  },
+  {
+    "business_name": "Woodland",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Clothing Accessories Store, Sporting goods store",
+    "pincode": "506015",
+    "phone_number": "+91 870 244 8889",
+    "website": "https://shop.woodlandworldwide.com/woodland-shoe-store-chowrasta-warangal-531985/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Rd, Chowrasta, Raganna Darwaja, New Raipura, Raipura, Hanamkonda, Telangana 506011",
+    "area": "Chowrasta, Raganna Darwaja, New Raipura, Raipura",
+    "latitude": 18.0055005,
+    "longitude": 79.5729996,
+    "place_id": "ChIJgXZYH51FMzoRnkvNprXhRnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXZYH51FMzoRnkvNprXhRnQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 08:45:06"
+  }
+]

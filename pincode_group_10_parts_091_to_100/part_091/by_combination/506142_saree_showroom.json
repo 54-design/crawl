@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meenakshi sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "506142",
+    "phone_number": "+91 80742 94139",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2, Excise Colony Main Rd, Pragathi Nagar, Excise Colony, Hanamkonda, Telangana 506001",
+    "area": "Pragathi Nagar, Excise Colony",
+    "latitude": 18.000548,
+    "longitude": 79.53924219999999,
+    "place_id": "ChIJwzU80j1PMzoRiJBT1nwk1Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzU80j1PMzoRiJBT1nwk1Yw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:05:17"
+  },
+  {
+    "business_name": "Srikar Sarees & Matching Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Fabric store, Women's clothing store",
+    "pincode": "506142",
+    "phone_number": "+91 97005 53484",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "2-7, 155/1, Bhavani Nagar Road, Excise Colony, Hanamkonda, Telangana 506001",
+    "area": "Excise Colony",
+    "latitude": 18.001036499999998,
+    "longitude": 79.54435629999999,
+    "place_id": "ChIJ5XJxinZPMzoRqXVl_3upbhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XJxinZPMzoRqXVl_3upbhI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:05:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KONDABOINA farm land",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506244",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P877+96J, Kalvalapalle, Telangana 506244",
+    "area": "506244",
+    "latitude": 17.713457599999998,
+    "longitude": 79.3130285,
+    "place_id": "ChIJnaqnko5VyzsRFw2szIIAukc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaqnko5VyzsRFw2szIIAukc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:09"
+  },
+  {
+    "business_name": "Om Sree Hari Hari Puthra Gen Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506244",
+    "phone_number": "+91 83416 41344",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "H No 3-93 Bus Stand Main Road Kanchanapally, Jangaon, Telangana 506244",
+    "area": "506244",
+    "latitude": 17.742908699999997,
+    "longitude": 79.311089,
+    "place_id": "ChIJs8S98ytVyzsRl-0R1FOMc4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8S98ytVyzsRl-0R1FOMc4E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:44:09"
+  }
+]

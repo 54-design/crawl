@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAXMI GENERAL STORE (MENA LAXMAIAH)",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506175",
+    "phone_number": "+91 84640 16111",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Lakshmaiah, Kallem, Telangana 506201",
+    "area": "Lakshmaiah",
+    "latitude": 17.6612624,
+    "longitude": 79.15448839999999,
+    "place_id": "ChIJ6cA0h3hZyzsRAAAA0IVR-Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cA0h3hZyzsRAAAA0IVR-Xs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:33:00"
+  },
+  {
+    "business_name": "K Mart Deparmental Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Department store",
+    "pincode": "506175",
+    "phone_number": "+91 89027 67611",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 49,
+    "address": "94 A, Muzaffar Ahmed St, Park Street, Kolkata, West Bengal 700016",
+    "area": "Park Street",
+    "latitude": 22.553722399999998,
+    "longitude": 88.3584082,
+    "place_id": "ChIJc0xsEUp3AjoRpGXXxZPZnho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0xsEUp3AjoRpGXXxZPZnho",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:33:00"
+  }
+]

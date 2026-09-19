@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALT Transport",
+    "search_category": "Packers and Movers",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "506167",
+    "phone_number": "+91 93901 60820",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.No 2-4-1114/A1, Kurumawada, Jangaon, Telangana 506167",
+    "area": "Kurumawada",
+    "latitude": 17.7167226,
+    "longitude": 79.1584352,
+    "place_id": "ChIJW-gqDARZyzsR83cfIJNbzU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-gqDARZyzsR83cfIJNbzU4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:24:32"
+  },
+  {
+    "business_name": "SRIRAMA TRANSPORT",
+    "search_category": "Packers and Movers",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "506167",
+    "phone_number": "+91 98491 46698",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sanjay Nagar, Jangaon, Telangana 506167",
+    "area": "Sanjay Nagar",
+    "latitude": 17.7267918,
+    "longitude": 79.16894049999999,
+    "place_id": "ChIJIRSJnS9ZyzsRYDAwIzuI0FA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRSJnS9ZyzsRYDAwIzuI0FA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:24:32"
+  }
+]

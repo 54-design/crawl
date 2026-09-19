@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkateshwara Kiranam",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "506151",
+    "phone_number": "+91 90591 49144",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 1, opp. KMC, Rangampet, Warangal, Telangana 506007",
+    "area": "Rangampet",
+    "latitude": 17.997227499999997,
+    "longitude": 79.5883905,
+    "place_id": "ChIJcQXDqlBFMzoRgFHsrMY7jQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQXDqlBFMzoRgFHsrMY7jQA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:22"
+  },
+  {
+    "business_name": "Swachh Kissan Farm Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506151",
+    "phone_number": "+91 90002 80173",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhadrakali Temple Rd, Tadkamalla Village, Warangal, Telangana 506007",
+    "area": "Tadkamalla Village",
+    "latitude": 17.9975019,
+    "longitude": 79.580539,
+    "place_id": "ChIJ7wCG7BZFMzoRPMoBJ7KLhnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wCG7BZFMzoRPMoBJ7KLhnU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:22"
+  }
+]

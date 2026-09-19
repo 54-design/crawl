@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayuri Shopping Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "506142",
+    "phone_number": "+91 870 257 6105",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 90,
+    "address": "National Highway 163 Rahamatnagar Kazipet, Warangal, Telangana 506003",
+    "area": "Rahamatnagar",
+    "latitude": 17.9776307,
+    "longitude": 79.5114361,
+    "place_id": "ChIJFczrQUpOMzoRSHgoU85Vjo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFczrQUpOMzoRSHgoU85Vjo8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:52"
+  },
+  {
+    "business_name": "Sumangali Shopping Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store, Men's clothing store",
+    "pincode": "506142",
+    "phone_number": "+91 87112 20122",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 340,
+    "address": "V93G+Q4Q, Railway Gate Rd, Ghanpur, Telangana 506144",
+    "area": "506142",
+    "latitude": 17.8544749,
+    "longitude": 79.3753608,
+    "place_id": "ChIJI5CFMqqszDsR3d1CS1XKVpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5CFMqqszDsR3d1CS1XKVpw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:06:52"
+  }
+]

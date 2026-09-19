@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MRT Organic Green Products",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "506222",
+    "phone_number": "+91 484 263 2991",
+    "website": "http://www.mrtorganics.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Hameed Estate, Ashokapuram, Ashokapuram, Erumathala West, Aluva, Kochi, Keralam 683101",
+    "area": "Ashokapuram, Erumathala West",
+    "latitude": 10.0936,
+    "longitude": 76.3610873,
+    "place_id": "ChIJuWvOH9cOCDsRUnDlaOu9abk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWvOH9cOCDsRUnDlaOu9abk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:40"
+  },
+  {
+    "business_name": "Vattam Agro & Dairy Industries Private Limited",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Asian grocery store",
+    "all_categories": "Asian grocery store, Service establishment",
+    "pincode": "506222",
+    "phone_number": "+91 95000 59631",
+    "website": "http://www.vattamagro.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vattam Agro & Dairy Industries Private Limited, 506222, India",
+    "area": "506222",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJi3vp0-BdUjoRhTnL42kNC6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3vp0-BdUjoRhTnL42kNC6M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:38:40"
+  }
+]

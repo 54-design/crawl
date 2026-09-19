@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G-Case",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Electronics store, Mobile phone repair shop, Phone repair service",
+    "pincode": "506145",
+    "phone_number": "+91 98112 02122",
+    "website": "http://gcase.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SHOP NO 11, GAFFAR MARKET, MAIN ROAD, Block 13, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block 13, WEA, Karol Bagh",
+    "latitude": 28.6491981,
+    "longitude": 77.1908617,
+    "place_id": "ChIJW1XF1KYEDTkRlShCndVIK7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1XF1KYEDTkRlShCndVIK7E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:12:00"
+  },
+  {
+    "business_name": "UnityMobile Wholesale Mart",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Cell phone accessory store",
+    "pincode": "506145",
+    "phone_number": "+91 76699 26688",
+    "website": "https://unitymobile.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B 227, G/F, Chandar Vihar, Block B, Palam Extension, Sector 7 Dwarka, Palam, Delhi, 110077",
+    "area": "Chandar Vihar, Block B, Palam Extension, Sector 7 Dwarka, Palam",
+    "latitude": 28.586432199999997,
+    "longitude": 77.0709384,
+    "place_id": "ChIJD-kEGKEbDTkRgydGLsqv-pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-kEGKEbDTkRgydGLsqv-pg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:12:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chicken stores",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "506151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WC4M+RMM, National Highway 202, karunapuram, Telangana 506151",
+    "area": "506151",
+    "latitude": 17.9070772,
+    "longitude": 79.4341618,
+    "place_id": "ChIJW7AnLFJSMzoRNS-6q94qSEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7AnLFJSMzoRNS-6q94qSEg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:26"
+  },
+  {
+    "business_name": "Mohan Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "506151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WC5J+FCF, karunapuram, Telangana 506151",
+    "area": "506151",
+    "latitude": 17.9086928,
+    "longitude": 79.431037,
+    "place_id": "ChIJJf_WSlFSMzoRoZ6kMTMoVMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJf_WSlFSMzoRoZ6kMTMoVMk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:14:26"
+  }
+]

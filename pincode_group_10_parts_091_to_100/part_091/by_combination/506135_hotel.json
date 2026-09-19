@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Kumar Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "H8VC+VQ4 sai kumar hotel, Yellandu, Telangana 507123",
+    "area": "506135",
+    "latitude": 17.5946252,
+    "longitude": 80.3219561,
+    "place_id": "ChIJucqw1tVvNDoRveAbel25Vzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucqw1tVvNDoRveAbel25Vzg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:04:13"
+  },
+  {
+    "business_name": "Nandini Military Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "506135",
+    "phone_number": "+91 95423 84817",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "3-25, Pakala Kothaguda, Warangal Rural, Kothagudem, Telangana 506135",
+    "area": "Pakala Kothaguda",
+    "latitude": 17.912768099999997,
+    "longitude": 80.0491548,
+    "place_id": "ChIJRbQCFwx5MzoRm2L-2tDJuMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbQCFwx5MzoRm2L-2tDJuMs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:04:16"
+  }
+]
