@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VSR Departmental stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "521110",
+    "phone_number": "+91 89125 56676",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 53,
+    "address": "Dandy Bazar, Chandaka Veedhi, Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Jagadamba Junction",
+    "latitude": 17.7114941,
+    "longitude": 83.3040791,
+    "place_id": "ChIJ8U37gRpDOToRZW6iYikf8Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8U37gRpDOToRZW6iYikf8Kg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:45:29"
+  },
+  {
+    "business_name": "Krishna Department Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521110",
+    "phone_number": "+91 78294 70409",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 39,
+    "address": "Sheshadri Nilaya, 19, Bidarahalli Main Rd, Cheemasandra, Bidarahalli, Karnataka 560049",
+    "area": "Cheemasandra",
+    "latitude": 13.0625257,
+    "longitude": 77.7158512,
+    "place_id": "ChIJ4fgxDnYQrjsRzhYFL4klUwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fgxDnYQrjsRzhYFL4klUwQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:45:30"
+  }
+]

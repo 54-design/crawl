@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "G-3 SINDHURA, Gudivada, Andhra Pradesh 521301",
+    "area": "Loyaada",
+    "latitude": 16.4378371,
+    "longitude": 80.99161289999999,
+    "place_id": "ChIJRdH73GwbNjoRhslVNXe2fkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdH73GwbNjoRhslVNXe2fkc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:25"
+  },
+  {
+    "business_name": "Lakshmi Clinical Laboratory",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "521134",
+    "phone_number": "+91 85005 25278",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-64, Main Road, near Avanigadda, Yanamalakuduru, Ramalingeswara Nagar, Vijayawada, Andhra Pradesh 520013",
+    "area": "Yanamalakuduru, Ramalingeswara Nagar",
+    "latitude": 16.4882748,
+    "longitude": 80.6591864,
+    "place_id": "ChIJf4sM-NP7NToRXxwIRsbayNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4sM-NP7NToRXxwIRsbayNA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:25"
+  }
+]

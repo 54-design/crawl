@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BVC Logistics Pvt.Ltd- Vijayawada",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "520010",
+    "phone_number": "+91 1800 123 2711",
+    "website": "http://bvclogistics.com/",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "#22-29-222/12, Maher House, Sri Ganapathi Sreet, Gulabi Thota Rd, Vijayawada, Andhra Pradesh 520003",
+    "area": "Railway Colony",
+    "latitude": 16.5222688,
+    "longitude": 80.64670799999999,
+    "place_id": "ChIJL7H7AE_lNToRfYWswNYcIjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7H7AE_lNToRfYWswNYcIjo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:16:01"
+  },
+  {
+    "business_name": "Sri Bhargava Lorry Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "520010",
+    "phone_number": "+91 93934 11571",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "# 75-12-79A, Bhavana Complex, NH9 Road, Bhavanipuram,, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, V D Puram",
+    "latitude": 16.522023,
+    "longitude": 80.59776099999999,
+    "place_id": "ChIJ93LMPNDvNToRgVZDsfvfJqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93LMPNDvNToRgVZDsfvfJqs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:16:02"
+  }
+]

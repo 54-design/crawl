@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dishees",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "521139",
+    "phone_number": "+91 89855 14444",
+    "website": "https://www.dishees.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "beside Krishnaveni school Arch, opposite Srilakshmi Lakshmi Narasimha Gardens, Poranki, Vijayawada, Poranki, Andhra Pradesh 521137",
+    "area": "Poranki",
+    "latitude": 16.4748205,
+    "longitude": 80.7111769,
+    "place_id": "ChIJKXNACgD7NToRIF2C7dsG3gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXNACgD7NToRIF2C7dsG3gw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:49"
+  },
+  {
+    "business_name": "Afra Collections",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "521139",
+    "phone_number": "+91 94941 15561",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ayyappa Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Ayyappa Nagar",
+    "latitude": 16.4862914,
+    "longitude": 80.6781728,
+    "place_id": "ChIJV3F3eB77NToRTCmmhyobKc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3F3eB77NToRTCmmhyobKc4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:50"
+  }
+]

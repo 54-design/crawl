@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Meat",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "520011",
+    "phone_number": "+91 92944 53444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ponnya Colony, Railway Colony, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520003",
+    "area": "Ponnya Colony, Railway Colony, Satyaranayana Puram",
+    "latitude": 16.5201502,
+    "longitude": 80.6424516,
+    "place_id": "ChIJC0LHJ07lNToRCcDlzDguTsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0LHJ07lNToRCcDlzDguTsg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:17"
+  },
+  {
+    "business_name": "Harika Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "520011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "34-2-67, Rama Rao St, Gandhi Bommalu Centre, Kasturibaipet, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Gandhi Bommalu Centre, Kasturibaipet, Labbipet",
+    "latitude": 16.5094101,
+    "longitude": 80.63952739999999,
+    "place_id": "ChIJ69jDZ6z6NToR-H853KA7elg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69jDZ6z6NToR-H853KA7elg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:17"
+  }
+]

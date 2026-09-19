@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRAANA Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center, Blood testing service, Diagnostic center, Laboratory, Medical laboratory, Pathologist, Physical examination center, Radiologist, X-ray lab",
+    "pincode": "521138",
+    "phone_number": "+91 89777 23484",
+    "website": "https://praana-diagnostics.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": 51,
+    "address": "near National Highway 16, opposite Aditya Hospital, Pro. Ragampeta, Andhra Pradesh 533435",
+    "area": "521138",
+    "latitude": 17.1732096,
+    "longitude": 82.05126829999999,
+    "place_id": "ChIJ2bOFVgB5NzoRx96YSgiAKmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bOFVgB5NzoRx96YSgiAKmA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:14:03"
+  },
+  {
+    "business_name": "ScanU Labs - Advanced Diagnostics & Home Sample Collection",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Medical diagnostic imaging center, Medical laboratory, Radiologist",
+    "pincode": "521138",
+    "phone_number": "+91 82268 22662",
+    "website": "https://scanu.ai/",
+    "rating": 4.9,
+    "reviews_count": 1347,
+    "address": "DOOR NO. 19, MSR COMPLEX, 1-9, Zidduvari St, Babametta, Vizianagaram, Andhra Pradesh 535002",
+    "area": "Babametta",
+    "latitude": 18.110872399999998,
+    "longitude": 83.4143156,
+    "place_id": "ChIJkVaVQgDlOzoRIgJCtkvUtu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVaVQgDlOzoRIgJCtkvUtu8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:14:03"
+  }
+]

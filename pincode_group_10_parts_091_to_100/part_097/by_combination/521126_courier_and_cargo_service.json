@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office VAKKALAGADDA",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "521126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4WPC+M7M, Vakkalagadda Rd, Challapalli, Vakkalagadda, Andhra Pradesh 521126",
+    "area": "521126",
+    "latitude": 16.1367241,
+    "longitude": 80.92067349999999,
+    "place_id": "ChIJpV_NVQDxSToRlWeiWKYcL5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpV_NVQDxSToRlWeiWKYcL5A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:58:02"
+  },
+  {
+    "business_name": "Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "521126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-153, 3-153, Lakshmipuram, Andhra Pradesh 521131",
+    "area": "521126",
+    "latitude": 16.129694399999998,
+    "longitude": 80.9660207,
+    "place_id": "ChIJp-AC1d_xSToRVM6vgYguZTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-AC1d_xSToRVM6vgYguZTU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:58:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Home Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "520015",
+    "phone_number": "+91 124 620 1530",
+    "website": "https://www.oyorooms.com/188282/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "301 New, Ajit Singh Nagar, rr pet, Vijayawada, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, rr pet",
+    "latitude": 16.542088,
+    "longitude": 80.638241,
+    "place_id": "ChIJ1UYgztTlNToRbJ9JY6Bwv6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UYgztTlNToRbJ9JY6Bwv6A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:24:12"
+  },
+  {
+    "business_name": "TG Towers",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast, Apartment building, Serviced accommodation, Service Apartment",
+    "pincode": "520015",
+    "phone_number": "+91 94405 27997",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "77-16/1-41, Near Tirumalasetty Complex, Payakapuram, Payikapuram, Andhra Pradesh 520015",
+    "area": "Payakapuram",
+    "latitude": 16.545367199999998,
+    "longitude": 80.6449315,
+    "place_id": "ChIJtXZZnm_lNToR6_LtPnZU0g4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXZZnm_lNToR6_LtPnZU0g4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:24:14"
+  }
+]

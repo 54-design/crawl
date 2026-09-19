@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ds Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "520003",
+    "phone_number": "+91 75694 06430",
+    "website": "https://www.youtube.com/@Dsevents-is9tt",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "piple road, Ajit Singh Nagar, Payakapuram, Payikapuram, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, Payakapuram",
+    "latitude": 16.545318599999998,
+    "longitude": 80.6483354,
+    "place_id": "ChIJK-DkzczlNToRQdNiwmqz0ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-DkzczlNToRQdNiwmqz0ak",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:34"
+  },
+  {
+    "business_name": "Liyan Events Vijayawada",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Balloon artist, Balloon store, Banquet hall, Children's club, Children's party buffet, Children's party service, Event planner, Party equipment rental service, Party planner",
+    "pincode": "520003",
+    "phone_number": "+91 94945 62646",
+    "website": "https://liyanevents.blogspot.com/",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "Pipula road, Vambay Colony, Payikapuram, Andhra Pradesh 520015",
+    "area": "Vambay Colony",
+    "latitude": 16.540195999999998,
+    "longitude": 80.6544243,
+    "place_id": "ChIJDw_tsJblNToRl7N3v-5KmwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDw_tsJblNToRl7N3v-5KmwE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "520013",
+    "phone_number": "+91 93464 13001",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Ground floor, Rama Krishna Towers, Chowdary Peta, Balaji Nagar, Krishnalanka, Vijayawada, Andhra Pradesh 520013",
+    "area": "Chowdary Peta, Balaji Nagar, Krishnalanka",
+    "latitude": 16.4977119,
+    "longitude": 80.640191,
+    "place_id": "ChIJ62xWWKT6NToRJ8ni6bT7eSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62xWWKT6NToRJ8ni6bT7eSU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:22:37"
+  },
+  {
+    "business_name": "INDIRA PARCEL SERVICE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "520013",
+    "phone_number": "+91 99483 11662",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "St, 26-4-10, G S Raju Rd, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.5191482,
+    "longitude": 80.6259105,
+    "place_id": "ChIJd6-Q427vNToR0pexHy2HX1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6-Q427vNToR0pexHy2HX1s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:22:39"
+  }
+]

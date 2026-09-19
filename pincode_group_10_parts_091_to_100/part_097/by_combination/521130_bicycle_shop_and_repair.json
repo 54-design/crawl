@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosti Mart & Cycle Repairing",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "521130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dosti Cycle Mart,141No.Valmiki Nagar,Abhilasha,New Sama,Vadodara Dosti Cycle Mart, Aakas Ganga, Narmada Canal, New Sama Rd, Vadodara, Gujarat 390024",
+    "area": "Ghanshyam Park Society, Ekta Nagar, New Sama",
+    "latitude": 22.3482275,
+    "longitude": 73.18571519999999,
+    "place_id": "ChIJSUcOrCDPXzkRUTUbnjaQ8Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUcOrCDPXzkRUTUbnjaQ8Js",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:59:09"
+  },
+  {
+    "business_name": "Apna Mechanic - Doorstep Bike Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "521130",
+    "phone_number": "+91 80019 68001",
+    "website": "https://www.apnamechanic.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "304, Vipul Business Park, Central Park II, Sector 48, Gurugram, Haryana 122018",
+    "area": "Central Park II, Sector 48",
+    "latitude": 28.4226457,
+    "longitude": 77.0376039,
+    "place_id": "ChIJkWf3ifEZDTkRwH-Kw7T02Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWf3ifEZDTkRwH-Kw7T02Ww",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:59:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalakshmi Enterprises",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Chocolate shop",
+    "all_categories": "Chocolate shop, General store",
+    "pincode": "520010",
+    "phone_number": "+91 90300 48898",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 18,
+    "address": "D. No. 39-1-89, Sri Venkateswara Swamy Temple St, Near Temple Street, Beside Balaji Towers, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Beside Balaji Towers, Labbipet",
+    "latitude": 16.502886999999998,
+    "longitude": 80.6393708,
+    "place_id": "ChIJEfsVP6_6NToR1r445af_Yew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfsVP6_6NToR1r445af_Yew",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:25"
+  },
+  {
+    "business_name": "Sreeja's Home Foods",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Takeout restaurant",
+    "pincode": "520010",
+    "phone_number": "+91 73999 92829",
+    "website": "https://www.sreejashomefoods.com/",
+    "rating": 4,
+    "reviews_count": 425,
+    "address": "3-29-6/7/B/8, Laxmi Narasimha Nagar Puppalaguda, Manikonda Rd, Hyderabad, Telangana 500089",
+    "area": "520010",
+    "latitude": 17.4024563,
+    "longitude": 78.374105,
+    "place_id": "ChIJEyr59OuVyzsRi0ls87YHBaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyr59OuVyzsRi0ls87YHBaQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:25"
+  }
+]

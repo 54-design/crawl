@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna health center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521134",
+    "phone_number": "+91 891 666 2909",
+    "website": "https://www.drraghu.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Krishna Nagar Rd, Srirangapuram, Krishna Nagar, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Srirangapuram, Krishna Nagar, Maharani Peta",
+    "latitude": 17.7098212,
+    "longitude": 83.31131859999999,
+    "place_id": "ChIJpyP8FBJDOToRcpoI_pPCYOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyP8FBJDOToRcpoI_pPCYOA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:29"
+  },
+  {
+    "business_name": "Neuberg Diagnostics - Blood Tests, CBC Tests & Full Body Checkup in Vijayawada",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Laboratory, Medical laboratory, Pathologist",
+    "pincode": "521134",
+    "phone_number": "+91 80 4943 6666",
+    "website": "https://www.neubergdiagnostics.com/labs/neuberg-in-andhra-pradesh-vijayawada-patamata-79192",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Second Floor, 10/1, No.73-1, 73-1-13, MG Rd, above Reliance Digital, Opposite Durga Mahal, Patamata, Vijayawada, Andhra Pradesh 520010",
+    "area": "Opposite Durga Mahal, Patamata",
+    "latitude": 16.493275999999998,
+    "longitude": 80.663759,
+    "place_id": "ChIJ5-DUjGL7NToRaMIv4o2TTsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-DUjGL7NToRaMIv4o2TTsE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:30"
+  }
+]

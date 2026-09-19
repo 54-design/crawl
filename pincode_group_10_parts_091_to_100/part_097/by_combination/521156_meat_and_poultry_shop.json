@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sardar A Pure Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "521156",
+    "phone_number": "+91 92122 26737",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 358,
+    "address": "Rajapur, Pocket 6, Sector 9, Rohini, Delhi, 110085",
+    "area": "Rajapur, Pocket 6, Sector 9, Rohini",
+    "latitude": 28.7115887,
+    "longitude": 77.1245142,
+    "place_id": "ChIJ0XA5CV4BDTkRV_8rFt2Oq8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XA5CV4BDTkRV_8rFt2Oq8U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:26:45"
+  },
+  {
+    "business_name": "Babu Jhatka Mutton & Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Butcher shop deli, Meat products store, Chicken & Mutton Shop",
+    "pincode": "521156",
+    "phone_number": "+91 98107 58852",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 90,
+    "address": "Shop No 19 & 20, LIG flats, DDA Market, Block J, Rajouri Garden Extension, Rajouri Garden, New Delhi, Delhi, 110027",
+    "area": "Block J, Rajouri Garden Extension, Rajouri Garden",
+    "latitude": 28.639381399999998,
+    "longitude": 77.1152278,
+    "place_id": "ChIJ____v2sDDTkR9lUammTZRYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____v2sDDTkR9lUammTZRYs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:26:45"
+  }
+]

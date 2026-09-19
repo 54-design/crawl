@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CornClub Ranganadh Agency",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "520003",
+    "phone_number": "+91 92904 76666",
+    "website": "http://www.cornclub.net/",
+    "rating": 4.4,
+    "reviews_count": 25,
+    "address": "54-18-25 B2, 2nd Lane, Dr Ramesh Hospital Rd, opp. ITI college, LIC Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "LIC Colony",
+    "latitude": 16.5077539,
+    "longitude": 80.653761,
+    "place_id": "ChIJS03vlLr6NToRIq0O71OoiGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS03vlLr6NToRIq0O71OoiGU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:33"
+  },
+  {
+    "business_name": "RAAGA FRESH & FROZEN FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Wholesaler",
+    "pincode": "520003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3rd Ln, G V NAGAR, Madhura Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "G V NAGAR, Madhura Nagar",
+    "latitude": 16.5348273,
+    "longitude": 80.6526892,
+    "place_id": "ChIJCQKFgk3lNToR90cL1bysyEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQKFgk3lNToR90cL1bysyEY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:35"
+  }
+]

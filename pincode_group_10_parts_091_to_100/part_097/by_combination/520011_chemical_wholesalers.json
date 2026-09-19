@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SB Life Sciences",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Biotechnology company",
+    "all_categories": "Biotechnology company, Aquarium shop, Chemical wholesaler, Farmers' market",
+    "pincode": "520011",
+    "phone_number": "+91 86391 90588",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mallela Sri Rama Murthy St, Kothavanthena Center, Durga Agraharam, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Kothavanthena Center, Durga Agraharam, Arundalpet, Governor Peta",
+    "latitude": 16.5166449,
+    "longitude": 80.6378383,
+    "place_id": "ChIJOxlpTf7vNToR8ReMHGIVn98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxlpTf7vNToR8ReMHGIVn98",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:55"
+  },
+  {
+    "business_name": "Rashtriya Chemicals and Fertilizers Ltd.",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "520011",
+    "phone_number": "N/A",
+    "website": "https://www.rcfltd.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1ST FLOOR, D. No. 30-2-17, Murthy St, Near Vijaya Talkies, Durga Agraharam, Karmika Puram, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near Vijaya Talkies, Durga Agraharam, Karmika Puram, Governor Peta",
+    "latitude": 16.515336599999998,
+    "longitude": 80.6328138,
+    "place_id": "ChIJG70BBgDvNToR8m6_oO9_gMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG70BBgDvNToR8m6_oO9_gMk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:55"
+  }
+]

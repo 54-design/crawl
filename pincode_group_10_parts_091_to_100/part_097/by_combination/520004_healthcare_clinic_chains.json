@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heart & Health Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "520004",
+    "phone_number": "+91 99887 84884",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13-21, Ramapuram Colony Rd, Poranki, Andhra Pradesh 521137",
+    "area": "Poranki",
+    "latitude": 16.4746464,
+    "longitude": 80.7100225,
+    "place_id": "ChIJH8l-c_D7NToRMu-7s3f9Eos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8l-c_D7NToRMu-7s3f9Eos",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:10:03"
+  },
+  {
+    "business_name": "Karuna Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "First aid station",
+    "all_categories": "First aid station",
+    "pincode": "520004",
+    "phone_number": "+91 99080 68888",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devneni nagar konda, Padavalarevu, Gunadala, Vijayawada, Andhra Pradesh 520004",
+    "area": "Padavalarevu, Gunadala",
+    "latitude": 16.5242493,
+    "longitude": 80.6567881,
+    "place_id": "ChIJlbTfljflNToRPHOeP3h8eHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbTfljflNToRPHOeP3h8eHA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:10:03"
+  }
+]

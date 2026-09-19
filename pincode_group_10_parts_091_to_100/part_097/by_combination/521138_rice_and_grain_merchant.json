@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI. RICE TRADERS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521138",
+    "phone_number": "+91 97052 47696",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1,main, Road, Valandapalem, Machilipatnam, Andhra Pradesh 521002",
+    "area": "Valandapalem",
+    "latitude": 16.2009659,
+    "longitude": 81.1466755,
+    "place_id": "ChIJdTbP8QXnSToRI8ru1Dx9G44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTbP8QXnSToRI8ru1Dx9G44",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:33"
+  },
+  {
+    "business_name": "Raghavendra Rice Mart",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Market",
+    "all_categories": "Market, Rice wholesaler",
+    "pincode": "521138",
+    "phone_number": "+91 99080 93369",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Padmavathi Center, Podalakur Rd, Postal Colony, Vedayapalem, Nellore, Andhra Pradesh 524004",
+    "area": "Postal Colony, Vedayapalem",
+    "latitude": 14.421553,
+    "longitude": 79.95702589999999,
+    "place_id": "ChIJ9QFQk93yTDoRgbagyfCiJv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QFQk93yTDoRgbagyfCiJv0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:34"
+  }
+]

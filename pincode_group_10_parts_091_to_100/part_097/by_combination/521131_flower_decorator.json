@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "521131",
+    "phone_number": "+91 99480 63729",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "FGQR+5VF, 5th Ave, Opp,ICICI Bank, SGKS United Residency, Defence Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Opp,ICICI Bank, SGKS United Residency, Defence Colony, Sainikpuri",
+    "latitude": 17.487945,
+    "longitude": 78.5421719,
+    "place_id": "ChIJcS3_Pw2byzsR_Sja5zc-knw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcS3_Pw2byzsR_Sja5zc-knw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:01:21"
+  },
+  {
+    "business_name": "SBK Flower Stall",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market",
+    "pincode": "521131",
+    "phone_number": "+91 63023 79710",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 201,
+    "address": "Guntur Sattenpalli Road, near PVK Niadu Market, Andhra Pradesh 522003",
+    "area": "Kanna Vari Thota",
+    "latitude": 16.2920131,
+    "longitude": 80.4453472,
+    "place_id": "ChIJfb-0ozd1SjoRiGl41V55MQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfb-0ozd1SjoRiGl41V55MQY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:01:22"
+  }
+]

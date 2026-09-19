@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prisma Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521134",
+    "phone_number": "+91 99636 59006",
+    "website": "https://myprisma.in/",
+    "rating": 3.8,
+    "reviews_count": 14,
+    "address": "NO 13-230, Kamayyathopu, center, Kanuru, Andhra Pradesh 520007",
+    "area": "Kamayyathopu, center, Kanuru",
+    "latitude": 16.4838464,
+    "longitude": 80.6865351,
+    "place_id": "ChIJXdnuZCD7NToRb1r8ELe3z0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdnuZCD7NToRb1r8ELe3z0U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:09"
+  },
+  {
+    "business_name": "Sri Maguluri Sons Cloth Stores",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Fabric store",
+    "pincode": "521134",
+    "phone_number": "+91 92908 76010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bus Stop, 71/1/12, MG Rd, opposite Postal Colony, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamata, Benz Circle",
+    "latitude": 16.4943162,
+    "longitude": 80.6623893,
+    "place_id": "ChIJy-xvsMP6NToRSLD9rfnabV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-xvsMP6NToRSLD9rfnabV4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:10"
+  }
+]

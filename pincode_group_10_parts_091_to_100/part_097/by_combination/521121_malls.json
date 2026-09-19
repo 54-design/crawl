@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anupama Mobiles -JioMart Digital Partner",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Appliance store, Electronics store",
+    "pincode": "521121",
+    "phone_number": "+91 70137 02814",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "2-116, Avanigadda, Andhra Pradesh 521121",
+    "area": "521121",
+    "latitude": 16.0242192,
+    "longitude": 80.9148123,
+    "place_id": "ChIJKUUM6dfzSToR13_xpgllktc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUUM6dfzSToR13_xpgllktc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:49"
+  },
+  {
+    "business_name": "Vasavi supermart",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Asian grocery store, Dairy, Mill, Stationery store",
+    "pincode": "521121",
+    "phone_number": "+91 63029 37130",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sivalayam street, Kanumuru, Andhra Pradesh 521256",
+    "area": "521121",
+    "latitude": 16.3373451,
+    "longitude": 80.9004856,
+    "place_id": "ChIJ1aHY2BD9SToRVEIk0GS3rvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aHY2BD9SToRVEIk0GS3rvM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:51"
+  }
+]

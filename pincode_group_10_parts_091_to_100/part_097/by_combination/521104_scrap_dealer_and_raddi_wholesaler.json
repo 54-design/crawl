@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K. Traders",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Used auto parts store",
+    "all_categories": "Used auto parts store",
+    "pincode": "521104",
+    "phone_number": "+91 866 254 4983",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 27,
+    "address": "GM4F+MPP, Auto Nagar, Kanuru, Andhra Pradesh 520007",
+    "area": "Auto Nagar",
+    "latitude": 16.5067044,
+    "longitude": 80.674329,
+    "place_id": "ChIJWfV9WNb6NToRYBEyoy8-rPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfV9WNb6NToRYBEyoy8-rPI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:35:48"
+  },
+  {
+    "business_name": "Scrap Trading Company",
+    "search_category": "Scrap Dealer and Raddi Wholesaler",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "521104",
+    "phone_number": "+91 89783 33378",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "new autonagar, Block no:B-04,plot no:38,11th road, 7, Kanuru, Andhra Pradesh 520007",
+    "area": "Kanuru",
+    "latitude": 16.507100899999998,
+    "longitude": 80.6986687,
+    "place_id": "ChIJu2gFLTb7NToRugndxwM-NUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2gFLTb7NToRugndxwM-NUA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:35:48"
+  }
+]

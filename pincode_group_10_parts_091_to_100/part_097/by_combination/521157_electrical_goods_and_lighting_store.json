@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Store",
+    "all_categories": "Store, Electrical equipment supplier",
+    "pincode": "521157",
+    "phone_number": "+91 90327 64180",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Eluru Rd, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4382572,
+    "longitude": 80.99257039999999,
+    "place_id": "ChIJSbQqKlQbNjoRugmMSgwFvEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbQqKlQbNjoRugmMSgwFvEE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:16"
+  },
+  {
+    "business_name": "Sri Narayana Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "521157",
+    "phone_number": "+91 62816 63493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Old Ganga Mahal, Opp G3 Sindhura Theater, Eluru Rd, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4379463,
+    "longitude": 80.99267189999999,
+    "place_id": "ChIJLf0iQggbNjoRZA60CiTYFro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLf0iQggbNjoRZA60CiTYFro",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:17"
+  }
+]

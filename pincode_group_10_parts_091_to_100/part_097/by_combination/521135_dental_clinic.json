@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Dental implants periodontist, Dental laboratory, Dentist, Emergency dental service, Endodontist, Oral surgeon, Orthodontist, Pediatric dentist",
+    "pincode": "521135",
+    "phone_number": "+91 92470 33555",
+    "website": "https://www.facebook.com/happydentalhospital",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Brindavanam Rd, opp. Dr.Ramachandra Reddy People's Poly Clinic, Brindavan Colony, Nellore, Andhra Pradesh 524001",
+    "area": "Brindavan Colony",
+    "latitude": 14.4536923,
+    "longitude": 79.9869619,
+    "place_id": "ChIJrxn70reMTDoRyFF-pxW1sPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxn70reMTDoRyFF-pxW1sPU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:17"
+  },
+  {
+    "business_name": "Anu Dental & Implants",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Dental implants periodontist, Dental implants provider",
+    "pincode": "521135",
+    "phone_number": "+91 95202 72027",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "24-9-168, BRTS Rd, beside Srinivasa Dairy Products, Bavajipet, Vijayawada, Andhra Pradesh 520003",
+    "area": "Bavajipet",
+    "latitude": 16.519927799999998,
+    "longitude": 80.6332601,
+    "place_id": "ChIJyTnUTADlNToR_d0JlP4qH-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTnUTADlNToR_d0JlP4qH-U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:17"
+  }
+]

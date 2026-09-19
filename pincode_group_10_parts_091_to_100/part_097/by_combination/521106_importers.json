@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhimaya Foods",
+    "search_category": "Importers",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Food products supplier",
+    "pincode": "521106",
+    "phone_number": "+91 94930 23030",
+    "website": "http://www.bhimayafoods.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "3-34, near ICM school road, Hanuman Junction, Tippanagunta, Venkatrajugudem, Andhra Pradesh 521106",
+    "area": "Hanuman Junction",
+    "latitude": 16.5726637,
+    "longitude": 80.9421859,
+    "place_id": "ChIJ32ea6_APNjoRnvwXGAtMc9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32ea6_APNjoRnvwXGAtMc9M",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:39:34"
+  },
+  {
+    "business_name": "Pets N Plants",
+    "search_category": "Importers",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery",
+    "pincode": "521106",
+    "phone_number": "+91 94401 72248",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Soundarya vanam, Atkuru, Vijayawada, Andhra Pradesh 521286",
+    "area": "521106",
+    "latitude": 16.5681422,
+    "longitude": 80.8554676,
+    "place_id": "ChIJ3dpzA8QJNjoRVYSiwGE_mus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dpzA8QJNjoRVYSiwGE_mus",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:39:36"
+  }
+]

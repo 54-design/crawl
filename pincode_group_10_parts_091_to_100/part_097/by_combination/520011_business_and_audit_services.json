@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pappula & Co, Chartered Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "520011",
+    "phone_number": "+91 70327 53875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Park Avenue Apartment, Near, Round Park Rd, Prakasam Nagar, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Prakasam Nagar",
+    "latitude": 17.007037699999998,
+    "longitude": 81.78698779999999,
+    "place_id": "ChIJLWPkmKijNzoRlgTySRM1Jck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWPkmKijNzoRlgTySRM1Jck",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:47"
+  },
+  {
+    "business_name": "Raj Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "520011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samba Murthy Rd, Durgapuram, SN Puram, Bavajipet, Vijayawada, Andhra Pradesh 520003",
+    "area": "Durgapuram, SN Puram, Bavajipet",
+    "latitude": 16.519828,
+    "longitude": 80.6408684,
+    "place_id": "ChIJcRlAFeLlNToRtR8L2ic8X2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRlAFeLlNToRtR8L2ic8X2Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:48"
+  }
+]

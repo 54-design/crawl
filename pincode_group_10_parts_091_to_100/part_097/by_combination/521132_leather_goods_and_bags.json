@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Blue shop",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Handbags shop, Dance school, Department store, Engineering school, Gift basket store, Plastic bag supplier, Plastic Bags Wholesaler",
+    "pincode": "521132",
+    "phone_number": "+91 93986 11875",
+    "website": "https://newblueshop.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1-6-93, Kandoji Bazar, General Bazaar, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Kandoji Bazar, General Bazaar, Kalasiguda",
+    "latitude": 17.437869199999998,
+    "longitude": 78.4891458,
+    "place_id": "ChIJ____TxqayzsR4s4Clf2Scro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____TxqayzsR4s4Clf2Scro",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:27"
+  },
+  {
+    "business_name": "Shoe and bag repair",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop",
+    "pincode": "521132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Laxmi Plaza, MVP Main Rd, Sector- 6, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Sector- 6, MVP Colony",
+    "latitude": 17.7438058,
+    "longitude": 83.3359468,
+    "place_id": "ChIJx5JOi0xDOToRwzTWsnMZluk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5JOi0xDOToRwzTWsnMZluk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:30"
+  }
+]

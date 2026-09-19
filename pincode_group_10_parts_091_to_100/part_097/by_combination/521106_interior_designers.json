@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MATESREE modular",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "521106",
+    "phone_number": "+91 98481 38525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B 55, APIIC, Veerapanenigudem, Andhra Pradesh 521286",
+    "area": "APIIC",
+    "latitude": 16.612679399999998,
+    "longitude": 80.83171829999999,
+    "place_id": "ChIJMX8vPwAJNjoRdxXKd0jyxlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMX8vPwAJNjoRdxXKd0jyxlM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:46"
+  },
+  {
+    "business_name": "DYD interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "521106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "NH 216H, Satyanarayana Puram, Gudivada, Andhra Pradesh 521321",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4987605,
+    "longitude": 80.9846264,
+    "place_id": "ChIJE5mNeAAFNjoRu5A3c_BgfqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5mNeAAFNjoRu5A3c_BgfqE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:46"
+  }
+]

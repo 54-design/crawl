@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SJF Fruits",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruit wholesaler",
+    "all_categories": "Fruit wholesaler",
+    "pincode": "520008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "18-1-24, Ramalingeswarapet, Kedareswar Pet, Vijayawada, Andhra Pradesh 520003",
+    "area": "Ramalingeswarapet, Kedareswar Pet",
+    "latitude": 16.5232282,
+    "longitude": 80.62863779999999,
+    "place_id": "ChIJiZTwvZnvNToRBJ6mY-5s8rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZTwvZnvNToRBJ6mY-5s8rc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:12"
+  },
+  {
+    "business_name": "mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "520008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 45,
+    "address": "2H4H+CX6, Narol Rd, Om Shanti Nagar, Behrampura, Ahmedabad, Gujarat 380022",
+    "area": "Om Shanti Nagar, Behrampura",
+    "latitude": 23.0060409,
+    "longitude": 72.5798777,
+    "place_id": "ChIJgXmgVPGFXjkRkHgSmYuBOck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXmgVPGFXjkRkHgSmYuBOck",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:14"
+  }
+]

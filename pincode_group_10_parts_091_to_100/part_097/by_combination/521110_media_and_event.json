@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marriage service",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "521110",
+    "phone_number": "+91 79930 22885",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "TTD KALYANAMANDAPAM, Akunuru, Andhra Pradesh 521245",
+    "area": "521110",
+    "latitude": 16.3926728,
+    "longitude": 80.81450099999999,
+    "place_id": "ChIJjeX5eqABNjoRzj6saNUBSUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeX5eqABNjoRzj6saNUBSUA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:46:37"
+  },
+  {
+    "business_name": "Media",
+    "search_category": "Media and Event",
+    "primary_category": "Media house",
+    "all_categories": "Media house, Service establishment",
+    "pincode": "521110",
+    "phone_number": "+91 96666 66581",
+    "website": "https://www.pvcprintandelectronicmedia.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Media, 521110, India",
+    "area": "521110",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJmUnUYztGHYsRpEdU_qzBHVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUnUYztGHYsRpEdU_qzBHVo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:46:39"
+  }
+]

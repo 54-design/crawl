@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bikaneer Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Indian restaurant",
+    "pincode": "521126",
+    "phone_number": "+91 98498 47105",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 380,
+    "address": "Komala Nagar Rd, Komala Nagar, Challapalli, Andhra Pradesh 521126",
+    "area": "Komala Nagar",
+    "latitude": 16.1177345,
+    "longitude": 80.9278382,
+    "place_id": "ChIJMUiKLOnwSToRroVzdnLLRUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUiKLOnwSToRroVzdnLLRUM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:56:44"
+  },
+  {
+    "business_name": "APSRTC BUS STAND , CHALLAPALLI",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Bus charter",
+    "all_categories": "Bus charter",
+    "pincode": "521126",
+    "phone_number": "N/A",
+    "website": "http://apsrtconline.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4W7J+8FM, NH 216, Challapalli, Andhra Pradesh 521126",
+    "area": "521126",
+    "latitude": 16.1133432,
+    "longitude": 80.93118439999999,
+    "place_id": "ChIJI4iZx-TwSToRYAUeLTFFC6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4iZx-TwSToRYAUeLTFFC6g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:56:46"
+  }
+]

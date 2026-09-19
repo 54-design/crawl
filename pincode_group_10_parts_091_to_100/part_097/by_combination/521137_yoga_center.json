@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rythmic sports and fitness club",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "521137",
+    "phone_number": "+91 88866 69559",
+    "website": "https://www.rythmic-fitness.com/",
+    "rating": 4.2,
+    "reviews_count": 26,
+    "address": "Door No: 248, Vijayawada Rd, opp. Dhanekula Institute Bus Stop, Gangur, Vijayawada, Andhra Pradesh 521151",
+    "area": "521137",
+    "latitude": 16.4607451,
+    "longitude": 80.7354423,
+    "place_id": "ChIJz0QcCBj9NToRQlvmsT8V-nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0QcCBj9NToRQlvmsT8V-nU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:12:10"
+  },
+  {
+    "business_name": "Sree Raama Hospital Yoga and Nature Cure",
+    "search_category": "Yoga Center",
+    "primary_category": "Old Age Home",
+    "all_categories": "Old Age Home",
+    "pincode": "521137",
+    "phone_number": "+91 98482 36102",
+    "website": "http://srhyoganaturecure.com/",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Penamaluru Chodavaram Main Road, Penamaluru, Andhra Pradesh 521139",
+    "area": "521137",
+    "latitude": 16.4623503,
+    "longitude": 80.71706669999999,
+    "place_id": "ChIJ946Dlob7NToRNjWdjAmy67w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ946Dlob7NToRNjWdjAmy67w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:12:10"
+  }
+]

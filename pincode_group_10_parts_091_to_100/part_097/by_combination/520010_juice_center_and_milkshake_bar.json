@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lavanya ice creams",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "520010",
+    "phone_number": "+91 78424 07774",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Jenda chettu centre, Ranigarithota, Chalasani Nagar, Vijayawada, Andhra Pradesh 520013",
+    "area": "Chalasani Nagar, Bapanayyanagar, Krishna Lanka",
+    "latitude": 16.498594699999998,
+    "longitude": 80.6357697,
+    "place_id": "ChIJsSFEjC77NToRdNhloKAsqUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSFEjC77NToRdNhloKAsqUM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:24"
+  },
+  {
+    "business_name": "Jismat Jail Mandi",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Middle Eastern restaurant",
+    "all_categories": "Middle Eastern restaurant",
+    "pincode": "520010",
+    "phone_number": "+91 93464 75555",
+    "website": "https://instagram.com/gismat_vijayawada?igshid=9wxaj6esmxxs",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Door No 40, Kbr Heights, 1st Floor, 1-116, above Reliance Trends, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Chandra Mouli Puram, Sriram Nagar, Benz Circle",
+    "latitude": 16.4978583,
+    "longitude": 80.6526458,
+    "place_id": "ChIJix4itQb7NToRAxBpDJ_huhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJix4itQb7NToRAxBpDJ_huhM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:25"
+  }
+]

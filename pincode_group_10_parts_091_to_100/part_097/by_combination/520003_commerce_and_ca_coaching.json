@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stay Learning",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Education center, Tutoring service",
+    "pincode": "520003",
+    "phone_number": "+91 92123 73738",
+    "website": "https://www.staylearning.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "K- 1, 145, near Gagan Bharti School, Mohan Garden, Block P, Uttam Nagar, Razapur Khurd, New Delhi, Delhi, 110059",
+    "area": "Mohan Garden, Block P, Uttam Nagar, Razapur Khurd",
+    "latitude": 28.6321874,
+    "longitude": 77.0398692,
+    "place_id": "ChIJm2uRhCcFDTkRzk3T5g_MPiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2uRhCcFDTkRzk3T5g_MPiY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:45"
+  },
+  {
+    "business_name": "EESHA COLLEGE OF COMMERCE",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "520003",
+    "phone_number": "+91 70133 82728",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 57,
+    "address": "Neon plaza, 44-1-1/2, Eluru Rd, beside HCG Cancer Hospital, Near Narayana College, Machavaram, Vijayawada, Andhra Pradesh 520004",
+    "area": "Near Narayana College, Machavaram",
+    "latitude": 16.5238933,
+    "longitude": 80.655271,
+    "place_id": "ChIJhfDocwnlNToRbsANFiHGdk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfDocwnlNToRbsANFiHGdk8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arjun rooms",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center, Lodging",
+    "pincode": "521157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Golvepalli - Addada - Gudlavalleru Rd, Gudlavalleru, Andhra Pradesh 521356",
+    "area": "521157",
+    "latitude": 16.349508699999998,
+    "longitude": 81.0454007,
+    "place_id": "ChIJuRwkHqUdNjoRq3rFuSjmAFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRwkHqUdNjoRq3rFuSjmAFY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:38"
+  },
+  {
+    "business_name": "Rice mill",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "521157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8WP5+PRR, Pamarru, Kanumuru, Andhra Pradesh 521157",
+    "area": "521157",
+    "latitude": 16.336854799999998,
+    "longitude": 80.9095279,
+    "place_id": "ChIJCbIhKwD9SToRs4qxHmGiIW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCbIhKwD9SToRs4qxHmGiIW4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:40"
+  }
+]

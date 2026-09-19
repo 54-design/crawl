@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy's Gokul Brindavan Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Self service restaurant",
+    "all_categories": "Self service restaurant, Breakfast restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "521122",
+    "phone_number": "+91 712 254 3007",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 7162,
+    "address": "Coffee House Builiding, W High Ct Rd, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.1422,
+    "longitude": 79.06105199999999,
+    "place_id": "ChIJb9dnjmDA1DsRogTF8oUtCWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9dnjmDA1DsRogTF8oUtCWM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:53:04"
+  },
+  {
+    "business_name": "Simply South",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521122",
+    "phone_number": "+91 98979 30722",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "4th floor, The Elanza, 141, Rajpur Rd, Jakhan, Dehradun, Uttarakhand 248001",
+    "area": "Jakhan",
+    "latitude": 30.3624278,
+    "longitude": 78.0684424,
+    "place_id": "ChIJi6coYkDXCDkRYfQGuSa3W1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6coYkDXCDkRYfQGuSa3W1E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:53:05"
+  }
+]

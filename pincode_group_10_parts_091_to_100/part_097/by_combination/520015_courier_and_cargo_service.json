@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AKR Express Parcel Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Delivery service, Logistics service, Shipping service, Transportation service",
+    "pincode": "520015",
+    "phone_number": "+91 94910 35255",
+    "website": "http://www.akrexpress.com/",
+    "rating": 3.9,
+    "reviews_count": 40,
+    "address": "Site No: B/21, Mango Market Compound, Nuzvid Rd, Nunna, Vijayawada, Andhra Pradesh 521212",
+    "area": "520015",
+    "latitude": 16.5617567,
+    "longitude": 80.669116,
+    "place_id": "ChIJISrQetz6NToRxLFvNjoD4mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISrQetz6NToRxLFvNjoD4mw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:24:34"
+  },
+  {
+    "business_name": "Shree Maruti Courier Service Pvt. Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Shipping service",
+    "pincode": "520015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 54,
+    "address": "Babu Rajendra Prasad Road, opp. to ICICI Bank, Vijayawada, Andhra Pradesh 520001",
+    "area": "Islampet",
+    "latitude": 16.519914099999998,
+    "longitude": 80.61528249999999,
+    "place_id": "ChIJZ-Y9QLH6NToRLNaR23YBACc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRLNaR23YBACc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:24:35"
+  }
+]

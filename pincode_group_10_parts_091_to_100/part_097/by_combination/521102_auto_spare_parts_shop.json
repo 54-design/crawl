@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAO AUTO AGENCY",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer",
+    "pincode": "521102",
+    "phone_number": "+91 94404 87579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "2ND CROSS ROAD, 7, 5th Rd, CORNER, Auto Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "2nd Cross, Jawahar Auto Nagar, CORNER, Auto Nagar",
+    "latitude": 16.4986663,
+    "longitude": 80.67570979999999,
+    "place_id": "ChIJI_UOldj6NToR8yooIRM-fMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_UOldj6NToR8yooIRM-fMw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:33:02"
+  },
+  {
+    "business_name": "Ramcor Volvo bus Workshop",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "521102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ramcor Eicher Gudavalli 520007, Andhra Pradesh 522259",
+    "area": "Gudavalli",
+    "latitude": 16.5123337,
+    "longitude": 80.7496283,
+    "place_id": "ChIJo4_m63b9NToRBa-Y4fuzhOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4_m63b9NToRBa-Y4fuzhOA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:33:03"
+  }
+]

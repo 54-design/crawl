@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vamsi Krishna Books and Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "521136",
+    "phone_number": "+91 96761 95318",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "45-40-15/2, Akkayyapalem Main Rd, Lalitha Nagar, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Lalitha Nagar, Akkayyapalem",
+    "latitude": 17.732667,
+    "longitude": 83.299308,
+    "place_id": "ChIJE4MFHNlDOToRxZfY7xu3DQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4MFHNlDOToRxZfY7xu3DQU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:59"
+  },
+  {
+    "business_name": "Sri Vijayalakshmi Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "521136",
+    "phone_number": "+91 94913 48230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-45 Pedasanagallu, Road, Pedapudi, Andhra Pradesh 521136",
+    "area": "521136",
+    "latitude": 16.2566201,
+    "longitude": 80.9154885,
+    "place_id": "ChIJXZ5FPjj9SToR0OiYdDMJ5y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZ5FPjj9SToR0OiYdDMJ5y0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:59"
+  }
+]

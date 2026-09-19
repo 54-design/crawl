@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunayana Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "520011",
+    "phone_number": "+91 99086 33227",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chiluku, Durgaiah St, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Governor Peta",
+    "latitude": 16.5138085,
+    "longitude": 80.63314009999999,
+    "place_id": "ChIJA-M9XFXlNToRAGDqbX9jTZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-M9XFXlNToRAGDqbX9jTZ4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:41"
+  },
+  {
+    "business_name": "Metro eye care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "520011",
+    "phone_number": "+91 89774 44977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Union Bank, Bhagat Singh Rd, opposite Andhra, Lakshmi Nagar, Sathyanayanapuram, Vijayawada, Andhra Pradesh 520011",
+    "area": "Lakshmi Nagar, Sathyanayanapuram",
+    "latitude": 16.52452,
+    "longitude": 80.638302,
+    "place_id": "ChIJIT-5qlDlNToR4-lzNzI-9nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIT-5qlDlNToR4-lzNzI-9nI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:44"
+  }
+]

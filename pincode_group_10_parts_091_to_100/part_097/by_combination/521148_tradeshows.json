@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exhibition Globe",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center, Event management company, Event planner, Event technology service, Event venue, Exhibit, Exhibition planner",
+    "pincode": "521148",
+    "phone_number": "+91 89070 90704",
+    "website": "https://exhibitionglobe.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1401 Plot No 60, Mayuresh Chambers, near Railway station, Sector 11, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+    "area": "Sector 11, CBD Belapur",
+    "latitude": 19.016959399999998,
+    "longitude": 73.0374377,
+    "place_id": "ChIJMea72yrD5zsRaYy5K28MTek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMea72yrD5zsRaYy5K28MTek",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:03"
+  },
+  {
+    "business_name": "INDIA MANUFACTURING SHOW",
+    "search_category": "Tradeshows",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization, Non-governmental organization, Non-profit organization",
+    "pincode": "521148",
+    "phone_number": "+91 11 4985 7777",
+    "website": "http://indiamanufacturingshow.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "15, 47th A Cross, near Gelli Apartments, 8th Block, 8h Block, Jaya Nagar, Bengaluru, Karnataka 560078",
+    "area": "8th Block, 8h Block, Jaya Nagar",
+    "latitude": 12.9168427,
+    "longitude": 77.5760987,
+    "place_id": "ChIJEe8sIHcVrjsR3xRNecjp2cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEe8sIHcVrjsR3xRNecjp2cY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:04"
+  }
+]

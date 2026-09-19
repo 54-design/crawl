@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mannan Hyderabadi biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Chicken restaurant",
+    "pincode": "521133",
+    "phone_number": "+91 99808 80226",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "57A Kaniminike Kumbalagodu Post,Kengeri Hobli, Mysore Rd, near Christ college, K.G.Kanaminake, Karnataka 560074",
+    "area": "Kanmanike",
+    "latitude": 12.862740599999999,
+    "longitude": 77.434553,
+    "place_id": "ChIJYVB7MgBHrjsRX9iYBTR5ads",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVB7MgBHrjsRX9iYBTR5ads",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:04:10"
+  },
+  {
+    "business_name": "Masala Chicken Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "521133",
+    "phone_number": "+91 97999 45009",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "P-66, Junction, opposite Jaipur, Sen Colony, Gopalbari, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Sen Colony, Gopalbari",
+    "latitude": 26.920567199999997,
+    "longitude": 75.7887958,
+    "place_id": "ChIJ09zZlTyzbTkRSGLiejqLnuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09zZlTyzbTkRSGLiejqLnuU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:04:11"
+  }
+]

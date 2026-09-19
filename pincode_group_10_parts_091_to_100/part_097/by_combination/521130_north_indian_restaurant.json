@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL PARTHA SARATHI",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "521130",
+    "phone_number": "+91 73493 22246",
+    "website": "https://www.youtube.com/@HOTELPARTHASARATHI-2024",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Malavalli, Baachana Halli, Karnataka 571430",
+    "area": "521130",
+    "latitude": 12.3451875,
+    "longitude": 77.0836875,
+    "place_id": "ChIJldPTRAAFrzsRodogczbhXx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldPTRAAFrzsRodogczbhXx8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:58:33"
+  },
+  {
+    "business_name": "RR Family Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Biryani restaurant, Dhaba, North Indian restaurant",
+    "pincode": "521130",
+    "phone_number": "+91 861232004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near NARAYANA ENGINEERING COLLEGE, Muthukur, Nellore, Andhra Pradesh 524003",
+    "area": "Muthukur",
+    "latitude": 14.435209799999999,
+    "longitude": 79.9940293,
+    "place_id": "ChIJySORbU_zTDoRbnfUC7emj5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySORbU_zTDoRbnfUC7emj5s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:58:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indira Pet Clinic 24/7",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care, Pet store",
+    "pincode": "521110",
+    "phone_number": "+91 80 2525 9475",
+    "website": "https://www.indirapetclinic.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "39/6, 7th Main Rd, opp. Ambedkar College, HAL 2nd Stage, Motappapalya, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "HAL 2nd Stage, Motappapalya, Indiranagar",
+    "latitude": 12.972564499999999,
+    "longitude": 77.6377894,
+    "place_id": "ChIJVVVVhQIUrjsRH_eWqAX4oFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVhQIUrjsRH_eWqAX4oFQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:46:00"
+  },
+  {
+    "business_name": "Dr. Vet",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal feed store, Pet groomer, Pet supply store, Animal hospital, Veterinary pharmacy",
+    "pincode": "521110",
+    "phone_number": "+91 88841 59566",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 97,
+    "address": "X6GH+3Q7 College, 65-5-28, Thyagaraja St, near GPT Road, Mehar Nagar, G.P.T.Colony, Suryaraopeta, Andhra Pradesh 533003",
+    "area": "Mehar Nagar, G.P.T.Colony",
+    "latitude": 16.9759196,
+    "longitude": 82.2299716,
+    "place_id": "ChIJ1TJ5aHgpODoRozwnzSMf6-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TJ5aHgpODoRozwnzSMf6-g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:46:00"
+  }
+]

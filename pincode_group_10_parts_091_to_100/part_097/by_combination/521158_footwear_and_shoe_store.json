@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sopanam Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Foot care",
+    "pincode": "521158",
+    "phone_number": "+91 98465 40084",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Venjarammoodu, Nellanad, Keralam 695607",
+    "area": "521158",
+    "latitude": 8.678357199999999,
+    "longitude": 76.9095237,
+    "place_id": "ChIJPdYo4kjBBTsRJfHnJ9CGkmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdYo4kjBBTsRJfHnJ9CGkmg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:30:43"
+  },
+  {
+    "business_name": "thoppuvila Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Footwear wholesaler",
+    "all_categories": "Footwear wholesaler",
+    "pincode": "521158",
+    "phone_number": "+91 99462 75507",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Palace Rd, Attingal, Keralam 695101",
+    "area": "521158",
+    "latitude": 8.695148,
+    "longitude": 76.818215,
+    "place_id": "ChIJqaqg5fjpBTsRxD8lKxzCFxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqaqg5fjpBTsRxD8lKxzCFxY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:30:43"
+  }
+]

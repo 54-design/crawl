@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEA TIME",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521136",
+    "phone_number": "+91 85558 87362",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "NH 65, Vijayawada - Machilipatnam Rd, beside Maa Dhaba Restaurant, Pamarru, Pedamaddali, Andhra Pradesh 521157",
+    "area": "521136",
+    "latitude": 16.3364989,
+    "longitude": 80.9541019,
+    "place_id": "ChIJZWkgKzz9SToRWbVSuLctaJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWkgKzz9SToRWbVSuLctaJg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:48"
+  },
+  {
+    "business_name": "Chai adda",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "521136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 154,
+    "address": "Gangur, Andhra Pradesh 521139",
+    "area": "521136",
+    "latitude": 16.4665479,
+    "longitude": 80.73042749999999,
+    "place_id": "ChIJh1ZsJH77NToR9Annmm16ccE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1ZsJH77NToR9Annmm16ccE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:50"
+  }
+]

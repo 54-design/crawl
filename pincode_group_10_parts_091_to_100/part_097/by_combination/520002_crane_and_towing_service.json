@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "520002",
+    "phone_number": "+91 99719 60094",
+    "website": "https://saicraneservices.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "HOUSE NO. 206, Huda Colony, Sector 3, Faridabad, Haryana 121004",
+    "area": "Huda Colony, Sector 3",
+    "latitude": 28.3513886,
+    "longitude": 77.3305164,
+    "place_id": "ChIJKa0cBWPbDDkRnj0qQ21kURU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKa0cBWPbDDkRnj0qQ21kURU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:06:17"
+  },
+  {
+    "business_name": "Cat Towing and transportation",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "520002",
+    "phone_number": "N/A",
+    "website": "https://www.cat-towing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cat Towing and transportation, 520002, India",
+    "area": "520002",
+    "latitude": 41.703293599999995,
+    "longitude": -87.9357745,
+    "place_id": "ChIJxxiHAHCjD4gRDZwc5Y00Bf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxiHAHCjD4gRDZwc5Y00Bf4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:06:18"
+  }
+]

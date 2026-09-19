@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh Eye Clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "521104",
+    "phone_number": "+91 866 255 0399",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "FMMM+MWJ, Vijayawada Rd, Kamayyathopu Centre, Padmaja Nagar, Kanuru, Vijayawada, Andhra Pradesh 520007",
+    "area": "Kamayyathopu Centre, Padmaja Nagar, Kanuru",
+    "latitude": 16.484206,
+    "longitude": 80.684764,
+    "place_id": "ChIJpV52txv7NToR1UrJdWMA-Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpV52txv7NToR1UrJdWMA-Ns",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:42"
+  },
+  {
+    "business_name": "Eye Care Opticals & Clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "521104",
+    "phone_number": "+91 77889 91727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 79,
+    "address": "KS Talkies Rd, beside Sita Mahalakshmi Nursing Home Infront Of Bsnl Office, Sivaji Colony, Bapulapadu, Andhra Pradesh 521105",
+    "area": "Sivaji Colony, Bapulapadu",
+    "latitude": 16.635842399999998,
+    "longitude": 80.9682208,
+    "place_id": "ChIJ78o9dZ0NNjoRwpHlJLAuFdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78o9dZ0NNjoRwpHlJLAuFdI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Belt House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "521148",
+    "phone_number": "+91 11 4940 7696",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 77,
+    "address": "2856-57, Partap Mkt., Sadar Bazar, Chandni Chowk, Rui Mandi, Sadar Bazaar, New Delhi, Delhi 110006",
+    "area": "Rui Mandi, Sadar Bazar",
+    "latitude": 28.659194799999998,
+    "longitude": 77.2156584,
+    "place_id": "ChIJAQAAAG_9DDkRnZT11DZYFrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAG_9DDkRnZT11DZYFrM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:17:40"
+  },
+  {
+    "business_name": "Taj Leather Garments",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Leather coats store, Leather Products Manufacturer, Leather goods supplier, Leather Goods Wholesaler, Leather repair service",
+    "pincode": "521148",
+    "phone_number": "+91 99113 61784",
+    "website": "https://www.tajleatherluxury.com/",
+    "rating": 4.3,
+    "reviews_count": 558,
+    "address": "Shop No A, 40, BHIKAJI CAMA PLACE, Ram Mandir Gali, Mohammadpur, Rama Krishna Puram, New Delhi, Delhi 110066",
+    "area": "Mohammadpur, Rama Krishna Puram",
+    "latitude": 28.5656021,
+    "longitude": 77.1880518,
+    "place_id": "ChIJ1xq3DzodDTkRMaxJcudCq8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xq3DzodDTkRMaxJcudCq8E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:17:42"
+  }
+]

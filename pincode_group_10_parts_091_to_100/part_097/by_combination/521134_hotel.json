@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAPPY STAYS ElITE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521134",
+    "phone_number": "+91 91337 92345",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 41,
+    "address": "475, RTC Workshop Rd, Kamayyathopu, Mytri Nagar, Kanuru, Penumuluru, Kanuru, Andhra Pradesh 520010",
+    "area": "Kamayyathopu, Mytri Nagar, Kanuru",
+    "latitude": 16.491986,
+    "longitude": 80.68605099999999,
+    "place_id": "ChIJdYUwgyL7NToR2Sd31bJqMAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYUwgyL7NToR2Sd31bJqMAk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:07:02"
+  },
+  {
+    "business_name": "The Butterfly Luxury Serviced Apartments",
+    "search_category": "Hotel",
+    "primary_category": "Service Apartment",
+    "all_categories": "Service Apartment, Holiday apartment rental, Hotel",
+    "pincode": "521134",
+    "phone_number": "+91 80085 88871",
+    "website": "https://www.butterflyservicedapartments.com/",
+    "rating": 4.4,
+    "reviews_count": 81,
+    "address": "59-7-2, Acharya Ranga Rd, beside Brew Buzz Coffee Shop, Panpana, 2nd Ln, Krishna Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Panpana, 2nd Lane, Krishna Nagar",
+    "latitude": 16.5031286,
+    "longitude": 80.6564209,
+    "place_id": "ChIJNdEHgsT7NToR9cOw7gi-chE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdEHgsT7NToR9cOw7gi-chE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:07:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "521134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "FM9F+FC8, Pedapulipaka, Andhra Pradesh 521134",
+    "area": "521134",
+    "latitude": 16.468283,
+    "longitude": 80.67375299999999,
+    "place_id": "ChIJtdA8LwD7NToRH6WiIEYZaSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdA8LwD7NToRH6WiIEYZaSo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:06"
+  },
+  {
+    "business_name": "MVR Jalsa Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant",
+    "pincode": "521134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 366,
+    "address": "Markandeya Nagar, Ramalingeswara Nagar, Pedapulipaka, Andhra Pradesh 520007",
+    "area": "Markandeya Nagar, Ramalingeswara Nagar",
+    "latitude": 16.4790875,
+    "longitude": 80.66410719999999,
+    "place_id": "ChIJfRYzTbX7NToR4pThl_mb6wM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRYzTbX7NToR4pThl_mb6wM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:08"
+  }
+]

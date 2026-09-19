@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Praja Vaidhyashala",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "QJ6V+G68, Mylavaram, Andhra Pradesh 521230",
+    "area": "521136",
+    "latitude": 16.7612755,
+    "longitude": 80.6430639,
+    "place_id": "ChIJyVV5F2bdNToRrf25BNYRQv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVV5F2bdNToRrf25BNYRQv0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:18"
+  },
+  {
+    "business_name": "Korlakunta Health Clinc",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "521136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4GWC+PF8, Korlakunta, Andhra Pradesh 516267",
+    "area": "521136",
+    "latitude": 14.1467815,
+    "longitude": 78.5211881,
+    "place_id": "ChIJ5_m_FACvszsRaXRZ9wZ_qvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_m_FACvszsRaXRZ9wZ_qvY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:19"
+  }
+]

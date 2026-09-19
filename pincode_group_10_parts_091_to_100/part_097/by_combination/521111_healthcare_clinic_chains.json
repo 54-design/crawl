@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "URBAN PRIMARY HEALTH CENTER",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "JCM6+7XF, Balaji Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Balaji Colony",
+    "latitude": 13.6331896,
+    "longitude": 79.412606,
+    "place_id": "ChIJe80OdftLTToRWjeZKSAxIis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe80OdftLTToRWjeZKSAxIis",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:47:53"
+  },
+  {
+    "business_name": "Lahiri Hospital for Women and Children",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Hospital",
+    "pincode": "521111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 47,
+    "address": "35P6+6VQ, Subhani Nagar, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "Subhani Nagar",
+    "latitude": 16.085591,
+    "longitude": 80.1622257,
+    "place_id": "ChIJq1oQ9hJjSjoRzn4Fy6E-1XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1oQ9hJjSjoRzn4Fy6E-1XE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:47:53"
+  }
+]

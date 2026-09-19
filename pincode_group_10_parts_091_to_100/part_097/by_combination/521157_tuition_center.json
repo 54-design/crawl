@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yuva Defence Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "521157",
+    "phone_number": "+91 95737 96988",
+    "website": "https://www.yuvadefenceacademy.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "FJ23+V4M, Vijayawada - Guntur Hwy, Vaddeswaram, Kolanukonda, Andhra Pradesh 522302",
+    "area": "Vaddeswaram",
+    "latitude": 16.452225,
+    "longitude": 80.6028003,
+    "place_id": "ChIJmwATMO7wNToRHCwGltY0P9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwATMO7wNToRHCwGltY0P9I",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:47"
+  },
+  {
+    "business_name": "Prasanna junior College",
+    "search_category": "Tuition Center",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "521157",
+    "phone_number": "+91 74164 48389",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "8XG2+7G8, NH 65, Kothapet, Pamarru, Andhra Pradesh 521157",
+    "area": "Kothapet",
+    "latitude": 16.3251506,
+    "longitude": 80.9506633,
+    "place_id": "ChIJu4tTqJT9SToRqRYIAGlAFhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4tTqJT9SToRqRYIAGlAFhc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:47"
+  }
+]

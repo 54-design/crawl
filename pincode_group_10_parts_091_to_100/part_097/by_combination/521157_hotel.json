@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Mutyala",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521157",
+    "phone_number": "+91 81422 17910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ntr Circle, Krishna, NH-9, Mahatma Gandhi Road, Pamarru, Pamarru, Andhra Pradesh 521157",
+    "area": "521157",
+    "latitude": 16.3228,
+    "longitude": 80.96039999999999,
+    "place_id": "ChIJZ-Sz42v9SToRcm9TAGxU9nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Sz42v9SToRcm9TAGxU9nU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:37"
+  },
+  {
+    "business_name": "HOTEL SAROVAR INN",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Sarovar inn, Bus stand road, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4312288,
+    "longitude": 80.9963349,
+    "place_id": "ChIJ-W5T5_MdNjoRTzdKbZNuqa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-W5T5_MdNjoRTzdKbZNuqa8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:29:38"
+  }
+]

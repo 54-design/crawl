@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Allapuram world Trade center",
+    "search_category": "Tradeshows",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "521101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 233, Allapuram, Andhra Pradesh 521101",
+    "area": "521101",
+    "latitude": 16.5402521,
+    "longitude": 80.8194252,
+    "place_id": "ChIJTbfbWgAJNjoRtiJ9PDt02dU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbfbWgAJNjoRtiJ9PDt02dU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:32:13"
+  },
+  {
+    "business_name": "Gannavaram Andhra Pradesh",
+    "search_category": "Tradeshows",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "521101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GRR8+8GG, Gudivada Rd, Allapuram, Andhra Pradesh 521101",
+    "area": "521101",
+    "latitude": 16.5408199,
+    "longitude": 80.8163246,
+    "place_id": "ChIJxQL_JRkINjoRM1SL7sWvDgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQL_JRkINjoRM1SL7sWvDgI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:32:15"
+  }
+]

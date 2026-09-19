@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sujatha Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "521111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite street to Sub collector office, Gandhi Nagar, Nuzividu, Andhra Pradesh 521201",
+    "area": "Gandhi Nagar",
+    "latitude": 16.7921612,
+    "longitude": 80.8401975,
+    "place_id": "ChIJVSKjQmN1NjoRzmtFbi9ai20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSKjQmN1NjoRzmtFbi9ai20",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:47:20"
+  },
+  {
+    "business_name": "Sree venkateswara flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Inn",
+    "all_categories": "Inn",
+    "pincode": "521111",
+    "phone_number": "+91 99630 65519",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adharsanagar ambedkar statue, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "MVP Colony",
+    "latitude": 17.737015799999998,
+    "longitude": 83.3334302,
+    "place_id": "ChIJ66cUC2pDOToRQEYVBN_xSdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66cUC2pDOToRQEYVBN_xSdk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:47:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Fish Land",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "520010",
+    "phone_number": "+91 92933 20262",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop Number 1, Fish Market, Gopavarapugudem, Patamatalanka, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Gopavarapugudem, Patamatalanka, Benz Circle",
+    "latitude": 16.490866999999998,
+    "longitude": 80.6541307,
+    "place_id": "ChIJN9nFipb7NToRMM7u1fNVPCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9nFipb7NToRMM7u1fNVPCg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:20"
+  },
+  {
+    "business_name": "Siri live fish",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "520010",
+    "phone_number": "+91 84999 19999",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "2-2, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Revenue Colony Park, Sidhartha Nagar, Labbipet",
+    "latitude": 16.505075599999998,
+    "longitude": 80.64677569999999,
+    "place_id": "ChIJR3WQhwH7NToR-4mEMDn-JZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3WQhwH7NToR-4mEMDn-JZQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:22"
+  }
+]

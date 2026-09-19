@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva's pet zone",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521149",
+    "phone_number": "+91 90000 03722",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 21,
+    "address": "11-10-694/7, 2/1, Khammam Bypass Rd, Raparthi Nagar, Bhuranpuram, Telangana 507001",
+    "area": "Raparthi Nagar",
+    "latitude": 17.265795999999998,
+    "longitude": 80.1420339,
+    "place_id": "ChIJXdpf2VFZNDoRPtyslwUKo2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdpf2VFZNDoRPtyslwUKo2s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:20"
+  },
+  {
+    "business_name": "Meghana Pet Mart",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521149",
+    "phone_number": "+91 85005 81282",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 71,
+    "address": "BSNL Main Office GMTD GUNTUR BA, Chandramouli Nagar 1st Lane, Ring Rd, Lakshmipuram, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram, Chandramouli Nagar",
+    "latitude": 16.3133466,
+    "longitude": 80.4293854,
+    "place_id": "ChIJee46nXd1SjoRb_uErtDCEOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee46nXd1SjoRb_uErtDCEOo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:20"
+  }
+]

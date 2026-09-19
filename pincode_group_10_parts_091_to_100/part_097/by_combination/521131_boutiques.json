@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swarna Tailoring shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521131",
+    "phone_number": "+91 73826 65467",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-155, Mangalapuram, Andhra Pradesh 521131",
+    "area": "521131",
+    "latitude": 16.1172173,
+    "longitude": 80.97162139999999,
+    "place_id": "ChIJsRraPEbxSToRYlD0MK2MsSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRraPEbxSToRYlD0MK2MsSg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:00:41"
+  },
+  {
+    "business_name": "Venkateswara Traders",
+    "search_category": "Boutiques",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "521131",
+    "phone_number": "+91 94914 65866",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Mallampalle road, near purushottam rice mill, Ghantasala, Andhra Pradesh 521133",
+    "area": "521131",
+    "latitude": 16.172283099999998,
+    "longitude": 80.9467694,
+    "place_id": "ChIJDafP7zv7SToRmpkyvv3I-hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDafP7zv7SToRmpkyvv3I-hQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:00:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sri dhurga vilas",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "521121",
+    "phone_number": "+91 94406 05258",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "main road, opp. TTD Kalyana Mandapam, Avanigadda, Andhra Pradesh 521121",
+    "area": "521121",
+    "latitude": 16.0234776,
+    "longitude": 80.9141412,
+    "place_id": "ChIJ2e3qIPTzSToR9YCNQ1t_A-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2e3qIPTzSToR9YCNQ1t_A-4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:17"
+  },
+  {
+    "business_name": "A1 FOOD COURT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "521121",
+    "phone_number": "+91 92481 23449",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "State Bank road, Avanigadda, Andhra Pradesh 521121",
+    "area": "521121",
+    "latitude": 16.0233803,
+    "longitude": 80.91449159999999,
+    "place_id": "ChIJFb75mUXzSToRKbOzFQv_c7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFb75mUXzSToRKbOzFQv_c7A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:17"
+  }
+]

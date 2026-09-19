@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Evershine Departmental",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Department store",
+    "pincode": "521149",
+    "phone_number": "+91 88846 66313",
+    "website": "http://evershinedepartment.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "No. 304/1, Sampige Road, 2nd Main Rd, Malleshwaram, Bengaluru, Karnataka 560003",
+    "area": "Sangeetha Apts, Yalappa Garden, Malleshwaram",
+    "latitude": 12.9993964,
+    "longitude": 77.5714785,
+    "place_id": "ChIJRz9gZSUWrjsRpVBSnJeZvrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRz9gZSUWrjsRpVBSnJeZvrM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:20:20"
+  },
+  {
+    "business_name": "Traditional treasures",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft, Antique store, Gift shop, Idol manufacturer",
+    "pincode": "521149",
+    "phone_number": "+91 89786 38259",
+    "website": "https://flax.bio/traditional.treasures./traditional.treasures",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "231/114 , Shop number -1, sahakarnagar, JNS complex , A -block 20th main, 15th Main Rd, near The cafe buddha, Sahakar Nagar, Bengaluru, Karnataka 560092",
+    "area": "Sahakar Nagar",
+    "latitude": 13.064105099999999,
+    "longitude": 77.58670579999999,
+    "place_id": "ChIJVW5-Sb8VrjsRRdzFZp10x9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVW5-Sb8VrjsRRdzFZp10x9c",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:20:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal banquet hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Function room facility",
+    "all_categories": "Function room facility",
+    "pincode": "520003",
+    "phone_number": "+91 81791 89255",
+    "website": "https://royalbanquethall.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Br ambedkar inner ring road Pipula, road, Ajit Singh Nagar, Payikapuram, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, Payakapuram",
+    "latitude": 16.5450513,
+    "longitude": 80.6432793,
+    "place_id": "ChIJEwro7-blNToRbstqj6yqJIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwro7-blNToRbstqj6yqJIQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:33"
+  },
+  {
+    "business_name": "Antra Banquets",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "520003",
+    "phone_number": "+91 90000 43128",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 625,
+    "address": "D, 59-13-9, 1st Ln, opp. Stella college, Panpana, Krishna Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Panpana, Krishna Nagar, Benz Circle",
+    "latitude": 16.5024949,
+    "longitude": 80.6579847,
+    "place_id": "ChIJE3qK0Mr7NToRQcDWRRj_XU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3qK0Mr7NToRQcDWRRj_XU0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:34"
+  }
+]

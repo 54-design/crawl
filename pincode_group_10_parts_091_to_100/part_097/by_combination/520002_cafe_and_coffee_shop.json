@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chikmagalur Caffé",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Coffee store",
+    "pincode": "520002",
+    "phone_number": "+91 79890 12567",
+    "website": "http://www.facebook.com/chikmagalurcaffe",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chandramouli Puram, 1/4, Chandra Mouli Puram, Acharya Ranga Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Chandra Mouli Puram, Acharya Ranga Nagar, Benz Circle",
+    "latitude": 16.4982823,
+    "longitude": 80.6523297,
+    "place_id": "ChIJ3_5nuhH7NToRzfosD56mLLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_5nuhH7NToRzfosD56mLLk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:05:43"
+  },
+  {
+    "business_name": "Cafe Habibi",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "520002",
+    "phone_number": "+91 81859 35823",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "no-29-13-10/2, Kaleswararao Rd, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Governor Peta",
+    "latitude": 16.511409399999998,
+    "longitude": 80.6341164,
+    "place_id": "ChIJmSKq-TH7NToRFJ53-HVRQvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSKq-TH7NToRFJ53-HVRQvo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:05:44"
+  }
+]

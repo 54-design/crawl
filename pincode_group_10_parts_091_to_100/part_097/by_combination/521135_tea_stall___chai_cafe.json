@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaiलत",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "521135",
+    "phone_number": "+91 94775 58121",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, 16, Bagmari Lane, near S3B, opposite to Pratik, BRS 10, Kankurgachi, Kolkata, West Bengal 700054",
+    "area": "BRS 10, Kankurgachi",
+    "latitude": 22.5810425,
+    "longitude": 88.3915426,
+    "place_id": "ChIJIdhtXXh3AjoRrhejPgc6wWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdhtXXh3AjoRrhejPgc6wWQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:07:56"
+  },
+  {
+    "business_name": "Krishna Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "521135",
+    "phone_number": "+91 96806 82228",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "marudhar kesri dharam shala, street, Badi Basti, Pushkar, Rajasthan 305022",
+    "area": "Badi Basti",
+    "latitude": 26.4897162,
+    "longitude": 74.55406049999999,
+    "place_id": "ChIJ1xxQTyLdazkRaAkKWgLJoqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xxQTyLdazkRaAkKWgLJoqU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:07:56"
+  }
+]

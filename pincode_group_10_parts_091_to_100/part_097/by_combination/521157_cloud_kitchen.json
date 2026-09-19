@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paaru's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A V A Road, Opposit, above Krishna Kalyani Restaurant, behind Sivalayam, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Prakasam Nagar",
+    "latitude": 17.0074442,
+    "longitude": 81.7907963,
+    "place_id": "ChIJV_wxlRSjNzoREKW8d6n8WW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_wxlRSjNzoREKW8d6n8WW4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:28:45"
+  },
+  {
+    "business_name": "Rajyani's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "521157",
+    "phone_number": "+91 83284 75233",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "16-26-11/1A, near Port Railway Station Area, Venkateswara Nagar, Revenue Colony, Kakinada, Andhra Pradesh 533001",
+    "area": "Venkateswara Nagar, Revenue Colony",
+    "latitude": 16.9533384,
+    "longitude": 82.24290169999999,
+    "place_id": "ChIJj7tPY5gnODoRhQnwK11fDgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7tPY5gnODoRhQnwK11fDgw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:28:45"
+  }
+]

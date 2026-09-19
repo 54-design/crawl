@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sunflower College of Engineering And Technology",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "521131",
+    "phone_number": "+91 85006 68031",
+    "website": "https://www.sunflowercet.edu.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Department of Computer Science, Ghantasala Mandal, Krishna District, Lankapalli, NH 216, Lankapalli, Andhra Pradesh 521131",
+    "area": "521131",
+    "latitude": 16.1350393,
+    "longitude": 80.9921985,
+    "place_id": "ChIJweh71ubvSToRb_WSyt_oopk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweh71ubvSToRb_WSyt_oopk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:01:30"
+  },
+  {
+    "business_name": "KComputers",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer consultant, Computer desk store, Computer networking service, Computer repair service, Computer service, Computer Wholesaler",
+    "pincode": "521131",
+    "phone_number": "+91 98499 03150",
+    "website": "https://www.kcomputers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1-2-234/13/45, New SBH Colony, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "New SBH Colony, Himayatnagar",
+    "latitude": 17.4091409,
+    "longitude": 78.4880977,
+    "place_id": "ChIJ2ToH6-iZyzsRcyTlp4ebyFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ToH6-iZyzsRcyTlp4ebyFk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:01:33"
+  }
+]

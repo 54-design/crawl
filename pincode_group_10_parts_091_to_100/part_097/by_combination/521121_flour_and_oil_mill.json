@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oil@floor mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "521121",
+    "phone_number": "+91 94941 72721",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6G6W+2F8, Dondapudi, Andhra Pradesh 534318",
+    "area": "521121",
+    "latitude": 17.2100462,
+    "longitude": 81.5460306,
+    "place_id": "ChIJi2lKcWgDNzoRLU6n22hW8GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2lKcWgDNzoRLU6n22hW8GA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:41"
+  },
+  {
+    "business_name": "PUSHPA OIL & FLOUR MILLS",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "521121",
+    "phone_number": "+91 73563 75992",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Periye, Keralam 671320",
+    "area": "521121",
+    "latitude": 12.4027485,
+    "longitude": 75.1027079,
+    "place_id": "ChIJebpB13aHpDsRBbaWu3D4GnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebpB13aHpDsRBbaWu3D4GnY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:42"
+  }
+]

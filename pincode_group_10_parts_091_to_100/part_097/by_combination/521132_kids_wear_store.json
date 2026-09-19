@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvana Fancy Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "521132",
+    "phone_number": "+91 95157 52240",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "3-99, Potharlanka, Tenali, Andhra Pradesh 522324",
+    "area": "521132",
+    "latitude": 16.1551097,
+    "longitude": 80.8318402,
+    "place_id": "ChIJ-7m6aF_5SToRExjMkPUqc4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7m6aF_5SToRExjMkPUqc4g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:24"
+  },
+  {
+    "business_name": "USPA KIDS",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "521132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GM35+3XH, RTC Colony, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "RTC Colony, Benz Circle",
+    "latitude": 16.5026971,
+    "longitude": 80.6599705,
+    "place_id": "ChIJJ_CwF1v7NToRRZyCrZ-uPHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_CwF1v7NToRRZyCrZ-uPHQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SN AUTO ENTERPRISES",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "520011",
+    "phone_number": "+91 90002 33383",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 109,
+    "address": "GM5F+86G, Auto Nagar, Kanuru, Andhra Pradesh 520007",
+    "area": "Auto Nagar",
+    "latitude": 16.508320299999998,
+    "longitude": 80.67307149999999,
+    "place_id": "ChIJmytEjpv7NToRDstpW4uyyKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmytEjpv7NToRDstpW4uyyKk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:51"
+  },
+  {
+    "business_name": "SRK Wash n Waxx",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Service establishment",
+    "pincode": "520011",
+    "phone_number": "N/A",
+    "website": "https://srkwashnwaxx.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SRK Wash n Waxx, 520011, India",
+    "area": "520011",
+    "latitude": 17.0442771,
+    "longitude": 79.4246962,
+    "place_id": "ChIJW6FIrxC0lggRLXJgXDAh4es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6FIrxC0lggRLXJgXDAh4es",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:52"
+  }
+]

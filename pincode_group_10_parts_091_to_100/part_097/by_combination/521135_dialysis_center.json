@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kidney Health Centre- Best dialysis centre in Delhi",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Doctor",
+    "pincode": "521135",
+    "phone_number": "+91 80762 30603",
+    "website": "https://kidneyhealthcentre.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main Rd, near Chacha Nehru Hospital, Block 4, Geeta Colony, Delhi, 110031",
+    "area": "Block 4, Geeta Colony",
+    "latitude": 28.6529769,
+    "longitude": 77.270608,
+    "place_id": "ChIJNdLF5sj9DDkR0JaRobGj2Bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdLF5sj9DDkR0JaRobGj2Bo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:20"
+  },
+  {
+    "business_name": "DCDC Kidney Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "521135",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/dialysis-center-in-krishna-nagar-delhi",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "451, jheel chowk, opposite new taneja dairy, Jheel Kuranja, Jheel Khurenja, Krishna Nagar, Delhi, 110051",
+    "area": "Jheel Kuranja, Jheel Khurenja, Krishna Nagar",
+    "latitude": 28.657693899999998,
+    "longitude": 77.2735525,
+    "place_id": "ChIJJ_rELlP9DDkRzMrNMRIspS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_rELlP9DDkRzMrNMRIspS8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:21"
+  }
+]

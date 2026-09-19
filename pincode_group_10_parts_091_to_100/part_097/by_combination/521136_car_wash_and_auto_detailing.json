@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkateswara Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "521136",
+    "phone_number": "+91 94931 40965",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "Vijayawada Rd, opposite current office, beside manchineti kaluva, Pamarru, Andhra Pradesh 521157",
+    "area": "521136",
+    "latitude": 16.3199772,
+    "longitude": 80.972006,
+    "place_id": "ChIJ-fOirL_9SToRjIkUVSHicWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fOirL_9SToRjIkUVSHicWk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:19"
+  },
+  {
+    "business_name": "A1 Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "521136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FHVV+GHW, Undavalli, Andhra Pradesh 522501",
+    "area": "Undavalli",
+    "latitude": 16.4940932,
+    "longitude": 80.5943911,
+    "place_id": "ChIJtwkCegDxNToRGHg-5_P2qKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwkCegDxNToRGHg-5_P2qKI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:22"
+  }
+]

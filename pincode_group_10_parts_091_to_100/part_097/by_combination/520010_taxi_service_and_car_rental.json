@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijayawada Car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "520010",
+    "phone_number": "+91 91218 75566",
+    "website": "https://vijayawadacartravel.com/",
+    "rating": 4.8,
+    "reviews_count": 79,
+    "address": "D No 39-4-11 , DURGA RICE MILL BAZAR MASZID STREET LABBIPET, Vijayawada East, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.5000035,
+    "longitude": 80.6400405,
+    "place_id": "ChIJw3qt0o77NToRr9XBze_hwgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3qt0o77NToRr9XBze_hwgU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:59"
+  },
+  {
+    "business_name": "Lucky Car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "520010",
+    "phone_number": "+91 94945 41234",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 53,
+    "address": "Nirmala Complex, 40-6-28/2, Ground Floor, beside Hotel Fourtune Murali Park, Krishna Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Revenue Colony Park, Krishna Nagar, Labbipet",
+    "latitude": 16.5011808,
+    "longitude": 80.6461223,
+    "place_id": "ChIJ39D1Jhz7NToR2TM5VB7GymE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39D1Jhz7NToR2TM5VB7GymE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:59"
+  }
+]

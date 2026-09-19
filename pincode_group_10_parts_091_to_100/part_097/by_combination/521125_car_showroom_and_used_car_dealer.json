@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto auction",
+    "all_categories": "Auto auction",
+    "pincode": "521125",
+    "phone_number": "+91 83418 87986",
+    "website": "http://www.manojcars.live/",
+    "rating": 4.3,
+    "reviews_count": 120,
+    "address": "30-2-537, NH163, 3-3-33/34, Devarpula - Hanamkonda Rd, beside mahendra showroom, Madikonda, Kazipet, Telangana 506003",
+    "area": "Madikonda",
+    "latitude": 17.967673899999998,
+    "longitude": 79.4919055,
+    "place_id": "ChIJkYK1tgxPMzoRua9qp3UpnoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYK1tgxPMzoRua9qp3UpnoE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:55:20"
+  },
+  {
+    "business_name": "Famous Car Mart",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "521125",
+    "phone_number": "+91 81010 10119",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "C9WV+QVJ, Guttala_Begumpet, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Guttala_Begumpet, Kavuri Hills, Madhapur",
+    "latitude": 17.4469456,
+    "longitude": 78.39475159999999,
+    "place_id": "ChIJOxi41l-RyzsRXZbauzZKf4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxi41l-RyzsRXZbauzZKf4Y",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:55:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Twilight Planners",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "521139",
+    "phone_number": "+91 99648 13055",
+    "website": "http://www.twilightplanners.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Amara Jyothi School Road, Vinayaka Nagar, Hale Devasandra, Krishnarajapuram, Bengaluru, Karnataka 560036",
+    "area": "Vinayaka Nagar, Hale Devasandra, Krishnarajapuram",
+    "latitude": 13.0079812,
+    "longitude": 77.7006324,
+    "place_id": "ChIJKc7ALt4PrjsRNoiuKCZ9teY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKc7ALt4PrjsRNoiuKCZ9teY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:37"
+  },
+  {
+    "business_name": "Bengaluru Event Planners",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Balloon store, Flower designer, Party equipment rental service, Party planner, Photography service, Wedding photographer, Wedding planner",
+    "pincode": "521139",
+    "phone_number": "+91 95130 80038",
+    "website": "https://bengalurueventplanners.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "#641, Sri Bhyraveshwara Swamy Nilaya Kempegowda Nagara, Dasarahalli Main Rd, near Sri Shiva Temple, T. Dasarahalli, Bengaluru, Karnataka 560057",
+    "area": "Kempegowdanagar, Maheswari Nagar, T. Dasarahalli",
+    "latitude": 13.0480273,
+    "longitude": 77.5101705,
+    "place_id": "ChIJVZfBALA9rjsR6rdFwCjYNMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZfBALA9rjsR6rdFwCjYNMc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:37"
+  }
+]

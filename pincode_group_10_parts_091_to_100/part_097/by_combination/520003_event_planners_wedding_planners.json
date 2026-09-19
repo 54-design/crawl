@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cupid Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Cake decorating equipment shop, Cake shop, Chocolate shop, Event management company, Gift shop, Party planner",
+    "pincode": "520003",
+    "phone_number": "+91 95533 42998",
+    "website": "http://www.cupidevent.com/",
+    "rating": 4.8,
+    "reviews_count": 48,
+    "address": "60-9-10/4, 7th Ln, beside Kims Hospital, Right Side of Lalitha Jewellers, Siddhartha Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Siddhartha Nagar",
+    "latitude": 16.5039905,
+    "longitude": 80.6523702,
+    "place_id": "ChIJYYl8lnH7NToRVhreIPs64yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYl8lnH7NToRVhreIPs64yE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:34"
+  },
+  {
+    "business_name": "Kumar Events and wedding planners",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "520003",
+    "phone_number": "+91 90003 45599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "BSRK Complex, Siddhartha College Rd, Mogalrajapuram, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Sidhartha Nagar, Labbipet",
+    "latitude": 16.50661,
+    "longitude": 80.6448767,
+    "place_id": "ChIJO8lVDQD7NToR2PU037e_9dY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8lVDQD7NToR2PU037e_9dY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:34"
+  }
+]

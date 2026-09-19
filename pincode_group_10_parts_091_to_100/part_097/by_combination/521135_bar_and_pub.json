@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akan Hyderabad",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar, Bar, Bar & grill, Brunch restaurant, Club, Fine dining restaurant, Gastropub, Live music bar, Pub, Restaurant",
+    "pincode": "521135",
+    "phone_number": "+91 96496 52222",
+    "website": "https://reservations.akanhyd.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Survey No.62, Plot No.28, Shaikpet, opposite Durgam Cheruvu, Software Units Layout, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Software Units Layout, Madhapur",
+    "latitude": 17.433504199999998,
+    "longitude": 78.3878531,
+    "place_id": "ChIJAXLLciCRyzsROQZN8vHIprw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXLLciCRyzsROQZN8vHIprw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:03"
+  },
+  {
+    "business_name": "Badi Empire Restro Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "521135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 34,
+    "address": "01, Akkarampalle, Tirupati, Andhra Pradesh 517501",
+    "area": "Akkarampalle",
+    "latitude": 13.641952199999999,
+    "longitude": 79.4288988,
+    "place_id": "ChIJs2nreABLTToR9gLRpEEUZdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2nreABLTToR9gLRpEEUZdA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:04"
+  }
+]

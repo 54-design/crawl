@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANKAR COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "521121",
+    "phone_number": "+91 90527 90516",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1, near Mana Mess, Avanigadda, Andhra Pradesh 521121",
+    "area": "521121",
+    "latitude": 16.026558899999998,
+    "longitude": 80.91585549999999,
+    "place_id": "ChIJB-0is0_zSToRNw7Aje-hlCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-0is0_zSToRNw7Aje-hlCs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:23"
+  },
+  {
+    "business_name": "Kakinada Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer accessories store, Security service, Security system supplier",
+    "pincode": "521121",
+    "phone_number": "+91 91543 34420",
+    "website": "https://www.kakinadacomputers.com/",
+    "rating": 4.9,
+    "reviews_count": 409,
+    "address": "5-5-17, Surya Rao Peta, Kakinada, Andhra Pradesh 533001",
+    "area": "Surya Rao Peta",
+    "latitude": 16.9603325,
+    "longitude": 82.23737469999999,
+    "place_id": "ChIJDaYzj6spODoRZE2pkoLfgEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaYzj6spODoRZE2pkoLfgEQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:26"
+  }
+]

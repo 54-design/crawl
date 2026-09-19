@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayaguru flower shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "521139",
+    "phone_number": "+91 80180 24385",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 10,
+    "address": "Municpalty cmplex ,Ghoda ghat chowk, Bhawanipatna, Odisha 766001",
+    "area": "Chanchara Para",
+    "latitude": 19.905504,
+    "longitude": 83.16274,
+    "place_id": "ChIJFUd_UFbpJDoRyQyA6SXMnZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUd_UFbpJDoRyQyA6SXMnZY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:29"
+  },
+  {
+    "business_name": "FRIENDS&FRIENDS FLOWERS SHOPHEE",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "521139",
+    "phone_number": "+91 95426 99358",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "FMQC+VX2, MG Rd, Old Check Post Centre, Ayyappa Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Old Check Post Centre, Ayyappa Nagar",
+    "latitude": 16.4896355,
+    "longitude": 80.6723963,
+    "place_id": "ChIJsaVid_b7NToRPjWNHH8LqEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaVid_b7NToRPjWNHH8LqEM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:29"
+  }
+]

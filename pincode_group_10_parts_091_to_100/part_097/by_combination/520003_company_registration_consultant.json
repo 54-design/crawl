@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divakar & Associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Financial audit",
+    "all_categories": "Financial audit",
+    "pincode": "520003",
+    "phone_number": "+91 97001 85357",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7th line, D.No. 43-106/1-49/1, Thota Vari St, Nandamuri Nagar, Ajith, Ajit Singh Nagar, PNT Colony, Vijayawada, Andhra Pradesh 520015",
+    "area": "Nandamuri Nagar, Ajith, Ajit Singh Nagar, PNT Colony",
+    "latitude": 16.547102799999998,
+    "longitude": 80.63571069999999,
+    "place_id": "ChIJZ13JD1LlNToRJrm71jZhcaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ13JD1LlNToRJrm71jZhcaI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:09:00"
+  },
+  {
+    "business_name": "Indian Servers Private Limited",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Automation company, Business management consultant, Computer security service, Computer software store, Computer support and services, Web hosting company, Website designer",
+    "pincode": "520003",
+    "phone_number": "+91 96182 22220",
+    "website": "https://indianservers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Damaraju Residency, Trendset Medows, Plot 21, Devi Nagar, Madhura Nagar, Vijayawada, Andhra Pradesh 520011",
+    "area": "Devi Nagar, Madhura Nagar",
+    "latitude": 16.5338796,
+    "longitude": 80.6506249,
+    "place_id": "ChIJUSk9jUnlNToR_PmJWSpTtYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSk9jUnlNToR_PmJWSpTtYI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:09:01"
+  }
+]

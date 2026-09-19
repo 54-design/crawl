@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi ENT & Eye Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521132",
+    "phone_number": "+91 86883 20220",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "beside swathi childran hospital, behind Reliance Smart, Y.Y. Colony, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "Y.Y. Colony",
+    "latitude": 16.893138,
+    "longitude": 80.0991769,
+    "place_id": "ChIJy6zzZA6pNToRCbPfR8Go8EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6zzZA6pNToRCbPfR8Go8EM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:42"
+  },
+  {
+    "business_name": "Dr Adinarayan Reddy Ent Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521132",
+    "phone_number": "+91 76598 84433",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 123,
+    "address": "14.450104, 79.985810 4th st, kasturi nagar, Pogathota, Nellore, Andhra Pradesh 524001",
+    "area": "Gandhinagar, Pogathota",
+    "latitude": 14.450163199999999,
+    "longitude": 79.98587169999999,
+    "place_id": "ChIJz03BR8mNTDoRo25ODmw1KUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz03BR8mNTDoRo25ODmw1KUM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bangalore Tax consultants",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "521135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bangalore Tax consultants, 521135, India",
+    "area": "521135",
+    "latitude": 12.954075,
+    "longitude": 77.71681939999999,
+    "place_id": "ChIJR6s4yNITrjsRKCeAj8Cjye4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6s4yNITrjsRKCeAj8Cjye4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:17"
+  },
+  {
+    "business_name": "VB & Associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "521135",
+    "phone_number": "+91 98861 92999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 253,
+    "address": "780, 1st Main Rd, BEML Layout, 5th Stage, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098",
+    "area": "BEML Layout, 5th Stage, Rajarajeshwari Nagar",
+    "latitude": 12.9090818,
+    "longitude": 77.52065209999999,
+    "place_id": "ChIJeZOfw6g_rjsRAU8tdnrde3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZOfw6g_rjsRAU8tdnrde3w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:17"
+  }
+]

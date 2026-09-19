@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Picture It Store It",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "520011",
+    "phone_number": "+91 91000 12264",
+    "website": "https://picture-it-store.mini.store/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "23-30-15, Challapalli vari Street, near oxford school, beside Inspiring Indians, Mutyalammapadu, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "area": "Mutyalammapadu, Satyaranayana Puram",
+    "latitude": 16.5247743,
+    "longitude": 80.63528409999999,
+    "place_id": "ChIJVZVR06TlNToRcQ3EvP9dVOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZVR06TlNToRcQ3EvP9dVOk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:23"
+  },
+  {
+    "business_name": "GoGifts",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "520011",
+    "phone_number": "N/A",
+    "website": "https://www.gogifts.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lakshmipuram Main Rd, beside Bakers' Fun, Ashok Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Ashok Nagar",
+    "latitude": 16.3108693,
+    "longitude": 80.42812909999999,
+    "place_id": "ChIJx9EQyJ51SjoRxcU_ugW2HAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9EQyJ51SjoRxcU_ugW2HAc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:26"
+  }
+]

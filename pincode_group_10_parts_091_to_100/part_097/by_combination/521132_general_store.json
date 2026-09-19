@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Sai General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521132",
+    "phone_number": "+91 97048 13018",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand Center, 11-24, Main Road, Ghantasala, Andhra Pradesh 521133",
+    "area": "521132",
+    "latitude": 16.1719067,
+    "longitude": 80.9437604,
+    "place_id": "ChIJeUb--Av7SToR2vF58TiJNYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUb--Av7SToR2vF58TiJNYA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:14"
+  },
+  {
+    "business_name": "Ramakrishna General Stores",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521132",
+    "phone_number": "+91 93935 22000",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Door no 3, 121, Nehru Chowk, Y.Y. Colony, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "Y.Y. Colony",
+    "latitude": 16.8914474,
+    "longitude": 80.09530699999999,
+    "place_id": "ChIJ4xY_dYkHNToRqmhgazeCH68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xY_dYkHNToRqmhgazeCH68",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:15"
+  }
+]

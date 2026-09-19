@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khadi Bhawan",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall, Store",
+    "pincode": "521149",
+    "phone_number": "+91 99118 79434",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 32,
+    "address": "Ashirwad Complex, Main Rd Gijhor, near mithaas sweet, Block F, Sector 53, Noida, Uttar Pradesh 201307",
+    "area": "Block F, Sector 53",
+    "latitude": 28.586332499999997,
+    "longitude": 77.3629792,
+    "place_id": "ChIJZYt-7g_lDDkRGTZLf5_Rocg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYt-7g_lDDkRGTZLf5_Rocg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:33"
+  },
+  {
+    "business_name": "Suryom Textiles",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothes and fabric wholesaler, Fabric wholesaler, Textile Exporter, Women's clothing store",
+    "pincode": "521149",
+    "phone_number": "+91 96540 03320",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.4-5, A-11, Ground Floor, Gari Extension, Garhi, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Gari Extension, Garhi, East of Kailash",
+    "latitude": 28.561072,
+    "longitude": 77.2501628,
+    "place_id": "ChIJm3KeDrfjDDkRojsHcvMOgY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3KeDrfjDDkRojsHcvMOgY0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:36"
+  }
+]

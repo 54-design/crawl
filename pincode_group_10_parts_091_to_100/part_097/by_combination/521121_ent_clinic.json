@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAITANYA E.N.T. HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "521121",
+    "phone_number": "+91 99481 74853",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "RANGA THEATRE, opp lane, Nalanda St, Azad Nagar, Kodad, Telangana 508206",
+    "area": "Azad Nagar",
+    "latitude": 17.0015638,
+    "longitude": 79.961694,
+    "place_id": "ChIJByQimNgDNToRYx6PihG_c74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByQimNgDNToRYx6PihG_c74",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:34"
+  },
+  {
+    "business_name": "Dr Raja Preetham ENT care",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "521121",
+    "phone_number": "+91 95021 48684",
+    "website": "https://medigohospitals.com/specialties/ent/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raja reddy nagar, In Medigo Multi-speciality Hospital, 22-4-50/1, Karakambadi Rd, beside Table 9 Restaurant, near Dmart, Tirupati, Andhra Pradesh 517507",
+    "area": "Bank Employees Colony, Mangalam",
+    "latitude": 13.6472634,
+    "longitude": 79.4434721,
+    "place_id": "ChIJtyCi451LTToRDL5g0D00Z58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyCi451LTToRDL5g0D00Z58",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:34"
+  }
+]

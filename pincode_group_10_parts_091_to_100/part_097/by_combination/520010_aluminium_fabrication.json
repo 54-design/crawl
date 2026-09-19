@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S S Associates",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Aluminum welder, Contractor, Home automation company",
+    "pincode": "520010",
+    "phone_number": "+91 98493 47177",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No. 29-27-21, Surya Narayana St, Moghalrajpuram, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Moghalrajpuram, Suryaraopeta",
+    "latitude": 16.5124983,
+    "longitude": 80.6367671,
+    "place_id": "ChIJKwcFNqv6NToRoaMHLfjKuyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwcFNqv6NToRoaMHLfjKuyA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:16:54"
+  },
+  {
+    "business_name": "JAYAM GLASS TRADERS",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Auto glass shop",
+    "all_categories": "Auto glass shop, Auto parts store",
+    "pincode": "520010",
+    "phone_number": "+91 94414 35261",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "PSC Bose Road, Auto Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Auto Nagar",
+    "latitude": 16.499103299999998,
+    "longitude": 80.6728365,
+    "place_id": "ChIJn6qq6sP6NToRUMe-fRqL3Qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6qq6sP6NToRUMe-fRqL3Qs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:16:55"
+  }
+]

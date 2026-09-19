@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK fancy and generals",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vanisadan, NH65, Kothapet, Pamarru, Andhra Pradesh 521157",
+    "area": "Kothapet",
+    "latitude": 16.3243494,
+    "longitude": 80.9549947,
+    "place_id": "ChIJg86lpCH9SToRzJcaqOTERu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg86lpCH9SToRzJcaqOTERu8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:28:31"
+  },
+  {
+    "business_name": "Arepalli Rambabu Kirana Merchant",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "521157",
+    "phone_number": "+91 94401 81050",
+    "website": "http://rambabu1959.blogspot.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "D.No:2-100, Main Road, Beside SBI, Veerankilaku, Veeranki, Andhra Pradesh 521250",
+    "area": "Veerankilaku",
+    "latitude": 16.292547,
+    "longitude": 80.8672091,
+    "place_id": "ChIJwQB-TFj-SToRvnuvuwV-v3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQB-TFj-SToRvnuvuwV-v3c",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:28:32"
+  }
+]

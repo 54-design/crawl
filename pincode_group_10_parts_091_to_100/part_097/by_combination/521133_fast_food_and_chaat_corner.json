@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agra Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521133",
+    "phone_number": "+91 80576 61361",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 150,
+    "address": "Guru Gorakhnath Mandir, Upper Rd, Haridwar, Uttarakhand 249401",
+    "area": "521133",
+    "latitude": 29.9542155,
+    "longitude": 78.16757989999999,
+    "place_id": "ChIJ2Yu4GFJHCTkR7FzkCh49tOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Yu4GFJHCTkR7FzkCh49tOU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:04:13"
+  },
+  {
+    "business_name": "Delhi Agra Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Krishna'S 95, (1-2-235) Park Lane, Secunderabad - 500003 Parklane, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4414998,
+    "longitude": 78.49025259999999,
+    "place_id": "ChIJ3a4hxSybyzsR4rVSBgzXblQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3a4hxSybyzsR4rVSBgzXblQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:04:14"
+  }
+]

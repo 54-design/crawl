@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Childrens Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "520012",
+    "phone_number": "+91 78429 27877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "24V, Revenue Ward 52, 43-106/1, near Bajaj Electronics, Nandamuri Nagar, Ajit Singh Nagar, PNT Colony, Vijayawada, Andhra Pradesh 520015",
+    "area": "Nandamuri Nagar, Ajit Singh Nagar, PNT Colony",
+    "latitude": 16.5436254,
+    "longitude": 80.6374644,
+    "place_id": "ChIJU4UjNADlNToRdYYnH1yiDJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4UjNADlNToRdYYnH1yiDJ8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:19:39"
+  },
+  {
+    "business_name": "Surya children hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "520012",
+    "phone_number": "+91 90008 77987",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "76-11-3, Koti Tharam Rd, Bhavanipuram, V D Puram, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, V D Puram",
+    "latitude": 16.5243423,
+    "longitude": 80.5972975,
+    "place_id": "ChIJUyZGcv_vNToRgutt-Hw5xO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyZGcv_vNToRgutt-Hw5xO0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:19:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANDIT RAJASTHANI RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Guest house, Lodge, Home Stay",
+    "pincode": "521132",
+    "phone_number": "+91 77020 12594",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "32-1-231, Bowdara Rd, near Railway Station, Daba Gardens, Allipuram, Visakhapatnam, Andhra Pradesh 530004",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.717067999999998,
+    "longitude": 83.293324,
+    "place_id": "ChIJl5BOK-BCOToRqaJyFstig30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5BOK-BCOToRqaJyFstig30",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:19"
+  },
+  {
+    "business_name": "Srinivasa Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant, Fast food restaurant",
+    "pincode": "521132",
+    "phone_number": "+91 866 283 1539",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 972,
+    "address": "HG8X+H9J, Main Road,, Guntupalli, Ibrahimpatnam Mandal, Andhra Pradesh 521241",
+    "area": "521132",
+    "latitude": 16.5664665,
+    "longitude": 80.5483813,
+    "place_id": "ChIJKwGHOIPuNToRS2DRK0iIoIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwGHOIPuNToRS2DRK0iIoIg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:02:21"
+  }
+]

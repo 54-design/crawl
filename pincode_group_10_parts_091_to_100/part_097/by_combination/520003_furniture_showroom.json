@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Furnitures",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture wholesaler",
+    "all_categories": "Furniture wholesaler, Office furniture store",
+    "pincode": "520003",
+    "phone_number": "+91 99661 09136",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NEW ILAPURAM SMART, Rama Rao St Beside Yerneni Mansion, Dno 26-9-26, Opposite Ilapuram Hotel, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Opposite Ilapuram Hotel, Gandhi Nagar",
+    "latitude": 16.5166459,
+    "longitude": 80.6254079,
+    "place_id": "ChIJxYH1QfzvNToR68ayRP6Yugo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYH1QfzvNToR68ayRP6Yugo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:29"
+  },
+  {
+    "business_name": "Siva Furniture Works",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "520003",
+    "phone_number": "+91 94944 74428",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "near Singh Kalayana Madapam, Ajit Singh Nagar, PNT Colony, Vijayawada, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, PNT Colony",
+    "latitude": 16.534891599999998,
+    "longitude": 80.6359015,
+    "place_id": "ChIJtSzzNl7lNToRyzLe-aX2fWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSzzNl7lNToRyzLe-aX2fWU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PHONE CITY",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "521133",
+    "phone_number": "+91 94105 33976",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 171,
+    "address": "39, Mata Mandir Rd, Dharampur Chowk, Anand Vihar, Ajabpur Kalan, Dehradun, Uttarakhand 248001",
+    "area": "Dharampur Chowk, Anand Vihar, Ajabpur Kalan",
+    "latitude": 30.3028625,
+    "longitude": 78.04786279999999,
+    "place_id": "ChIJW5cGrXQpCTkRvGymjVIWUN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5cGrXQpCTkRvGymjVIWUN8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:22"
+  },
+  {
+    "business_name": "MOBILE STORE",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521133",
+    "phone_number": "+91 99474 78003",
+    "website": "https://mobilestore.dialndial.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mobile Store, K. P Road, near Muthoot theatre, Pathanamthitta, Kerala 689645",
+    "area": "521133",
+    "latitude": 9.265021299999999,
+    "longitude": 76.78897479999999,
+    "place_id": "ChIJCfv_WWwVBjsRX9-BeI1uhMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfv_WWwVBjsRX9-BeI1uhMs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:23"
+  }
+]

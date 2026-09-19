@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stanley eye hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 6,
+    "address": "Bank Colony, Kankipadu, Andhra Pradesh 521151",
+    "area": "Bank Colony",
+    "latitude": 16.4323872,
+    "longitude": 80.7700972,
+    "place_id": "ChIJP0yG7NP9NToRw4FZnUUrkJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0yG7NP9NToRw4FZnUUrkJw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:23:23"
+  },
+  {
+    "business_name": "Dr. Gopalachari Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CQQ7+P5H, Kankipadu, Andhra Pradesh 521151",
+    "area": "521151",
+    "latitude": 16.439310499999998,
+    "longitude": 80.7629781,
+    "place_id": "ChIJHYcYVjL8NToRlmg4vsFO70Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYcYVjL8NToRlmg4vsFO70Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:23:23"
+  }
+]

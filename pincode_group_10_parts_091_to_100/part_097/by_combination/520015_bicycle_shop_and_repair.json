@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "520015",
+    "phone_number": "+91 96668 46379",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Prakashnagar, Payakapuram, Payikapuram, Andhra Pradesh 520015",
+    "area": "Prakashnagar, Payakapuram",
+    "latitude": 16.5461115,
+    "longitude": 80.647926,
+    "place_id": "ChIJXU2TZ27lNToRDaZInlG3d1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXU2TZ27lNToRDaZInlG3d1k",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:45"
+  },
+  {
+    "business_name": "Sandeep Cycle Agencies",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "520015",
+    "phone_number": "+91 98480 74690",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "11, Mudali Jagannadham St, Islampet, Vijayawada, Andhra Pradesh 520001",
+    "area": "Islampet",
+    "latitude": 16.5185694,
+    "longitude": 80.6134447,
+    "place_id": "ChIJt3dVMeHvNToRTP3E1hwTwjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3dVMeHvNToRTP3E1hwTwjg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:48"
+  }
+]

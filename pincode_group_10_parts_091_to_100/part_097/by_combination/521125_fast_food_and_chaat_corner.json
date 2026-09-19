@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCB CHATS ADDA",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521125",
+    "phone_number": "+91 98862 76442",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "772/30, 5th Main Rd, near Siddeshwara Convention Hall, Vijaynagar, Vijaya Nagar, Upparhalli, Tumakur, Karnataka 572103",
+    "area": "Vijaynagar, Vijaya Nagar, Upparhalli",
+    "latitude": 13.329276199999999,
+    "longitude": 77.1191765,
+    "place_id": "ChIJB416BAAtsDsRmjPll9BKg9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB416BAAtsDsRmjPll9BKg9s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:54:57"
+  },
+  {
+    "business_name": "Shudh Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "521125",
+    "phone_number": "+91 70179 39390",
+    "website": "http://www.facebook.com/shudhchaat",
+    "rating": 3.4,
+    "reviews_count": 105,
+    "address": "84, Tilak Rd, Jhanda Bazar, Ajit Prasad Nagar, Paltan Bazaar, Dehradun, Uttarakhand 248001",
+    "area": "Jhanda Bazar, Ajit Prasad Nagar, Paltan Bazaar",
+    "latitude": 30.3205669,
+    "longitude": 78.0326791,
+    "place_id": "ChIJ1yGUxpIpCTkRQrMoI-XdlMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yGUxpIpCTkRQrMoI-XdlMI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:54:57"
+  }
+]

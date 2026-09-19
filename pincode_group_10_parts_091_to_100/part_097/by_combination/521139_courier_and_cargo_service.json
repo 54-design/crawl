@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Professional Couriers",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "521139",
+    "phone_number": "+91 97038 05267",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "14-4-4, Samba Murthy Rd, behind Govt Hospital, Hanumanpet, Vijayawada, Andhra Pradesh 520003",
+    "area": "Hanumanpet",
+    "latitude": 16.5134656,
+    "longitude": 80.620188,
+    "place_id": "ChIJZ-Y9QLH6NToRrjWmnJJRN6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRrjWmnJJRN6E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:54"
+  },
+  {
+    "business_name": "SSS INTERNATIONAL COURIERS AND CARGO",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "521139",
+    "phone_number": "+91 94925 82200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lucky board center, near kanthama ashramam, Balaji Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "Balaji Nagar",
+    "latitude": 14.449333,
+    "longitude": 79.99107939999999,
+    "place_id": "ChIJf5srgPSNTDoR4qZdrJNh1aA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5srgPSNTDoR4qZdrJNh1aA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:54"
+  }
+]

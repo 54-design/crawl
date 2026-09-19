@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Gomaatha Enterprises",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521134",
+    "phone_number": "+91 93463 68260",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 217,
+    "address": "4-5-67, Amulya Towers, Near Majeti Rama Kalyana Mandapam, Ring Rd, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.314681999999998,
+    "longitude": 80.4286071,
+    "place_id": "ChIJ1UDbomF1SjoRnSvFZyYQPvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UDbomF1SjoRnSvFZyYQPvk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:55"
+  },
+  {
+    "business_name": "UZVIS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Service establishment",
+    "pincode": "521134",
+    "phone_number": "+91 85008 20088",
+    "website": "https://uzvis.com/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "UZVIS, 521134, India",
+    "area": "521134",
+    "latitude": 15.3806918,
+    "longitude": 79.41386039999999,
+    "place_id": "ChIJa47-M677NToRgf6f1KF9H0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa47-M677NToRgf6f1KF9H0U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:56"
+  }
+]

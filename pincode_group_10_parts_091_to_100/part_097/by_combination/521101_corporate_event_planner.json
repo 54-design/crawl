@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "521101",
+    "phone_number": "+91 92472 92665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Black Bridge Main Rd, near relince fresh mart, Amalapuram, Andhra Pradesh 533201",
+    "area": "521101",
+    "latitude": 16.5869,
+    "longitude": 82.00639699999999,
+    "place_id": "ChIJL6AgZ6DvNzoRU62dYgjui1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6AgZ6DvNzoRU62dYgjui1E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:31:44"
+  },
+  {
+    "business_name": "MAHI Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "521101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kankipadu Rd, Gannavarm, Vijayawada, Uppaluru, Andhra Pradesh 521101",
+    "area": "Gannavarm",
+    "latitude": 16.4825429,
+    "longitude": 80.7741952,
+    "place_id": "ChIJowD2hZr9NToRl7UmMUBSVtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowD2hZr9NToRl7UmMUBSVtQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:31:45"
+  }
+]

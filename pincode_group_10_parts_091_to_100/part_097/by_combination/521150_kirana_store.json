@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkatramaya general Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "52W4+GF4, Unnamed Road, Kaza, Andhra Pradesh 521150",
+    "area": "521150",
+    "latitude": 16.1962586,
+    "longitude": 81.0062186,
+    "place_id": "ChIJ2bxVMR3lSToRVnF00jTYFgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bxVMR3lSToRVnF00jTYFgw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:21:01"
+  },
+  {
+    "business_name": "Sri Srinivasa General (Nibhanapudi kirana) Stores",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nidumolu, Andhra Pradesh 521156",
+    "area": "521150",
+    "latitude": 16.2558078,
+    "longitude": 81.0245894,
+    "place_id": "ChIJl4_83DfjSToR4QF5xKxHNCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4_83DfjSToR4QF5xKxHNCk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:21:02"
+  }
+]

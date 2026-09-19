@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogiraj restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Breakfast restaurant, Chinese restaurant, South Indian restaurant",
+    "pincode": "521138",
+    "phone_number": "+91 96349 30400",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Opp Roadways workshop, near new bus Stand, Mathura, Uttar Pradesh 281001",
+    "area": "Mayur Vihar",
+    "latitude": 27.491169799999998,
+    "longitude": 77.675615,
+    "place_id": "ChIJWbiRVxVxczkR_eceqovMkI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbiRVxVxczkR_eceqovMkI8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:43"
+  },
+  {
+    "business_name": "So The Sky Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Bar, Chinese restaurant",
+    "pincode": "521138",
+    "phone_number": "+91 40 2355 8004",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4th floor, No.550-F, Aryans building, Road No. 92, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "Jubilee Hills",
+    "latitude": 17.416204,
+    "longitude": 78.416921,
+    "place_id": "ChIJ66ViR86WyzsRIR8Wwjtiq1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66ViR86WyzsRIR8Wwjtiq1o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "posh luxury unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521150",
+    "phone_number": "+91 98884 54449",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 277,
+    "address": "Oppo Priyanka Gardens, Lalitha towers, 76-1-4/1, Gandhi Puram 2, Gandhipuram, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Gandhi Puram 2, Gandhipuram",
+    "latitude": 17.0056714,
+    "longitude": 81.7880244,
+    "place_id": "ChIJcfzqIh-jNzoRiew8Let2ILc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfzqIh-jNzoRiew8Let2ILc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:22:02"
+  },
+  {
+    "business_name": "Vinay saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "521150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6X49+5M2, Kosuru, Andhra Pradesh 521150",
+    "area": "521150",
+    "latitude": 16.205386,
+    "longitude": 80.96914749999999,
+    "place_id": "ChIJQTT8RAD7SToRU5OyBqRLOvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTT8RAD7SToRU5OyBqRLOvY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:22:04"
+  }
+]

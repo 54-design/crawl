@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOPI GENERAL STORES",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521121",
+    "phone_number": "+91 99087 37294",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "9-31, Main Road, opp. Seetamma Hotel, Avanigadda, Andhra Pradesh 521121",
+    "area": "521121",
+    "latitude": 16.016037999999998,
+    "longitude": 80.91493799999999,
+    "place_id": "ChIJ-c9ZGhjzSToRJU6Cei4b2xE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-c9ZGhjzSToRJU6Cei4b2xE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:08"
+  },
+  {
+    "business_name": "DVS Electrical & General Stores",
+    "search_category": "General Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electrical repair shop",
+    "pincode": "521121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 17,
+    "address": "beside Bypass road, Challapalli, Andhra Pradesh 521126",
+    "area": "521121",
+    "latitude": 16.108448,
+    "longitude": 80.9352227,
+    "place_id": "ChIJn5llbOXwSToRdLVgHZYfbmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5llbOXwSToRdLVgHZYfbmY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:11"
+  }
+]

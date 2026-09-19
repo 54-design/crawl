@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SCB Flowers & Decorations shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market",
+    "pincode": "521153",
+    "phone_number": "+91 91219 13723",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DC Rd, kotha market, Kadapa, Andhra Pradesh 516001",
+    "area": "kotha market",
+    "latitude": 14.4798621,
+    "longitude": 78.8266931,
+    "place_id": "ChIJMRsbULdzszsRJigyTJrGTko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRsbULdzszsRJigyTJrGTko",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:25:53"
+  },
+  {
+    "business_name": "Vishal Bhola Flower & Balloons decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery, Flower market",
+    "pincode": "521153",
+    "phone_number": "+91 70373 02938",
+    "website": "https://vishal-bhola-flower.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gagan tiraha, Sambhal, Moradabad - Chandausi Rd, Moradabad, Uttar Pradesh 244001",
+    "area": "521153",
+    "latitude": 28.7925994,
+    "longitude": 78.76271799999999,
+    "place_id": "ChIJ42yQ-dv7CjkRGWuRP3RlFTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42yQ-dv7CjkRGWuRP3RlFTc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:25:54"
+  }
+]

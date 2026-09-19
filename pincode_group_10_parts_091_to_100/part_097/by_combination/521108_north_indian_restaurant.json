@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOMO NEST",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Momo restaurant",
+    "all_categories": "Momo restaurant",
+    "pincode": "521108",
+    "phone_number": "+91 76599 83817",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opp. Modern Fresh Super market, Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony",
+    "latitude": 16.5036633,
+    "longitude": 80.6658602,
+    "place_id": "ChIJf4K_7wH7NToRMOCXSe-E_B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4K_7wH7NToRMOCXSe-E_B0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:41:54"
+  },
+  {
+    "business_name": "The Bacon Box",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "521108",
+    "phone_number": "+91 91989 81212",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 44,
+    "address": "Teacher's Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Teacher's Colony",
+    "latitude": 16.5031258,
+    "longitude": 80.6616267,
+    "place_id": "ChIJY2KdTUf7NToR_hPC3cOvQgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2KdTUf7NToR_hPC3cOvQgo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:41:55"
+  }
+]

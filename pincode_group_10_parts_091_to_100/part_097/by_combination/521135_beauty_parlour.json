@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gorgeous Family Salon Vellore",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Massage spa, Spa",
+    "pincode": "521135",
+    "phone_number": "+91 97507 23333",
+    "website": "http://www.gorgeousfamilyspa.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Second Floor, Officer's Line, 82, Anna Salai, Krishna Nagar, Vellore, Tamil Nadu 632001",
+    "area": "Krishna Nagar, Veerasamy Nagar",
+    "latitude": 12.9002848,
+    "longitude": 79.13110309999999,
+    "place_id": "ChIJ9egUCiA5rTsRk97xl3Q9ewk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9egUCiA5rTsRk97xl3Q9ewk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:44"
+  },
+  {
+    "business_name": "RevaSree Beauty Parlour( Only for Ladies)",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521135",
+    "phone_number": "+91 73864 22608",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 50,
+    "address": "beside sridevi janaki theater, Mogalturu, Andhra Pradesh 534281",
+    "area": "521135",
+    "latitude": 16.4099278,
+    "longitude": 81.6050185,
+    "place_id": "ChIJKT_NdW_XNzoRgp-74muydhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKT_NdW_XNzoRgp-74muydhc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:08:45"
+  }
+]

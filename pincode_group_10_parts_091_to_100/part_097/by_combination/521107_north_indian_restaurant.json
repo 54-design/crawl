@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Park N Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Salad shop",
+    "pincode": "521107",
+    "phone_number": "+91 99892 55355",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "52-1/9-4, 1st Rd, Veterinary Colony, Kanuru, Andhra Pradesh 520008",
+    "area": "Veterinary Colony",
+    "latitude": 16.5158947,
+    "longitude": 80.6687109,
+    "place_id": "ChIJY8_t2T3lNToRHdX1zFx2EXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8_t2T3lNToRHdX1zFx2EXM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:39:57"
+  },
+  {
+    "business_name": "SK BIRYANI POINT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521107",
+    "phone_number": "+91 94942 47867",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Shop No 2 Main Road Balamvari Vedi, Andhra Pradesh 521108",
+    "area": "Ramavarapadu",
+    "latitude": 16.5220755,
+    "longitude": 80.6856025,
+    "place_id": "ChIJOZOl0VblNToRXu5bXkqO3nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZOl0VblNToRXu5bXkqO3nM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:39:58"
+  }
+]

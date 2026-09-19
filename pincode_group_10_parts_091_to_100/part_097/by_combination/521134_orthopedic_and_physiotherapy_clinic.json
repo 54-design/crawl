@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vasavi Physiotherapy & Rehabilitation Centre",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Physiotherapist",
+    "pincode": "521134",
+    "phone_number": "+91 92905 74177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus terminal, plot number 145, New RTC Colony Rd, opposite BSNL office, near Parvataneni Subhash Chandra Bose Road, New RTC Colony, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520007",
+    "area": "New RTC Colony, Patamata, Benz Circle",
+    "latitude": 16.4903414,
+    "longitude": 80.6695792,
+    "place_id": "ChIJlwShb-f6NToRkT80SxoH5dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwShb-f6NToRkT80SxoH5dk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:24"
+  },
+  {
+    "business_name": "Dr. Bezawada Paparao- Bezawada Arthroscopy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521134",
+    "phone_number": "+91 98663 43121",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 50,
+    "address": "Chalasani nagar 4th lane, Kanuru Main Rd, opposite Mount Carmel Church, Kanuru, Andhra Pradesh 520007",
+    "area": "Chalasani Nagar, Kanuru",
+    "latitude": 16.486630899999998,
+    "longitude": 80.6880529,
+    "place_id": "ChIJL6yn15z7NToR4EuDnyrlQA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6yn15z7NToR4EuDnyrlQA4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Bhavani Vilas",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "520010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 160,
+    "address": "Maitreya street, Chandra Mouli Puram, Sriram Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Chandra Mouli Puram, Sriram Nagar",
+    "latitude": 16.4969423,
+    "longitude": 80.6500293,
+    "place_id": "ChIJG6_9dJ_7NToRUlyPLR4v6aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6_9dJ_7NToRUlyPLR4v6aw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:28"
+  },
+  {
+    "business_name": "MIRCHI Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Food court, Ford dealer, North Indian restaurant, South Indian restaurant",
+    "pincode": "520010",
+    "phone_number": "+91 98859 04545",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "Venkateswara Complex, MG Rd, beside Fortune Murali Park, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Revenue Colony Park, Sidhartha Nagar, Labbipet",
+    "latitude": 16.500925,
+    "longitude": 80.6460606,
+    "place_id": "ChIJAxbtfs76NToRzrMe1rlwsjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxbtfs76NToRzrMe1rlwsjM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:29"
+  }
+]

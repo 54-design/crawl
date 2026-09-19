@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nithya car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "521139",
+    "phone_number": "+91 80197 89143",
+    "website": "http://nithyacaars.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "74-14, Yanamalakuduru Rd, Kishore Nagar, Ayyappa Nagar, Pedapulipaka, Andhra Pradesh 521134",
+    "area": "Kishore Nagar, Ayyappa Nagar",
+    "latitude": 16.4764737,
+    "longitude": 80.6684252,
+    "place_id": "ChIJAQAAcKT6NToRXAu0fE1S2_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAcKT6NToRXAu0fE1S2_s",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:06"
+  },
+  {
+    "business_name": "EXPRESS CAR TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "521139",
+    "phone_number": "N/A",
+    "website": "https://www.expresscartravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B R NAGAR, Vijayawada, Penamaluru, Andhra Pradesh 521139",
+    "area": "B R NAGAR",
+    "latitude": 16.4632649,
+    "longitude": 80.7197056,
+    "place_id": "ChIJHzolYQD7NToRNIK4SxiR9RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzolYQD7NToRNIK4SxiR9RY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:16:11"
+  }
+]

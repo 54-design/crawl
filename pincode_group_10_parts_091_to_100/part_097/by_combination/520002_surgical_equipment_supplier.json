@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R Enterprises",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Laboratory equipment supplier, Scientific equipment supplier",
+    "pincode": "520002",
+    "phone_number": "+91 92464 15385",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "29-8-40, chiluku durgaiha street, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Governor Peta",
+    "latitude": 16.5135692,
+    "longitude": 80.6336798,
+    "place_id": "ChIJZ-Y9QLH6NToRtye-sd6gloE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRtye-sd6gloE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:06:04"
+  },
+  {
+    "business_name": "Pramodini Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "520002",
+    "phone_number": "+91 98480 88107",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No. 5, Paturi Plaza, Nakkala Rd, Near Vijaya Talkies, Suryaraopet, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near Vijaya Talkies, Suryaraopet, Governor Peta",
+    "latitude": 16.5135555,
+    "longitude": 80.6324051,
+    "place_id": "ChIJG4sm9__vNToRTfdk5Avj2lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4sm9__vNToRTfdk5Avj2lc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:06:07"
+  }
+]

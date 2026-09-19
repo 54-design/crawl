@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kidsshoppe",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "521134",
+    "phone_number": "+91 94908 51619",
+    "website": "http://www.kidsshoppe.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Eluru Rd, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4358306,
+    "longitude": 80.9929069,
+    "place_id": "ChIJC36sFKkcNjoR_3TiPY_ut2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC36sFKkcNjoR_3TiPY_ut2I",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:10"
+  },
+  {
+    "business_name": "bybirth.in",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "521134",
+    "phone_number": "+91 99124 47655",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "74-12-5\\1A Mavuluri, Koneru Vari Veedi, New RTC Colony, Patamata, Vijayawada, Andhra Pradesh 520007",
+    "area": "New RTC Colony, Patamata",
+    "latitude": 16.4917578,
+    "longitude": 80.66519319999999,
+    "place_id": "ChIJc7iKkXH7NToRMrskQuhpnZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7iKkXH7NToRMrskQuhpnZ8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:10"
+  }
+]

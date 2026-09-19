@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi RICE Dealer",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler, Rice mill, Rice shop",
+    "pincode": "520011",
+    "phone_number": "+91 99001 91828",
+    "website": "https://linktr.ee/lakshmiricedealer",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 7, 791, 4 Crs, Marathahalli - Sarjapur Outer Ring Rd, Bengaluru, Karnataka 560037",
+    "area": "Marathahalli Village, Marathahalli",
+    "latitude": 12.9545215,
+    "longitude": 77.70006,
+    "place_id": "ChIJubfUVPsTrjsRLvqVURmTRys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubfUVPsTrjsRLvqVURmTRys",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:17"
+  },
+  {
+    "business_name": "Sri rajani latha rice traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "520011",
+    "phone_number": "+91 98494 38364",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "51-5-14, A S Rama Rao Rd, Gunadala, Kanuru, Andhra Pradesh 520008",
+    "area": "Gunadala",
+    "latitude": 16.5180298,
+    "longitude": 80.6646255,
+    "place_id": "ChIJufohE8_lNToRGYmfc05zaGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJufohE8_lNToRGYmfc05zaGY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:18"
+  }
+]

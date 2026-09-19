@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teatypes",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "521109",
+    "phone_number": "+91 99669 55752",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 237,
+    "address": "QRQJ+M9Q Usha Bala Nagar, Mylavaram Rd, Nuzividu, Andhra Pradesh 521202",
+    "area": "521109",
+    "latitude": 16.7892233,
+    "longitude": 80.8309785,
+    "place_id": "ChIJhW8Bfv91NjoR3DqjW1k34B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhW8Bfv91NjoR3DqjW1k34B0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:43:51"
+  },
+  {
+    "business_name": "URCE Cafeteria",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafeteria",
+    "all_categories": "Cafeteria",
+    "pincode": "521109",
+    "phone_number": "N/A",
+    "website": "https://usharama.edu.in/",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "HVHF+29P, Telaprolu, Pottipadu, Andhra Pradesh 521109",
+    "area": "521109",
+    "latitude": 16.5775908,
+    "longitude": 80.87346149999999,
+    "place_id": "ChIJedPFHhkJNjoRAEQaxziZ6a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedPFHhkJNjoRAEQaxziZ6a8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:43:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kritunga The Palegar's Cuisine Select",
+    "search_category": "Restaurant Chains",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "521120",
+    "phone_number": "+91 95924 49244",
+    "website": "https://kritungarestaurant.com/",
+    "rating": 4.5,
+    "reviews_count": 1283,
+    "address": "1st floor, Plot no, 381, no: 82, 3, Road, Film Nagar, Hyderabad, Telangana 500096",
+    "area": "Phase III, Film Nagar",
+    "latitude": 17.4141703,
+    "longitude": 78.4069265,
+    "place_id": "ChIJE54O98GXyzsRaxvA3RuEnog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE54O98GXyzsRaxvA3RuEnog",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:49:27"
+  },
+  {
+    "business_name": "Ganapathi Food House",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Chinese restaurant, Indian restaurant, Soup restaurant",
+    "pincode": "521120",
+    "phone_number": "+91 95737 88999",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3713,
+    "address": "near lalitha theater, Amalapuram, Andhra Pradesh 533201",
+    "area": "521120",
+    "latitude": 16.5775254,
+    "longitude": 82.0021426,
+    "place_id": "ChIJgWqLjoPvNzoRazqLmIwstZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWqLjoPvNzoRazqLmIwstZo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:49:27"
+  }
+]

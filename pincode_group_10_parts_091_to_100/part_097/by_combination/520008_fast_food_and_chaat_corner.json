@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRACHI CHAT HOUSE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "520008",
+    "phone_number": "+91 93811 25471",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Kaviraju Tripuraneni Ramaswamy Rd, Vijayanagar Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Vijayanagar Colony",
+    "latitude": 16.5143688,
+    "longitude": 80.6630933,
+    "place_id": "ChIJYVGcLfflNToR_iA-61PfYiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVGcLfflNToR_iA-61PfYiA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:31"
+  },
+  {
+    "business_name": "New Welcome Tea & Fast Foods",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "520008",
+    "phone_number": "+91 70138 16195",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 41,
+    "address": "33-4-16, Vemula Syamala Devi St, Seetharampuram, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Seetharampuram, Suryaraopeta",
+    "latitude": 16.5135356,
+    "longitude": 80.6393542,
+    "place_id": "ChIJj_QqCyrlNToRiHjDHy7W-kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_QqCyrlNToRiHjDHy7W-kk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:33"
+  }
+]

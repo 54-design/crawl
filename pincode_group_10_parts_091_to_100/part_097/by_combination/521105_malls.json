@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBR City Square",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "521105",
+    "phone_number": "N/A",
+    "website": "http://kbrinfratech.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside police station, Hanuman Junction, Bapulapadu, Andhra Pradesh 521105",
+    "area": "Hanuman Junction, Bapulapadu",
+    "latitude": 16.633756899999998,
+    "longitude": 80.9634652,
+    "place_id": "ChIJmxbDgdMNNjoRR4_sGuIPAa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxbDgdMNNjoRR4_sGuIPAa8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:53"
+  },
+  {
+    "business_name": "Varun Bags & belts",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "521105",
+    "phone_number": "+91 95533 34991",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vijayawada Rd, Hanuman Junction, Bapulapadu, Andhra Pradesh 521105",
+    "area": "Hanuman Junction, Bapulapadu",
+    "latitude": 16.635656,
+    "longitude": 80.97108399999999,
+    "place_id": "ChIJaTdyS98NNjoR8oiGJYIx3fY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTdyS98NNjoR8oiGJYIx3fY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:53"
+  }
+]

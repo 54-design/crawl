@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijayawada International Airport",
+    "search_category": "Malls",
+    "primary_category": "International airport",
+    "all_categories": "International airport, Airport",
+    "pincode": "521102",
+    "phone_number": "+91 866 284 6729",
+    "website": "https://www.aai.aero/hi/airports/vijayawada",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Gannavaram, Andhra Pradesh 521102",
+    "area": "521102",
+    "latitude": 16.5285178,
+    "longitude": 80.7976633,
+    "place_id": "ChIJ-e-966_iNToRxSQuK02EvAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-e-966_iNToRxSQuK02EvAE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:09"
+  },
+  {
+    "business_name": "SR Shopping Mall -Tanuku",
+    "search_category": "Malls",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Children's clothing store, Dress store, Men's clothing store",
+    "pincode": "521102",
+    "phone_number": "+91 86883 40514",
+    "website": "https://www.youtube.com/@srshoppingmallofficial",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Velpur Rd, Venkatarayapuram, Tanuku, Andhra Pradesh 534211",
+    "area": "Venkatarayapuram",
+    "latitude": 16.7522363,
+    "longitude": 81.6863675,
+    "place_id": "ChIJE60ncnm3NzoRu4TRlD6uXpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE60ncnm3NzoRu4TRlD6uXpQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VSN Elactrical contract works",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrical installation service",
+    "pincode": "521111",
+    "phone_number": "+91 97041 11062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Gogulampadu, Chintalavalli, Andhra Pradesh 521207",
+    "area": "Gogulampadu",
+    "latitude": 16.8424186,
+    "longitude": 80.92499029999999,
+    "place_id": "ChIJ-4WsllhxNjoROfdj7bjnRYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4WsllhxNjoROfdj7bjnRYI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:48:10"
+  },
+  {
+    "business_name": "Ganesh Ram Sri electricals & plumbing store",
+    "search_category": "Plumber",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "521111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QXP3+8CG, Katrenipadu, Andhra Pradesh 521207",
+    "area": "521111",
+    "latitude": 16.785803299999998,
+    "longitude": 80.9535825,
+    "place_id": "ChIJIWsV4UZzNjoR5eF9xe0ZXPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWsV4UZzNjoR5eF9xe0ZXPw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:48:10"
+  }
+]

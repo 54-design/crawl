@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Whisk a Little - Home Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "520008",
+    "phone_number": "+91 87124 21117",
+    "website": "https://www.instagram.com/whiskalittle_?igsh=MW5rZzMxeW16amJkNg==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Naveena Apartments, Teacher's Colony, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Teacher's Colony, Benz Circle",
+    "latitude": 16.502233999999998,
+    "longitude": 80.6641022,
+    "place_id": "ChIJU95lPXH7NToR3g0Ir6uUCUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU95lPXH7NToR3g0Ir6uUCUg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:26"
+  },
+  {
+    "business_name": "CakeZone",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Sweet shop, Cupcake shop, Dessert shop",
+    "pincode": "520008",
+    "phone_number": "+91 70132 19160",
+    "website": "https://www.cakezone.com/",
+    "rating": 3.9,
+    "reviews_count": 176,
+    "address": "1, 12, 1st Line, near k.k.r goutham school, Sri, Ramachandra Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Sri, Ramachandra Nagar",
+    "latitude": 16.5050409,
+    "longitude": 80.6549045,
+    "place_id": "ChIJ2YOv6GH7NToR3v3w3iJJNZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YOv6GH7NToR3v3w3iJJNZ0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:29"
+  }
+]

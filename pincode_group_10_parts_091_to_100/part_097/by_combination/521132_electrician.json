@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kotaiah matta",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "521132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4WJ7+X6M, Challapalli, Vakkalagadda, Andhra Pradesh 521126",
+    "area": "521132",
+    "latitude": 16.1324555,
+    "longitude": 80.9130383,
+    "place_id": "ChIJqXjkWLfxSToRXSaEG1UEDTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXjkWLfxSToRXSaEG1UEDTk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:03:00"
+  },
+  {
+    "business_name": "Ganesh kanagala",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "521132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "5WH2+3XC, Kodali, Andhra Pradesh 521132",
+    "area": "521132",
+    "latitude": 16.177684799999998,
+    "longitude": 80.90239389999999,
+    "place_id": "ChIJ15RAPgD7SToRHRI4cJf0NYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15RAPgD7SToRHRI4cJf0NYI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:03:02"
+  }
+]

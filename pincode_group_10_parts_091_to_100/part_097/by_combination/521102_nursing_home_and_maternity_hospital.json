@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sravani Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521102",
+    "phone_number": "+91 99661 77014",
+    "website": "http://sravanihospital.org/",
+    "rating": 4.4,
+    "reviews_count": 642,
+    "address": "Gunturvari Thota Main Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2968397,
+    "longitude": 80.4515072,
+    "place_id": "ChIJr-xATkp1SjoRmsdwrjz3rCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-xATkp1SjoRmsdwrjz3rCs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:32:50"
+  },
+  {
+    "business_name": "Sri Venkateswara Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "CXMV+227, Vijayawada Rd, Satyanarayana Puram, Gudivada, Vijayawada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4325494,
+    "longitude": 80.9925442,
+    "place_id": "ChIJM4qxci4dNjoRUIhSFtnBDQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4qxci4dNjoRUIhSFtnBDQI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:32:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Tourist Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Breakfast restaurant, Restaurant",
+    "pincode": "521125",
+    "phone_number": "+91 86300 21767",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "National Highway 24, Bagadpur, opp. Teerthanker Mahaveer University, Moradabad, Uttar Pradesh 244102",
+    "area": "521125",
+    "latitude": 28.821465699999997,
+    "longitude": 78.65647799999999,
+    "place_id": "ChIJp_JBUXUCCzkRPVJCLlF6kms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_JBUXUCCzkRPVJCLlF6kms",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:54:55"
+  },
+  {
+    "business_name": "Rudra Tourist Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "521125",
+    "phone_number": "+91 98995 55123",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Pachokra Khanpur, Moradabad, SH-49, Bijnor Moradabad Road, Moradabad, Moradabad, Uttar Pradesh 244504",
+    "area": "521125",
+    "latitude": 28.962267399999998,
+    "longitude": 78.6553241,
+    "place_id": "ChIJ6bFh4MqqCzkRr2H_wi3a_-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bFh4MqqCzkRr2H_wi3a_-Y",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:54:55"
+  }
+]

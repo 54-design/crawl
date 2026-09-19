@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padmavati Distributors",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Cosmetics store",
+    "pincode": "520007",
+    "phone_number": "+91 866 319 9988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "D.No. 40-26-8, NH 16 Service Rd, Back Side Of Jyothimal,Opposite B.M.P.S., Sriram Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Back Side Of Jyothimal,Opposite B.M.P.S., Sriram Nagar, Benz Circle",
+    "latitude": 16.4969045,
+    "longitude": 80.6499729,
+    "place_id": "ChIJM2YkW7n6NToRruI66QkpmVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2YkW7n6NToRruI66QkpmVk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:11:27"
+  },
+  {
+    "business_name": "Dhana Lakshmi Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "520007",
+    "phone_number": "+91 99663 66966",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kathepu Veedhi Center, Masjid Road, Eluru, Andhra Pradesh 534001",
+    "area": "520007",
+    "latitude": 16.7030293,
+    "longitude": 81.1094408,
+    "place_id": "ChIJlblcWNsUNjoRNekXrO3OHq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlblcWNsUNjoRNekXrO3OHq8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:11:28"
+  }
+]

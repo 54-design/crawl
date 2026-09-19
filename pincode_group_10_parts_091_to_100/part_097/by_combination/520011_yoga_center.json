@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pyramid Meditation Center",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "520011",
+    "phone_number": "+91 98481 70801",
+    "website": "http://www.padmajakka.org/",
+    "rating": 4.1,
+    "reviews_count": 43,
+    "address": "Pyramid house, Eluru Rd, opp. union bank, Machavaram, Vijayawada, Andhra Pradesh 520004",
+    "area": "Machavaram",
+    "latitude": 16.5180339,
+    "longitude": 80.6481903,
+    "place_id": "ChIJK00-FEzlNToRpEnjXviv1cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK00-FEzlNToRpEnjXviv1cs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:47"
+  },
+  {
+    "business_name": "Sailasana Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "520011",
+    "phone_number": "+91 90594 31222",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "42-4-6, RRWA -504, Ammaji Nilayam, Ammula viswanadham street, near Budameru Bridge, Vantena, Rama Krishna Puram, Vijayawada, Andhra Pradesh 520003",
+    "area": "Vantena, Rama Krishna Puram",
+    "latitude": 16.5308884,
+    "longitude": 80.6380063,
+    "place_id": "ChIJpS6S7MDlNToRMdi9lnQ0WL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpS6S7MDlNToRMdi9lnQ0WL4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inorbit Mall Visakhapatnam",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "521135",
+    "phone_number": "N/A",
+    "website": "https://www.inorbit.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Zone-Z8, Back side of port hospital, Salagramapuram, Dondaparthi Village, Kailasapuram, Visakhapatnam, Andhra Pradesh 530024",
+    "area": "Dondaparthi Village, Kailasapuram",
+    "latitude": 17.741566,
+    "longitude": 83.2933161,
+    "place_id": "ChIJLSXPDwBDOToRImESJGtGqX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSXPDwBDOToRImESJGtGqX8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:36"
+  },
+  {
+    "business_name": "Chandra Metro Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Movie theater",
+    "pincode": "521135",
+    "phone_number": "+91 97899 37575",
+    "website": "http://www.chandrabuilders.in/",
+    "rating": 4,
+    "reviews_count": 15531,
+    "address": "262, Arcot Rd, Rajeswari Colony, Virugambakkam, Chennai, Tamil Nadu 600092",
+    "area": "Rajeswari Colony, Virugambakkam",
+    "latitude": 13.0470277,
+    "longitude": 80.19036729999999,
+    "place_id": "ChIJOe5Zp81mUjoR_fopGtcfx3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOe5Zp81mUjoR_fopGtcfx3A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:37"
+  }
+]

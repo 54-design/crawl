@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Indu",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "521132",
+    "phone_number": "+91 95421 93566",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Seetharam puram, Y.Y. Colony, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "Seetharam puram, Y.Y. Colony",
+    "latitude": 16.8937842,
+    "longitude": 80.09791919999999,
+    "place_id": "ChIJYR3pgXUHNToRoK_HDTIzfKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYR3pgXUHNToRoK_HDTIzfKA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:03:19"
+  },
+  {
+    "business_name": "N HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Reliance smart, near Bus stand, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "521132",
+    "latitude": 16.898225699999998,
+    "longitude": 80.1051756,
+    "place_id": "ChIJwTc1r2KpNToRK5bsH_StPyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTc1r2KpNToRK5bsH_StPyY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:03:19"
+  }
+]

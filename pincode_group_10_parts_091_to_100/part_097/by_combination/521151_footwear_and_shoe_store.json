@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROOPA MANASA FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521151",
+    "phone_number": "+91 99086 87467",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop 2, main Road, opp. Raithu Bazar, Kankipadu, Andhra Pradesh 521151",
+    "area": "521151",
+    "latitude": 16.435323699999998,
+    "longitude": 80.76657999999999,
+    "place_id": "ChIJJTP4FMT9NToRVc80C7TmjFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTP4FMT9NToRVc80C7TmjFk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:23:16"
+  },
+  {
+    "business_name": "LAKSHMI FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chodavaram, Andhra Pradesh 521139",
+    "area": "521151",
+    "latitude": 16.4300146,
+    "longitude": 80.6967438,
+    "place_id": "ChIJ0RW_s937NToReFXbUGwnizE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RW_s937NToReFXbUGwnizE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:23:18"
+  }
+]

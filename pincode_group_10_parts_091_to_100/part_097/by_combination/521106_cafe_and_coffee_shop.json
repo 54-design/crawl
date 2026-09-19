@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joy Coffee cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "521106",
+    "phone_number": "+91 96186 22644",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "Center, near Prashanthi Clinic, Nagavarappadu, Andhra Pradesh 521301",
+    "area": "Nagavarappadu",
+    "latitude": 16.447630099999998,
+    "longitude": 80.9904131,
+    "place_id": "ChIJ3XlX3T8bNjoRZW6oVAJaM4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XlX3T8bNjoRZW6oVAJaM4U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:08"
+  },
+  {
+    "business_name": "MBM MALABAR Brew&more",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "521106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Vijayawada - Mylavaram Rd, Kondapalli, Andhra Pradesh 521228",
+    "area": "521106",
+    "latitude": 16.6188599,
+    "longitude": 80.5398546,
+    "place_id": "ChIJ04LS75DrNToR6hKpkPTNzi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04LS75DrNToR6hKpkPTNzi0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:09"
+  }
+]

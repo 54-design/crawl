@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sm car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "520015",
+    "phone_number": "+91 99665 05888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GJVV+HJP, Pipula Road Center, Vambay Colony Road, beside Costal Bank, Ajit Singh Nagar, PNT Colony, Payikapuram, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, PNT Colony",
+    "latitude": 16.544036,
+    "longitude": 80.64406199999999,
+    "place_id": "ChIJheoBIuLlNToRvDRHO8mChDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJheoBIuLlNToRvDRHO8mChDQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:42"
+  },
+  {
+    "business_name": "SERVICAR",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto bodywork mechanic, Repair service, Wheel alignment service",
+    "pincode": "520015",
+    "phone_number": "+91 91549 98099",
+    "website": "http://www.servicar.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "IRR, Gunadala, Vijayawada, Nunna, Andhra Pradesh 520015",
+    "area": "Gunadala",
+    "latitude": 16.5461202,
+    "longitude": 80.6695025,
+    "place_id": "ChIJkbqATyjlNToRrRjV3OuKIiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbqATyjlNToRrRjV3OuKIiI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:43"
+  }
+]

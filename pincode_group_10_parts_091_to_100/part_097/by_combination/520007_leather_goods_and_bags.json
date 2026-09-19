@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LEATHER LAND",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "520007",
+    "phone_number": "+91 95339 59195",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Katragadda Pitchaiah St, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.5007739,
+    "longitude": 80.6422121,
+    "place_id": "ChIJSU3Q-5X7NToRRBiC_-ykOxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSU3Q-5X7NToRRBiC_-ykOxE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:11:44"
+  },
+  {
+    "business_name": "VIP Lounge",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Bag shop",
+    "pincode": "520007",
+    "phone_number": "+91 866 453 6822",
+    "website": "https://vipbags.com/",
+    "rating": 4.4,
+    "reviews_count": 402,
+    "address": "40-1, 55/A, Kala Nagar Rd, opposite Reliance Trends, near Benz Circle, Sai Nagar, Kala Nagar, Acharya Ranga Nagar, Vijayawada, Andhra Pradesh 520008",
+    "area": "Sai Nagar, Kala Nagar, Acharya Ranga Nagar",
+    "latitude": 16.498442999999998,
+    "longitude": 80.65302299999999,
+    "place_id": "ChIJw8YlKMf6NToRQrjuj-AOTCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8YlKMf6NToRQrjuj-AOTCI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:11:44"
+  }
+]

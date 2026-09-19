@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai varun Net Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "521137",
+    "phone_number": "+91 72071 64777",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "Chodavaram Main Road, Koundanya Nagar, Penamaluru, Andhra Pradesh 521139",
+    "area": "Koundanya Nagar",
+    "latitude": 16.460748799999998,
+    "longitude": 80.7168824,
+    "place_id": "ChIJx54ciob7NToR1SZLHzUfob4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx54ciob7NToR1SZLHzUfob4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:00"
+  },
+  {
+    "business_name": "LG Net World",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "521137",
+    "phone_number": "+91 95429 32006",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13-551, Poranki BJR Nagar Rd, Poranki, Andhra Pradesh 521137",
+    "area": "Poranki",
+    "latitude": 16.475894,
+    "longitude": 80.7066232,
+    "place_id": "ChIJrcz8Gvn7NToRW4_8BSHz9Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcz8Gvn7NToRW4_8BSHz9Qg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:00"
+  }
+]

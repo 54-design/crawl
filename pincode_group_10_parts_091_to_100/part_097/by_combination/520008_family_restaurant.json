@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sri restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "520008",
+    "phone_number": "+91 78158 23024",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "59a-20-4, teachers colony, Guru Nanak Colony Road, vij-8, Vijayawada, Andhra Pradesh 520008",
+    "area": "vij-8",
+    "latitude": 16.504028599999998,
+    "longitude": 80.66386109999999,
+    "place_id": "ChIJDzgkbwD7NToR7CMYry3_mJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzgkbwD7NToR7CMYry3_mJ0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:33"
+  },
+  {
+    "business_name": "The Eden Park Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "520008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 49,
+    "address": "3rd Ln, opp. Loyola College Road, Venkateswara Nagar, Veterinary Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Venkateswara Nagar, Veterinary Colony",
+    "latitude": 16.5087328,
+    "longitude": 80.662266,
+    "place_id": "ChIJ8eFbt377NToRXXwLIGCoSqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eFbt377NToRXXwLIGCoSqA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:35"
+  }
+]

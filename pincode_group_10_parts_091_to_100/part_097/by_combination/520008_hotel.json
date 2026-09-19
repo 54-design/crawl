@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magnet Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "520008",
+    "phone_number": "N/A",
+    "website": "https://www.magnet-hotel.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "40-14, Chandramouli Puram, 8/1, Chandra Mouli Puram, Sriram Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Chandra Mouli Puram, Sriram Nagar, Benz Circle",
+    "latitude": 16.4968629,
+    "longitude": 80.651478,
+    "place_id": "ChIJIzUP61L7NToRlOcTm0x9MVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzUP61L7NToRlOcTm0x9MVU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:14:29"
+  },
+  {
+    "business_name": "HOTEL C GRAND",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Service Apartment",
+    "pincode": "520008",
+    "phone_number": "+91 98487 97888",
+    "website": "https://wa.me/message/C6V5OI7AGTXXC1",
+    "rating": 3.8,
+    "reviews_count": 190,
+    "address": "2nd Cross Rd, Subbarao Colony, 2nd Line, Bharathi Nagar, Vijayawada, Andhra Pradesh 520008",
+    "area": "Subbarao Colony, 2nd Line, Bharathi Nagar",
+    "latitude": 16.5058886,
+    "longitude": 80.6692243,
+    "place_id": "ChIJM6eKUYL7NToR4okY2bVa4zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6eKUYL7NToR4okY2bVa4zs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:14:31"
+  }
+]

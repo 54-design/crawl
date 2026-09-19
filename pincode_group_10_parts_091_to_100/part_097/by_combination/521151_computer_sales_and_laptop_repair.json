@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Computers Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer store",
+    "pincode": "521151",
+    "phone_number": "+91 77997 87666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "12-29 VEMURIVAARI, STREET GANNAVARAM ROAD, Kankipadu, Andhra Pradesh 521151",
+    "area": "521151",
+    "latitude": 16.4367347,
+    "longitude": 80.7689662,
+    "place_id": "ChIJVw6hYxT9NToRh9Jliz9XQmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVw6hYxT9NToRh9Jliz9XQmU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:24:18"
+  },
+  {
+    "business_name": "VIJAYA SAI INFO TECH",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "521151",
+    "phone_number": "+91 98498 55878",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dr No 2, 158, Main Road, Kankipadu, Andhra Pradesh 521151",
+    "area": "521151",
+    "latitude": 16.4355699,
+    "longitude": 80.7661715,
+    "place_id": "ChIJa1JftNL9NToRdyR7N-LHcn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1JftNL9NToRdyR7N-LHcn8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:24:18"
+  }
+]

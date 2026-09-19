@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grameena Home Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Store",
+    "pincode": "520015",
+    "phone_number": "+91 96527 71177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "77-42/1-19, Police station road, near A1 Tea stall, Sundarayya Nagar, Prakashnagar, Payakapuram, Payikapuram, Andhra Pradesh 520015",
+    "area": "Sundarayya Nagar, Prakashnagar, Payakapuram",
+    "latitude": 16.5482648,
+    "longitude": 80.6486834,
+    "place_id": "ChIJd9vgPwDlNToRQ4_CQwYb6wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9vgPwDlNToRQ4_CQwYb6wk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:03"
+  },
+  {
+    "business_name": "Jeevan Sugar Control Rice",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Diabetes center, General store, Rice shop",
+    "pincode": "520015",
+    "phone_number": "+91 98486 55038",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no.2, 1st Line, Kavithas, Payakapuram, Vijayawada, Payikapuram, Andhra Pradesh 520015",
+    "area": "Kavithas, Payakapuram",
+    "latitude": 16.5535603,
+    "longitude": 80.6469197,
+    "place_id": "ChIJeWAQagDlNToR18Lo_DUhHFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWAQagDlNToR18Lo_DUhHFk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:05"
+  }
+]

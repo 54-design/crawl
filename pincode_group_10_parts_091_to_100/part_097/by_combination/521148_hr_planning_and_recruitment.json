@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Corporate HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "521148",
+    "phone_number": "+91 99860 21569",
+    "website": "http://corporate-hr.net/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Corporate HR, Aryalata, 24, 8th Cross Rd, Muneshwaranagar, Jnana Ganga Nagar, Bengaluru, Karnataka 560056",
+    "area": "Muneshwaranagar, Jnana Ganga Nagar",
+    "latitude": 12.9488455,
+    "longitude": 77.49554739999999,
+    "place_id": "ChIJkyEZr5c-rjsRqF34PFuUsw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyEZr5c-rjsRqF34PFuUsw8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:18:50"
+  },
+  {
+    "business_name": "BigShyft",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "521148",
+    "phone_number": "N/A",
+    "website": "https://www.bigshyft.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2nd Floor, Building, 8, Block B, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Block B, Noida Sector 3",
+    "latitude": 28.579209,
+    "longitude": 77.320505,
+    "place_id": "ChIJe4GGss3lDDkRPQ379asWEZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4GGss3lDDkRPQ379asWEZM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:18:50"
+  }
+]

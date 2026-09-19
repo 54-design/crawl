@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj automobiles & Accessories",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "520011",
+    "phone_number": "+91 90007 78748",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 35,
+    "address": "23-151/1, Gopala Reddy Rd, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5103932,
+    "longitude": 80.6277748,
+    "place_id": "ChIJf6tsUR3wNToRru0ucjwyZQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6tsUR3wNToRru0ucjwyZQM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:00"
+  },
+  {
+    "business_name": "Jahnavi Car Care",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Automotive Service Chains",
+    "all_categories": "Automotive Service Chains",
+    "pincode": "520011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13-108, Eluru Rd, Near Andhra Bank, Ramavarapadu, Vijayawada, Andhra Pradesh 520004",
+    "area": "Near Andhra Bank, Ramavarapadu",
+    "latitude": 16.522964899999998,
+    "longitude": 80.662161,
+    "place_id": "ChIJJzC6tTHlNToRirFgGbSlD14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzC6tTHlNToRirFgGbSlD14",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:01"
+  }
+]

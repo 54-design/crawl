@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMAN car travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "521102",
+    "phone_number": "+91 95733 32016",
+    "website": "http://amancartravels.in/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "GP5C+6JP, Nidamanuru, Andhra Pradesh 521104",
+    "area": "Nidamanuru",
+    "latitude": 16.508134599999998,
+    "longitude": 80.7214511,
+    "place_id": "ChIJmxl1MZz9NToRjpHKuk2bG2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxl1MZz9NToRjpHKuk2bG2Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:33:07"
+  },
+  {
+    "business_name": "Suraksha Car Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521102",
+    "phone_number": "+91 84998 89884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Salipeta Rd, Gangur, Andhra Pradesh 521137",
+    "area": "521102",
+    "latitude": 16.4762074,
+    "longitude": 80.7220092,
+    "place_id": "ChIJNX3a7cj9NToRqmKSrWl7vho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX3a7cj9NToRqmKSrWl7vho",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:33:07"
+  }
+]

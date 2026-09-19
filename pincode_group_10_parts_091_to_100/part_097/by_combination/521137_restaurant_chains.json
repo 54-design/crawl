@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakes 'n' Fries",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "521137",
+    "phone_number": "+91 89856 68987",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 55,
+    "address": "Gangur Center, near old ESI hospital, Gangur, Andhra Pradesh 521139",
+    "area": "AR Nagar",
+    "latitude": 16.465205,
+    "longitude": 80.7319821,
+    "place_id": "ChIJ_WynWYj9NToR6v14aPc8Nb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WynWYj9NToR6v14aPc8Nb4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:11:49"
+  },
+  {
+    "business_name": "INDIAN ARABIAN MANDI",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521137",
+    "phone_number": "+91 90309 00578",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "5-86-19A, Jawaharlal St, State Bank Of India Area, Kothapeta, Kanigiri, Andhra Pradesh 523230",
+    "area": "State Bank Of India Area, Kothapeta",
+    "latitude": 15.4046922,
+    "longitude": 79.5064364,
+    "place_id": "ChIJIbE4OgAvSzoRG8StaEKl-JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbE4OgAvSzoRG8StaEKl-JM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:11:49"
+  }
+]

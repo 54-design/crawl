@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seethamma Vakitlo Staycation",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Villa",
+    "pincode": "521136",
+    "phone_number": "+91 92915 58403",
+    "website": "https://seethammavakitlo.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ramavaram, Andhra Pradesh 530059",
+    "area": "521136",
+    "latitude": 17.8624804,
+    "longitude": 83.23596189999999,
+    "place_id": "ChIJq5bFCABhOToRo180GDQPHIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5bFCABhOToRo180GDQPHIc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:51"
+  },
+  {
+    "business_name": "MANA MANDUVA RESORTS",
+    "search_category": "Resort",
+    "primary_category": "Resort",
+    "all_categories": "Resort",
+    "pincode": "521136",
+    "phone_number": "N/A",
+    "website": "https://www.manamanduva.com/",
+    "rating": 4.8,
+    "reviews_count": 116,
+    "address": "HW2H+3W7, Pedapatnam Lanka, Peddapatnamlanka, Andhra Pradesh 533247",
+    "area": "Pedapatnam Lanka",
+    "latitude": 16.550153599999998,
+    "longitude": 81.9298034,
+    "place_id": "ChIJ064DfgDnNzoRyqawjqhi1Tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ064DfgDnNzoRyqawjqhi1Tc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:52"
+  }
+]

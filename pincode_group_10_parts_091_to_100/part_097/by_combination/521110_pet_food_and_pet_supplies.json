@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G1 PETS Home",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521110",
+    "phone_number": "+91 97004 86268",
+    "website": "https://g1petshome.blogspot.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sundaraiah Nagar Rd, near Little angel School, Railway Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Railway Colony",
+    "latitude": 13.641724199999999,
+    "longitude": 79.4247242,
+    "place_id": "ChIJC-3CulFLTToRUveeEPmKWU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-3CulFLTToRUveeEPmKWU8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:45:34"
+  },
+  {
+    "business_name": "A to Z Small Pet Home",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521110",
+    "phone_number": "+91 91602 34449",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No: 7 AVR Complex, Prakasam Rd, Balaji Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Balaji Colony",
+    "latitude": 13.6290819,
+    "longitude": 79.408087,
+    "place_id": "ChIJv6qq6hpLTToRGGD6VF7etcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6qq6hpLTToRGGD6VF7etcE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:45:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raji beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521105",
+    "phone_number": "+91 99668 09084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Veleru, Andhra Pradesh 521110",
+    "area": "521105",
+    "latitude": 16.6442334,
+    "longitude": 80.9411089,
+    "place_id": "ChIJr8wcg6wNNjoR1RivlukkYns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8wcg6wNNjoR1RivlukkYns",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:00"
+  },
+  {
+    "business_name": "Siva Cuts & Looks",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "521105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "JXPC+78F, Tata wari Complex hanuman Junction, Vijayawada, Andhra Pradesh 521105",
+    "area": "Hanuman Junction, Bapulapadu",
+    "latitude": 16.6356921,
+    "longitude": 80.9707839,
+    "place_id": "ChIJXau41e4NNjoRTYghp4w0hEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXau41e4NNjoRTYghp4w0hEI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.N.Times",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "521122",
+    "phone_number": "+91 91501 90079",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "PHASE 3, T.N.H.B, 58, Ayanambakkam Rd, TNHB Layout, KK Nagar, Ayappakkam, Chennai, Tamil Nadu 600058",
+    "area": "TNHB Layout, KK Nagar, Ayappakkam",
+    "latitude": 13.0965332,
+    "longitude": 80.1468584,
+    "place_id": "ChIJc8LQ1JpjUjoRnzALMsd0kKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8LQ1JpjUjoRnzALMsd0kKo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:53:16"
+  },
+  {
+    "business_name": "Shri Krishna Watch Co",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "521122",
+    "phone_number": "+91 99406 74993",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 27,
+    "address": "New No: 190, Bus Stop, Old No: 304, Arcot Rd, opp. to Power House, Ganga Nagar, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "area": "Ganga Nagar, Kodambakkam",
+    "latitude": 13.0524987,
+    "longitude": 80.2199413,
+    "place_id": "ChIJBf_FN_JmUjoRUJMhvFPGH1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBf_FN_JmUjoRUJMhvFPGH1E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:53:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neocare Homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "520008",
+    "phone_number": "+91 73374 98560",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "67-8-30, Nalluri Street, NSM High School Rd, behind Mee Seva Center, Patamata, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamata",
+    "latitude": 16.4949342,
+    "longitude": 80.6599705,
+    "place_id": "ChIJlT4PF-D7NToR8T2QOa7OvFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlT4PF-D7NToR8T2QOa7OvFU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:45"
+  },
+  {
+    "business_name": "Swapna Homeo Medicals",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Pharmacy",
+    "pincode": "520008",
+    "phone_number": "+91 866 247 3398",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sri Durga Opticians, Plot No. 45, Sai Nagar Opp Surapaneni Eye Hospital Near Benz Circle, Side Road, Vijayawada, Andhra Pradesh 520008",
+    "area": "Sai Nagar, Kala Nagar, Acharya Ranga Nagar",
+    "latitude": 16.4993427,
+    "longitude": 80.65463419999999,
+    "place_id": "ChIJAQAAAMT6NToRx38vlJVJxI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAMT6NToRx38vlJVJxI0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:46"
+  }
+]

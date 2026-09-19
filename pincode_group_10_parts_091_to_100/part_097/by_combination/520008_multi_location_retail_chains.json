@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "520008",
+    "phone_number": "+91 99122 26216",
+    "website": "https://moreretail.in/store-locator",
+    "rating": 3.8,
+    "reviews_count": 1888,
+    "address": "GROUND FLOOR DOOR NO. 59, A 28-3, Guru Nanak Colony Road, Vasavi Nagar, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Vasavi Nagar, Guru Nanak Colony",
+    "latitude": 16.503104699999998,
+    "longitude": 80.6666669,
+    "place_id": "ChIJF2GMD9D6NToR5jlr99pn7oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2GMD9D6NToR5jlr99pn7oo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:12"
+  },
+  {
+    "business_name": "Frootle - A House of Global Electronic Brands",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "520008",
+    "phone_number": "+91 63032 62024",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Ground Floor, Gokhale House, 1A East Portion, 59A-21/5-24/4A, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Guru Nanak Colony",
+    "latitude": 16.5014471,
+    "longitude": 80.6713023,
+    "place_id": "ChIJaU4VwTr7NToRuBpP6-Zo8R0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaU4VwTr7NToRuBpP6-Zo8R0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:15:14"
+  }
+]

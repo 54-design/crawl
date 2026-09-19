@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "F3 Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Biryani restaurant, Chinese restaurant, Continental restaurant, Indian restaurant, North Indian restaurant, Restaurant",
+    "pincode": "521138",
+    "phone_number": "+91 88865 28528",
+    "website": "https://business.google.com/v/f3-restaurant/016262732981576671678/2660/_?",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kamkole, Telangana 502345",
+    "area": "521138",
+    "latitude": 17.649677999999998,
+    "longitude": 77.8006559,
+    "place_id": "ChIJG31A6v9TyTsRXnGkzipPF3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG31A6v9TyTsRXnGkzipPF3w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:45"
+  },
+  {
+    "business_name": "Victory Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521138",
+    "phone_number": "+91 90302 05363",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 91,
+    "address": "Thotlavalluru - Vuyyuru Road, Rajesh Nagar, Vuyyuru, Andhra Pradesh 521165",
+    "area": "Rajesh Nagar",
+    "latitude": 16.3599934,
+    "longitude": 80.8444695,
+    "place_id": "ChIJfxZE2eQBNjoRh4N-te2XhOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxZE2eQBNjoRh4N-te2XhOc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:13:46"
+  }
+]

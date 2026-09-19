@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subba Rao Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521109",
+    "phone_number": "+91 87442 43133",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 10,
+    "address": "HJ48+CW2, Ganesh Temple Area, Coolie Lane, Hanuman Basthi, Kothagudem, Telangana 507101",
+    "area": "Coolie Lane, Hanuman Basthi",
+    "latitude": 17.5560133,
+    "longitude": 80.6172617,
+    "place_id": "ChIJkxDVx7sQNDoRg9RSWXIOtps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxDVx7sQNDoRg9RSWXIOtps",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:44:06"
+  },
+  {
+    "business_name": "Dr Swetha Sajja - Buddhudu Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "521109",
+    "phone_number": "+91 77991 91470",
+    "website": "https://www.drswethasajja.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Buddhudu Hospital, Lakshmivarapu Pet, Lakshmivarapupeta, Seshayya Metta, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Lakshmivarapu Pet, Lakshmivarapupeta, Seshayya Metta",
+    "latitude": 17.0088749,
+    "longitude": 81.7748398,
+    "place_id": "ChIJXxbBQXGlNzoROWcl0bX48Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxbBQXGlNzoROWcl0bX48Ac",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:44:06"
+  }
+]

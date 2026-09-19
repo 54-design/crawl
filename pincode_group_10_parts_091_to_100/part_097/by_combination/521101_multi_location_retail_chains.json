@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sambasiva Enterprises",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Fireworks store",
+    "all_categories": "Fireworks store",
+    "pincode": "521101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 39,
+    "address": "HRC2+67X, B B Gudem, Chikkavaram, Andhra Pradesh 521101",
+    "area": "B B Gudem",
+    "latitude": 16.570620599999998,
+    "longitude": 80.8007325,
+    "place_id": "ChIJbdVD7DnjNToRO75L20Pk6_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdVD7DnjNToRO75L20Pk6_g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:32:21"
+  },
+  {
+    "business_name": "Attada Power & Energy Services",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Power plant consultant",
+    "all_categories": "Power plant consultant",
+    "pincode": "521101",
+    "phone_number": "+91 85007 41087",
+    "website": "http://www.attadapower.com/",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Marlapalem Rd, Gannavaram, Andhra Pradesh 521101",
+    "area": "521101",
+    "latitude": 16.5492079,
+    "longitude": 80.8070465,
+    "place_id": "ChIJqyhHs9PjNToRGNW_rlljdMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyhHs9PjNToRGNW_rlljdMY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:32:21"
+  }
+]

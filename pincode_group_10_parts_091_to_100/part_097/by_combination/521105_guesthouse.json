@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Inn",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "521105",
+    "phone_number": "+91 97055 74666",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 43,
+    "address": "chalamalasetty nagabheema complex, NH-5, Vijayawada Rd, opp. police station, Hanuman Junction, Bapulapadu, Andhra Pradesh 521105",
+    "area": "Hanuman Junction, Bapulapadu",
+    "latitude": 16.6340547,
+    "longitude": 80.9631134,
+    "place_id": "ChIJ5QtWm7gNNjoR_lRkey98L0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QtWm7gNNjoR_lRkey98L0c",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:12"
+  },
+  {
+    "business_name": "OLETI ROOMS & GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "521105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "1-42, kamma bazzar, meerjapuran, Visakhapatnam, Meerjapuram, Andhra Pradesh 521111",
+    "area": "kamma bazzar, meerjapuran",
+    "latitude": 16.7019122,
+    "longitude": 80.9326926,
+    "place_id": "ChIJ9z-7JcgNNjoR5PrRUVcixQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9z-7JcgNNjoR5PrRUVcixQs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:12"
+  }
+]

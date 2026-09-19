@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V2Services Private Ltd | Housekeeping & Security Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "521133",
+    "phone_number": "+91 94483 82233",
+    "website": "http://v2services.in/",
+    "rating": 4.4,
+    "reviews_count": 25,
+    "address": "# 1704, V2Services, 19th Main, 25th Cross Rd, Sector 2, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 2, HSR Layout",
+    "latitude": 12.9059025,
+    "longitude": 77.6444327,
+    "place_id": "ChIJZxVmiVcVrjsRjZOBdZWpxR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxVmiVcVrjsRjZOBdZWpxR8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:30"
+  },
+  {
+    "business_name": "Dexterous Facility Services - Professional Housekeeping Cleaning Services Udaipur",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Dry cleaner, Gutter cleaning service, Cleaning Services, Leather cleaning service, Pool cleaning service, Tile cleaning service, Upholstery cleaning service, Window cleaning service",
+    "pincode": "521133",
+    "phone_number": "+91 95091 55553",
+    "website": "https://www.dexterousfacilityservices.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "36, Dhau Ji Ki Bawadi, Partap Nagar, Nakoda Nagar, Udaipur, Rajasthan 313024",
+    "area": "Dhau Ji Ki Bawadi, Partap Nagar, Nakoda Nagar",
+    "latitude": 24.6026627,
+    "longitude": 73.7684203,
+    "place_id": "ChIJr8sIeN7nZzkRO2mN3i0lV_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8sIeN7nZzkRO2mN3i0lV_w",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:31"
+  }
+]

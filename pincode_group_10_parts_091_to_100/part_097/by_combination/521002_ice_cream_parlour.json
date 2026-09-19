@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Cream Dairy - Ice Creams",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "521002",
+    "phone_number": "+91 97018 58131",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot no 20/2, Ravindra Nagar Colony, Ravindra Nagar, Habsiguda, Hyderabad, Telangana 500013",
+    "area": "Ravindra Nagar Colony, Ravindra Nagar, Habsiguda",
+    "latitude": 17.4042515,
+    "longitude": 78.53827849999999,
+    "place_id": "ChIJzUlAvuCZyzsRHcF0CSRYarQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUlAvuCZyzsRHcF0CSRYarQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:27:06"
+  },
+  {
+    "business_name": "Ice Cream Cafe",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "521002",
+    "phone_number": "+91 96009 43090",
+    "website": "https://icecreamcafe.in/index.html",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "73, Ramachandra Rd, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "area": "R.S. Puram",
+    "latitude": 11.0062892,
+    "longitude": 76.9533277,
+    "place_id": "ChIJOc8Xz99ZqDsR78TFDqWRVIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOc8Xz99ZqDsR78TFDqWRVIU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:27:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "521139",
+    "phone_number": "+91 92464 17220",
+    "website": "https://www.hapdaily.com/",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "DOOR NO:57-12-1A/1, NEW, Panta Kaluva Rd, Patamata, PNT Colony, Kanuru, Andhra Pradesh 520007",
+    "area": "Patamata, PNT Colony",
+    "latitude": 16.4899317,
+    "longitude": 80.6760925,
+    "place_id": "ChIJ-_WXB6n7NToR39DmioyB8YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_WXB6n7NToR39DmioyB8YU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:27"
+  },
+  {
+    "business_name": "VIJAYA DAIRY PARLOUR",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "521139",
+    "phone_number": "+91 83748 68688",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9-52, opp. KFC, Kamayyathopu, Padmaja Nagar, Ashok Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Kamayyathopu, Padmaja Nagar, Ashok Nagar",
+    "latitude": 16.4836584,
+    "longitude": 80.68613719999999,
+    "place_id": "ChIJ_y_Hw7b7NToRm90gxZw6GdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_y_Hw7b7NToRm90gxZw6GdU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:27"
+  }
+]

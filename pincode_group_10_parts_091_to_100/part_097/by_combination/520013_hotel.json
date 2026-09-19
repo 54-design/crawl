@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel SK7",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "520013",
+    "phone_number": "N/A",
+    "website": "https://bni-vijayawada.in/vijayawada-bni-alpha/en-IN/memberdetails?encryptedMemberId=LE5c6/4sMp3FkgNotFHz7w==&cmsv3=true&name=Shabeer+Shaik",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "61-8/3-7, Police Colony, 3rd Ln, Geetha Nagar, Krishna Lanka, Vijayawada, Andhra Pradesh 520013",
+    "area": "Geetha Nagar, Krishna Lanka",
+    "latitude": 16.496499699999998,
+    "longitude": 80.64223849999999,
+    "place_id": "ChIJIeS8ntj7NToRo55cxLf_ZYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeS8ntj7NToRo55cxLf_ZYA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:22:13"
+  },
+  {
+    "business_name": "FabHotel Raj Vihar Residency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "520013",
+    "phone_number": "+91 70424 24242",
+    "website": "https://www.fabhotels.com/hotels-in-vijayawada/fabhotel-raj-vihar-residency.html?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_Traffic",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "39-10-15, Ramesh Hospital Road, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.502047,
+    "longitude": 80.638633,
+    "place_id": "ChIJDxyYPxv7NToRkp-6P6E9lxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxyYPxv7NToRkp-6P6E9lxY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:22:17"
+  }
+]

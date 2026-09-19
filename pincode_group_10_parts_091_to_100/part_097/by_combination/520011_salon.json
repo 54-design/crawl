@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.V.D Life Style",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "520011",
+    "phone_number": "+91 92464 18311",
+    "website": "https://svdsalon.shop/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "AS, Alluri Sitharamaraju St, near Indian Gas Gooden, SN Puram, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "area": "SN Puram, Satyaranayana Puram",
+    "latitude": 16.5252594,
+    "longitude": 80.639628,
+    "place_id": "ChIJGQAAQFflNToRiC8AhtyQrPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQAAQFflNToRiC8AhtyQrPU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:09"
+  },
+  {
+    "business_name": "New Deepthi Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "520011",
+    "phone_number": "+91 99081 35800",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Manepalli Vari Street, Lakshmi Nagar, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "area": "Lakshmi Nagar, Satyaranayana Puram",
+    "latitude": 16.5261721,
+    "longitude": 80.6383182,
+    "place_id": "ChIJYf9gK1flNToRrlC2CZ4OkLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYf9gK1flNToRrlC2CZ4OkLU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:18:09"
+  }
+]

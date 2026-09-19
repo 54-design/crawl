@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NDA Capital Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "520011",
+    "phone_number": "+91 84999 10999",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "NTR Colony, Veterinary Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "NTR Colony, Veterinary Colony",
+    "latitude": 16.516016699999998,
+    "longitude": 80.66527599999999,
+    "place_id": "ChIJ5Ssu_8blNToRhtrD5SHFknI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Ssu_8blNToRhtrD5SHFknI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:51"
+  },
+  {
+    "business_name": "Aravind Cars & Bikes",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "520011",
+    "phone_number": "+91 90595 23939",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Lingavaram Rd, 1st ward, Gudivada, Andhra Pradesh 521301",
+    "area": "1st ward",
+    "latitude": 16.4516244,
+    "longitude": 80.99399249999999,
+    "place_id": "ChIJMbsxuGsbNjoRlncUVL2J_qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbsxuGsbNjoRlncUVL2J_qQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:54"
+  }
+]

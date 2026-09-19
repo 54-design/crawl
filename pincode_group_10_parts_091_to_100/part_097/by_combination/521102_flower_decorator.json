@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Buds Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "521102",
+    "phone_number": "+91 93197 04348",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop, Shop No. 5, Meedo Arcade, 28, Near Ganpati Sweet, Rajpur Rd, Dehradun, Uttarakhand 248001",
+    "area": "Bhel Chowk, Karanpur",
+    "latitude": 30.334966899999998,
+    "longitude": 78.0537646,
+    "place_id": "ChIJlYhVB9ApCTkRE5js6d9u1dY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYhVB9ApCTkRE5js6d9u1dY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:33:25"
+  },
+  {
+    "business_name": "Gupta Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery, Flower designer",
+    "pincode": "521102",
+    "phone_number": "+91 86306 16729",
+    "website": "https://jsdl.in/RSL-CIR1774603280",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sewla Kalan Rd, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Niranjanpur",
+    "latitude": 30.3018418,
+    "longitude": 78.009919,
+    "place_id": "ChIJc46GZDgrCTkREqlJ2zNreak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc46GZDgrCTkREqlJ2zNreak",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:33:25"
+  }
+]

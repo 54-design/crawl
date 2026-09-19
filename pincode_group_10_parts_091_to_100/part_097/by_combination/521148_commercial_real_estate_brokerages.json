@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "3CRE Commercial Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Property management company, Real estate agency, Real estate agent",
+    "pincode": "521148",
+    "phone_number": "N/A",
+    "website": "http://3cre.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7815 Cooper Rd # C, Cincinnati, OH 45242, United States",
+    "area": "521148",
+    "latitude": 39.226335899999995,
+    "longitude": -84.35559099999999,
+    "place_id": "ChIJm7raXVFTQIgRKo93JKLSLVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7raXVFTQIgRKo93JKLSLVY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:18:53"
+  },
+  {
+    "business_name": "Space Management",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate consultant, Real estate rental agency",
+    "pincode": "521148",
+    "phone_number": "+91 78780 02244",
+    "website": "https://www.spacemanagement.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "610, Pinnacle Business Park, Corporate Rd, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+    "area": "Prahlad Nagar",
+    "latitude": 23.007114299999998,
+    "longitude": 72.505462,
+    "place_id": "ChIJWfu9bvaEXjkRupb3PgfXxJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfu9bvaEXjkRupb3PgfXxJY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:18:56"
+  }
+]

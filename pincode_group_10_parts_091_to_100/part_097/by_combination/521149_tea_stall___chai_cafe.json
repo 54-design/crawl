@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TeaTime",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "521149",
+    "phone_number": "+91 90729 11116",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "X68H+WXX, Chathalloor, Perinthalmanna, Keralam 679322",
+    "area": "Chathalloor",
+    "latitude": 10.964343999999999,
+    "longitude": 76.2281393,
+    "place_id": "ChIJo-UKE2LNpzsRLqa5or-pwuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-UKE2LNpzsRLqa5or-pwuU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:21"
+  },
+  {
+    "business_name": "TNR THE CHAI WALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521149",
+    "phone_number": "+91 95157 05298",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot No 18, Padma Sri Gardens Layout, Gowlidoddy, Hyderabad, Telangana 500032",
+    "area": "Padma Sri Gardens Layout, Gowlidoddy",
+    "latitude": 17.4261292,
+    "longitude": 78.3268609,
+    "place_id": "ChIJBxkhgiWTyzsRIoxzZMLTbLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxkhgiWTyzsRIoxzZMLTbLE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:19:24"
+  }
+]

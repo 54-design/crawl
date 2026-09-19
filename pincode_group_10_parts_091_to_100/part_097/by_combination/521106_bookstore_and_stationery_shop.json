@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navodaya Sports",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "521106",
+    "phone_number": "+91 95333 58181",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 66,
+    "address": "S.P.S Stall No 22, Main Road, Gudiwada, Gudiwada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4341027,
+    "longitude": 80.9940433,
+    "place_id": "ChIJ796Qw6kcNjoRFqUjvjT3sow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ796Qw6kcNjoRFqUjvjT3sow",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:39:12"
+  },
+  {
+    "business_name": "Sckool Stores",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery wholesaler",
+    "all_categories": "Stationery wholesaler",
+    "pincode": "521106",
+    "phone_number": "+91 90521 48884",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3-85, FCI Colony, Penumarti, Andhra Pradesh 533005",
+    "area": "FCI Colony",
+    "latitude": 17.0207914,
+    "longitude": 82.2674534,
+    "place_id": "ChIJ60q81swpODoR5Rz0Y6DX5UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60q81swpODoR5Rz0Y6DX5UY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:39:13"
+  }
+]

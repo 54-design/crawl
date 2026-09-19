@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Academy Of Commerce",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "521002",
+    "phone_number": "+91 80109 03003",
+    "website": "http://www.aoc-india.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "9/9, South Patel Nagar, New Delhi, Delhi 110008",
+    "area": "Block 9, South Patel Nagar, Patel Nagar",
+    "latitude": 28.6427648,
+    "longitude": 77.1718811,
+    "place_id": "ChIJq3fSl90YDTkRh4BN4VKRIBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3fSl90YDTkRh4BN4VKRIBQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:28:04"
+  },
+  {
+    "business_name": "CA Swaroop Varudu",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accountant, Auditor, Financial consultant, Tax consultant",
+    "pincode": "521002",
+    "phone_number": "+91 88852 91066",
+    "website": "https://api.whatsapp.com/send/?phone=918885291066&text=Hi,%20I%20saw%20your%20details%20on%20Google.%20Could%20you%20please%20share%20more%20details%20about%20your%20services?",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No 17-539-8, Thotamula, Pedana, Andhra Pradesh 521366",
+    "area": "Thotamula",
+    "latitude": 16.2664541,
+    "longitude": 81.15956659999999,
+    "place_id": "ChIJf4vFCMvhSToRByIOc4gi1OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4vFCMvhSToRByIOc4gi1OA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:28:05"
+  }
+]

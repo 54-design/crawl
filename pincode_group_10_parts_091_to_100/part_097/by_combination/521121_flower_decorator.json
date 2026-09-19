@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PEDDI FLOWER DECORATION",
+    "search_category": "Flower Decorator",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "521121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2W9F+937, Avanigadda, Andhra Pradesh 521122",
+    "area": "521121",
+    "latitude": 16.0184137,
+    "longitude": 80.9226808,
+    "place_id": "ChIJkbc8RgDzSToRCC8LtbGcWTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbc8RgDzSToRCC8LtbGcWTE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:06"
+  },
+  {
+    "business_name": "Vijayalakshmi Flower Decorations",
+    "search_category": "Flower Decorator",
+    "primary_category": "Store",
+    "all_categories": "Store, Flower designer",
+    "pincode": "521121",
+    "phone_number": "+91 83418 11816",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Road, near China Devuni Gudi, Kollipara, Andhra Pradesh 522304",
+    "area": "521121",
+    "latitude": 16.288418099999998,
+    "longitude": 80.7495337,
+    "place_id": "ChIJ33jt0-MASjoRcVHibglMCcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33jt0-MASjoRcVHibglMCcw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:52:07"
+  }
+]

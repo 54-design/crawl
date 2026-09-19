@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "520015",
+    "phone_number": "+91 97033 80786",
+    "website": "https://bsnl.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "77-147-1, 10B, Sundarayya Nagar, Payakapuram, Vijayawada, Payikapuram, Andhra Pradesh 520015",
+    "area": "Sundarayya Nagar, Payakapuram",
+    "latitude": 16.5498709,
+    "longitude": 80.6478988,
+    "place_id": "ChIJbbKIrLHlNToRxrvuuhqzn7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbKIrLHlNToRxrvuuhqzn7Y",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:24:31"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "520015",
+    "phone_number": "+91 98855 25351",
+    "website": "https://bsnl.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MCH SCHOOL, 42-49-6, beside M K BAIG, Ajit Singh Nagar, PNT Colony, Vijayawada, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, PNT Colony",
+    "latitude": 16.537124,
+    "longitude": 80.636421,
+    "place_id": "ChIJPc2VQ9flNToRGCHpIDjex0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPc2VQ9flNToRGCHpIDjex0E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:24:31"
+  }
+]

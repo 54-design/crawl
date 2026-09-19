@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Sai Prakash",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521105",
+    "phone_number": "+91 40 2461 1726",
+    "website": "http://www.hotelsaiprakash.com/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "5-4-427/434 Nampally Station Road Nampally, Abids, Hyderabad, Telangana 500001",
+    "area": "Gruhkalpa, Abids South, Abids",
+    "latitude": 17.390434199999998,
+    "longitude": 78.4708251,
+    "place_id": "ChIJF1gFJRyXyzsR58jhhVdAyFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1gFJRyXyzsR58jhhVdAyFE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:15"
+  },
+  {
+    "business_name": "True Host Hospitality",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Ceramic manufacturer, Ceramics wholesaler, Cutlery store, Glassware store, Glassware wholesaler, Pottery store",
+    "pincode": "521105",
+    "phone_number": "N/A",
+    "website": "http://www.truehoshospitality.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10 1st main shubh enclave phase 2 kasavanahalli village varthur, hobli, Bengaluru, Karnataka 560102",
+    "area": "Haralur, Ambalipura",
+    "latitude": 12.9146237,
+    "longitude": 77.6697263,
+    "place_id": "ChIJz5ikrjoTrjsRJGvnH-Pb9DY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5ikrjoTrjsRJGvnH-Pb9DY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:37:17"
+  }
+]

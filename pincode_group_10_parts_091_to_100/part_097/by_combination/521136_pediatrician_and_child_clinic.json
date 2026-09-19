@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna Children Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521136",
+    "phone_number": "+91 98496 96555",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 36,
+    "address": "Near, RTC Complex Rd, Anakapalle, Anakapalli, Andhra Pradesh 531001",
+    "area": "Anakapalle",
+    "latitude": 17.6833529,
+    "longitude": 83.00216309999999,
+    "place_id": "ChIJLYt-EfRxOToRsUAp9sk6uiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYt-EfRxOToRsUAp9sk6uiI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:11"
+  },
+  {
+    "business_name": "Dr Roshni Gurnani - Pediatrician & Neonatologist | Child Health Specialist in Whitefield, Bangalore",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Children's hospital, Neonatal physician, Pediatric clinic, Pediatric dermatologist, Pediatric gastroenterologist, Pediatric pulmonologist",
+    "pincode": "521136",
+    "phone_number": "N/A",
+    "website": "https://miraclehospital.care/pediatrics/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Miracle Hospital, 765, Whitefield - Hoskote Rd, Chaitanya Ananya, Krishnarajapuram, Seegehalli Thopu, Bengaluru, Karnataka 560115",
+    "area": "Chaitanya Ananya, Krishnarajapuram",
+    "latitude": 13.0091208,
+    "longitude": 77.7589254,
+    "place_id": "ChIJy0YWaZzKa08RRU3motZXPIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0YWaZzKa08RRU3motZXPIE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:12"
+  }
+]

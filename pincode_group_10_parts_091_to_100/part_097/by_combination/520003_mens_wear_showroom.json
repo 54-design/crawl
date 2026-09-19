@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Funky Fox",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "520003",
+    "phone_number": "+91 94935 51595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, 26-16-31, beside Kaparthi theatre, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Opposite.Raj Yuvraj Theater, Gandhi Nagar",
+    "latitude": 16.5167645,
+    "longitude": 80.6284785,
+    "place_id": "ChIJN1JNlf7vNToRPSsbsQBH8ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1JNlf7vNToRPSsbsQBH8ro",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:45"
+  },
+  {
+    "business_name": "Ck Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "520003",
+    "phone_number": "+91 95335 99499",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Vijaya Appartment, Mogalrajapuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Christurajupuram",
+    "latitude": 16.5071977,
+    "longitude": 80.6438838,
+    "place_id": "ChIJnYb6J6n7NToRa70064CYnL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYb6J6n7NToRa70064CYnL4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:47"
+  }
+]

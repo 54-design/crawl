@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Browar Group",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency",
+    "pincode": "521133",
+    "phone_number": "N/A",
+    "website": "https://www.thebrowargroup.com/",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "2207 Garnet Ave Ste J, San Diego, CA 92109, United States",
+    "area": "Pacific Beach",
+    "latitude": 32.8020469,
+    "longitude": -117.229468,
+    "place_id": "ChIJH08hNcgB3IARMh6vEiwElZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH08hNcgB3IARMh6vEiwElZs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:33"
+  },
+  {
+    "business_name": "Pacific Coast Commercial",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Property management company",
+    "pincode": "521133",
+    "phone_number": "N/A",
+    "website": "http://www.pacificcoastcommercial.com/",
+    "rating": 4.2,
+    "reviews_count": 89,
+    "address": "10721 Treena St #200, San Diego, CA 92131, United States",
+    "area": "Scripps Ranch",
+    "latitude": 32.9128958,
+    "longitude": -117.1135707,
+    "place_id": "ChIJE12P5mv-24ARM_Y4EcwND-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE12P5mv-24ARM_Y4EcwND-Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:05:33"
+  }
+]

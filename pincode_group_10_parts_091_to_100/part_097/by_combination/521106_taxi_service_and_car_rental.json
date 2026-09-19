@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eswar car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "521106",
+    "phone_number": "+91 96765 02795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "3W37+88H, Gurukula Patasala, Mopidevi, Andhra Pradesh 521121",
+    "area": "521106",
+    "latitude": 16.0533187,
+    "longitude": 80.9133662,
+    "place_id": "ChIJIyXmJgDzSToRg2o1jgzsSu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyXmJgDzSToRg2o1jgzsSu0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:36"
+  },
+  {
+    "business_name": "Vijay Auto Ride",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "521106",
+    "phone_number": "+91 90527 88607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Share Auto Share Auto, Nagayalanka, Andhra Pradesh 521120",
+    "area": "521106",
+    "latitude": 15.9483505,
+    "longitude": 80.91619419999999,
+    "place_id": "ChIJ4fmhpJGNSToRcZ1tmJt1ZnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fmhpJGNSToRcZ1tmJt1ZnI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:36"
+  }
+]

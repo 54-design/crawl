@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cinefly Films",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service, Service establishment",
+    "pincode": "521120",
+    "phone_number": "N/A",
+    "website": "http://www.cineflyfilms.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Cinefly Films, 521120, India",
+    "area": "521120",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ7y2pW1-Pa4cR1blb2-o2lTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7y2pW1-Pa4cR1blb2-o2lTk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:50:19"
+  },
+  {
+    "business_name": "Drone for rent",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photo shop",
+    "all_categories": "Photo shop",
+    "pincode": "521120",
+    "phone_number": "+91 94839 21466",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "485, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560111",
+    "area": "1st Stage, Kumaraswamy Layout",
+    "latitude": 12.906030099999999,
+    "longitude": 77.5650393,
+    "place_id": "ChIJi2unPesVrjsRoKy7PvnS7rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2unPesVrjsRoKy7PvnS7rw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:50:20"
+  }
+]

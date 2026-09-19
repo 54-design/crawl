@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sowkya Residency",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Apartment building, Lodge",
+    "pincode": "521136",
+    "phone_number": "+91 88522 41960",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 68,
+    "address": "MAIN Rd, opposite SBI ADB, Peddapuram, Andhra Pradesh 533437",
+    "area": "521136",
+    "latitude": 17.0766884,
+    "longitude": 82.13943239999999,
+    "place_id": "ChIJSdHrjG-BNzoRg-NBOB8w3tY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdHrjG-BNzoRg-NBOB8w3tY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:50"
+  },
+  {
+    "business_name": "SREE RESIDENCY",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "521136",
+    "phone_number": "+91 88868 88858",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "25W8+2CG, NEAR, Railway Station Rd, Satyanarayanapuram, Jaggamma Garipeta, Samarlakota, Andhra Pradesh 533440",
+    "area": "Satyanarayanapuram, Jaggamma Garipeta",
+    "latitude": 17.0450054,
+    "longitude": 82.1663373,
+    "place_id": "ChIJo9A3qB2BNzoRMzN4Flu16ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9A3qB2BNzoRMzN4Flu16ek",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Hut",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Bakery and Cake Shop, Cafe, Sandwich shop",
+    "pincode": "521121",
+    "phone_number": "+91 98951 05108",
+    "website": "https://chaihut.in/",
+    "rating": 4.2,
+    "reviews_count": 942,
+    "address": "Vismaya, World Trade Center, Vismaya, Infopark Expy, opp. Brigade, Infopark Campus, Kochi, Keralam 682042",
+    "area": "Infopark Campus",
+    "latitude": 10.008110499999999,
+    "longitude": 76.36476809999999,
+    "place_id": "ChIJH7TBlWILCDsRcqDlGG8Z0Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7TBlWILCDsRcqDlGG8Z0Xg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:12"
+  },
+  {
+    "business_name": "Tea Moments",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Bubble tea store, Coffee shop, Snack bar",
+    "pincode": "521121",
+    "phone_number": "+91 78997 82226",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 67,
+    "address": "Ground Floor, Manju Complex, Immadihalli Main Rd, Nagondanahalli, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Nagondanahalli, Whitefield",
+    "latitude": 12.9729999,
+    "longitude": 77.77010179999999,
+    "place_id": "ChIJZXDYHQANrjsRrvLjuOgCPKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXDYHQANrjsRrvLjuOgCPKw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:14"
+  }
+]

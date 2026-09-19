@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oberoi Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Donut shop, Outlet mall",
+    "pincode": "520002",
+    "phone_number": "+91 22 4099 0824",
+    "website": "https://www.oberoimall.com/",
+    "rating": 4.4,
+    "reviews_count": 91806,
+    "address": "Yashodham, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Yashodham, Goregaon East",
+    "latitude": 19.1741983,
+    "longitude": 72.8604101,
+    "place_id": "ChIJ____vwe35zsRa78RefzEyWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____vwe35zsRa78RefzEyWo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:24"
+  },
+  {
+    "business_name": "srivatsa silks",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "520002",
+    "phone_number": "+91 91544 17761",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4157,
+    "address": "DOOR NO:40-1-134 M.G.ROAD, 40-1-52/5, DIST, beside SBI BANK, Chandra Mouli Puram, Sriram Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Chandra Mouli Puram, Sriram Nagar",
+    "latitude": 16.4987858,
+    "longitude": 80.65083159999999,
+    "place_id": "ChIJH7kasm_7NToRJ4-gXiga7xU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7kasm_7NToRJ4-gXiga7xU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:25"
+  }
+]

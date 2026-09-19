@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Dental Care and Lab",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dental laboratory",
+    "pincode": "521125",
+    "phone_number": "+91 97325 42178",
+    "website": "http://www.maadentalcareandlab.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hemanta Sarker Complex, Bus Stand, Dr. Sachin Sen Rd, near Sangita Cenema Hall, Krishnanagar, West Bengal 741103",
+    "area": "521125",
+    "latitude": 23.409119999999998,
+    "longitude": 88.5010126,
+    "place_id": "ChIJTb27LVIh-TkR7KvzEyPR8xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTb27LVIh-TkR7KvzEyPR8xo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:55:10"
+  },
+  {
+    "business_name": "Dr Chakraborty's Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "521125",
+    "phone_number": "+91 99330 92055",
+    "website": "http://drchakrabortydentalclinic.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chunaripara Lane, Ganguly Bagan, Krishnanagar, West Bengal 741101",
+    "area": "Ganguly Bagan",
+    "latitude": 23.4035609,
+    "longitude": 88.49578129999999,
+    "place_id": "ChIJI21VJq0h-TkRcTPmghM5JaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI21VJq0h-TkRcTPmghM5JaI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:55:10"
+  }
+]

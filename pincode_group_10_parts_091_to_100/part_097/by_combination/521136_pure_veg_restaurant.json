@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PURE VEG RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Revenue Colony, Tirupati, Andhra Pradesh 517503",
+    "area": "Revenue Colony",
+    "latitude": 13.6121939,
+    "longitude": 79.4397405,
+    "place_id": "ChIJnRlxIZFLTToRFy70tl4n-Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRlxIZFLTToRFy70tl4n-Us",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:49"
+  },
+  {
+    "business_name": "RK food industries",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "521136",
+    "phone_number": "+91 73967 33382",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8XC7+VMC, Vijayawada Rd, Pamarru, Andhra Pradesh 521157",
+    "area": "521136",
+    "latitude": 16.3217309,
+    "longitude": 80.9641726,
+    "place_id": "ChIJLwh0NAD9SToRXfMp0-6kRro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwh0NAD9SToRXfMp0-6kRro",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:51"
+  }
+]

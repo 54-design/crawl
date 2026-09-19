@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudheer general stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "520003",
+    "phone_number": "+91 85001 56652",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "David St, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.5204476,
+    "longitude": 80.6248292,
+    "place_id": "ChIJZ_qsFRfvNToRGdV-f9Q1fkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_qsFRfvNToRGdV-f9Q1fkE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:33"
+  },
+  {
+    "business_name": "Hanuman General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "520003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "GJHM+RMP, Main Rd, Ramalingeswarapet, New Ayodhya Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Ramalingeswarapet, New Ayodhya Nagar",
+    "latitude": 16.5295769,
+    "longitude": 80.6342114,
+    "place_id": "ChIJxRXAt1jlNToRznhu_IbccWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRXAt1jlNToRznhu_IbccWs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:35"
+  }
+]

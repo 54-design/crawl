@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Chamundeswari Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "520003",
+    "phone_number": "+91 98661 74837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GJCH+9JR, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520003",
+    "area": "Satyaranayana Puram",
+    "latitude": 16.5209841,
+    "longitude": 80.6290197,
+    "place_id": "ChIJu2M9sTfvNToRv-NWquN2zk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2M9sTfvNToRv-NWquN2zk4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:11"
+  },
+  {
+    "business_name": "Karthikeya Bike Mechanic",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "520003",
+    "phone_number": "+91 85007 67727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, 2-94, Satyanarayanpuram, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "area": "Satyanarayanpuram, Satyaranayana Puram",
+    "latitude": 16.5256533,
+    "longitude": 80.6379432,
+    "place_id": "ChIJKeiMsZHlNToRu9DKD4woxYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeiMsZHlNToRu9DKD4woxYc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:11"
+  }
+]

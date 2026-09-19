@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Love falooda",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "520008",
+    "phone_number": "+91 93980 87553",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "BRTS Rd, near city cancer cure center, Machavaram Down, Machavaram, Vijayawada, Andhra Pradesh 520004",
+    "area": "Machavaram Down, Machavaram",
+    "latitude": 16.5236602,
+    "longitude": 80.65365129999999,
+    "place_id": "ChIJXWECxsrlNToRKDyI6XAoNt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWECxsrlNToRKDyI6XAoNt4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:29"
+  },
+  {
+    "business_name": "Juice Box & Shakes Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "520008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "Shop number 98, huda market, sector 56 gurgaon Delhi, Gurugram, Haryana 122011",
+    "area": "Block B, Sector 56",
+    "latitude": 28.425244,
+    "longitude": 77.0990041,
+    "place_id": "ChIJnVqaBAEiDTkR95x3gZFXZmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVqaBAEiDTkR95x3gZFXZmA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:13:30"
+  }
+]

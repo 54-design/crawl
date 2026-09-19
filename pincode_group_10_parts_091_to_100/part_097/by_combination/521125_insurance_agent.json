@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INSURANCE SOLUTIONS",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance Agent",
+    "all_categories": "Insurance Agent",
+    "pincode": "521125",
+    "phone_number": "+91 74282 51230",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Block B, Nandgram, Ghukna, Ghaziabad, Uttar Pradesh 201003",
+    "area": "Block B, Nandgram, Ghukna",
+    "latitude": 28.689622999999997,
+    "longitude": 77.41382209999999,
+    "place_id": "ChIJe40LPPjwDDkRCviDNYdIk0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe40LPPjwDDkRCviDNYdIk0c",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:56:10"
+  },
+  {
+    "business_name": "Insurance Products Source",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment",
+    "pincode": "521125",
+    "phone_number": "N/A",
+    "website": "http://ips.insure/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Insurance Products Source, 521125, India",
+    "area": "521125",
+    "latitude": 25.4405345,
+    "longitude": -80.4668136,
+    "place_id": "ChIJ0dCrVEfr2YgRKLqMEWPAuJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dCrVEfr2YgRKLqMEWPAuJI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:56:10"
+  }
+]

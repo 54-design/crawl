@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SI footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3W7F+QJR, near by subramanya sawmi temple, Mopidevi, Andhra Pradesh 521125",
+    "area": "521125",
+    "latitude": 16.064426,
+    "longitude": 80.9240019,
+    "place_id": "ChIJJbxaRQDxSToR_xjO1ULLKl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbxaRQDxSToR_xjO1ULLKl4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:55:02"
+  },
+  {
+    "business_name": "Foot Hub",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521125",
+    "phone_number": "+91 94473 83129",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VH7V+JCG, Koothattukulam, Kerala 686662",
+    "area": "521125",
+    "latitude": 9.8640671,
+    "longitude": 76.5935657,
+    "place_id": "ChIJq_kvXhLbBzsRgPx8nYTN8co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_kvXhLbBzsRgPx8nYTN8co",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:55:04"
+  }
+]

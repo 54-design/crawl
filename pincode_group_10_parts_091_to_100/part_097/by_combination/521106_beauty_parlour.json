@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "521106",
+    "phone_number": "+91 94949 09419",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sankar Reddy Rd, Ampapuram, Andhra Pradesh 521109",
+    "area": "521106",
+    "latitude": 16.5820077,
+    "longitude": 80.8921924,
+    "place_id": "ChIJZZqWDlYJNjoRhrOUd8NdrTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZqWDlYJNjoRhrOUd8NdrTs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:50"
+  },
+  {
+    "business_name": "green trends Unisex Hair & Style Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Bridal shop, Eyelash salon, Facial spa, Hair salon, Make-up artist, Spa, Stylist, Waxing hair removal service",
+    "pincode": "521106",
+    "phone_number": "+91 95533 31555",
+    "website": "https://salons.mygreentrends.in/salon-in-satyanarayana-puram-krishna-andhra-pradesh",
+    "rating": 4.8,
+    "reviews_count": 1205,
+    "address": "No. 10-219, D1 Bypass Road, opp. Union Bank, Teacher Colony, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Teacher Colony, Satyanarayana Puram",
+    "latitude": 16.4445153,
+    "longitude": 80.99217449999999,
+    "place_id": "ChIJpa5b-l0bNjoRdb4qvdLs6i0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpa5b-l0bNjoRdb4qvdLs6i0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:38:50"
+  }
+]

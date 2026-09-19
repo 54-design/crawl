@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bezawada Ruchulu",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FP6P+84Q, Gangur, Andhra Pradesh 521151",
+    "area": "521139",
+    "latitude": 16.460846,
+    "longitude": 80.7353469,
+    "place_id": "ChIJ4bMaUgD9NToRb5aDkaa3pz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bMaUgD9NToRb5aDkaa3pz8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:38"
+  },
+  {
+    "business_name": "Bobby restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "521139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 101,
+    "address": "Bobby's Family Restaurant Vijayawada To, Karakatta Road, Avanigadda, Kankipadu, Andhra Pradesh 521151",
+    "area": "521139",
+    "latitude": 16.4123584,
+    "longitude": 80.7119489,
+    "place_id": "ChIJYW8fPFD5NToRnkKS-iwioc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYW8fPFD5NToRnkKS-iwioc8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:40"
+  }
+]

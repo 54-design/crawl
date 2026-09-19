@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MODERN CAR WASH",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "521126",
+    "phone_number": "+91 84980 66310",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "Shop Number 1, Kapthanapalem, Challapalli, Andhra Pradesh 521126",
+    "area": "521126",
+    "latitude": 16.1112785,
+    "longitude": 80.9271675,
+    "place_id": "ChIJY-sZDPbxSToRfxkuJ7p53YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-sZDPbxSToRfxkuJ7p53YE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:57:11"
+  },
+  {
+    "business_name": "KGN ENGINE CARBON CLEANING SERVICE",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Engine Rebuilding Service Station",
+    "all_categories": "Engine Rebuilding Service Station",
+    "pincode": "521126",
+    "phone_number": "+91 96661 54524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vakkalagadda, Challapalli, Andhra Pradesh 521126",
+    "area": "521126",
+    "latitude": 16.129603499999998,
+    "longitude": 80.9232775,
+    "place_id": "ChIJl1Xufy3xSToRKuJtZ1BC0PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1Xufy3xSToRKuJtZ1BC0PI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:57:12"
+  }
+]

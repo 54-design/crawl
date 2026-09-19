@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subham skin and kidney clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "521104",
+    "phone_number": "+91 75693 16629",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Oppsite medplus, 1, st floor, Vijayawada Rd, above IFB point, Penamaluru, Gangur, Andhra Pradesh 521137",
+    "area": "521104",
+    "latitude": 16.471789299999998,
+    "longitude": 80.7183921,
+    "place_id": "ChIJ43tUnL37NToRECjGqh3aPws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43tUnL37NToRECjGqh3aPws",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:43"
+  },
+  {
+    "business_name": "Maganti Hospital",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521104",
+    "phone_number": "+91 86742 41878",
+    "website": "https://www.magantihospital.com/",
+    "rating": 4.8,
+    "reviews_count": 732,
+    "address": "D.No. 12, 24, Neela Mahal Rd, Loyaada, Gudivada, Andhra Pradesh 521301",
+    "area": "Loyaada",
+    "latitude": 16.436825,
+    "longitude": 80.99164499999999,
+    "place_id": "ChIJYcrPw1UbNjoRDcbE8BSzBS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcrPw1UbNjoRDcbE8BSzBS0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:45"
+  }
+]

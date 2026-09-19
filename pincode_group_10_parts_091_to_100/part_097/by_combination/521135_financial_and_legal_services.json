@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chennai Lawyers",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Lawyer",
+    "pincode": "521135",
+    "phone_number": "+91 98849 25464",
+    "website": "http://www.chennailawyers.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5/759 Lakshmi Nivas, Sabari Salai, Madipakkam, Moovarasampettai, Tamil Nadu 600091",
+    "area": "Senthuran Colony, Defence Colony, Madipakkam",
+    "latitude": 12.9655723,
+    "longitude": 80.1911191,
+    "place_id": "ChIJWQyEIehdUjoRDJAGtZg9heo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQyEIehdUjoRDJAGtZg9heo",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:20"
+  },
+  {
+    "business_name": "Financial Tips",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "521135",
+    "phone_number": "+91 91366 92307",
+    "website": "http://instagram.com/financialtipsindia",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hill Palace Rd, Thrippunithura, Ernakulam, Keralam 682301",
+    "area": "Thrippunithura",
+    "latitude": 9.9465266,
+    "longitude": 76.35153059999999,
+    "place_id": "ChIJC_IkGtdzCDsRXBIR9zma6qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_IkGtdzCDsRXBIR9zma6qg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:09:21"
+  }
+]

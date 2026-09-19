@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The HR Consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Consultant, Service establishment",
+    "pincode": "521131",
+    "phone_number": "07554 663809",
+    "website": "https://www.thehrconsultancy.uk/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "The HR Consultancy, 521131, India",
+    "area": "521131",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJzzDf4L7jdUgRP4FmXqc5uk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzDf4L7jdUgRP4FmXqc5uk0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:01:46"
+  },
+  {
+    "business_name": "Human Resource Management Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "521131",
+    "phone_number": "07787 470113",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Human Resource Management Services, 521131, India",
+    "area": "521131",
+    "latitude": 52.8468564,
+    "longitude": -2.410475,
+    "place_id": "ChIJaU_pCvVnekgR_aNdQB4UjgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaU_pCvVnekgR_aNdQB4UjgY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:01:46"
+  }
+]

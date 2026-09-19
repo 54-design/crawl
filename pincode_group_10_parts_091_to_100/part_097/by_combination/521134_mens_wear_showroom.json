@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rare Linen",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "521134",
+    "phone_number": "+91 96767 43888",
+    "website": "https://therarelinen.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Elevate Mall by Sentini, MG Rd, Kanuru, Vijayawada, Kanuru, Andhra Pradesh 520007",
+    "area": "Kanuru",
+    "latitude": 16.4857144,
+    "longitude": 80.68253829999999,
+    "place_id": "ChIJy1HxF_L7NToRG4kBGdtH8Vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1HxF_L7NToRG4kBGdtH8Vw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:08"
+  },
+  {
+    "business_name": "Van Heusen Men Clothing Store, Imperial Arcade",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Jeans shop, Designer Clothing Store, Dress store, Clothing Accessories Store, Formal Clothing Store, T-shirt store, Tuxedo shop, Youth clothing store",
+    "pincode": "521134",
+    "phone_number": "+91 63093 67372",
+    "website": "https://vanheusenindia.abfrl.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "VSN Mall, No. 59-13-34/1A/12, NH 16 Service Rd, Panpana, Krishna Nagar, Vijayawada, Andhra Pradesh 520008",
+    "area": "Panpana, Krishna Nagar",
+    "latitude": 16.5012243,
+    "longitude": 80.65697279999999,
+    "place_id": "ChIJLS65BjH7NToRrZzhP687_kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLS65BjH7NToRrZzhP687_kg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:06:11"
+  }
+]

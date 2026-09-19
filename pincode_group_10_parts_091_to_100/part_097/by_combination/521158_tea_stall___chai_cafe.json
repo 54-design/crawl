@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brothers Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521158",
+    "phone_number": "+91 70575 24585",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Kalpavruksha Hospital in Fornt of M Wazalwar Griving School, Chatrapati Square, Nagpur, Maharashtra 440015",
+    "area": "Chatrapati Square",
+    "latitude": 21.1106776,
+    "longitude": 79.07206699999999,
+    "place_id": "ChIJqVR2YFi_1DsR8bEpTqZ05I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVR2YFi_1DsR8bEpTqZ05I8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:30:30"
+  },
+  {
+    "business_name": "Karak Chaa | Christian Basti",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant",
+    "pincode": "521158",
+    "phone_number": "N/A",
+    "website": "https://www.karakchaa.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Karak Chaa, Krishna Tower, GS Rd, near Aayakar Bhawan, Christian Basti, Guwahati, Assam 781005",
+    "area": "Christian Basti",
+    "latitude": 26.1582585,
+    "longitude": 91.7761034,
+    "place_id": "ChIJNwCtaABZWjcRL_N0eIJkl-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwCtaABZWjcRL_N0eIJkl-M",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:30:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skin Inn",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521121",
+    "phone_number": "+91 63019 31243",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "15-13-21, Velaga Vari Street, Kothapet, Market Area, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Market Area, Ramalingeswara Pet",
+    "latitude": 16.236795,
+    "longitude": 80.6461369,
+    "place_id": "ChIJNUEgpKYHSjoRml6n404THQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUEgpKYHSjoRml6n404THQQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:33"
+  },
+  {
+    "business_name": "Sarala Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "521121",
+    "phone_number": "+91 95506 79000",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 11,
+    "address": "Lakshmi Prasad castel, Motupalli Vari St, opposite coastal Bank, opposite Deepthi publications, Kothapet, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Ramalingeswara Pet",
+    "latitude": 16.2350253,
+    "longitude": 80.6508922,
+    "place_id": "ChIJs40G6esHSjoRxviLH2OnybM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs40G6esHSjoRxviLH2OnybM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:51:34"
+  }
+]

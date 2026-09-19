@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Ramalinga Reddy Maxivision Super Speciality Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Doctor, Hospital, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "521131",
+    "phone_number": "+91 92402 14613",
+    "website": "https://www.maxivisioneyehospital.com/dr-ramalinga-reddy-maxivision/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Door No:3-1, 225/1, Pattabhipuram Rd, East Krishna Nagar, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+    "area": "East Krishna Nagar, Krishna Nagar",
+    "latitude": 16.3079823,
+    "longitude": 80.4196067,
+    "place_id": "ChIJH-FsG151SjoRo_XcxJw0Maw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-FsG151SjoRo_XcxJw0Maw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:00:46"
+  },
+  {
+    "business_name": "Dr. Swarna Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "521131",
+    "phone_number": "+91 86399 21655",
+    "website": "https://www.drswarnaeyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Stambalagaruvu Rd, Stambalagaruvu, Guntur, Andhra Pradesh 522006",
+    "area": "Stambalagaruvu",
+    "latitude": 16.3117852,
+    "longitude": 80.4151028,
+    "place_id": "ChIJZ8RVy_p1SjoRlSRN5gomNho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8RVy_p1SjoRlSRN5gomNho",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:00:46"
+  }
+]

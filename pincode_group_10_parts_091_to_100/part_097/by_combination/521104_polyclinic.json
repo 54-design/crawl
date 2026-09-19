@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keerthi Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521104",
+    "phone_number": "+91 90105 02212",
+    "website": "http://keerthihospital.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "New vasavi nagar, phase 2, Challapalli, Andhra Pradesh 521126",
+    "area": "phase 2",
+    "latitude": 16.1134531,
+    "longitude": 80.9363319,
+    "place_id": "ChIJq3-uxlPxSToReN8jour6jr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3-uxlPxSToReN8jour6jr4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:45"
+  },
+  {
+    "business_name": "Grace Hospitals",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521104",
+    "phone_number": "+91 80963 14314",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4W9Q+MPF, Bandur Rd, opposite SRYSP COLLEGE, Challapalli, Andhra Pradesh 521126",
+    "area": "521104",
+    "latitude": 16.11919,
+    "longitude": 80.9393005,
+    "place_id": "ChIJEd76nBHxSToRF5g9sql-6rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEd76nBHxSToRF5g9sql-6rs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:45"
+  }
+]

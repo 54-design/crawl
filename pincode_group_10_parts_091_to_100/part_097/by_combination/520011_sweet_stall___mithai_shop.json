@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Rama Sweets-Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop",
+    "pincode": "520011",
+    "phone_number": "+91 866 646 2477",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 56,
+    "address": "GJCQ+CCH, BRTS Rd, Near Sangeetha Kalasala, Opposite Railway Reservation Counter, Near Food Junction, SN Puram, Durgapuram, Vijayawada, Andhra Pradesh 520003",
+    "area": "Near Sangeetha Kalasala, Opposite Railway Reservation Counter, Near Food Junction, SN Puram, Durgapuram",
+    "latitude": 16.521072099999998,
+    "longitude": 80.63860199999999,
+    "place_id": "ChIJyVodLlHlNToR1aGJvQEmHMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVodLlHlNToR1aGJvQEmHMs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:19"
+  },
+  {
+    "business_name": "Sai Krishna Sweets & Home Foods",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "520011",
+    "phone_number": "+91 96424 23539",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "GJCJ+HP3, Main Rd, satyanarayanpuram, Vijayawada, Andhra Pradesh 520011",
+    "area": "satyanarayanpuram",
+    "latitude": 16.5213946,
+    "longitude": 80.63179199999999,
+    "place_id": "ChIJb0NzYvjvNToRn27tVQuNPo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0NzYvjvNToRn27tVQuNPo8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:22"
+  }
+]

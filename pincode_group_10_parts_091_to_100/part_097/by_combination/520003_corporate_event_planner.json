@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Event Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Entertainment agency, Event venue",
+    "pincode": "520003",
+    "phone_number": "+91 79975 55522",
+    "website": "https://sunshineevents.net/",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "14-52 Tulasi Nagar, 3rd Line, opp. to Mounica Hosipatals Corner point, Kanuru, Vijayawada, Andhra Pradesh 520007",
+    "area": "Siddiq Nagar, Kanuru",
+    "latitude": 16.4923276,
+    "longitude": 80.6780321,
+    "place_id": "ChIJc2_18FL7NToRX0B55NU3y30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2_18FL7NToRX0B55NU3y30",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:42"
+  },
+  {
+    "business_name": "S P Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "520003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No:- 41, 27-75/1, near Satyam Gari Hotel, Chowdary Peta, Balaji Nagar, Krishnalanka, Vijayawada, Andhra Pradesh 520013",
+    "area": "Chowdary Peta, Balaji Nagar, Krishnalanka",
+    "latitude": 16.496857,
+    "longitude": 80.63894359999999,
+    "place_id": "ChIJQ3j2F6T6NToRo_WD48HFJ4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3j2F6T6NToRo_WD48HFJ4g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:08:45"
+  }
+]

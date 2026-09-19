@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JVQW+XFP, Viravalli, Andhra Pradesh 521110",
+    "area": "521109",
+    "latitude": 16.6399539,
+    "longitude": 80.8962136,
+    "place_id": "ChIJ2VxzUAALNjoR1pnr2h74xKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VxzUAALNjoR1pnr2h74xKQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:44:35"
+  },
+  {
+    "business_name": "Khimat Beauty Centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "521109",
+    "phone_number": "+91 90929 95522",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "BigC Mobile Showroom Back Side, 14/98, near Old Bank, off Baroda Line, Kamla Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamla Nagar",
+    "latitude": 14.6800544,
+    "longitude": 77.5990582,
+    "place_id": "ChIJa-MSe9tKsTsRkgtMyP_Pzr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-MSe9tKsTsRkgtMyP_Pzr4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:44:37"
+  }
+]

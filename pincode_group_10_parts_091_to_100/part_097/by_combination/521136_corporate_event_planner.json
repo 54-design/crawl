@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "7events.in",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, DJ service, Party planner, Tent House Supplier, Video editing service, Video production service, Wedding planner, Wedding service",
+    "pincode": "521136",
+    "phone_number": "+91 99000 02941",
+    "website": "http://www.7events.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1, 1st cross , 1st Main, Yelenahalli Main Rd, off Baneerghatta Road, Akshaya Gardens, Akshayanagar, Bengaluru, Karnataka 560114",
+    "area": "Akshayanagara West, Akshaya Gardens, Akshayanagar",
+    "latitude": 12.873185999999999,
+    "longitude": 77.6158864,
+    "place_id": "ChIJZ-9MUgQVrjsRRE9ufgIHpmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-9MUgQVrjsRRE9ufgIHpmw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:53"
+  },
+  {
+    "business_name": "Event Creators",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Wedding planner",
+    "pincode": "521136",
+    "phone_number": "+91 94494 40226",
+    "website": "http://www.eventcreators.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2, 39th cross, 16th A Main Rd, 4th T Block East, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "4th T Block East, Jayanagar",
+    "latitude": 12.9205686,
+    "longitude": 77.5884935,
+    "place_id": "ChIJM5LUE6AVrjsRapw0WQPH32I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5LUE6AVrjsRapw0WQPH32I",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:10:53"
+  }
+]

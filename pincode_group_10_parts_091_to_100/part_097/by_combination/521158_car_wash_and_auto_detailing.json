@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Splash Carcare",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto care products store, Auto painting, Auto Accessories Store, Car stereo store, Auto restoration service, Vehicle wrapping service, Window tinting service",
+    "pincode": "521158",
+    "phone_number": "+91 90000 33014",
+    "website": "https://splashcarcare.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "313, Banjara Hills Rd Number 3, nr. Levant restaurant, UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills",
+    "latitude": 17.4253309,
+    "longitude": 78.43800279999999,
+    "place_id": "ChIJey703KiXyzsRBf8ZE2uj4UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey703KiXyzsRBf8ZE2uj4UA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:30:59"
+  },
+  {
+    "business_name": "Creative Autohub",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Car dealer, Tire shop",
+    "pincode": "521158",
+    "phone_number": "+91 90990 10101",
+    "website": "http://www.creativeautohub.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No :-172, Sindhubhavan Rd, near Sapphire Greens Appartments, Thaltej, Ahmedabad, Gujarat 380059",
+    "area": "Thaltej",
+    "latitude": 23.0478736,
+    "longitude": 72.4988685,
+    "place_id": "ChIJIyd2uW6bXjkRt0PGMqbUIoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyd2uW6bXjkRt0PGMqbUIoA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:30:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NephroPlus Dialysis & Kidney Care Clinic in Machilipatnam",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "521001",
+    "phone_number": "+91 96529 41177",
+    "website": "https://www.nephroplus.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Government Hospital, Noble College Rd, Railpeta, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Railpeta",
+    "latitude": 16.1768625,
+    "longitude": 81.138206,
+    "place_id": "ChIJN_oDWxfnSToRlgJo_2ASg2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_oDWxfnSToRlgJo_2ASg2U",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:25:30"
+  },
+  {
+    "business_name": "Adam Nephron Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Nephrologist",
+    "pincode": "521001",
+    "phone_number": "+91 90278 86116",
+    "website": "https://adamnephron.com/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "F-1, Cribs Hospital, 40 Feet Rd, Shaheen Bagh, Jamia Nagar, Okhla, New Delhi, Delhi, 110025",
+    "area": "Shaheen Bagh, Jamia Nagar, Okhla",
+    "latitude": 28.543202299999997,
+    "longitude": 77.300493,
+    "place_id": "ChIJTU06OsHlDDkR2ZfyWoCOYFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTU06OsHlDDkR2ZfyWoCOYFw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:25:30"
+  }
+]

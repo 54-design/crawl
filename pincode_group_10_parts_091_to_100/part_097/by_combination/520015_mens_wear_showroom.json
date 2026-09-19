@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SwagHouse Men's fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "520015",
+    "phone_number": "+91 90590 11884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "45-1-74/A, opposite Enfield showroom, Santhi Nagar, Machavaram, Vijayawada, Andhra Pradesh 520004",
+    "area": "Santhi Nagar, Machavaram",
+    "latitude": 16.523918,
+    "longitude": 80.6560961,
+    "place_id": "ChIJFysXWwDlNToRu1ze3sR3xuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFysXWwDlNToRu1ze3sR3xuM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:19"
+  },
+  {
+    "business_name": "DARKWYN CLOTHING",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "520015",
+    "phone_number": "+91 79012 12312",
+    "website": "http://www.darkwyn.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DRWA-179A, 1st Line Devi Nagar, Devi Nagar, Rama Krishna Puram, Vijayawada, Andhra Pradesh 520003",
+    "area": "Devi Nagar, Rama Krishna Puram",
+    "latitude": 16.5336162,
+    "longitude": 80.64456469999999,
+    "place_id": "ChIJ4-M8MxflNToR826x1DLY7gM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-M8MxflNToR826x1DLY7gM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kktaxconsultancy",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax preparation",
+    "all_categories": "Tax preparation",
+    "pincode": "521108",
+    "phone_number": "+91 96424 72777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.NO:48-16-11A Main Road, near G-Square Hotel, Sri Ramachandra Nagar, Kanuru, Andhra Pradesh 520008",
+    "area": "Nagarjuna Nagar, Sri Ramachandra Nagar",
+    "latitude": 16.5116698,
+    "longitude": 80.67437579999999,
+    "place_id": "ChIJ2xpQR-r7NToRE5sTS0Iy22E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xpQR-r7NToRE5sTS0Iy22E",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:43:20"
+  },
+  {
+    "business_name": "SSM CONSULTANTS",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Consultant",
+    "pincode": "521108",
+    "phone_number": "+91 866 254 3848",
+    "website": "https://ssmconsultants.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GM47+HP6, Bharathi Nagar, Vijayawada, Andhra Pradesh 520008",
+    "area": "Bharathi Nagar",
+    "latitude": 16.506415,
+    "longitude": 80.6642616,
+    "place_id": "ChIJRXkdRM76NToRp4rBEsc4DoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXkdRM76NToRp4rBEsc4DoA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:43:20"
+  }
+]

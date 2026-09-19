@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BTS Car travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency, Transportation service",
+    "pincode": "521151",
+    "phone_number": "+91 93473 76060",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no-4, Market Yard samudayam building, Bank Colony, Kankipadu, Andhra Pradesh 521151",
+    "area": "Bank Colony",
+    "latitude": 16.4295483,
+    "longitude": 80.7716726,
+    "place_id": "ChIJl4EO16L9NToR-RyDp_kBiYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4EO16L9NToR-RyDp_kBiYI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:23:38"
+  },
+  {
+    "business_name": "VIBRAJAS INTERNATIONAL PVT LTD",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521151",
+    "phone_number": "+91 78420 67773",
+    "website": "http://vibrajas.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D.No: 2-164, Dwaraka Towers, Amrutha Enclave, Panchayat Office 203, near Gosala - Vanukuru Road, Gosala, Penamaluru, Andhra Pradesh 521151",
+    "area": "521151",
+    "latitude": 16.4441865,
+    "longitude": 80.7437951,
+    "place_id": "ChIJ6Q__KD78NToRhHS2RbEW9q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Q__KD78NToRhHS2RbEW9q8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:23:38"
+  }
+]

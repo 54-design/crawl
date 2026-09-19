@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshaya Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "521104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First lane, Enikepadu, Vijayawada, Prasadampadu, Andhra Pradesh 520007",
+    "area": "Enikepadu",
+    "latitude": 16.5094572,
+    "longitude": 80.7054699,
+    "place_id": "ChIJ0bH3PGP7NToRqL-sjD1arh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bH3PGP7NToRqL-sjD1arh8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:21"
+  },
+  {
+    "business_name": "SRI VENKATESWARA BANGALOR IYENGAR BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "521104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gosala Centre, Edupugallu, Vijayawada, Andhra Pradesh 521151",
+    "area": "521104",
+    "latitude": 16.4490689,
+    "longitude": 80.7470546,
+    "place_id": "ChIJo2ZN4Cj9NToRqLtIPyq31BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2ZN4Cj9NToRqLtIPyq31BQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:34:22"
+  }
+]

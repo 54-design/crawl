@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amma Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521139",
+    "phone_number": "+91 91113 39949",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 93,
+    "address": "arch center, 74-14-69, Yanamalakuduru Lakula Rd, Kishore Nagar, Ayyappa Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Kishore Nagar, Ayyappa Nagar",
+    "latitude": 16.4869037,
+    "longitude": 80.6700474,
+    "place_id": "ChIJ12SmdED7NToRYskdRb7SWy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12SmdED7NToRYskdRb7SWy8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:54"
+  },
+  {
+    "business_name": "Vardan Child Health Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "521139",
+    "phone_number": "+91 97204 25008",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gate No.2, Officer Colony, Bhutowala Chowk, near gouri garments, Chanderbani, Dehradun, Pitthuwala, Uttarakhand 248002",
+    "area": "Chanderbani",
+    "latitude": 30.2806435,
+    "longitude": 77.98016419999999,
+    "place_id": "ChIJv_wwCgYrCTkRB7n5G9pft3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_wwCgYrCTkRB7n5G9pft3g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:15:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Central Warehousing, Nidamanuru",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "520002",
+    "phone_number": "+91 866 284 2328",
+    "website": "http://cewacor.nic.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GP5F+QQM, Unnamed Road, Nidamanuru, Andhra Pradesh 521104",
+    "area": "Nidamanuru",
+    "latitude": 16.5094608,
+    "longitude": 80.72442769999999,
+    "place_id": "ChIJvx5brJf9NToRqwpuCdyUPxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvx5brJf9NToRqwpuCdyUPxU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:11"
+  },
+  {
+    "business_name": "Central Warehousing Corporation",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "520002",
+    "phone_number": "+91 1800 313 0026",
+    "website": "https://cewacor.nic.in/",
+    "rating": 3.6,
+    "reviews_count": 25,
+    "address": "GHHR+7VM, Bhavanipuram, Housing Board Colony, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, Housing Board Colony",
+    "latitude": 16.5282113,
+    "longitude": 80.5921773,
+    "place_id": "ChIJtVffdczvNToRv8bcym88zrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVffdczvNToRv8bcym88zrg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:07:12"
+  }
+]

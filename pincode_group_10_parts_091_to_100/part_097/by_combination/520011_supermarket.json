@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Savya Sachi Fancy & Std",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "520011",
+    "phone_number": "+91 93940 67365",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "31-9-5, Sardar Patel St, Maruthi Nagar, Machavaram, Vijayawada, Andhra Pradesh 520004",
+    "area": "Maruthi Nagar, Machavaram",
+    "latitude": 16.519165,
+    "longitude": 80.64430999999999,
+    "place_id": "ChIJF3HFCk7lNToRIKcOk_NCIH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3HFCk7lNToRIKcOk_NCIH4",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:13"
+  },
+  {
+    "business_name": "SUDEEPTHI SUPER MARKET",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "520011",
+    "phone_number": "+91 92908 72903",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 32,
+    "address": "Luna Centre Rd, Ajit Singh Nagar, PNT Colony, Vijayawada, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, PNT Colony",
+    "latitude": 16.5352957,
+    "longitude": 80.6375754,
+    "place_id": "ChIJReIqDl7lNToRHI2P4hSOHNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReIqDl7lNToRHI2P4hSOHNA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:17:15"
+  }
+]

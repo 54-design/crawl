@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR’S GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "520015",
+    "phone_number": "+91 89858 18151",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 117,
+    "address": "NTR statue, Santhi Nagar, Prakashnagar, Payakapuram, Payikapuram, Andhra Pradesh 520015",
+    "area": "Santhi Nagar, Prakashnagar, Payakapuram",
+    "latitude": 16.545695,
+    "longitude": 80.646913,
+    "place_id": "ChIJGZxs-bjlNToRprgJQQPI6Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZxs-bjlNToRprgJQQPI6Do",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:38"
+  },
+  {
+    "business_name": "MMR GYM A/C-Unisex Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "520015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nunna Rd, Payakapuram, Payikapuram, Andhra Pradesh 520015",
+    "area": "Payakapuram",
+    "latitude": 16.5447713,
+    "longitude": 80.6436074,
+    "place_id": "ChIJRemafW_lNToRF_GiE29d8-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRemafW_lNToRF_GiE29d8-8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 10:23:40"
+  }
+]
