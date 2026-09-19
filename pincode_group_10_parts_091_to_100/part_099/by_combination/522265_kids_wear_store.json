@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurrams kids land",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "522265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2RCM+8JJ, Repalle, Andhra Pradesh 522265",
+    "area": "522265",
+    "latitude": 16.0208442,
+    "longitude": 80.83400999999999,
+    "place_id": "ChIJZ4sDQAD1SToRWh4z453RUro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4sDQAD1SToRWh4z453RUro",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:04"
+  },
+  {
+    "business_name": "Karimulla Dresses",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522265",
+    "phone_number": "+91 97011 94585",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 90,
+    "address": "Karimulla Dresses, Srinivas Nagar Colony, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Srinivas Nagar Colony",
+    "latitude": 16.182563299999998,
+    "longitude": 81.1317595,
+    "place_id": "ChIJAy_kxcfnSToR5RU8TfkdhjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAy_kxcfnSToR5RU8TfkdhjI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:05"
+  }
+]

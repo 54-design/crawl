@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BC BOYS HOSTEL",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "522316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "18-17-29, Bless Campus Rd, Indira Colony, Peters Colony, Ponnur, Andhra Pradesh 522124",
+    "area": "Indira Colony, Peters Colony",
+    "latitude": 16.0603996,
+    "longitude": 80.54418059999999,
+    "place_id": "ChIJ4f__8F8RSjoRKGqx5EqF6xQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4f__8F8RSjoRKGqx5EqF6xQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:28:06"
+  },
+  {
+    "business_name": "govt. boys Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "522316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Aremanda, Munipalle, Andhra Pradesh 522316",
+    "area": "522316",
+    "latitude": 16.119135699999998,
+    "longitude": 80.53877969999999,
+    "place_id": "ChIJlcf7DhwSSjoRw6lP-_wCm1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcf7DhwSSjoRw6lP-_wCm1Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:28:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VENKATESWARA RAO Health Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "522265",
+    "phone_number": "+91 94414 53460",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Isukapalli, Nizampattanam Rd, Nizampatnam, Andhra Pradesh 522265",
+    "area": "522265",
+    "latitude": 16.0140825,
+    "longitude": 80.8156321,
+    "place_id": "ChIJs-nFJ8b1SToRQsRMuSyoaeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-nFJ8b1SToRQsRMuSyoaeE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:15"
+  },
+  {
+    "business_name": "Sree Annapurna Enterprises",
+    "search_category": "Doctors",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "522265",
+    "phone_number": "+91 99594 31735",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Road, opposite pragathi Coaching Center, Avanigadda, Andhra Pradesh 521122",
+    "area": "522265",
+    "latitude": 16.0271039,
+    "longitude": 80.9182144,
+    "place_id": "ChIJc8psU5bzSToR-UDzpwtgfno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8psU5bzSToR-UDzpwtgfno",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:16"
+  }
+]

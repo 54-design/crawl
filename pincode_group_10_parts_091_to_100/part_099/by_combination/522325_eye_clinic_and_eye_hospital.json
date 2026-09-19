@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yashoda Hospitals Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist, Hospital department, Optician",
+    "pincode": "522325",
+    "phone_number": "+91 40 6723 2308",
+    "website": "https://www.yashodahospitals.com/specialities/ophthalmology/doctors/",
+    "rating": 5,
+    "reviews_count": 145,
+    "address": "Survey No. 41/14, JNTU, Hitech City Main Rd Khanamet, Serilingampalle (M), Kothaguda, Telangana 500084",
+    "area": "HITEC City",
+    "latitude": 17.462025,
+    "longitude": 78.383895,
+    "place_id": "ChIJM-1xquqTyzsRzZiJ482Ydxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-1xquqTyzsRzZiJ482Ydxk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:04"
+  },
+  {
+    "business_name": "TESS- The Eye Super Specialities",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist, Contact lenses supplier, Lasik surgeon, Ophthalmology clinic, Optometrist, Orthoptist, Pediatric ophthalmologist, Surgeon",
+    "pincode": "522325",
+    "phone_number": "+91 88791 17262",
+    "website": "https://www.tessindia.com/",
+    "rating": 4.8,
+    "reviews_count": 233,
+    "address": "201, Post Office, Punit Plaza, 301, next to Rajawadi, Rajawadi Colony, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "area": "Rajawadi Colony, Ghatkopar East",
+    "latitude": 19.0793318,
+    "longitude": 72.9020323,
+    "place_id": "ChIJBW1zGynG5zsRyzXPPvpJCHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBW1zGynG5zsRyzXPPvpJCHM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:05"
+  }
+]

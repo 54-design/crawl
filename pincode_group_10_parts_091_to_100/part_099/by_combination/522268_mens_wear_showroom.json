@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H&H Fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522268",
+    "phone_number": "+91 76718 32246",
+    "website": "https://hh-fashions.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, Manikanta Nilayam, Bus Station, Nandivelugu Rd, backside, Old Guntur, Guntur, Andhra Pradesh 522001",
+    "area": "backside, Old Guntur",
+    "latitude": 16.2949712,
+    "longitude": 80.45880869999999,
+    "place_id": "ChIJT0ahxYkLSjoRkuZ9VWbH8qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0ahxYkLSjoRkuZ9VWbH8qs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:53"
+  },
+  {
+    "business_name": "SALEEM FASHION MENS TAILORING SHOP",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "522268",
+    "phone_number": "+91 90304 06123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.3, Main Road, opposite Fast Food, Sajjavaripalem, Guntur, Allaparru, Andhra Pradesh 522265",
+    "area": "Sajjavaripalem",
+    "latitude": 16.005583899999998,
+    "longitude": 80.7935992,
+    "place_id": "ChIJuUqV9xMfSjoRwXYfUnuknHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUqV9xMfSjoRwXYfUnuknHk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:56"
+  }
+]

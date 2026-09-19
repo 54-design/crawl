@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ksr Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522325",
+    "phone_number": "+91 89199 84271",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhullipudi Kanagala Rd Dhullipudi, Dhullipudi Kanagala Rd, Kanagala, Andhra Pradesh 522259",
+    "area": "522325",
+    "latitude": 16.0797879,
+    "longitude": 80.741244,
+    "place_id": "ChIJz11bC4EdSjoREQy0Ib1qEF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz11bC4EdSjoREQy0Ib1qEF8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:34:52"
+  },
+  {
+    "business_name": "New Look",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522325",
+    "phone_number": "+91 90000 94131",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, beside Apollo Pharmacy, Cherukupalli, Arumbaka, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.0490065,
+    "longitude": 80.6804648,
+    "place_id": "ChIJwXKc1_wbSjoRikDVUPF0R3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXKc1_wbSjoRikDVUPF0R3Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:34:53"
+  }
+]

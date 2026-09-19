@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SASI SWEETS AND BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522301",
+    "phone_number": "+91 99858 43591",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 50,
+    "address": "6JQX+7RC, Kothapet, Ganganamma Peta, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Ganganamma Peta, Ramalingeswara Pet",
+    "latitude": 16.238179,
+    "longitude": 80.649506,
+    "place_id": "ChIJexkvdKsHSjoRf4dA9auTg5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexkvdKsHSjoRf4dA9auTg5Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:36"
+  },
+  {
+    "business_name": "The Belgian Waffle Co.",
+    "search_category": "Patisserie",
+    "primary_category": "Dessert restaurant",
+    "all_categories": "Dessert restaurant, Cafe, Cake shop, Family restaurant, Ice cream shop",
+    "pincode": "522301",
+    "phone_number": "N/A",
+    "website": "https://thebelgianwaffle.co/",
+    "rating": 3.9,
+    "reviews_count": 70,
+    "address": "2-1-86, Burripalem Road, near Janda Chettu, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Ramalingeswara Pet",
+    "latitude": 16.2386213,
+    "longitude": 80.65475099999999,
+    "place_id": "ChIJffsDiAkHSjoRUyqxLpy28AE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffsDiAkHSjoRUyqxLpy28AE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:36"
+  }
+]

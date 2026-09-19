@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "522308",
+    "phone_number": "+91 863 223 5344",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "5-87-104, 4th Ln, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram",
+    "latitude": 16.309395,
+    "longitude": 80.43239009999999,
+    "place_id": "ChIJ6zOka2d1SjoRSDhuvaOaq0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zOka2d1SjoRSDhuvaOaq0M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:12:18"
+  },
+  {
+    "business_name": "Sai Krishna Eye Hospital & Polyclinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "522308",
+    "phone_number": "+91 89460 40505",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Bus stop, 325-B, Main Road, Thirumalai Nagar, Pasumai Nagar, Aranmanai Pudhur, Koduvilarpatty, Theni, Tamil Nadu 625531",
+    "area": "Thirumalai Nagar, Pasumai Nagar, Aranmanai Pudhur",
+    "latitude": 9.9897455,
+    "longitude": 77.4896308,
+    "place_id": "ChIJWcsVDDIVBzsRy2dikVAY9hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcsVDDIVBzsRy2dikVAY9hk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:12:21"
+  }
+]

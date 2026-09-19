@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sony Enterprises",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "522316",
+    "phone_number": "+91 90593 80340",
+    "website": "https://sonyenterprisesponnuru.netlify.app/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "SPP Rd, Ponnur, Andhra Pradesh 522124",
+    "area": "522316",
+    "latitude": 16.0667869,
+    "longitude": 80.5499802,
+    "place_id": "ChIJe-WIUGcRSjoRVtquwLcQjxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-WIUGcRSjoRVtquwLcQjxo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:28:21"
+  },
+  {
+    "business_name": "ROYAL SECURITY SYSTEMS",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "522316",
+    "phone_number": "+91 97004 04143",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Gajulapalem, Ponnur, Andhra Pradesh 522124",
+    "area": "Gajulapalem",
+    "latitude": 16.068557,
+    "longitude": 80.5481733,
+    "place_id": "ChIJeRom-jURSjoRcB9SbkN5ovw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRom-jURSjoRcB9SbkN5ovw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:28:24"
+  }
+]

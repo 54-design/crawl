@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALINE EVENTS",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "522306",
+    "phone_number": "+91 90000 44853",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Subba Reddy Nagar, Ankireddy Palem, Andhra Pradesh 522005",
+    "area": "522306",
+    "latitude": 16.2844749,
+    "longitude": 80.4046285,
+    "place_id": "ChIJT5tLWAB1SjoRKd45DND420E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5tLWAB1SjoRKd45DND420E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:11"
+  },
+  {
+    "business_name": "Metros Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Home furnishings",
+    "pincode": "522306",
+    "phone_number": "+91 70936 72408",
+    "website": "http://themetroscollective.myshopify.com/",
+    "rating": 4.5,
+    "reviews_count": 136,
+    "address": "4th Line, Polyclinic Rd, Siddhartha Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Kedareswarapeta, Siddhartha Nagar",
+    "latitude": 16.5036708,
+    "longitude": 80.650382,
+    "place_id": "ChIJc75XObf6NToRmt-SCFJVOLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc75XObf6NToRmt-SCFJVOLI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:13"
+  }
+]

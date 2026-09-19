@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrutha Hospital Railpet",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522325",
+    "phone_number": "+91 863 221 0123",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9-6-58/A, Railpet, Guntur, Andhra Pradesh 522001",
+    "area": "Railpet",
+    "latitude": 16.2992308,
+    "longitude": 80.4458696,
+    "place_id": "ChIJKRwxJKN1SjoRAK-iaJoPn9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRwxJKN1SjoRAK-iaJoPn9M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:03"
+  },
+  {
+    "business_name": "OM Maternity and Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre",
+    "pincode": "522325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3GH6+7FG, Sola, Ahmedabad, Gujarat 380060",
+    "area": "Sola",
+    "latitude": 23.0781945,
+    "longitude": 72.5111979,
+    "place_id": "ChIJMWt60becXjkRyrwWl2oWbrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWt60becXjkRyrwWl2oWbrQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:04"
+  }
+]

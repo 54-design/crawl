@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Cool Drinks and Sugandha",
+    "search_category": "Bar and Pub",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop",
+    "pincode": "522315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Vidya Nagar, Railway Station Road., opp. to Kokila bar and restaurant, Ponnur, Andhra Pradesh 522124",
+    "area": "Nidubrolu",
+    "latitude": 16.064629999999998,
+    "longitude": 80.5552952,
+    "place_id": "ChIJeeTBnWkRSjoRRpZQSCcn78Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeTBnWkRSjoRRpZQSCcn78Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:19"
+  },
+  {
+    "business_name": "SRS",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "522315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "R2JW+G99, Chennai - Kolkata Hwy, Jagarlamudivaripalem, Muppavaram, Andhra Pradesh 523261",
+    "area": "Jagarlamudivaripalem",
+    "latitude": 15.8312961,
+    "longitude": 80.045977,
+    "place_id": "ChIJz6FzStP3SjoRvjAegNRBems",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6FzStP3SjoRvjAegNRBems",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:20"
+  }
+]

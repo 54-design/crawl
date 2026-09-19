@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saumya Sree Clothing",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "522305",
+    "phone_number": "+91 86393 18120",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D.No : 5-51-1/1, 5/14, opposite Bakers Fun, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3035432,
+    "longitude": 80.43153339999999,
+    "place_id": "ChIJj8pEqTd1SjoRPf1ROj3OobA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8pEqTd1SjoRPf1ROj3OobA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:30"
+  },
+  {
+    "business_name": "Vasanta Grand",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522305",
+    "phone_number": "+91 89771 77180",
+    "website": "https://www.vasantagrand.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Katragaddavari St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5114256,
+    "longitude": 80.6267848,
+    "place_id": "ChIJr4cIHALwNToRnr1WaNUo19s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4cIHALwNToRnr1WaNUo19s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:31"
+  }
+]

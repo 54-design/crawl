@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Rice Stores",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop, Wholesaler",
+    "pincode": "522318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Ln, opp. state bank, Butchaiah Thota, Nehru Nagar, Guntur, Andhra Pradesh 522001",
+    "area": "Butchaiah Thota, Nehru Nagar",
+    "latitude": 16.305831899999998,
+    "longitude": 80.45233069999999,
+    "place_id": "ChIJg54CwqZ1SjoRZ7-a8ybt2Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg54CwqZ1SjoRZ7-a8ybt2Eg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:30:51"
+  },
+  {
+    "business_name": "Rice merchant",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "522318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "364, Road No. 8B, Sai Anurag Colony, Janachaitanya, Ameenpur, Bachupally, Hyderabad, Telangana 500118",
+    "area": "Sai Anurag Colony, Janachaitanya, Ameenpur, Bachupally",
+    "latitude": 17.5259599,
+    "longitude": 78.3509357,
+    "place_id": "ChIJ3UVaYACNyzsRWkvvZCuVhpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UVaYACNyzsRWkvvZCuVhpE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:30:53"
+  }
+]

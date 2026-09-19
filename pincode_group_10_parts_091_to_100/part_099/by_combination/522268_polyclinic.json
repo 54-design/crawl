@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unity Hospitals | Multi Speciality Hospital in Vijayawada",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Dental clinic, Gastroenterologist, Neurologist, Orthopedic clinic, ENT Specialist, Plastic surgery clinic, Proctologist, Urology clinic, Vascular surgeon",
+    "pincode": "522268",
+    "phone_number": "+91 866 663 3108",
+    "website": "https://unityhospitals.in/",
+    "rating": 4.8,
+    "reviews_count": 1857,
+    "address": "29-5-7, Cherukupalli vari St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.51228,
+    "longitude": 80.6315046,
+    "place_id": "ChIJB4UnByLxNToRHyd68f3Ivsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4UnByLxNToRHyd68f3Ivsc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:57:07"
+  },
+  {
+    "business_name": "SAI POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Hospital, Skin care clinic",
+    "pincode": "522268",
+    "phone_number": "+91 92474 58798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Venkataramana Studio Back Side, Cumbum Rd, Ganesh Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Ganesh Nagar",
+    "latitude": 15.7382394,
+    "longitude": 79.268953,
+    "place_id": "ChIJg40ExEExtTsRoJbiUB5I55I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg40ExEExtTsRoJbiUB5I55I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:57:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pramukh Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522305",
+    "phone_number": "N/A",
+    "website": "https://www.pramukhtravels.com/",
+    "rating": 4.3,
+    "reviews_count": 173,
+    "address": "35FV+PC Metro Head office, Pramukh Travels, 1178, Poonamallee High Rd, opp. Koyembedu, Koyambedu, Chennai, Tamil Nadu 600107",
+    "area": "Koyambedu",
+    "latitude": 13.074329599999999,
+    "longitude": 80.19339599999999,
+    "place_id": "ChIJIVZRoq9hUjoRYhgp34i0wcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVZRoq9hUjoRYhgp34i0wcg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:47"
+  },
+  {
+    "business_name": "Sai Sri Krishna Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency",
+    "pincode": "522305",
+    "phone_number": "+91 90596 59237",
+    "website": "http://saisrikrishnatravels.in/",
+    "rating": 3.4,
+    "reviews_count": 104,
+    "address": "SHOP NO :-11, GAYATRI TOWERS, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5111891,
+    "longitude": 80.61870789999999,
+    "place_id": "ChIJa5vBN_7vNToRC8-Lbttm9bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5vBN_7vNToRC8-Lbttm9bw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:49"
+  }
+]

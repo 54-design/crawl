@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsha catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Catering food and drink supplier",
+    "all_categories": "Catering food and drink supplier",
+    "pincode": "522264",
+    "phone_number": "+91 99667 56118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sangam jagarla mudi, Tenali, Andhra Pradesh 522213",
+    "area": "522264",
+    "latitude": 16.240528599999998,
+    "longitude": 80.5825102,
+    "place_id": "ChIJNyahQmQJSjoRwa90aE5P3t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyahQmQJSjoRwa90aE5P3t8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:02"
+  },
+  {
+    "business_name": "Abhayanjaneya caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "522264",
+    "phone_number": "+91 99896 19609",
+    "website": "http://abhayanjaneyacaterers.in/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Back side HP petrol pump, 1st Line, Brindavan Gardens, Guntur, Andhra Pradesh 522007",
+    "area": "Brindavan Gardens",
+    "latitude": 16.3156401,
+    "longitude": 80.421768,
+    "place_id": "ChIJ26CmFJmKNToRJn6n3HRSRsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26CmFJmKNToRJn6n3HRSRsw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:04"
+  }
+]

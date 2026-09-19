@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Surya Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Gold dealer, Goldsmith",
+    "pincode": "522304",
+    "phone_number": "+91 96660 98959",
+    "website": "https://srisuryajewellers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5-87-68, Lakshmipuram Main Rd, opp. Bakers Fun, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.311227799999998,
+    "longitude": 80.4280622,
+    "place_id": "ChIJ7R4CU4R1SjoRu6htAElcVqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R4CU4R1SjoRu6htAElcVqo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:35"
+  },
+  {
+    "business_name": "Sri Venkateswara Nose Pins",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "522304",
+    "phone_number": "+91 89777 75445",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Old Masjid, 4-325, Sharaf Bazar Rd, Salivahanapeta, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Salivahanapeta",
+    "latitude": 16.4313616,
+    "longitude": 80.5699049,
+    "place_id": "ChIJqxg7BQDxNToRxUIykzwRFzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxg7BQDxNToRxUIykzwRFzc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:35"
+  }
+]

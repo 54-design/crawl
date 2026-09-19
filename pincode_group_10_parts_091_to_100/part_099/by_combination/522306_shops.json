@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRM SHOPPING MART",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522306",
+    "phone_number": "+91 62813 34515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.NO 8-42, MAIN ROAD, opp. SBI BANK, Nandivelugu, Andhra Pradesh 522306",
+    "area": "522306",
+    "latitude": 16.2932169,
+    "longitude": 80.6382086,
+    "place_id": "ChIJ5yR0718HSjoRevVpv76PRuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yR0718HSjoRevVpv76PRuI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:52"
+  },
+  {
+    "business_name": "TAUFEEQ MEDICAL & FANCY STORES",
+    "search_category": "Shops",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522306",
+    "phone_number": "+91 95058 90447",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7M74+3V4, మెయిన్ రోడ్, Telaprolu, Tenali, Andhra Pradesh 522202",
+    "area": "Telaprolu",
+    "latitude": 16.2626393,
+    "longitude": 80.6572158,
+    "place_id": "ChIJNxAg0UAGSjoRKQTGNHu2vXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxAg0UAGSjoRKQTGNHu2vXQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:52"
+  }
+]

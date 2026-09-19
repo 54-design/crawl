@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goldness Fitness cibe",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "522307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "6JQP+F7W, Chenchupet, Tenali, Andhra Pradesh 522202",
+    "area": "Chenchupet",
+    "latitude": 16.2387282,
+    "longitude": 80.63569129999999,
+    "place_id": "ChIJeapTs4kHSjoREO-2WAXX7q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeapTs4kHSjoREO-2WAXX7q0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:29"
+  },
+  {
+    "business_name": "Venkat GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "522307",
+    "phone_number": "+91 72072 05206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "opp. Vignan university library, Vadlamudi, Andhra Pradesh 522213",
+    "area": "522307",
+    "latitude": 16.2355855,
+    "longitude": 80.5605111,
+    "place_id": "ChIJE2ruahIJSjoRGmiQEAY4Qqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2ruahIJSjoRGmiQEAY4Qqs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:29"
+  }
+]

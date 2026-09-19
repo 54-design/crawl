@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mother's food Super Delicious",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Food manufacturer, Tiffin center",
+    "pincode": "522310",
+    "phone_number": "+91 89495 10524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "107, Janakpuri-I, Janakpuri, Imli Phatak, Tonk Phatak, Jaipur, Rajasthan 302015",
+    "area": "Janakpuri-I, Janakpuri, Imli Phatak, Tonk Phatak",
+    "latitude": 26.8883467,
+    "longitude": 75.79284,
+    "place_id": "ChIJAXpUP1a1bTkR8eH8SLGJ_EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXpUP1a1bTkR8eH8SLGJ_EA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:15:45"
+  },
+  {
+    "business_name": "Tattvam foods",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "522310",
+    "phone_number": "+91 99200 84940",
+    "website": "http://www.tattvamfood.com/",
+    "rating": 4.9,
+    "reviews_count": 206,
+    "address": "Swami Vivekanand Rd, Rani Sati Nagar, Sunder Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Rani Sati Nagar, Sunder Nagar, Malad West",
+    "latitude": 19.1762998,
+    "longitude": 72.8444731,
+    "place_id": "ChIJyT0q97S35zsRNAG9B6BJzyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyT0q97S35zsRNAG9B6BJzyc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:15:46"
+  }
+]

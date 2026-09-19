@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.G.N Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Car wash",
+    "pincode": "522264",
+    "phone_number": "+91 93936 36777",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 33,
+    "address": "Vignesh Residency, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520007",
+    "area": "Patamata, Benz Circle",
+    "latitude": 16.499061299999997,
+    "longitude": 80.6668497,
+    "place_id": "ChIJn6qq6sP6NToRsSHAqjzrMjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6qq6sP6NToRsSHAqjzrMjQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:53:37"
+  },
+  {
+    "business_name": "OTS AUTOMOTIVE",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522264",
+    "phone_number": "+91 85559 09545",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 38,
+    "address": "Plot no 7, Gandi Maisamma, Hyderabad, Telangana 500043",
+    "area": "Gandi Maisamma",
+    "latitude": 17.569736499999998,
+    "longitude": 78.4247901,
+    "place_id": "ChIJS7kUHQCRyzsRBemyES5JCb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7kUHQCRyzsRBemyES5JCb0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:53:37"
+  }
+]

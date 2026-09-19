@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather Time",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "522306",
+    "phone_number": "+91 98496 14518",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandra Nagar, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Chandra Nagar, Himayatnagar",
+    "latitude": 17.405871599999998,
+    "longitude": 78.4784578,
+    "place_id": "ChIJ43wa9OCZyzsRC2o1ONjzNAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43wa9OCZyzsRC2o1ONjzNAA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:23"
+  },
+  {
+    "business_name": "Leather Lounge",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "522306",
+    "phone_number": "+91 40 6668 5845",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop No. 12, Model House, Lakshmi Narsimha Nagar Rd, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Dwarakapuri, Punjagutta",
+    "latitude": 17.4241411,
+    "longitude": 78.45323719999999,
+    "place_id": "ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sv Saloon & spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522264",
+    "phone_number": "+91 99639 21465",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chavali, vari street, Repalle, Andhra Pradesh 522265",
+    "area": "522264",
+    "latitude": 16.0174248,
+    "longitude": 80.82947469999999,
+    "place_id": "ChIJ0wuVyOL1SToRIxN4RjsApxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wuVyOL1SToRIxN4RjsApxM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:53:53"
+  },
+  {
+    "business_name": "BODY MASSAGE",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "522264",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "GJ5R+C9X, Chandra Rajeswara Rao Raod, Mogalrajapuram, Kasturibaipet, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Kasturibaipet, Labbipet",
+    "latitude": 16.5086053,
+    "longitude": 80.6409718,
+    "place_id": "ChIJU5YiB_v7NToRsBK2-9rYGfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5YiB_v7NToRsBK2-9rYGfY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:53:53"
+  }
+]

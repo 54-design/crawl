@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harika Fashions",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522304",
+    "phone_number": "+91 94411 73188",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "8C7M+54G, Lakshmipuram, Ashok Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram, Ashok Nagar",
+    "latitude": 16.3129319,
+    "longitude": 80.4328432,
+    "place_id": "ChIJFeiuIV51SjoRoA3lLu4S4z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeiuIV51SjoRoA3lLu4S4z4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:28"
+  },
+  {
+    "business_name": "Linen House Guntur",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522304",
+    "phone_number": "+91 87122 25654",
+    "website": "https://www.linenhouse.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4-2-1/2 , Ramannapet 1st Lane, Koritepadu Rd, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram, Koritepadu",
+    "latitude": 16.3108829,
+    "longitude": 80.43424639999999,
+    "place_id": "ChIJAzOm-kN1SjoR5VnBBmUI2CA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzOm-kN1SjoR5VnBBmUI2CA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:29"
+  }
+]

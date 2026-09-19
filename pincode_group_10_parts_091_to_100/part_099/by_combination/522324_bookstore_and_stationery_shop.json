@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkateswara Books Corner",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "522324",
+    "phone_number": "+91 80191 90407",
+    "website": "https://venkateswarabookscorner.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SBH Main Branch Building, L.H Town Hall Road, Gupta Jewellers Back side, Old, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Gandhinagar",
+    "latitude": 16.5430931,
+    "longitude": 81.5232233,
+    "place_id": "ChIJwZ2mIa7TNzoRxLOEDFBx32E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZ2mIa7TNzoRxLOEDFBx32E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:34:01"
+  },
+  {
+    "business_name": "Swathi Fancy & Books",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "522324",
+    "phone_number": "+91 98483 88638",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Vissannapeta, Andhra Pradesh 521215",
+    "area": "522324",
+    "latitude": 16.940740899999998,
+    "longitude": 80.7835231,
+    "place_id": "ChIJWbiKRkvWNToR9VUYK-GRdG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbiKRkvWNToR9VUYK-GRdG4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:34:01"
+  }
+]

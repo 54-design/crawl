@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi bike mechani works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "522316",
+    "phone_number": "+91 99512 99501",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mubrak nagarr, near Star biryani point, Ponnur, Andhra Pradesh 522124",
+    "area": "522316",
+    "latitude": 16.0664101,
+    "longitude": 80.5497505,
+    "place_id": "ChIJU9lnrXoRSjoRmBJKgptlH54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9lnrXoRSjoRmBJKgptlH54",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:40"
+  },
+  {
+    "business_name": "JB BIKE MECHANIC WORKS",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "522316",
+    "phone_number": "+91 86390 87756",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Vegetable Market, Ponnur, Andhra Pradesh 522124",
+    "area": "522316",
+    "latitude": 16.0688247,
+    "longitude": 80.55027989999999,
+    "place_id": "ChIJD41XBFIRSjoR4D0yG8pX0oM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD41XBFIRSjoR4D0yG8pX0oM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:40"
+  }
+]

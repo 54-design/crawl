@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Oriental Insurance Company Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company",
+    "pincode": "522325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SVS PLAZA, KORITEPADU, Guntur, Gorantla, Andhra Pradesh 522002",
+    "area": "KORITEPADU",
+    "latitude": 16.3345931,
+    "longitude": 80.4478314,
+    "place_id": "ChIJJcvRcwCLNToRVz4oKJkn1U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcvRcwCLNToRVz4oKJkn1U0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:36:01"
+  },
+  {
+    "business_name": "Insurance Hub",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Insurance company, Life insurance agency",
+    "pincode": "522325",
+    "phone_number": "+91 93942 44644",
+    "website": "https://andhrainsurancehub.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Old Police Station Road,Gourisankara Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4369825,
+    "longitude": 80.9934753,
+    "place_id": "ChIJ420AbFYbNjoRoSZ1HJ2pHJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ420AbFYbNjoRoSZ1HJ2pHJI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:36:02"
+  }
+]

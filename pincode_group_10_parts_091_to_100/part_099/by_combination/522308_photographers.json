@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lovely photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "522308",
+    "phone_number": "+91 79939 14228",
+    "website": "https://www.instagram.com/_lovelyphotography_?igsh=ZWI2YzEzYmMxYg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nallapadu Rural, Andhra Pradesh 522005",
+    "area": "522308",
+    "latitude": 16.307477,
+    "longitude": 80.3920361,
+    "place_id": "ChIJ-5MAxhB1SjoRqeqs4eQeD_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5MAxhB1SjoRqeqs4eQeD_g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:12:55"
+  },
+  {
+    "business_name": "Vc photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "522308",
+    "phone_number": "+91 86390 11341",
+    "website": "https://www.instagram.com/vc_photography_7?igsh=MThoeDR6ZWxhdXU3dQ==",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Lb nagar, Atmakur, Andhra Pradesh 522503",
+    "area": "522308",
+    "latitude": 16.4340683,
+    "longitude": 80.5804398,
+    "place_id": "ChIJGYwtXAXxNToRWnO0btpnsg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYwtXAXxNToRWnO0btpnsg0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:12:56"
+  }
+]

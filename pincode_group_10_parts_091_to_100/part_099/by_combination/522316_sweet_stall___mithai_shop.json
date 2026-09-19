@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simonaiah Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Food store",
+    "all_categories": "Food store, Catering, Food delivery, Food manufacturer",
+    "pincode": "522316",
+    "phone_number": "+91 863 278 7498",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mutlur, Andhra Pradesh 522212",
+    "area": "522316",
+    "latitude": 16.1563983,
+    "longitude": 80.4832026,
+    "place_id": "ChIJXWLdrGwNSjoRMTkBQIXEtJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWLdrGwNSjoRMTkBQIXEtJg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:05"
+  },
+  {
+    "business_name": "Agarwal Mithai Bhandar",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "522316",
+    "phone_number": "+91 79 2754 1243",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Harsiddh Chambers, 53, Ashram Rd, nr. I TO, nr. Oshwal Restaurant, Ashram Road, Usmanpura, Ahmedabad, Gujarat 380009",
+    "area": "Ashram Road, Usmanpura",
+    "latitude": 23.0412496,
+    "longitude": 72.5700322,
+    "place_id": "ChIJ_9cleXeEXjkRj0VhfSZmijc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9cleXeEXjkRj0VhfSZmijc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:07"
+  }
+]

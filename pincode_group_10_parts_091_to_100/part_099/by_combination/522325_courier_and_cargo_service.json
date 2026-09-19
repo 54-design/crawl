@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sindhu parcel services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522325",
+    "phone_number": "+91 82976 88888",
+    "website": "http://www.sindhuparcelservices.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Plot no A-91 & A-91/2, Miyapur Rd, above Green Bawarchi Hotel, Pragathi Nagar, Bachupally, Hyderabad, Telangana 500118",
+    "area": "Pragathi Nagar, Bachupally",
+    "latitude": 17.540963599999998,
+    "longitude": 78.393828,
+    "place_id": "ChIJN6HqvK2PyzsR60j7VOV7mEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6HqvK2PyzsR60j7VOV7mEw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:36:05"
+  },
+  {
+    "business_name": "Delhi cargo",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "522325",
+    "phone_number": "+91 11 4719 7000",
+    "website": "https://delhicargocourierservices.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Indira Gandhi International Airport, 2, Terminal 2, New Delhi, Delhi 110037",
+    "area": "522325",
+    "latitude": 28.553214399999998,
+    "longitude": 77.1059081,
+    "place_id": "ChIJd-p3vnccDTkRh39X-oZ-vBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-p3vnccDTkRh39X-oZ-vBI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:36:07"
+  }
+]

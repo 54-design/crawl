@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Rahul Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522315",
+    "phone_number": "+91 80196 19696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "4/1 Brodipet Opp. To Sankar Vilas Raghumansion Complex, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3018449,
+    "longitude": 80.43859839999999,
+    "place_id": "ChIJxZ42FJN1SjoR4baov_rER94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ42FJN1SjoR4baov_rER94",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:22"
+  },
+  {
+    "business_name": "Emmadi Silver Jewellery - Gajuwaka",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522315",
+    "phone_number": "+91 92810 79392",
+    "website": "https://www.emmadisilverjewellery.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "10-2-31/1, GNT Rd, Gajuwaka, Visakhapatnam, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Gajuwaka",
+    "latitude": 17.685733799999998,
+    "longitude": 83.21185849999999,
+    "place_id": "ChIJf3Up8BtpOToR8RyoJSG4R8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3Up8BtpOToR8RyoJSG4R8M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:23"
+  }
+]

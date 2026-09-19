@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guntur Dental Speciality Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "522313",
+    "phone_number": "+91 79959 60216",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Station Road East, near Saraswathi Picture Palace, Railpet, Guntur, Andhra Pradesh 522001",
+    "area": "Railpet",
+    "latitude": 16.2985619,
+    "longitude": 80.4451393,
+    "place_id": "ChIJs8_OlEh1SjoRVX2heakrkto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8_OlEh1SjoRVX2heakrkto",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:44"
+  },
+  {
+    "business_name": "BUNNY DENTAL CARE",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "522313",
+    "phone_number": "+91 76750 71079",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Chandramouli Nagar 4th Ln, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.312029199999998,
+    "longitude": 80.42717119999999,
+    "place_id": "ChIJRbYXOzJ1SjoRArCBvaUWNuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbYXOzJ1SjoRArCBvaUWNuQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:45"
+  }
+]

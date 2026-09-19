@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sitaram Township",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Townhouse complex",
+    "all_categories": "Townhouse complex",
+    "pincode": "522307",
+    "phone_number": "+91 98852 92678",
+    "website": "https://www.sitaramgroup.org/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nallapadu Rd, Nallapadu Rural, Andhra Pradesh 522005",
+    "area": "522307",
+    "latitude": 16.301436199999998,
+    "longitude": 80.3972907,
+    "place_id": "ChIJhSTRqpF1SjoREtUfNJ85ej4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSTRqpF1SjoREtUfNJ85ej4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:11:29"
+  },
+  {
+    "business_name": "ANDHRA PRADESH REAL ESTATE REGULATORY AUTHORITY",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "522307",
+    "phone_number": "+91 63049 06011",
+    "website": "https://rera.ap.gov.in/RERA/Views/Home.aspx",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "APCRDA Project Office Rayapudi village Tulluru Mandal, Andhra Pradesh 522237",
+    "area": "522307",
+    "latitude": 16.544015599999998,
+    "longitude": 80.4961026,
+    "place_id": "ChIJwcD7R0b7NToR2rqOOCyGe2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcD7R0b7NToR2rqOOCyGe2Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:11:29"
+  }
+]

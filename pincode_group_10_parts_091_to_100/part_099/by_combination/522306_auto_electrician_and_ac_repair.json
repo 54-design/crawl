@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xpress Service Point",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto air conditioning service",
+    "pincode": "522306",
+    "phone_number": "+91 78459 39784",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 49,
+    "address": "10, 1st St, Sai Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Sai Nagar, Kolathur",
+    "latitude": 13.109757499999999,
+    "longitude": 80.2170373,
+    "place_id": "ChIJ_-mHPkRkUjoRVFPSRzPcVY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-mHPkRkUjoRVFPSRzPcVY8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:43"
+  },
+  {
+    "business_name": "Classic AC & electrical works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522306",
+    "phone_number": "+91 96863 97502",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1780, HSR car club garage, 19th Main Rd, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Vanganahalli, 1st Sector, HSR Layout",
+    "latitude": 12.915171899999999,
+    "longitude": 77.6449659,
+    "place_id": "ChIJvYHHcwIVrjsRSCLXg-PPlNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYHHcwIVrjsRSCLXg-PPlNU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:44"
+  }
+]

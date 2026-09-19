@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Babu",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "522306",
+    "phone_number": "+91 96527 24065",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anil babu karanasha, Lord rancher chairode, 8-49, Andhra Pradesh 522306",
+    "area": "522306",
+    "latitude": 16.301296999999998,
+    "longitude": 80.6782379,
+    "place_id": "ChIJb-or7LwHSjoR_t01-Cns6UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-or7LwHSjoR_t01-Cns6UA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:18"
+  },
+  {
+    "business_name": "Mamta Fashions",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "522306",
+    "phone_number": "+91 99492 47292",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7CQX+G7C, Chiralavari Street, Chowtra, Guntur, Andhra Pradesh 522003",
+    "area": "Lalpuram, Lalapet",
+    "latitude": 16.2888078,
+    "longitude": 80.44814199999999,
+    "place_id": "ChIJL5PZtDZ1SjoR2k0BNfMuV4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5PZtDZ1SjoR2k0BNfMuV4s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:20"
+  }
+]

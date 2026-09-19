@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TaxiYatri Car Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "522305",
+    "phone_number": "N/A",
+    "website": "http://www.taxiyatri.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "TaxiYatri Car Rentals, 522305, India",
+    "area": "522305",
+    "latitude": 25.892757999999997,
+    "longitude": 74.4692633,
+    "place_id": "ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:49"
+  },
+  {
+    "business_name": "Uway Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "522305",
+    "phone_number": "+91 81400 02929",
+    "website": "https://uwaycabs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uway Cabs, 522305, India",
+    "area": "522305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJw5vkVRW9z4ERQ5WfFgoF3Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5vkVRW9z4ERQ5WfFgoF3Ww",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:49"
+  }
+]

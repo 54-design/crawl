@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji cloth shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Chinna Bazar, Sangamjagarlamudi, Andhra Pradesh 522213",
+    "area": "522307",
+    "latitude": 16.2402622,
+    "longitude": 80.5847628,
+    "place_id": "ChIJM3DqY-UJSjoRl_YxhQlAxvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3DqY-UJSjoRl_YxhQlAxvg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:09"
+  },
+  {
+    "business_name": "Murthy Fashions",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522307",
+    "phone_number": "+91 863 222 2211",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "DOOR NO:22, 22-12-18, 12-118, Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.2919712,
+    "longitude": 80.4493188,
+    "place_id": "ChIJJ2b1-DZ1SjoRbGqp46vB66s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2b1-DZ1SjoRbGqp46vB66s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:12"
+  }
+]

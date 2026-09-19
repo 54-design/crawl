@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coffee Town Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522314",
+    "phone_number": "+91 94388 51402",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No-04, OM COMPLEX, Damodar Vihar W Ln, near Gajapati Stadium, Paralakhemundi, Odisha 761200",
+    "area": "522314",
+    "latitude": 18.773041,
+    "longitude": 84.1074594,
+    "place_id": "ChIJ9TjHQOz5PDoRft-lAtu-ak0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TjHQOz5PDoRft-lAtu-ak0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:23:25"
+  },
+  {
+    "business_name": "Chennapatnam Filter Coffee | NRI Eat Street",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522314",
+    "phone_number": "+91 94573 09999",
+    "website": "https://chennapatnamfiltercoffee.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near NRI College & General Hospital, Autonagar, Chinnakakani, Mangalagiri, Andhra Pradesh 522508",
+    "area": "Autonagar",
+    "latitude": 16.4152483,
+    "longitude": 80.5600971,
+    "place_id": "ChIJI-juD7X3NToRmr2jOSqVrgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-juD7X3NToRmr2jOSqVrgQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:23:27"
+  }
+]

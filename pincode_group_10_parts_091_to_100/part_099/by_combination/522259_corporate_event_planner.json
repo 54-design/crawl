@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veventz Groups",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "522259",
+    "phone_number": "+91 96424 42322",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Reddypallamu road, Aditya Nagar, Rajiv Nagar, Guntur, Andhra Pradesh 522002",
+    "area": "Aditya Nagar, Rajiv Nagar",
+    "latitude": 16.3152305,
+    "longitude": 80.4543738,
+    "place_id": "ChIJRyqH3KZ1SjoRp4_ZS-wiN6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyqH3KZ1SjoRp4_ZS-wiN6c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:47:02"
+  },
+  {
+    "business_name": "Grand utsav Event planners",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "522259",
+    "phone_number": "+91 99664 55937",
+    "website": "https://grandutsaveventplanners.com/",
+    "rating": 5,
+    "reviews_count": 180,
+    "address": "Kabela centre, 3rd floor,MedPlus building, near HP petrol bunk, Vijayawada, Andhra Pradesh 520012",
+    "area": "R R Nagar, RR Nagar",
+    "latitude": 16.5421902,
+    "longitude": 80.6091122,
+    "place_id": "ChIJQwRUNTrtNToRM0drv0_6Bls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwRUNTrtNToRM0drv0_6Bls",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:47:03"
+  }
+]

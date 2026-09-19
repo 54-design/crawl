@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hangover Brewery",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewpub",
+    "all_categories": "Brewpub",
+    "pincode": "522264",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 901,
+    "address": "2ND FLOOR, Kanuru Punnaiaha Towers, 40-1-52, MG Rd, Opposite HDFC Bank, Acharya Ranga Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Opposite HDFC Bank, Acharya Ranga Nagar, Benz Circle",
+    "latitude": 16.499023299999998,
+    "longitude": 80.65237809999999,
+    "place_id": "ChIJV_5YjlT7NToRf_oz1D0x7aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_5YjlT7NToRf_oz1D0x7aY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:53:13"
+  },
+  {
+    "business_name": "League - The Infinity Club",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub, Bar, Bar & grill, Restaurant, Sports bar",
+    "pincode": "522264",
+    "phone_number": "+91 94941 87878",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1347,
+    "address": "3rd Floor LEPL Centro Mall, MG Rd, Vijayawada, Andhra Pradesh 520010",
+    "area": "Brindavan Colony, Sriram Nagar",
+    "latitude": 16.5002823,
+    "longitude": 80.64574689999999,
+    "place_id": "ChIJ2ewFkrr6NToRDMRhPI_Eb1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ewFkrr6NToRDMRhPI_Eb1s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:53:13"
+  }
+]

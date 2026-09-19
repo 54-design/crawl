@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seven hills resorts and tourism",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "522264",
+    "phone_number": "+91 93819 22507",
+    "website": "https://sevenhillsmml.in/",
+    "rating": 4.2,
+    "reviews_count": 231,
+    "address": "Main road, Maredumilli, Andhra Pradesh 533295",
+    "area": "522264",
+    "latitude": 17.5861785,
+    "longitude": 81.7124388,
+    "place_id": "ChIJu-jJCV09NzoRET-QtfJlBiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-jJCV09NzoRET-QtfJlBiE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:04"
+  },
+  {
+    "business_name": "Vasavi Shanmukh Rest House",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522264",
+    "phone_number": "+91 75692 48421",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main road, opp. temple, Mopidevi, Andhra Pradesh 521125",
+    "area": "522264",
+    "latitude": 16.0639184,
+    "longitude": 80.9244559,
+    "place_id": "ChIJ43kNtcvxSToRtePSn3Gswl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43kNtcvxSToRtePSn3Gswl8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sapthagiri Lodge",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Conference center",
+    "pincode": "522317",
+    "phone_number": "+91 85942 32806",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 399,
+    "address": "R9G2+8R2, High School Rd, Muntha vari Centre, Chirala, Andhra Pradesh 523155",
+    "area": "Muntha vari Centre",
+    "latitude": 15.8257573,
+    "longitude": 80.3520104,
+    "place_id": "ChIJ7bUl1RdESjoRBPbYruCC_CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bUl1RdESjoRBPbYruCC_CI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:30:02"
+  },
+  {
+    "business_name": "The Raj Kamal Lodge",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522317",
+    "phone_number": "+91 85942 32590",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 74,
+    "address": "Municipal, High School Rd, Uzilipet, Chirala, Andhra Pradesh 523155",
+    "area": "Uzilipet",
+    "latitude": 15.825920199999999,
+    "longitude": 80.35161819999999,
+    "place_id": "ChIJwXIeLhZESjoRTR2_xDS2w_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXIeLhZESjoRTR2_xDS2w_g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:30:02"
+  }
+]

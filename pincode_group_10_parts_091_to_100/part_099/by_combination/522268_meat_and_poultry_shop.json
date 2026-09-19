@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep Farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Poultry store, Chicken shop, Egg supplier, Poultry farm",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 1831,
+    "address": "opp FX foot ware, Nunna, Andhra Pradesh 521212",
+    "area": "522268",
+    "latitude": 16.5819418,
+    "longitude": 80.6956816,
+    "place_id": "ChIJa6CPzX_lNToRhB5uD5EVoZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6CPzX_lNToRhB5uD5EVoZE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:40"
+  },
+  {
+    "business_name": "Nissi Associates",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "522268",
+    "phone_number": "+91 87900 26989",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "44-10-7, beside sweetway, Near Andhra Bank, Gunadala, Vijayawada, Andhra Pradesh 520004",
+    "area": "Near Andhra Bank, Gunadala",
+    "latitude": 16.5234017,
+    "longitude": 80.6625696,
+    "place_id": "ChIJVUE5wv_lNToRGlqE4RKSEyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUE5wv_lNToRGlqE4RKSEyA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:41"
+  }
+]

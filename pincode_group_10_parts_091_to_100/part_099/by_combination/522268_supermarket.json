@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TOTAL FRESH SUPER MARKET MANDADAM",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "OLD STATE BANK BUILDING , DOOR NO - 6-43/1, Mandadam, Andhra Pradesh 522241",
+    "area": "Mandadam",
+    "latitude": 16.5188314,
+    "longitude": 80.5265357,
+    "place_id": "ChIJ7SVHN3_tNToRyZ9FaLITjwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SVHN3_tNToRyZ9FaLITjwU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:37"
+  },
+  {
+    "business_name": "Modern Fresh",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522268",
+    "phone_number": "+91 86861 59666",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Inner Ring Rd, Mallikarjuna Puram Colony, Reddypalem, Guntur, Andhra Pradesh 522509",
+    "area": "Mallikarjuna Puram Colony, Reddypalem",
+    "latitude": 16.3272556,
+    "longitude": 80.4527754,
+    "place_id": "ChIJa7EE3R6LNToRelsUUuo-jFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7EE3R6LNToRelsUUuo-jFk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:38"
+  }
+]

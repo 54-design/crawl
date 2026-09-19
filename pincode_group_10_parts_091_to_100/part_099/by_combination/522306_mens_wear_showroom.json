@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Tailors",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "522306",
+    "phone_number": "+91 90003 23003",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main Rd, Kolakaluru, Andhra Pradesh 522307",
+    "area": "522306",
+    "latitude": 16.3050077,
+    "longitude": 80.6178862,
+    "place_id": "ChIJ54uzCRMISjoR5U6QFsvVITY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54uzCRMISjoR5U6QFsvVITY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:18"
+  },
+  {
+    "business_name": "Shaida Gents Ready Mades",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522306",
+    "phone_number": "+91 99890 35282",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 1, Guntur Rd, Kolakaluru, Andhra Pradesh 522307",
+    "area": "522306",
+    "latitude": 16.3028175,
+    "longitude": 80.6186932,
+    "place_id": "ChIJwS5svpgJSjoRsYOaB0KCEf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS5svpgJSjoRsYOaB0KCEf8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:18"
+  }
+]

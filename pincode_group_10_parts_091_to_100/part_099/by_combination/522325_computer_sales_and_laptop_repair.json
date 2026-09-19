@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nand Electronics",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "522325",
+    "phone_number": "+91 97120 00126",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ground Floor 17 ,Ivory Terrace, RC Dutt Road Alkapuri, Vadodara, Gujarat 390007",
+    "area": "Jetalpur",
+    "latitude": 22.309946,
+    "longitude": 73.175345,
+    "place_id": "ChIJuUbP2KzIXzkRcUrappv7HnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUbP2KzIXzkRcUrappv7HnE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:58"
+  },
+  {
+    "business_name": "Laptop and mobile clinic",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "522325",
+    "phone_number": "+91 98252 62779",
+    "website": "https://profile.nextapsolutions.com/laptop-and-mobile-clinic",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gf 6, Sainath Avanue, Abbas tayyabji road, Jayesh Colony, Fatehgunj, Vadodara, Gujarat 390002",
+    "area": "Jayesh Colony, Fatehgunj",
+    "latitude": 22.321612599999998,
+    "longitude": 73.1888532,
+    "place_id": "ChIJLcOxbSbHXzkRD4obS4mkwZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcOxbSbHXzkRD4obS4mkwZo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:58"
+  }
+]

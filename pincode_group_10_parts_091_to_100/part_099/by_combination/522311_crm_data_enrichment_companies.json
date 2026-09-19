@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arjun Web Solutions Pvt Ltd.,",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "522311",
+    "phone_number": "+91 96766 42444",
+    "website": "https://www.arjunweb.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1st floor, Vishwa’s Serenity, Plot no.65, opp. Power Nagar Park, near Vasundhara Hospital Road, Moosapet, Hyderabad, Telangana 500018",
+    "area": "Moosapet",
+    "latitude": 17.4736947,
+    "longitude": 78.4199141,
+    "place_id": "ChIJzdpXHsSQyzsRm96qw-vkQrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdpXHsSQyzsRm96qw-vkQrg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:19:18"
+  },
+  {
+    "business_name": "Techasoft Private Limited",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Automation company, Computer support and services, Industrial engineer, Internet marketing service, Research and product development, Website designer",
+    "pincode": "522311",
+    "phone_number": "+91 88847 39988",
+    "website": "https://www.techasoft.com/",
+    "rating": 4.6,
+    "reviews_count": 262,
+    "address": "3rd Floor, 435, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "1st Sector, HSR Layout",
+    "latitude": 12.9167145,
+    "longitude": 77.6518964,
+    "place_id": "ChIJ7yUxk0IUrjsRfWHJnOR1TPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yUxk0IUrjsRfWHJnOR1TPg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:19:18"
+  }
+]

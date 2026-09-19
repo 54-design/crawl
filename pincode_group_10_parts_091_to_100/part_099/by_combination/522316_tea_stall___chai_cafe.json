@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 54,
+    "address": "3G8X+X7X, SPP Rd, Ponnur, Andhra Pradesh 522124",
+    "area": "522316",
+    "latitude": 16.0674973,
+    "longitude": 80.5482401,
+    "place_id": "ChIJi4HlvmARSjoRTSEDwH5SdZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4HlvmARSjoRTSEDwH5SdZs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:06"
+  },
+  {
+    "business_name": "Abidinte Kada",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "522316",
+    "phone_number": "+91 98950 31742",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "V96H+3PR, City - Chirakkalkulam Rd, KT Ward, Thavakkara, Kannur, Keralam 670003",
+    "area": "KT Ward, Thavakkara",
+    "latitude": 11.8602397,
+    "longitude": 75.3792716,
+    "place_id": "ChIJUwLTWQQjpDsR19TG1WE1I1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwLTWQQjpDsR19TG1WE1I1Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:07"
+  }
+]

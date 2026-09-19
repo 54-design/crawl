@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "On The Market India",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "522306",
+    "phone_number": "+91 861 239 3001",
+    "website": "https://www.onthemarket.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MIG 18, Housing Board, Kallurupalli, Andhra Pradesh 524003",
+    "area": "Housing Board",
+    "latitude": 14.3817268,
+    "longitude": 79.9578659,
+    "place_id": "ChIJxXnTnY_zTDoRylFgjaU0JeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXnTnY_zTDoRylFgjaU0JeQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:35"
+  },
+  {
+    "business_name": "Manikanta Housings Pvt Ltd",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "522306",
+    "phone_number": "+91 89789 89437",
+    "website": "http://www.manikantahousings.com/",
+    "rating": 4.9,
+    "reviews_count": 58,
+    "address": "Mahatma Gandhi Inner Ring Rd, near Sree convention, Gorantla, Andhra Pradesh 522034",
+    "area": "522306",
+    "latitude": 16.3372578,
+    "longitude": 80.4295508,
+    "place_id": "ChIJM8uoySaLNToR-GYmUz5KkUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8uoySaLNToR-GYmUz5KkUI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:37"
+  }
+]

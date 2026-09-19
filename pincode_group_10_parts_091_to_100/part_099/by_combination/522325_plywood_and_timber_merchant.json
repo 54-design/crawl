@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Timber Trader Pvt. Ltd.",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Wood supplier",
+    "all_categories": "Wood supplier",
+    "pincode": "522325",
+    "phone_number": "+91 98111 63558",
+    "website": "https://guptapinewood.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "49/23, Assam Timber Market Rd, Assam Timber Market, Gulshan Park, Nangloi, Delhi, 110041",
+    "area": "Assam Timber Market, Gulshan Park, Nangloi",
+    "latitude": 28.684043499999998,
+    "longitude": 77.0452676,
+    "place_id": "ChIJ6Vopf88FDTkRP26ANQGBWY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Vopf88FDTkRP26ANQGBWY4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:25"
+  },
+  {
+    "business_name": "Royal Timber",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Hardware store, Wood supplier",
+    "pincode": "522325",
+    "phone_number": "+91 79851 16995",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Mishra Petrol Pump, Pandeypur, Naibasti, Varanasi, Uttar Pradesh 221002",
+    "area": "Pandeypur, Naibasti",
+    "latitude": 25.351957799999997,
+    "longitude": 82.99986489999999,
+    "place_id": "ChIJP5E5WVwvjjkRKqNC51r1Fok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5E5WVwvjjkRKqNC51r1Fok",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK BAR & RESTAURANT",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "522313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 257,
+    "address": "Nadikudi, Andhra Pradesh 522414",
+    "area": "522313",
+    "latitude": 16.601741399999998,
+    "longitude": 79.7257372,
+    "place_id": "ChIJcSHezSZBNToRZ98E9M1izqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSHezSZBNToRZ98E9M1izqU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:29"
+  },
+  {
+    "business_name": "Saimamatha Bar&restraunt",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "522313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 8,
+    "address": "6MJ2+Q9M, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Ramalingeswara Pet",
+    "latitude": 16.231950899999998,
+    "longitude": 80.6509252,
+    "place_id": "ChIJRW5-vuEFSjoRG_FM1F4colw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRW5-vuEFSjoRG_FM1F4colw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:32"
+  }
+]

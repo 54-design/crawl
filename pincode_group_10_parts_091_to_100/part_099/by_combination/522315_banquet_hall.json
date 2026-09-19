@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parandhayya Convention Centre A/C",
+    "search_category": "Banquet Hall",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "522315",
+    "phone_number": "+91 99933 34359",
+    "website": "http://pconvention.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "SH-48, GBC Rd, beside Indian Oil Petrol Bunk, Ponnur, Andhra Pradesh 522124",
+    "area": "522315",
+    "latitude": 16.0565313,
+    "longitude": 80.54542579999999,
+    "place_id": "ChIJQSPC1loRSjoR9WOVyJstoGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSPC1loRSjoR9WOVyJstoGM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:26:08"
+  },
+  {
+    "business_name": "Kolping Community Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "522315",
+    "phone_number": "+91 863 224 2133",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 293,
+    "address": "8C7W+29X, 5th Ln, Donka Road, Postal Colony, Guntur, Andhra Pradesh 522002",
+    "area": "Donka Road, Postal Colony",
+    "latitude": 16.3126151,
+    "longitude": 80.4459755,
+    "place_id": "ChIJcWiRL1d1SjoRei9uqMFUHg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWiRL1d1SjoRei9uqMFUHg4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:26:11"
+  }
+]

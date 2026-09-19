@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalitha Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "522311",
+    "phone_number": "+91 98495 61610",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G24J+7P8, VIP Road, Lawyer Pet Extension, Ongole, Andhra Pradesh 523002",
+    "area": "Lawyer Pet Extension",
+    "latitude": 15.5056649,
+    "longitude": 80.03182199999999,
+    "place_id": "ChIJI59iLwsBSzoRm7QNHsREaT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI59iLwsBSzoRm7QNHsREaT8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:17:59"
+  },
+  {
+    "business_name": "SUDHA CLINIC DR. RAJESWARA RAO M.D (GM)",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "522311",
+    "phone_number": "+91 85922 33969",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "G22W+WP7, Gadiyaram Vari Veedhi, Bandla Metla, Ongole, Andhra Pradesh 523001",
+    "area": "Gadiyaram Vari Veedhi, Bandla Metla",
+    "latitude": 15.5022972,
+    "longitude": 80.04679569999999,
+    "place_id": "ChIJ15FHaQQBSzoRQ0xhEnHQpD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15FHaQQBSzoRQ0xhEnHQpD4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:17:59"
+  }
+]

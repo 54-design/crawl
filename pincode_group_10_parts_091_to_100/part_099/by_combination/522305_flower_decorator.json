@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petals The Flower World",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Music instructor",
+    "pincode": "522305",
+    "phone_number": "+91 98856 29999",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "# 40-1-6, Beside Kalamandhir, MG Road, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Sidhartha Nagar, Labbipet",
+    "latitude": 16.5019007,
+    "longitude": 80.64354279999999,
+    "place_id": "ChIJZ-Y9QLH6NToRpH50s4GFPkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRpH50s4GFPkE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:07:08"
+  },
+  {
+    "business_name": "Sri Flowers's Paradise",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "522305",
+    "phone_number": "+91 98480 99299",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "39-1-17, MG Rd, opposite Joy Alukkas, Beside Balaji Towers, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Beside Balaji Towers, Labbipet",
+    "latitude": 16.5028665,
+    "longitude": 80.6402877,
+    "place_id": "ChIJdfauD4n7NToRZWTXFZK1tCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfauD4n7NToRZWTXFZK1tCg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:07:08"
+  }
+]

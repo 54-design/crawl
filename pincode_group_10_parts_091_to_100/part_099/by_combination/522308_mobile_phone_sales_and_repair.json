@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangalagiri Mobile Store",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "522308",
+    "phone_number": "+91 88851 11789",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 70,
+    "address": "1 1318, Gowtham Buddha Rd, opposite new busstand, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522308",
+    "latitude": 16.4336278,
+    "longitude": 80.5663503,
+    "place_id": "ChIJn6l54zjxNToRgTl1Kvb2kVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6l54zjxNToRgTl1Kvb2kVs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:13:11"
+  },
+  {
+    "business_name": "Re Fix Mobile Solutions",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "522308",
+    "phone_number": "+91 91828 30529",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no :- 20 Frist floor, NTR Complex, opposite AMC complex, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5115914,
+    "longitude": 80.62516819999999,
+    "place_id": "ChIJYYrUIBLxNToRR7GozIrtKMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYrUIBLxNToRR7GozIrtKMA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:13:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LVSK Fashion Mall",
+    "search_category": "Malls",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JC complex, SPP Rd, opp. agbal chicken stall, Ponnur, Andhra Pradesh 522124",
+    "area": "522316",
+    "latitude": 16.0672431,
+    "longitude": 80.54860149999999,
+    "place_id": "ChIJNaQAnO0RSjoRYdC-wVDCsNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaQAnO0RSjoRYdC-wVDCsNY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:28:50"
+  },
+  {
+    "business_name": "Manashop",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cash and carry wholesaler, Delivery service, Discount supermarket, Dollar store, Grocery delivery service, Market, Wholesale Food Store, Wholesaler",
+    "pincode": "522316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3H82+GF6, Nidubrolu - Govada Rd, Ponnur, Andhra Pradesh 522124",
+    "area": "522316",
+    "latitude": 16.0662911,
+    "longitude": 80.5511344,
+    "place_id": "ChIJI6L3GjARSjoRdGy1xMUu4Gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6L3GjARSjoRdGy1xMUu4Gs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:28:51"
+  }
+]

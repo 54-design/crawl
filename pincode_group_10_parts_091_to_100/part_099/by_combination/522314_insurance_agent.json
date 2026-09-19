@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriram Life Insurance Company pvt LTD",
+    "search_category": "Insurance Agent",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "522314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "8C4P+7V8, SH 288, Arundelpet, Guntur, Andhra Pradesh 522002",
+    "area": "Arundelpet",
+    "latitude": 16.305655599999998,
+    "longitude": 80.437204,
+    "place_id": "ChIJ-8zEDAB1SjoRdregCHGvWkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8zEDAB1SjoRdregCHGvWkw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:24:38"
+  },
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "522314",
+    "phone_number": "+91 87908 27488",
+    "website": "https://www.finobank.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14-350A, pedagolla palem, Karalapalem, Andhra Pradesh 522111",
+    "area": "pedagolla palem",
+    "latitude": 15.910032,
+    "longitude": 80.5613789,
+    "place_id": "ChIJN_bI-LA9SjoRmf8XtbMtVcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_bI-LA9SjoRmf8XtbMtVcc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:24:39"
+  }
+]

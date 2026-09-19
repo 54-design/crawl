@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayuri Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "522304",
+    "phone_number": "N/A",
+    "website": "http://mayuricaterers.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "2(A, Panta Kaluva Rd, New Postal Colony-2, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "New Postal Colony-2, Patamata, Benz Circle",
+    "latitude": 16.498421099999998,
+    "longitude": 80.6611437,
+    "place_id": "ChIJMZkwJcT6NToRxNSLlsIlQeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZkwJcT6NToRxNSLlsIlQeU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:19"
+  },
+  {
+    "business_name": "sri lakshmi caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "522304",
+    "phone_number": "+91 99488 19097",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "muthyala reddy nagar 4th line,amaravathi road,Guntur,Andhra Pradesh,522006,India muthyala reddy nagar 4th line, Amaravati Rd, Guntur, Andhra Pradesh 522007",
+    "area": "Venugopalnagar, Muthyala Reddy Nagar",
+    "latitude": 16.3223162,
+    "longitude": 80.43501499999999,
+    "place_id": "ChIJJTCom6GKNToRmiPboSojQSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTCom6GKNToRmiPboSojQSY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:20"
+  }
+]

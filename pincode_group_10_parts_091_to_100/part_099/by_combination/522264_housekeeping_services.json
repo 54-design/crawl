@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Sofa Steam&House cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services",
+    "pincode": "522264",
+    "phone_number": "+91 95151 55001",
+    "website": "https://srsofahomeservices.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "karakatta road, Ramalingeswara Nagar, Vijayawada, Andhra Pradesh 520013",
+    "area": "Ramalingeswara Nagar",
+    "latitude": 16.4882636,
+    "longitude": 80.6591959,
+    "place_id": "ChIJsSUV5xQ8SUwRK9SGXs7EmMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSUV5xQ8SUwRK9SGXs7EmMI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:25"
+  },
+  {
+    "business_name": "Green Facility Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Carpet cleaning service, House cleaning service, Sanitation service, Tile cleaning service, Title company, Window cleaning service",
+    "pincode": "522264",
+    "phone_number": "+91 99204 53384",
+    "website": "https://greenfacility.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 17, Nivruti building, Array Road, behind pritam hotel of, Peru Baug, Jay Prakash Nagar, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Peru Baug, Jay Prakash Nagar, Goregaon East",
+    "latitude": 19.166098899999998,
+    "longitude": 72.8520087,
+    "place_id": "ChIJQf5Asvu35zsRIInf_HLDTBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQf5Asvu35zsRIInf_HLDTBg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:27"
+  }
+]

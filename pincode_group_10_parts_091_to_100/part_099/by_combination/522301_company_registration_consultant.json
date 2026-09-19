@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBN Properties",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "522301",
+    "phone_number": "+91 78422 13834",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balajirao Pet, Tenali, Andhra Pradesh 522202",
+    "area": "Balajirao Pet",
+    "latitude": 16.2428336,
+    "longitude": 80.6417096,
+    "place_id": "ChIJIRrdhSUHSjoRdLW0DslqpiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRrdhSUHSjoRdLW0DslqpiE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:59:56"
+  },
+  {
+    "business_name": "IndiaFilings Private Limited",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "522301",
+    "phone_number": "+91 89398 50396",
+    "website": "https://www.indiafilings.com/",
+    "rating": 4,
+    "reviews_count": 2949,
+    "address": "6th floor, Shoppers Stop, Harrington Rd, Chetpet, Chennai, Tamil Nadu 600031",
+    "area": "Chetpet",
+    "latitude": 13.0689958,
+    "longitude": 80.2414919,
+    "place_id": "ChIJLzJb0yhnUjoRX98k5svO_3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzJb0yhnUjoRX98k5svO_3o",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:59:56"
+  }
+]

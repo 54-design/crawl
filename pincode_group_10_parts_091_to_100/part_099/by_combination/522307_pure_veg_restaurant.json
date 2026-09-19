@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chotu Mahadev Fast Foods",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522307",
+    "phone_number": "+91 63057 20486",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 63,
+    "address": "Guntur Road, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sulthanabad",
+    "latitude": 16.2398456,
+    "longitude": 80.6275984,
+    "place_id": "ChIJPa6ZhIEJSjoRpYlQujP1KDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPa6ZhIEJSjoRpYlQujP1KDI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:02"
+  },
+  {
+    "business_name": "SS Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "522307",
+    "phone_number": "+91 87121 05788",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "beside UCO Bank, Vadlamudi, Andhra Pradesh 522213",
+    "area": "522307",
+    "latitude": 16.2333926,
+    "longitude": 80.5465972,
+    "place_id": "ChIJoxddPNYJSjoRMEJrEkloXVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxddPNYJSjoRMEJrEkloXVw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:03"
+  }
+]

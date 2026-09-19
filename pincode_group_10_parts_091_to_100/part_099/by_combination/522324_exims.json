@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIMS Group of Institutions",
+    "search_category": "EXIMS",
+    "primary_category": "College",
+    "all_categories": "College, Educational institution",
+    "pincode": "522324",
+    "phone_number": "+91 863 222 5201",
+    "website": "http://simscollege.ac.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Vijayawada - Hyderabad Highway Nr Reliance market, Mangaldas Nagar, Guntur, Andhra Pradesh 522001",
+    "area": "Mangaldas Nagar",
+    "latitude": 16.309459399999998,
+    "longitude": 80.4638068,
+    "place_id": "ChIJRSkfknsLSjoRrhOmfTnQkV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSkfknsLSjoRrhOmfTnQkV0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:34:27"
+  },
+  {
+    "business_name": "GALAXY EXIMM",
+    "search_category": "EXIMS",
+    "primary_category": "Chemical Exporter",
+    "all_categories": "Chemical Exporter",
+    "pincode": "522324",
+    "phone_number": "+91 94425 57588",
+    "website": "https://galaxyeximm.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14/63-5, Ayeepalayam Athanoor (P.O, Rasipuram (T.K, Tamil Nadu 636301",
+    "area": "522324",
+    "latitude": 11.5117134,
+    "longitude": 78.14944059999999,
+    "place_id": "ChIJDScKBAvpqzsRRxDFN8CnhYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDScKBAvpqzsRRxDFN8CnhYI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:34:27"
+  }
+]

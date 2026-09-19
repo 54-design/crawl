@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi Medicals & fancy stores",
+    "search_category": "Wellness Center",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "522305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Main Rd, Perugalapudi, Andhra Pradesh 522305",
+    "area": "522305",
+    "latitude": 16.362631,
+    "longitude": 80.6492778,
+    "place_id": "ChIJIeGjsjD4NToRxRluEajTV58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeGjsjD4NToRxRluEajTV58",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:07:06"
+  },
+  {
+    "business_name": "24 Fit",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center, Service establishment",
+    "pincode": "522305",
+    "phone_number": "+91 88973 37127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24 Fit, 522305, India",
+    "area": "522305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJNbVjoqn5NToRUQPr1RUA5YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbVjoqn5NToRUQPr1RUA5YY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:07:08"
+  }
+]

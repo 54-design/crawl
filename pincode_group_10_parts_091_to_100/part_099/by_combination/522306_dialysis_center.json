@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jabilli health care clinic",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522306",
+    "phone_number": "+91 98486 36071",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "opp:, amaranath orthopedic hospital, 1st Ln, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.297774999999998,
+    "longitude": 80.45224,
+    "place_id": "ChIJDw7MVkp1SjoRIK6oxbli054",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDw7MVkp1SjoRIK6oxbli054",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:36"
+  },
+  {
+    "business_name": "Rishi Hospitals",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522306",
+    "phone_number": "+91 89850 01188",
+    "website": "http://rishihospitalsgnt.com/",
+    "rating": 4.9,
+    "reviews_count": 86,
+    "address": "1st line, goudiya matham road, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.298306,
+    "longitude": 80.4524108,
+    "place_id": "ChIJhcbo0XR1SjoRa2qZxmoVsnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcbo0XR1SjoRa2qZxmoVsnY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:36"
+  }
+]

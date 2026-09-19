@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tabernacle Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Religious organization",
+    "all_categories": "Religious organization",
+    "pincode": "522315",
+    "phone_number": "+91 86432 43740",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "17-13-12, Indira Colony, Ponnur, Andhra Pradesh 522124",
+    "area": "Indira Colony",
+    "latitude": 16.064575299999998,
+    "longitude": 80.5464276,
+    "place_id": "ChIJIR35NV4RSjoRT791o_h-WN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIR35NV4RSjoRT791o_h-WN8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:26:48"
+  },
+  {
+    "business_name": "VIJAYAM CONVENTION",
+    "search_category": "Tradeshows",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "522315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "8C9P+4P8, Venugopalnagar, Gauthami Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Venugopalnagar, Gauthami Nagar",
+    "latitude": 16.317916999999998,
+    "longitude": 80.4366853,
+    "place_id": "ChIJQygLs9SLNToRFSFnnsOm6TQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQygLs9SLNToRFSFnnsOm6TQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:26:49"
+  }
+]

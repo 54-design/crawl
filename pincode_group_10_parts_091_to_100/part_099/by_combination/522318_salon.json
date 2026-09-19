@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree ANITHA'S BEAUTY PARLOUR",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522318",
+    "phone_number": "+91 93914 03066",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Infront of Union Bank, new police station, near chebrolu, Chebrolu, Andhra Pradesh 522212",
+    "area": "522318",
+    "latitude": 16.202488,
+    "longitude": 80.52423879999999,
+    "place_id": "ChIJHad2E6kNSjoRPNtLAKCRnSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHad2E6kNSjoRPNtLAKCRnSs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:45"
+  },
+  {
+    "business_name": "GENTS BEAUTY & SALOON",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "522318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chebrolu, Andhra Pradesh 522212",
+    "area": "522318",
+    "latitude": 16.1963597,
+    "longitude": 80.52478169999999,
+    "place_id": "ChIJc59nBjkMSjoRa_fALvSt8BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc59nBjkMSjoRa_fALvSt8BM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SNV Stock Broking Pvt Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "522312",
+    "phone_number": "+91 98319 33215",
+    "website": "https://www.snvstocks.com/",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "Mezzanine Floor, Hanuman Estate, 19, RN Mukherjee Rd, beside Kishore Bhawan, Esplanade, Lal Bazar, Kolkata, West Bengal 700001",
+    "area": "Esplanade, Lal Bazar",
+    "latitude": 22.5704574,
+    "longitude": 88.3521401,
+    "place_id": "ChIJu0MdS2t3AjoRw9aO6cqCZVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0MdS2t3AjoRw9aO6cqCZVk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:52"
+  },
+  {
+    "business_name": "Share Profit Advisory Services",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "522312",
+    "phone_number": "+91 99283 64441",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "Office No 6, 1st Floor, \"Radhe Complex\", 256, Shopping Centre, Kota, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1705529,
+    "longitude": 75.85008499999999,
+    "place_id": "ChIJqzzlgtWabzkRICJDVdlzFFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzzlgtWabzkRICJDVdlzFFw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angels hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store",
+    "pincode": "522311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "parking, 1-6-4, Mahatma Gandhi Rd, opp. gandhi statue, Kandoji Bazar, General Bazaar, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Kandoji Bazar, General Bazaar, Kalasiguda",
+    "latitude": 17.438959,
+    "longitude": 78.4888296,
+    "place_id": "ChIJOS6odLKbyzsRz3AvE5zJskA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOS6odLKbyzsRz3AvE5zJskA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:17:49"
+  },
+  {
+    "business_name": "Naresh Silk Showroom",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522311",
+    "phone_number": "+91 88122 34841",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Powerpet, Eluru, Andhra Pradesh 534002",
+    "area": "Powerpet",
+    "latitude": 16.712949,
+    "longitude": 81.1024364,
+    "place_id": "ChIJlx2MRskUNjoRwdwW5z-s72Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlx2MRskUNjoRwdwW5z-s72Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:17:50"
+  }
+]

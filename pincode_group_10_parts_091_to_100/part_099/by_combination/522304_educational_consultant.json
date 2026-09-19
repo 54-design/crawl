@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elitas Edu care",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "522304",
+    "phone_number": "+91 73968 74571",
+    "website": "https://www.elitaseducare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4-5-125, 1st Floor, 4th Ln, opp. Chandra Mess, above Medplus Medical shop, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Maruthi Nagar, Koritepadu",
+    "latitude": 16.3139011,
+    "longitude": 80.43151089999999,
+    "place_id": "ChIJP1I2P4d1SjoRcUiLsmVFhNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1I2P4d1SjoRcUiLsmVFhNY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:32"
+  },
+  {
+    "business_name": "MITHRA EDUCATIONAL SERVICES",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "522304",
+    "phone_number": "+91 98660 34442",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4th Line, Lakshmipuram, Vidyanagar, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram, Vidyanagar",
+    "latitude": 16.3105556,
+    "longitude": 80.4325898,
+    "place_id": "ChIJuUJ_lzx1SjoRCq3rDEV_DMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUJ_lzx1SjoRCq3rDEV_DMI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:33"
+  }
+]

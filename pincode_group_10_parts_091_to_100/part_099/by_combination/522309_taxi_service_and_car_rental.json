@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavani Car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "522309",
+    "phone_number": "+91 96668 77077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "opposite Bank of Baroda, Takkellapadu, Andhra Pradesh 522509",
+    "area": "522309",
+    "latitude": 16.3115228,
+    "longitude": 80.4891931,
+    "place_id": "ChIJQ8iT1AYLSjoRlpNzxQsasro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8iT1AYLSjoRlpNzxQsasro",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:22"
+  },
+  {
+    "business_name": "Ease Cabs Car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Taxi stand, Travel agency",
+    "pincode": "522309",
+    "phone_number": "+91 91327 27279",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 68,
+    "address": "#7-320/1, opp. LN Gardens, Poranki, Andhra Pradesh 521137",
+    "area": "Poranki",
+    "latitude": 16.4748146,
+    "longitude": 80.711179,
+    "place_id": "ChIJ7fyDY6TvNToRULOoynzNXKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fyDY6TvNToRULOoynzNXKw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:22"
+  }
+]

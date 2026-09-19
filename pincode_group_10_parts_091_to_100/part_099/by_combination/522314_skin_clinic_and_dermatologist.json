@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DNR hospital (Dr. DVSB Ram Murthy)",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "522314",
+    "phone_number": "+91 863 232 2236",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "8C2X+6C7, Ganeshrao Peta, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Ganeshrao Peta, Kothapeta",
+    "latitude": 16.3005335,
+    "longitude": 80.4485353,
+    "place_id": "ChIJQYRKy8h1SjoRYY1ZrI5yd9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYRKy8h1SjoRYY1ZrI5yd9k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:23:40"
+  },
+  {
+    "business_name": "Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "522314",
+    "phone_number": "+91 863 223 1853",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "8C48+GX3, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Gang Colony, Pattabhipuram",
+    "latitude": 16.306262,
+    "longitude": 80.4174166,
+    "place_id": "ChIJVVVVFXp1SjoR0en9JrTU9Sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFXp1SjoR0en9JrTU9Sg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:23:44"
+  }
+]

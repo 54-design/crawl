@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR GENERAL STORES",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522304",
+    "phone_number": "+91 90003 79569",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near vemareddy matam, Munnangi, Andhra Pradesh 522304",
+    "area": "522304",
+    "latitude": 16.330420699999998,
+    "longitude": 80.7214335,
+    "place_id": "ChIJ75o--lr5NToR9Wz5SaYbOh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75o--lr5NToR9Wz5SaYbOh4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:13"
+  },
+  {
+    "business_name": "V MART SUPER MARKET",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "522304",
+    "phone_number": "+91 93906 42068",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Srinivasarao Pet, Guntur, Andhra Pradesh 522004",
+    "area": "Srinivasarao Pet",
+    "latitude": 16.291484699999998,
+    "longitude": 80.4316079,
+    "place_id": "ChIJ78jHVd91SjoRLneyPlo7j64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78jHVd91SjoRLneyPlo7j64",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:15"
+  }
+]

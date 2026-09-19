@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nightingale Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "522318",
+    "phone_number": "+91 95000 32092",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Building, #49, Gokulam, Arcot Rd, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "area": "Director's Colony, Kodambakkam",
+    "latitude": 13.0531726,
+    "longitude": 80.2239634,
+    "place_id": "ChIJGc5lEMVmUjoRFs6WJRbqpjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGc5lEMVmUjoRFs6WJRbqpjs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:09"
+  },
+  {
+    "business_name": "Jai Shanker Bag Repair work",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "522318",
+    "phone_number": "+91 98668 53905",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1-3, 179, Ambedkar Rd, Kamakoti Nagar, V D Puram, Vijayawada, Andhra Pradesh 520012",
+    "area": "Kamakoti Nagar, V D Puram",
+    "latitude": 16.5285974,
+    "longitude": 80.60487979999999,
+    "place_id": "ChIJ4fi85SrvNToRRoJPaeIjcP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fi85SrvNToRRoJPaeIjcP8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kakarla Food Products",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler",
+    "pincode": "522301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8C6V+8X6, Postal Colony, Guntur, Andhra Pradesh 522002",
+    "area": "Postal Colony",
+    "latitude": 16.3107783,
+    "longitude": 80.4448914,
+    "place_id": "ChIJxepDYgB1SjoR2jf6DiXffvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxepDYgB1SjoR2jf6DiXffvw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:00:20"
+  },
+  {
+    "business_name": "Metro Wholesale",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer",
+    "pincode": "522301",
+    "phone_number": "+91 62812 54537",
+    "website": "https://www.metro.co.in/outlets/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Door No: 404, beside SIMS college, Mangaldas Nagar, Guntur, Andhra Pradesh 522001",
+    "area": "Mangaldas Nagar",
+    "latitude": 16.30968,
+    "longitude": 80.46413,
+    "place_id": "ChIJM3VV9wMLSjoRJATY4dOkGi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3VV9wMLSjoRJATY4dOkGi4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:00:20"
+  }
+]

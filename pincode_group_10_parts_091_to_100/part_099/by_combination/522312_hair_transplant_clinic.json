@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "American Hairline",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair replacement service",
+    "all_categories": "Hair replacement service, Barber shop, Hair extension technician, Hair extensions supplier, Hair transplantation clinic, Transplant surgeon",
+    "pincode": "522312",
+    "phone_number": "+91 92226 66111",
+    "website": "https://www.americanhairline.com/",
+    "rating": 4.8,
+    "reviews_count": 384,
+    "address": "4th Floor, Empressa Building, 401/402, 2nd Rd, opp. BMC Market, near Kabutar, Khar, Ram Krishna Nagar, Khar West, Mumbai, Maharashtra 400052",
+    "area": "Khar, Ram Krishna Nagar, Khar West",
+    "latitude": 19.0701982,
+    "longitude": 72.8383456,
+    "place_id": "ChIJswL3q3XH5zsRwkP0vJlpfy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswL3q3XH5zsRwkP0vJlpfy4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:24"
+  },
+  {
+    "business_name": "Universal hair transplantation",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic",
+    "pincode": "522312",
+    "phone_number": "+91 89775 26911",
+    "website": "https://ubht.in/",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "Dr no 10-5-5/4, 3rd floor J.C Adobe Banjara Hills, Main Rd, Masab Tank, Hyderabad, Telangana 500028",
+    "area": "Owaisi Pura, Masab Tank",
+    "latitude": 17.4044699,
+    "longitude": 78.4512536,
+    "place_id": "ChIJ81OkbkCXyzsRrWg2CJ3U7fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81OkbkCXyzsRrWg2CJ3U7fk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:24"
+  }
+]

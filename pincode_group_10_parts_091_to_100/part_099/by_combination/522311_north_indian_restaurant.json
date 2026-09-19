@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant",
+    "pincode": "522311",
+    "phone_number": "+91 85228 78757",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "beside BALAJI MOTORS, Nuzividu, Andhra Pradesh 521201",
+    "area": "522311",
+    "latitude": 16.786327099999998,
+    "longitude": 80.8493013,
+    "place_id": "ChIJpx6-8Fd1NjoRreqRysnzSZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpx6-8Fd1NjoRreqRysnzSZs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:17:40"
+  },
+  {
+    "business_name": "Srikanya Comfort",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant",
+    "pincode": "522311",
+    "phone_number": "+91 883 256 6666",
+    "website": "http://www.srikanyacomfort.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Door No.11, 9-2, beside Reliance Mart, Seshayya Metta, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Seshayya Metta",
+    "latitude": 17.0090265,
+    "longitude": 81.7684561,
+    "place_id": "ChIJ1cKJjw2kNzoRaopwXYMBg78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cKJjw2kNzoRaopwXYMBg78",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:17:40"
+  }
+]

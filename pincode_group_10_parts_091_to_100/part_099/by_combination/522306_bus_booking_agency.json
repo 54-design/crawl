@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kancharla Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522306",
+    "phone_number": "+91 92464 60009",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "5-81/A, Sharada Nagar, Indira Nagar, L. B. Nagar, Hyderabad, Vanasthalipuram, Telangana 500070",
+    "area": "Sharada Nagar, Indira Nagar, L. B. Nagar",
+    "latitude": 17.338388899999998,
+    "longitude": 78.570289,
+    "place_id": "ChIJ2wXOP_6hyzsRHbBPJt3eqHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wXOP_6hyzsRHbBPJt3eqHs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:43"
+  },
+  {
+    "business_name": "Sudheer Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522306",
+    "phone_number": "+91 92900 92901",
+    "website": "http://www.sudheerbus.com/",
+    "rating": 3.3,
+    "reviews_count": 386,
+    "address": "Sudheer travels, road RF road, opposite to venkateshwara swamy temple, RF, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "RF, Kamalanagar",
+    "latitude": 14.682801,
+    "longitude": 77.6004817,
+    "place_id": "ChIJKfWkJsmZyzsRmNmloYAwYE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfWkJsmZyzsRmNmloYAwYE8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:44"
+  }
+]

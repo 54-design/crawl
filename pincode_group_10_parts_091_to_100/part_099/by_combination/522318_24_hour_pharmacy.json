@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hayathi Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Hayathi Pharmacy, G.N.R model school complex, NGO's Colony Main road, Andhra Pradesh 522004",
+    "area": "Venkata Ramana Colony, NGO Colony",
+    "latitude": 16.3019374,
+    "longitude": 80.4118858,
+    "place_id": "ChIJ-2Hk1SF1SjoReo55O54g0iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2Hk1SF1SjoReo55O54g0iU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:13"
+  },
+  {
+    "business_name": "Apollo Pharmacy Koretapadu",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Baby store, Drug store, Herbal medicine store, Medical equipment supplier",
+    "pincode": "522318",
+    "phone_number": "+91 79 4747 9826",
+    "website": "https://www.apollopharmacy.in/?utm_source=gmb&utm_medium=organic&utm_campaign=sulekhapromanage-apollo-pharmacy",
+    "rating": 3.9,
+    "reviews_count": 39,
+    "address": "No. 4/5128/1, Ring Rd, near MSR Shopping Mall, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Koritepadu",
+    "latitude": 16.3137936,
+    "longitude": 80.43171679999999,
+    "place_id": "ChIJQ9SAa5-KNToRds9oaaIgdqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9SAa5-KNToRds9oaaIgdqY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:13"
+  }
+]

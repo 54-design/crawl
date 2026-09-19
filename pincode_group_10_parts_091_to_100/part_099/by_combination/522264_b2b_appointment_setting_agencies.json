@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZingPro Consulting",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business development service",
+    "all_categories": "Business development service",
+    "pincode": "522264",
+    "phone_number": "+91 74017 27272",
+    "website": "http://www.zingpro.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A2, 2nd Floor, No: 372, E Main Rd, C-Sector, Anna Nagar West Extension, Chennai, Tamil Nadu 600101",
+    "area": "C-Sector, Anna Nagar West Extension",
+    "latitude": 13.0959013,
+    "longitude": 80.19737789999999,
+    "place_id": "ChIJ0zqUdRFnUjoRBs9DqC9OUcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zqUdRFnUjoRBs9DqC9OUcU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:42"
+  },
+  {
+    "business_name": "Executive PA Solutions Ltd - Virtual Executive Assistant & Business Support Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business administration service",
+    "all_categories": "Business administration service, Service establishment",
+    "pincode": "522264",
+    "phone_number": "07961 792705",
+    "website": "http://www.executivepasolutions.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Executive PA Solutions Ltd - Virtual Executive Assistant & Business Support Services, 522264, India",
+    "area": "522264",
+    "latitude": 47.73855,
+    "longitude": 11.5749774,
+    "place_id": "ChIJHUdUGmNHd0gRFT4_TWBBctc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUdUGmNHd0gRFT4_TWBBctc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:42"
+  }
+]

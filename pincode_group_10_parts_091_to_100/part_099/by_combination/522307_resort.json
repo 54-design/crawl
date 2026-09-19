@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Resort Parking",
+    "search_category": "Resort",
+    "primary_category": "Parking lot for bicycles",
+    "all_categories": "Parking lot for bicycles",
+    "pincode": "522307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9J65+9Q2, Temple to Kondur, Chiluvuru, Andhra Pradesh 522330",
+    "area": "522307",
+    "latitude": 16.3608847,
+    "longitude": 80.6094002,
+    "place_id": "ChIJjUEy8UL3NToRVH31Lw3rETc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUEy8UL3NToRVH31Lw3rETc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:11:05"
+  },
+  {
+    "business_name": "Naveena lodge",
+    "search_category": "Resort",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "522307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": null,
+    "address": "6JQV+8C6, Balajirao Pet, Tenali, Andhra Pradesh 522202",
+    "area": "Balajirao Pet",
+    "latitude": 16.2382764,
+    "longitude": 80.643526,
+    "place_id": "ChIJrSfV5QsHSjoRwxhyKnvp4BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSfV5QsHSjoRwxhyKnvp4BU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:11:05"
+  }
+]

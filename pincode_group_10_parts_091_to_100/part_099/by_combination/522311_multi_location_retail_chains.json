@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Discount supermarket, Gourmet grocery store, Grocery delivery service, Grocery store",
+    "pincode": "522311",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.8,
+    "reviews_count": 785,
+    "address": "Ground Floor, D.No. 22-3-22/46, Near Old Bus Stand, Main Rd, Ramachandrapuram, Andhra Pradesh 533255",
+    "area": "522311",
+    "latitude": 16.833004799999998,
+    "longitude": 82.0331858,
+    "place_id": "ChIJDfD9NgySNzoRBMXN4FGVfZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfD9NgySNzoRBMXN4FGVfZg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:19:20"
+  },
+  {
+    "business_name": "TownCart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522311",
+    "phone_number": "+91 96428 06806",
+    "website": "http://towncart.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "1st Phase, Manjeera Majestic Homes, 801 & 802, JNTU - Hitech City Rd, Kukatpally Housing Board Colony, Commercial, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, Commercial, K P H B Phase 1, Kukatpally",
+    "latitude": 17.491839,
+    "longitude": 78.393591,
+    "place_id": "ChIJzwtnbtaRyzsRcUfjA2jfLUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwtnbtaRyzsRcUfjA2jfLUs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:19:20"
+  }
+]

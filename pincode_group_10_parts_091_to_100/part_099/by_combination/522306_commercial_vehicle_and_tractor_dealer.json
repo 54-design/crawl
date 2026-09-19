@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADITHYA FORCE",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "522306",
+    "phone_number": "+91 94452 16899",
+    "website": "https://forcegurkha.co.in/find-dealer/",
+    "rating": 4.6,
+    "reviews_count": 86,
+    "address": "NO:11, Taluk Office Rd, Little Mount, Saidapet, Chennai, Tamil Nadu 600015",
+    "area": "Little Mount, Saidapet",
+    "latitude": 13.0154578,
+    "longitude": 80.22598289999999,
+    "place_id": "ChIJcweeXQxnUjoRpaUsmk3cWjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcweeXQxnUjoRpaUsmk3cWjc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:40"
+  },
+  {
+    "business_name": "Tractor",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "522306",
+    "phone_number": "+91 93800 89292",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chittor district shanthipurm mandala, Venkatepalli, Kuppam, Andhra Pradesh 517423",
+    "area": "Venkatepalli",
+    "latitude": 12.892047699999999,
+    "longitude": 78.3903036,
+    "place_id": "ChIJIweMIku9rTsRYTpxSVenAC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIweMIku9rTsRYTpxSVenAC4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:40"
+  }
+]

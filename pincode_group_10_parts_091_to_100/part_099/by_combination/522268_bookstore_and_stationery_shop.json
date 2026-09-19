@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "joshi book stores",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dalli Rajhara Bhanupratappur Rd, near gayatri mandir, Sankar Nagar, Mulla, Chhattisgarh 494669",
+    "area": "Sankar Nagar",
+    "latitude": 20.3112455,
+    "longitude": 81.07157,
+    "place_id": "ChIJv2WYoPaRLjoR84-0eY0g7lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2WYoPaRLjoR84-0eY0g7lc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:57:53"
+  },
+  {
+    "business_name": "Logili book store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "522268",
+    "phone_number": "+91 95501 46514",
+    "website": "http://logili.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ramannapet, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram, Koritepadu",
+    "latitude": 16.3133263,
+    "longitude": 80.4307271,
+    "place_id": "ChIJBylUAMWRyzsRWGrkbugdUHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBylUAMWRyzsRWGrkbugdUHs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:57:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Centre, Munnangi",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8PJ8+2MP, Munnangi, Andhra Pradesh 522304",
+    "area": "522304",
+    "latitude": 16.3300908,
+    "longitude": 80.71668849999999,
+    "place_id": "ChIJR4DzCKr4NToRwo6QlvPTNq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4DzCKr4NToRwo6QlvPTNq8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:14"
+  },
+  {
+    "business_name": "Sampurna Primary Health Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "522304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ithanagar, Tenali, Andhra Pradesh 522201",
+    "area": "Ithanagar",
+    "latitude": 16.2500872,
+    "longitude": 80.6502094,
+    "place_id": "ChIJgUPxg8oHSjoR8hoAo1n-pBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUPxg8oHSjoR8hoAo1n-pBQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:16"
+  }
+]

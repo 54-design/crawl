@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South India Shopping Mall-Vijayawada",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store",
+    "pincode": "522301",
+    "phone_number": "+91 77999 65656",
+    "website": "http://www.southindiaeshop.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "D.No 27-16-210 , Eluru Road, Besant Cross Road, Vijayawada, Andhra Pradesh 520002",
+    "area": "Lenin Center, Arundalpet, Governor Peta",
+    "latitude": 16.513834,
+    "longitude": 80.627025,
+    "place_id": "ChIJ85sv6_3vNToRG2nfQkChsXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85sv6_3vNToRG2nfQkChsXg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:00:17"
+  },
+  {
+    "business_name": "The IMPERIAL VSN",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Outlet mall",
+    "pincode": "522301",
+    "phone_number": "+91 81255 29999",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "59-13, 34/1A, 1st Ln, Panpana, Near, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Panpana, Near, Benz Circle",
+    "latitude": 16.501110999999998,
+    "longitude": 80.6568387,
+    "place_id": "ChIJ81g7xMf6NToR9usDyqOHqxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81g7xMf6NToR9usDyqOHqxc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:00:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Velaga's HomeStay",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "522315",
+    "phone_number": "+91 94904 40349",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ponnur Mandal, opp. DVC funcion hall, Chintalapudi, Andhra Pradesh 522124",
+    "area": "522315",
+    "latitude": 16.0488648,
+    "longitude": 80.5426021,
+    "place_id": "ChIJT8vGXcUTSjoR71a-ah1QYYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8vGXcUTSjoR71a-ah1QYYo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:26:13"
+  },
+  {
+    "business_name": "Amritha Homestay Ponnur",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Home Stay",
+    "pincode": "522315",
+    "phone_number": "+91 99805 51053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Santhi Nagar, 3rd Lane, near Sajja Function Hall, Ponnur, Andhra Pradesh 522124",
+    "area": "522315",
+    "latitude": 16.059094899999998,
+    "longitude": 80.54673939999999,
+    "place_id": "ChIJUeoqTAARSjoRATBJ3qBVmD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeoqTAARSjoRATBJ3qBVmD8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:26:15"
+  }
+]

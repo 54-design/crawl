@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRAGATHI HOSPITALS",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "522306",
+    "phone_number": "+91 863 226 4964",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Old Club Rd, near Bose Statue, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.299495399999998,
+    "longitude": 80.4502072,
+    "place_id": "ChIJoYmW7kt1SjoRKsxXWP777kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYmW7kt1SjoRKsxXWP777kw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:28"
+  },
+  {
+    "business_name": "PREETHI NURSING HOME",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522306",
+    "phone_number": "+91 85002 34640",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Rd, Tilak Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Tilak Nagar",
+    "latitude": 15.164731199999999,
+    "longitude": 77.3781395,
+    "place_id": "ChIJmwJ9il_vtjsROKBZYr00i2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwJ9il_vtjsROKBZYr00i2k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:29"
+  }
+]

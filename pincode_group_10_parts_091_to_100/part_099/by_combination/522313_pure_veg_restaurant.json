@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Noodles & Pulka Point",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Noodle shop",
+    "all_categories": "Noodle shop, Caterer, Chinese noodle restaurant, Fast food restaurant, Food court, Restaurant, Restaurant supply store",
+    "pincode": "522313",
+    "phone_number": "+91 99667 00983",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Old Bus Stand, beside Chanda Brothers, Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.293296899999998,
+    "longitude": 80.44874539999999,
+    "place_id": "ChIJ0QAo_aJ1SjoRqdxdou5v2aE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QAo_aJ1SjoRqdxdou5v2aE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:24"
+  },
+  {
+    "business_name": "Sri Veeranjaneya Military Meals Hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522313",
+    "phone_number": "+91 98498 69526",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Near Andhra bank opposite, Andhra Pradesh 521324",
+    "area": "522313",
+    "latitude": 16.3719686,
+    "longitude": 81.2709745,
+    "place_id": "ChIJjVxnJd4gNjoRCsOpuorIVgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVxnJd4gNjoRCsOpuorIVgk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:27"
+  }
+]

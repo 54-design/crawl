@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Feroz Paints",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "522314",
+    "phone_number": "+91 93915 10433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite Venu Gopala swamy temple, Nizampatnam, Andhra Pradesh 522314",
+    "area": "522314",
+    "latitude": 15.9046056,
+    "longitude": 80.6697559,
+    "place_id": "ChIJ0TdUwQ0jSjoR_8elM4KHtfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TdUwQ0jSjoR_8elM4KHtfs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:24:04"
+  },
+  {
+    "business_name": "Neelimaa Enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Hardware store, Wood and laminate flooring supplier",
+    "pincode": "522314",
+    "phone_number": "+91 94921 23430",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "26-8-58, Nagarampalem Rd, near Moodu bommala center, Kanna Vari Thota, Guntur, Andhra Pradesh 522004",
+    "area": "Kanna Vari Thota",
+    "latitude": 16.2941601,
+    "longitude": 80.4380338,
+    "place_id": "ChIJybcTjYl1SjoRMDYdKtw4tk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybcTjYl1SjoRMDYdKtw4tk0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:24:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Icon CLOTHING Store",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522309",
+    "phone_number": "+91 96522 22127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police station road, near Mee seva, Cherukupalli, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.046321799999998,
+    "longitude": 80.67877829999999,
+    "place_id": "ChIJQTT7knQZSjoR4w6s_Iyh4MM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTT7knQZSjoR4w6s_Iyh4MM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:04"
+  },
+  {
+    "business_name": "Sri Sai Maggam Works",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522309",
+    "phone_number": "+91 96764 21736",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paparao Hospital Road, Cherukupalli, Arumbaka, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.047466099999998,
+    "longitude": 80.6794306,
+    "place_id": "ChIJFSRPTcMZSjoR0jnERVXMJxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSRPTcMZSjoR0jnERVXMJxY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:06"
+  }
+]

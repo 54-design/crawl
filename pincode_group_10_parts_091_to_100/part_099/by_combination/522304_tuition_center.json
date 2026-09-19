@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends tuition point",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "522304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "9Q99+WQP, Vallurupalem, North Valluru, Andhra Pradesh 521163",
+    "area": "Vallurupalem",
+    "latitude": 16.369827,
+    "longitude": 80.7694345,
+    "place_id": "ChIJOU_ciIH_NToRcnHrvUaXYf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOU_ciIH_NToRcnHrvUaXYf0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:28"
+  },
+  {
+    "business_name": "Elite Home Tuitions Guntur",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service, Service establishment, Private Tutor",
+    "pincode": "522304",
+    "phone_number": "+91 94943 50264",
+    "website": "https://elitehometuitions.com/",
+    "rating": 5,
+    "reviews_count": 83,
+    "address": "Elite Home Tuitions Guntur, 522304, India",
+    "area": "522304",
+    "latitude": 16.2963272,
+    "longitude": 80.45211979999999,
+    "place_id": "ChIJ47vylVZEhGARVRLB7My2104",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47vylVZEhGARVRLB7My2104",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:29"
+  }
+]

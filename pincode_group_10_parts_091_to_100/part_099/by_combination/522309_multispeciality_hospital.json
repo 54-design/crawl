@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun Medical & Surgical",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "522309",
+    "phone_number": "+91 452 437 3556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Naicker New street, 33, First street,, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9239302,
+    "longitude": 78.11627399999999,
+    "place_id": "ChIJG8ISPj_PADsRf59WlUfFRfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8ISPj_PADsRf59WlUfFRfA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:10"
+  },
+  {
+    "business_name": "Thiru Senthil Andavar Multi Specialty Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522309",
+    "phone_number": "+91 95781 46194",
+    "website": "https://www.thirusenthilaandavarhospital.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Avaniyapuram Bypass Rd, Prasanna Colony, Madurai, Tamil Nadu 625012",
+    "area": "522309",
+    "latitude": 9.8838508,
+    "longitude": 78.1190324,
+    "place_id": "ChIJ_a3HsrjFADsR3SzNBPDU91g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_a3HsrjFADsR3SzNBPDU91g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:10"
+  }
+]

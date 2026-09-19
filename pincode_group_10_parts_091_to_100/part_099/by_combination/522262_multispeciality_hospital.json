@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PMR Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522262",
+    "phone_number": "+91 86482 47225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2MWG+2P7, NH 216, Cherukupalli, Arumbaka, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.045027,
+    "longitude": 80.67678149999999,
+    "place_id": "ChIJJ0HKs6EZSjoRCsRx7rlEy1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0HKs6EZSjoRCsRx7rlEy1E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:51:14"
+  },
+  {
+    "business_name": "Sai Ashwath Hospitals",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522262",
+    "phone_number": "+91 95507 33896",
+    "website": "https://saiashwathhospitals.com/",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "D, No.51-06-166, 5th Line, near Bus Stand, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.2974812,
+    "longitude": 80.454031,
+    "place_id": "ChIJKzrYjZB1SjoReJ52-rL2iag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzrYjZB1SjoReJ52-rL2iag",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:51:15"
+  }
+]

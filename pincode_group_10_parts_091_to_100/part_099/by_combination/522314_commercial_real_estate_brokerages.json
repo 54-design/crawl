@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karalapalem",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial Real Estate Brokerages",
+    "all_categories": "Commercial Real Estate Brokerages",
+    "pincode": "522314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Andhra Pradesh",
+    "area": "522314",
+    "latitude": 15.9457492,
+    "longitude": 80.5490335,
+    "place_id": "ChIJ50adj2s-SjoRsZmRtWT_Ikk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50adj2s-SjoRsZmRtWT_Ikk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:24:44"
+  },
+  {
+    "business_name": "Sri Venkateshwara Real Estates and Consultancy Services",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "522314",
+    "phone_number": "N/A",
+    "website": "http://svrcs.wordpress.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ayyappa temple complex, Station Road Colony, Bellampalle, Telangana 504251",
+    "area": "Station Road Colony",
+    "latitude": 19.0631722,
+    "longitude": 79.4880797,
+    "place_id": "ChIJB6gTDoWJxQURCO3U7_GWIjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6gTDoWJxQURCO3U7_GWIjg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:24:47"
+  }
+]

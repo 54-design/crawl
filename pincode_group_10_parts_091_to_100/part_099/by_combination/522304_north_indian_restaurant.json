@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani point",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "522304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "7JVM+GQF, Guntur - Hanumanpalem Rd, Nandivelugu, Devarapalle Agraharam, Andhra Pradesh 522306",
+    "area": "522304",
+    "latitude": 16.2938072,
+    "longitude": 80.6344338,
+    "place_id": "ChIJ0UbcDSwHSjoRl9JOp9pdjfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UbcDSwHSjoRl9JOp9pdjfI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:25"
+  },
+  {
+    "business_name": "Sai Ram Spices",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler",
+    "pincode": "522304",
+    "phone_number": "+91 94794 74630",
+    "website": "https://www.instagram.com/sairamspices/?hl=en",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Survey No.139, B-1, Ankireddy Palem, Guntur, Andhra Pradesh 522004",
+    "area": "522304",
+    "latitude": 16.2870329,
+    "longitude": 80.4066653,
+    "place_id": "ChIJVwcxUgZ1SjoRe0cem8SsXio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwcxUgZ1SjoRe0cem8SsXio",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:27"
+  }
+]

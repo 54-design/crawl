@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Brundavan Dental care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522315",
+    "phone_number": "+91 99856 13333",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GBC Rd, above Indian Overseas Bank, Ponnur, Andhra Pradesh 522124",
+    "area": "522315",
+    "latitude": 16.0646239,
+    "longitude": 80.5506315,
+    "place_id": "ChIJJR6fx4QRSjoREgugmTe84AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJR6fx4QRSjoREgugmTe84AM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:32"
+  },
+  {
+    "business_name": "Kotilingams Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "522315",
+    "phone_number": "+91 863 235 8460",
+    "website": "http://kotilingamdental.com/",
+    "rating": 3.6,
+    "reviews_count": 35,
+    "address": "7CWX+RFF, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2970726,
+    "longitude": 80.4486738,
+    "place_id": "ChIJNc9Fm0l1SjoRWRjB0S4jaaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNc9Fm0l1SjoRWRjB0S4jaaE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:34"
+  }
+]

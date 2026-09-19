@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chillapalli Nageswara Rao & Sons",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Textiles",
+    "pincode": "522312",
+    "phone_number": "+91 99484 89772",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Besant Rd, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5115655,
+    "longitude": 80.6267012,
+    "place_id": "ChIJy6wgGwLwNToR-edwaMkfGRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6wgGwLwNToR-edwaMkfGRc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:19:36"
+  },
+  {
+    "business_name": "Pochampally Ikkath Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522312",
+    "phone_number": "+91 88856 58055",
+    "website": "https://mbasic.facebook.com/pochampallyikkathsarees/",
+    "rating": 4.3,
+    "reviews_count": 1412,
+    "address": "8RV9+JQR, ramnagar, Bhoodan Pochampally, Telangana 508284",
+    "area": "ramnagar",
+    "latitude": 17.3424287,
+    "longitude": 78.8154449,
+    "place_id": "ChIJd-ClU0gNyzsRzvnRBWE7jbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-ClU0gNyzsRzvnRBWE7jbU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:19:36"
+  }
+]

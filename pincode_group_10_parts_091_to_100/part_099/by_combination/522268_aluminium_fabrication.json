@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous aluminium fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminum window",
+    "all_categories": "Aluminum window",
+    "pincode": "522268",
+    "phone_number": "+91 86868 92665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Attapur, Mushk Mahal, Attapur, Hyderabad, Telangana 500048",
+    "area": "Mushk Mahal",
+    "latitude": 17.3632062,
+    "longitude": 78.43091969999999,
+    "place_id": "ChIJr8JS5_6XyzsRA_JoSo3Y9xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8JS5_6XyzsRA_JoSo3Y9xI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:12"
+  },
+  {
+    "business_name": "Venky Welding Works",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "522268",
+    "phone_number": "+91 79939 74162",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arumbaka Road, Cherukupalli, Arumbaka, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.043889999999998,
+    "longitude": 80.6699108,
+    "place_id": "ChIJJTEydRkZSjoRsw1eS01pC5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTEydRkZSjoRsw1eS01pC5Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:12"
+  }
+]

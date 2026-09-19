@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "522317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "AH45, Andhra Pradesh 522233",
+    "area": "522317",
+    "latitude": 16.1802285,
+    "longitude": 80.2422674,
+    "place_id": "ChIJVftUFEp7SjoReIP3KQbtS0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVftUFEp7SjoReIP3KQbtS0c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:29:02"
+  },
+  {
+    "business_name": "Rao’s Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "8846+X54, NH 544D, Ameenabaad, Andhra Pradesh 522438",
+    "area": "522317",
+    "latitude": 16.3073794,
+    "longitude": 80.3104536,
+    "place_id": "ChIJ88TTB0l3SjoRls4AM1dRYJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88TTB0l3SjoRls4AM1dRYJg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:29:02"
+  }
+]

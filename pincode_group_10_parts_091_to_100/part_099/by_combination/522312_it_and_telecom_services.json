@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "522312",
+    "phone_number": "+91 96669 33734",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10-62-1, Modukuru, Andhra Pradesh 522318",
+    "area": "522312",
+    "latitude": 16.132559999999998,
+    "longitude": 80.58546,
+    "place_id": "ChIJ2X4hNYsRSjoRbuGuH4TPl9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2X4hNYsRSjoRbuGuH4TPl9c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:48"
+  },
+  {
+    "business_name": "ALHAMDULILLAH FIRE SECURITY SYSTEM",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Fire alarm supplier",
+    "all_categories": "Fire alarm supplier, Service establishment",
+    "pincode": "522312",
+    "phone_number": "+91 93464 54273",
+    "website": "https://www.google.com/search?q=ALHAMDULILLAH+FIRE+SECURITY+SYSTEM&rlz=1C1CHBD_en-GBIN1167&oq=ALHAMDULILLAH+FIRE+SECURITY+SYSTEM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEJMjE0OGowajE1qAIIsAIB8QUleJ7wmQXqovEFJXie8JkF6qI&sourceid=chrome&ie=UTF-8",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "ALHAMDULILLAH FIRE SECURITY SYSTEM, 522312, India",
+    "area": "522312",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJq8ByIAcRSjoRHePwQu23z9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8ByIAcRSjoRHePwQu23z9c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:48"
+  }
+]

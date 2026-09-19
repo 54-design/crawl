@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "hi tech mobile accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "522304",
+    "phone_number": "+91 88855 42111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26, Main Rd, sethammavari Street, Guntur, Andhra Pradesh 522001",
+    "area": "sethammavari Street",
+    "latitude": 16.2963309,
+    "longitude": 80.4481371,
+    "place_id": "ChIJpT_MlUl1SjoRC00f4PSY9xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpT_MlUl1SjoRC00f4PSY9xk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:36"
+  },
+  {
+    "business_name": "Prasad Cell Point",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "522304",
+    "phone_number": "+91 95022 28333",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3G8X+QR7, SPP Rd, Ponnur, Andhra Pradesh 522124",
+    "area": "522304",
+    "latitude": 16.0669112,
+    "longitude": 80.5495581,
+    "place_id": "ChIJi5wTUWcRSjoRCS93GM7YX_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5wTUWcRSjoRCS93GM7YX_c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:38"
+  }
+]

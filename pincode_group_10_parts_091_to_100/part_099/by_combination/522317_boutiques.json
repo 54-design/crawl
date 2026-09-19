@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelu Farhana Botique&Maggam Works",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store",
+    "pincode": "522317",
+    "phone_number": "+91 70139 48639",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Door No 1, 1-1, Railway Station Rd, opposite Sivalayam, 13th Ward, Satyanarayana Puram, Satyannarayana Puram, Bapatla, Andhra Pradesh 522101",
+    "area": "13th Ward, Satyanarayana Puram, Satyannarayana Puram",
+    "latitude": 15.9056584,
+    "longitude": 80.4684568,
+    "place_id": "ChIJM54jLAA_SjoR7OTv4jCthdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM54jLAA_SjoR7OTv4jCthdM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:29:17"
+  },
+  {
+    "business_name": "ABC FASHIONS",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Manufacturer",
+    "pincode": "522317",
+    "phone_number": "+91 73311 07422",
+    "website": "http://www.abcfashionsindia.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "ratna Nagar, R.K Puram, Chirala, Andhra Pradesh 523155",
+    "area": "ratna Nagar, R.K Puram",
+    "latitude": 15.812162899999999,
+    "longitude": 80.3486161,
+    "place_id": "ChIJ0wdJEDxESjoRdsKP48uw7O4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wdJEDxESjoRdsKP48uw7O4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:29:18"
+  }
+]

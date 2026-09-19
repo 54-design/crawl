@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR PET CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Pet groomer, Pet store",
+    "pincode": "522309",
+    "phone_number": "+91 98493 62082",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 136,
+    "address": "Oppo, ESI Rd, Gunadala, Kanuru, Andhra Pradesh 520004",
+    "area": "Gunadala",
+    "latitude": 16.520899399999998,
+    "longitude": 80.6663634,
+    "place_id": "ChIJhw9CVzDlNToRVYOrxWq_G1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhw9CVzDlNToRVYOrxWq_G1I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:14"
+  },
+  {
+    "business_name": "PHOENIX PET CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "522309",
+    "phone_number": "+91 63003 44885",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 109,
+    "address": "Potti Sriramulu Nagar, 5th Line, Donka Road, Guntur, Andhra Pradesh 522002",
+    "area": "Donka Road, Srinagar Colony",
+    "latitude": 16.3092011,
+    "longitude": 80.4384255,
+    "place_id": "ChIJ0wiPDQB1SjoRDpGxHadMFdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wiPDQB1SjoRDpGxHadMFdM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:15"
+  }
+]

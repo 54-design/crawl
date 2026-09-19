@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vineel Physiotherapy Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "522265",
+    "phone_number": "+91 97011 15145",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 115,
+    "address": "2nd ward, vineel physiotherapy clinic, Sugalicolony, besides MPPSCHOOL, 2_370, Avanigadda, Andhra Pradesh 521121",
+    "area": "522265",
+    "latitude": 16.027604399999998,
+    "longitude": 80.91382999999999,
+    "place_id": "ChIJS464LJfzSToRe82XBwBos_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS464LJfzSToRe82XBwBos_8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:13"
+  },
+  {
+    "business_name": "Sri Venkateswara Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "522265",
+    "phone_number": "+91 76748 47804",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.9-41 Penumudi, Oppset Main Road, nearby Ramalayam, Penumudi, Andhra Pradesh 522265",
+    "area": "522265",
+    "latitude": 16.033099399999998,
+    "longitude": 80.8724605,
+    "place_id": "ChIJKYrL_a_1SToRfdnGVtb6h0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYrL_a_1SToRfdnGVtb6h0o",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:14"
+  }
+]

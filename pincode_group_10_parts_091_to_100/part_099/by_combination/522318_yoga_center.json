@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leaf Yoga Academy",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "522318",
+    "phone_number": "+91 95506 02045",
+    "website": "https://leafyogavillage.com/yoga-classes-at-home-vijayawada/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Samba Murthy Rd, Durgapuram, Railway Colony, Bavajipet, Vijayawada, Andhra Pradesh 520011",
+    "area": "Durgapuram, Railway Colony, Bavajipet",
+    "latitude": 16.5224231,
+    "longitude": 80.6443915,
+    "place_id": "ChIJARO_0U_lNToRz6vY17hWwgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARO_0U_lNToRz6vY17hWwgw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:24"
+  },
+  {
+    "business_name": "Sapta Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "522318",
+    "phone_number": "+91 63030 78326",
+    "website": "https://saptayoga.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 434, opp. Aditya Pharmacy, near Pratibha High school, Secretariat Colony, Sri Ram Nagar Colony, KPR Colony, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Secretariat Colony, Sri Ram Nagar Colony, KPR Colony",
+    "latitude": 17.4006903,
+    "longitude": 78.37786489999999,
+    "place_id": "ChIJIdLBJ72VyzsR_iPY2E-s54M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdLBJ72VyzsR_iPY2E-s54M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:24"
+  }
+]

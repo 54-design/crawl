@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Grand",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "522265",
+    "phone_number": "+91 86864 85999",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "15-38, Railpet, Repalle, Andhra Pradesh 522265",
+    "area": "522265",
+    "latitude": 16.018737299999998,
+    "longitude": 80.8316902,
+    "place_id": "ChIJ6crLsSb1SToRob6F08R7Fh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6crLsSb1SToRob6F08R7Fh8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:55"
+  },
+  {
+    "business_name": "Royals Arabic Mandi Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 89,
+    "address": "Praveen Plaza, railway Station, opposite Taluka office, Repalle, Andhra Pradesh 522265",
+    "area": "522265",
+    "latitude": 16.020156999999998,
+    "longitude": 80.8323759,
+    "place_id": "ChIJU8GUDFD1SToRBL_tahMK1E0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8GUDFD1SToRBL_tahMK1E0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:54:58"
+  }
+]

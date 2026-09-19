@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CakeZone",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Sweet shop, Cupcake shop, Dessert shop",
+    "pincode": "522313",
+    "phone_number": "+91 98801 25283",
+    "website": "https://www.cakezone.com/",
+    "rating": 3.4,
+    "reviews_count": 28,
+    "address": "D NO 6-7-60,GROUND FLOOR, SAI SARAN, 7th Ln, near SAIBABA TEMPLE, 7/3, Arundelpet, Guntur, Andhra Pradesh 522002",
+    "area": "7/3, Arundelpet",
+    "latitude": 16.3044367,
+    "longitude": 80.4411863,
+    "place_id": "ChIJlWdp8Xd1SjoRfmm46ATM7DA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWdp8Xd1SjoRfmm46ATM7DA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:23"
+  },
+  {
+    "business_name": "Ramakrishna",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "522313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 12,
+    "address": "6JGR+GM5, Chinaparimi - Tenali Rd, R.R.Nagar, R.R, Mallepadu, Tenali, Andhra Pradesh 522202",
+    "area": "R.R.Nagar, R.R, Mallepadu",
+    "latitude": 16.2262679,
+    "longitude": 80.641727,
+    "place_id": "ChIJ5c2YcvsFSjoRsaTedrLDA7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5c2YcvsFSjoRsaTedrLDA7k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:26"
+  }
+]

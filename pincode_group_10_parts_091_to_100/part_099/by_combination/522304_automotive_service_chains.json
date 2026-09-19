@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nayara Energy",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Diesel fuel supplier, Fuel supplier",
+    "pincode": "522304",
+    "phone_number": "+91 80 6428 1605",
+    "website": "https://www.nayaraenergy.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Survey No 439, Davuluru, Andhra Pradesh 522304",
+    "area": "522304",
+    "latitude": 16.2776915,
+    "longitude": 80.7468126,
+    "place_id": "ChIJq8_LuB4BSjoRCEfeRtFGRDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8_LuB4BSjoRCEfeRtFGRDo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:04:59"
+  },
+  {
+    "business_name": "Godavari Auto Scanners",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "522304",
+    "phone_number": "+91 98483 12123",
+    "website": "http://godavariautoscanners.com/",
+    "rating": 3.9,
+    "reviews_count": 34,
+    "address": "Door No : 69, 31-15/1, Lalacheruvu Road, near R.T.O Office, Bhaskar Nagar, Rajamahendravaram, Andhra Pradesh 533105",
+    "area": "Bhaskar Nagar",
+    "latitude": 17.022490899999998,
+    "longitude": 81.7979738,
+    "place_id": "ChIJK-JaHuejNzoRg-M9CSSBzqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-JaHuejNzoRg-M9CSSBzqQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:05:00"
+  }
+]

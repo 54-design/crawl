@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chikmagalur Caffé",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Coffee store",
+    "pincode": "522301",
+    "phone_number": "+91 94936 90009",
+    "website": "http://www.facebook.com/chikmagalurcaffe",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Varun Restaurant, near, NRI Medical College Rd, beside Anjaneya Restaurants, Autonagar, Chinnakakani, Andhra Pradesh 522508",
+    "area": "Autonagar",
+    "latitude": 16.417137999999998,
+    "longitude": 80.56123199999999,
+    "place_id": "ChIJ28kZvCXxNToRwDWIBdaiO24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28kZvCXxNToRwDWIBdaiO24",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:39"
+  },
+  {
+    "business_name": "THE HUNGRY HIVE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "522301",
+    "phone_number": "+91 99494 35333",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SHOP NO;4, BUS STAND COMPLEX, WARD NO;37, beside AYYANGAR BAKERY, Tenali, Andhra Pradesh 522201",
+    "area": "Ithanagar",
+    "latitude": 16.2447621,
+    "longitude": 80.6435685,
+    "place_id": "ChIJK78eNMkHSjoRa4DKHYdoA9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK78eNMkHSjoRa4DKHYdoA9s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:40"
+  }
+]

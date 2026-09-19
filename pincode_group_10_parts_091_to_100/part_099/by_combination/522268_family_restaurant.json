@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahi Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "522268",
+    "phone_number": "+91 63039 63244",
+    "website": "https://whatsapp.com/channel/0029Vb6WlpNKbYMVCuwYQt0O",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "121-276, Thurakapalem Rd, ratnagiri nagar, Guntur, Peda Palakaluru, Andhra Pradesh 522009",
+    "area": "ratnagiri nagar",
+    "latitude": 16.3266966,
+    "longitude": 80.39296329999999,
+    "place_id": "ChIJvTi9AwCLNToRvfY1oDbohag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTi9AwCLNToRvfY1oDbohag",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:53"
+  },
+  {
+    "business_name": "VEDANSHI Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "79XQ+WXP, 118-97, Chandramouli Nagar, Nallapadu, Nallapadu Rural, Guntur, Andhra Pradesh 522005",
+    "area": "Chandramouli Nagar, Nallapadu",
+    "latitude": 16.299754699999998,
+    "longitude": 80.389956,
+    "place_id": "ChIJNw53DwB1SjoRs64wgYN3AcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNw53DwB1SjoRs64wgYN3AcA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:53"
+  }
+]

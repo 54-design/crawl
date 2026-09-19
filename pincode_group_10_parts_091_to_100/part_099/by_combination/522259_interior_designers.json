@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ak Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior Decorator",
+    "pincode": "522259",
+    "phone_number": "+91 98493 36644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gullapalli AbhiRuchi Restaurant Be Side, Cherukupalli, Guntur, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.0501122,
+    "longitude": 80.68135699999999,
+    "place_id": "ChIJB_sopIcbSjoRiTpgWoFyrCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_sopIcbSjoRiTpgWoFyrCw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:46:36"
+  },
+  {
+    "business_name": "Sai Subham Industries",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Modular home builder",
+    "pincode": "522259",
+    "phone_number": "+91 98491 43335",
+    "website": "http://www.saisubhamindustries.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "19-8-97, Besdie, Suryadevara estates, Etukuru Rd, Gandhi Nagar, Guntur, Andhra Pradesh 522003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.2806168,
+    "longitude": 80.4452118,
+    "place_id": "ChIJey21kC91SjoRf7tTGOk8YRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey21kC91SjoRf7tTGOk8YRo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:46:38"
+  }
+]

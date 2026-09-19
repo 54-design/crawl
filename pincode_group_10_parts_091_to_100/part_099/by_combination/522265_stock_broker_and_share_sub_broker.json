@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Money Chanakya",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "522265",
+    "phone_number": "+91 70329 05874",
+    "website": "https://www.moneychanakya.com/",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "Money Chanakya, 522265, India",
+    "area": "522265",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJh9J9mfaVyzsRfg6R4b5pPCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9J9mfaVyzsRfg6R4b5pPCE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:12"
+  },
+  {
+    "business_name": "Bhavya Sampada",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "522265",
+    "phone_number": "+91 98489 77660",
+    "website": "http://www.bhavyasampada.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no:156, H.No:1, 1-258, Dr. AS Rao Nagar Rd, Srinivasa Nagar Colony, Kapra, Hyderabad, Secunderabad, Telangana 500062",
+    "area": "Srinivasa Nagar Colony, Kapra",
+    "latitude": 17.478765499999998,
+    "longitude": 78.56192329999999,
+    "place_id": "ChIJBe-0msubyzsRon-1aG0H-a4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBe-0msubyzsRon-1aG0H-a4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:15"
+  }
+]

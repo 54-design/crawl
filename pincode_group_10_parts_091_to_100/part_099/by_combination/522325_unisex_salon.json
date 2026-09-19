@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OPULENCE unisex saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Fencing salon, Nail salon",
+    "pincode": "522325",
+    "phone_number": "+91 62624 17179",
+    "website": "https://myopulences.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Flat/Door/Block No. 9, SBI ATM, Venkatraju Complex, 1/9-2, Red Bridge, near K I M S Hospital, Amalapuram Rural, Andhra Pradesh 533201",
+    "area": "522325",
+    "latitude": 16.5851857,
+    "longitude": 82.0179347,
+    "place_id": "ChIJGzabJnDvNzoR_MTbgn7p_QE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzabJnDvNzoR_MTbgn7p_QE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:34"
+  },
+  {
+    "business_name": "Hiwaga Beauty Salon & Clinic",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Cosmetic surgeon, Dermatologist, Facial spa, Hair transplantation clinic, Laser hair removal service, Skin care clinic, Tattoo removal service",
+    "pincode": "522325",
+    "phone_number": "+91 73373 98983",
+    "website": "https://www.hiwaga.in/?utm_source=gmb&utm_medium=website",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, GRS Paradise, Sampath Vinayaka Temple Rd, beside Airtel office, CBM Compound, Ram Nagar, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "CBM Compound, Ram Nagar",
+    "latitude": 17.7248376,
+    "longitude": 83.31468369999999,
+    "place_id": "ChIJkWVcTitDOToRxj4oifY4IJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWVcTitDOToRxj4oifY4IJI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:34"
+  }
+]

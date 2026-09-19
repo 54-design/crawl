@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRO Diagnostic and Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Dermatologist, Doctor, Gastroenterologist, Gynecologist, Medical clinic, Orthopedic clinic, Pediatrician",
+    "pincode": "522310",
+    "phone_number": "+91 81003 82198",
+    "website": "http://prodiagnostic.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "9, Baghajatin Rd, Barrackpore Trunk Rd, Baranagar, West Bengal 700036",
+    "area": "Nainan Para, Baranagar",
+    "latitude": 22.637988,
+    "longitude": 88.3777279,
+    "place_id": "ChIJhbYUWT2d-DkRk6rwRyZrIRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbYUWT2d-DkRk6rwRyZrIRw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:16:05"
+  },
+  {
+    "business_name": "Eswar Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "522310",
+    "phone_number": "+91 98499 49655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9G3M+MVM, 5-19, Road No. 1A, Saroornagar, Bhagat Singh nagar, Sri Venkateshwara Colony, Kothapet, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Bhagat Singh nagar, Sri Venkateshwara Colony, Kothapet",
+    "latitude": 17.353773099999998,
+    "longitude": 78.53479759999999,
+    "place_id": "ChIJQ5zGn5GYyzsRqY4ZOU7DKpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5zGn5GYyzsRqY4ZOU7DKpY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:16:05"
+  }
+]

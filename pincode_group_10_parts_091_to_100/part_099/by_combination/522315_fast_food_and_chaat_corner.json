@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHAWARMA CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522315",
+    "phone_number": "+91 63012 86518",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 203,
+    "address": "Grand Trunk Rd, Main road, Guntur, Andhra Pradesh 522003",
+    "area": "Main road",
+    "latitude": 16.2926984,
+    "longitude": 80.45134,
+    "place_id": "ChIJ13QMTZ2KNToRbFSbWbdAK4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13QMTZ2KNToRbFSbWbdAK4M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:16"
+  },
+  {
+    "business_name": "Pista House Haleem",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522315",
+    "phone_number": "+91 90305 47400",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "H A Complex, Grand Trunk Rd, Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.292712299999998,
+    "longitude": 80.45131479999999,
+    "place_id": "ChIJY-EAuzV1SjoRgEjgR4umni0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-EAuzV1SjoRgEjgR4umni0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:17"
+  }
+]

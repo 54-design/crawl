@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thatha Rao Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "522261",
+    "phone_number": "+91 91777 77296",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Fort Rd, Police Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Police Quarters",
+    "latitude": 16.180065499999998,
+    "longitude": 81.1308375,
+    "place_id": "ChIJNTN1H8bnSToRm7ISNmfQuUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTN1H8bnSToRm7ISNmfQuUk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:48:09"
+  },
+  {
+    "business_name": "Sweets Wholesale",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "522261",
+    "phone_number": "+91 93907 78279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambedkar Nagar, Vijayawada, Undavalli, Andhra Pradesh 522501",
+    "area": "Ambedkar Nagar",
+    "latitude": 16.4856384,
+    "longitude": 80.5857097,
+    "place_id": "ChIJFWlIHTTxNToRFwHz8OuADCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWlIHTTxNToRFwHz8OuADCE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:48:12"
+  }
+]

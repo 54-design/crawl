@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apex Diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "522262",
+    "phone_number": "+91 98499 63860",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "D-No : 12, Ramireddy thota, 11-224, 5th Line, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.298823199999998,
+    "longitude": 80.45482779999999,
+    "place_id": "ChIJRcXRCDx1SjoREmVfF8vUVf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcXRCDx1SjoREmVfF8vUVf8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:51:20"
+  },
+  {
+    "business_name": "Medifine Diagnostic Center | Pathology, Hematology, Full Body Checkup, Blood Test | KPHB, Kukatpally",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Hematologist, Immunologist, Pathologist, Pediatric hematologist",
+    "pincode": "522262",
+    "phone_number": "+91 98489 13646",
+    "website": "https://medifinediagnostics.com/",
+    "rating": 4.8,
+    "reviews_count": 150,
+    "address": "Flat No: 102, Bhanu Pedapudi Towers, Door No: 16-31-483 & 484/102, JNTU Rd, Kukatpally Housing Board Colony, Phase 6, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, Phase 6, K P H B Phase 3, Kukatpally",
+    "latitude": 17.4870285,
+    "longitude": 78.39088579999999,
+    "place_id": "ChIJbeGDHIyRyzsRt8LN6ElA2_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeGDHIyRyzsRt8LN6ElA2_k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:51:21"
+  }
+]

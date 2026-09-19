@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MedPlus SVN Colony",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, General store, Medical supply store, Sports nutrition store, Vitamin & supplements store",
+    "pincode": "522316",
+    "phone_number": "+91 84639 32792",
+    "website": "https://www.medplusmart.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "D No 1, 9/2, Main Rd, SVN Colony, Guntur, Andhra Pradesh 522006",
+    "area": "SVN Colony",
+    "latitude": 16.321466,
+    "longitude": 80.4136711,
+    "place_id": "ChIJoVRGKYGKNToRLzSR8xkGoDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVRGKYGKNToRLzSR8xkGoDQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:25"
+  },
+  {
+    "business_name": "Hetero Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522316",
+    "phone_number": "+91 863 226 6900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No 12-11-133, Old club Road, Ramireddy Thota, 1st Ln, opp. Tulasi Hospital, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.299128,
+    "longitude": 80.45366419999999,
+    "place_id": "ChIJIWopQEt1SjoRYoE8GrK1kYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWopQEt1SjoRYoE8GrK1kYo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:27:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANAND DIAGNOSTICS",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "522309",
+    "phone_number": "+91 95537 72420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5th Line, Main, Road, beside Venkat Homeo Care, Gunturvari Thota, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.2971067,
+    "longitude": 80.45408549999999,
+    "place_id": "ChIJw5hUQdp1SjoRxnPU3LVFpoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5hUQdp1SjoRxnPU3LVFpoQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:12"
+  },
+  {
+    "business_name": "AB Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Diagnostic center",
+    "pincode": "522309",
+    "phone_number": "+91 86472 53253",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 7,
+    "address": "35QC+H2H, Marella Vari Street, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522309",
+    "latitude": 16.0889416,
+    "longitude": 80.1701082,
+    "place_id": "ChIJibTyGmxjSjoR7BS_z52qxqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibTyGmxjSjoR7BS_z52qxqc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:14"
+  }
+]

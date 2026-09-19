@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sweet Magic",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Biryani restaurant, Breakfast restaurant, Sweet shop, Fast food restaurant, Indian restaurant",
+    "pincode": "522259",
+    "phone_number": "+91 84659 26666",
+    "website": "http://www.sweetmagic.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Lakshmipuram Main Rd, opp. Ramachandra Furnitures, Pandaripuram, Guntur, Andhra Pradesh 522007",
+    "area": "Pandaripuram",
+    "latitude": 16.308961999999998,
+    "longitude": 80.4326579,
+    "place_id": "ChIJGV-0gF11SjoRj9LfZw0OVnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGV-0gF11SjoRj9LfZw0OVnI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:45:33"
+  },
+  {
+    "business_name": "City Modern Sweets And Swagruha Foods",
+    "search_category": "Patisserie",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "522259",
+    "phone_number": "+91 92472 97728",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 42,
+    "address": "Center, Gujjanagundla, Guntur, Andhra Pradesh 522006",
+    "area": "Gujjanagundla",
+    "latitude": 16.3218083,
+    "longitude": 80.4136233,
+    "place_id": "ChIJqW9oh2KLNToRzrANPeWFJTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqW9oh2KLNToRzrANPeWFJTk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:45:33"
+  }
+]

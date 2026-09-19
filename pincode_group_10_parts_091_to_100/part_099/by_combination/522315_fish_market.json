@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Talluri Narasimha Rao",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "522315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "2G52+3QR, Itikampadu, Nanduru, Andhra Pradesh 522315",
+    "area": "Itikampadu",
+    "latitude": 16.0077277,
+    "longitude": 80.5018778,
+    "place_id": "ChIJwdGsPQAVSjoRkVHtdMiFLXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdGsPQAVSjoRkVHtdMiFLXA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:08"
+  },
+  {
+    "business_name": "FISH ANDHRA",
+    "search_category": "Fish Market",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "522315",
+    "phone_number": "+91 63013 39636",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ponnur, 15-20, Road, opp. Indian Oil Petrol Bunk, Bapatla, Andhra Pradesh 522124",
+    "area": "522315",
+    "latitude": 16.057170499999998,
+    "longitude": 80.5456863,
+    "place_id": "ChIJffkNPrQRSjoRHyWhvDquaa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffkNPrQRSjoRHyWhvDquaa8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:11"
+  }
+]

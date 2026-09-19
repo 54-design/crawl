@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasantha ENT clinic (EAR, NOSE AND THROAT)",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "522261",
+    "phone_number": "+91 85559 56566",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FIRST FLOOR, Door no, 35-297, Adda road Center NH16, above NETRA EYE CARE, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522261",
+    "latitude": 16.0855581,
+    "longitude": 80.1603964,
+    "place_id": "ChIJ03EueABjSjoR9yRyUQKzoBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03EueABjSjoR9yRyUQKzoBU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:48:47"
+  },
+  {
+    "business_name": "Anwar ENT and SkinClinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522261",
+    "phone_number": "+91 83417 76879",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No 10-3-138, Door, Bapatla, Andhra Pradesh 522101",
+    "area": "13th Ward, Satyannarayana Puram",
+    "latitude": 15.9052742,
+    "longitude": 80.4703914,
+    "place_id": "ChIJBeJA3tw_SjoRfbHBg3hHDIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeJA3tw_SjoRfbHBg3hHDIE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:48:47"
+  }
+]

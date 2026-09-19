@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Liquor Nite restaurant and bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Liquor nite restaurant and bar, Maharshi Dayanand Nagar, Guntur, Andhra Pradesh 522004",
+    "area": "Maharshi Dayanand Nagar",
+    "latitude": 16.293065,
+    "longitude": 80.4200965,
+    "place_id": "ChIJSdP1d-d1SjoR_5JW2GTsBr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdP1d-d1SjoR_5JW2GTsBr0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:50"
+  },
+  {
+    "business_name": "Nine O Nine",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "522268",
+    "phone_number": "+91 91339 09909",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 2426,
+    "address": "Pillar no. 1632, Vaishnavi ONYX 2, 4th Floor, near Victoria memorial metro station, Kothapet, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Kiran Nagar, Doctors Colony, Kothapet",
+    "latitude": 17.360170999999998,
+    "longitude": 78.5439517,
+    "place_id": "ChIJTw0BvhGZyzsRKehnbd1MNyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTw0BvhGZyzsRKehnbd1MNyU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:56:53"
+  }
+]

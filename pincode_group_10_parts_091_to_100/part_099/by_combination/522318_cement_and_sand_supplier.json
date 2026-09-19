@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Building material suppliers",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Sand & gravel supplier",
+    "all_categories": "Sand & gravel supplier",
+    "pincode": "522318",
+    "phone_number": "+91 90321 14475",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ayodhya Nagar, Quthbullapur, Hyderabad, Telangana 500055",
+    "area": "Ayodhya Nagar, Quthbullapur",
+    "latitude": 17.5097599,
+    "longitude": 78.4553155,
+    "place_id": "ChIJiZOljpORyzsRfzFK788Jqx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZOljpORyzsRfzFK788Jqx4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:39"
+  },
+  {
+    "business_name": "SAI VANI RMC PVT LTD SIDDIPET",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Ready mix concrete supplier",
+    "all_categories": "Ready mix concrete supplier",
+    "pincode": "522318",
+    "phone_number": "+91 76750 41010",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "TO, SIRCILLA BYPASS, near Yellama temple, Siddipet, Telangana 502103",
+    "area": "522318",
+    "latitude": 18.1274068,
+    "longitude": 78.84738329999999,
+    "place_id": "ChIJYw_vfubtzDsRcQ7FL69_qR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYw_vfubtzDsRcQ7FL69_qR0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:31:40"
+  }
+]

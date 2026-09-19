@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KM Insurance Planning",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment, Health insurance agency, Insurance agent",
+    "pincode": "522312",
+    "phone_number": "N/A",
+    "website": "http://www.kmbenefits.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "KM Insurance Planning, 522312, India",
+    "area": "522312",
+    "latitude": 36.3509594,
+    "longitude": -100.05183,
+    "place_id": "ChIJ5_eYvuuqb48RyluqUjGOmsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_eYvuuqb48RyluqUjGOmsA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:48"
+  },
+  {
+    "business_name": "SHRI KRISHNA INSURANCE",
+    "search_category": "Insurance Agent",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MAA AASHPUR TIKAT BOOKING, Surana, Chau, Rajasthan 341001",
+    "area": "522312",
+    "latitude": 27.442728799999998,
+    "longitude": 73.8360251,
+    "place_id": "ChIJsUFpDwm5ajkR541EVkgJyuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUFpDwm5ajkR541EVkgJyuQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:49"
+  }
+]

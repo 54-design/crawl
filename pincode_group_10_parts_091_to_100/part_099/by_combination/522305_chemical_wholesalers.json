@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nanda Chemicals Private Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Aquaculture farm",
+    "pincode": "522305",
+    "phone_number": "+91 89780 29928",
+    "website": "https://nandachemicals.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Krishnapatnam Port Road, Survepalle Bit - II, Iskapalem(Sarvepalli Bit - III), Andhra Pradesh 524321",
+    "area": "522305",
+    "latitude": 14.2684298,
+    "longitude": 79.9794371,
+    "place_id": "ChIJTyZR7JDxTDoRO_3ZlPjApOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyZR7JDxTDoRO_3ZlPjApOU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:07:45"
+  },
+  {
+    "business_name": "Vizag Chemical",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "522305",
+    "phone_number": "+91 80 6997 6661",
+    "website": "http://vizagchemical.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Plot No E-33, Pedagantyada, Balcheruvu Road, Vizag Chemical International, Gajuwaka, Andhra Pradesh 530044",
+    "area": "Venkannapalem, Pedagantyada",
+    "latitude": 17.665784,
+    "longitude": 83.2133076,
+    "place_id": "ChIJ0Xr-S5lpOToRH-UBVRnNT9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Xr-S5lpOToRH-UBVRnNT9U",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:07:45"
+  }
+]

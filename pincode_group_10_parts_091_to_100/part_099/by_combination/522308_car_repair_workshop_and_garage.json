@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "522308",
+    "phone_number": "+91 89609 24440",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jhusni Road, Prayagraj, Uttar Pradesh 222143",
+    "area": "522308",
+    "latitude": 25.682274,
+    "longitude": 82.4240387,
+    "place_id": "ChIJ2WVaM-kRkDkRQ7QhkIKn5ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WVaM-kRkDkRQ7QhkIKn5ko",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:12:25"
+  },
+  {
+    "business_name": "SRI LAKSHMI GANESH AUTOMOBILES",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522308",
+    "phone_number": "+91 98850 65955",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Palamaner, Andhra Pradesh 517408",
+    "area": "522308",
+    "latitude": 13.2062523,
+    "longitude": 78.74162319999999,
+    "place_id": "ChIJY8gVCax-rTsRY44jJSrCzwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8gVCax-rTsRY44jJSrCzwY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:12:27"
+  }
+]

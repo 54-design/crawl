@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Athidhi Restaurant AC",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 77,
+    "address": "7JVP+823, Kolakaluru Road, Tenali Mandal, Nandivelugu, Devarapalle Agraharam, Andhra Pradesh 522306",
+    "area": "Tenali Mandal",
+    "latitude": 16.2932553,
+    "longitude": 80.63503299999999,
+    "place_id": "ChIJB0rFQyYHSjoRbhIZ-JMKQzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0rFQyYHSjoRbhIZ-JMKQzE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:10"
+  },
+  {
+    "business_name": "Sri Vijaya Durga Restaurent",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522306",
+    "phone_number": "+91 99494 64547",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kolakaluru, Devarapalle Agraharam, Andhra Pradesh 522306",
+    "area": "522306",
+    "latitude": 16.293778,
+    "longitude": 80.634614,
+    "place_id": "ChIJd4kzWtgHSjoRU2mAa-HyFTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4kzWtgHSjoRU2mAa-HyFTs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:11"
+  }
+]

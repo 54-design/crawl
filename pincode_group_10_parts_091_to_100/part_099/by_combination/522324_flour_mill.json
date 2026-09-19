@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pindi Mara",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "522324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "4RJ8+RQR, Main Rd, Kotipalle, Donepudi, Andhra Pradesh 522257",
+    "area": "Kotipalle",
+    "latitude": 16.1321017,
+    "longitude": 80.8168781,
+    "place_id": "ChIJK-RIauT3SToRq-xtBSfhAy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-RIauT3SToRq-xtBSfhAy8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:32:43"
+  },
+  {
+    "business_name": "Srihari min flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "522324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4RX9+99R, Busstand, beside parallel road, Donepudi, Andhra Pradesh 522324",
+    "area": "522324",
+    "latitude": 16.1484418,
+    "longitude": 80.8184027,
+    "place_id": "ChIJw8wKUgD5SToRHqwkyZbGDNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8wKUgD5SToRHqwkyZbGDNM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:32:43"
+  }
+]

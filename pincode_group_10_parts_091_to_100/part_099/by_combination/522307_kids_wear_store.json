@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guys 'N' Guls",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Chunduru Vari St, Ganganamma Peta, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Ganganamma Peta, Ramalingeswara Pet",
+    "latitude": 16.238949299999998,
+    "longitude": 80.6492372,
+    "place_id": "ChIJO5ZHknYHSjoROcSZ0PBnmU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5ZHknYHSjoROcSZ0PBnmU0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:12"
+  },
+  {
+    "business_name": "Ladi Likes Super Bazar",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "522307",
+    "phone_number": "+91 99125 69012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Market Road, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Ramalingeswara Pet",
+    "latitude": 16.238391099999998,
+    "longitude": 80.6465652,
+    "place_id": "ChIJu_KDDl4HSjoRFxLGwtBRisM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_KDDl4HSjoRFxLGwtBRisM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:10:14"
+  }
+]

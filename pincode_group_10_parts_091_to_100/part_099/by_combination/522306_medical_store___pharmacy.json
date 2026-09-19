@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Generic pharmacy",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "522306",
+    "phone_number": "+91 99123 00061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sri sai vill apartment, Chuttugunta Cir, beside SBI bank, Guntur, Andhra Pradesh 522004",
+    "area": "522306",
+    "latitude": 16.2903931,
+    "longitude": 80.4249701,
+    "place_id": "ChIJWwBSdZZ1SjoRr-Gu1m-3-t4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwBSdZZ1SjoRr-Gu1m-3-t4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:26"
+  },
+  {
+    "business_name": "Pharmacy & cleanic",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "522306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7MRH+4X5, Guntur Rd, Athota, Andhra Pradesh 522306",
+    "area": "522306",
+    "latitude": 16.2902648,
+    "longitude": 80.6799934,
+    "place_id": "ChIJER11_hAHSjoROELSkt0jGA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJER11_hAHSjoROELSkt0jGA8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:08:28"
+  }
+]

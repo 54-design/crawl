@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAILASH FERTILIZERS AND GENERAL STORES",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "522268",
+    "phone_number": "+91 94907 25043",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "nagaram main road, Sajjavaripalem, Allaparru, Andhra Pradesh 522265",
+    "area": "Sajjavaripalem",
+    "latitude": 16.0055486,
+    "longitude": 80.7930444,
+    "place_id": "ChIJveZobdkfSjoRwjQSLrGuoWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveZobdkfSjoRwjQSLrGuoWw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:14"
+  },
+  {
+    "business_name": "Mana Gromor Nagaram",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Repalle Rd, Nagaram, Andhra Pradesh 522268",
+    "area": "522268",
+    "latitude": 16.0041513,
+    "longitude": 80.7247429,
+    "place_id": "ChIJo74Si5wfSjoRlGcFqBGvJ0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo74Si5wfSjoRlGcFqBGvJ0M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:16"
+  }
+]

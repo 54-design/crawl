@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dapper Den",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522309",
+    "phone_number": "+91 70755 73226",
+    "website": "https://www.instagram.com/dapperden_guntur?igsh=MWljYmo5dnpubWVnaA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8CJW+RCV, 1133-148, Mahatma Gandhi Inner Ring Rd, Ravi Nagar, Gorantla, Guntur, Gorantla, Andhra Pradesh 522034",
+    "area": "Ravi Nagar, Gorantla",
+    "latitude": 16.3321208,
+    "longitude": 80.4464058,
+    "place_id": "ChIJYVJLQQCLNToRwXyORLcKpKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVJLQQCLNToRwXyORLcKpKs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:00"
+  },
+  {
+    "business_name": "Sai Fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522309",
+    "phone_number": "+91 99495 26292",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "19-7-73, Opposite Andhra Muslim College, Ponnur Road, &, Guntur -Tenali Rd, Guntur, Andhra Pradesh 522003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.2778511,
+    "longitude": 80.458625,
+    "place_id": "ChIJV4GtGSULSjoR23iZchr3SMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4GtGSULSjoR23iZchr3SMU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:14:00"
+  }
+]

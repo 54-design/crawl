@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijetha Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522305",
+    "phone_number": "+91 89888 56444",
+    "website": "https://vijethahospital.com/",
+    "rating": 4.4,
+    "reviews_count": 44,
+    "address": "Amrutha Hospitals, Old Club Rd, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.2988875,
+    "longitude": 80.4535684,
+    "place_id": "ChIJQThTWrt1SjoR9CUnxvZrEVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQThTWrt1SjoR9CUnxvZrEVc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:37"
+  },
+  {
+    "business_name": "Prabhavathi Multispeciality Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522305",
+    "phone_number": "+91 863 225 0580",
+    "website": "https://medical-store.in/prabha60",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lakshmipuram, Ramanna pet 1, 4, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram",
+    "latitude": 16.311764,
+    "longitude": 80.432029,
+    "place_id": "ChIJt8NasWB1SjoRbq5tDiPfNc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8NasWB1SjoRbq5tDiPfNc8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BB-GUNTUR-SIVA CITY CENTER",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Siva City Center Plot No:26 7th Lane, Ring Rd, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.3161289,
+    "longitude": 80.4243463,
+    "place_id": "ChIJlbqOfWJ1SjoRqadm4w6D4Yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbqOfWJ1SjoRqadm4w6D4Yk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:24"
+  },
+  {
+    "business_name": "Siva City Centre",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Movie theater",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ring Rd, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.3161788,
+    "longitude": 80.42417789999999,
+    "place_id": "ChIJF8jWh2J1SjoRaxl_YGtLTtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8jWh2J1SjoRaxl_YGtLTtI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:58:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HC Automotive",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto parts store, Service establishment",
+    "pincode": "522268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HC Automotive, 522268, India",
+    "area": "522268",
+    "latitude": 53.383399999999995,
+    "longitude": -8.2177501,
+    "place_id": "ChIJu38RyxUSZ0gRGwl58zQdepk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu38RyxUSZ0gRGwl58zQdepk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:57:13"
+  },
+  {
+    "business_name": "7Th Gear Car Care Center",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "522268",
+    "phone_number": "+91 77022 16999",
+    "website": "http://www.7thgears.com/",
+    "rating": 4.1,
+    "reviews_count": 33,
+    "address": "7Th Gear Car Care Center, 522268, India",
+    "area": "522268",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJCdy8bWSRyzsR-VwE5EapYAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdy8bWSRyzsR-VwE5EapYAY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:57:14"
+  }
+]

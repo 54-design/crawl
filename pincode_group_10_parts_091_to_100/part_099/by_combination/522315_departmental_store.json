@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SYED KHARIMULLA GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522315",
+    "phone_number": "+91 63057 81326",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "5-11, near Water Tank, Itikampadu, Guntur, Upparapalem, Andhra Pradesh 522124",
+    "area": "Itikampadu",
+    "latitude": 16.0727337,
+    "longitude": 80.5264333,
+    "place_id": "ChIJu8DM54ITSjoRsPh6J4Hs9t4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8DM54ITSjoRsPh6J4Hs9t4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:04"
+  },
+  {
+    "business_name": "DUNDI GANAPATHI GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522315",
+    "phone_number": "+91 94934 42031",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-3, near Rail Gate, Machavaram, Guntur, Mulukuduru, Andhra Pradesh 522315",
+    "area": "Machavaram",
+    "latitude": 16.023452499999998,
+    "longitude": 80.54034399999999,
+    "place_id": "ChIJgyMiByAVSjoRoprmJLAZcxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyMiByAVSjoRoprmJLAZcxA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:25:04"
+  }
+]

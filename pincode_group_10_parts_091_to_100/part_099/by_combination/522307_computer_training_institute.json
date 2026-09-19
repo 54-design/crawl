@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMPUTER ACADEMY",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "522307",
+    "phone_number": "+91 90303 05550",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "1st floor, KKR Complex, D.No 7-5-56, Prakasam Rd, opp. to ASN College, Ganganamma Peta, Ithanagar, Tenali, Andhra Pradesh 522201",
+    "area": "Ganganamma Peta, Ithanagar",
+    "latitude": 16.243406,
+    "longitude": 80.648619,
+    "place_id": "ChIJcwAAABQGSjoRCKzTMGOsUOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwAAABQGSjoRCKzTMGOsUOs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:11:09"
+  },
+  {
+    "business_name": "Comp-U-Learn",
+    "search_category": "Computer Training Institute",
+    "primary_category": "After school program",
+    "all_categories": "After school program, School",
+    "pincode": "522307",
+    "phone_number": "+91 99894 30375",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "7-13-61, Ganganamma Peta, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Ganganamma Peta, Ramalingeswara Pet",
+    "latitude": 16.242665,
+    "longitude": 80.644437,
+    "place_id": "ChIJQWG4hA8GSjoRxv0itb7ijbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWG4hA8GSjoRxv0itb7ijbY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:11:12"
+  }
+]

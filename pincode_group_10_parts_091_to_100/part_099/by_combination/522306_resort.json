@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunbay Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "522306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A3, Bapatla - Pandurangapuram Rd, Maddiboinavaripalem, Bapatla, Andhra Pradesh 522102",
+    "area": "Maddiboinavaripalem",
+    "latitude": 15.877391,
+    "longitude": 80.51963599999999,
+    "place_id": "ChIJITq5R8A-SjoR9vwixiTSDyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITq5R8A-SjoR9vwixiTSDyU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:09"
+  },
+  {
+    "business_name": "Beach Wind Home stay",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "522306",
+    "phone_number": "+91 89775 28337",
+    "website": "https://beachwindhomestay.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ramapuram Beach Rd, Kotha Peta Rural, Chirala, Andhra Pradesh 523157",
+    "area": "522306",
+    "latitude": 15.782569899999999,
+    "longitude": 80.3789963,
+    "place_id": "ChIJP7MuSghHSjoR5f5aCnwUHGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7MuSghHSjoR5f5aCnwUHGg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:12"
+  }
+]

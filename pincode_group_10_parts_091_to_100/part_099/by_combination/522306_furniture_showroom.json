@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "522306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9TH LINE, 227-A, Auto Nagar Rd, Autonagar, Katevaram, Andhra Pradesh 522202",
+    "area": "Autonagar",
+    "latitude": 16.2705809,
+    "longitude": 80.6440265,
+    "place_id": "ChIJW1AEdwAHSjoR5RPP2Hna5C4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1AEdwAHSjoR5RPP2Hna5C4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:00"
+  },
+  {
+    "business_name": "Lords Villa",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "522306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Guntur Rd, Chivaluru, Andhra Pradesh 522304",
+    "area": "522306",
+    "latitude": 16.2836082,
+    "longitude": 80.71441279999999,
+    "place_id": "ChIJkZLP9xAHSjoR_JCmrgct0XU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZLP9xAHSjoR_JCmrgct0XU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:09:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "522265",
+    "phone_number": "+91 97008 55208",
+    "website": "https://mahesh-paints.onrender.com/",
+    "rating": 4.9,
+    "reviews_count": 286,
+    "address": "Shop Number 114-115, NTR Stadium, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4331231,
+    "longitude": 80.99562449999999,
+    "place_id": "ChIJPQp8UWQdNjoREgKLNtRGZbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQp8UWQdNjoREgKLNtRGZbE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:33"
+  },
+  {
+    "business_name": "Durga paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "522265",
+    "phone_number": "+91 74164 46780",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 70,
+    "address": "Mudda Subbaiah St, Near Swarnalokh Complex, Apsara Center, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near Swarnalokh Complex, Apsara Center, Governor Peta",
+    "latitude": 16.513103,
+    "longitude": 80.62645499999999,
+    "place_id": "ChIJ85pVzA3vNToRjcrij2w-tEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85pVzA3vNToRjcrij2w-tEw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:33"
+  }
+]

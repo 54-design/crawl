@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Emma Joy The Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment, Event management company, Event planner, Party planner, Wedding service",
+    "pincode": "522312",
+    "phone_number": "07709 871999",
+    "website": "http://www.emmajoytheweddingplanner.co.uk/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Emma Joy The Wedding Planner, 522312, India",
+    "area": "522312",
+    "latitude": 51.4372324,
+    "longitude": -1.1726128,
+    "place_id": "ChIJqyJ6EBMLdkgR23uHV9cbW9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyJ6EBMLdkgR23uHV9cbW9w",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:25"
+  },
+  {
+    "business_name": "Momento Events Pvt. Ltd.",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment, Event management company, Wedding photographer",
+    "pincode": "522312",
+    "phone_number": "+91 89610 44790",
+    "website": "http://fb.me/momentoeventspvtltd",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "Momento Events Pvt. Ltd., 522312, India",
+    "area": "522312",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJJZMASNed-DkRCQ7rBCS2t3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZMASNed-DkRCQ7rBCS2t3Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:20:29"
+  }
+]

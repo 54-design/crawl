@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suda Anjaneyulu",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522318",
+    "phone_number": "+91 97038 93884",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Manchala, Andhra Pradesh 522212",
+    "area": "522318",
+    "latitude": 16.1655722,
+    "longitude": 80.5386118,
+    "place_id": "ChIJ47eVWdkNSjoRg6k6uL19oMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47eVWdkNSjoRg6k6uL19oMI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:30:47"
+  },
+  {
+    "business_name": "ANNAPURNA WHOLESALE",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522318",
+    "phone_number": "+91 63006 67424",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Reddypalem, Guntur, Andhra Pradesh 522509",
+    "area": "Reddypalem",
+    "latitude": 16.326978699999998,
+    "longitude": 80.45452879999999,
+    "place_id": "ChIJsyCYYjqLNToRNEON9EelmfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyCYYjqLNToRNEON9EelmfY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:30:49"
+  }
+]

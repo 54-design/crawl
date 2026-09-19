@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Shirts",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522305",
+    "phone_number": "+91 92902 46373",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Besant Rd, beside Bombay dyeing, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5121294,
+    "longitude": 80.6267496,
+    "place_id": "ChIJhfPGOt_xNToRUfxbd5d1930",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfPGOt_xNToRUfxbd5d1930",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:22"
+  },
+  {
+    "business_name": "Mens Central",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Youth clothing store",
+    "pincode": "522305",
+    "phone_number": "+91 866 664 4430",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Besant Rd, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5116965,
+    "longitude": 80.6266801,
+    "place_id": "ChIJaSzY2SPxNToRInsfaE_JDk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSzY2SPxNToRInsfaE_JDk8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:06:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Trade Show Company",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "522312",
+    "phone_number": "+91 86887 30455",
+    "website": "http://thetradeshowcompany.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "104, Aparna Green Homes, near, Nehru Outer Ring Rd, Telecom Nagar, Gachibowli, Nanakramguda, Hyderabad, Telangana 500032",
+    "area": "Telecom Nagar, Gachibowli",
+    "latitude": 17.4384109,
+    "longitude": 78.36367179999999,
+    "place_id": "ChIJs7w-feuTyzsRTVvcPjEo10I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7w-feuTyzsRTVvcPjEo10I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:06"
+  },
+  {
+    "business_name": "TRADE EXPOSITION - Exhibition Stall Designer",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner, Design agency, Stall installation service",
+    "pincode": "522312",
+    "phone_number": "+91 79 4032 2161",
+    "website": "http://www.trade-exposition.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Trade Expo House C-32 Arvind Mega Park, Parikh Packaging Lane Vasna Chancharvadi Road, Moraiya, Gujarat 382213",
+    "area": "522312",
+    "latitude": 22.891551999999997,
+    "longitude": 72.4319217,
+    "place_id": "ChIJgRnSONeEXjkR-_A_6y6mRzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRnSONeEXjkR-_A_6y6mRzw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:21:06"
+  }
+]

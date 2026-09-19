@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raptor Sports Zone",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports school",
+    "all_categories": "Sports school, Cricket ground, Playground",
+    "pincode": "522325",
+    "phone_number": "+91 96420 47047",
+    "website": "https://playo.co/venues/kothapet/raptor-sports-zone-kothapet-hyderabad",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gayatripuram, Road, 3, Commercial Tax Colony, Kishanbag, Maruthi Nagar, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Kishanbag, Maruthi Nagar, Kothapet",
+    "latitude": 17.3730786,
+    "longitude": 78.5454336,
+    "place_id": "ChIJzfrmcFmZyzsRMSdgUD3z7x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfrmcFmZyzsRMSdgUD3z7x0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:54"
+  },
+  {
+    "business_name": "THE DRIBBLE ARENA",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Athletic field",
+    "all_categories": "Athletic field, Cafe, Cricket club, Football club, American football field, Playground, Soccer field",
+    "pincode": "522325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 55,
+    "address": "Pillar Number 118, Mcube Mall, Attapur Main Rd, Somi Reddy Nagar, Hyderabad, Telangana 500048",
+    "area": "Somi Reddy Nagar",
+    "latitude": 17.3717547,
+    "longitude": 78.4298633,
+    "place_id": "ChIJt6MVCvuXyzsRgm_xj3CSS7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6MVCvuXyzsRgm_xj3CSS7s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:35:55"
+  }
+]

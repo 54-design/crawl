@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siva Fasteners",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier",
+    "pincode": "522318",
+    "phone_number": "+91 90002 77977",
+    "website": "http://www.sivafasteners.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, IE, 5-5-35/40/1, Prashant Nagar, Prashanti Nagar, IDA Kukatpally, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Prashant Nagar, Prashanti Nagar, IDA Kukatpally, Kukatpally",
+    "latitude": 17.477660999999998,
+    "longitude": 78.4244032,
+    "place_id": "ChIJpyULequRyzsRcRrQ5hxWyNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyULequRyzsRcRrQ5hxWyNo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:32:26"
+  },
+  {
+    "business_name": "Navodhaya Industries",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier, Machine workshop, Machinery parts manufacturer",
+    "pincode": "522318",
+    "phone_number": "+91 94431 74471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "S.F. No: 429, 6th Cross, V.K. Road Thaneer Pandal, Post, Peelamedu, Coimbatore, Tamil Nadu 641004",
+    "area": "Peelamedu, B.R. Puram Industrial Estate",
+    "latitude": 11.0336003,
+    "longitude": 77.0189843,
+    "place_id": "ChIJT55JO2pmUjoRwxGxx-qTvLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT55JO2pmUjoRwxGxx-qTvLY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:32:28"
+  }
+]

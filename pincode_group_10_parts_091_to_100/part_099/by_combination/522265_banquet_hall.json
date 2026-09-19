@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KSR Residency & Function hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "522265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "2R9G+7XF, 10th Ward, Repalle, Andhra Pradesh 522265",
+    "area": "10th Ward",
+    "latitude": 16.0181942,
+    "longitude": 80.8274081,
+    "place_id": "ChIJR7FQkSj1SToR_2PYXM9L8vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7FQkSj1SToR_2PYXM9L8vg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:49"
+  },
+  {
+    "business_name": "A convention",
+    "search_category": "Banquet Hall",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "522265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2WGR+9P, Kothapeta, Modumudi, Andhra Pradesh 521122",
+    "area": "Kothapeta",
+    "latitude": 16.0254264,
+    "longitude": 80.94189519999999,
+    "place_id": "ChIJ91GTTQDzSToRlo16LtE-lxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91GTTQDzSToRlo16LtE-lxY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 08:55:50"
+  }
+]
