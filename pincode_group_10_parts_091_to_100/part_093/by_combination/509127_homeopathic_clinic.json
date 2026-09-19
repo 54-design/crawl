@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hamsa Homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Health consultant",
+    "pincode": "509127",
+    "phone_number": "+91 89777 91101",
+    "website": "http://www.hamsahomeopathy.com/",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "1-5-880, near Jain Mandir, Maruthi Nagar, Kothapet, Hyderabad, Telangana 500035",
+    "area": "Maruthi Nagar, Kothapet",
+    "latitude": 17.3741594,
+    "longitude": 78.53967659999999,
+    "place_id": "ChIJg5GsOeaYyzsRrIJbV1NfFbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5GsOeaYyzsRrIJbV1NfFbU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:00:59"
+  },
+  {
+    "business_name": "Sparsh Clinic for Advanced Homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Doctor, Hospital, Medical clinic",
+    "pincode": "509127",
+    "phone_number": "+91 99893 32124",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "C R R, 6-1-103/21, F Rd, Abhinav Colony, Walker Town, Padmarao Nagar, Secunderabad, Hyderabad, Telangana 500025",
+    "area": "Abhinav Colony, Walker Town, Padmarao Nagar",
+    "latitude": 17.421599999999998,
+    "longitude": 78.5049272,
+    "place_id": "ChIJdcSuxkOZyzsRXDuFIJFSxgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcSuxkOZyzsRXDuFIJFSxgA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:01:00"
+  }
+]

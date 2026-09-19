@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ACE POLYCLINIC (OLD ALWAL)",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Diagnostic center, Doctor, Medical Center, Pharmacy",
+    "pincode": "509133",
+    "phone_number": "+91 63032 06043",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 90,
+    "address": "Plot no: 267, H.NO.1, 5-559, Old Alwal Rd, opposite The Lounge, Chetana Housing Colony, Secunderabad, Telangana 500010",
+    "area": "Chetana Housing Colony, Bolarum",
+    "latitude": 17.5181058,
+    "longitude": 78.501268,
+    "place_id": "ChIJg5mOVL2byzsRtQed8x0zfIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5mOVL2byzsRtQed8x0zfIY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:11:03"
+  },
+  {
+    "business_name": "Anirudh Policlinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "509133",
+    "phone_number": "+91 99850 08106",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Belo Afterburn Gym, Sai baba nagar,Old Alwal, Secenderabad, Hyderabad, Telangana 500010",
+    "area": "Father Balaiah Nagar, Alwal",
+    "latitude": 17.5067979,
+    "longitude": 78.4965364,
+    "place_id": "ChIJHbVf1oabyzsRzRN8Bxrcd6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbVf1oabyzsRzRN8Bxrcd6w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:11:03"
+  }
+]

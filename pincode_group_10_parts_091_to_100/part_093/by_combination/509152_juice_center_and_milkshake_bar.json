@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "All Juice Shakes and Vegetables Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "509152",
+    "phone_number": "+91 88602 21041",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Block 38, DIZ Area Sec 4Staff Quarters, Connaught Place, New Delhi, Delhi 110001",
+    "area": "DIZ Staff Quarters, Connaught Place",
+    "latitude": 28.6325333,
+    "longitude": 77.2092188,
+    "place_id": "ChIJMVtvDE_9DDkRMcST9mPsEGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVtvDE_9DDkRMcST9mPsEGA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:14:09"
+  },
+  {
+    "business_name": "Riya's Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "509152",
+    "phone_number": "+91 82106 98515",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 01, Raj Tower, near Muscle Park Gym, Indrapuri C sector, Sector C, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Indrapuri C sector, Sector C, Indrapuri",
+    "latitude": 23.251330499999998,
+    "longitude": 77.46556489999999,
+    "place_id": "ChIJJwPtTxBDfDkRkeuL7IlVMjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwPtTxBDfDkRkeuL7IlVMjM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:14:10"
+  }
+]

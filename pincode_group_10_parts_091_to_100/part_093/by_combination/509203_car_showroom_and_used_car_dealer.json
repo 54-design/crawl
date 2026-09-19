@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Select cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "509203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Uyyalawada, Telangana 509209",
+    "area": "509203",
+    "latitude": 16.5006857,
+    "longitude": 78.2892842,
+    "place_id": "ChIJryv1eWQVyjsR4RckBtzruvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryv1eWQVyjsR4RckBtzruvE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:21:19"
+  },
+  {
+    "business_name": "Metro Honda",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Dent Removal Service Station, Auto repair shop, Auto Accessories Store, Honda dealer",
+    "pincode": "509203",
+    "phone_number": "+91 86575 88957",
+    "website": "https://dealer.hondacarindia.com/metro-honda-vsn-automobiles-pvt-ltd-car-dealer-bowenpally-secunderabad-67270/Home",
+    "rating": 4.6,
+    "reviews_count": 4076,
+    "address": "Sy No 33 NH 7, near Checkpost, Bowenpally, Hyderabad, Telangana 500011",
+    "area": "Sri Sai Enclave, Bowenpally",
+    "latitude": 17.4793493,
+    "longitude": 78.4737837,
+    "place_id": "ChIJDwAwSn-QyzsRWGKui2NUb5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwAwSn-QyzsRWGKui2NUb5w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:21:23"
+  }
+]

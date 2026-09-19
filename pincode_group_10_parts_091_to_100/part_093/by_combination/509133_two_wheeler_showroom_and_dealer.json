@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kabra Motors",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "509133",
+    "phone_number": "+91 92652 20036",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SHOP NO - LG-3, Ring Rd, near Trade House, beside 24 CARAT SWEET, Maan Darwaja, New Textile Market, Surat, Gujarat 395002",
+    "area": "Maan Darwaja, New Textile Market",
+    "latitude": 21.184751,
+    "longitude": 72.8351176,
+    "place_id": "ChIJ-zW6skVO4DsRU_QpCaSzyIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zW6skVO4DsRU_QpCaSzyIM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:11:10"
+  },
+  {
+    "business_name": "Kushal Honda",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Auto parts store, Helmet Shop, Honda dealer",
+    "pincode": "509133",
+    "phone_number": "+91 70135 95717",
+    "website": "https://www.kushalhonda.com/",
+    "rating": 4.5,
+    "reviews_count": 1212,
+    "address": "Main Road, Telangana, Raghavendra Colony, Nalgonda, Telangana 508001",
+    "area": "Raghavendra Colony",
+    "latitude": 17.074660599999998,
+    "longitude": 79.2617155,
+    "place_id": "ChIJ77ehARYpyzsRnsx938NDMZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77ehARYpyzsRnsx938NDMZY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:11:11"
+  }
+]

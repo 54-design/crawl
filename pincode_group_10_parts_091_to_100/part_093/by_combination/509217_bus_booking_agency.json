@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MorningStar Travels Depot",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus charter",
+    "all_categories": "Bus charter",
+    "pincode": "509217",
+    "phone_number": "N/A",
+    "website": "http://morningstartravels.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Star Travels Garage, Morning, opp. Sangeetha Theatre, Sai Nagar Colony, Ramachandrapuram, Hyderabad, Telangana 502032",
+    "area": "Sai Nagar Colony",
+    "latitude": 17.5153689,
+    "longitude": 78.2865336,
+    "place_id": "ChIJB7qnfKqSyzsRapGZWev9Q8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7qnfKqSyzsRapGZWev9Q8w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:37:48"
+  },
+  {
+    "business_name": "Mr travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "509217",
+    "phone_number": "+91 87900 68855",
+    "website": "https://mrtravelsindia.com/",
+    "rating": 3.3,
+    "reviews_count": 352,
+    "address": "Shop No.2-4-1113/46, opposite Kumar Theatre, Kachiguda, Hyderabad, Telangana 500027",
+    "area": "Railway Quarters, Kachiguda",
+    "latitude": 17.387940399999998,
+    "longitude": 78.49613409999999,
+    "place_id": "ChIJja6au8mZyzsRlxP2uxSX7Is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJja6au8mZyzsRlxP2uxSX7Is",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:37:50"
+  }
+]

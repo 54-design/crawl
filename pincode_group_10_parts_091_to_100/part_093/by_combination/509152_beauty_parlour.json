@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PINKS N BLOOS family Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "509152",
+    "phone_number": "+91 98662 41590",
+    "website": "http://www.pinksnbloos.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Srinivas Nagar, main road, Prakash Nagar, Kurnool, Andhra Pradesh 518004",
+    "area": "Prakash Nagar",
+    "latitude": 15.8390978,
+    "longitude": 78.0389505,
+    "place_id": "ChIJzYlUeVfntTsRgyF70DZdaaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYlUeVfntTsRgyF70DZdaaI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:14:53"
+  },
+  {
+    "business_name": "Alankarana Beauty Studio and Academy",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "509152",
+    "phone_number": "+91 70321 82117",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No.10, Ucon Legend, Bangarpet Rd, opp. Anand theatre, Bangar Pet, Kurnool, Andhra Pradesh 518004",
+    "area": "Bangar Pet",
+    "latitude": 15.826198699999999,
+    "longitude": 78.0339381,
+    "place_id": "ChIJzWQaJgDntTsRm4YaJ-nB4a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWQaJgDntTsRm4YaJ-nB4a8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:14:54"
+  }
+]

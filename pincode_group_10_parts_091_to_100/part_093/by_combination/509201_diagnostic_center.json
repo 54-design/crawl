@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MedX Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "509201",
+    "phone_number": "N/A",
+    "website": "https://hnassociates.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Zaheerabad Main Rd, Dattagiri Colony, Zaheerabad, Telangana 502220",
+    "area": "Dattagiri Colony",
+    "latitude": 17.681036799999998,
+    "longitude": 77.6184442,
+    "place_id": "ChIJdRLjvZ61zjsRnVaot-k3opk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRLjvZ61zjsRnVaot-k3opk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:17:53"
+  },
+  {
+    "business_name": "Shree Ganesh Digital Xray Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "509201",
+    "phone_number": "+91 88854 98797",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mlc Fareed complex, 1/23, Subhash Gunj, Zaheerabad, Telangana 502220",
+    "area": "Subhash Gunj",
+    "latitude": 17.6800581,
+    "longitude": 77.611649,
+    "place_id": "ChIJD1GK_FC1zjsR0bZHkYQ3WpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1GK_FC1zjsR0bZHkYQ3WpI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:17:53"
+  }
+]

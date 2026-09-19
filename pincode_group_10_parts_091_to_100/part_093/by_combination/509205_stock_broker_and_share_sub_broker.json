@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stocks & Securities (Bangalore) Pvt. Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "509205",
+    "phone_number": "+91 80 2554 8913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "219, Kamaraj Rd, Bangalore Urban, Bengaluru, Karnataka 560042",
+    "area": "Bangalore Urban",
+    "latitude": 12.985978099999999,
+    "longitude": 77.6119587,
+    "place_id": "ChIJvc8-wosWrjsRDhcht3beTLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvc8-wosWrjsRDhcht3beTLo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:14"
+  },
+  {
+    "business_name": "Tarun Capital & Investor Services",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial planner",
+    "pincode": "509205",
+    "phone_number": "+91 72620 01122",
+    "website": "http://www.taruncapital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tardeo AC Market, Dadasaheb Vichare Rd, Janata Nagar, Tardeo, Mumbai, Maharashtra 400034",
+    "area": "Janata Nagar, Tardeo",
+    "latitude": 18.972807,
+    "longitude": 72.81396699999999,
+    "place_id": "ChIJ73KLOj3J5zsRIMCmw2Zu8NA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73KLOj3J5zsRIMCmw2Zu8NA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:15"
+  }
+]

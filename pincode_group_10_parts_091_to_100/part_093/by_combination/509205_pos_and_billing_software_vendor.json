@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TSS Software Pvt. Ltd.",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "509205",
+    "phone_number": "+91 98921 42731",
+    "website": "https://www.tsssoftware.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No.3, Lokhandwala Complex Market, Lokhandwala, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Lokhandwala, Lokhandwala Complex, Andheri West",
+    "latitude": 19.144913499999998,
+    "longitude": 72.82380669999999,
+    "place_id": "ChIJjatZ0xS35zsRa5C83WeiRgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjatZ0xS35zsRa5C83WeiRgU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:09"
+  },
+  {
+    "business_name": "Dbest Software",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer security service, Web hosting company, Website designer",
+    "pincode": "509205",
+    "phone_number": "+91 85888 72531",
+    "website": "https://www.dbest.co.in/",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "Netaji Subash Palace, Netaji Subhash Place, Pitampura, New Delhi, Delhi, 110034",
+    "area": "Netaji Subhash Place, Pitampura",
+    "latitude": 28.6941414,
+    "longitude": 77.15013119999999,
+    "place_id": "ChIJe6iPKX0CDTkRFKiDQBnuxBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6iPKX0CDTkRFKiDQBnuxBA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:09"
+  }
+]

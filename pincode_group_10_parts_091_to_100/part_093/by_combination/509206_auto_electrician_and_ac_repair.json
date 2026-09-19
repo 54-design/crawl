@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Thirumala Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Auto repair shop",
+    "pincode": "509206",
+    "phone_number": "+91 97037 17645",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sripuram Road, Nagarkurnool, Telangana 509209",
+    "area": "509206",
+    "latitude": 16.4852334,
+    "longitude": 78.3171394,
+    "place_id": "ChIJ00rqaZBtyjsRlhGtTfCkUaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00rqaZBtyjsRlhGtTfCkUaM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:11"
+  },
+  {
+    "business_name": "Friends Enterprises & Engineering Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "509206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "93JG+W6Q, Chityala, Telangana 509106",
+    "area": "509206",
+    "latitude": 16.383272899999998,
+    "longitude": 78.0749476,
+    "place_id": "ChIJX8BvUAAbyjsRK2BwdIwpbkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8BvUAAbyjsRK2BwdIwpbkY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:12"
+  }
+]

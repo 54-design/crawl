@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Batteries",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Store",
+    "pincode": "509216",
+    "phone_number": "+91 98485 53424",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop 1, Shadnagar, Telangana 509216",
+    "area": "509216",
+    "latitude": 17.0654573,
+    "longitude": 78.205016,
+    "place_id": "ChIJs5FDVTTJyzsRcyibz2dERrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5FDVTTJyzsRcyibz2dERrU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:36:00"
+  },
+  {
+    "business_name": "Massimo Batteries",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Manufacturer",
+    "all_categories": "Battery Manufacturer",
+    "pincode": "509216",
+    "phone_number": "+91 1800 120 5676",
+    "website": "http://massimobatteries.com/",
+    "rating": 4.8,
+    "reviews_count": 635,
+    "address": "Plot no 24, Kothur IDA KOTHUR V & M, Telangana 509228",
+    "area": "509216",
+    "latitude": 17.147398499999998,
+    "longitude": 78.2866018,
+    "place_id": "ChIJTUTZFOHHyzsR995Q510_eqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUTZFOHHyzsR995Q510_eqE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:36:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Famous Designer",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Banner store",
+    "all_categories": "Banner store, Advertising agency, Printing equipment supplier, Design agency, Digital printing service, Event planner, Offset Printer, Print shop, Sign shop",
+    "pincode": "509131",
+    "phone_number": "+91 91604 33122",
+    "website": "https://www.thefamousdesigner.com/",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "THE FAMOUS DESIGNER, Bandlaguda Rd, Dastagirnagar, Hashamabad, Chandrayangutta, Hyderabad, Telangana 500005",
+    "area": "Dastagirnagar, Hashamabad, Chandrayangutta",
+    "latitude": 17.3234948,
+    "longitude": 78.471049,
+    "place_id": "ChIJtz5v4NS9yzsR6AymlE__ZXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtz5v4NS9yzsR6AymlE__ZXc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:08:25"
+  },
+  {
+    "business_name": "Digital Flex Printing",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "509131",
+    "phone_number": "+91 90002 07413",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "2-22-93/1, Vijaya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vijaya Nagar Colony, Kukatpally",
+    "latitude": 17.498089999999998,
+    "longitude": 78.409633,
+    "place_id": "ChIJk7eJnsGRyzsR7TPtH-AX9Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7eJnsGRyzsR7TPtH-AX9Zc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:08:27"
+  }
+]

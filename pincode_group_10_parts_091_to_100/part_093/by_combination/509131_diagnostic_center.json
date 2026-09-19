@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR LAB",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "509131",
+    "phone_number": "+91 94410 62551",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near gandhi chowk, Atmakur, Telangana 509131",
+    "area": "509131",
+    "latitude": 16.3393565,
+    "longitude": 77.8069548,
+    "place_id": "ChIJYQRUYpL7yTsRQ7ycdiiqvec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQRUYpL7yTsRQ7ycdiiqvec",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:41"
+  },
+  {
+    "business_name": "Apollo Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "509131",
+    "phone_number": "+91 93461 74485",
+    "website": "https://www.apollodiagnostics.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No 7, Opp Dr BramhaReddy Praja Vydyashala, MV Raman School Road, Atmakur, Telangana 509131",
+    "area": "509131",
+    "latitude": 16.341490099999998,
+    "longitude": 77.7985937,
+    "place_id": "ChIJ44nqwaH7yTsRrrP-ud4bbdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44nqwaH7yTsRrrP-ud4bbdM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:41"
+  }
+]

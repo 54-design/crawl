@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Potential Tuition Point",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service",
+    "pincode": "509206",
+    "phone_number": "+91 85558 32585",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "flat no 202. plot no 78, MIG2, Kukatpally Housing Board Colony, K P H B Phase 9, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 9, Kukatpally",
+    "latitude": 17.4861301,
+    "longitude": 78.382697,
+    "place_id": "ChIJ90z066iRyzsRPUuv3ge05fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90z066iRyzsRPUuv3ge05fg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:43"
+  },
+  {
+    "business_name": "Tagore study hall",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "509206",
+    "phone_number": "N/A",
+    "website": "http://www.tagorestudyhall.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Hp gas office road, Nallavelly Rd, Nagarkurnool, Telangana 509209",
+    "area": "509206",
+    "latitude": 16.485813099999998,
+    "longitude": 78.31214539999999,
+    "place_id": "ChIJs1XialxtyjsR848_TybyfFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1XialxtyjsR848_TybyfFg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:44"
+  }
+]

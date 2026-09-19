@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vennela family restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant",
+    "pincode": "509125",
+    "phone_number": "+91 93903 33939",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 1194,
+    "address": "Housing Board Colony, Gadwal, Telangana 509125",
+    "area": "Housing Board Colony",
+    "latitude": 16.2403965,
+    "longitude": 77.8086969,
+    "place_id": "ChIJE7JiEUb8yTsRfkG3yGd6Nfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7JiEUb8yTsRfkG3yGd6Nfk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:18"
+  },
+  {
+    "business_name": "Paradise Function Hall",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "509125",
+    "phone_number": "+91 95151 96600",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 682,
+    "address": "Lingham Bagh Colony, Nallakunta, Gadwal, Telangana 509125",
+    "area": "Lingham Bagh Colony, Nallakunta",
+    "latitude": 16.231759,
+    "longitude": 77.80091999999999,
+    "place_id": "ChIJn9cNQFL8yTsRcVDuMc03ybw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9cNQFL8yTsRcVDuMc03ybw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:20"
+  }
+]

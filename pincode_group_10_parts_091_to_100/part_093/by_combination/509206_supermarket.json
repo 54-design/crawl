@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAYA LAKSHMI KIRANAM AND GENERAL STORES",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "509206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kollapur Rd, Deshitkyal, Telangana 509209",
+    "area": "509206",
+    "latitude": 16.468946,
+    "longitude": 78.3494647,
+    "place_id": "ChIJy0wUUXxtyjsRw2Q0HcPiy-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0wUUXxtyjsRw2Q0HcPiy-g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:34"
+  },
+  {
+    "business_name": "Gollapally, Rachabanda",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "509206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Gollapally Rd, Gollapally, Telangana 509206",
+    "area": "509206",
+    "latitude": 16.350082999999998,
+    "longitude": 78.21734579999999,
+    "place_id": "ChIJKfOSUOANyjsRlFcmY8YHsP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfOSUOANyjsRlFcmY8YHsP0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:34"
+  }
+]

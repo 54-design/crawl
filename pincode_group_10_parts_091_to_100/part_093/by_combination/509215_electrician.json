@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrical appliance wholesaler",
+    "all_categories": "Electrical appliance wholesaler, Electrical installation service, Lighting store",
+    "pincode": "509215",
+    "phone_number": "+91 99637 14030",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 29,
+    "address": "Rashtrapati Rd, near Kings way circle, General Bazaar, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "General Bazaar, Kalasiguda",
+    "latitude": 17.4358109,
+    "longitude": 78.49362049999999,
+    "place_id": "ChIJ01kstR6ayzsRmBwRKYr53g4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01kstR6ayzsRmBwRKYr53g4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:32"
+  },
+  {
+    "business_name": "manikanta Hardware",
+    "search_category": "Electrician",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "509215",
+    "phone_number": "+91 96663 50714",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "manikanta electrical hardware, Shivaji chauk, Shadnagar, Telangana 509216",
+    "area": "509215",
+    "latitude": 17.0294848,
+    "longitude": 78.2362225,
+    "place_id": "ChIJzdFacgPLyzsRLYppwYAE0V0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdFacgPLyzsRLYppwYAE0V0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:32"
+  }
+]

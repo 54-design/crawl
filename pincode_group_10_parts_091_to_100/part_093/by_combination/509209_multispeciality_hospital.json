@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veena Multi-speciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509209",
+    "phone_number": "+91 93919 19330",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "H.no 13-115, opp. Maangalya shopping mall, Kranti Nagar Colony, Nagarkurnool, Telangana 509209",
+    "area": "Kranti Nagar Colony",
+    "latitude": 16.4914944,
+    "longitude": 78.304611,
+    "place_id": "ChIJy5ZVRgBryjsRljY-kZnfW4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5ZVRgBryjsRljY-kZnfW4Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:30:53"
+  },
+  {
+    "business_name": "Sri Srikara Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509209",
+    "phone_number": "+91 81218 45811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagarkurnool - Gatturavipakula Rd, Telephone Exchange St, opposite BSNL, Nagarkurnool, Telangana 509209",
+    "area": "509209",
+    "latitude": 16.4918952,
+    "longitude": 78.3037509,
+    "place_id": "ChIJtzjlkYdryjsRF-B53ULpKKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzjlkYdryjsRF-B53ULpKKs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:30:53"
+  }
+]

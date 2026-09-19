@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant",
+    "pincode": "509217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "648M+QR5, Polaram, Pothugal, Telangana 509217",
+    "area": "509217",
+    "latitude": 17.216898699999998,
+    "longitude": 78.1346101,
+    "place_id": "ChIJb696DwDFyzsRJhzscGIDlh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb696DwDFyzsRJhzscGIDlh4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:37:18"
+  },
+  {
+    "business_name": "MALNADU KITCHEN - Taste of Telangana",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant, Bar & grill, Extended stay hotel, Fine dining restaurant, Hotel, Indian restaurant, South Indian restaurant",
+    "pincode": "509217",
+    "phone_number": "+91 79951 33353",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8934,
+    "address": "1st floor, Hoysala inn, Kompally Road, next to Srikara hospital, near Croma, Ruby Block, Kompally, Hyderabad, Telangana 500100",
+    "area": "Ruby Block, Kompally",
+    "latitude": 17.5312522,
+    "longitude": 78.48737659999999,
+    "place_id": "ChIJgz_QlfSFyzsR-vPZtqcC7Q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgz_QlfSFyzsR-vPZtqcC7Q4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:37:19"
+  }
+]

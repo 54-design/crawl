@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpha fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "509216",
+    "phone_number": "+91 86885 75759",
+    "website": "https://alpha-ashy.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3684+72J, Shadnagar, Telangana 509216",
+    "area": "509216",
+    "latitude": 17.065649,
+    "longitude": 78.205015,
+    "place_id": "ChIJaVU1TADJyzsRLo5SbADRaEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVU1TADJyzsRLo5SbADRaEA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:35:56"
+  },
+  {
+    "business_name": "Regal Fitness- Gym Equipments in Hyderabad | Gym equipments wholesaler",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler",
+    "pincode": "509216",
+    "phone_number": "+91 98480 23658",
+    "website": "http://www.regalfitnessindia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Rd, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.439466499999998,
+    "longitude": 78.4885293,
+    "place_id": "ChIJX5VF0xqbyzsRnl_wg0_0RcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5VF0xqbyzsRnl_wg0_0RcU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:35:58"
+  }
+]

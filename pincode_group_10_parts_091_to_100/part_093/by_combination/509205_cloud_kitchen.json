@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "GQJM+VP9, yogasaram back side, NTR Colony, Vijayawada, Venkatanarasimhapuram, Andhra Pradesh 521102",
+    "area": "NTR Colony",
+    "latitude": 16.5321548,
+    "longitude": 80.78435089999999,
+    "place_id": "ChIJ1xQXJQDjNToRJ7N2RnzcDqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xQXJQDjNToRJ7N2RnzcDqA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:24:12"
+  },
+  {
+    "business_name": "Sravanthis Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509205",
+    "phone_number": "+91 76708 02237",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "Rd Number 13, Alkapur Twp, Puppalguda, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Alkapur Township, Puppalguda",
+    "latitude": 17.3964772,
+    "longitude": 78.36780159999999,
+    "place_id": "ChIJ8-HUDK6VyzsRcozsIvGLXdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-HUDK6VyzsRcozsIvGLXdA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:24:12"
+  }
+]

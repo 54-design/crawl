@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons Buddy Party Shop",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "509208",
+    "phone_number": "+91 75694 10310",
+    "website": "https://instagram.com/balloonsbuddy?igshid=OGQ5ZDc2ODk2ZA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "College Rd, Gandhi Nagar Colony, Shadnagar, Telangana 509216",
+    "area": "Gandhi Nagar Colony",
+    "latitude": 17.0698784,
+    "longitude": 78.2077162,
+    "place_id": "ChIJk9XMNXrJyzsRfspqOnKzTqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9XMNXrJyzsRfspqOnKzTqw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:29:49"
+  },
+  {
+    "business_name": "balloon decoration abcd",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "509208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hemajipur H.no 4-51 building Thanda, Telangana 509202",
+    "area": "509208",
+    "latitude": 16.9266521,
+    "longitude": 78.2473658,
+    "place_id": "ChIJL-frSiQ1yjsRkYl4RaUBpf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-frSiQ1yjsRkYl4RaUBpf4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:29:51"
+  }
+]

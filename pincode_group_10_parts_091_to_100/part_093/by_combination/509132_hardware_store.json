@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smb Hardware & Tools Centre",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "509132",
+    "phone_number": "+91 40 2771 7655",
+    "website": "https://www.smbhardware.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "#4-4-13, Mahankali St, near Mahakali Temple, Old Bhoiguda, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Old Bhoiguda, Kalasiguda",
+    "latitude": 17.4357901,
+    "longitude": 78.4910951,
+    "place_id": "ChIJVVVVFRyayzsRaAaim0rYU2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFRyayzsRaAaim0rYU2U",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:09:35"
+  },
+  {
+    "business_name": "Pavanasutha Plywood & Glass Emporium",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Glass & mirror shop, Plywood supplier",
+    "pincode": "509132",
+    "phone_number": "+91 90143 85566",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 12,13, Shiva Theatre Complex, Malkapur Rd, Jyothinagar, Karimnagar, Telangana 505001",
+    "area": "Bhagyanagar Colony, Jyothinagar",
+    "latitude": 18.4448017,
+    "longitude": 79.1189868,
+    "place_id": "ChIJ5Xc5OijZzDsR-ZeNoFz5SJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Xc5OijZzDsR-ZeNoFz5SJY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:09:35"
+  }
+]

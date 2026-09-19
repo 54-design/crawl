@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anusha Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "509127",
+    "phone_number": "+91 99087 55289",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9-40, Temple Rd, Maldakal, Telangana 509132",
+    "area": "509127",
+    "latitude": 16.126052299999998,
+    "longitude": 77.69354469999999,
+    "place_id": "ChIJMc6gD58dtjsRCm4C_5T2FOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMc6gD58dtjsRCm4C_5T2FOA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:01:25"
+  },
+  {
+    "business_name": "GV FANCY STORE",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "509127",
+    "phone_number": "+91 80749 15788",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "36C4+8V5, College Rd, Shadnagar, Telangana 509216",
+    "area": "509127",
+    "latitude": 17.0707632,
+    "longitude": 78.20722479999999,
+    "place_id": "ChIJr6XUBgDJyzsRWpbzS1kKagY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6XUBgDJyzsRWpbzS1kKagY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:01:27"
+  }
+]

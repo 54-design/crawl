@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAVI ENGINEERING CO",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Metal machinery supplier",
+    "all_categories": "Metal machinery supplier",
+    "pincode": "509129",
+    "phone_number": "+91 86602 36667",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "nearby nandini engineering shop, kt Doddi, Nandinne, Gadwal, Telangana 509129",
+    "area": "kt Doddi",
+    "latitude": 16.2199192,
+    "longitude": 77.52467949999999,
+    "place_id": "ChIJ29DF_VHfyTsRRwxB1iC2eB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29DF_VHfyTsRRwxB1iC2eB4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:04:37"
+  },
+  {
+    "business_name": "Kurumurthy Engineering",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Pipe supplier",
+    "all_categories": "Pipe supplier, Irrigation equipment supplier",
+    "pincode": "509129",
+    "phone_number": "+91 97012 60338",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raichur Road, Dharoor, Telangana 509133",
+    "area": "509129",
+    "latitude": 16.235593599999998,
+    "longitude": 77.69124939999999,
+    "place_id": "ChIJm2kmjA7jyTsR8Oy5wwirWb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2kmjA7jyTsR8Oy5wwirWb0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:04:38"
+  }
+]

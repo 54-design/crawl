@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tru Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "509126",
+    "phone_number": "+91 99593 74678",
+    "website": "https://truuniforms.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Housing Board, beside Rajdhani Lodge, beside SBI Bank, Jadcherla, Telangana 509301",
+    "area": "509126",
+    "latitude": 16.774127699999998,
+    "longitude": 78.126741,
+    "place_id": "ChIJH5lDQy4xyjsR0syn7MLgR6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5lDQy4xyjsR0syn7MLgR6o",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:59:11"
+  },
+  {
+    "business_name": "MB Fashions",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Youth clothing store",
+    "all_categories": "Youth clothing store, Clothing store",
+    "pincode": "509126",
+    "phone_number": "N/A",
+    "website": "https://www.mbfashions.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sri sai balaji complex, Main Road, near Nageshwar Gift Articles, Shanthinagar, Telangana 509126",
+    "area": "509126",
+    "latitude": 15.949859799999999,
+    "longitude": 77.8477978,
+    "place_id": "ChIJ3X_QVJwJtjsR3cgSyAisHg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3X_QVJwJtjsR3cgSyAisHg8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:59:11"
+  }
+]

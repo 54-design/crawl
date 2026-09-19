@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nice Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "509204",
+    "phone_number": "+91 93421 75369",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2GCX+FGR, K. N. Extension, APMC Yard, Yeshwanthpur Industrial Suburb, Mahalakshmi Layout, Bengaluru, Karnataka 560022",
+    "area": "K. N. Extension, APMC Yard, Yeshwanthpur Industrial Suburb, Mahalakshmi Layout",
+    "latitude": 13.0212252,
+    "longitude": 77.5487583,
+    "place_id": "ChIJMY434G89rjsRdQF0LEgwx2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMY434G89rjsRdQF0LEgwx2A",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:22:29"
+  },
+  {
+    "business_name": "Ramkumar trading co",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "509204",
+    "phone_number": "+91 99863 55194",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "171, 6th Main Rd, K. N. Extension, APMC Yard, Yeshwanthpur Industrial Suburb, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "K. N. Extension, APMC Yard, Yeshwanthpur Industrial Suburb, Yeswanthpur",
+    "latitude": 13.0204218,
+    "longitude": 77.548132,
+    "place_id": "ChIJZ8_FGaU9rjsRM-BKxK-rAoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8_FGaU9rjsRM-BKxK-rAoU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:22:29"
+  }
+]

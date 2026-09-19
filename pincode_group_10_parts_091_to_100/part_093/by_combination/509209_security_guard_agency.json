@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agile Security Force Pvt. Ltd.",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Security service",
+    "pincode": "509209",
+    "phone_number": "+91 92487 07070",
+    "website": "https://www.agilegroup.co.in/hyderabad",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "3rd Floor, Uma Enclave, Rd Number 9, Vimal Nagar, Zahara Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Vimal Nagar, Zahara Nagar, Banjara Hills",
+    "latitude": 17.4182231,
+    "longitude": 78.4432467,
+    "place_id": "ChIJQepQvTGXyzsRX6-Z9YnAi6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQepQvTGXyzsRX6-Z9YnAi6Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:31:46"
+  },
+  {
+    "business_name": "METAFORCE PRIVATE LIMITED",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "509209",
+    "phone_number": "+91 91002 22201",
+    "website": "https://metaforce.in/",
+    "rating": 3.3,
+    "reviews_count": 31,
+    "address": "3rd Floor, SAI HOUSE, #1-1-18/189, TRT 161 to 164, Jawahar Nagar, Hyderabad, Telangana 500020",
+    "area": "Jawahar Nagar, Sweta Enclave, Jawahar Nagar, Kavadiguda",
+    "latitude": 17.408234699999998,
+    "longitude": 78.49450039999999,
+    "place_id": "ChIJL9r0f-mZyzsRggV2n0NgLFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9r0f-mZyzsRggV2n0NgLFA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:31:48"
+  }
+]

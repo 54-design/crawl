@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Toast and Tonic",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar, Pub, Restaurant",
+    "pincode": "509131",
+    "phone_number": "+91 77997 93737",
+    "website": "https://toast-and-tonic.grexa.site/",
+    "rating": 4.3,
+    "reviews_count": 686,
+    "address": "9 Building, 1-1/38/B, Cloud, Lanco Hills Rd, Manikonda, Telangana 500089",
+    "area": "Sri Laxmi Nagar Colony",
+    "latitude": 17.4067275,
+    "longitude": 78.3742256,
+    "place_id": "ChIJZTpTVSWVyzsRDIRAlzJe8cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTpTVSWVyzsRDIRAlzJe8cI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:28"
+  },
+  {
+    "business_name": "Sun Traders",
+    "search_category": "Bar and Pub",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "509131",
+    "phone_number": "+91 70136 41288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "behind MVS College, Marlu, Boyapalle Rural, Mahbubnagar, Telangana 509001",
+    "area": "Marlu, Boyapalle Rural",
+    "latitude": 16.7384406,
+    "longitude": 78.011691,
+    "place_id": "ChIJ65ldWQAnyjsR2IMxUoGz0Dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65ldWQAnyjsR2IMxUoGz0Dg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:29"
+  }
+]

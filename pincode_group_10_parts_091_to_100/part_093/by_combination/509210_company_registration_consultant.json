@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Documentation",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "509210",
+    "phone_number": "+91 89850 79764",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shatavhana Colony, 4-8-75/90, opp. Registration Office, Narayanpet, Telangana 509210",
+    "area": "509210",
+    "latitude": 16.7432171,
+    "longitude": 77.4950688,
+    "place_id": "ChIJY7r3LI-jyTsRlg7ddCtQD4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7r3LI-jyTsRlg7ddCtQD4k",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:33:24"
+  },
+  {
+    "business_name": "MSME Registration",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "509210",
+    "phone_number": "N/A",
+    "website": "https://www.registration-s.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8C94+X6M, Manikyamma Colony, Rajendranagar mandal, Hyderabad, Telangana 500030",
+    "area": "Manikyamma Colony, Rajendranagar mandal",
+    "latitude": 17.3199565,
+    "longitude": 78.4055514,
+    "place_id": "ChIJL-1dFAC9yzsRVNskVMlsWMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-1dFAC9yzsRVNskVMlsWMg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:33:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janapriya Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "509207",
+    "phone_number": "+91 99895 52039",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Kolloor, Telangana 509202",
+    "area": "509207",
+    "latitude": 16.9913199,
+    "longitude": 78.0408641,
+    "place_id": "ChIJVwriaPLTyzsRSYO5rqj-bK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwriaPLTyzsRSYO5rqj-bK4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:27:39"
+  },
+  {
+    "business_name": "SV Dental Care & Implant Centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "509207",
+    "phone_number": "+91 83094 99984",
+    "website": "https://www.instagram.com/svdentalcare?igsh=dDFwdDBydGl0aTd2",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "1st Floor, Yashodanagar, Court Road, Venkateshwara Colony, Tandur, Telangana 501141",
+    "area": "Venkateshwara Colony",
+    "latitude": 17.2541099,
+    "longitude": 77.58982089999999,
+    "place_id": "ChIJTyLOEblryTsRpSq92pUerdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyLOEblryTsRpSq92pUerdw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:27:39"
+  }
+]

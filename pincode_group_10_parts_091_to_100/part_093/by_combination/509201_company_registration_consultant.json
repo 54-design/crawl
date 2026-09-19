@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anagha Enterprises",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "509201",
+    "phone_number": "+91 82470 71924",
+    "website": "http://anaghaenterprises.com/",
+    "rating": 5,
+    "reviews_count": 162,
+    "address": "D.No: 01-072/586, Plot No: 586, Vokshith Enclave, Phase 2, Road No. 3, Gajularamaram, Hyderabad, Telangana 500055",
+    "area": "Gajularamaram",
+    "latitude": 17.5323621,
+    "longitude": 78.4260139,
+    "place_id": "ChIJ14Ck-W-PyzsR_Q73Opt10v0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14Ck-W-PyzsR_Q73Opt10v0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:18:43"
+  },
+  {
+    "business_name": "TAXAJ",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Tax consultant",
+    "pincode": "509201",
+    "phone_number": "+91 89612 28919",
+    "website": "https://www.taxaj.com/",
+    "rating": 4.9,
+    "reviews_count": 641,
+    "address": "1/3, UGF, Old Palam Rd, Sulahkul Vihar, Kakrola, Bharat Vihar, Dwarka, Delhi, 110078",
+    "area": "Sulahkul Vihar, Kakrola, Bharat Vihar, Dwarka",
+    "latitude": 28.6063962,
+    "longitude": 77.0335745,
+    "place_id": "ChIJHWtPWDUFDTkROea6ZFXXndg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWtPWDUFDTkROea6ZFXXndg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:18:43"
+  }
+]

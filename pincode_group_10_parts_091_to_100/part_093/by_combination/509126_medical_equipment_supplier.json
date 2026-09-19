@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkataramana Medical Agency",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "509126",
+    "phone_number": "+91 94400 75151",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Mahbubnagar,, New Town, Mahbubnagar, Telangana 509001",
+    "area": "New Town",
+    "latitude": 16.7477678,
+    "longitude": 77.9990565,
+    "place_id": "ChIJhdT4zR8myjsRekf2qKMpcP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdT4zR8myjsRekf2qKMpcP8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:59:26"
+  },
+  {
+    "business_name": "AxionMedica (Dental & MultiSpeciality Clinical Supplies)",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "509126",
+    "phone_number": "+91 72073 15537",
+    "website": "https://www.axionmedica.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Diamond Hills, Lumbini Avenue, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Diamond Hills, Lumbini Avenue, Gachibowli",
+    "latitude": 17.4340717,
+    "longitude": 78.3717996,
+    "place_id": "ChIJhdlJ0_6TyzsRgJFKuITaIQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdlJ0_6TyzsRgJFKuITaIQY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:59:26"
+  }
+]

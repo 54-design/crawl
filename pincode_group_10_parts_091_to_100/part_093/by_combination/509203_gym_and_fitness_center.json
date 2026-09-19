@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness First Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "509203",
+    "phone_number": "+91 97004 09010",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "beside La-Delicious Bakery, near Court Chowrasta, Jyothinagar, Karimnagar, Telangana 505001",
+    "area": "Jyothinagar",
+    "latitude": 18.4431975,
+    "longitude": 79.124937,
+    "place_id": "ChIJrcLL2mzZzDsR5aKWSiRdIac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcLL2mzZzDsR5aKWSiRdIac",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:21:18"
+  },
+  {
+    "business_name": "FitLine (commercial fitness equipment )",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness Equipment Wholesaler",
+    "pincode": "509203",
+    "phone_number": "+91 79977 95222",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4th floor, above Balaji grand bazar, Kavuri hills, Banjara Hills, Hyderabad, Telangana 500033",
+    "area": "Kavuri hills, Banjara Hills",
+    "latitude": 17.420708599999998,
+    "longitude": 78.43931719999999,
+    "place_id": "ChIJj9juTUuXyzsRj9LYYTZxksc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9juTUuXyzsRj9LYYTZxksc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:21:19"
+  }
+]

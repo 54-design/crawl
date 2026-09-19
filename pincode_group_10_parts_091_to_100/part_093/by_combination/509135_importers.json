@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madina Suppliers",
+    "search_category": "Importers",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Chinna Tandrapadu, Telangana 509135",
+    "area": "509135",
+    "latitude": 15.945189999999998,
+    "longitude": 77.65455399999999,
+    "place_id": "ChIJD4cI29QQtjsRMPYeASSr0Bs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4cI29QQtjsRMPYeASSr0Bs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:13:51"
+  },
+  {
+    "business_name": "శివగంగ మినరల్ వాటర్ ప్లాంట్",
+    "search_category": "Importers",
+    "primary_category": "Water Filter Supplier",
+    "all_categories": "Water Filter Supplier",
+    "pincode": "509135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XP8V+2XF, Tanagala, Telangana 509135",
+    "area": "509135",
+    "latitude": 15.9650273,
+    "longitude": 77.744907,
+    "place_id": "ChIJu7ECCQARtjsROQccgTmmTTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7ECCQARtjsROQccgTmmTTM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:13:51"
+  }
+]

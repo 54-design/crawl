@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjana Ayurvedic Hospital",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GG36+43X, opp. old Andra bank, Shabari Colony, Makthal, Telangana 509208",
+    "area": "Shabari Colony",
+    "latitude": 16.502861,
+    "longitude": 77.51023339999999,
+    "place_id": "ChIJxVuyxa3ByTsRbys5h3JqZgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVuyxa3ByTsRbys5h3JqZgw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:36"
+  },
+  {
+    "business_name": "THANIVITHA AYURVEDIC DEVARAKONDA",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "509131",
+    "phone_number": "+91 99498 10619",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 25,
+    "address": "opp. Before Executive Engineer I, B Division, Gandhi Nagar, Devarakonda, Telangana 508248",
+    "area": "B Division, Gandhi Nagar",
+    "latitude": 16.692515999999998,
+    "longitude": 78.9172602,
+    "place_id": "ChIJ_2KVVtDtyjsRv6eX9EZPlSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2KVVtDtyjsRv6eX9EZPlSo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:39"
+  }
+]

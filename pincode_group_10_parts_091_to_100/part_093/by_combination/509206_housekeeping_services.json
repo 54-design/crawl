@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Renu Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "509206",
+    "phone_number": "+91 81066 77747",
+    "website": "https://www.renuenterprises.net/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1-52/3, Tadoor, Nagarkurnool, Thirumalapur, Telangana 509209",
+    "area": "Tadoor",
+    "latitude": 16.487290299999998,
+    "longitude": 78.3124947,
+    "place_id": "ChIJm6CbR39tyjsRVcSlPt0SlMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6CbR39tyjsRVcSlPt0SlMY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:55"
+  },
+  {
+    "business_name": "Sankalp Retail Store-Nagarkurnool",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "509206",
+    "phone_number": "+91 70650 20887",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "DNo 11, Sankalp Retail Store, 71/2 71/3, opposite Pulla Reddy Hospital, Nagarkurnool, Telangana 509235",
+    "area": "509206",
+    "latitude": 16.4866287,
+    "longitude": 78.3158098,
+    "place_id": "ChIJE_uhbPttyjsRZvRv1RYsfr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_uhbPttyjsRZvRv1RYsfr4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:55"
+  }
+]

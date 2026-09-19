@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSD Self Driving Cars",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "509216",
+    "phone_number": "+91 84668 14678",
+    "website": "http://www.ssdselfdrivingcars.com/",
+    "rating": 4.9,
+    "reviews_count": 365,
+    "address": "Pargi Road, Mallikarjuna Colony, Shadnagar, Farooqnagar, Telangana 509216",
+    "area": "Mallikarjuna Colony",
+    "latitude": 17.066294799999998,
+    "longitude": 78.1939002,
+    "place_id": "ChIJoxstmF3PyzsRXWH_ONZJVzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxstmF3PyzsRXWH_ONZJVzc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:36:02"
+  },
+  {
+    "business_name": "AKSHARA SELF DRIVE CARS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Motoring club",
+    "all_categories": "Motoring club",
+    "pincode": "509216",
+    "phone_number": "+91 63033 55207",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New, Transformer line, near scholars E/M school, bhagyanagar colony, Shadnagar, Farooqnagar, Telangana 509126",
+    "area": "bhagyanagar colony",
+    "latitude": 17.0567536,
+    "longitude": 78.1979755,
+    "place_id": "ChIJL8xsr8jPyzsRzjh15M51OQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8xsr8jPyzsRzjh15M51OQs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:36:02"
+  }
+]

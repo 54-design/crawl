@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri RaviRaja fashions",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509120",
+    "phone_number": "+91 99852 42154",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Ambedkar Nagar, Pebbair, Telangana 509104",
+    "area": "Ambedkar Nagar",
+    "latitude": 16.2064363,
+    "longitude": 77.9931252,
+    "place_id": "ChIJv3-1HJcAyjsR9J8pjIg7Y7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3-1HJcAyjsR9J8pjIg7Y7c",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:06"
+  },
+  {
+    "business_name": "sk.home",
+    "search_category": "Shops",
+    "primary_category": "Government ration shop",
+    "all_categories": "Government ration shop",
+    "pincode": "509120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Busireddipalle, Telangana 509120",
+    "area": "509120",
+    "latitude": 16.191838,
+    "longitude": 78.093452,
+    "place_id": "ChIJ_XHODgD5tTsRXV0JO6W5svc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XHODgD5tTsRXV0JO6W5svc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:08"
+  }
+]

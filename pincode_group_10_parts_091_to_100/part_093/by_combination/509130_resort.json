@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MJR Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "509130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "M522+MH6, Palapnoor, Telangana 502296",
+    "area": "509130",
+    "latitude": 17.6516539,
+    "longitude": 78.15140559999999,
+    "place_id": "ChIJbWWBLnn3yzsRBqzNF2E3S40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWWBLnn3yzsRBqzNF2E3S40",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:06:31"
+  },
+  {
+    "business_name": "Rudra Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Campground, Park",
+    "pincode": "509130",
+    "phone_number": "+91 93939 30936",
+    "website": "https://www.instagram.com/rudra_resortz/",
+    "rating": 4.4,
+    "reviews_count": 85,
+    "address": "7G7J+W52, Nadargul, Telangana 501510",
+    "area": "509130",
+    "latitude": 17.264812499999998,
+    "longitude": 78.53043749999999,
+    "place_id": "ChIJedB8SgCjyzsRjqijndC98Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedB8SgCjyzsRjqijndC98Yo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:06:33"
+  }
+]

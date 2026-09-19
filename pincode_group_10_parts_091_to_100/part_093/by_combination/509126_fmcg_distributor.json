@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Starchik Foods Pvt Ltd",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "509126",
+    "phone_number": "+91 76800 23137",
+    "website": "http://starchikfoods.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pargi Road, Mahadevpoor, Telangana 509207",
+    "area": "509126",
+    "latitude": 17.0904831,
+    "longitude": 78.0625117,
+    "place_id": "ChIJ9ZcFb9LRyzsRoorv04-mGoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZcFb9LRyzsRoorv04-mGoU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:58:57"
+  },
+  {
+    "business_name": "Pristine Ingredients Pvt. Ltd.",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "509126",
+    "phone_number": "+91 73373 33700",
+    "website": "http://www.iffco.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Burgul, Mothighanapur, Telangana 509202",
+    "area": "509126",
+    "latitude": 16.9762296,
+    "longitude": 78.193105,
+    "place_id": "ChIJE_F9NFrLyzsRfVA13qujrvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_F9NFrLyzsRfVA13qujrvU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:58:57"
+  }
+]

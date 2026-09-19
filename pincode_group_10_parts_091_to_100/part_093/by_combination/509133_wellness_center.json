@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Meadow Wellness - Rajkot",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Health resort, Health spa, Massage spa, Naturopathic practitioner, Wellness hotel, Wellness program",
+    "pincode": "509133",
+    "phone_number": "+91 74000 48000",
+    "website": "https://themeadownaturecure.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Inside Valley View Resorts, Beti, Road, Rampar, Gujarat 363520",
+    "area": "509133",
+    "latitude": 22.3568829,
+    "longitude": 71.0324736,
+    "place_id": "ChIJgeutmSivWTkRxmtM1au2sKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeutmSivWTkRxmtM1au2sKY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:11:33"
+  },
+  {
+    "business_name": "Alwal Wellness Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "509133",
+    "phone_number": "+91 40 2797 2563",
+    "website": "https://visualize.data.gov.in/?inst=8eede3a2-1652-49eb-bd7f-48ae3ea7a11e",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GG42+4HH, Pempala Towers, Old Alwal, Secunderabad, Telangana 500010",
+    "area": "Old Alwal, Alwal",
+    "latitude": 17.5053199,
+    "longitude": 78.5014692,
+    "place_id": "ChIJq6qq2saayzsRfl7YDITTAwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2saayzsRfl7YDITTAwk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:11:34"
+  }
+]

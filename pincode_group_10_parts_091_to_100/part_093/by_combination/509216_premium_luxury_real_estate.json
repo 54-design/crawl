@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Belmond county",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Gated community",
+    "all_categories": "Gated community",
+    "pincode": "509216",
+    "phone_number": "+91 90005 29539",
+    "website": "https://narayanainfra.com/belmond-county/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kangaguda Village, near Mekaguda, SEZ, Shadnagar, Farooqnagar, Telangana 509228",
+    "area": "SEZ",
+    "latitude": 17.0538202,
+    "longitude": 78.30832649999999,
+    "place_id": "ChIJR5iGwwC3yzsRQqIPU7XsSKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5iGwwC3yzsRQqIPU7XsSKo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:36:49"
+  },
+  {
+    "business_name": "Lucky Exotica Farm House",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "509216",
+    "phone_number": "+91 93924 35697",
+    "website": "https://www.luckyexotica.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Guduru, Telangana 509325",
+    "area": "509216",
+    "latitude": 17.2080096,
+    "longitude": 78.2737898,
+    "place_id": "ChIJ1ezwq8zHyzsRDKjkHnirRA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ezwq8zHyzsRDKjkHnirRA0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:36:50"
+  }
+]

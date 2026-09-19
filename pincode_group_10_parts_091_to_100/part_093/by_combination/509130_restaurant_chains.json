@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitanya Food Court",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Breakfast restaurant, Chicken restaurant, Chinese restaurant, North Indian restaurant, South Indian restaurant",
+    "pincode": "509130",
+    "phone_number": "+91 96184 47733",
+    "website": "https://chaitanyafoodcourt.com/",
+    "rating": 4,
+    "reviews_count": 28103,
+    "address": "Circle, MIG 25-26, JNTU - Hitech City Rd, near nexus mall, Kukatpally Housing Board Colony, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, KPHB 5th Phase, Kukatpally",
+    "latitude": 17.4850746,
+    "longitude": 78.3905733,
+    "place_id": "ChIJnZqat46RyzsRPG8lWF2YkEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZqat46RyzsRPG8lWF2YkEQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:05:43"
+  },
+  {
+    "business_name": "Sahib's Barbeque By Ohris",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Barbecue restaurant",
+    "all_categories": "Barbecue restaurant, Buffet restaurant, Dessert restaurant, Fine dining restaurant, Ice cream shop, Indian restaurant, Mughlai restaurant",
+    "pincode": "509130",
+    "phone_number": "+91 76750 43686",
+    "website": "https://www.ohris.com/themed-restaurant/sahibs-barbeque",
+    "rating": 4,
+    "reviews_count": 16025,
+    "address": "Plot No. 4, Ohris Cyber Grub, Sy No. 64, 4th Floor, 1 & 4/2, Mindspace Rd, opposite to Mind Space, Center, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081",
+    "area": "Center, HUDA Techno Enclave, HITEC City",
+    "latitude": 17.4414971,
+    "longitude": 78.3762781,
+    "place_id": "ChIJQ2qUrd6TyzsRskEgdqbhMW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2qUrd6TyzsRskEgdqbhMW0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:05:43"
+  }
+]

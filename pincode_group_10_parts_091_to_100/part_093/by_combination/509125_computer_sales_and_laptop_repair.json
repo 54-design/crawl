@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apple Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "509125",
+    "phone_number": "+91 70139 68360",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "opp. SBI BANK, near NEW BUSTAND, Gadwal, Telangana 509125",
+    "area": "Gadwal",
+    "latitude": 16.237572099999998,
+    "longitude": 77.8039806,
+    "place_id": "ChIJ3aE3eD39yTsRZZSIwpFsbWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aE3eD39yTsRZZSIwpFsbWg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:58:22"
+  },
+  {
+    "business_name": "Srinivasa Online Services and Stationary",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "509125",
+    "phone_number": "+91 81252 09995",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6RJ4+PQP, Nallakunta, Gadwal, Telangana 509125",
+    "area": "Nallakunta",
+    "latitude": 16.2318402,
+    "longitude": 77.8069385,
+    "place_id": "ChIJ1XuYdQD9yTsRVZnjf139yRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XuYdQD9yTsRVZnjf139yRM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:58:22"
+  }
+]

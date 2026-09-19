@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PBR Pet Food And Accessories Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "509207",
+    "phone_number": "+91 84418 44154",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 62,
+    "address": "1236a, Tarnaka Main Rd, near Andhra Bank ATM, AP State Housing Board, Krishna Giri Enclave, Tarnaka, Hyderabad, Secunderabad, Telangana 500017",
+    "area": "AP State Housing Board, Krishna Giri Enclave, Tarnaka",
+    "latitude": 17.4290994,
+    "longitude": 78.534112,
+    "place_id": "ChIJRRmpLtmZyzsR2i_58SEEoWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRmpLtmZyzsR2i_58SEEoWU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:27:20"
+  },
+  {
+    "business_name": "Reddy Kennels",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "509207",
+    "phone_number": "+91 95023 42893",
+    "website": "https://reddykennels.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Divya Sai residency, Sriram Nagar, near Radhika Theatre, ECIL, Anupuram, Hyderabad, Telangana 500062",
+    "area": "ECIL, Anupuram, AS Rao Nagar",
+    "latitude": 17.4761985,
+    "longitude": 78.5631815,
+    "place_id": "ChIJmTjzGkabyzsRC5vKlw33PJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTjzGkabyzsRC5vKlw33PJE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:27:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JUICE UP",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "509215",
+    "phone_number": "+91 90254 00991",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Radhakrishnan St, Palaniappa Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+    "area": "Palaniappa Nagar, Valasaravakkam",
+    "latitude": 13.0445254,
+    "longitude": 80.182057,
+    "place_id": "ChIJz3_7pg9hUjoRze_svdundBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3_7pg9hUjoRze_svdundBw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:33:54"
+  },
+  {
+    "business_name": "Al Hamd Milkshake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "509215",
+    "phone_number": "+91 97143 98746",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Shah-E-Alam, Shah-E-Alam Darwaja, P & T Colony, Shah-E-Alam Roja, Ahmedabad, Gujarat 380028",
+    "area": "Shah-E-Alam, Shah-E-Alam Darwaja, P & T Colony, Shah-E-Alam Roja",
+    "latitude": 22.997023,
+    "longitude": 72.58920359999999,
+    "place_id": "ChIJZbHPnGaFXjkRYfe9WOnxgnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbHPnGaFXjkRYfe9WOnxgnw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:33:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NephroPRO Dialysis Services",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "509152",
+    "phone_number": "+91 92462 46526",
+    "website": "https://www.nephropro.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "305 A, Pavani Anusuya Towers, Tarnaka Main Rd, above Sudarshan Reddy Sweets, Hyderabad, Telangana 500017",
+    "area": "Shri Mitra Ramana Classic Enclave, Krishna Giri Enclave, Tarnaka",
+    "latitude": 17.4248902,
+    "longitude": 78.5358966,
+    "place_id": "ChIJGzlxe8ubyzsRAtnWMgPrJc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzlxe8ubyzsRAtnWMgPrJc8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:14:29"
+  },
+  {
+    "business_name": "New Hopes Nephro Care Head Office",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "509152",
+    "phone_number": "+91 91822 02227",
+    "website": "http://www.newhopesnephrocare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "qamar Malakpet, H.NO, 16/11/16, G/J/119, Masjid Rd, Afzal Nagar, backside, Hyderabad, Telangana 500036",
+    "area": "Afzal Nagar, backside, Old Malakpet",
+    "latitude": 17.3803639,
+    "longitude": 78.5114518,
+    "place_id": "ChIJ412XSCyZyzsRMgfNGcrP-Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ412XSCyZyzsRMgfNGcrP-Gg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:14:31"
+  }
+]

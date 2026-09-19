@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/S M.P.Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "509207",
+    "phone_number": "+91 80 4779 2331",
+    "website": "http://mpchemicals.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H, Plot No, 11-166, 1st Rd, Vayu Sakthi Nagar, Gayatri Nagar, Fatehnagar, Borabanda, Hyderabad, Telangana 500114",
+    "area": "Vayu Sakthi Nagar, Gayatri Nagar, Fatehnagar, Borabanda",
+    "latitude": 17.4536894,
+    "longitude": 78.40129259999999,
+    "place_id": "ChIJudvEn26RyzsRQXaZE4OsEKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudvEn26RyzsRQXaZE4OsEKA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:28:40"
+  },
+  {
+    "business_name": "Suzalkem Technologies Private Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Chemical Manufacturer",
+    "pincode": "509207",
+    "phone_number": "+91 40 2373 7116",
+    "website": "http://www.suzalkem.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "4th Floor, Rajeshwara Apartment, Image Hospitals Ln, Nagarjuna Nagar colony, Ameerpet, Hyderabad, Telangana 500073",
+    "area": "Nagarjuna Nagar colony, Ameerpet",
+    "latitude": 17.4320455,
+    "longitude": 78.4445102,
+    "place_id": "ChIJ34Zthc6QyzsRzDUy6oeFI34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34Zthc6QyzsRzDUy6oeFI34",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:28:41"
+  }
+]

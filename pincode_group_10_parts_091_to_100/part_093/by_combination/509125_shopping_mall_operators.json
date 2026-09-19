@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MPM Timesquare Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "509125",
+    "phone_number": "+91 99495 90009",
+    "website": "http://mpmtimesquare.com/",
+    "rating": 4.2,
+    "reviews_count": 163,
+    "address": "6-3-349/9, Road No. 1, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Dwarakapuri, Punjagutta",
+    "latitude": 17.4252921,
+    "longitude": 78.44820779999999,
+    "place_id": "ChIJycvZyTSXyzsR0IA86w5IEbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycvZyTSXyzsR0IA86w5IEbM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:58:48"
+  },
+  {
+    "business_name": "sri vaibhavam shopping mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "509125",
+    "phone_number": "+91 76708 01813",
+    "website": "http://www.srivaibhavamshoppingmall.com/",
+    "rating": 4,
+    "reviews_count": 495,
+    "address": "HMT Rd, Beside PAI INTERNATIONAL, Chinthal, Quthbullapur, Hyderabad, Telangana 500054",
+    "area": "Chinthal, Quthbullapur",
+    "latitude": 17.4944879,
+    "longitude": 78.4522069,
+    "place_id": "ChIJf86Ft_WRyzsRxtNv3WtQgR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf86Ft_WRyzsRxtNv3WtQgR8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:58:48"
+  }
+]

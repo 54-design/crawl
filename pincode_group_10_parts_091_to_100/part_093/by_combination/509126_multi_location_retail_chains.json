@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Smart Point",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Supermarket",
+    "pincode": "509126",
+    "phone_number": "N/A",
+    "website": "https://relianceretail.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "AR Complex, Bhoothpur Road, Bhageeratha Colony, Christianpally, Mahbubnagar, Telangana 509001",
+    "area": "Bhageeratha Colony, Christianpally",
+    "latitude": 16.7305296,
+    "longitude": 78.00242209999999,
+    "place_id": "ChIJG28nNVAnyjsR1Fn2cjUvUp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG28nNVAnyjsR1Fn2cjUvUp4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:00:35"
+  },
+  {
+    "business_name": "Vishal Mega Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Baby clothing store, Clothing store, Grocery store, T-shirt store, Tuxedo shop",
+    "pincode": "509126",
+    "phone_number": "+91 92181 69232",
+    "website": "https://stores.vishalmegamart.com/shopping-mart-shadnagar-farooqnagar-38998/home?utm_source=GBP",
+    "rating": 4.5,
+    "reviews_count": 337,
+    "address": "Pargi Road, near Bus stand, Shadnagar, Telangana 509216",
+    "area": "509126",
+    "latitude": 17.06842,
+    "longitude": 78.20255,
+    "place_id": "ChIJg3HtRKfJyzsRU7j7LRg-DAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3HtRKfJyzsRU7j7LRg-DAk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:00:35"
+  }
+]

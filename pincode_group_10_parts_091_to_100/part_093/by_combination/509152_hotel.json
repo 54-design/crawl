@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V G S Lodge, Alampur",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "509152",
+    "phone_number": "+91 94415 09219",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "BSNL TOWER, Near, Alampur Rd, Alampur (P), Telangana 509152",
+    "area": "509152",
+    "latitude": 15.8814845,
+    "longitude": 78.1250723,
+    "place_id": "ChIJ01MPK2nptTsR3JhWkR2EaDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01MPK2nptTsR3JhWkR2EaDk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:15:01"
+  },
+  {
+    "business_name": "Sree Raja Rajeswari Residency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "509152",
+    "phone_number": "N/A",
+    "website": "http://www.jogulamba.in/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "V4GM+VPM, Alampur (P), Telangana 509152",
+    "area": "509152",
+    "latitude": 15.877224499999999,
+    "longitude": 78.1342968,
+    "place_id": "ChIJT9AuCgDptTsR3_jwZnBuzCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9AuCgDptTsR3_jwZnBuzCw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:15:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sateesh Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509135",
+    "phone_number": "+91 90009 30290",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Main Rd, Uppal, Telangana 509135",
+    "area": "509135",
+    "latitude": 15.976204699999998,
+    "longitude": 77.67986789999999,
+    "place_id": "ChIJbyIKqo0RtjsRF0v_9C7SUm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyIKqo0RtjsRF0v_9C7SUm4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:12:43"
+  },
+  {
+    "business_name": "Ieeja",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "509135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XJ89+546, Ieeja-Medikonda Rd, Medikonda, Telangana 509127",
+    "area": "509135",
+    "latitude": 15.9654207,
+    "longitude": 77.6177517,
+    "place_id": "ChIJEyCAAgAXtjsRsTCIXGtwhJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyCAAgAXtjsRsTCIXGtwhJs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:12:43"
+  }
+]

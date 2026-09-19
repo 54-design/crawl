@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "509135",
+    "phone_number": "+91 70349 95840",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Prakkanam, Pathanamthitta, Elanthoor, Keralam 689643",
+    "area": "Prakkanam",
+    "latitude": 9.2761561,
+    "longitude": 76.73778279999999,
+    "place_id": "ChIJHVCD1pUVBjsRcowqrv3WjUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVCD1pUVBjsRcowqrv3WjUQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:13:46"
+  },
+  {
+    "business_name": "Welding Machine Service & Repair Centre",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder, Machine maintenance service, Machine repair service, Manufacturer, Welding supply store",
+    "pincode": "509135",
+    "phone_number": "+91 78456 44929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "Druga hospital, 41- B, rajarathinam street, opp. Coimbatore, Kappini Gounder Layout, Poosaripalayam, Manikarampalayam, Ganapathy, Coimbatore, Tamil Nadu 641006",
+    "area": "Kappini Gounder Layout, Poosaripalayam, Manikarampalayam, Ganapathy",
+    "latitude": 11.0485723,
+    "longitude": 76.9726857,
+    "place_id": "ChIJazgvSGVYqDsRX5oeSdtkPnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazgvSGVYqDsRX5oeSdtkPnw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:13:47"
+  }
+]

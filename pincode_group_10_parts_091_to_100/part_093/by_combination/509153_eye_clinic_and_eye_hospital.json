@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Vision Eye Hospitals",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "509153",
+    "phone_number": "+91 98858 73344",
+    "website": "https://www.smartvisioneyehospitals.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ratnadeep Supermarket, Plot No 143, Srinagar Colony Main Rd, Srinagar Colony, Sri Nagar Colony, Venkateshwara Hills, Banjara Hills, Hyderabad, Telangana 500073",
+    "area": "Srinagar Colony, Sri Nagar Colony, Venkateshwara Hills, Banjara Hills",
+    "latitude": 17.428878,
+    "longitude": 78.43989169999999,
+    "place_id": "ChIJGxaCaNKQyzsRAFoHg8eoxAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxaCaNKQyzsRAFoHg8eoxAY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:16:10"
+  },
+  {
+    "business_name": "Aravind Vision Center - Alanganallur",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "509153",
+    "phone_number": "+91 452 435 6100",
+    "website": "http://www.aravind.org/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "23XR+HFX, Pookara, Union Office Rd, Alanganallur, Tamil Nadu 625501",
+    "area": "509153",
+    "latitude": 10.0489794,
+    "longitude": 78.09124039999999,
+    "place_id": "ChIJa865quG3ADsRtWdLlWRg5ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa865quG3ADsRtWdLlWRg5ys",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:16:10"
+  }
+]

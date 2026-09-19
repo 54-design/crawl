@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Laxmi Diagnostic Centre, Bijinapally.",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "509215",
+    "phone_number": "+91 90108 47841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Gandhinagar colony, Bijinapalle, Telangana 509203",
+    "area": "509215",
+    "latitude": 16.5319774,
+    "longitude": 78.2083808,
+    "place_id": "ChIJO15eq5UVyjsRxS0kga2NRbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO15eq5UVyjsRxS0kga2NRbw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:12"
+  },
+  {
+    "business_name": "PRIME DIAGNOSTIC CENTER",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "509215",
+    "phone_number": "+91 63029 57735",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Omnagar Colony, Housing Board Colony, Nagarkurnool, Telangana 509209",
+    "area": "Omnagar Colony, Housing Board Colony",
+    "latitude": 16.4950395,
+    "longitude": 78.2978607,
+    "place_id": "ChIJiZn2w1NryjsRAFkdvqBSz0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZn2w1NryjsRAFkdvqBSz0E",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:15"
+  }
+]

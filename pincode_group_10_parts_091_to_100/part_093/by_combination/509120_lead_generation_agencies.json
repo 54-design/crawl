@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Get Me Leads",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment, Graphic designer, Internet marketing service, Marketing consultant, Web hosting company",
+    "pincode": "509120",
+    "phone_number": "01634 510059",
+    "website": "http://www.getmeleads.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Get Me Leads, 509120, India",
+    "area": "509120",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJn3oucd7S2EcRwd9CIVXSkUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3oucd7S2EcRwd9CIVXSkUo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:00"
+  },
+  {
+    "business_name": "Lead Growth Management",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "509120",
+    "phone_number": "07775 761232",
+    "website": "https://leadgrowthmanagement.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lead Growth Management, 509120, India",
+    "area": "509120",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJsfABcGmDwqgRoaGfs7HsSk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfABcGmDwqgRoaGfs7HsSk4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:01"
+  }
+]

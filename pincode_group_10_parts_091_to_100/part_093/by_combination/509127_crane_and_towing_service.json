@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service, Crane rental agency",
+    "pincode": "509127",
+    "phone_number": "+91 98850 09883",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 1, 31, and, near Eicher Showroom, Indira Nagar, Auto Nagar, Hyderabad, Telangana 500074",
+    "area": "Indira Nagar, Auto Nagar",
+    "latitude": 17.336218,
+    "longitude": 78.57980309999999,
+    "place_id": "ChIJKeJ5RqOZyzsRRIqroW2bN8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeJ5RqOZyzsRRIqroW2bN8w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:01:16"
+  },
+  {
+    "business_name": "Patil towing service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "509127",
+    "phone_number": "+91 74474 48088",
+    "website": "https://patiltowingservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kharadi Bypass, Pune - Nagar Rd, Chandan Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "area": "Shree Ram Society, Chandan Nagar, Wadgaon Sheri",
+    "latitude": 18.5632846,
+    "longitude": 73.9359336,
+    "place_id": "ChIJHSysXx7DwjsRKGKDjYr7pOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSysXx7DwjsRKGKDjYr7pOk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:01:17"
+  }
+]

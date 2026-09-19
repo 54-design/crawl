@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yashoda ENT & Dental Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "509120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "New Rishi High School Rd, Rajendra Nagar, Mahbubnagar, Telangana 509001",
+    "area": "Rajendra Nagar",
+    "latitude": 16.7527926,
+    "longitude": 78.00337689999999,
+    "place_id": "ChIJYYkpQPUpyjsRRdv37MA2EMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYkpQPUpyjsRRdv37MA2EMY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:55:49"
+  },
+  {
+    "business_name": "Sai Nath Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "42-251/4/a, Vengal Rao Nagar Colony, New Town Colony, K,D,R Nagar, Wanaparthy, Telangana 509103",
+    "area": "Vengal Rao Nagar Colony, New Town Colony, K,D,R Nagar",
+    "latitude": 16.3580938,
+    "longitude": 78.05916479999999,
+    "place_id": "ChIJUxlP_90EyjsR9npMI_h4RrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxlP_90EyjsR9npMI_h4RrE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:55:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Millet & Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Store",
+    "pincode": "509130",
+    "phone_number": "+91 74112 26677",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Timmarajupuram, Tanuku, Andhra Pradesh 534211",
+    "area": "Timmarajupuram",
+    "latitude": 16.7564359,
+    "longitude": 81.6873025,
+    "place_id": "ChIJV2UwTWu3NzoRANz58b7JL6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2UwTWu3NzoRANz58b7JL6I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:02"
+  },
+  {
+    "business_name": "Shree Venkateshwara Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "509130",
+    "phone_number": "+91 97413 62188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanjay Nagar, Marathahalli, Bengaluru, Karnataka 560037",
+    "area": "Sanjay Nagar, Marathahalli",
+    "latitude": 12.9576215,
+    "longitude": 77.69481329999999,
+    "place_id": "ChIJnf5hMcwTrjsR7VRjX-f9Vfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnf5hMcwTrjsR7VRjX-f9Vfs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:02"
+  }
+]

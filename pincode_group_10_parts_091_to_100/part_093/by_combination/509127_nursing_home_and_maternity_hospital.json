@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "PXWX+XX7, New Town, Mahbubnagar, Telangana 509001",
+    "area": "New Town",
+    "latitude": 16.7474061,
+    "longitude": 77.9999149,
+    "place_id": "ChIJ79OUNh4myjsRjU8RxLULiSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79OUNh4myjsRjU8RxLULiSs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:01:00"
+  },
+  {
+    "business_name": "Rekha(Jayashree) Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509127",
+    "phone_number": "+91 99126 55807",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 35,
+    "address": "8HHV+V88, Padmavathi Nagar, Hayathnagar_Khalsa, Hyderabad, Telangana 501505",
+    "area": "Padmavathi Nagar",
+    "latitude": 17.3296512,
+    "longitude": 78.5933265,
+    "place_id": "ChIJU7gVtNyhyzsRElSwG3coWZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7gVtNyhyzsRElSwG3coWZY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:01:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fort Grand",
+    "search_category": "Banquet Hall",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "509215",
+    "phone_number": "+91 80089 03382",
+    "website": "http://fortgrand.com/",
+    "rating": 4.5,
+    "reviews_count": 3772,
+    "address": "79FC+576, Siddulagutta, Fort Grand Rd, Siddanthi, Ranga Reddy Nagar, Shamshabad, Hyderabad, Telangana 501218",
+    "area": "Siddanthi, Ranga Reddy Nagar, Shamshabad",
+    "latitude": 17.275775199999998,
+    "longitude": 78.3677641,
+    "place_id": "ChIJ_SYEpraQyzsRRegg8jMWgoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SYEpraQyzsRRegg8jMWgoc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:41"
+  },
+  {
+    "business_name": "Karukonda function hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "509215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H6FP+96, Karukonda, Telangana 509215",
+    "area": "509215",
+    "latitude": 16.5734234,
+    "longitude": 78.2355111,
+    "place_id": "ChIJ00-uEgAVyjsR1tyxnRzVkgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00-uEgAVyjsR1tyxnRzVkgk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:41"
+  }
+]

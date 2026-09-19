@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flavours - Combos, Chaat & More",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509127",
+    "phone_number": "+91 70135 79598",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop no.3, Chops & Hops, Osman Nagar Rd, Tellapur, Hyderabad, Telangana 502034",
+    "area": "Tellapur",
+    "latitude": 17.4474909,
+    "longitude": 78.28169539999999,
+    "place_id": "ChIJu3hdpx3tyzsRWRqFE2xtG-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3hdpx3tyzsRWRqFE2xtG-Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:00:48"
+  },
+  {
+    "business_name": "Lucky chat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509127",
+    "phone_number": "+91 77320 77329",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "99Q9+46P, Alkapur Main Rd, Alkapur Twp, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Alkapur Township",
+    "latitude": 17.387829999999997,
+    "longitude": 78.368071,
+    "place_id": "ChIJV0XNvWOVyzsRyeGtfEaN7ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0XNvWOVyzsRyeGtfEaN7ls",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:00:48"
+  }
+]

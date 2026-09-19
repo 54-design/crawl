@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nexus Elante Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "509201",
+    "phone_number": "+91 172 500 5000",
+    "website": "https://www.nexusselecttrust.com/nexus-elante",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Industrial Area Phase I, Chandigarh, 160002",
+    "area": "Industrial Area Phase I",
+    "latitude": 30.7057608,
+    "longitude": 76.8009534,
+    "place_id": "ChIJCW8IJ-rsDzkRI1FpwEbBRwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCW8IJ-rsDzkRI1FpwEbBRwk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:19:00"
+  },
+  {
+    "business_name": "South India Shopping Mall Textile & Jewellery - Kukatpally",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Jewelry store, Clothing store",
+    "pincode": "509201",
+    "phone_number": "+91 77999 65656",
+    "website": "http://www.southindiaeshop.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot No.17, South India Shopping Mall, Ground Floor,Sy No.166/P, National Highway 9, 20, Usha Mullapudi Rd, near Usha Mullapudi Hospital, A.S.Raju Nagar, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "A.S.Raju Nagar, Vivekananda Nagar, Kukatpally",
+    "latitude": 17.4929964,
+    "longitude": 78.4045165,
+    "place_id": "ChIJs_p2K5WRyzsR3z58KyInXHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_p2K5WRyzsR3z58KyInXHc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:19:00"
+  }
+]

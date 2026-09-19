@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CallingGo",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Service establishment",
+    "pincode": "509153",
+    "phone_number": "N/A",
+    "website": "https://www.callinggo.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CallingGo, 509153, India",
+    "area": "509153",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJ--lJ_uZ_biIRvwgJk6eQaIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--lJ_uZ_biIRvwgJk6eQaIY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:17:22"
+  },
+  {
+    "business_name": "1Call",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Service establishment",
+    "all_categories": "Service establishment, News service",
+    "pincode": "509153",
+    "phone_number": "N/A",
+    "website": "http://www.1call.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1Call, 509153, India",
+    "area": "509153",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI4L04vFPfq8Rms-E2s8is30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4L04vFPfq8Rms-E2s8is30",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:17:22"
+  }
+]

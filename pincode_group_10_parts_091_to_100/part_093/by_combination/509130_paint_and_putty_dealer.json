@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Berger paints Lalith Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "509130",
+    "phone_number": "+91 98480 16428",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "H.No.8, Darga, 1-284, 521/6/9, shaikpet, OU Colony, Shaikpet, Hyderabad, Pokalwada, Telangana 500104",
+    "area": "OU Colony, Shaikpet",
+    "latitude": 17.406077,
+    "longitude": 78.3902641,
+    "place_id": "ChIJ4f4oBq6XyzsRJkjqvwDCLt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4f4oBq6XyzsRJkjqvwDCLt8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:06:14"
+  },
+  {
+    "business_name": "Sri Srinivasa paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "509130",
+    "phone_number": "+91 99080 05336",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bus depot, opposite Kukatpally, Pragathi Nagar, Kukatpally, Hyderabad, Telangana 500018",
+    "area": "Pragathi Nagar, Kukatpally",
+    "latitude": 17.4734986,
+    "longitude": 78.4246896,
+    "place_id": "ChIJVUDqrBCRyzsR2KtYiWhTMrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUDqrBCRyzsR2KtYiWhTMrc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:06:14"
+  }
+]

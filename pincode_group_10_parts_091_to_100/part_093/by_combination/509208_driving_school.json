@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandana motor driving school",
+    "search_category": "Driving School",
+    "primary_category": "Drivers license training school",
+    "all_categories": "Drivers license training school",
+    "pincode": "509208",
+    "phone_number": "+91 91609 84688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Narayanpet Rd, Azad Nagar, Makthal, Telangana 509208",
+    "area": "Azad Nagar",
+    "latitude": 16.5046843,
+    "longitude": 77.5166319,
+    "place_id": "ChIJxbtd24nByTsRGmBXBiSYnyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbtd24nByTsRGmBXBiSYnyQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:29:32"
+  },
+  {
+    "business_name": "Prakash motar driving school makthal",
+    "search_category": "Driving School",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "509208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nehru Outer Ring Road, Makthal, Telangana 509208",
+    "area": "509208",
+    "latitude": 16.5055578,
+    "longitude": 77.5154069,
+    "place_id": "ChIJqTSb2zLByTsRiogX4Swy8o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTSb2zLByTsRiogX4Swy8o0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:29:33"
+  }
+]

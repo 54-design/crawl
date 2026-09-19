@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABHINAY MILK PARLOUR",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Milk delivery service",
+    "pincode": "509205",
+    "phone_number": "+91 99498 33198",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "174, Centenary Colony, Peddapalli, Telangana 505212",
+    "area": "Centenary Colony",
+    "latitude": 18.6350441,
+    "longitude": 79.53867199999999,
+    "place_id": "ChIJc_qyRpXQMjoRGPdTLUSj84c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_qyRpXQMjoRGPdTLUSj84c",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:24:02"
+  },
+  {
+    "business_name": "Dhanwada, Telangana 509205",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "509205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhanwada, Telangana",
+    "area": "509205",
+    "latitude": 16.657139,
+    "longitude": 77.6307018,
+    "place_id": "ChIJM-Bac0qRyTsRUueetrc5If4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-Bac0qRyTsRUueetrc5If4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:24:03"
+  }
+]

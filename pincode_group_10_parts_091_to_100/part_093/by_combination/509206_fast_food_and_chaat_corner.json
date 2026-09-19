@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat & Chat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "509206",
+    "phone_number": "+91 90599 19513",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3-58/1, Vijay Nagar Colony Rd, Shadnagar, Telangana 509216",
+    "area": "509206",
+    "latitude": 17.0632098,
+    "longitude": 78.2076117,
+    "place_id": "ChIJL3TFwkLJyzsR7y2D9UnsVYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3TFwkLJyzsR7y2D9UnsVYM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:46"
+  },
+  {
+    "business_name": "Telangana Fast Food Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "509206",
+    "phone_number": "+91 94415 26842",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "H No, 9-5-73, Jayaprakash Narayan Road, Charbowli, Charbouli, Warangal, Telangana 506002",
+    "area": "Charbowli, Charbouli",
+    "latitude": 17.9836355,
+    "longitude": 79.6002713,
+    "place_id": "ChIJCZHtKB9FMzoRgrwoK4gSBno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZHtKB9FMzoRgrwoK4gSBno",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:46"
+  }
+]

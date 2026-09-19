@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airport Taxi Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Service establishment",
+    "pincode": "509131",
+    "phone_number": "N/A",
+    "website": "https://airporttaxicabservices.com/locations/",
+    "rating": 4.8,
+    "reviews_count": 1346,
+    "address": "Airport Taxi Cab, 509131, India",
+    "area": "509131",
+    "latitude": 37.878637999999995,
+    "longitude": -122.42033749999999,
+    "place_id": "ChIJ2-z4EoF3j4AR1cs3HYeVrpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-z4EoF3j4AR1cs3HYeVrpI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:52"
+  },
+  {
+    "business_name": "GK CABS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport, Bus tour agency, Car leasing service, Car rental agency, Minibus taxi service, Tour operator, Transportation service, Travel agency",
+    "pincode": "509131",
+    "phone_number": "+91 98666 00720",
+    "website": "https://www.gkcabs.com/",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "H, NO. 4-207/1, BUS STOP, near JALPALLY, Sri Rama Colony, Pardhi Guda, Katedhan, Hyderabad, Telangana 500077",
+    "area": "Sri Rama Colony, Pardhi Guda",
+    "latitude": 17.2929863,
+    "longitude": 78.4415513,
+    "place_id": "ChIJJ5zxCvm9yzsRFPPdj33jxVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5zxCvm9yzsRFPPdj33jxVg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:07:52"
+  }
+]

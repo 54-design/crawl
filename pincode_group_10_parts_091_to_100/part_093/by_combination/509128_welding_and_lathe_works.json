@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ak Tig Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "509128",
+    "phone_number": "+91 90803 92494",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "60, Periyar Street, Sanganur, Road, Ganapathy, Coimbatore, Tamil Nadu 641006",
+    "area": "Ganapathy",
+    "latitude": 11.035755799999999,
+    "longitude": 76.97606449999999,
+    "place_id": "ChIJRdAyIl1YqDsRAgTeOXsJNTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdAyIl1YqDsRAgTeOXsJNTU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:03:38"
+  },
+  {
+    "business_name": "MM Machine Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "509128",
+    "phone_number": "+91 98433 19229",
+    "website": "https://mmmachineworks.net/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "48-B, Rabindranath Tagore Rd, near KPR kalyanamandapam, Maniyakarampalayam, Karpaga Vinyaha Nagar, Ganapathy, Coimbatore, Tamil Nadu 641006",
+    "area": "Maniyakarampalayam, Karpaga Vinyaha Nagar, Ganapathy",
+    "latitude": 11.044561,
+    "longitude": 76.97641469999999,
+    "place_id": "ChIJJRhQVW9YqDsRnSLu-2njb70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRhQVW9YqDsRnSLu-2njb70",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:03:41"
+  }
+]

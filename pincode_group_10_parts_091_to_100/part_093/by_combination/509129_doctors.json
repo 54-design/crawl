@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lingappa home",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "509129",
+    "phone_number": "+91 95157 56012",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "5GHG+WCH, Kuchinerla, Telangana 509129",
+    "area": "509129",
+    "latitude": 16.1798066,
+    "longitude": 77.5261155,
+    "place_id": "ChIJtXPfT2jfyTsRToFYR6RknOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXPfT2jfyTsRToFYR6RknOI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:04:19"
+  },
+  {
+    "business_name": "Mouneshwara Sawmill",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "509129",
+    "phone_number": "+91 99511 02583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4HCC+J79, Ghattu, Telangana 509129",
+    "area": "509129",
+    "latitude": 16.1215459,
+    "longitude": 77.57074539999999,
+    "place_id": "ChIJ7VyIf3gftjsR1jVBYexcB-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VyIf3gftjsR1jVBYexcB-Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:04:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thirumala Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "509206",
+    "phone_number": "+91 98490 09261",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 40,
+    "address": "No. 1, 1, Ram Nagar Gundu, Hyderabad, Telangana 500020",
+    "area": "Ramnagar Gundu, Ram Nagar Gundu, Adikmet",
+    "latitude": 17.4090156,
+    "longitude": 78.51180599999999,
+    "place_id": "ChIJVVVVJb2ZyzsRmav0iClY1aA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJb2ZyzsRmav0iClY1aA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:35"
+  },
+  {
+    "business_name": "Priya events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "509206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Dak Public School, Mayur Marg, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Prakash Nagar, Begumpet",
+    "latitude": 17.4420811,
+    "longitude": 78.4620394,
+    "place_id": "ChIJQ27TFruQyzsRrFIrtFg8slY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ27TFruQyzsRrFIrtFg8slY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:35"
+  }
+]

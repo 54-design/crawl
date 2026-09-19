@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veena Herbal beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "509206",
+    "phone_number": "+91 94403 10334",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus stop, near Vasavi Medical shop, Nagarkurnool, Telangana 509209",
+    "area": "509206",
+    "latitude": 16.486193699999998,
+    "longitude": 78.3119376,
+    "place_id": "ChIJE-qjKQBtyjsRdt2GGX0itk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-qjKQBtyjsRdt2GGX0itk0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:25"
+  },
+  {
+    "business_name": "Beauty Collection",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Cosmetics store, Jeweler",
+    "pincode": "509206",
+    "phone_number": "+91 90325 15848",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop No.7, 1-397/14/2, near Venkateshwara Temple, BK Guda, Balkampet, Hyderabad, Telangana 500038",
+    "area": "BK Guda, Balkampet",
+    "latitude": 17.4441275,
+    "longitude": 78.44658629999999,
+    "place_id": "ChIJZzwW48OQyzsRRSbsceq9Vbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzwW48OQyzsRRSbsceq9Vbc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:26:25"
+  }
+]

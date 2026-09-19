@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering",
+    "pincode": "509207",
+    "phone_number": "+91 98480 23143",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 140,
+    "address": "72/4,9HG2+6C8, Plot no 72, Rd Number 1, Balaji Nagar Colony, Mohan Nagar, Srinivas Colony, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Mohan Nagar, Srinivas Colony, Srinagar Colony, Kothapet",
+    "latitude": 17.3753487,
+    "longitude": 78.55027,
+    "place_id": "ChIJq6qqatGQyzsRtcbKyLhbZLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqatGQyzsRtcbKyLhbZLA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:28:14"
+  },
+  {
+    "business_name": "Eventers event management mysore",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment, Event management company, Wedding planner",
+    "pincode": "509207",
+    "phone_number": "+91 70190 17533",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Eventers event management mysore, 509207, India",
+    "area": "509207",
+    "latitude": 12.3041229,
+    "longitude": 76.65202959999999,
+    "place_id": "ChIJiQy1IK5xrzsRnu7_83vdAf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQy1IK5xrzsRnu7_83vdAf8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:28:15"
+  }
+]

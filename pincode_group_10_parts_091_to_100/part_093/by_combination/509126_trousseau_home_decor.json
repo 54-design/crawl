@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunita's home decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "509126",
+    "phone_number": "+91 74174 84584",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 191,
+    "address": "Shop No B-102, Complex Road, Hyderabad, Telangana 500070",
+    "area": "Phase I",
+    "latitude": 17.3306307,
+    "longitude": 78.5744448,
+    "place_id": "ChIJ-whyoHihyzsR9mzHytpJBGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-whyoHihyzsR9mzHytpJBGU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:59:58"
+  },
+  {
+    "business_name": "Trio design",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "509126",
+    "phone_number": "+91 63049 76067",
+    "website": "http://triointeriordesign.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "30-265/50/195, Pragathi Nagar, near 4th Main Road, Sainathapuram, Secunderabad, Telangana 500062",
+    "area": "Sainathapuram, AS Rao Nagar",
+    "latitude": 17.4759739,
+    "longitude": 78.5539962,
+    "place_id": "ChIJ_UbHDcmdyzsR8JGtXMoSL4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UbHDcmdyzsR8JGtXMoSL4s",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:59:59"
+  }
+]

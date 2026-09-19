@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dog-O-Bow | Pet Clothing & Spa, Kokapet",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Bakery and Cake Shop, Pet groomer",
+    "pincode": "509130",
+    "phone_number": "+91 81860 66066",
+    "website": "https://dogobow.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "first floor, MN Corner kokapet village & G.P, Rajendarnagar Mandal, Hyderabad, Telangana 500075",
+    "area": "Kokapet",
+    "latitude": 17.3934715,
+    "longitude": 78.34063019999999,
+    "place_id": "ChIJDedTmUiVyzsRfAm56nmM3PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDedTmUiVyzsRfAm56nmM3PY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:05:36"
+  },
+  {
+    "business_name": "Jojo's Pet Medical and Boutique",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "509130",
+    "phone_number": "+91 91210 19594",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 165,
+    "address": "HMT Bearings Officer, P-69, Rd 1, Saibaba Officer's Colony, Sri Sai Baba Officer's Colony, Osmania University Teachers Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Saibaba Officer's Colony, Sri Sai Baba Officer's Colony, Osmania University Teachers Colony, Sainikpuri",
+    "latitude": 17.4928094,
+    "longitude": 78.54418729999999,
+    "place_id": "ChIJAbrXwXuayzsRFKihbMZ1V2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbrXwXuayzsRFKihbMZ1V2I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:05:37"
+  }
+]

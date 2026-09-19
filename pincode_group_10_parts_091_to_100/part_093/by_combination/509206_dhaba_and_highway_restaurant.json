@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AL Zam Zam Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Hotel, Restaurant",
+    "pincode": "509206",
+    "phone_number": "+91 98853 77352",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Jadcherla, Telangana 509301",
+    "area": "509206",
+    "latitude": 16.7720104,
+    "longitude": 78.12898179999999,
+    "place_id": "ChIJixR86hMwyjsRhQTgo9mUEew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixR86hMwyjsRhQTgo9mUEew",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:44"
+  },
+  {
+    "business_name": "Ashok Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "509206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "GXW2+25J, Shakhapur, Telangana 509382",
+    "area": "509206",
+    "latitude": 16.5450901,
+    "longitude": 77.9503956,
+    "place_id": "ChIJkUsFHm8fyjsRDY66wpryXDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUsFHm8fyjsRDY66wpryXDI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:25:44"
+  }
+]

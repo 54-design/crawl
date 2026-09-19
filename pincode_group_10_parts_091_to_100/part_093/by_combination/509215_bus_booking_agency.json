@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pleasant Journey Tour and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Car leasing service, Minibus taxi service, Sightseeing Tour Operator, Taxi service, Tour agency, Tour operator, Transportation service, Travel agency",
+    "pincode": "509215",
+    "phone_number": "+91 99178 01838",
+    "website": "https://www.pleasantjourneytourandtravels.com/",
+    "rating": 4.5,
+    "reviews_count": 102,
+    "address": "Sahastradhara Rd, near Sethi Petrol pump, Kasturi Nagar, Danda Lakhond, Dehradun, Danda Dhoran, Uttarakhand 248013",
+    "area": "Kasturi Nagar, Danda Lakhond",
+    "latitude": 30.358155999999997,
+    "longitude": 78.087963,
+    "place_id": "ChIJX2AAmILXCDkRB8HXKSsqsPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2AAmILXCDkRB8HXKSsqsPk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:23"
+  },
+  {
+    "business_name": "Uniyal Bus Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "509215",
+    "phone_number": "+91 97600 25375",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 297,
+    "address": "Raipur Rd, Bangakhala, Kidduwala, Dehradun, Uttarakhand 248008",
+    "area": "Bangakhala, Kidduwala",
+    "latitude": 30.300989299999998,
+    "longitude": 78.0935938,
+    "place_id": "ChIJ2XVIu-8pCTkRms--e2F0FJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XVIu-8pCTkRms--e2F0FJ4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:23"
+  }
+]

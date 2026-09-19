@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J J FURNITURE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "509215",
+    "phone_number": "+91 90591 40735",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Nagar, Kurnool Rd, Badepalle, Telangana 509301",
+    "area": "509215",
+    "latitude": 16.754527799999998,
+    "longitude": 78.1478434,
+    "place_id": "ChIJ1ZkY4tQ7yjsR0PmKWJOYjdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZkY4tQ7yjsR0PmKWJOYjdE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:35"
+  },
+  {
+    "business_name": "Chary Furnitures - Furniture for Comfort",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "509215",
+    "phone_number": "+91 85402 26999",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "opp. Masjid, near DKR Function Hall, Nagarkurnool, Telangana 509209",
+    "area": "509215",
+    "latitude": 16.493942,
+    "longitude": 78.310249,
+    "place_id": "ChIJCwAAAFxryjsRKcdYnR6DUTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwAAAFxryjsRKcdYnR6DUTo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:37"
+  }
+]

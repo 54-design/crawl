@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mahalaxmi Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "509129",
+    "phone_number": "+91 88845 45347",
+    "website": "https://www.smgbus.in/",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Shree Mahalaxmi Travels, 509129, India",
+    "area": "509129",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJgQ1jSeHadUQRpBOQexjDwqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQ1jSeHadUQRpBOQexjDwqY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:04:31"
+  },
+  {
+    "business_name": "CSC SRI MALLIKARJUNA ONLINE SERVICES",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Public relations firm",
+    "all_categories": "Public relations firm",
+    "pincode": "509129",
+    "phone_number": "+91 99516 22215",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KT DODDI, Nandinne, GADWAL, Telangana 509129",
+    "area": "KT DODDI",
+    "latitude": 16.2098206,
+    "longitude": 77.5064391,
+    "place_id": "ChIJORlzCTzfyTsRLXGN-kdxgzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORlzCTzfyTsRLXGN-kdxgzc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:04:31"
+  }
+]

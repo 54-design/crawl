@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Sai Roller Flour Mill (P) Limited",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "509128",
+    "phone_number": "+91 97033 41515",
+    "website": "http://ssrfm.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Gaganpahad, Hyderabad, Telangana 500052",
+    "area": "509128",
+    "latitude": 17.2841739,
+    "longitude": 78.4104993,
+    "place_id": "ChIJcyvtzbS9yzsRpamIcEI3cKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyvtzbS9yzsRpamIcEI3cKY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:03:43"
+  },
+  {
+    "business_name": "Sree Sai Roller Flour Mill Unit 2",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "509128",
+    "phone_number": "+91 94412 28225",
+    "website": "https://www.ssrfm.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Plot No. 48, IDA Phase 2, Patancheruvu, Hyderabad, Telangana 502319",
+    "area": "IDA Phase 2",
+    "latitude": 17.5228407,
+    "longitude": 78.2540303,
+    "place_id": "ChIJg-sWaGbzyzsRACDw8ZD4_RI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-sWaGbzyzsRACDw8ZD4_RI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:03:43"
+  }
+]

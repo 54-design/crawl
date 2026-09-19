@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Ice Creams",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Catering food and drink supplier, Wedding service",
+    "pincode": "509125",
+    "phone_number": "+91 90520 64566",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "Hanuman temple, Pargi Road, backside, Shadnagar, Telangana 509216",
+    "area": "backside",
+    "latitude": 17.0687037,
+    "longitude": 78.20385069999999,
+    "place_id": "ChIJ4xtYo8zOyzsRU0TH0h9HVqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xtYo8zOyzsRU0TH0h9HVqE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:20"
+  },
+  {
+    "business_name": "C Narasimha house 🏠",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "509125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6QPP+6H5, Raghavendra Colony, Gadwal, Telangana 509125",
+    "area": "Raghavendra Colony",
+    "latitude": 16.2355181,
+    "longitude": 77.7864841,
+    "place_id": "ChIJrSYbIgD9yTsRVTkABq7uFs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSYbIgD9yTsRVTkABq7uFs0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 05:57:21"
+  }
+]

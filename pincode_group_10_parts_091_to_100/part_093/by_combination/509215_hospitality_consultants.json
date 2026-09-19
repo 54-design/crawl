@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr Chef Hospitality Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "509215",
+    "phone_number": "+91 79720 60140",
+    "website": "https://mrchefhospitality.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "D, 77, Vibhuti Khand Rd, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8634862,
+    "longitude": 80.9956023,
+    "place_id": "ChIJE29nQRnjmzkRSm44DLrDoI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE29nQRnjmzkRSm44DLrDoI0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:48"
+  },
+  {
+    "business_name": "Trident F&B Consultants (P) Limited",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "509215",
+    "phone_number": "+91 99908 12444",
+    "website": "https://tridentfb.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shivaji Marg, Moti Nagar, Karampura Industrial Area, Karam Pura, Delhi, 110015",
+    "area": "Moti Nagar, Karampura Industrial Area, Karam Pura",
+    "latitude": 28.6613078,
+    "longitude": 77.1499741,
+    "place_id": "ChIJOdHLbjQCDTkReezCpzofXQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdHLbjQCDTkReezCpzofXQQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:48"
+  }
+]

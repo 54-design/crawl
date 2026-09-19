@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROSHAN CHEMICALS",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Janitorial service",
+    "pincode": "509132",
+    "phone_number": "+91 81215 55837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside railway gate, Thegalagutta pally, Christian Colony, Karimnagar, Telangana 505001",
+    "area": "Thegalagutta pally, Christian Colony",
+    "latitude": 18.4385553,
+    "longitude": 79.1288412,
+    "place_id": "ChIJnU9g00zZzDsRuBtH6mD6Dik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnU9g00zZzDsRuBtH6mD6Dik",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:10:21"
+  },
+  {
+    "business_name": "A. S. Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "509132",
+    "phone_number": "+91 80 4896 8074",
+    "website": "https://www.aschemicals.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "5, 12/89, Plot No. 89, Rukmini Enclave, Bolarum, Hyderabad, Secunderabad, Telangana 500010",
+    "area": "Rukmini Enclave, Bolarum",
+    "latitude": 17.5170626,
+    "longitude": 78.5149691,
+    "place_id": "ChIJ_____9OayzsRb1fWJsKxgLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____9OayzsRb1fWJsKxgLc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:10:21"
+  }
+]

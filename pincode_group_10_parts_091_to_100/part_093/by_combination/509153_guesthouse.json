@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Syna Farms",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Farmstay",
+    "pincode": "509153",
+    "phone_number": "+91 91548 55985",
+    "website": "http://instagram.com/synafarms",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Makuta Anusha Ecofields, Kothur, Telangana 509228",
+    "area": "509153",
+    "latitude": 17.093000699999997,
+    "longitude": 78.2534585,
+    "place_id": "ChIJX-G2p_HJyzsRhh1tLrPll8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-G2p_HJyzsRhh1tLrPll8M",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:16:46"
+  },
+  {
+    "business_name": "REDDY'S FARM HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "509153",
+    "phone_number": "+91 83281 60107",
+    "website": "https://surveyheart.com/form/64b8d4766f7f3c65bc340c43",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Yethbarapally village, moinabad mandal, Telangana 501504",
+    "area": "509153",
+    "latitude": 17.2670364,
+    "longitude": 78.210151,
+    "place_id": "ChIJ62Qaae3ByzsR_VNxOrJMtOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62Qaae3ByzsR_VNxOrJMtOk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:16:46"
+  }
+]

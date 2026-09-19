@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pargi eye hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509207",
+    "phone_number": "+91 93819 89405",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "5VHM+3WX On, Hyderabad Rd, opposite to Bhavani Theatre, Bijapur, Pargi, Telangana 501501",
+    "area": "509207",
+    "latitude": 17.1777378,
+    "longitude": 77.8848438,
+    "place_id": "ChIJXUBxBABjyTsRpv0yW7y0OlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUBxBABjyTsRpv0yW7y0OlI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:27:42"
+  },
+  {
+    "business_name": "AR OPTICAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "509207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shadnagar road, Pargi, Telangana 501501",
+    "area": "509207",
+    "latitude": 17.164621399999998,
+    "longitude": 77.8850913,
+    "place_id": "ChIJNyW1PxtjyTsR_Yr3j82iOy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyW1PxtjyTsR_Yr3j82iOy0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:27:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Near Me Marketing",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "509208",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/nearmemarketing/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H, Makthal, Telangana 509208",
+    "area": "509208",
+    "latitude": 16.505706699999998,
+    "longitude": 77.508183,
+    "place_id": "ChIJAxQvF8XByTsRhwjHURVyXpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxQvF8XByTsRhwjHURVyXpM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:30:22"
+  },
+  {
+    "business_name": "Thrive Digital Tech Solutions",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Institute of technology",
+    "pincode": "509208",
+    "phone_number": "+91 86883 38343",
+    "website": "https://thrivedigitaltech.in/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Flat No 1, 114, Manjeera Trinity Corporate, beside lulu mall, Kukatpally Housing Board Colony, kphb, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, kphb, Kukatpally",
+    "latitude": 17.4893763,
+    "longitude": 78.3926563,
+    "place_id": "ChIJ63Mt9uuRyzsRo-lozJl-YoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63Mt9uuRyzsRo-lozJl-YoM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:30:22"
+  }
+]

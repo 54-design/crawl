@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vahini Healthcare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical office, Medical supply store",
+    "pincode": "509215",
+    "phone_number": "+91 80081 14464",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "Door No. 1-11-249/A/1, Flat No. G1 Ground Floor, Kochar Apartments Opp. Pantaloons, Begumpet, Hyderabad - 500 016, Hyderabad, Telangana 500016",
+    "area": "Begumpet",
+    "latitude": 17.445059099999998,
+    "longitude": 78.46305029999999,
+    "place_id": "ChIJXzkzOSuRyzsRvkMVgzreUPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzkzOSuRyzsRvkMVgzreUPQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:16"
+  },
+  {
+    "business_name": "Priyanka Health Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Diabetologist, Doctor, First aid station, General practitioner, Hospital, Medical laboratory, Pharmacy",
+    "pincode": "509215",
+    "phone_number": "+91 63601 06527",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 457,
+    "address": "S No.24/1, Main Rd, near Ambedkar Statue, behind Bakery, Kodigehalli, Krishnarajapuram, Kurudusonnenahalli, Bengaluru, Karnataka 560049",
+    "area": "Kodigehalli, Krishnarajapuram",
+    "latitude": 13.0109398,
+    "longitude": 77.7308898,
+    "place_id": "ChIJsYV7kJkRrjsRzhCR-o3fkMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYV7kJkRrjsRzhCR-o3fkMw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:34:17"
+  }
+]

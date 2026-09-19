@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AQUA WORLD & PETS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "509153",
+    "phone_number": "+91 95507 01462",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 1, near National Collage, Munagalapadu, Andhra Pradesh 518004",
+    "area": "509153",
+    "latitude": 15.851903499999999,
+    "longitude": 78.01253969999999,
+    "place_id": "ChIJh1nbSt_htTsRH19Fx1PgpqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1nbSt_htTsRH19Fx1PgpqY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:15:49"
+  },
+  {
+    "business_name": "SK BRIDS WORLD",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "509153",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@SKBRIDSWORLD",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "TEMPLE, GUMMADMMA, Gummadam Village, Telangana 509104",
+    "area": "509153",
+    "latitude": 16.0932103,
+    "longitude": 78.0416065,
+    "place_id": "ChIJneowOcj7tTsRQvek1PqTzgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneowOcj7tTsRQvek1PqTzgU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:15:49"
+  }
+]
