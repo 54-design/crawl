@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kadeer Net Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "517352",
+    "phone_number": "+91 90004 82055",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Angallu, Kurabala Kota, Andhra Pradesh 517326",
+    "area": "517352",
+    "latitude": 13.6292481,
+    "longitude": 78.4858095,
+    "place_id": "ChIJM2xdMBhnsjsR36WSbQfFKgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2xdMBhnsjsR36WSbQfFKgM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:40:13"
+  },
+  {
+    "business_name": "LAKSHMI NARASIMHA NET CENTRE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517352",
+    "phone_number": "+91 79954 58116",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, opp. SBI, Kurabala Kota, Andhra Pradesh 517326",
+    "area": "517352",
+    "latitude": 13.6292482,
+    "longitude": 78.4858095,
+    "place_id": "ChIJb1QMeFdnsjsRQJSSQfPhlX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1QMeFdnsjsRQJSSQfPhlX0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:40:13"
+  }
+]

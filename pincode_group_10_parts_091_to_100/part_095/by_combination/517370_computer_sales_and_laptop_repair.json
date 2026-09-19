@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aswini Saiber",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "517370",
+    "phone_number": "+91 79817 31790",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Pulikallu, Andhra Pradesh 517391",
+    "area": "517370",
+    "latitude": 13.7646844,
+    "longitude": 78.2214466,
+    "place_id": "ChIJJXVoWrQ5sjsRDp7lbkDX-Co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXVoWrQ5sjsRDp7lbkDX-Co",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:42:00"
+  },
+  {
+    "business_name": "Aadya Zerox",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "517370",
+    "phone_number": "+91 90000 83076",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road, Pulikallu, Andhra Pradesh 517391",
+    "area": "517370",
+    "latitude": 13.7699299,
+    "longitude": 78.2231151,
+    "place_id": "ChIJpdhbJ_A5sjsRW-b0v2SnyNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdhbJ_A5sjsRW-b0v2SnyNo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:42:00"
+  }
+]

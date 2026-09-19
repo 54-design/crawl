@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJ Fashions",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "517352",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "JFHJ+JV2 Happy Home PG Hostel, Angallu, Kurabala Kota, Andhra Pradesh 517326",
+    "area": "517352",
+    "latitude": 13.6287025,
+    "longitude": 78.4820265,
+    "place_id": "ChIJVYNqSwBnsjsR7srZvKXgcdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYNqSwBnsjsR7srZvKXgcdA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:17"
+  },
+  {
+    "business_name": "Kishore Bodimandla, Poojarivaripalli",
+    "search_category": "Boutiques",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "517352",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 7,
+    "address": "JFP5+Q7H, Poojarivaripalli village, Rishivalley post.Chittoor District,Madanaplle, Taluk, Thettu H/o, Kurabala Kota, Andhra Pradesh 517352",
+    "area": "Thettu H/o",
+    "latitude": 13.6369419,
+    "longitude": 78.4582214,
+    "place_id": "ChIJA6lE9AxpsjsRN4JMGi7idO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6lE9AxpsjsRN4JMGi7idO0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sawali Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517352",
+    "phone_number": "+91 99750 95000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "83MJ+64, Khandegaon, Maharashtra 431512",
+    "area": "517352",
+    "latitude": 19.3330786,
+    "longitude": 77.08031849999999,
+    "place_id": "ChIJdzzrJQAx0DsR6jKk2nb58sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzzrJQAx0DsR6jKk2nb58sI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:04"
+  },
+  {
+    "business_name": "SJ Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517352",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Rishi Valley Cross Dommanabavi Angallu, Kurabala Kota, Andhra Pradesh 517352",
+    "area": "517352",
+    "latitude": 13.6449283,
+    "longitude": 78.4670848,
+    "place_id": "ChIJdWKklBRDsjsRGqnGh9hguYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWKklBRDsjsRGqnGh9hguYI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:06"
+  }
+]

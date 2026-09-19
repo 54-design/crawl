@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Car Deal",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "517352",
+    "phone_number": "+91 72768 63203",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Best Car Deal, Kundan Plaza Square, Nagpur Rd, Wadgaon, Chandrapur, Maharashtra 442402",
+    "area": "Wadgaon",
+    "latitude": 19.987161399999998,
+    "longitude": 79.2712093,
+    "place_id": "ChIJUWmewyXX0jsRQ38xv_4LW3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWmewyXX0jsRQ38xv_4LW3Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:32"
+  },
+  {
+    "business_name": "Raj Car Deals",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "517352",
+    "phone_number": "+91 98221 65165",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X8XJ+PP8, W2, JK Files Rd, near Lions Hospital, Nachane, Maharashtra 415639",
+    "area": "517352",
+    "latitude": 16.999224299999998,
+    "longitude": 73.3317685,
+    "place_id": "ChIJQRhBGQAN6jsRNbyVd_0yfko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRhBGQAN6jsRNbyVd_0yfko",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badshah Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517352",
+    "phone_number": "+91 81271 33033",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "X3WF+G5W, Manda Link Road, Koraon, Uttar Pradesh 212306",
+    "area": "517352",
+    "latitude": 24.9963746,
+    "longitude": 82.0729501,
+    "place_id": "ChIJz9lmpGhmhTkRNwGTQ9yuff4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9lmpGhmhTkRNwGTQ9yuff4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:15"
+  },
+  {
+    "business_name": "Pioneer Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler, Store",
+    "pincode": "517352",
+    "phone_number": "+91 99083 33000",
+    "website": "http://www.pioneershoes.in/",
+    "rating": 4.3,
+    "reviews_count": 859,
+    "address": "30-10-2, Daba Garden Rd, Daba Gardens, Allipuram, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.7163786,
+    "longitude": 83.3019274,
+    "place_id": "ChIJX_N2oRlDOToRKBAKGDFJjtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_N2oRlDOToRKBAKGDFJjtM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:15"
+  }
+]

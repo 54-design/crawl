@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kruthika Fancy Store",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "517370",
+    "phone_number": "+91 73962 17736",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PTM Rd, B.Kothakota, Andhra Pradesh 517370",
+    "area": "517370",
+    "latitude": 13.6582791,
+    "longitude": 78.261201,
+    "place_id": "ChIJzw9D5Q4_sjsREDy-kM7ZiVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzw9D5Q4_sjsREDy-kM7ZiVg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:41:06"
+  },
+  {
+    "business_name": "Farhana",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "517370",
+    "phone_number": "+91 93904 55391",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taj Manzil, near B.Kothakota, B.Kothakota, Andhra Pradesh 517370",
+    "area": "517370",
+    "latitude": 13.6580705,
+    "longitude": 78.2587638,
+    "place_id": "ChIJI57MOM4_sjsROXTm5hVXI3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI57MOM4_sjsROXTm5hVXI3g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:41:06"
+  }
+]

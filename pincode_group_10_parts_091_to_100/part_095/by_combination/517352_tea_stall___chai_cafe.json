@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517352",
+    "phone_number": "+91 97700 91471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hanumana, Madhya Pradesh 486335",
+    "area": "517352",
+    "latitude": 24.7959152,
+    "longitude": 82.1070629,
+    "place_id": "ChIJL3iDN4l7hTkR-ypcEjwx29I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3iDN4l7hTkR-ypcEjwx29I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:03"
+  },
+  {
+    "business_name": "Irani Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517352",
+    "phone_number": "+91 99663 37681",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Shop No 9, Main Bazar, 17/32/1A, Chennai - Anantapur Hwy, opp. MITS College, Kurabala Kota, Andhra Pradesh 517326",
+    "area": "517352",
+    "latitude": 13.633305499999999,
+    "longitude": 78.48028409999999,
+    "place_id": "ChIJMTebs0hnsjsRwj0yszUd3R8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTebs0hnsjsRwj0yszUd3R8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:39:03"
+  }
+]

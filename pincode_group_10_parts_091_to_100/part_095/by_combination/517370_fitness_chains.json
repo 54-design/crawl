@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Central md fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "M756+2WH, B.Kothakota, Andhra Pradesh 517370",
+    "area": "517370",
+    "latitude": 13.657564299999999,
+    "longitude": 78.2623539,
+    "place_id": "ChIJG6mFRAA_sjsRLJRXEJDS1wM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6mFRAA_sjsRLJRXEJDS1wM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:41:15"
+  },
+  {
+    "business_name": "Don Fitness Centre - Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Physical fitness program",
+    "pincode": "517370",
+    "phone_number": "+91 98958 75636",
+    "website": "https://www.instagram.com/_don_fitness_/",
+    "rating": 4.9,
+    "reviews_count": 58,
+    "address": "2nd Floor, Building, Chittoor Rd, near Village Office, Chakkalakkal, South Chittoor, Kochi, Keralam 682027",
+    "area": "Chakkalakkal, South Chittoor",
+    "latitude": 10.030083399999999,
+    "longitude": 76.2754096,
+    "place_id": "ChIJQU61CmwNCDsR21bHyd6pBZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQU61CmwNCDsR21bHyd6pBZk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:41:18"
+  }
+]

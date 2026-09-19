@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddybabu Auto",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "517370",
+    "phone_number": "+91 99638 30035",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ptm, Main Road, Andhra Pradesh 517370",
+    "area": "517370",
+    "latitude": 13.659391999999999,
+    "longitude": 78.259833,
+    "place_id": "ChIJvcil2p4_sjsRtbrZNtjjjbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcil2p4_sjsRtbrZNtjjjbw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:41:19"
+  },
+  {
+    "business_name": "Moghal Mohammad Afrid",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "517370",
+    "phone_number": "+91 63048 58837",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M726, Br Road, B.Kothakota, Andhra Pradesh 517370",
+    "area": "517370",
+    "latitude": 13.652783999999999,
+    "longitude": 78.26109509999999,
+    "place_id": "ChIJWUoMhLA_sjsRKL-XzU6YEew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUoMhLA_sjsRKL-XzU6YEew",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:41:19"
+  }
+]

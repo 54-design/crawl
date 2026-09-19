@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oil production",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store, Olive oil manufacturer",
+    "pincode": "517370",
+    "phone_number": "+91 94906 24616",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2-4-4, Tadipatri Rd, Bukkaraya Samudram, Andhra Pradesh 515701",
+    "area": "517370",
+    "latitude": 14.6888159,
+    "longitude": 77.6302511,
+    "place_id": "ChIJL-swgklLsTsRx0H6Iq9G5vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-swgklLsTsRx0H6Iq9G5vg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:40:48"
+  },
+  {
+    "business_name": "Raghavendra Enterprises",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "517370",
+    "phone_number": "+91 80 2670 6525",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 14, 2nd Cross, 2nd Main Road, New Tharagupet, Bengaluru, Karnataka 560002",
+    "area": "New Tharagupet",
+    "latitude": 12.9629725,
+    "longitude": 77.5716971,
+    "place_id": "ChIJD2Ok7vwVrjsRH3mHgvxg2bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2Ok7vwVrjsRH3mHgvxg2bE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:40:48"
+  }
+]
