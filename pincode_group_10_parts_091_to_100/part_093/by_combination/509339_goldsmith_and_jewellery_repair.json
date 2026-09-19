@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "509339",
+    "phone_number": "+91 90324 14085",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Chowk, Ghanapurward, Tandur, Telangana 501141",
+    "area": "Ghanapurward",
+    "latitude": 17.256699599999997,
+    "longitude": 77.5850136,
+    "place_id": "ChIJf93qIwBryTsRPInyb8Jc6Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf93qIwBryTsRPInyb8Jc6Ns",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:08:34"
+  },
+  {
+    "business_name": "Maa Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Gold dealer, Goldsmith, Jeweler",
+    "pincode": "509339",
+    "phone_number": "+91 96186 65916",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop no-5, Rajagopalachari St, Near N. T. R. Complex, 2 Town, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near N. T. R. Complex, 2 Town, Governor Peta",
+    "latitude": 16.512676499999998,
+    "longitude": 80.62553919999999,
+    "place_id": "ChIJwb8wKGfvNToR32wUlM3EBGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwb8wKGfvNToR32wUlM3EBGQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:08:34"
+  }
+]

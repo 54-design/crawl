@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VDALPH TECH",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer Rental Agency, Computer Wholesaler, Computer support and services",
+    "pincode": "509235",
+    "phone_number": "+91 90004 00001",
+    "website": "https://www.vdalph.com/",
+    "rating": 4.6,
+    "reviews_count": 2455,
+    "address": "H.No: 1, Mezenine Siddamsetty complex, 2 & 3, Park Ln, Chenoy Trade Center, CTC, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Chenoy Trade Center, CTC, Kalasiguda",
+    "latitude": 17.4404118,
+    "longitude": 78.48991389999999,
+    "place_id": "ChIJWUMZA0GbyzsR19kkuYiCC1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUMZA0GbyzsR19kkuYiCC1s",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:43:31"
+  },
+  {
+    "business_name": "COMPUTER WORLD",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service, Computer software store, Computer store, Desktop publishing service, Software company, Used computer store",
+    "pincode": "509235",
+    "phone_number": "+91 96066 66787",
+    "website": "https://comptertechworld.blogspot.com/",
+    "rating": 4.9,
+    "reviews_count": 250,
+    "address": "1st floor, Tanya Complex, 1/A, 1/A, 80 Feet Rd, beside Deewar Hotel, 2nd Block, Nagarbhavi 1st Stage, Chandra Layout, Attiguppe, Bengaluru, Karnataka 560040",
+    "area": "2nd Block, Nagarbhavi 1st Stage, Chandra Layout, Attiguppe",
+    "latitude": 12.9584687,
+    "longitude": 77.5257519,
+    "place_id": "ChIJl-PPTgM_rjsR3-vrGIYsp5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-PPTgM_rjsR3-vrGIYsp5g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:43:32"
+  }
+]

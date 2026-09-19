@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL KIA PLAZA RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "515110",
+    "phone_number": "+91 95622 26611",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "5JFF+9V5, circle, near KIA India, Penukonda, Munimadugu, Andhra Pradesh 515164",
+    "area": "515110",
+    "latitude": 14.173437499999999,
+    "longitude": 77.6246875,
+    "place_id": "ChIJaxCzEgBtsTsRrAl2fmekltE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxCzEgBtsTsRrAl2fmekltE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:02:40"
+  },
+  {
+    "business_name": "Veer Teja Ji Rajasthani Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "515110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "5JGG+MXV, Srinagar - Kanyakumari Hwy, Ammavaru Palli, Gutturu, Andhra Pradesh 515164",
+    "area": "Ammavaru Palli",
+    "latitude": 14.1763587,
+    "longitude": 77.6271304,
+    "place_id": "ChIJMW5gIwBtsTsRTv03G-ZnhV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMW5gIwBtsTsRTv03G-ZnhV0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 08:02:41"
+  }
+]

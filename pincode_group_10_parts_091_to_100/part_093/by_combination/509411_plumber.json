@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect Plumbing Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "509411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "H, no 3-5-782/27/10, near Neerus Amporium, King Koti, Abids, Hyderabad, Telangana 500029",
+    "area": "King Koti, Abids",
+    "latitude": 17.3999405,
+    "longitude": 78.4865875,
+    "place_id": "ChIJZXWxTMOZyzsRFt7myM9cDWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXWxTMOZyzsRFt7myM9cDWc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:55"
+  },
+  {
+    "business_name": "Srinivas plumbing services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Tile contractor",
+    "pincode": "509411",
+    "phone_number": "+91 93922 08199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 99,
+    "address": "C92W+G3M, Vinayak Nagar Rd, Vinayak Nagar Colony, Shaikpet, Manikonda, Hyderabad, Telangana 500104",
+    "area": "Vinayak Nagar Colony, Shaikpet",
+    "latitude": 17.4013429,
+    "longitude": 78.3951993,
+    "place_id": "ChIJF9-pFwCXyzsRr5NB2mNyaOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9-pFwCXyzsRr5NB2mNyaOw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:57"
+  }
+]

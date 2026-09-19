@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "509410",
+    "phone_number": "+91 86863 32288",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot-no-92, High Tension Rd, Vignanapuri Colony, Mythri Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vignanapuri Colony, Mythri Nagar, Kukatpally",
+    "latitude": 17.483926099999998,
+    "longitude": 78.4210117,
+    "place_id": "ChIJWREy1WGRyzsRyV7p7dHgGUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWREy1WGRyzsRyV7p7dHgGUE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:24"
+  },
+  {
+    "business_name": "Abhi Caterings Veg and Nonveg",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "509410",
+    "phone_number": "+91 99661 24412",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 355,
+    "address": "MIG - 300, Ramreddy Nagar Colony, Balaji Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Ramreddy Nagar Colony, Balaji Nagar, Kukatpally",
+    "latitude": 17.4834392,
+    "longitude": 78.4062447,
+    "place_id": "ChIJTV1pEb2RyzsR26PgHMkCGaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV1pEb2RyzsR26PgHMkCGaE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:25"
+  }
+]

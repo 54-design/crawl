@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NR General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "509407",
+    "phone_number": "+91 90527 96844",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-91/1, SC Colony, Renivatla Village, Maddur, Telangana 509411",
+    "area": "509407",
+    "latitude": 16.824120399999998,
+    "longitude": 77.60827619999999,
+    "place_id": "ChIJ82E1u1CfyTsRkvyOfO7aYv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82E1u1CfyTsRkvyOfO7aYv4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:41:14"
+  },
+  {
+    "business_name": "MR Medical And General Stores",
+    "search_category": "General Store",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "509407",
+    "phone_number": "+91 73825 34481",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "yanagundi road, Damargidda, Telangana 509407",
+    "area": "509407",
+    "latitude": 16.820146599999998,
+    "longitude": 77.49994219999999,
+    "place_id": "ChIJNQuJ5CChyTsRtZ1kRp6PAzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQuJ5CChyTsRtZ1kRp6PAzU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:41:17"
+  }
+]

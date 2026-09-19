@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Living Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior Decorator",
+    "pincode": "509357",
+    "phone_number": "+91 99495 24777",
+    "website": "http://www.happylivinginteriors.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd floor, Nanakramguda Rd, Gachibowli, Hyderabad, Makthakousarali, Telangana 500032",
+    "area": "Gachibowli",
+    "latitude": 17.419321699999998,
+    "longitude": 78.3546008,
+    "place_id": "ChIJOQrqBIqVyzsR05R98bApF5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQrqBIqVyzsR05R98bApF5Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:21:09"
+  },
+  {
+    "business_name": "Elvy",
+    "search_category": "Interior Designers",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "509357",
+    "phone_number": "+91 99584 40888",
+    "website": "http://www.elvy.com/",
+    "rating": 4,
+    "reviews_count": 37,
+    "address": "8-2-684, 3/162, Road No. 12, Kaushik Society, Bhavani Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Kaushik Society, Bhavani Nagar, Banjara Hills",
+    "latitude": 17.41254,
+    "longitude": 78.4309098,
+    "place_id": "ChIJU779USSXyzsRBdiGSpuZiX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU779USSXyzsRBdiGSpuZiX4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:21:10"
+  }
+]

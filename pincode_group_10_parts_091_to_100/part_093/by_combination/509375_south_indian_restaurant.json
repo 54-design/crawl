@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri vinayaka Bombu Balice merchant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "509375",
+    "phone_number": "+91 63052 71053",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Achampet, Telangana 509375",
+    "area": "509375",
+    "latitude": 16.398981499999998,
+    "longitude": 78.6370376,
+    "place_id": "ChIJ9zGiiBN9yjsRBiMOKLnhUqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zGiiBN9yjsRBiMOKLnhUqg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:27:31"
+  },
+  {
+    "business_name": "Ahwana Kitchen & Bar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Bar",
+    "pincode": "509375",
+    "phone_number": "+91 89772 52515",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "98QV+22Q, above Vijetha Super Market, Kokapet, Hyderabad, Telangana 500075",
+    "area": "Kokapet",
+    "latitude": 17.387562499999998,
+    "longitude": 78.3425625,
+    "place_id": "ChIJqStqzqqVyzsRbQL-n0j-UcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqStqzqqVyzsRbQL-n0j-UcY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:27:31"
+  }
+]

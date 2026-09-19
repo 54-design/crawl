@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chef Saru Bellam Tea",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "509375",
+    "phone_number": "+91 93465 48981",
+    "website": "https://chefsarufoods.com/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Achampet, Telangana 509375",
+    "area": "509375",
+    "latitude": 16.402352699999998,
+    "longitude": 78.6563883,
+    "place_id": "ChIJc9XHxGx9yjsR6zbIAiq0w2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9XHxGx9yjsR6zbIAiq0w2E",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:27:33"
+  },
+  {
+    "business_name": "Old Town 80's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "509375",
+    "phone_number": "+91 91825 24550",
+    "website": "https://oldtown-80s.preview.emergentagent.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Street No 9, AP State Housing Board, Krishna Giri Enclave, Tarnaka, Secunderabad, Telangana 500017",
+    "area": "AP State Housing Board, Krishna Giri Enclave, Tarnaka",
+    "latitude": 17.429594299999998,
+    "longitude": 78.53442129999999,
+    "place_id": "ChIJO53SagOZyzsRcfBmYy_QeVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO53SagOZyzsRcfBmYy_QeVQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:27:33"
+  }
+]

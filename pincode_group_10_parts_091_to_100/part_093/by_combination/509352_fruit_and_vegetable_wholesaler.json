@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V P brothers vegetable",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "509352",
+    "phone_number": "+91 93468 98608",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mudumal, Telangana 509352",
+    "area": "509352",
+    "latitude": 16.3876009,
+    "longitude": 77.4334791,
+    "place_id": "ChIJ5SR8RLzFyTsR60kRftEUG18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SR8RLzFyTsR60kRftEUG18",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:16:52"
+  },
+  {
+    "business_name": "Sri Balaji swchha vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "509352",
+    "phone_number": "+91 79952 86998",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "Sri Balaji swchha vegetables, Palletoori dosa line, near boongg bikes, Hyderabad, Telangana 500032",
+    "area": "APHB Colony, Andhra Pradesh Housing Board Phase-IV, Indira Nagar, Gachibowli",
+    "latitude": 17.4477194,
+    "longitude": 78.3591101,
+    "place_id": "ChIJEYD94KaTyzsReBeBJC4bqaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYD94KaTyzsReBeBJC4bqaI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:16:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "36 The Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "509376",
+    "phone_number": "+91 99486 71525",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 377,
+    "address": "SNA road, NH 161, Fathlapur village, Bichkunda, Telangana 503306",
+    "area": "509376",
+    "latitude": 18.3904876,
+    "longitude": 77.6751096,
+    "place_id": "ChIJZdsfTpmJzjsRE0KA8aC3TM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdsfTpmJzjsRE0KA8aC3TM4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:11"
+  },
+  {
+    "business_name": "Golden Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "509376",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 664,
+    "address": "Tupran Baypass NH44, Tollget, Tupran, Telangana 502334",
+    "area": "Tupran",
+    "latitude": 17.8129203,
+    "longitude": 78.470905,
+    "place_id": "ChIJY5aqImNxzDsR48oLoxq9yhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5aqImNxzDsR48oLoxq9yhI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:12"
+  }
+]

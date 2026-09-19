@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI RAGHAVENDRA OPTICALS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "509340",
+    "phone_number": "+91 98666 79915",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-6-1/B Deo Office Circle, Station Rd, Mahbubnagar, Telangana 509001",
+    "area": "Boyapalle Rural",
+    "latitude": 16.752872699999998,
+    "longitude": 77.99945579999999,
+    "place_id": "ChIJCzFNDh0pyjsRKiGb9vGmWYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzFNDh0pyjsRKiGb9vGmWYs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:10:20"
+  },
+  {
+    "business_name": "K M OPTICALS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Hospital",
+    "pincode": "509340",
+    "phone_number": "+91 91332 77386",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "1, Kosgi Rd, near Vegtable Market, Monappagutta, Mahbubnagar, Telangana 509001",
+    "area": "Monappagutta",
+    "latitude": 16.7484355,
+    "longitude": 77.9863134,
+    "place_id": "ChIJFZkPDycmyjsR2pDT70OxRjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZkPDycmyjsR2pDT70OxRjA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:10:20"
+  }
+]

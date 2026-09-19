@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventions Media",
+    "search_category": "Media and Event",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "509311",
+    "phone_number": "+91 91609 82222",
+    "website": "http://eventions.co.in/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "C9X5+3PW, APHB Colony, Andhra Pradesh Housing Board Phase-IV, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "APHB Colony, Andhra Pradesh Housing Board Phase-IV, Indira Nagar, Gachibowli",
+    "latitude": 17.4477388,
+    "longitude": 78.3593202,
+    "place_id": "ChIJ5ZEhAziTyzsRy-3PHXCqzjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZEhAziTyzsRy-3PHXCqzjE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:35"
+  },
+  {
+    "business_name": "eventZ&More",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "509311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Brindavan apts, 2-790/54, Ayodhya Nagar Colony, Gudimalkapur, Hyderabad, Telangana 500006",
+    "area": "Ayodhya Nagar Colony, Gudimalkapur",
+    "latitude": 17.3926946,
+    "longitude": 78.4354104,
+    "place_id": "ChIJS5HzeViXyzsRezCGhZEMaWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5HzeViXyzsRezCGhZEMaWc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:36"
+  }
+]

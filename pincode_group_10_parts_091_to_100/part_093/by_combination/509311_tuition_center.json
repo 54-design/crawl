@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Score99 Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Charter school, Education center, Studying center",
+    "pincode": "509311",
+    "phone_number": "+91 88978 59762",
+    "website": "http://www.score99academy.com/",
+    "rating": 4.7,
+    "reviews_count": 106,
+    "address": "485, Street Number 10, Aswini Colony, West Marredpally, Secunderabad, Telangana 500026",
+    "area": "Aswini Colony, West Marredpally",
+    "latitude": 17.4497035,
+    "longitude": 78.5064148,
+    "place_id": "ChIJD3IkHACbyzsRsFmg0iXvrbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3IkHACbyzsRsFmg0iXvrbI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:40"
+  },
+  {
+    "business_name": "BRS institute",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "509311",
+    "phone_number": "+91 99081 25126",
+    "website": "http://brschess.com/",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "Krishnapuri Colony, Krishnapuri, colony, Hyderabad, Secunderabad, Telangana 500026",
+    "area": "Krishnapuri Colony, Krishnapuri, colony",
+    "latitude": 17.4544939,
+    "longitude": 78.5044444,
+    "place_id": "ChIJfQk-X6ObyzsREEs6rWVE0rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQk-X6ObyzsREEs6rWVE0rY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:40"
+  }
+]

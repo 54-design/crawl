@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service, Photography studio, Wedding photographer",
+    "pincode": "509381",
+    "phone_number": "+91 98660 97260",
+    "website": "https://smartphotography.pro/",
+    "rating": 5,
+    "reviews_count": 407,
+    "address": "Opposite Public Gardens, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Opposite Public Gardens, Kishanpura",
+    "latitude": 18.0101185,
+    "longitude": 79.5600087,
+    "place_id": "ChIJM85nh31PMzoR1G4bRLJik7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM85nh31PMzoR1G4bRLJik7Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:33:31"
+  },
+  {
+    "business_name": "saikiran1818",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "509381",
+    "phone_number": "+91 98492 72716",
+    "website": "https://saikiran1818.mypixieset.com/",
+    "rating": 4.9,
+    "reviews_count": 75,
+    "address": "Sri Sai Nilayam, Ashoka Colony, Hanamkonda, Telangana 506001",
+    "area": "Ashoka Colony",
+    "latitude": 18.0088361,
+    "longitude": 79.5449943,
+    "place_id": "ChIJv504QKBPMzoRHAUfjYJUFPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv504QKBPMzoRHAUfjYJUFPU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:33:31"
+  }
+]

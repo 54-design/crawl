@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RegisterKaro",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Accountant, Accounting firm, Bookkeeping service, Business development service, Chartered accountant, Financial consultant, Lawyer",
+    "pincode": "509219",
+    "phone_number": "+91 92173 26570",
+    "website": "https://www.registerkaro.in/",
+    "rating": 4.1,
+    "reviews_count": 2862,
+    "address": "Unit 101, OXFORD TOWERS, 139, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560008",
+    "area": "Kodihalli",
+    "latitude": 12.959199499999999,
+    "longitude": 77.64690929999999,
+    "place_id": "ChIJS34nY8UgvqkRaSUNFJ96Of0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS34nY8UgvqkRaSUNFJ96Of0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:40:12"
+  },
+  {
+    "business_name": "Corporate Bhavan RoC Hyderabad",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "509219",
+    "phone_number": "+91 40 2980 5427",
+    "website": "https://www.mca.gov.in/MinistryV2/homepage.html",
+    "rating": 4.2,
+    "reviews_count": 64,
+    "address": "9HCQ+GG2, GSI Post, Tattiannaram, Corporate Bhawan Rd, Bandlaguda, Nagole, Hyderabad, Telangana 500068",
+    "area": "Bandlaguda, Nagole",
+    "latitude": 17.371258,
+    "longitude": 78.5887798,
+    "place_id": "ChIJtfro9D2fyzsRHwzCxm8yGPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfro9D2fyzsRHwzCxm8yGPA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:40:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali Sarees Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Shopping mall, Women's clothing store",
+    "pincode": "509228",
+    "phone_number": "+91 40 6636 2428",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9-26/1, near Metro Pillar No. 1536, Gaddiannaram, Vijeta Complex, Lalitha Nagar, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Gaddiannaram, Vijeta Complex, Lalitha Nagar, Dilsukhnagar",
+    "latitude": 17.3676125,
+    "longitude": 78.5254722,
+    "place_id": "ChIJPfVLxvaYyzsRPJGNvlcV9X4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfVLxvaYyzsRPJGNvlcV9X4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:40:45"
+  },
+  {
+    "business_name": "Sri Manisha Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Designer Clothing Store, Dress store, Fabric store, Women's clothing store",
+    "pincode": "509228",
+    "phone_number": "+91 72045 92943",
+    "website": "https://www.srimanishasarees.com/",
+    "rating": 4.9,
+    "reviews_count": 241,
+    "address": "Chapel Rd, opp. STANLEY GIRLS JUNIOR COLLEGE, Brook Bond Colony, Chirag Ali Lane, Abids, Hyderabad, Telangana 500001",
+    "area": "Brook Bond Colony, Chirag Ali Lane, Abids",
+    "latitude": 17.394633499999998,
+    "longitude": 78.4739929,
+    "place_id": "ChIJ40_k6teZyzsR3FeCoHMozv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40_k6teZyzsR3FeCoHMozv4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:40:45"
+  }
+]

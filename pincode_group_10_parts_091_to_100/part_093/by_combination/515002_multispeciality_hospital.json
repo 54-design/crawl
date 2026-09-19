@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUNRISE HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515002",
+    "phone_number": "+91 88863 96666",
+    "website": "https://svcsunrisehospital.com/",
+    "rating": 4.8,
+    "reviews_count": 246,
+    "address": "24-143 krishna reddy complex, Kalyandurgam Rd, opp. Raja Hotel, Anantapur, Andhra Pradesh 515004",
+    "area": "Rudrampeta",
+    "latitude": 14.6833645,
+    "longitude": 77.5791053,
+    "place_id": "ChIJcY0vS5ItsTsROMo6263ieKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcY0vS5ItsTsROMo6263ieKo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:53:52"
+  },
+  {
+    "business_name": "Tamiz Surgical",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "515002",
+    "phone_number": "+91 94433 71020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Adamsa Lane, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9192213,
+    "longitude": 78.1145854,
+    "place_id": "ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:53:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki ARENA (Mithra Agencies, Kadthal, Kandukuru)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Suzuki dealer",
+    "all_categories": "Suzuki dealer, Car dealer",
+    "pincode": "509321",
+    "phone_number": "+91 8071 649 172",
+    "website": "https://www.marutisuzuki.com/arena/service/workshop-locator",
+    "rating": 4.8,
+    "reviews_count": 93,
+    "address": "S NO 8, KANDUKURU, Kadthal, Telangana 509358",
+    "area": "509321",
+    "latitude": 16.9895806,
+    "longitude": 78.5026951,
+    "place_id": "ChIJBc0fSL6tyzsRIIp9Ui3ooDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBc0fSL6tyzsRIIp9Ui3ooDM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:32"
+  },
+  {
+    "business_name": "Value car mart",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "509321",
+    "phone_number": "+91 90590 51888",
+    "website": "https://www.valuecarmart.in/",
+    "rating": 4.7,
+    "reviews_count": 249,
+    "address": "Plot No, : 264B, 100 Feet Rd, Guttala_Begumpet, Sarojini Naidu Nagar, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Guttala_Begumpet, Sarojini Naidu Nagar, Madhapur",
+    "latitude": 17.4505431,
+    "longitude": 78.3963758,
+    "place_id": "ChIJB2bohB6RyzsRoEcJXyaDJd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2bohB6RyzsRoEcJXyaDJd4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:34"
+  }
+]

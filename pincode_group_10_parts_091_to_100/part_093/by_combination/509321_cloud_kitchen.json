@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLOUD 4 KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509321",
+    "phone_number": "+91 90327 99620",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "SYNO.157/7, STUFF ROAD, Wahab Nagar, Sikh Village, Gunrock Enclave, Secunderabad, Telangana 500009",
+    "area": "Wahab Nagar, Sikh Village, Gunrock Enclave",
+    "latitude": 17.4605446,
+    "longitude": 78.49290289999999,
+    "place_id": "ChIJl70Y5JybyzsRXLleasQuYts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl70Y5JybyzsRXLleasQuYts",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:09"
+  },
+  {
+    "business_name": "Mana Inti Bhojanam (The Roof Top Restaurant) - Chintal",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "509321",
+    "phone_number": "+91 62624 33334",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2nd floor, Goroge, sattaiah complex, 48-304, Towards, Jeedimetla Main Road, above TVS showroom, Ganesh Nagar, Quthbullapur, Hyderabad, Telangana 500054",
+    "area": "Ganesh Nagar, Quthbullapur",
+    "latitude": 17.490883399999998,
+    "longitude": 78.45133489999999,
+    "place_id": "ChIJ0RVRAASRyzsR_K2g685HJkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RVRAASRyzsR_K2g685HJkM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:09"
+  }
+]

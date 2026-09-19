@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastika Investmart Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment company, Investment service",
+    "pincode": "509339",
+    "phone_number": "+91 80 6904 9876",
+    "website": "https://www.swastika.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "48, MY Hospital Rd, Jaora Compound, Indore, Madhya Pradesh 452001",
+    "area": "Jaora Compound",
+    "latitude": 22.7114771,
+    "longitude": 75.8803178,
+    "place_id": "ChIJ0RYZHRj9YjkRllo4zuE4BvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RYZHRj9YjkRllo4zuE4BvI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:09:35"
+  },
+  {
+    "business_name": "Fortune Fiscal Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Online Share Trading Center",
+    "pincode": "509339",
+    "phone_number": "+91 265 236 1450",
+    "website": "http://www.fortunefiscal.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "208, Blue Chip Complex, Near Kala Ghoda, Sarod, Sayajiganj, Vadodara, Gujarat 390007",
+    "area": "Near Kala Ghoda, Sarod, Sayajiganj",
+    "latitude": 22.3079099,
+    "longitude": 73.1862448,
+    "place_id": "ChIJqxektFPPXzkRcjdBi6ebOl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxektFPPXzkRcjdBi6ebOl8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:09:38"
+  }
+]

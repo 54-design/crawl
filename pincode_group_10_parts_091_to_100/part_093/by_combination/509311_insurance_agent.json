@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Southland Insurance and Financial Services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment",
+    "pincode": "509311",
+    "phone_number": "N/A",
+    "website": "http://www.gosouthland.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Southland Insurance and Financial Services, 509311, India",
+    "area": "509311",
+    "latitude": 41.6750069,
+    "longitude": -87.9788075,
+    "place_id": "ChIJC47_sso-DogRiXgoHf2Fu5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC47_sso-DogRiXgoHf2Fu5o",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:49"
+  },
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "509311",
+    "phone_number": "+91 22 6868 1414",
+    "website": "https://www.finobank.com/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "2-5-52, Brahman Wadi, Narayanpet, Telangana 509210",
+    "area": "Brahman Wadi",
+    "latitude": 16.7414518,
+    "longitude": 77.5003438,
+    "place_id": "ChIJH0TJRUGjyTsRTdC1KVT6YK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0TJRUGjyTsRTdC1KVT6YK0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Print shop, Cooler Supplier",
+    "pincode": "509228",
+    "phone_number": "+91 87575 52818",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 46,
+    "address": "12 Throb, Meena Bazar Ln, Hyderabad, Telangana 500001",
+    "area": "Troop Bazaar, Koti",
+    "latitude": 17.3869939,
+    "longitude": 78.477398,
+    "place_id": "ChIJqTarzdWZyzsRINaClZmDR1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTarzdWZyzsRINaClZmDR1k",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:16"
+  },
+  {
+    "business_name": "Raymoon lighting house",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Lighting consultant",
+    "pincode": "509228",
+    "phone_number": "+91 73964 58861",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3068,
+    "address": "beside holy mary college, Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally",
+    "latitude": 17.488397799999998,
+    "longitude": 78.39146439999999,
+    "place_id": "ChIJrZqntMCRyzsRqzYgjRrm72Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZqntMCRyzsRqzYgjRrm72Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:17"
+  }
+]

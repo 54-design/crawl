@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "509228",
+    "phone_number": "+91 97041 55755",
+    "website": "https://haritrice.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Hyderabad - Bengaluru Hwy, opposite to barath petroleum, Palamakul, Venkannaguda, Telangana 509325",
+    "area": "509228",
+    "latitude": 17.1882314,
+    "longitude": 78.30999659999999,
+    "place_id": "ChIJk18sSLO5yzsR9p05ZAj05Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk18sSLO5yzsR9p05ZAj05Xs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:04"
+  },
+  {
+    "business_name": "Sri Annapurna Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "509228",
+    "phone_number": "+91 98488 83862",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "4-35, Himayath Nagar Village, Moinabad, beside Vidya Jyothi Engineering College, Hyderabad, Telangana 500075",
+    "area": "509228",
+    "latitude": 17.3429672,
+    "longitude": 78.32306919999999,
+    "place_id": "ChIJ92g8VYOVyzsR18oR6E32RrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92g8VYOVyzsR18oR6E32RrE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:06"
+  }
+]

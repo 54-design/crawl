@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AEC Overseas",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "509327",
+    "phone_number": "+91 92468 18083",
+    "website": "https://aecoverseas.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "BLOCK-1, 204/2, 2nd Floor, White House, next to Lifestyle Building, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Kundanbagh Colony, Begumpet",
+    "latitude": 17.4358024,
+    "longitude": 78.4566279,
+    "place_id": "ChIJWXKyFreQyzsROqNplDlGZyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXKyFreQyzsROqNplDlGZyc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:59:03"
+  },
+  {
+    "business_name": "Xcel Global Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "509327",
+    "phone_number": "+91 93433 69999",
+    "website": "http://www.xcelglobalservices.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "H-n 0 :3, Rd Number 1, MIG 1, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "MIG 1, K P H B Phase 1, Kukatpally",
+    "latitude": 17.492874,
+    "longitude": 78.40253799999999,
+    "place_id": "ChIJWwgdtZSRyzsRKeOzv4BV_7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwgdtZSRyzsRKeOzv4BV_7U",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:59:04"
+  }
+]

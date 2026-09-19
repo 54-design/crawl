@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "515003",
+    "phone_number": "N/A",
+    "website": "https://www.asianpaints.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "53, 80 Feet Rd, Vidyuth Nagar, Housing Board Colony, Anantapur, Andhra Pradesh 515001",
+    "area": "Vidyuth Nagar, Housing Board Colony",
+    "latitude": 14.6661115,
+    "longitude": 77.5965212,
+    "place_id": "ChIJDcKGiOVKsTsRfsPDf2Be950",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcKGiOVKsTsRfsPDf2Be950",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:56:00"
+  },
+  {
+    "business_name": "Anu Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "515003",
+    "phone_number": "+91 94409 30858",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "DNo:6-809, Kalyandurgam Rd, opp. Dr. Rajak Hospital, Azad Nagar, Kovur Nagar, Papampeta, Andhra Pradesh 515004",
+    "area": "Azad Nagar, Kovur Nagar",
+    "latitude": 14.684083699999999,
+    "longitude": 77.5846213,
+    "place_id": "ChIJt1shBrhKsTsReifoXAkW17Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1shBrhKsTsReifoXAkW17Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:56:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "509371",
+    "phone_number": "+91 73309 12129",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PXWR+JXG, Hyderabad Rd, Shah Saheb Gutta, Mahbubnagar, Telangana 509001",
+    "area": "Shah Saheb Gutta",
+    "latitude": 16.7465889,
+    "longitude": 77.9924221,
+    "place_id": "ChIJDwiTIv4nyjsRla-4MtDcrw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwiTIv4nyjsRla-4MtDcrw4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:25:52"
+  },
+  {
+    "business_name": "AM FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "509371",
+    "phone_number": "+91 80749 83753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near shalimar garde function hall, opposite to k6000, New Town, Mahbubnagar, Telangana 509001",
+    "area": "New Town",
+    "latitude": 16.7480062,
+    "longitude": 78.0016997,
+    "place_id": "ChIJ7-vyuEYnyjsRwo-hA85Q1i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-vyuEYnyjsRwo-hA85Q1i8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:25:52"
+  }
+]

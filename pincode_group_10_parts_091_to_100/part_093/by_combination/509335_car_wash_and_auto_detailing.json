@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Automindz",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "509335",
+    "phone_number": "N/A",
+    "website": "https://www.automindz.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Kodangal road, Pargi, Telangana 501501",
+    "area": "509335",
+    "latitude": 17.1674187,
+    "longitude": 77.8738005,
+    "place_id": "ChIJV9125iJjyTsRGbNI-b0fJ6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9125iJjyTsRGbNI-b0fJ6o",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:01:54"
+  },
+  {
+    "business_name": "SRI LAKSHMI NARASIMHA FOUM WASHING CENTRE",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "509335",
+    "phone_number": "+91 81066 33382",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nawabpet road, Mandipal, Chowdapur, Telangana 509304",
+    "area": "509335",
+    "latitude": 16.9842047,
+    "longitude": 77.9760604,
+    "place_id": "ChIJD2yG1afVyzsRzlORSmooag0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2yG1afVyzsRzlORSmooag0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:01:54"
+  }
+]

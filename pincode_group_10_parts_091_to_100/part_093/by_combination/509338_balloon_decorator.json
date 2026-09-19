@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Partywithballoons",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Party store, Balloon store, Helium gas supplier",
+    "pincode": "509338",
+    "phone_number": "+91 88205 93262",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "11, 4B, Chakraberia Road N, Chakraberia, Road, Kolkata, West Bengal 700020",
+    "area": "Chakraberia, Road",
+    "latitude": 22.534453,
+    "longitude": 88.3556163,
+    "place_id": "ChIJ4XhycCN3AjoRPrAy05qBlvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XhycCN3AjoRPrAy05qBlvk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:07:35"
+  },
+  {
+    "business_name": "Rainbow balloons hub",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Event management company, Event planner",
+    "pincode": "509338",
+    "phone_number": "+91 99645 45345",
+    "website": "https://rainbowballoonshub.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8 ,26/1-A 6th cross Road Rajiv Gandhi Road, Kanakapura Main Rd, Jarganahalli, Bengaluru, Karnataka 560078",
+    "area": "Jarganahalli, JP Nagar Phase 6, J. P. Nagar",
+    "latitude": 12.8993369,
+    "longitude": 77.5741093,
+    "place_id": "ChIJXeTpwdUVrjsRgtPDmywt9AY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeTpwdUVrjsRgtPDmywt9AY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:07:35"
+  }
+]

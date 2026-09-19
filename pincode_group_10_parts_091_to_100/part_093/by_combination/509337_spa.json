@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lara International Spa - Best Spa in Punjagutta",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa, Sauna, Wellness center",
+    "pincode": "509337",
+    "phone_number": "+91 77020 93888",
+    "website": "https://larainternationalspa.com/",
+    "rating": 4.9,
+    "reviews_count": 194,
+    "address": "shop, 2nd Floor, Goyaz jewellery, NAGARJUNA CO-OPERATIVE HOUSING SOCIETY LTD, 5 & 6, Nagarjuna Cir Rd, above goyaz jewellery, Mothi Nagar, Nagarjuna Hills, Punjagutta, Telangana 500082",
+    "area": "Mothi Nagar, Nagarjuna Hills, Punjagutta",
+    "latitude": 17.4264248,
+    "longitude": 78.4504177,
+    "place_id": "ChIJ1dZ4vWSRyzsRqdaYqJAT6GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dZ4vWSRyzsRqdaYqJAT6GI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:42"
+  },
+  {
+    "business_name": "RBS BATH SOLUTIONS",
+    "search_category": "Spa",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "509337",
+    "phone_number": "+91 79832 36290",
+    "website": "https://www.radidasbathsolutions.com/",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "4-6-485, near to Crazy corner cafe, Esamiya Bazaar, Koti, Hyderabad, Telangana 500027",
+    "area": "Esamiya Bazaar, Koti",
+    "latitude": 17.3843413,
+    "longitude": 78.4901369,
+    "place_id": "ChIJh0chQQCZyzsRFBvtHAkMGRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0chQQCZyzsRFBvtHAkMGRE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:43"
+  }
+]

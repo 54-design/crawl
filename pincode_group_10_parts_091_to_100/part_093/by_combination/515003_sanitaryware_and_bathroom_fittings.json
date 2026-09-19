@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Sanitary Store",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Bathroom remodeler, Building materials supplier, Hardware store, Home improvement store, Kitchen supply store, Pipe supplier, Plumbing supply store, Sanitary inspection",
+    "pincode": "515003",
+    "phone_number": "+91 180 407 8330",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 23,
+    "address": "169, Assandh Rd, Diwan Nagar, Hari Bagh Colony, Panipat, Haryana 132103",
+    "area": "Diwan Nagar, Hari Bagh Colony",
+    "latitude": 29.3941144,
+    "longitude": 76.953504,
+    "place_id": "ChIJVwsPaLfbDTkR4qoh2CbM-fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwsPaLfbDTkR4qoh2CbM-fQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:56:01"
+  },
+  {
+    "business_name": "Bath N Beyond Toto Showroom",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "515003",
+    "phone_number": "+91 99001 17811",
+    "website": "https://www.bathnbeyond.in/",
+    "rating": 4.5,
+    "reviews_count": 69,
+    "address": "10 3rd, block #957, 41st Cross Rd, 3rd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "3rd Block, Rajajinagar",
+    "latitude": 12.989870699999999,
+    "longitude": 77.55383929999999,
+    "place_id": "ChIJh62lAYw9rjsRNPiY9C0MxBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh62lAYw9rjsRNPiY9C0MxBw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:56:01"
+  }
+]

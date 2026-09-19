@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spicy Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "509337",
+    "phone_number": "+91 91772 35000",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "G6VF+6CR, Mumbai Hwy, Muthangi, Hyderabad, Telangana 502300",
+    "area": "Muthangi",
+    "latitude": 17.5431152,
+    "longitude": 78.2235309,
+    "place_id": "ChIJBeFPORjzyzsRJpAJYtgOx7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeFPORjzyzsRJpAJYtgOx7Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:04:59"
+  },
+  {
+    "business_name": "Sri Ashoka family Restaurant & Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "509337",
+    "phone_number": "+91 63018 38109",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 26,
+    "address": "1-4-112/6/A5, opposite UNIT OFFICE MAHABUBABAD, Mahabubabad, Telangana 506101",
+    "area": "509337",
+    "latitude": 17.5922594,
+    "longitude": 80.0180914,
+    "place_id": "ChIJhfj7phWJNDoRgnR0_0ZI_cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfj7phWJNDoRgnR0_0ZI_cA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:00"
+  }
+]

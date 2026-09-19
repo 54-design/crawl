@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sateesh & Co",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "509410",
+    "phone_number": "+91 99596 40740",
+    "website": "http://sateeshandco.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.No.3-6-13/2,Plot No.277,Usha Enclave, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vivekananda Nagar, Kukatpally",
+    "latitude": 17.493379,
+    "longitude": 78.4100784,
+    "place_id": "ChIJ___zSWqXyzsR0sMJsHSYD2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___zSWqXyzsR0sMJsHSYD2Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:41"
+  },
+  {
+    "business_name": "LASYA & ASSOCIATES",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "509410",
+    "phone_number": "+91 99593 89270",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Flat no 301, PLOT NO : 257, Eenadu Colony, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Eenadu Colony, Vivekananda Nagar, Kukatpally",
+    "latitude": 17.4924018,
+    "longitude": 78.4089295,
+    "place_id": "ChIJZdFz67-RyzsR25UlOQ9c4sE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdFz67-RyzsR25UlOQ9c4sE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Print On",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Acrylic Dealer, Banner store, Commercial printer, Design agency, Digital printing service, Sign shop, Siding contractor, 3D printing service, Vinyl sign shop",
+    "pincode": "509338",
+    "phone_number": "+91 91000 83774",
+    "website": "http://www.printon.org.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "64, Phase, MIG, 1, Kukatpally Housing Board Colony, Dharma Reddy Colony Phase II, Dharma Reddy Colony Phase I, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, Dharma Reddy Colony Phase II, Dharma Reddy Colony Phase I, Kukatpally",
+    "latitude": 17.4948315,
+    "longitude": 78.3954578,
+    "place_id": "ChIJ1fw1-o2RyzsRpIxZnMHOGvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fw1-o2RyzsRpIxZnMHOGvw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:07:45"
+  },
+  {
+    "business_name": "Murthy Graphics",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer",
+    "pincode": "509338",
+    "phone_number": "+91 93933 16569",
+    "website": "http://www.murthygraphics.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.2925622,
+    "longitude": 80.4489947,
+    "place_id": "ChIJ40uLYzZ1SjoRjFPIlfUtt0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40uLYzZ1SjoRjFPIlfUtt0Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:07:46"
+  }
+]

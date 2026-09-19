@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIRI COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "509380",
+    "phone_number": "+91 94942 72899",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No-2 BHOOTHPUR ROAD, ROAD, beside GANDHI ROAD HIGH SCHOOL ONE TOWN POLICE STATION, Mahbubnagar, Telangana 509001",
+    "area": "Shiva Shakthi Nagar, Tayyabnagar, Kamala Nehru Colony",
+    "latitude": 16.7392053,
+    "longitude": 77.99035429999999,
+    "place_id": "ChIJ17vlq9wnyjsRBv-9pkZ4HGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17vlq9wnyjsRBv-9pkZ4HGE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:32:02"
+  },
+  {
+    "business_name": "AJ Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "509380",
+    "phone_number": "+91 90526 14165",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Alnoor Complex, New Town, Mahbubnagar, Telangana 509001",
+    "area": "New Town",
+    "latitude": 16.7484374,
+    "longitude": 78.00292979999999,
+    "place_id": "ChIJ0y87dmsnyjsRBG9eKVK0SRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0y87dmsnyjsRBG9eKVK0SRc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:32:02"
+  }
+]

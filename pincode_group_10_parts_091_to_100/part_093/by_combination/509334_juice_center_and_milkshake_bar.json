@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juicy",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "509334",
+    "phone_number": "+91 98800 02767",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 56,
+    "address": "Shop No.#5, 10, 2nd Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, 5th Block, Koramangala",
+    "latitude": 12.9360658,
+    "longitude": 77.6159776,
+    "place_id": "ChIJbbJJSU4UrjsRe2rY2zdVy2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbJJSU4UrjsRe2rY2zdVy2I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:59:43"
+  },
+  {
+    "business_name": "THE MILKSHAKE THEORY",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "509334",
+    "phone_number": "+91 97382 63244",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4, Hennur Bagalur Main Rd, next to Plama Heights, next to Hennur Police Station, Kalyan Nagar Post, Hennur Gardens, Bengaluru, Karnataka 560043",
+    "area": "Kalyan Nagar Post, Hennur Gardens",
+    "latitude": 13.0334604,
+    "longitude": 77.63749349999999,
+    "place_id": "ChIJm3alPTkXrjsRMBlyfEO2EVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3alPTkXrjsRMBlyfEO2EVU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:59:44"
+  }
+]

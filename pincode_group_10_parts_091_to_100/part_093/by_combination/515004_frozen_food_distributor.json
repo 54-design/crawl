@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanvin Distributors",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery, Dairy store, Frozen food store",
+    "pincode": "515004",
+    "phone_number": "+91 86951 66266",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "8/1, Sundaram Nagar 2nd St, Sundaram Nagar, Sarada Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Sundaram Nagar, Sarada Nagar, Kolathur",
+    "latitude": 13.128207999999999,
+    "longitude": 80.21910369999999,
+    "place_id": "ChIJzaXcDvdkUjoR60z9K50X6Gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaXcDvdkUjoR60z9K50X6Gk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:57:09"
+  },
+  {
+    "business_name": "S A Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Dairy Products Supplier, Gourmet grocery store",
+    "pincode": "515004",
+    "phone_number": "+91 82178 64014",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No.1, Bin Ali Apartment, APMC Rd, beside of Garden, Sangameshwar Nagar, Ambedkar Nagar, Sadashiv Nagar, Belagavi, Karnataka 590019",
+    "area": "Sangameshwar Nagar, Ambedkar Nagar, Sadashiv Nagar",
+    "latitude": 15.8833554,
+    "longitude": 74.5105562,
+    "place_id": "ChIJ7_icJVBhvzsR1hUoXuWc1OQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_icJVBhvzsR1hUoXuWc1OQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:57:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basith Jewellers Pvt Ltd",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "509382",
+    "phone_number": "+91 98481 48312",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "18 1, 22, Pan Chowrasta St, Ravinder Nagar, Mahbubnagar, Telangana 509001",
+    "area": "Ravinder Nagar",
+    "latitude": 16.744073999999998,
+    "longitude": 77.98822299999999,
+    "place_id": "ChIJj8ADWiYmyjsRjPAATCPvekA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8ADWiYmyjsRjPAATCPvekA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:34:31"
+  },
+  {
+    "business_name": "GOLD KHAZANA JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "509382",
+    "phone_number": "+91 94407 62079",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Pan Chowrasta St, Old Gunj, Ravinder Nagar, Mahbubnagar, Telangana 509001",
+    "area": "Old Gunj, Ravinder Nagar",
+    "latitude": 16.7442858,
+    "longitude": 77.98818779999999,
+    "place_id": "ChIJD4S8iYMnyjsR0mG93IJNXFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4S8iYMnyjsR0mG93IJNXFU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:34:31"
+  }
+]

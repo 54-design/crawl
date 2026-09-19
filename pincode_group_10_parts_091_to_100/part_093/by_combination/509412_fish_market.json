@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanathnagar fish shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "509412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "762, Shivaji Nagar, Tulasi Nagar, Sanath Nagar, Hyderabad, Telangana 500018",
+    "area": "Shivaji Nagar, Tulasi Nagar, Sanath Nagar",
+    "latitude": 17.454602899999998,
+    "longitude": 78.4430473,
+    "place_id": "ChIJ_RdygwKRyzsR1FchPUgN6dE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RdygwKRyzsR1FchPUgN6dE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:49:53"
+  },
+  {
+    "business_name": "Gk Fish Fry",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "509412",
+    "phone_number": "+91 97034 69505",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-80, Wanarpathy Road, Peddakothapally, Telangana 509412",
+    "area": "509412",
+    "latitude": 16.2981872,
+    "longitude": 78.3582997,
+    "place_id": "ChIJz3hn0N51yjsRTpW3SR3Womk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3hn0N51yjsRTpW3SR3Womk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:49:56"
+  }
+]

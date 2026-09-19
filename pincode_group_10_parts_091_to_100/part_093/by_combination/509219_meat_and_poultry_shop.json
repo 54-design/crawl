@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohammad poultry & co",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler, Chicken & Mutton Shop",
+    "pincode": "509219",
+    "phone_number": "+91 97052 37053",
+    "website": "https://www.mohammadpoultry.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Moti Darwaza Rd, near bureedi masjid, Mothi Darwaja, Golconda Fort, Hyderabad, Telangana 500008",
+    "area": "Mothi Darwaja, Golconda Fort",
+    "latitude": 17.3849663,
+    "longitude": 78.4088921,
+    "place_id": "ChIJqVJuad6XyzsRNMy5OUKNwO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVJuad6XyzsRNMy5OUKNwO4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:38:57"
+  },
+  {
+    "business_name": "Raghavendra pork shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "509219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C8HG+W25, Gowlidoddy, Hyderabad, Telangana 500032",
+    "area": "Gowlidoddy",
+    "latitude": 17.4297658,
+    "longitude": 78.3251227,
+    "place_id": "ChIJmSoRhWKTyzsRIUM_oBwXaaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSoRhWKTyzsRIUM_oBwXaaM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:38:57"
+  }
+]

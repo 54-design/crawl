@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Carson Towing Company",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "509350",
+    "phone_number": "N/A",
+    "website": "https://www.carsontowingcompany.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Carson Towing Company, 509350, India",
+    "area": "509350",
+    "latitude": 33.8457139,
+    "longitude": -118.3164439,
+    "place_id": "ChIJMRHemyR3jqERva6yXzEChN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRHemyR3jqERva6yXzEChN4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:08"
+  },
+  {
+    "business_name": "RMK CRANE & RECOVERY VAN SERVICE",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "509350",
+    "phone_number": "+91 98484 97244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "15-10-44, 2nd Ln, Vinoba Nagar, Old Guntur, Guntur, Andhra Pradesh 522001",
+    "area": "Vinoba Nagar, Old Guntur",
+    "latitude": 16.2950102,
+    "longitude": 80.46168089999999,
+    "place_id": "ChIJrxXECeILSjoRuAgb1LKTDe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxXECeILSjoRuAgb1LKTDe4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:08"
+  }
+]

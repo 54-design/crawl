@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Cycles and Fitness Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler, Fitness Equipment Wholesaler",
+    "pincode": "509357",
+    "phone_number": "+91 98492 30899",
+    "website": "http://www.rajcycles.in/",
+    "rating": 4.5,
+    "reviews_count": 260,
+    "address": "93, Usha Mullapudi Cardio Hospital Rd, opposite KPHB, A.S.Raju Nagar, Bhagya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "A.S.Raju Nagar, Bhagya Nagar Colony, Kukatpally",
+    "latitude": 17.4953116,
+    "longitude": 78.4054787,
+    "place_id": "ChIJISpT6eqRyzsR8-aaAi1ilZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISpT6eqRyzsR8-aaAi1ilZo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:21:00"
+  },
+  {
+    "business_name": "Cycle World Bachupally - Largest Multi Brand Bicycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rack, Bicycle rental service, Bicycle repair shop, Bicycle wholesaler, Used bicycle shop",
+    "pincode": "509357",
+    "phone_number": "+91 89778 97767",
+    "website": "https://cycleworld.in/",
+    "rating": 4.7,
+    "reviews_count": 77,
+    "address": "H, No. 3-1/B/3, Mallampet Rd, opposite to manju, wines, Mallampet, Hyderabad, Telangana 500090",
+    "area": "wines, Mallampet",
+    "latitude": 17.5523098,
+    "longitude": 78.3617065,
+    "place_id": "ChIJXxm4b5KNyzsRODuYnu-Ff70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxm4b5KNyzsRODuYnu-Ff70",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:21:00"
+  }
+]

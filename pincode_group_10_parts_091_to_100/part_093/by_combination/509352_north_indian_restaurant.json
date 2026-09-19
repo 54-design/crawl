@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Samruddhi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509352",
+    "phone_number": "+91 96207 63005",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Second Cross Rd, opp. Mahadwara, Devasugur, Karnataka 584170",
+    "area": "509352",
+    "latitude": 16.3728501,
+    "longitude": 77.3538153,
+    "place_id": "ChIJbX4UcwDPyTsRWCH4y7QhJhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbX4UcwDPyTsRWCH4y7QhJhE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:01"
+  },
+  {
+    "business_name": "INDIAN TEFEN CENTER",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509352",
+    "phone_number": "+91 77994 38889",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kosgi Rd, Hanwada, Mahbubnagar, Telangana 509334",
+    "area": "509352",
+    "latitude": 16.8114578,
+    "longitude": 77.91870949999999,
+    "place_id": "ChIJJQtKgciHyTsR5pgTBhmLGuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQtKgciHyTsR5pgTBhmLGuE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:03"
+  }
+]

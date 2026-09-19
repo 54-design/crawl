@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Comes Way Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "509352",
+    "phone_number": "+91 81424 48786",
+    "website": "https://tailor-legacy.lovable.app/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nanal Nagar Cross Rd, below Premier Hospital, near Punjab National Bank, Reti Bowli, Nanal Nagar, Gudimalkapur, Hyderabad, Telangana 500006",
+    "area": "Reti Bowli, Nanal Nagar, Gudimalkapur",
+    "latitude": 17.3943598,
+    "longitude": 78.42722599999999,
+    "place_id": "ChIJv-0vNByXyzsR9M0mY9Z4vMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-0vNByXyzsR9M0mY9Z4vMs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:08"
+  },
+  {
+    "business_name": "The Designer Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing alteration service, Clothing store, Custom tailor, Fabric store, Fashion designer, Formal Clothing Store, Gents Tailor, Sewing shop, Wedding store",
+    "pincode": "509352",
+    "phone_number": "N/A",
+    "website": "https://www.thedesignertailors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prayag Pokhari, Kathmandu, Bagmati Province 44701, Nepal",
+    "area": "Mangal Bazaar",
+    "latitude": 27.668319099999998,
+    "longitude": 85.32573219999999,
+    "place_id": "ChIJf4IGFaMR6zkRrKx65ZhxrJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4IGFaMR6zkRrKx65ZhxrJo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "515004",
+    "phone_number": "+91 95505 06757",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Door no- 7, 4-29, Sivalayam St, center, Narsapur, Andhra Pradesh 534275",
+    "area": "center",
+    "latitude": 16.434537799999998,
+    "longitude": 81.70111969999999,
+    "place_id": "ChIJt0ZCQ9vZNzoRhJeKAkNajaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0ZCQ9vZNzoRhJeKAkNajaQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:57:09"
+  },
+  {
+    "business_name": "Geetha Agencies",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Restaurant",
+    "pincode": "515004",
+    "phone_number": "+91 98850 04518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6, KLD Rd, Old Town, Anantapur, Andhra Pradesh 515005",
+    "area": "Old Town",
+    "latitude": 14.6860453,
+    "longitude": 77.6042959,
+    "place_id": "ChIJMy3DfNdKsTsRAAAAMFdK9ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMy3DfNdKsTsRAAAAMFdK9ys",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:57:12"
+  }
+]

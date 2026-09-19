@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veda Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "509410",
+    "phone_number": "+91 91000 93636",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1, Ramalayam Rd, Near Ramalayam, Near Appolo pharmacy, Bagh Ameer, Shanthi Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Near Ramalayam, Near Appolo pharmacy, Bagh Ameer, Shanthi Nagar, Kukatpally",
+    "latitude": 17.4886504,
+    "longitude": 78.41393339999999,
+    "place_id": "ChIJPzGVQrmRyzsRAcriBB71TQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzGVQrmRyzsRAcriBB71TQQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:46:23"
+  },
+  {
+    "business_name": "Mohan Rice",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Rice wholesaler",
+    "pincode": "509410",
+    "phone_number": "+91 90289 36761",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Shop No 3, Dal Mandai Rd, opp. to Bhandari Store, Sarjepura city, Ahilyanagar, Maharashtra 414001",
+    "area": "Sarjepura city",
+    "latitude": 19.0970406,
+    "longitude": 74.7410171,
+    "place_id": "ChIJ5wN8BWSw3DsRCMuxcgo4KmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wN8BWSw3DsRCMuxcgo4KmI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:46:25"
+  }
+]

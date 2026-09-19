@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meena Beauty Lounge",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "509412",
+    "phone_number": "+91 74839 92112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 35,
+    "address": "R2JR+X8W, Dharma Pet, Kurnool, Andhra Pradesh 518001",
+    "area": "Dharma Pet",
+    "latitude": 15.832476199999999,
+    "longitude": 78.0408159,
+    "place_id": "ChIJHdrHRADntTsRPcnmnIGUnIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdrHRADntTsRPcnmnIGUnIQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:50:44"
+  },
+  {
+    "business_name": "GlitterGlam by Akshara",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "509412",
+    "phone_number": "+91 91196 84446",
+    "website": "https://www.glitterglamakshara.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sector-A, Sector L, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector-A, Sector L, Aliganj",
+    "latitude": 26.8983705,
+    "longitude": 80.94910689999999,
+    "place_id": "ChIJX8nB7VFXmTkRfZGKQue4JTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8nB7VFXmTkRfZGKQue4JTg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:50:46"
+  }
+]

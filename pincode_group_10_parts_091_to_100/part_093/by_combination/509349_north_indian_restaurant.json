@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nava Jyoti Pure Veg Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Vegetarian restaurant",
+    "pincode": "509349",
+    "phone_number": "N/A",
+    "website": "https://navajyoti.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hotel Michael's Inn, Thekkady, Kumily, Keralam 685509",
+    "area": "Thekkady",
+    "latitude": 9.604154,
+    "longitude": 77.1676131,
+    "place_id": "ChIJw7ZxGG1VBjsROAfrVYCpmaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7ZxGG1VBjsROAfrVYCpmaI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:54"
+  },
+  {
+    "business_name": "Abhinandana Foods",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Manufacturer",
+    "pincode": "509349",
+    "phone_number": "+91 80744 58107",
+    "website": "http://www.abhinandanafoods.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "CG94+4VR, Gangaputra colony, Sanjeevipuram, Gangaputra Nagar, Hyderabad, Telangana 500020",
+    "area": "Gangaputra colony, Sanjeevipuram, Gangaputra Nagar",
+    "latitude": 17.4177637,
+    "longitude": 78.5072744,
+    "place_id": "ChIJ4YrhKciZyzsRPPZV9cAeh8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YrhKciZyzsRPPZV9cAeh8s",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:55"
+  }
+]

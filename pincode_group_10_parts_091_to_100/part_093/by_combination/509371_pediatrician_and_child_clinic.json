@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Viswa Children’s Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509371",
+    "phone_number": "+91 86397 13513",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Petrol bunk, One Town, opp. District Jail, Shiva Shakthi Nagar, Kamala Nehru Colony, Mahbubnagar, Telangana 509001",
+    "area": "Shiva Shakthi Nagar, Kamala Nehru Colony",
+    "latitude": 16.7367339,
+    "longitude": 77.9914625,
+    "place_id": "ChIJ_eIK8UwnyjsRi589hCYHxKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_eIK8UwnyjsRi589hCYHxKU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:26:00"
+  },
+  {
+    "business_name": "Children's Hospital Bala Srinivas",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Child health care center",
+    "all_categories": "Child health care center",
+    "pincode": "509371",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "23, Jamia Masjid Rd, Vallabh Nagar, Boyapalle Rural, Telangana 988340, Sarojini Devi Rd, Vallabh Nagar, Mahbubnagar, Telangana 509001",
+    "area": "Vallabh Nagar",
+    "latitude": 16.7423096,
+    "longitude": 77.9882713,
+    "place_id": "ChIJu7GMgCYmyjsRjLFSL7FQy_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7GMgCYmyjsRjLFSL7FQy_w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:26:00"
+  }
+]

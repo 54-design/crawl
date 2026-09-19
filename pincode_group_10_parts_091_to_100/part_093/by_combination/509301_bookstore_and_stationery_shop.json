@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SVN BOOKS STATIONERY &GENERAL STORE",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "509301",
+    "phone_number": "+91 88853 57874",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jadcherla, Badepalle, Telangana 509301",
+    "area": "509301",
+    "latitude": 16.7542808,
+    "longitude": 78.1480358,
+    "place_id": "ChIJEfjSKgRryjsR6DGdLF1k0yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfjSKgRryjsR6DGdLF1k0yQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:45:10"
+  },
+  {
+    "business_name": "Sri Manjunatha Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "509301",
+    "phone_number": "+91 96661 51343",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 8,
+    "address": "Q45R+PXV, Station Rd, Badepalle, Telangana 509301",
+    "area": "509301",
+    "latitude": 16.7593744,
+    "longitude": 78.1424318,
+    "place_id": "ChIJRZhFrHcwyjsRujsNqEbwRjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZhFrHcwyjsRujsNqEbwRjY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:45:12"
+  }
+]

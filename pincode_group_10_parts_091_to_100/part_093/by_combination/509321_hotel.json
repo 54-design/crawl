@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO Kaveri Stay Inn Luxury Rooms",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "509321",
+    "phone_number": "+91 124 620 1614",
+    "website": "https://www.oyorooms.com/329162/",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "Plot No - 1, VT Nagar, Mall, Telangana 508245",
+    "area": "VT Nagar",
+    "latitude": 16.961087,
+    "longitude": 78.7277758,
+    "place_id": "ChIJA8d-j1__yjsRhH7RFXtze6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8d-j1__yjsRhH7RFXtze6I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:59"
+  },
+  {
+    "business_name": "VIKASA ELITE FARM HOUSE",
+    "search_category": "Hotel",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "509321",
+    "phone_number": "+91 78427 95907",
+    "website": "https://www.instagram.com/vikasafarmhouse?igsh=eHdmZXd1MGN2OXlj&utm_source=qr",
+    "rating": 5,
+    "reviews_count": 214,
+    "address": "Kadthal, Ekrajguda, Telangana 509358",
+    "area": "509321",
+    "latitude": 17.0015868,
+    "longitude": 78.5026524,
+    "place_id": "ChIJhzH4VwCtyzsRPqDBhP_8tUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzH4VwCtyzsRPqDBhP_8tUA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:59"
+  }
+]

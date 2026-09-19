@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hema Sri Book Stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Copy shop, Book store",
+    "pincode": "509335",
+    "phone_number": "+91 99499 82758",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "F9W5+787, Old Police Station Rd, X Road, Ambedkar Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049",
+    "area": "X Road, Ambedkar Nagar, Hafeezpet",
+    "latitude": 17.495673,
+    "longitude": 78.35831189999999,
+    "place_id": "ChIJaZV4g2uSyzsRYJLmklGkav4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZV4g2uSyzsRYJLmklGkav4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:02:33"
+  },
+  {
+    "business_name": "Himalaya Pack & Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Packaging supply store",
+    "pincode": "509335",
+    "phone_number": "+91 40 2307 0157",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No. 5, Sony Business Complex, Prashant Nagar, Prashanthi Nagar, IDA Kukatpally, Kukatpally, Hyderabad, Telangana 500037",
+    "area": "Prashant Nagar, Prashanthi Nagar, IDA Kukatpally, Kukatpally",
+    "latitude": 17.4754594,
+    "longitude": 78.4268835,
+    "place_id": "ChIJKc45YKyRyzsR0ABYtqFMg84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKc45YKyRyzsR0ABYtqFMg84",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:02:34"
+  }
+]

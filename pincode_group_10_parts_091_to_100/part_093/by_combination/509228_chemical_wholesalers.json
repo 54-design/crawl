@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azole Chem Private Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Chemical Exporter, Chemical plant, Chemical Manufacturer, Industrial chemicals wholesaler, Laboratory equipment supplier, Pharmaceuticals Exporter, Pharmaceutical company, Pharmaceutical Products Wholesaler",
+    "pincode": "509228",
+    "phone_number": "+91 73311 43603",
+    "website": "https://azolechem.com/",
+    "rating": 3.9,
+    "reviews_count": 34,
+    "address": "Tech Park, Plot no 60 & 61, IDA, Nacharam, Hyderabad, Secunderabad, Telangana 500076",
+    "area": "IDA, Nacharam",
+    "latitude": 17.4334418,
+    "longitude": 78.5684665,
+    "place_id": "ChIJA-icLgCcyzsRjNRE1R4kLmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-icLgCcyzsRjNRE1R4kLmM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:02"
+  },
+  {
+    "business_name": "Sumair Industrial Corporation",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Water treatment supplier",
+    "all_categories": "Water treatment supplier, Water softening equipment supplier, Water treatment plant",
+    "pincode": "509228",
+    "phone_number": "+91 40 2784 2641",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "2, Ramgopalpet Rd, Nallagutta, Ramgopalpet, Hyderabad, Telangana 500003",
+    "area": "Nallagutta, Ramgopalpet",
+    "latitude": 17.434655,
+    "longitude": 78.486896,
+    "place_id": "ChIJl9MX4RqayzsRBiX63F_DtGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9MX4RqayzsRBiX63F_DtGg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Madhusudan Reddy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "509301",
+    "phone_number": "+91 94417 41579",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "10-120, Netaji Rd, opposite old Government Hospital, beside general post office, Badepalle, Jadcherla, Telangana 509301",
+    "area": "509301",
+    "latitude": 16.7551964,
+    "longitude": 78.1440669,
+    "place_id": "ChIJDfr985E7yjsRMgK1qtZ6YMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfr985E7yjsRMgK1qtZ6YMA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:44:23"
+  },
+  {
+    "business_name": "Rama Homoeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "509301",
+    "phone_number": "+91 98492 25226",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-16, Badepalle, Telangana 509301",
+    "area": "509301",
+    "latitude": 16.7653759,
+    "longitude": 78.141511,
+    "place_id": "ChIJd_UuBnEwyjsR4ldsSxKG65I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_UuBnEwyjsR4ldsSxKG65I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:44:23"
+  }
+]

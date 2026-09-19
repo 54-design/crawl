@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "509382",
+    "phone_number": "+91 80088 18581",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "L Narayana Goud Complex, Nagar, Kurnool Rd, Addakal, Bhuthpur, Telangana 509382",
+    "area": "509382",
+    "latitude": 16.699669399999998,
+    "longitude": 78.0513845,
+    "place_id": "ChIJJdS-D4wlyjsRTstIfwDFkFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdS-D4wlyjsRTstIfwDFkFU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:34:40"
+  },
+  {
+    "business_name": "Aam Admi Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "509382",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatima high school, Road, Ahyodhya Nagar Colony, Christianpally, Mahbubnagar, Telangana 509002",
+    "area": "Ahyodhya Nagar Colony, Christianpally",
+    "latitude": 16.7245834,
+    "longitude": 78.00958469999999,
+    "place_id": "ChIJg8ma5FMnyjsR5YKEt7LZatE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8ma5FMnyjsR5YKEt7LZatE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:34:40"
+  }
+]

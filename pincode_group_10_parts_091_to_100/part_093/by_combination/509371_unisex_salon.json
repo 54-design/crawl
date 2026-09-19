@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ikonic Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "509371",
+    "phone_number": "+91 74163 42736",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 78,
+    "address": "Clock Tower Road Old Gunj, Monappagutta, Boyapalle Rural, Mahbubnagar, Telangana 509001",
+    "area": "Monappagutta, Boyapalle Rural",
+    "latitude": 16.7464609,
+    "longitude": 77.98747569999999,
+    "place_id": "ChIJeb_vIB4myjsRzOU7a9uy1es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeb_vIB4myjsRzOU7a9uy1es",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:26:28"
+  },
+  {
+    "business_name": "PJR Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Hair salon",
+    "pincode": "509371",
+    "phone_number": "+91 96426 02126",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Shop No 2, Srinivas Reddy Complex, One Twon, Mahbubnagar, Telangana 509001",
+    "area": "Boyapalle Rural",
+    "latitude": 16.7394027,
+    "longitude": 77.9898236,
+    "place_id": "ChIJ3XFQTzonyjsR0yCTRiX3Rt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XFQTzonyjsR0yCTRiX3Rt8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:26:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Turning Point HCM",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "515002",
+    "phone_number": "N/A",
+    "website": "http://turningpointhcm.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Turning Point HCM, 515002, India",
+    "area": "515002",
+    "latitude": 40.8521095,
+    "longitude": -72.951719,
+    "place_id": "ChIJzThPrswx6IkRAwxjNpNaYeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzThPrswx6IkRAwxjNpNaYeE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:54:53"
+  },
+  {
+    "business_name": "Gouli Hr Consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "515002",
+    "phone_number": "+91 85002 39305",
+    "website": "http://goulihr.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gouli Hr Consultancy, 515002, India",
+    "area": "515002",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJCWMtPJLdtTsR_5Lepspgpt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWMtPJLdtTsR_5Lepspgpt4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:54:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eagle Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "509350",
+    "phone_number": "+91 84531 00009",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 621,
+    "address": "28, Second floor, Ganesha complex, Gnana bharathi main road, nagarbavi circle, above Axis bank, Bengaluru, Karnataka 560072",
+    "area": "Teachers Colony, Chandra Layout",
+    "latitude": 12.9576563,
+    "longitude": 77.5188706,
+    "place_id": "ChIJy1Ov1H0-rjsRyb-Qz-Cgl-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1Ov1H0-rjsRyb-Qz-Cgl-4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:13:57"
+  },
+  {
+    "business_name": "Eagle Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "509350",
+    "phone_number": "+91 80 4149 4509",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 473,
+    "address": "84, 1st Main Rd, Hosahalli Extension, Vijayanagar, Bengaluru, Karnataka 560104",
+    "area": "Hosahalli Extension, Vijayanagar",
+    "latitude": 12.96858,
+    "longitude": 77.5371127,
+    "place_id": "ChIJ01U_Qt49rjsRBM-_hcMdBu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01U_Qt49rjsRBM-_hcMdBu0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:13:57"
+  }
+]

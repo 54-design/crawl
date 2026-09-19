@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honeyman Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "509376",
+    "phone_number": "+91 83175 62921",
+    "website": "https://www.honeyman.in/",
+    "rating": 4.9,
+    "reviews_count": 125,
+    "address": "Nallagandla - Tellapur Rd, beside Sadhana International School, HUDA Layout, Nallagandla, Hyderabad, Telangana 500019",
+    "area": "HUDA Layout",
+    "latitude": 17.4761973,
+    "longitude": 78.3035901,
+    "place_id": "ChIJN5_SLgCTyzsRQJvmFjwdxEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5_SLgCTyzsRQJvmFjwdxEY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:14"
+  },
+  {
+    "business_name": "Frozen Bottle - Milkshakes, Desserts, and Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Dessert shop, Dessert restaurant",
+    "pincode": "509376",
+    "phone_number": "+91 94181 96789",
+    "website": "https://store.frozenbottle.com/frozen-bottle/milkshake-and-ice-cream-cafe-in-hanamkonda/milkshake-and-ice-cream-cafe-in-teachers-colony/frozen-bottle-in-teachers-colony-hanamkonda--791a4a0f-c41e-4459-b5d2-2d550e253554/home",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Shop No 24, KTDR Plaza, Darga Rd, nearby NIT, Teachers Colony, Hanamkonda, Telangana 506004",
+    "area": "Teachers Colony",
+    "latitude": 17.9892973,
+    "longitude": 79.53292379999999,
+    "place_id": "ChIJhWpUBABPMzoR3ucPyUmleC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWpUBABPMzoR3ucPyUmleC8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanuman Book Stall & Stationary",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "515002",
+    "phone_number": "+91 63002 27153",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Tilak Rd, Old Town, Anantapur, Andhra Pradesh 515005",
+    "area": "Old Town",
+    "latitude": 14.681085399999999,
+    "longitude": 77.6082024,
+    "place_id": "ChIJsYe-WwBLsTsRAJvsgpglILc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYe-WwBLsTsRAJvsgpglILc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:54:41"
+  },
+  {
+    "business_name": "Shruthi Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "515002",
+    "phone_number": "+91 94403 63487",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 53,
+    "address": "Ananthapur Rd, Gooty, Andhra Pradesh 515401",
+    "area": "515002",
+    "latitude": 15.111730199999998,
+    "longitude": 77.6366975,
+    "place_id": "ChIJ9w50rMyVtjsR0kRGWHrROV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w50rMyVtjsR0kRGWHrROV4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:54:44"
+  }
+]

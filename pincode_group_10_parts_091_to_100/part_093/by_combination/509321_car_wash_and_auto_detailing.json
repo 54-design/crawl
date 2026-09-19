@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Hanuman Motors",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "509321",
+    "phone_number": "+91 93476 28797",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "beside Bharat petrol pump, Chinthapally, Telangana 508250",
+    "area": "509321",
+    "latitude": 16.8226483,
+    "longitude": 78.82053959999999,
+    "place_id": "ChIJW-gD8uj7yjsRDcWjBwN3NeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-gD8uj7yjsRDcWjBwN3NeA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:33"
+  },
+  {
+    "business_name": "Sri Rajarajeswara Washing Centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "509321",
+    "phone_number": "+91 63036 26473",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HP petrol bunk, 1, Hyderabad road, Kadthal, op, Telangana 509358",
+    "area": "509321",
+    "latitude": 16.978228299999998,
+    "longitude": 78.5040434,
+    "place_id": "ChIJ_____z6tyzsRUHwbzT-IAPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____z6tyzsRUHwbzT-IAPs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:34"
+  }
+]

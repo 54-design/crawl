@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GVR Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "509337",
+    "phone_number": "+91 99122 34122",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "H No 2, Rtc, 4-6, Bus Stand Rd, opposite Head Post Office, Mahabubabad, Telangana 506101",
+    "area": "509337",
+    "latitude": 17.5980894,
+    "longitude": 80.0018322,
+    "place_id": "ChIJxd-9qVyPNDoR5pqGYtAPCgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxd-9qVyPNDoR5pqGYtAPCgY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:05"
+  },
+  {
+    "business_name": "Sri Krishna Jewellery Mart",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Gold dealer",
+    "all_categories": "Gold dealer",
+    "pincode": "509337",
+    "phone_number": "+91 40 2474 0715",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 301,
+    "address": "15-6-1, Siddiamber Bazar Rd, near Gol Masjid, Siddiamber Bazar, Afzal Gunj, Hyderabad, Telangana 500012",
+    "area": "Siddiamber Bazar, Afzal Gunj",
+    "latitude": 17.375780799999998,
+    "longitude": 78.4749506,
+    "place_id": "ChIJG4Lch82ZyzsRcvNXdxYOE48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4Lch82ZyzsRcvNXdxYOE48",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:07"
+  }
+]

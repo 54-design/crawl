@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagan Traders",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "509358",
+    "phone_number": "+91 70932 77843",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ecil, P & T Colony, Medchal, Hyderabad, Telangana 500039",
+    "area": "Ecil, P & T Colony, Medchal",
+    "latitude": 17.401605999999997,
+    "longitude": 78.5615701,
+    "place_id": "ChIJu8kuEpmZyzsRO2s9S02kyww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8kuEpmZyzsRO2s9S02kyww",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:22:08"
+  },
+  {
+    "business_name": "Madhavi Vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "509358",
+    "phone_number": "+91 95151 75534",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vegetable Market, Gandinagar, Srinivasa Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Gandinagar, Srinivasa Colony, Uppal",
+    "latitude": 17.4031891,
+    "longitude": 78.57116429999999,
+    "place_id": "ChIJsW9f33KfyzsRcVkSIGTATVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsW9f33KfyzsRcVkSIGTATVk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:22:08"
+  }
+]

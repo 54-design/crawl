@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oyasis luxury spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa, Massage therapist",
+    "pincode": "509381",
+    "phone_number": "+91 79977 74499",
+    "website": "https://oyasisluxuryspa.com/",
+    "rating": 4.7,
+    "reviews_count": 166,
+    "address": "Plot no 1765, Gokul plots, 1759, 13th Phase Rd, opposite DtDC, above APPLE WORLD, 9th Phase, Venkata Ramana Colony, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "9th Phase, Venkata Ramana Colony, Kukatpally",
+    "latitude": 17.4853847,
+    "longitude": 78.3813309,
+    "place_id": "ChIJV-kLbC2TyzsRaPQsDDQNEiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-kLbC2TyzsRaPQsDDQNEiU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:33:23"
+  },
+  {
+    "business_name": "Mukthaa Wellness Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa",
+    "pincode": "509381",
+    "phone_number": "+91 98481 07771",
+    "website": "https://www.mukthaawellnessspa.in/",
+    "rating": 4.5,
+    "reviews_count": 41,
+    "address": "Plot No 195/A, Addagutta, Hmt Hills, Pragathi Nagar Rd, Jal Vayu Vihar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Addagutta, Western Hills, Jal Vayu Vihar, Kukatpally",
+    "latitude": 17.5007189,
+    "longitude": 78.3946486,
+    "place_id": "ChIJaezvbACRyzsRUtvOOqgkEhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaezvbACRyzsRUtvOOqgkEhA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:33:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FreshNest Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Fried chicken takeaway, Grill store, Meat wholesaler, Poultry store",
+    "pincode": "509360",
+    "phone_number": "+91 92702 67717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, VTP Town Square Commercial G8, opp. Godrej Hillside1, Mahalunge, Pune, Maharashtra 411045",
+    "area": "Mahalunge",
+    "latitude": 18.566342199999998,
+    "longitude": 73.739971,
+    "place_id": "ChIJH8VZG7u_wjsR_wdm8HKvxkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8VZG7u_wjsR_wdm8HKvxkY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:23:56"
+  },
+  {
+    "business_name": "Lusitania",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "509360",
+    "phone_number": "+91 73494 50003",
+    "website": "http://www.lusitania.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 3, Ground Floor, St Patrick's Complex, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.9711273,
+    "longitude": 77.6068385,
+    "place_id": "ChIJc7idFdUVrjsRUBXgvTaCMcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7idFdUVrjsRUBXgvTaCMcw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:23:57"
+  }
+]

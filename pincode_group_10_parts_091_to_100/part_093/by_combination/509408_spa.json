@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blissful Spa City - Hyderabad",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "509408",
+    "phone_number": "+91 63037 47323",
+    "website": "https://www.blissfulspacity.com/",
+    "rating": 4.6,
+    "reviews_count": 69,
+    "address": "Survey No, Magna's Lake View Appartment, 106, 56 & 57 Part, Khanamet Village, HITEC City, Hyderabad, Telangana 500084",
+    "area": "Khanamet Village, Izzathnagar, HITEC City",
+    "latitude": 17.465490499999998,
+    "longitude": 78.3737052,
+    "place_id": "ChIJUSyHXs-TyzsRps3d8vMxxaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSyHXs-TyzsRps3d8vMxxaE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:51"
+  },
+  {
+    "business_name": "Verizon Salon & Spa",
+    "search_category": "Spa",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa, Massage spa, Massage therapist, Spa",
+    "pincode": "509408",
+    "phone_number": "+91 99480 00140",
+    "website": "https://horizonspa.in/",
+    "rating": 4.7,
+    "reviews_count": 434,
+    "address": "Floor:- 1, GHMC 2/4/70 72/141 to 144 26/1/2, LB Nagar - Uppal Road Uppal, Nagole, Hyderabad, Telangana 500068",
+    "area": "Sowbhagya Nagar, Nagole",
+    "latitude": 17.375492299999998,
+    "longitude": 78.5574594,
+    "place_id": "ChIJe6w0MfuZyzsR6y-BWY458Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6w0MfuZyzsR6y-BWY458Q8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:51"
+  }
+]

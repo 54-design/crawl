@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkateswara Bike Mechanic",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "509311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PGQ4+W2H, SH 22, Narayanpet, Telangana 509210",
+    "area": "509311",
+    "latitude": 16.7398065,
+    "longitude": 77.5051074,
+    "place_id": "ChIJwbnwjtejyTsRAVVM15NuZC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbnwjtejyTsRAVVM15NuZC0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:09"
+  },
+  {
+    "business_name": "Sri Lakshmi Cycle works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler, Bicycle repair shop, Bicycle Shop",
+    "pincode": "509311",
+    "phone_number": "+91 99016 96429",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "28, Ejipura Main Rd, viveknagar post, Ejipura, Bengaluru, Karnataka 560047",
+    "area": "viveknagar post, Ejipura",
+    "latitude": 12.9503234,
+    "longitude": 77.6252757,
+    "place_id": "ChIJtYOQzD4UrjsRMurFfVgMWrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYOQzD4UrjsRMurFfVgMWrg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:11"
+  }
+]

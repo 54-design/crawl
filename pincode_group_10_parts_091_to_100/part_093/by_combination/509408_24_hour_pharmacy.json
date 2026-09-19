@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MY GENERIC PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "509408",
+    "phone_number": "+91 81426 23777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H NO 8, 6-112/1/C, AV Nagar, Christian Colony, Hastinapuram, Vanasthalipuram, Hyderabad, Telangana 500070",
+    "area": "AV Nagar, Christian Colony, Hastinapuram",
+    "latitude": 17.3273814,
+    "longitude": 78.5561941,
+    "place_id": "ChIJ7bwqmHefyzsRK257NUlNwG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bwqmHefyzsRK257NUlNwG8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:17"
+  },
+  {
+    "business_name": "G M DRUG MART (Wholesale & Retail)",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "509408",
+    "phone_number": "+91 86866 29197",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 152,
+    "address": "C Block, Hafiz Baba Nagar South, Hafiz Baba Nagar, Hyderabad, Telangana 500005",
+    "area": "C Block, Hafiz Baba Nagar South, Hafiz Baba Nagar",
+    "latitude": 17.3209216,
+    "longitude": 78.4917696,
+    "place_id": "ChIJsaBSqSmjyzsRj6SrTBNKWdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaBSqSmjyzsRj6SrTBNKWdE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:18"
+  }
+]

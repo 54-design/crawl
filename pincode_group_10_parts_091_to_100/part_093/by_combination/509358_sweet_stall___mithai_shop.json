@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swagath sweet house",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "509358",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3FFF+2FQ, Kandukur, Telangana 500113",
+    "area": "509358",
+    "latitude": 17.072584499999998,
+    "longitude": 78.4737373,
+    "place_id": "ChIJ1-9oKwCxyzsRcFLatvoECqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-9oKwCxyzsRcFLatvoECqQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:22:11"
+  },
+  {
+    "business_name": "Sri Balaji Ranjith Mithai Bandar",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Sweet shop",
+    "pincode": "509358",
+    "phone_number": "+91 99662 78785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Mro Office, Kadthal, Telangana 509358",
+    "area": "509358",
+    "latitude": 16.985165,
+    "longitude": 78.5017811,
+    "place_id": "ChIJJ3xFRz6tyzsRzo1pGQsL3BA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3xFRz6tyzsRzo1pGQsL3BA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:22:11"
+  }
+]

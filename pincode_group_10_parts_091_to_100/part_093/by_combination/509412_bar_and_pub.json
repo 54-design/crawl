@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KNR Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "509412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8945+959, Peddakothapally, Telangana 509412",
+    "area": "509412",
+    "latitude": 16.305103499999998,
+    "longitude": 78.3587569,
+    "place_id": "ChIJ3TfaSxJ1yjsR6gsXIqVnUdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TfaSxJ1yjsR6gsXIqVnUdI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:50:02"
+  },
+  {
+    "business_name": "Thirumala Restaurant and Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "509412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4CP8+CMH, Malachintapalle, Telangana 509102",
+    "area": "509412",
+    "latitude": 16.1360696,
+    "longitude": 78.41674259999999,
+    "place_id": "ChIJqfmIHBKJtTsRdhldMvL-BZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfmIHBKJtTsRdhldMvL-BZY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:50:06"
+  }
+]

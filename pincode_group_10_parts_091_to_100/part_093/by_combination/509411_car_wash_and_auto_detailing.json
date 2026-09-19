@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S A's SQUAD DETAILING STUDIO",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "509411",
+    "phone_number": "+91 97015 85302",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Express Lounge Drive In, opposite Aliens Space Station, Tellapur, Hyderabad, Telangana 502034",
+    "area": "Tellapur",
+    "latitude": 17.4602213,
+    "longitude": 78.2861763,
+    "place_id": "ChIJQ3NQWxvtyzsRylZw1NmybfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3NQWxvtyzsRylZw1NmybfA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:42"
+  },
+  {
+    "business_name": "A1 Motors",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "509411",
+    "phone_number": "+91 96187 01785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Surya electronics, behind Urdu Ghar function hall, Kosgi, Chennaram, Telangana 509339",
+    "area": "509411",
+    "latitude": 16.992611099999998,
+    "longitude": 77.7068038,
+    "place_id": "ChIJL8V0ycl3yTsRHc3acdiXvIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8V0ycl3yTsRHc3acdiXvIA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:45"
+  }
+]

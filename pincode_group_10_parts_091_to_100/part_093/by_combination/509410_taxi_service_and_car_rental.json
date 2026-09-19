@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harish Cabs Hyderabad",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car rental agency, Sightseeing Tour Operator",
+    "pincode": "509410",
+    "phone_number": "+91 95421 42144",
+    "website": "https://www.harishcabshyderabad.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "10-2-287/8/A, AC Guards, Masab Tank, Hyderabad, Telangana 500028",
+    "area": "AC Guards, Masab Tank",
+    "latitude": 17.399385499999998,
+    "longitude": 78.4569222,
+    "place_id": "ChIJAQCwz2uXyzsRuupIoGhe6SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCwz2uXyzsRuupIoGhe6SQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:01"
+  },
+  {
+    "business_name": "MSR tours & travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "509410",
+    "phone_number": "+91 91603 08999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Bandlaguda Jagir Rd, Himagiri Nagar, West End Colony, Sun City, Hyderabad, Bandlaguda Jagir, Telangana 500091",
+    "area": "Himagiri Nagar, West End Colony, Sun City",
+    "latitude": 17.3611877,
+    "longitude": 78.38900939999999,
+    "place_id": "ChIJ5zp13M6XyzsR6_QDUyQlJkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zp13M6XyzsR6_QDUyQlJkg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:02"
+  }
+]

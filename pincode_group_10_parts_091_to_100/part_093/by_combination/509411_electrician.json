@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Balaji electrical shop",
+    "search_category": "Electrician",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "509411",
+    "phone_number": "+91 95151 68300",
+    "website": "https://sribalajielectricals.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05-89, Kotakonda, Telangana 509210",
+    "area": "509411",
+    "latitude": 16.7550779,
+    "longitude": 77.6414033,
+    "place_id": "ChIJNS8GZgCZyTsRAtq3KmrP8g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNS8GZgCZyTsRAtq3KmrP8g8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:57"
+  },
+  {
+    "business_name": "Standard Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "509411",
+    "phone_number": "+91 94417 05627",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2,Maddur Maddur,Kosgi, Road, Narayanpet, Telangana 509411",
+    "area": "509411",
+    "latitude": 16.859269299999998,
+    "longitude": 77.61426399999999,
+    "place_id": "ChIJk-TVVvmeyTsRNWqmeY2T2jI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-TVVvmeyTsRNWqmeY2T2jI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:57"
+  }
+]

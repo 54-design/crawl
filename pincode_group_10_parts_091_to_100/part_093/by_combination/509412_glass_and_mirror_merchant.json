@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Glass Home",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Gift shop, Picture frame shop, Mirror shop, Religious goods store, Wood frame supplier",
+    "pincode": "509412",
+    "phone_number": "+91 98859 11821",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5-7-605, Dargah Rd, near Ek-Minar Masjid, Bharat Nagar, Aghapura, Nampally, Hyderabad, Telangana 500001",
+    "area": "Bharat Nagar, Aghapura, Nampally",
+    "latitude": 17.390638499999998,
+    "longitude": 78.4670811,
+    "place_id": "ChIJU8xbJ3uXyzsRgUrqStOV7Ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8xbJ3uXyzsRgUrqStOV7Ic",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:50:36"
+  },
+  {
+    "business_name": "Hyderabad Glass And Accessories",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass repair service",
+    "all_categories": "Glass repair service, Auto glass shop",
+    "pincode": "509412",
+    "phone_number": "+91 70139 38063",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Kukatpally Y Junction, Kukatpally, Hyderabad, Telangana 500018",
+    "area": "Bhavani Nagar, Kukatpally",
+    "latitude": 17.4740951,
+    "longitude": 78.4263296,
+    "place_id": "ChIJWeCB3KuRyzsRVsNo8RKUpic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeCB3KuRyzsRVsNo8RKUpic",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:50:36"
+  }
+]

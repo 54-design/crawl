@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion House",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509376",
+    "phone_number": "+91 90102 93330",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1713,
+    "address": "2-49, Boduppal Rd, Mallikarjuna Nagar, Boduppal, Hyderabad, Telangana 500092",
+    "area": "Mallikarjuna Nagar, Boduppal",
+    "latitude": 17.408422599999998,
+    "longitude": 78.5872462,
+    "place_id": "ChIJkza4RcCeyzsRAU5JVU3CNAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkza4RcCeyzsRAU5JVU3CNAE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:16"
+  },
+  {
+    "business_name": "Style Union - Yelahanka",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509376",
+    "phone_number": "+91 73040 53032",
+    "website": "https://stores.styleunion.in/style-union/clothing-stores-in-bengaluru/clothing-stores-in-yelahanka/style-union-in-yelahanka-bengaluru--1cIlJb/home",
+    "rating": 4.8,
+    "reviews_count": 3444,
+    "address": "NCC Urban Park View Yelahanka, beside Mother Dairy Road, Vignana Kendra, Bengaluru, Karnataka 560064",
+    "area": "Vignana Kendra",
+    "latitude": 13.0981107,
+    "longitude": 77.5709785,
+    "place_id": "ChIJB2mszQAZrjsRFupM_vGv1BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2mszQAZrjsRFupM_vGv1BM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meenachchi Medical Mart",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "509352",
+    "phone_number": "+91 452 262 8710",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "New No. 131, Old No. 16, North Perumal Mystri Street, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9236313,
+    "longitude": 78.1172811,
+    "place_id": "ChIJP9xE94XFADsRaB0hDuN_OZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9xE94XFADsRaB0hDuN_OZc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:16"
+  },
+  {
+    "business_name": "Sri dharshana multi-speciality hospital and critical care",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509352",
+    "phone_number": "+91 96400 01554",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raichur Rd, near MPDO Office, Marikal, Makthal, Telangana 509208",
+    "area": "509352",
+    "latitude": 16.5037657,
+    "longitude": 77.50765659999999,
+    "place_id": "ChIJzd6hWpfByTsRDaLlIxn-BOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzd6hWpfByTsRDaLlIxn-BOo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:17"
+  }
+]

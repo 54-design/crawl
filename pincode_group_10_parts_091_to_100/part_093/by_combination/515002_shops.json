@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shanthi stores",
+    "search_category": "Shops",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Shopping mall",
+    "pincode": "515002",
+    "phone_number": "+91 96523 55995",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chinmaya Nagar, Prasannaya Palli, Rapthadu, Andhra Pradesh 515002",
+    "area": "Chinmaya Nagar, Prasannaya Palli",
+    "latitude": 14.641334899999999,
+    "longitude": 77.6095404,
+    "place_id": "ChIJJ0Z2DZtLsTsRPPzvCR9cYkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0Z2DZtLsTsRPPzvCR9cYkw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:55:15"
+  },
+  {
+    "business_name": "అజయ్ గోస్ కాలనీ",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "515002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 55,
+    "address": "Unnamed Road, 515002, Rudrampeta, Anantapur, Andhra Pradesh 515004",
+    "area": "Rudrampeta",
+    "latitude": 14.672551799999999,
+    "longitude": 77.5717064,
+    "place_id": "ChIJ14qWdZhKsTsRcg6hkR3xrDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14qWdZhKsTsRcg6hkR3xrDk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:55:16"
+  }
+]

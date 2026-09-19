@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkateshwaraaa traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "509353",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "HJ46+7WC, Jaklair, Telangana 509353",
+    "area": "509353",
+    "latitude": 16.5556791,
+    "longitude": 77.61227029999999,
+    "place_id": "ChIJ8cf9FFuVyTsRi0eIj8_g3QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cf9FFuVyTsRi0eIj8_g3QU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:19:16"
+  },
+  {
+    "business_name": "Sri Ramalegeshwara Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "509353",
+    "phone_number": "+91 96035 56643",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raichur Rd, Jaklair, Telangana 509353",
+    "area": "509353",
+    "latitude": 16.5570466,
+    "longitude": 77.612324,
+    "place_id": "ChIJbywCGW6VyTsRiruHgbvkjmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbywCGW6VyTsRiruHgbvkjmM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:19:16"
+  }
+]

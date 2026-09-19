@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Steps Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "509357",
+    "phone_number": "+91 63666 16666",
+    "website": "http://www.sandeepsteps.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No-3 & 4, Venkateshwara arcade, Motinagar, Kalyan Nagar, Erragadda, Hyderabad, Telangana 500114",
+    "area": "Kalyan Nagar, Erragadda",
+    "latitude": 17.4540951,
+    "longitude": 78.42344609999999,
+    "place_id": "ChIJ3Zuc-xuRyzsRacYB4cuhfXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Zuc-xuRyzsRacYB4cuhfXw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:21:32"
+  },
+  {
+    "business_name": "Vineet Music Dance & Arts School",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school, Dance school",
+    "pincode": "509357",
+    "phone_number": "+91 93470 14699",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "5-3-831/7, Malakunta Road, opp. Hanuman Temple, Herza Estate, Goshamahal, Nampally, Hyderabad, Telangana 500012",
+    "area": "Herza Estate, Goshamahal, Nampally",
+    "latitude": 17.381416599999998,
+    "longitude": 78.47258529999999,
+    "place_id": "ChIJf6PDnH-XyzsRhl1BOcM7Y28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6PDnH-XyzsRhl1BOcM7Y28",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:21:32"
+  }
+]

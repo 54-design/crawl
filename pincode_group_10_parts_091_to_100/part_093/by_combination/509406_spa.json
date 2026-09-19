@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CRE8TIVE STYLES",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "509406",
+    "phone_number": "+91 90520 43334",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Flat no 101,1st Floor, MYM Estates, Thakur Mansion Ln, Durga Nagar Colony, Somajiguda, Hyderabad, Telangana 500082",
+    "area": "Durga Nagar Colony, Somajiguda",
+    "latitude": 17.4276602,
+    "longitude": 78.4551257,
+    "place_id": "ChIJ5S5AIWiRyzsRX2fSfWzSqRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5S5AIWiRyzsRX2fSfWzSqRc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:40:20"
+  },
+  {
+    "business_name": "OM's Beauty Salon",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Training center, Hairdresser",
+    "pincode": "509406",
+    "phone_number": "+91 98490 97516",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Chowrasta, Ameerpet Rd, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Ameerpet",
+    "latitude": 17.4343528,
+    "longitude": 78.44560179999999,
+    "place_id": "ChIJ4Th62M6QyzsRv6In01EkSLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Th62M6QyzsRv6In01EkSLU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:40:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hameedi Confectioners",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Dessert shop",
+    "pincode": "509410",
+    "phone_number": "+91 98490 78728",
+    "website": "https://www.hameedi.in/",
+    "rating": 4.4,
+    "reviews_count": 1565,
+    "address": "5- 5-513, Mozamjahi Market, Telangana 500001",
+    "area": "APHB Colony, Chandra Vihar, Old Kattal Mandi, Abids",
+    "latitude": 17.384108899999998,
+    "longitude": 78.4743378,
+    "place_id": "ChIJbW6zMX6XyzsR7Z4re69VMos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbW6zMX6XyzsR7Z4re69VMos",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:46:27"
+  },
+  {
+    "business_name": "Olive Mithai Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "509410",
+    "phone_number": "+91 73311 22712",
+    "website": "https://olivemithai.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "plot no 3-6-2/R/NR, PLOT NO 5, Plot No.260, Vivekanandanagar Main Rd, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Gayatri Nagar, Vivekananda Nagar, Kukatpally",
+    "latitude": 17.4919956,
+    "longitude": 78.4086791,
+    "place_id": "ChIJXSMHzneRyzsRyw1jmYMcS-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSMHzneRyzsRyw1jmYMcS-w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:46:30"
+  }
+]

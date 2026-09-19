@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SURAKSHA FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "509351",
+    "phone_number": "+91 90527 49878",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 14,
+    "address": "INDIRA GANDI CHOUK, Marikal, Telangana 509351",
+    "area": "509351",
+    "latitude": 16.6035277,
+    "longitude": 77.7266088,
+    "place_id": "ChIJ3QYIT06TyTsRjrqBtJiMoY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QYIT06TyTsRjrqBtJiMoY0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:15:27"
+  },
+  {
+    "business_name": "KAMAAL FOOTWEAR 2",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "509351",
+    "phone_number": "+91 80194 01800",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7, Marikal, Telangana 509351",
+    "area": "509351",
+    "latitude": 16.602843,
+    "longitude": 77.7307056,
+    "place_id": "ChIJ6dQgt8-TyTsRRUiY6SQ4Tto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dQgt8-TyTsRRUiY6SQ4Tto",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:15:27"
+  }
+]

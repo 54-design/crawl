@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SVM Super Market Nagarkurnool",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "509235",
+    "phone_number": "+91 94904 13388",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stand Nagarkurnool, backside, HP gas Road, Nagarkurnool, Telangana 509209",
+    "area": "509235",
+    "latitude": 16.4863434,
+    "longitude": 78.31195389999999,
+    "place_id": "ChIJrbT_QgBtyjsRwqMTJXXuhi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbT_QgBtyjsRwqMTJXXuhi8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:16"
+  },
+  {
+    "business_name": "SuperK - Gurudattha Supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "509235",
+    "phone_number": "+91 93988 80233",
+    "website": "http://www.superk.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "BaapuramVeeraiah Setty Complex, opp. Police station, Kowthalam, Andhra Pradesh 518344",
+    "area": "509235",
+    "latitude": 15.7774436,
+    "longitude": 77.1388329,
+    "place_id": "ChIJc99He5vLtzsRp_n988xizjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc99He5vLtzsRp_n988xizjk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:17"
+  }
+]

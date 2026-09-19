@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinush Recruitment Agency",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Employment consultant",
+    "pincode": "509340",
+    "phone_number": "+91 94821 66835",
+    "website": "https://www.vinush.com/",
+    "rating": 5,
+    "reviews_count": 287,
+    "address": "17, 7th Main Rd, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+    "latitude": 12.978523599999999,
+    "longitude": 77.635577,
+    "place_id": "ChIJy-_GR4cXrjsR1tkgTiH3d3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-_GR4cXrjsR1tkgTiH3d3g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:21"
+  },
+  {
+    "business_name": "Job hub hr recruitment agency",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "509340",
+    "phone_number": "+91 73492 87268",
+    "website": "https://www.jobhubhr.com/",
+    "rating": 4.9,
+    "reviews_count": 350,
+    "address": "3rd floor, Tushar Arcade, 552, Service Road, 2 Stage, Nagarbhavi, Bengaluru, Karnataka 560072",
+    "area": "2 Stage, Nagarbhavi",
+    "latitude": 12.962083499999999,
+    "longitude": 77.5122865,
+    "place_id": "ChIJ8xm4L1o9rjsRCXnS1lPDLEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xm4L1o9rjsRCXnS1lPDLEc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:21"
+  }
+]

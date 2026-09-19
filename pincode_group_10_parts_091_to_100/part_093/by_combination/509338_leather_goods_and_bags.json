@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Leather & Collections",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "509338",
+    "phone_number": "+91 40 6620 1120",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Shop No. 9, Chandralok Complex, Mahatma Gandhi Rd, opp. Zam Zam Bakery, Paradise, Kalasiguda, Hyderabad, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4414417,
+    "longitude": 78.4879078,
+    "place_id": "ChIJpwEOPxCayzsRCXEMeD4lQlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwEOPxCayzsRCXEMeD4lQlM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:52"
+  },
+  {
+    "business_name": "Metro Leather Works",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "509338",
+    "phone_number": "+91 83280 09714",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "LB Nagar Rd, Krishna Nagar, LB Nagar, Warangal, Telangana 506002",
+    "area": "Krishna Nagar, LB Nagar",
+    "latitude": 17.987341699999998,
+    "longitude": 79.60440129999999,
+    "place_id": "ChIJTWsWrNpFMzoR2Cd5OV3xOTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWsWrNpFMzoR2Cd5OV3xOTI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:53"
+  }
+]

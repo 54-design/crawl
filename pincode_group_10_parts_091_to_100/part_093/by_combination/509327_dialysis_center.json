@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muthya Kidney Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Urologist, Emergency care service, Nephrologist, Transplant surgeon",
+    "pincode": "509327",
+    "phone_number": "+91 92892 87979",
+    "website": "https://muthyakidneycenter.com/",
+    "rating": 4.6,
+    "reviews_count": 192,
+    "address": "6-1-128/2, Ashoka Hotel Lane, opp. KUDA.Warangal, Sai Nagar, Hanamkonda, Telangana 506001",
+    "area": "Sai Nagar",
+    "latitude": 18.0070416,
+    "longitude": 79.5649634,
+    "place_id": "ChIJHxTUkIJFMzoR8Qla-a_7PGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxTUkIJFMzoR8Qla-a_7PGE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:21"
+  },
+  {
+    "business_name": "Eskag Sanjeevani Dialysis Center Talcher",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "509327",
+    "phone_number": "+91 1800 102 2294",
+    "website": "https://www.eskagsanjeevanidialysis.com/",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "sub Divisional Hospital, Angul, Talcher Town, Odisha 759107",
+    "area": "509327",
+    "latitude": 20.9528401,
+    "longitude": 85.2334302,
+    "place_id": "ChIJPyYK_By1GDoRHq0DhSwYlI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyYK_By1GDoRHq0DhSwYlI8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:24"
+  }
+]

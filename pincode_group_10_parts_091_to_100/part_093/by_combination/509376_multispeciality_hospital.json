@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Lalitha Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509376",
+    "phone_number": "+91 99955 50655",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 237,
+    "address": "Shashtri Nagar, Opp: Maramma Temple, beside A. N. Reddy Common, Nirmal, Telangana 504106",
+    "area": "Gollapet",
+    "latitude": 19.0846055,
+    "longitude": 78.352673,
+    "place_id": "ChIJkZgYBqqNzTsRjmw3bKsn84Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZgYBqqNzTsRjmw3bKsn84Q",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:27"
+  },
+  {
+    "business_name": "Abhaya Multi-specialty Trust Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509376",
+    "phone_number": "+91 95151 41901",
+    "website": "http://www.abhayatrusthospitals.com/",
+    "rating": 4.6,
+    "reviews_count": 988,
+    "address": "Surway No: 132 (Plot No. 18 & 20 / P, of Boduppal, Medipally Mandal, Hyderabad, Telangana 500092",
+    "area": "West Hanuman Nagar, Boduppal",
+    "latitude": 17.415718299999998,
+    "longitude": 78.5851776,
+    "place_id": "ChIJwdPsAwifyzsRgptVwQOzA04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdPsAwifyzsRgptVwQOzA04",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:27"
+  }
+]

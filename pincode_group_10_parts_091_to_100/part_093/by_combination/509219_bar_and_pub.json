@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SWING LOUNGE Sports Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Sports bar",
+    "all_categories": "Sports bar",
+    "pincode": "509219",
+    "phone_number": "+91 72071 52111",
+    "website": "https://www.swinglounge.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5th Floor, THE LOFT, Silpa Gram Craft Village, HITEC City, Hyderabad, Telangana 500032",
+    "area": "Silpa Gram Craft Village, HITEC City",
+    "latitude": 17.4323211,
+    "longitude": 78.3825729,
+    "place_id": "ChIJHei3w1aTyzsRK3f8j1fEhC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHei3w1aTyzsRK3f8j1fEhC8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:39:06"
+  },
+  {
+    "business_name": "MOB - Belgium Beer House",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant",
+    "pincode": "509219",
+    "phone_number": "+91 40 4020 3311",
+    "website": "https://facebook.com/itismob",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "8-2-293/82/J-III 550-I, Road No. 92, Film Nagar, Hyderabad, Telangana 500096",
+    "area": "Film Nagar",
+    "latitude": 17.4155501,
+    "longitude": 78.41679979999999,
+    "place_id": "ChIJlcGCR86WyzsRpQ1X_rIjXfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcGCR86WyzsRpQ1X_rIjXfI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:39:07"
+  }
+]

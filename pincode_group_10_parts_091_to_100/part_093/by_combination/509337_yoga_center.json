@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bliss Yoga Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "509337",
+    "phone_number": "+91 98850 39398",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "4th floor, VL Pride, Plot no A -3, Road, Krishnapuri Colony, Krishnapuri, West Marredpally, Secunderabad, Telangana 500026",
+    "area": "Krishnapuri Colony, Krishnapuri, West Marredpally",
+    "latitude": 17.4543404,
+    "longitude": 78.5056699,
+    "place_id": "ChIJy-g7k1ObyzsRmKa1tFv1WtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-g7k1ObyzsRmKa1tFv1WtU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:20"
+  },
+  {
+    "business_name": "Leaf home yoga classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "509337",
+    "phone_number": "+91 98491 50590",
+    "website": "https://leafyogavillage.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Patancheruvu, Hyderabad, Telangana 502319",
+    "area": "509337",
+    "latitude": 17.5277301,
+    "longitude": 78.26638559999999,
+    "place_id": "ChIJMR4nwjXzyzsRT-SGrvWP2GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMR4nwjXzyzsRT-SGrvWP2GQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:22"
+  }
+]

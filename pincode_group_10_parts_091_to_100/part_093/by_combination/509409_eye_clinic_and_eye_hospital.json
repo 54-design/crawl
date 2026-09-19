@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tulip Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "509409",
+    "phone_number": "+91 93367 19952",
+    "website": "https://www.facebook.com/Tulip-Eye-Hospital-100732704801408/",
+    "rating": 4.8,
+    "reviews_count": 61,
+    "address": "B-9 LDA Near Phoenix mall, Kanpur Rd, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector B, Bargawan, LDA Colony",
+    "latitude": 26.797978,
+    "longitude": 80.8987681,
+    "place_id": "ChIJJeaj0e79mzkR_dshNc-MoN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeaj0e79mzkR_dshNc-MoN4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:45:09"
+  },
+  {
+    "business_name": "Win Vision Eye Hospitals Vijayawada",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509409",
+    "phone_number": "+91 74500 04444",
+    "website": "http://winvision.in/",
+    "rating": 5,
+    "reviews_count": 6298,
+    "address": "RS.NO.10/8,D.NO.59-12-11,WARD NO.8, Polyclinic Rd, beside HOTEL MAYURI INN, Gayatri Nagar, URBAN, Vijayawada, Andhra Pradesh 520008",
+    "area": "Gayatri Nagar, Krishna Nagar, URBAN",
+    "latitude": 16.501208899999998,
+    "longitude": 80.65470669999999,
+    "place_id": "ChIJwdr7yAP7NToRUQVHki1FbEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdr7yAP7NToRUQVHki1FbEA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:45:10"
+  }
+]

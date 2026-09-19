@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BestITCourses.com",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Educational institution",
+    "pincode": "509337",
+    "phone_number": "+91 81438 05923",
+    "website": "https://www.bestitcourses.com/",
+    "rating": 4.7,
+    "reviews_count": 406,
+    "address": "H.No: 153, A/4, Rasoolpura, Balamrai, Begumpet, Secunderabad, Hyderabad, Telangana 500003",
+    "area": "Rasoolpura, Balamrai, Begumpet",
+    "latitude": 17.447527,
+    "longitude": 78.4854557,
+    "place_id": "ChIJMZDwpryQyzsRq3s5qoKXS3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZDwpryQyzsRq3s5qoKXS3s",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:58"
+  },
+  {
+    "business_name": "Igrow Soft",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Education center, Educational institution, Institute of technology, Training center",
+    "pincode": "509337",
+    "phone_number": "+91 88855 03231",
+    "website": "https://www.igrowsoft.com/",
+    "rating": 4.8,
+    "reviews_count": 2915,
+    "address": "7-1, 619 A/31, SAP St, behind HUDA Commercial Complex, Kumar Basti, Gayatri Nagar, Srinivasa Nagar, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Kumar Basti, Gayatri Nagar, Srinivasa Nagar, Ameerpet",
+    "latitude": 17.4372319,
+    "longitude": 78.4449867,
+    "place_id": "ChIJKa_xGMWQyzsRhHKtz1R6mYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKa_xGMWQyzsRhHKtz1R6mYk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:05:58"
+  }
+]

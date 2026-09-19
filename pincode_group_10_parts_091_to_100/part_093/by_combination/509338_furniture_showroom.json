@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hammi furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "509338",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5P7Q+JH3, Bomraspet, Telangana 509338",
+    "area": "509338",
+    "latitude": 17.1640077,
+    "longitude": 77.7389364,
+    "place_id": "ChIJY4VoDABvyTsRKut3bvz2nc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4VoDABvyTsRKut3bvz2nc4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:07:26"
+  },
+  {
+    "business_name": "M/S Sri Veera Bhadra Timber Depot",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "509338",
+    "phone_number": "+91 97048 67977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kokat, Telangana 501141",
+    "area": "509338",
+    "latitude": 17.2326804,
+    "longitude": 77.6226461,
+    "place_id": "ChIJLQgn8EBryTsRfhx443tm5as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQgn8EBryTsRfhx443tm5as",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:07:27"
+  }
+]

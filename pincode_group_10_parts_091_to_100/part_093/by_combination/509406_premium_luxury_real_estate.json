@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KERALAREALESTATE.COM",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Property management company, Real estate rental agency",
+    "pincode": "509406",
+    "phone_number": "+91 91340 00111",
+    "website": "https://www.keralarealestate.com/",
+    "rating": 4.6,
+    "reviews_count": 95,
+    "address": "38/219 NH, Market Rd, Bypass Junction, Edappally, Kochi, Ernakulam, Keralam 682024",
+    "area": "Bypass Junction, Edappally",
+    "latitude": 10.0223399,
+    "longitude": 76.3092637,
+    "place_id": "ChIJlxVviiMNCDsRUOR7UT50-p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxVviiMNCDsRUOR7UT50-p4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:40:52"
+  },
+  {
+    "business_name": "Golden Real Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "509406",
+    "phone_number": "+91 98457 79531",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "1143, 5th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 6, HSR Layout",
+    "latitude": 12.912536,
+    "longitude": 77.6326091,
+    "place_id": "ChIJD5YYnJIUrjsRmF6BxAEYzRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5YYnJIUrjsRmF6BxAEYzRQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:40:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neet World",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "509375",
+    "phone_number": "+91 89777 46381",
+    "website": "https://neetworld.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Golden Leaf Estates, Chitrapuri Colony Rd, Chitrapuri Colony, Bagh Lingampally, Narayanguda, Hyderabad, Telangana 500029",
+    "area": "Chitrapuri Colony, Bagh Lingampally, Narayanguda",
+    "latitude": 17.3963744,
+    "longitude": 78.4916571,
+    "place_id": "ChIJw0G_7O2ZyzsRcV50__bB3KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0G_7O2ZyzsRcV50__bB3KE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:28:29"
+  },
+  {
+    "business_name": "KB Neet and IIT academy",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "509375",
+    "phone_number": "+91 97054 46760",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TMR Enclave, Hanuman Nagar Colony, Meerpet, Hyderabad, Telangana 500097",
+    "area": "TMR Enclave, Hanuman Nagar Colony, Meerpet",
+    "latitude": 17.3227494,
+    "longitude": 78.52803039999999,
+    "place_id": "ChIJl1fUgzujyzsRjRqyh3OymM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1fUgzujyzsRjRqyh3OymM4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:28:29"
+  }
+]

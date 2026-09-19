@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair & Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "509406",
+    "phone_number": "+91 72074 69818",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sapp No 10, 9Fxm+9Wq, Old MLA Quarters Rd, Ramkoti, Vittalwadi, Narayanguda, Hyderabad, Telangana 500029",
+    "area": "Ramkoti, Vittalwadi, Narayanguda",
+    "latitude": 17.3984375,
+    "longitude": 78.48481249999999,
+    "place_id": "ChIJacqsZtuZyzsRdhGcj0aapT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacqsZtuZyzsRdhGcj0aapT8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:51"
+  },
+  {
+    "business_name": "Dermacare Skin and Hair Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Hair transplantation clinic",
+    "pincode": "509406",
+    "phone_number": "+91 98866 60679",
+    "website": "http://www.thedermacare.com/",
+    "rating": 4.7,
+    "reviews_count": 840,
+    "address": "Number 3, First Floor,18th Main, 40th Cross Rd, opposite GNR Kalyan Mantap, 4th T Block East, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "Kottapalya, 4th T Block East, Jayanagara 9th Block, Jayanagar",
+    "latitude": 12.919951399999999,
+    "longitude": 77.59001549999999,
+    "place_id": "ChIJCZBevfQVrjsRi5f-KnT-FEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZBevfQVrjsRi5f-KnT-FEU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:51"
+  }
+]

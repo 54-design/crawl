@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.D.VET ANIMAL HOSPITAL",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "509335",
+    "phone_number": "+91 70951 44447",
+    "website": "https://www.drdvetanimalhospital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "369, Pragathi Nagar Rd, HMT Hills, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "HMT Hills, Kukatpally",
+    "latitude": 17.5032615,
+    "longitude": 78.39506639999999,
+    "place_id": "ChIJG_7N5sORyzsRXL0uT5ktZvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_7N5sORyzsRXL0uT5ktZvo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:01:50"
+  },
+  {
+    "business_name": "ADORABLES Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Dog day care center, Emergency veterinarian service, Pet boarding service, Pet groomer, Pet store, Pet supply store, Veterinarian, Veterinary pharmacy",
+    "pincode": "509335",
+    "phone_number": "+91 93815 63739",
+    "website": "https://adorablespetclinic.com/",
+    "rating": 4.8,
+    "reviews_count": 315,
+    "address": "8-2-257/A, Road No. 12, next to Omega Hospitals, near Lotus Pond Road, MLA Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "MLA Colony, Banjara Hills",
+    "latitude": 17.4132885,
+    "longitude": 78.42261959999999,
+    "place_id": "ChIJkSwLxh6XyzsRgH_bDRnoa9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSwLxh6XyzsRgH_bDRnoa9U",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:01:51"
+  }
+]

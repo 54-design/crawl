@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al-Zabihah",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "509385",
+    "phone_number": "+91 99666 40786",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 68,
+    "address": "Gate number 01, Paramount Hills Colony Rd, IAS Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "IAS Colony, Toli Chowki",
+    "latitude": 17.406468,
+    "longitude": 78.4123614,
+    "place_id": "ChIJtZ4tXuqXyzsRgulKalTOes0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZ4tXuqXyzsRgulKalTOes0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:36:03"
+  },
+  {
+    "business_name": "Fresh Mutton & Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "509385",
+    "phone_number": "+91 90598 55527",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10-2-24/A, Pipe Line Rd, Fatehnagar, Balanagar, Hyderabad, Telangana 500018",
+    "area": "Fatehnagar, Balanagar",
+    "latitude": 17.4593033,
+    "longitude": 78.4531794,
+    "place_id": "ChIJxaolxpKQyzsRo09oj4gCE4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaolxpKQyzsRo09oj4gCE4k",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:36:04"
+  }
+]

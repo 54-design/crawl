@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xpress Delivery",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "509334",
+    "phone_number": "+91 99672 59996",
+    "website": "http://xpressdelivery.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 3, 60/1, 15th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "HAL 2nd Stage, Indiranagar",
+    "latitude": 12.9665012,
+    "longitude": 77.64226959999999,
+    "place_id": "ChIJM6kMnNkVrjsRuOIoK5EuZhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6kMnNkVrjsRuOIoK5EuZhk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:00:58"
+  },
+  {
+    "business_name": "Star Door To Door-(M)",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Delivery service, Freight Forwarding Agency, Logistics service, Shipping and mailing service, Shipping service, Transportation service",
+    "pincode": "509334",
+    "phone_number": "+91 93270 77790",
+    "website": "https://stardtd.com/",
+    "rating": 4.3,
+    "reviews_count": 952,
+    "address": "G-73, Shree Krishna Centre, Mithakhali Cir, above Cross Word nr, Mithakhali, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Mithakhali, Navrangpura",
+    "latitude": 23.0331407,
+    "longitude": 72.5650445,
+    "place_id": "ChIJLxPXe_aEXjkRYmR3xrRveJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxPXe_aEXjkRYmR3xrRveJk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:00:59"
+  }
+]

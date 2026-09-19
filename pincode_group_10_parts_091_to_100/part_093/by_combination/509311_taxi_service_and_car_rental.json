@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Book a cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "509311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mallikarjuna Colony, Mallikarjuna Nagar, Old Bowenpally, Hyderabad, Secunderabad, Telangana 500009",
+    "area": "Mallikarjuna Colony, Mallikarjuna Nagar, Old Bowenpally",
+    "latitude": 17.476903,
+    "longitude": 78.4833084,
+    "place_id": "ChIJUZz71sCbyzsRB98MFQhpz1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZz71sCbyzsRB98MFQhpz1E",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:09"
+  },
+  {
+    "business_name": "TaxiYatri Car Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "509311",
+    "phone_number": "N/A",
+    "website": "http://www.taxiyatri.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "TaxiYatri Car Rentals, 509311, India",
+    "area": "509311",
+    "latitude": 25.892757999999997,
+    "longitude": 74.4692633,
+    "place_id": "ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:11"
+  }
+]

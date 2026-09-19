@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mee Security Solutions",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "509301",
+    "phone_number": "+91 73868 13663",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "near Devi Theater, Gowri Shanker Colony, Badepalle, Telangana 509301",
+    "area": "Gowri Shanker Colony",
+    "latitude": 16.7590054,
+    "longitude": 78.14604849999999,
+    "place_id": "ChIJRa2-CQkxyjsRCQ34-ZduEdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRa2-CQkxyjsRCQ34-ZduEdo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:45:13"
+  },
+  {
+    "business_name": "Maha Ganesh Enterprises",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Camera store",
+    "all_categories": "Camera store, Photo shop, Photography service",
+    "pincode": "509301",
+    "phone_number": "+91 94404 79119",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 406,
+    "address": "Annapurna Complex, Sai Nagar, Karimnagar, Telangana 505001",
+    "area": "Sai Nagar",
+    "latitude": 18.433671099999998,
+    "longitude": 79.13362889999999,
+    "place_id": "ChIJE9dvwBfZzDsRzsyp0nRdA7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9dvwBfZzDsRzsyp0nRdA7c",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:45:16"
+  }
+]

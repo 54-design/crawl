@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali Dresses",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509408",
+    "phone_number": "+91 94900 44288",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-100, Keshampet Rd, opp. Global School, Keshampet, Telangana 509408",
+    "area": "509408",
+    "latitude": 16.9511789,
+    "longitude": 78.34829549999999,
+    "place_id": "ChIJVVVVBS1LyjsRSlGagQiyL5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBS1LyjsRSlGagQiyL5c",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:17"
+  },
+  {
+    "business_name": "S R Collections",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509408",
+    "phone_number": "+91 96032 51552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "KESHAMPET (MANDAL, Kothapeta, Telangana 509408",
+    "area": "509408",
+    "latitude": 16.985737099999998,
+    "longitude": 78.3672734,
+    "place_id": "ChIJb7gGO5W1yzsR63pJ9z4GzJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7gGO5W1yzsR63pJ9z4GzJA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:17"
+  }
+]

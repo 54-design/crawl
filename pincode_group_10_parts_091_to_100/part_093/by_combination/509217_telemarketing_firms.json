@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Online Services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "509217",
+    "phone_number": "+91 98488 38225",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "546M+C7W, Shabad, Telangana 509217",
+    "area": "509217",
+    "latitude": 17.1611023,
+    "longitude": 78.1331926,
+    "place_id": "ChIJ2V9G00DJyzsRAAAAsCyAOBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2V9G00DJyzsRAAAAsCyAOBU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:38:47"
+  },
+  {
+    "business_name": "BPO/Telecaller",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Telephone company",
+    "all_categories": "Telephone company",
+    "pincode": "509217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "CFF2+RFW, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Dwarakapuri, Punjagutta",
+    "latitude": 17.4246117,
+    "longitude": 78.4511924,
+    "place_id": "ChIJF2UfJ86XyzsRjCFZc0TDZZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2UfJ86XyzsRjCFZc0TDZZQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:38:48"
+  }
+]

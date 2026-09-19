@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spinny Car Hub, Ace Tech Park, Financial District",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Audi dealer, BMW dealer, Car dealer, Car finance and loan company, Honda dealer, Hyundai dealer, Suzuki dealer, Toyota dealer",
+    "pincode": "509320",
+    "phone_number": "+91 72772 77275",
+    "website": "https://www.spinny.com/",
+    "rating": 4.6,
+    "reviews_count": 939,
+    "address": "Ace Tech Park, B-1, Narsing Nanakramguda Service Rd, Financial District, Nanakramguda, Hyderabad, Telangana 500032",
+    "area": "Financial District",
+    "latitude": 17.4127841,
+    "longitude": 78.353355,
+    "place_id": "ChIJF7YQyYSTyzsRsKGQj5t4Ksw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7YQyYSTyzsRsKGQj5t4Ksw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:51"
+  },
+  {
+    "business_name": "Maruti Suzuki Service (The Mithra Agencies)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto repair shop",
+    "pincode": "509320",
+    "phone_number": "+91 80 3715 0054",
+    "website": "https://www.marutisuzuki.com/arena/connect-to-dealer",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MRO Office, VIDYA NAGAR COLONY, S No: 1439, ROAD NO:5, opposite Indian Oil, Telangana 509321",
+    "area": "509320",
+    "latitude": 16.858102799999998,
+    "longitude": 78.5288052,
+    "place_id": "ChIJnywkQUSZyzsRfrF1b8LEKck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnywkQUSZyzsRfrF1b8LEKck",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:52"
+  }
+]

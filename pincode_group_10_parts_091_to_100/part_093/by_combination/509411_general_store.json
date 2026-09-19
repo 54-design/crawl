@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRM Patil 2",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "509411",
+    "phone_number": "+91 77024 59276",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.1, near Bustand, Maddur, Telangana 509411",
+    "area": "509411",
+    "latitude": 16.863278299999998,
+    "longitude": 77.608199,
+    "place_id": "ChIJQyMRfkefyTsRbfJf7Zcq_DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyMRfkefyTsRbfJf7Zcq_DM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:13"
+  },
+  {
+    "business_name": "Sri Laxmi Saw Mill",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "509411",
+    "phone_number": "+91 90521 61044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.1, Ravalpalli Road, Maddur, Telangana 509411",
+    "area": "509411",
+    "latitude": 16.8614486,
+    "longitude": 77.6097831,
+    "place_id": "ChIJhxL4WC2fyTsRb0xGZybA4FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxL4WC2fyTsRb0xGZybA4FU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:15"
+  }
+]

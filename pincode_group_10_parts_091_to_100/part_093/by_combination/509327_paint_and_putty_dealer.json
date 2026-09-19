@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sona Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "509327",
+    "phone_number": "+91 92465 39408",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 27,
+    "address": "4/2/913/C, opp. Bus Stop, Ramkoti, King Koti, Koti, Hyderabad, Telangana 500001",
+    "area": "Ramkoti, King Koti, Koti",
+    "latitude": 17.390456699999998,
+    "longitude": 78.48641909999999,
+    "place_id": "ChIJq8qSX8WZyzsRPf7Hgalcswg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8qSX8WZyzsRPf7Hgalcswg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:36"
+  },
+  {
+    "business_name": "Sunil Paint House",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "509327",
+    "phone_number": "+91 878 223 1789",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 26,
+    "address": "Gunj High School, Sai Nagar, Karimnagar, Telangana 505001",
+    "area": "Sai Nagar",
+    "latitude": 18.4327878,
+    "longitude": 79.1338767,
+    "place_id": "ChIJyW7zsCPZzDsRv5ajDi00_SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyW7zsCPZzDsRv5ajDi00_SQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:37"
+  }
+]

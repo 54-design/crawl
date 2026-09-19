@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer sanitary and plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Pump supplier",
+    "all_categories": "Pump supplier",
+    "pincode": "509380",
+    "phone_number": "+91 94916 80649",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kosgi Rd, near deccan lodge, Monappagutta, Mahbubnagar, Telangana 509001",
+    "area": "Monappagutta",
+    "latitude": 16.747716099999998,
+    "longitude": 77.98705149999999,
+    "place_id": "ChIJkTO2C5cnyjsRqriu1DG9yC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTO2C5cnyjsRqriu1DG9yC0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:34"
+  },
+  {
+    "business_name": "M S Madina Engineering Works",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "509380",
+    "phone_number": "+91 93983 60017",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, SBI Road, Madeena Masjid St, Mahbubnagar, Telangana 509001",
+    "area": "Ravinder Nagar",
+    "latitude": 16.7450525,
+    "longitude": 77.9861123,
+    "place_id": "ChIJDWFOq44nyjsRCeEx-BI_7D8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWFOq44nyjsRCeEx-BI_7D8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:34"
+  }
+]

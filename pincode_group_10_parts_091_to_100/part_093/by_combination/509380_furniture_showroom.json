@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "509380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PXPQ+R9C, Utkoor - Mogdumpur Rd, Hanumanpura, Habeeb Nagar, Mahbubnagar, Telangana 509001",
+    "area": "Hanumanpura, Habeeb Nagar",
+    "latitude": 16.737073199999998,
+    "longitude": 77.988406,
+    "place_id": "ChIJ_2WDFgAnyjsRvNFixgP92ZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2WDFgAnyjsRvNFixgP92ZU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:39"
+  },
+  {
+    "business_name": "KPR CURTAINS WORLD",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "509380",
+    "phone_number": "+91 90590 80403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Christianpally, Mahbubnagar, Telangana 509002",
+    "area": "Christianpally",
+    "latitude": 16.7290422,
+    "longitude": 78.0100112,
+    "place_id": "ChIJA0EALyUnyjsRMnP4YJoTBLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0EALyUnyjsRMnP4YJoTBLo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:39"
+  }
+]

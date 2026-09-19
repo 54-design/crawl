@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPOT ON 68888 Srushti Boarding & Lodging",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "509352",
+    "phone_number": "+91 124 620 1327",
+    "website": "https://www.oyorooms.com/94353",
+    "rating": 4.2,
+    "reviews_count": 15,
+    "address": "Hyderabad Rd RTPS Main Gate, Shaktinagar, Karnataka 584170",
+    "area": "509352",
+    "latitude": 16.357194,
+    "longitude": 77.349462,
+    "place_id": "ChIJ041brMbPyTsRnhol8eGHbyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ041brMbPyTsRnhol8eGHbyI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:51"
+  },
+  {
+    "business_name": "Megha Residency",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509352",
+    "phone_number": "+91 96065 51519",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 505,
+    "address": "Raichur - Mahabubnagar Rd, Yegnur, Karnataka 584134",
+    "area": "509352",
+    "latitude": 16.2753182,
+    "longitude": 77.34978029999999,
+    "place_id": "ChIJqz3OV-nQyTsRRwPJuMP_k3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz3OV-nQyTsRRwPJuMP_k3E",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:17:51"
+  }
+]

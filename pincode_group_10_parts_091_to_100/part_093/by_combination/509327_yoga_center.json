@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga Mandir",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "509327",
+    "phone_number": "+91 94404 89620",
+    "website": "https://www.facebook.com/dewulkerd/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B-526, Phase -II, Vanasthalipuram, near Vanasthalipuram Community Hall, Hyderabad, Telangana 500070",
+    "area": "Sachivalaya Colony",
+    "latitude": 17.330232499999997,
+    "longitude": 78.5708035,
+    "place_id": "ChIJmajJqfmhyzsR5sZ5E1F7JHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmajJqfmhyzsR5sZ5E1F7JHo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:24"
+  },
+  {
+    "business_name": "One Asana",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Meditation center, Yoga instructor",
+    "pincode": "509327",
+    "phone_number": "+91 91825 88098",
+    "website": "https://oneasana.com/hathafit/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Terrace Floor, Venkat Sai Building, Plot no 57, Kakatiya Hills, Guttala_Begumpet, Kavuri Hills, Madhapur, Hyderabad, Telangana 500033",
+    "area": "Kakatiya Hills, Guttala_Begumpet, Kavuri Hills, Madhapur",
+    "latitude": 17.441763899999998,
+    "longitude": 78.39882879999999,
+    "place_id": "ChIJq49hAcWRyzsRIY0SK4gGv_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq49hAcWRyzsRIY0SK4gGv_Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:24"
+  }
+]

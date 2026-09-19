@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandigarh Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "509320",
+    "phone_number": "+91 99889 58068",
+    "website": "http://zoma.to/r/19306547",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2nd floor, High-Tension Line Rd, above ipremium apple service center, Kondapur, Raghavendra Colony, Gachibowli, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Raghavendra Colony, Gachibowli",
+    "latitude": 17.4695353,
+    "longitude": 78.3616014,
+    "place_id": "ChIJSUr53xWTyzsRncGUG0MdJr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUr53xWTyzsRncGUG0MdJr4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:23"
+  },
+  {
+    "business_name": "SAGAR PAPAJI KA DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba, Punjabi restaurant",
+    "pincode": "509320",
+    "phone_number": "+91 40 2475 3857",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No.4-1-365, F/1, Hanuman Tekdi Rd, near Sabharwal Tourist, Hanuman Tekdi, Abids, Hyderabad, Telangana 500001",
+    "area": "Hanuman Tekdi, Abids",
+    "latitude": 17.388448699999998,
+    "longitude": 78.4792126,
+    "place_id": "ChIJk8sW69aZyzsRLVDBQx1OgNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8sW69aZyzsRLVDBQx1OgNY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:23"
+  }
+]

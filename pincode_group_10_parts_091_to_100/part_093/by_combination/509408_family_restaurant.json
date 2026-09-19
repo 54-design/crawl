@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Durga Vilas Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509408",
+    "phone_number": "+91 90008 88413",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Sri Durga Vilas Family Restaurant, Srisailam Hwy, opposite Sreenidhi serengeti, beside Indian Oil, Telangana 500113",
+    "area": "509408",
+    "latitude": 17.103801699999998,
+    "longitude": 78.4746055,
+    "place_id": "ChIJnUn9OO2xyzsRRlMpFMrFXv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUn9OO2xyzsRRlMpFMrFXv8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:05"
+  },
+  {
+    "business_name": "Lucky Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "509408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "X84V+6MV, road, Keshampet, Telangana 509408",
+    "area": "509408",
+    "latitude": 16.9555207,
+    "longitude": 78.34414199999999,
+    "place_id": "ChIJlaixLQC1yzsRDd4gMiqcQE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaixLQC1yzsRDd4gMiqcQE4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:07"
+  }
+]

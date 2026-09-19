@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Upscaller",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "509382",
+    "phone_number": "+91 93064 54204",
+    "website": "https://upscaller.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Upscaller, 509382, India",
+    "area": "509382",
+    "latitude": 28.691055499999997,
+    "longitude": 77.14973049999999,
+    "place_id": "ChIJtdRJqvekDa4RYHQAka0ggqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdRJqvekDa4RYHQAka0ggqU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:35:55"
+  },
+  {
+    "business_name": "Webmobilez Inc",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "509382",
+    "phone_number": "+91 96424 64660",
+    "website": "http://webmobilez.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Webmobilez Inc, 509382, India",
+    "area": "509382",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:35:55"
+  }
+]

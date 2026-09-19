@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beta Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Teachers college, Tutoring service",
+    "pincode": "509320",
+    "phone_number": "+91 95508 22229",
+    "website": "http://www.betaeducation.org/",
+    "rating": 4.1,
+    "reviews_count": 38,
+    "address": "Ramnagar, Above Andhara Bank Atm, 3rd Floor, Ram Nagar, Hyderabad, Telangana 500020",
+    "area": "Ram Nagar, Musheerabad, Zamistanpur",
+    "latitude": 17.410491399999998,
+    "longitude": 78.5068441,
+    "place_id": "ChIJG4Lch82ZyzsRG1WIz_NUpIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4Lch82ZyzsRG1WIz_NUpIU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:50:27"
+  },
+  {
+    "business_name": "Edu2tek",
+    "search_category": "Educational Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "509320",
+    "phone_number": "+91 99598 62565",
+    "website": "http://www.edu2tek.com/",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "4th floor, Vaishnavi Nest, 402, above AINU OPD, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Indira Nagar, Dilsukhnagar",
+    "latitude": 17.3695845,
+    "longitude": 78.5208988,
+    "place_id": "ChIJHQMABUKbyzsR-yLfP-yVlRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQMABUKbyzsR-yLfP-yVlRU",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:50:27"
+  }
+]

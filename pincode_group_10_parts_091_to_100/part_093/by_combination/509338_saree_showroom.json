@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh Saree Business",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509338",
+    "phone_number": "+91 98663 63495",
+    "website": "https://sureshsarees.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "H.NO.308, LAKSHMI NILIYAM, DAV PUBLIC SCHOOL, LANE, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vivekananda Nagar, Kukatpally",
+    "latitude": 17.4940522,
+    "longitude": 78.41035289999999,
+    "place_id": "ChIJOaWlru6RyzsRrem8YbdOznA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaWlru6RyzsRrem8YbdOznA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:48"
+  },
+  {
+    "business_name": "Nakshatra Store (Pattu Sarees)",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "509338",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7H5P+3J4, Unnamed Road, Ghanapurward, Tandur, Telangana 501141",
+    "area": "Ghanapurward",
+    "latitude": 17.257635099999998,
+    "longitude": 77.58659279999999,
+    "place_id": "ChIJh9TKdmZryTsRcD-mKw0AhQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9TKdmZryTsRcD-mKw0AhQA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:49"
+  }
+]

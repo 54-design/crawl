@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "509401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "68MX+V5Q శివాజీ, Nagarkurnool, Sathapur, Telangana 509412",
+    "area": "509401",
+    "latitude": 16.234708899999998,
+    "longitude": 78.3479926,
+    "place_id": "ChIJmcRxMfd1yjsRCawT9bxW4ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcRxMfd1yjsRCawT9bxW4ck",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:38:33"
+  },
+  {
+    "business_name": "Spa Kerano",
+    "search_category": "Spa",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "509401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7GC8+HM4, Lingal, Telangana 509401",
+    "area": "509401",
+    "latitude": 16.271398299999998,
+    "longitude": 78.5166998,
+    "place_id": "ChIJx5-yvKt5yjsRCrEHCHpC7Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5-yvKt5yjsRCrEHCHpC7Cc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:38:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "general stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "509219",
+    "phone_number": "+91 93927 03191",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "jawahar nagar, 6 /141, Vaspula, Telangana 509301",
+    "area": "509219",
+    "latitude": 16.7505327,
+    "longitude": 78.1398665,
+    "place_id": "ChIJ0WuLgJs7yjsR3CPxS2b95Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WuLgJs7yjsR3CPxS2b95Ms",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:38:59"
+  },
+  {
+    "business_name": "Sri Krishna Kiranam",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Home goods store",
+    "pincode": "509219",
+    "phone_number": "+91 95424 24302",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "HRCP+3X9, Ammapoor Rd, Kaukuntla, Telangana 509204",
+    "area": "509219",
+    "latitude": 16.5701587,
+    "longitude": 77.8374755,
+    "place_id": "ChIJuwPs6JL0yTsR11a-XWMC0gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwPs6JL0yTsR11a-XWMC0gw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:38:59"
+  }
+]

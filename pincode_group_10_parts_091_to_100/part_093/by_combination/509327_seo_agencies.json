@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MBL Technologies",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Internet marketing service",
+    "pincode": "509327",
+    "phone_number": "+91 83744 32563",
+    "website": "https://mbltechnologies.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Survey No. 91, MBL Technologies, inside Sundarayya Vignana Kendram, Greenland Colony, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Greenland Colony, Madhava Reddy Colony, Gachibowli",
+    "latitude": 17.4353409,
+    "longitude": 78.36098319999999,
+    "place_id": "ChIJw-rP5wuTyzsRxrly7q_-IUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-rP5wuTyzsRxrly7q_-IUg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:59:28"
+  },
+  {
+    "business_name": "WebMartix",
+    "search_category": "SEO Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Branding agency, Graphic designer, Marketing agency, Marketing consultant, Website designer",
+    "pincode": "509327",
+    "phone_number": "+91 90591 94630",
+    "website": "https://webmartix.com/",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "near Vasavi communications store, Moti Nagar, Rama Rao Nagar, Borabanda, Hyderabad, Telangana 500114",
+    "area": "Moti Nagar, Rama Rao Nagar, Borabanda",
+    "latitude": 17.4556494,
+    "longitude": 78.4208565,
+    "place_id": "ChIJKb9QginfdIoRY2qCSGAHaBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKb9QginfdIoRY2qCSGAHaBw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:59:28"
+  }
+]

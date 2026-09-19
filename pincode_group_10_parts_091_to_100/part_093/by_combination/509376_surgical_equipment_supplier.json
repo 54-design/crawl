@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Universal Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Surgical Products Wholesaler, Surgical supply store",
+    "pincode": "509376",
+    "phone_number": "+91 80086 48658",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No C2, Vensa Enclave, 1897, Incois Rd, Kakatiya Hills, Pragathi Nagar, Gajularamaram, Hyderabad, Telangana 500090",
+    "area": "Kakatiya Hills, Pragathi Nagar, Gajularamaram",
+    "latitude": 17.5258845,
+    "longitude": 78.3949909,
+    "place_id": "ChIJMWRyo2KPyzsRluZQtpDPHdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWRyo2KPyzsRluZQtpDPHdY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:33"
+  },
+  {
+    "business_name": "Paramount Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "509376",
+    "phone_number": "+91 81376 32170",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "172&173, Balaji Residency, J.J. Nagar, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Balaji Residency, J.J. Nagar, Sainikpuri",
+    "latitude": 17.4853432,
+    "longitude": 78.5373783,
+    "place_id": "ChIJRX2ycGubyzsRLTGPAhkxIXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRX2ycGubyzsRLTGPAhkxIXA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:33"
+  }
+]

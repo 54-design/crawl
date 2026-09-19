@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dodla Dairy Milk and Curd Distributor",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "509371",
+    "phone_number": "+91 1800 103 1477",
+    "website": "http://www.dodladairy.com/",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "HNo:12-11-12, D Hari Prasad Reddy, MIG II-108, Housing Board Colony, APHB Colony, Yedira, Mahbubnagar, Telangana 509002",
+    "area": "Housing Board Colony, APHB Colony",
+    "latitude": 16.7537487,
+    "longitude": 78.0486454,
+    "place_id": "ChIJ78iUFGwvyjsRZ4lwB-Emo-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78iUFGwvyjsRZ4lwB-Emo-w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:25:36"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "509371",
+    "phone_number": "+91 83419 00737",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NO-4, 148/6, Narayanpet Rd, Shabari Colony, Makthal, Mahbubnagar, Telangana 509001",
+    "area": "Shabari Colony",
+    "latitude": 16.752249499999998,
+    "longitude": 78.0113458,
+    "place_id": "ChIJfT6ntuwpyjsRcaWIpK-Tu0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfT6ntuwpyjsRcaWIpK-Tu0E",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:25:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasansha boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509321",
+    "phone_number": "+91 96767 10367",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Road No. 4, Zahara Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Zahara Nagar, Banjara Hills",
+    "latitude": 17.4201168,
+    "longitude": 78.4464754,
+    "place_id": "ChIJ8c2Q_jOXyzsRYKMspOCsNLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8c2Q_jOXyzsRYKMspOCsNLY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:21"
+  },
+  {
+    "business_name": "Satyabhama Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "509321",
+    "phone_number": "+91 73966 06864",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1-57/459-B, Kondapur, Sri Ramnagar - Block B, Kondapur, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Sri Ramnagar - Block B, Kondapur",
+    "latitude": 17.4591375,
+    "longitude": 78.3521627,
+    "place_id": "ChIJFRTqpCyTyzsRmSZAZv1_Sj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRTqpCyTyzsRmSZAZv1_Sj8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:51:22"
+  }
+]

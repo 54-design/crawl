@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moscow Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "509350",
+    "phone_number": "+91 93719 73797",
+    "website": "http://www.ulhasnagaronline.in/city-guide/boutiques-in-ulhasnagar",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No.4, Golden Tower, New !ink Road, Press Bazar, Ulhasnagar, Maharashtra 421002",
+    "area": "Press Bazar",
+    "latitude": 19.2313868,
+    "longitude": 73.1593754,
+    "place_id": "ChIJ1w4h6RWU5zsRszP9z0fQEE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1w4h6RWU5zsRszP9z0fQEE0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:13:47"
+  },
+  {
+    "business_name": "L K DESGINER STUDIO",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "509350",
+    "phone_number": "+91 99227 01700",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop Number 50 Ground and 1st Floor, Gajanand Market, Jai, Ulhasnagar 2, Sidhi Vinayak Nagar, Ulhasnagar, Maharashtra 421002",
+    "area": "Sidhi Vinayak Nagar",
+    "latitude": 19.234081,
+    "longitude": 73.1620209,
+    "place_id": "ChIJG2W0biCV5zsRoQKeKq0Prw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2W0biCV5zsRoQKeKq0Prw0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:13:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.G.C Jewellery shop",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "509401",
+    "phone_number": "+91 96762 59440",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raja Vidhi, Malleswar, Kollapur, Telangana 509102",
+    "area": "Malleswar",
+    "latitude": 16.1059739,
+    "longitude": 78.3231892,
+    "place_id": "ChIJfzdxENeNtTsRdQGz59tilWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzdxENeNtTsRdQGz59tilWQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:37:59"
+  },
+  {
+    "business_name": "PULLACHARY(RAVI) jewellary and works",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Coppersmith, Gold dealer, Goldsmith, Silversmith, Wholesale jeweler",
+    "pincode": "509401",
+    "phone_number": "+91 94406 89544",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Raja Vidhi, Kollapur, Telangana 509102",
+    "area": "509401",
+    "latitude": 16.105944,
+    "longitude": 78.3248203,
+    "place_id": "ChIJ6S-P2MmNtTsRdd0YyiPbDvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6S-P2MmNtTsRdd0YyiPbDvE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:37:59"
+  }
+]

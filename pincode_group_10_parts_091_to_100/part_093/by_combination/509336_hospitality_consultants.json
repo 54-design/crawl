@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SeaHorse | Hospitality Consulting Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "509336",
+    "phone_number": "+91 88826 24288",
+    "website": "http://www.seahorseconsulting.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SeaHorse | Hospitality Consulting Services, 509336, India",
+    "area": "509336",
+    "latitude": 21.8140152,
+    "longitude": 75.27981989999999,
+    "place_id": "ChIJk3czB-O97IkRwr8U2KjWs60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3czB-O97IkRwr8U2KjWs60",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:04:12"
+  },
+  {
+    "business_name": "Tatva Hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Service establishment",
+    "pincode": "509336",
+    "phone_number": "N/A",
+    "website": "http://www.tatvahospitality.com/",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Tatva Hospitality, 509336, India",
+    "area": "509336",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJE2yuPQIUrjsRbXgYhHEhs5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2yuPQIUrjsRbXgYhHEhs5A",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:04:12"
+  }
+]

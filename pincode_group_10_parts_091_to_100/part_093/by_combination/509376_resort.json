@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moksha Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Home Stay, Farmstay, Restaurant",
+    "pincode": "509376",
+    "phone_number": "+91 94413 32796",
+    "website": "https://www.moksharesorts.com/",
+    "rating": 4.9,
+    "reviews_count": 465,
+    "address": "5-137, Bussapoor, Govindaraopet, Chalvai, Telangana 506344",
+    "area": "Bussapoor",
+    "latitude": 18.1875754,
+    "longitude": 80.0918246,
+    "place_id": "ChIJiTjTN3yhMzoRxUa-cx9Oixo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTjTN3yhMzoRxUa-cx9Oixo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:30:05"
+  },
+  {
+    "business_name": "LP 119 Resort Guest House",
+    "search_category": "Resort",
+    "primary_category": "Garden",
+    "all_categories": "Garden",
+    "pincode": "509376",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 389,
+    "address": "VCQ5+8R, opposite hp petrol bunk, Chinnapendyala, Telangana 506144",
+    "area": "509376",
+    "latitude": 17.888312499999998,
+    "longitude": 79.40956249999999,
+    "place_id": "ChIJz5_zhBRTMzoRFgpqCjeaP_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5_zhBRTMzoRFgpqCjeaP_A",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:30:07"
+  }
+]

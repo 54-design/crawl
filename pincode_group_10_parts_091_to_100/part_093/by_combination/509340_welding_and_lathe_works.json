@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hyper Artho Industries",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Machine workshop, Mechanical engineer",
+    "pincode": "509340",
+    "phone_number": "+91 80 2663 4462",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tank Bund, 42/1, behind Krishna Kalyan, Marenahalli, 5th Block, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "Marenahalli, 5th Block, Jayanagar",
+    "latitude": 12.9189451,
+    "longitude": 77.5885418,
+    "place_id": "ChIJAQAAAKQVrjsR_Gz36ZRfm9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAKQVrjsR_Gz36ZRfm9I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:26"
+  },
+  {
+    "business_name": "Best Turning Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Welder",
+    "pincode": "509340",
+    "phone_number": "+91 40 2770 6551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 27 , Near Bombay Hotel, Mahatma Gandhi Rd, Ranigunj, Secunderabad, Telangana 500003",
+    "area": "Bolaram Nagar, Ranigunj",
+    "latitude": 17.4325334,
+    "longitude": 78.4885748,
+    "place_id": "ChIJ-6HOkhyayzsR2OInMvp-ffg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6HOkhyayzsR2OInMvp-ffg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:27"
+  }
+]

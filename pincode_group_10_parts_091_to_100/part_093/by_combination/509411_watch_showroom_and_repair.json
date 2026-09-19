@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal Watch & Gifts",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Clock and watch maker, Watch repair service",
+    "pincode": "509411",
+    "phone_number": "+91 40 6666 0585",
+    "website": "https://stores.kamalwatch.com/store-pages/kamal-watch-gifts-hyderabad/",
+    "rating": 4.8,
+    "reviews_count": 1114,
+    "address": "upper ground floor, Abids Road, opp. Cherma's, Brook Bond Colony, Chirag Ali Lane, Abids, Hyderabad, Telangana 500001",
+    "area": "Brook Bond Colony, Chirag Ali Lane, Abids",
+    "latitude": 17.3936538,
+    "longitude": 78.4756483,
+    "place_id": "ChIJ2Y4R2mKXyzsRyY7bEALiMSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Y4R2mKXyzsRyY7bEALiMSk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:30"
+  },
+  {
+    "business_name": "Shakeel Watch Co.",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "509411",
+    "phone_number": "+91 40 2475 4210",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "4-1-840, Abids Road, Hanuman Tekdi, Abids, Hyderabad, Telangana 500001",
+    "area": "Hanuman Tekdi, Abids",
+    "latitude": 17.388843899999998,
+    "longitude": 78.4766818,
+    "place_id": "ChIJsWbozNeZyzsRFt92iv9680g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWbozNeZyzsRFt92iv9680g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:32"
+  }
+]

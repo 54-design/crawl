@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAKE WORLD BAKERY",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "509339",
+    "phone_number": "+91 96669 17701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "XPQ6+7J7, Shivaji chowk, Kosgi, Telangana 509339",
+    "area": "Shivaji chowk",
+    "latitude": 16.9881542,
+    "longitude": 77.7115401,
+    "place_id": "ChIJ13Sc-1h3yTsR8XoP9QqrWuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13Sc-1h3yTsR8XoP9QqrWuA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:08:23"
+  },
+  {
+    "business_name": "Master cakes kosgi",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "509339",
+    "phone_number": "+91 87900 38278",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "kamaan,first floor, Saibaba temple, Kosgi, Telangana 509339",
+    "area": "509339",
+    "latitude": 16.9863335,
+    "longitude": 77.7104643,
+    "place_id": "ChIJYbkd_JJ3yTsRsTgraiwy6FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbkd_JJ3yTsRsTgraiwy6FI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:08:26"
+  }
+]

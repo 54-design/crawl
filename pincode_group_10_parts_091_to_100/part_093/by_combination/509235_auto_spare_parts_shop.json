@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Universal Auto Spares",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "509235",
+    "phone_number": "+91 83196 77030",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "F94V+3R9, Ayyappa Society, Survey of India Colony, Chanda Naik Nagar, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Ayyappa Society, Survey of India Colony, Chanda Naik Nagar, Madhapur",
+    "latitude": 17.4551511,
+    "longitude": 78.39459719999999,
+    "place_id": "ChIJV6QnGACRyzsRddF9IbHcTB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6QnGACRyzsRddF9IbHcTB0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:53"
+  },
+  {
+    "business_name": "MARUTHI ENTERPRISES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "509235",
+    "phone_number": "+91 90000 22865",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24-11/A,24-11/8, Road, opposite Jafar Petrol Pump, Achampet, Nagarkurnool, Telangana 509209",
+    "area": "509235",
+    "latitude": 16.4841759,
+    "longitude": 78.3207798,
+    "place_id": "ChIJjbyQ37RtyjsRTdLApqBS5ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbyQ37RtyjsRTdLApqBS5ss",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:56"
+  }
+]

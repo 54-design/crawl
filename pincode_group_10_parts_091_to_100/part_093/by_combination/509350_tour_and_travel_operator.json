@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vacayeaziie",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "509350",
+    "phone_number": "+91 87678 89466",
+    "website": "http://www.vacayeaziie.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhanori, Pune, Maharashtra 411015",
+    "area": "Dhanori",
+    "latitude": 18.5911728,
+    "longitude": 73.9020982,
+    "place_id": "ChIJJRJ8KFPHwjsR2Vj7gm8gbJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRJ8KFPHwjsR2Vj7gm8gbJk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:05"
+  },
+  {
+    "business_name": "Mayura Package Tours",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "509350",
+    "phone_number": "+91 94482 74147",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "30, G 4, Travellers Point, Seshadri Rd, Anand Rao Circles, Bengaluru, Karnataka 560009",
+    "area": "Anand Rao Circles",
+    "latitude": 12.980526099999999,
+    "longitude": 77.5752184,
+    "place_id": "ChIJK5HcMxIWrjsRzQ5DwFGc_Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5HcMxIWrjsRzQ5DwFGc_Ho",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:05"
+  }
+]

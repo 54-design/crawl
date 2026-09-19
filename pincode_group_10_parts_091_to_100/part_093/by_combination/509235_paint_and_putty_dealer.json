@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna Paints & Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store",
+    "pincode": "509235",
+    "phone_number": "+91 98665 03714",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "New Hafeezpet, Aditya Nagar, Hafeezpet, Hyderabad, Telangana 500049",
+    "area": "New Hafeezpet, Aditya Nagar, Hafeezpet",
+    "latitude": 17.481289,
+    "longitude": 78.3609934,
+    "place_id": "ChIJ6_FNhEeSyzsR6W5CTP_oRRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_FNhEeSyzsR6W5CTP_oRRc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:43:01"
+  },
+  {
+    "business_name": "Andhra paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "509235",
+    "phone_number": "+91 63009 19736",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "Postal Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "Postal Colony",
+    "latitude": 15.8407214,
+    "longitude": 78.0359545,
+    "place_id": "ChIJMTKuHFjntTsRna8LQVuIU1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTKuHFjntTsRna8LQVuIU1Y",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:43:02"
+  }
+]

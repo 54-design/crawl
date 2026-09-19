@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRRC Camp",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "509335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "WQV3+54, Kaplapur, Telangana 509339",
+    "area": "509335",
+    "latitude": 16.9428767,
+    "longitude": 77.7528083,
+    "place_id": "ChIJCapsztp5yTsRRh5dJbD2P-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCapsztp5yTsRRh5dJbD2P-g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:02:02"
+  },
+  {
+    "business_name": "Driving",
+    "search_category": "Driving School",
+    "primary_category": "Artist",
+    "all_categories": "Artist",
+    "pincode": "509335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gumdal, Kosgi, Telangana 509335",
+    "area": "509335",
+    "latitude": 17.006567,
+    "longitude": 77.7821432,
+    "place_id": "ChIJ1ea7M9B5yTsREKP4zJi-qSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ea7M9B5yTsREKP4zJi-qSo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:02:04"
+  }
+]

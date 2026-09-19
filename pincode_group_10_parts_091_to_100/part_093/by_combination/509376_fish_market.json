@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FISH MARKET",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing pond",
+    "all_categories": "Fishing pond",
+    "pincode": "509376",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VFR6+87W, Pedda Devula Palle, Telangana 508208",
+    "area": "509376",
+    "latitude": 16.8908676,
+    "longitude": 79.4607083,
+    "place_id": "ChIJ80LCD0ItNToRwcZL4Mt6hXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80LCD0ItNToRwcZL4Mt6hXM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:06"
+  },
+  {
+    "business_name": "FishWaala.Com @Boduppal",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "509376",
+    "phone_number": "N/A",
+    "website": "https://www.fishwaala.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1-79/2, opp. SSS Garden, Veerareddy Nagar Colony, Bayanna Nagar, Boduppal, Hyderabad, Telangana 500092",
+    "area": "Veerareddy Nagar Colony, Bayanna Nagar, Boduppal",
+    "latitude": 17.4198531,
+    "longitude": 78.5804364,
+    "place_id": "ChIJy5bSLC6fyzsRnopoATBuvt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5bSLC6fyzsRnopoATBuvt4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:07"
+  }
+]

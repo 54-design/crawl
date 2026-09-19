@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D. Venkatesh Jewellers DVJ",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "509380",
+    "phone_number": "+91 90524 08312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 3-9-99,Shah Bazar, Gandhi Nagar, Govt M.B.H.S Rd, Mahbubnagar, Telangana 509001",
+    "area": "Boyapalle Rural",
+    "latitude": 16.7431423,
+    "longitude": 77.9882899,
+    "place_id": "ChIJ5wfh5xYnyjsRK4IIwVwOSYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wfh5xYnyjsRK4IIwVwOSYs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:04"
+  },
+  {
+    "business_name": "Brahmam",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "509380",
+    "phone_number": "+91 81974 15556",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "10-97/1, MBNR Road, Anpahad, Ghanpur, Telangana 509380",
+    "area": "509380",
+    "latitude": 16.5792113,
+    "longitude": 78.05363249999999,
+    "place_id": "ChIJMRpJSgwjyjsR5xG4gNT05z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRpJSgwjyjsR5xG4gNT05z4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:07"
+  }
+]

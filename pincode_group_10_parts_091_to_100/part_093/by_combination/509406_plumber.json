@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balu Plumber Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "509406",
+    "phone_number": "+91 73068 69022",
+    "website": "https://gbplumberservices.gbplumberservice.workers.dev/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Premnagar, Police Colony, Amberpet, Hyderabad, Telangana 500013",
+    "area": "Premnagar, Police Colony, Amberpet",
+    "latitude": 17.385471,
+    "longitude": 78.5185197,
+    "place_id": "ChIJxwn2p_GZyzsRVJ0T-3nCeiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwn2p_GZyzsRVJ0T-3nCeiM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:40:12"
+  },
+  {
+    "business_name": "Mohit Marketing (Authorized Jaquar dealer)",
+    "search_category": "Plumber",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Bathroom remodeler, Hot water system supplier, Jaguar dealer, Pipes Wholesaler, Plumber, Plumbing supply store, Solar hot water system supplier",
+    "pincode": "509406",
+    "phone_number": "+91 80 4173 7000",
+    "website": "https://mohitmarketing.com/",
+    "rating": 4.9,
+    "reviews_count": 118,
+    "address": "60/1, Oil Mill Road,K K Halli Kammanahalli, near Banaswadi, Kalyan nagar, Kammanahalli, Bengaluru, Karnataka 560084",
+    "area": "Kalyan nagar, Kammanahalli",
+    "latitude": 13.0127426,
+    "longitude": 77.6345608,
+    "place_id": "ChIJuXR3E98WrjsRwFvKyjBr_Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXR3E98WrjsRwFvKyjBr_Eg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:40:13"
+  }
+]

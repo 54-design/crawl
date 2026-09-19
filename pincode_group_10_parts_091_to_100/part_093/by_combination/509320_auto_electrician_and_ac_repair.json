@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Autonest car repairs and accessories",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "509320",
+    "phone_number": "+91 91210 70753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12-194/3/B, Vidya Nagar, Kalwakurthy, Telangana 509324",
+    "area": "Vidya Nagar",
+    "latitude": 16.672876,
+    "longitude": 78.4915772,
+    "place_id": "ChIJjyQTVv5dyjsRLubZ9MGsRN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyQTVv5dyjsRLubZ9MGsRN0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:55"
+  },
+  {
+    "business_name": "Sree Anjana Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "509320",
+    "phone_number": "+91 96403 49150",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Main Road, Amangal, Hyderabad, Telangana 509321",
+    "area": "509320",
+    "latitude": 16.8586646,
+    "longitude": 78.5290758,
+    "place_id": "ChIJ67ABaJVRyjsR_2UsVT20N64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67ABaJVRyjsR_2UsVT20N64",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:55"
+  }
+]

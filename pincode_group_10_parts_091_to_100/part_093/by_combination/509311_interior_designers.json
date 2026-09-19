@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "studio yards",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "509311",
+    "phone_number": "+91 91770 11246",
+    "website": "https://studioyards.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "studio yards, 509311, India",
+    "area": "509311",
+    "latitude": 17.4123487,
+    "longitude": 78.4080456,
+    "place_id": "ChIJuXi06AC9CKoR6mZFvly85m8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXi06AC9CKoR6mZFvly85m8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:19"
+  },
+  {
+    "business_name": "Wood Crafters",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "509311",
+    "phone_number": "+91 95501 99609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "2-56/2, Chanda Nayak, Tanda, Khanammet, Telangana 500081",
+    "area": "Tanda, Chanda Naik Nagar, Madhapur",
+    "latitude": 17.454615999999998,
+    "longitude": 78.3895809,
+    "place_id": "ChIJAW-OqP2RyzsRBbUBGZZOHTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAW-OqP2RyzsRBbUBGZZOHTc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:48:21"
+  }
+]

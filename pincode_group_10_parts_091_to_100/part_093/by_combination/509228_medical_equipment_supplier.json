@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhansi medical general store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "509228",
+    "phone_number": "+91 96666 84324",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kandukur x road, Srisailam Hwy, Kandukur, Telangana 500113",
+    "area": "509228",
+    "latitude": 17.071957599999998,
+    "longitude": 78.4740127,
+    "place_id": "ChIJk1yDaxyxyzsR0yh77dE91RI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1yDaxyxyzsR0yh77dE91RI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:04"
+  },
+  {
+    "business_name": "Vacciplus Pharma Distributors",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Supplier, Medical supply store, Pharmacy",
+    "pincode": "509228",
+    "phone_number": "+91 80747 40285",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Vijayanagar colony, Hyderabad, Telangana 500057",
+    "area": "Vijaynagar Colony, APHB Colony, Vijaya Nagar Colony",
+    "latitude": 17.3945325,
+    "longitude": 78.45154959999999,
+    "place_id": "ChIJnc58OxOXyzsRtDZ_2pUaL8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnc58OxOXyzsRtDZ_2pUaL8g",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar hair saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "509411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VJ66+3RW, Maddur, Telangana 509411",
+    "area": "509411",
+    "latitude": 16.8602271,
+    "longitude": 77.6120835,
+    "place_id": "ChIJp9L2bLGfyTsROMGUff37ZHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9L2bLGfyTsROMGUff37ZHc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:49:00"
+  },
+  {
+    "business_name": "Mangali Yakambri",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "509411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "WH6Q+W23, Unnamed Road, Parsapuram, Telangana 509336",
+    "area": "509411",
+    "latitude": 16.9122537,
+    "longitude": 77.5875444,
+    "place_id": "ChIJEWLEOu51yTsRHmA93zFygxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWLEOu51yTsRHmA93zFygxs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:49:01"
+  }
+]

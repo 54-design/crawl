@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prithvi Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "509337",
+    "phone_number": "+91 98495 56060",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "G-6, Pragathi Enclave, beside Axis Bank, Bhagya Nagar Colony, Kukatpally, KBHP, Hyderabad, Telangana 500072",
+    "area": "Bhagya Nagar Colony, Kukatpally",
+    "latitude": 17.4952953,
+    "longitude": 78.402784,
+    "place_id": "ChIJ09me6pKRyzsR_IOm9jZNv_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09me6pKRyzsR_IOm9jZNv_c",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:00"
+  },
+  {
+    "business_name": "Sri Navaratna Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "509337",
+    "phone_number": "+91 89782 59638",
+    "website": "https://www.facebook.com/srinavaratnaprinters/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "7-1-100, Gurudwara Back Side, Hanuman Temple Complex, Swathi Avenue, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Hanuman Temple Complex, Swathi Avenue, Ameerpet",
+    "latitude": 17.435300899999998,
+    "longitude": 78.4486206,
+    "place_id": "ChIJpcLx78iQyzsRp1ZjufLuUZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcLx78iQyzsRp1ZjufLuUZc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARVATHI VIGNESHWARA SUPERMARKET",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "509382",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infinity towers, Shah Saheb Gutta, Mahbubnagar, Telangana 509001",
+    "area": "Shah Saheb Gutta",
+    "latitude": 16.7337944,
+    "longitude": 78.0102856,
+    "place_id": "ChIJidcTmvknyjsRlc2udl2jaR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidcTmvknyjsRlc2udl2jaR4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:34:13"
+  },
+  {
+    "business_name": "VASAVI KIRANAM",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "509382",
+    "phone_number": "+91 98480 26149",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 16,
+    "address": "Sri Rama Colony, Christianpally, Mahbubnagar, Telangana 509002",
+    "area": "Christianpally",
+    "latitude": 16.727945599999998,
+    "longitude": 78.0115907,
+    "place_id": "ChIJwa286xYnyjsRW1cCRCHczLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwa286xYnyjsRW1cCRCHczLg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:34:13"
+  }
+]

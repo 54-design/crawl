@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bulls gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "515002",
+    "phone_number": "+91 76758 37038",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kalyandurgam Rd, opp. zudio, Ganesha Nagar, Pilligundla, Papampeta, Anantapur, Andhra Pradesh 515004",
+    "area": "Ganesha Nagar, Pilligundla",
+    "latitude": 14.683743199999999,
+    "longitude": 77.5778357,
+    "place_id": "ChIJzUWREbpLsTsRQezJ_yhWZCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUWREbpLsTsRQezJ_yhWZCY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:54:01"
+  },
+  {
+    "business_name": "CURL FIT",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "515002",
+    "phone_number": "+91 82968 20333",
+    "website": "http://www.curlfit.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, NMR Enclave, 7/25, Ejipura Main Rd, next to modern school, Ejipura, Bengaluru, Karnataka 560047",
+    "area": "Ejipura",
+    "latitude": 12.9418151,
+    "longitude": 77.6311145,
+    "place_id": "ChIJEXCZC2MVrjsR9Fa3eZ8oyKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXCZC2MVrjsR9Fa3eZ8oyKc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:54:02"
+  }
+]

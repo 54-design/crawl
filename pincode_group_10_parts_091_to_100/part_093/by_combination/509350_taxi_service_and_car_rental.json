@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharana Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "509350",
+    "phone_number": "+91 90793 65184",
+    "website": "https://maharanacabs.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Premi Dwara Marg, inside Suraj Pole, opposite Asthal Mandir Road, Outside Surajpole, Bapu Bazar, Brahmpuri, Udaipur, Rajasthan 313001",
+    "area": "Outside Surajpole, Bapu Bazar, Brahmpuri",
+    "latitude": 24.5794984,
+    "longitude": 73.6961034,
+    "place_id": "ChIJ9_dgeIXlZzkRbnmz27pBmp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_dgeIXlZzkRbnmz27pBmp8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:04"
+  },
+  {
+    "business_name": "Eezy Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Taxi service, Service establishment",
+    "pincode": "509350",
+    "phone_number": "01908 218218",
+    "website": "N/A",
+    "rating": 2.1,
+    "reviews_count": null,
+    "address": "Eezy Cabs, 509350, India",
+    "area": "509350",
+    "latitude": 52.068899099999996,
+    "longitude": -0.7409179,
+    "place_id": "ChIJiWc7HESqd0gREzLH9-9m_y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWc7HESqd0gREzLH9-9m_y4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:05"
+  }
+]

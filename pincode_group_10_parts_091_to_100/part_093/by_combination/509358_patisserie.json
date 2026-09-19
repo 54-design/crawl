@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adan Baker's & Sweets",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Sweet shop, Service establishment",
+    "pincode": "509358",
+    "phone_number": "+91 93910 80144",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 154,
+    "address": "Adan Baker's & Sweets, 509358, India",
+    "area": "509358",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJQ8IOieqWyzsRp86VCT-Yrtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8IOieqWyzsRp86VCT-Yrtw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:22:13"
+  },
+  {
+    "business_name": "Sree srinivasa bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "509358",
+    "phone_number": "+91 76708 18573",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bachupally road, Nednur, Kandukur, Telangana 500113",
+    "area": "509358",
+    "latitude": 17.0387141,
+    "longitude": 78.4511502,
+    "place_id": "ChIJfRefPhezyzsRxWGYPmM9vs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRefPhezyzsRxWGYPmM9vs0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:22:14"
+  }
+]

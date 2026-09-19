@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APEX VETS CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "509235",
+    "phone_number": "+91 63763 29706",
+    "website": "http://theapexvetclinic.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No. 4, Panchvati Chs Ltd, Juhu Ln, near Irla Masjid, Juhu Lane, Andheri, Andheri West, Mumbai, Maharashtra 400058",
+    "area": "Juhu Lane, Andheri, Andheri West",
+    "latitude": 19.113163099999998,
+    "longitude": 72.8386053,
+    "place_id": "ChIJ--FBbi_J5zsROvScyJY3fLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--FBbi_J5zsROvScyJY3fLY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:50"
+  },
+  {
+    "business_name": "Crown Vet Koramangala",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "509235",
+    "phone_number": "+91 80 6274 4105",
+    "website": "https://crown.vet/koramangala-vet.asp",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "10, Orchids Centre, No, Jyoti Nivas College Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, 5th Block, Koramangala",
+    "latitude": 12.933386599999999,
+    "longitude": 77.62169569999999,
+    "place_id": "ChIJEW6RxLQVrjsRveiC9pUDWOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW6RxLQVrjsRveiC9pUDWOI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:42:50"
+  }
+]

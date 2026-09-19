@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai City",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "509380",
+    "phone_number": "+91 93903 59219",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 11,
+    "address": "1-4, Nh44, near Hotal Rainbow, Sankalamaddi, Telangana 509382",
+    "area": "509380",
+    "latitude": 16.5867872,
+    "longitude": 77.96735389999999,
+    "place_id": "ChIJ65MHpAIhyjsRBlTdnNy6HGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65MHpAIhyjsRBlTdnNy6HGk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:30:54"
+  },
+  {
+    "business_name": "Ramu Teastall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "509380",
+    "phone_number": "+91 90594 93906",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 31,
+    "address": "19, Nh44highway Komireddypally, Shopno11, Telangana 509382",
+    "area": "509380",
+    "latitude": 16.568348999999998,
+    "longitude": 77.9600506,
+    "place_id": "ChIJ5eSkZ5QhyjsRjKBfpfprqFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5eSkZ5QhyjsRjKBfpfprqFk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:30:54"
+  }
+]

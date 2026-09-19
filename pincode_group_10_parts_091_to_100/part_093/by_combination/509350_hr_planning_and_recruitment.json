@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bangalore Job Hub (BPO Job Placement)",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, BPO Company, BPO Placement Agency, Consultant, Unemployment office",
+    "pincode": "509350",
+    "phone_number": "+91 80 6957 8070",
+    "website": "https://bangalorejobhub.in/",
+    "rating": 4.9,
+    "reviews_count": 1273,
+    "address": "2nd Floor, Bangalore Job Hub, 1446, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "Jayanagara 9th Block, Jayanagar",
+    "latitude": 12.916322,
+    "longitude": 77.5951695,
+    "place_id": "ChIJvZdRbBYjSUkRumiyqnhb0xQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZdRbBYjSUkRumiyqnhb0xQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:48"
+  },
+  {
+    "business_name": "Resource Inputs Pvt. Ltd",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "509350",
+    "phone_number": "+91 40 2375 5783",
+    "website": "http://resourceinputs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flat # 204, 2nd Floor, Bhavyas Srisailam Arcade, Arcade, Dharam Karan Rd, ShivBagh, Balkampet, Hyderabad, Telangana 500016",
+    "area": "ShivBagh, Balkampet",
+    "latitude": 17.4388014,
+    "longitude": 78.4505466,
+    "place_id": "ChIJJ6b6xseQyzsRSNfFRhlA_xE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6b6xseQyzsRSNfFRhlA_xE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:14:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha’s The Cake factory",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "509349",
+    "phone_number": "+91 96661 13599",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Cinema hall center, 7-1-251, Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9420714,
+    "longitude": 80.8153049,
+    "place_id": "ChIJoZSXUc5XMToRcUMdC9DZPLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZSXUc5XMToRcUMdC9DZPLY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:50"
+  },
+  {
+    "business_name": "7thHeaven",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Continental restaurant, Dessert shop, Vegetarian cafe and deli, Wedding bakery",
+    "pincode": "509349",
+    "phone_number": "+91 70327 66767",
+    "website": "http://www.7thheaven.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ramanadham Complex, 15, opp. to hp pertol bunk, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.2511583,
+    "longitude": 80.15789889999999,
+    "place_id": "ChIJOafKAFxZNDoRGEsSO5aJf_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOafKAFxZNDoRGEsSO5aJf_w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:11:50"
+  }
+]

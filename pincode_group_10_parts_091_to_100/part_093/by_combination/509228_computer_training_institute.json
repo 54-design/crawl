@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMPUTER EDUCATION",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "509228",
+    "phone_number": "+91 63003 14023",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "First Floor, Main Chourastha, 4CMM+QCF Maheshwaram Road, Main Chourastha, opposite Jewellery Shops, Maheshwaram, Telangana 501359",
+    "area": "Ida Mankhal",
+    "latitude": 17.134327,
+    "longitude": 78.4335073,
+    "place_id": "ChIJbZ7-DgCxyzsRMHqVaiePfA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZ7-DgCxyzsRMHqVaiePfA0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:41"
+  },
+  {
+    "business_name": "Digital Computer Training Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Service establishment",
+    "pincode": "509228",
+    "phone_number": "+91 91347 53153",
+    "website": "https://digitalcomputertrainingcenter.com/",
+    "rating": 4.7,
+    "reviews_count": 25,
+    "address": "Digital Computer Training Center, 509228, India",
+    "area": "509228",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJCQ2ir_HzAjoRBuMzvINcVRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQ2ir_HzAjoRBuMzvINcVRA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:43"
+  }
+]

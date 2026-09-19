@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ram Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond buyer, Diamond Merchant, Jeweler, Jewelry designer, Jewelry Exporter, Jewelry manufacturer, Jewelry repair service, Gemstone Jeweler, Wholesale jeweler",
+    "pincode": "509406",
+    "phone_number": "+91 82975 99800",
+    "website": "https://sriramjewellers.shop/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no, Mayur Kushal Complex, C-6 & 7, Gun Foundry, Abids, Hyderabad, Telangana 500001",
+    "area": "Gun Foundry, Abids",
+    "latitude": 17.3939101,
+    "longitude": 78.47657079999999,
+    "place_id": "ChIJEyxFvGKXyzsRrxzL0JKoJI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyxFvGKXyzsRrxzL0JKoJI8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:41"
+  },
+  {
+    "business_name": "Musaddilal & Sons Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "509406",
+    "phone_number": "+91 99492 44370",
+    "website": "https://www.instagram.com/musaddilalsonsjewellers/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Topaz Building, Punjagutta Officers Colony, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Punjagutta Officers Colony, Punjagutta",
+    "latitude": 17.4288731,
+    "longitude": 78.4540523,
+    "place_id": "ChIJxxTwX8qQyzsRsNdSgsdGJRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxTwX8qQyzsRsNdSgsdGJRw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI RAGHAVENDRA UDUPI HOTEL",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "509320",
+    "phone_number": "+91 96667 70769",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 81,
+    "address": "Amangal, Telangana 509321",
+    "area": "509320",
+    "latitude": 16.8469038,
+    "longitude": 78.5301109,
+    "place_id": "ChIJF68I2FpRyjsRUOWWMkxYqfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF68I2FpRyjsRUOWWMkxYqfI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:23"
+  },
+  {
+    "business_name": "Nandini Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "509320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "MG4H+PPX, Jaya Prakash Nagar, Telangana 509324",
+    "area": "509320",
+    "latitude": 16.656857199999997,
+    "longitude": 78.5293444,
+    "place_id": "ChIJz9rTwZ1dyjsR0Rlu0EV2dCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9rTwZ1dyjsR0Rlu0EV2dCA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:49:24"
+  }
+]

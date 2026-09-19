@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAJ JEWELLERS",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "509380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "3-9-17, Shah Bazar St, Boyapalle Rural, Mahbubnagar, Telangana 509001",
+    "area": "Boyapalle Rural",
+    "latitude": 16.744132099999998,
+    "longitude": 77.98822489999999,
+    "place_id": "ChIJcQSc0v8nyjsRIYjnDUIzUVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQSc0v8nyjsRIYjnDUIzUVk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:08"
+  },
+  {
+    "business_name": "Gold shop",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "509380",
+    "phone_number": "+91 94400 89275",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pan Chowrasta St, Ravinder Nagar, Mahbubnagar, Telangana 509001",
+    "area": "Ravinder Nagar",
+    "latitude": 16.7437236,
+    "longitude": 77.9876972,
+    "place_id": "ChIJXZaDNPsnyjsRtTISWH7KHiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZaDNPsnyjsRtTISWH7KHiA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:08"
+  }
+]

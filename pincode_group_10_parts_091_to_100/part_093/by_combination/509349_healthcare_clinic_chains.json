@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tapadia Diagnostic Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "509349",
+    "phone_number": "+91 70757 82055",
+    "website": "https://tapadiadiagnostics.com/",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "TKR COLLEGE OF ENGINEERING & TECHNOLOGY, Lakshmi Nagar Colony Park, RN Reddy Colony, Meerpet, Hyderabad, Medbowli, Telangana 500097",
+    "area": "Lakshmi Nagar Colony Park, RN Reddy Colony, Meerpet",
+    "latitude": 17.3232096,
+    "longitude": 78.53838809999999,
+    "place_id": "ChIJly6GFgCjyzsRdMJg9nAlxEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJly6GFgCjyzsRdMJg9nAlxEc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:12:15"
+  },
+  {
+    "business_name": "SAISNEHITHA HOSPITALS",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "509349",
+    "phone_number": "+91 63005 25360",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 24,
+    "address": "bus stop, Road No. 1, beside SAISNEHITHA Hospitals, Saroornagar, Narayan Puri Colony, Brindavan Colony, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Narayan Puri Colony, Brindavan Colony",
+    "latitude": 17.3516765,
+    "longitude": 78.53559,
+    "place_id": "ChIJLwjBrtyZyzsRF_cSH7yuad0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwjBrtyZyzsRF_cSH7yuad0",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:12:15"
+  }
+]

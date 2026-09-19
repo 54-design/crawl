@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LVP Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "509410",
+    "phone_number": "+91 89196 65689",
+    "website": "http://lvpbus.com/",
+    "rating": 3.9,
+    "reviews_count": 238,
+    "address": "jntu metro station, food court, near, Service Rd, beside Brindavanam, Vivekananda Nagar, nizampet, Hyderabad, Telangana 500072",
+    "area": "Vivekananda Nagar, nizampet",
+    "latitude": 17.4912031,
+    "longitude": 78.4118381,
+    "place_id": "ChIJq6oamQCOyzsRcKCRajacfVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oamQCOyzsRcKCRajacfVA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:01"
+  },
+  {
+    "business_name": "Vikram travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "509410",
+    "phone_number": "+91 91309 66666",
+    "website": "http://www.vikramtravels.com/",
+    "rating": 2.9,
+    "reviews_count": 69,
+    "address": "Aparna Company, Miyapur Rd, Mayuri Nagar, Bachupally, Hyderabad, Telangana 500118",
+    "area": "Mayuri Nagar, Bachupally",
+    "latitude": 17.5283104,
+    "longitude": 78.3548193,
+    "place_id": "ChIJGbnsLWuNyzsRaBjEhvPRiqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbnsLWuNyzsRaBjEhvPRiqw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:47:01"
+  }
+]

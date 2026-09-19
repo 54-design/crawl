@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDISUN HEALTH CARE",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509228",
+    "phone_number": "+91 80198 30208",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr Kumara swamy Kore, 16-88/1, Balaji Nagar Main Rd, Jawahar Nagar, Balaji Nagar, Hyderabad, Secunderabad, Telangana 500087",
+    "area": "Jawahar Nagar, Balaji Nagar",
+    "latitude": 17.511398,
+    "longitude": 78.56301049999999,
+    "place_id": "ChIJmWV29LSbyzsRx5Vz85Ra7rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWV29LSbyzsRx5Vz85Ra7rk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:04"
+  },
+  {
+    "business_name": "Apollo Hospitals Hyderguda | Best Hospital in Hyderguda, Hyderabad",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Emergency room, Gastroenterologist, Heart hospital, Neurologist, Neurosurgeon, Oncologist, Orthopedic surgeon, Private hospital",
+    "pincode": "509228",
+    "phone_number": "+91 40 6907 1298",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-hyderguda",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No. 3-5-836 to 838, Hyderguda-Basheerbagh Rd, Old MLA Quarters, King Koti, Hyderabad, Telangana 500029",
+    "area": "Old MLA Quarters, King Koti",
+    "latitude": 17.3994805,
+    "longitude": 78.4793278,
+    "place_id": "ChIJse9bvrWZyzsR2p0v-0N7k1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJse9bvrWZyzsR2p0v-0N7k1k",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:41:04"
+  }
+]

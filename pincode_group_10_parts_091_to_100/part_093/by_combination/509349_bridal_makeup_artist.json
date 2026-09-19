@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deeksha Beauty Parlour",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "509349",
+    "phone_number": "+91 870 254 4346",
+    "website": "https://deekshabeautyparlour.com/",
+    "rating": 4.6,
+    "reviews_count": 1590,
+    "address": "Police Station, Main Rd, opposite Hanamkonda, Hanamkonda Chowrastha, Gandhi Nagar, Reddy Colony, Hanamkonda, Telangana 506001",
+    "area": "Hanamkonda Chowrastha, Gandhi Nagar, Reddy Colony",
+    "latitude": 18.0073869,
+    "longitude": 79.5688725,
+    "place_id": "ChIJ48wsDYNFMzoRML7rmodSvkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48wsDYNFMzoRML7rmodSvkc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:12:35"
+  },
+  {
+    "business_name": "D-Womens beauty world",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Facial spa, Hair salon, Health and beauty shop, Beauty Parlour, Skin care clinic",
+    "pincode": "509349",
+    "phone_number": "+91 95154 45385",
+    "website": "https://www.instagram.com/jhansi5395/?next=%2F",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near hanuman temple, Chinthakunta Wada, Nirmal, Telangana 504106",
+    "area": "Chinthakunta Wada",
+    "latitude": 19.098596099999998,
+    "longitude": 78.3444794,
+    "place_id": "ChIJm4DEsl6NzTsRy3ijkM4yy58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4DEsl6NzTsRy3ijkM4yy58",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:12:35"
+  }
+]

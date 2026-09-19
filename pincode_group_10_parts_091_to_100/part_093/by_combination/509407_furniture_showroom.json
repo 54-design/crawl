@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furniture Club",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "509407",
+    "phone_number": "+91 70936 20227",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 125,
+    "address": "#9-4,Sri Mahathi Complex,Near Union Bank, above Havisa Restaurant, Nagaram, Hyderabad, Telangana 500083",
+    "area": "Shilpa Nagar, Nagaram",
+    "latitude": 17.4847215,
+    "longitude": 78.5981189,
+    "place_id": "ChIJLzf18vWcyzsRM_gnVNrvqRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzf18vWcyzsRM_gnVNrvqRY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:42:03"
+  },
+  {
+    "business_name": "Great Cushion Works",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture repair shop",
+    "all_categories": "Furniture repair shop",
+    "pincode": "509407",
+    "phone_number": "+91 97150 79779",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "52, Municipal Complex, Uzhavar Santhai, West Road, Maharaja Nagar, Tirunelveli, Tamil Nadu 627011",
+    "area": "Maharaja Nagar",
+    "latitude": 8.7087066,
+    "longitude": 77.7470984,
+    "place_id": "ChIJR6MVcfYNBDsRlbRuXXDNUdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6MVcfYNBDsRlbRuXXDNUdQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:42:03"
+  }
+]

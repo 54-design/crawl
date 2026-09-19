@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "509401",
+    "phone_number": "+91 99493 82300",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "8G2V+HXF, Madhura Nagar, B.N Reddy Nagar, Hyderabad, Telangana 500112",
+    "area": "Madhura Nagar, B.N Reddy Nagar",
+    "latitude": 17.3014476,
+    "longitude": 78.54491999999999,
+    "place_id": "ChIJQx3B5dCjyzsRHf2HtrjFdM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQx3B5dCjyzsRHf2HtrjFdM4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:11"
+  },
+  {
+    "business_name": "Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "509401",
+    "phone_number": "+91 70750 78411",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 27,
+    "address": "Buswatarag Nagar, Bellal Tarafa (Bodhan Rural), Bodhan, Telangana 503185",
+    "area": "Buswatarag Nagar",
+    "latitude": 18.6577412,
+    "longitude": 77.87946459999999,
+    "place_id": "ChIJC1Y_IPl2zjsRG5uVfbLOalQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1Y_IPl2zjsRG5uVfbLOalQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:11"
+  }
+]

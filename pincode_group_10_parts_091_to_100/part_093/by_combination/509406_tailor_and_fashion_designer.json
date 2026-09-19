@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Alley Boutique, Stitching according to your preferences.",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Boutique, Dress store, Full dress rental service, Saree Shop, Stitching Class, Tailor, Women's clothing store",
+    "pincode": "509406",
+    "phone_number": "+91 89596 48023",
+    "website": "https://www.fashionalleyboutique.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No- 8F D K -5, Sai Vihar Colony, Danish Kunj, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Sai Vihar Colony, Danish Kunj, Kolar Rd",
+    "latitude": 23.1696049,
+    "longitude": 77.4283955,
+    "place_id": "ChIJWbzGtfdDfDkRfTCbTH3jXfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbzGtfdDfDkRfTCbTH3jXfQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:40"
+  },
+  {
+    "business_name": "Shiv Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing alteration service",
+    "pincode": "509406",
+    "phone_number": "+91 98727 17272",
+    "website": "http://shivtailor.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ground floor, 3103, behind Singh Sahib gurudwara, 19D, Sector 19, Chandigarh, 160019",
+    "area": "19D, Sector 19",
+    "latitude": 30.730009,
+    "longitude": 76.79019699999999,
+    "place_id": "ChIJ___PNhrtDzkRsHzrPoMJWL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___PNhrtDzkRsHzrPoMJWL4",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:40"
+  }
+]

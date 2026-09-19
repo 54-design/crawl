@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "509334",
+    "phone_number": "+91 94129 78786",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 972,
+    "address": "F-6 & F-7, Royal Plaza Complex, Chandra Charya Chowk, Haridwar, Uttarakhand 249407",
+    "area": "Vivek Vihar Colony, Devpura",
+    "latitude": 29.9343431,
+    "longitude": 78.1345205,
+    "place_id": "ChIJ1bKnO0hGCTkREgHdlGZhS78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bKnO0hGCTkREgHdlGZhS78",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:00:52"
+  },
+  {
+    "business_name": "Mahalaxmi computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer support and services",
+    "pincode": "509334",
+    "phone_number": "+91 99272 82340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Shop 1, Rahamat Nagar, Bhagwanpur, Shahpur, Uttarakhand 247661",
+    "area": "Rahamat Nagar",
+    "latitude": 29.9413451,
+    "longitude": 77.8116952,
+    "place_id": "ChIJqf1JhK23DjkRk7_2T6SH5L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqf1JhK23DjkRk7_2T6SH5L8",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:00:52"
+  }
+]

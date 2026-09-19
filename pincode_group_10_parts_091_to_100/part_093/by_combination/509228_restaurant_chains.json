@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Bucket Biryani | Kothur",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "509228",
+    "phone_number": "+91 93471 72710",
+    "website": "https://redbucketbiryani.com/restaurants-in-kothur/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Road, beside Ganga Wines, Kothur, Telangana 509228",
+    "area": "509228",
+    "latitude": 17.1491559,
+    "longitude": 78.2893587,
+    "place_id": "ChIJ5z72KODHyzsRoXq6YOkgzbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5z72KODHyzsRoXq6YOkgzbA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:40:44"
+  },
+  {
+    "business_name": "ABCD Food Court",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Biryani restaurant, Buffet restaurant, Children's party buffet, Family restaurant, Food court, Pizza restaurant, Restaurant supply store, Seafood donburi restaurant, Tiffin center",
+    "pincode": "509228",
+    "phone_number": "+91 91548 15191",
+    "website": "https://abcdfoodcourt.com/",
+    "rating": 4.6,
+    "reviews_count": 2020,
+    "address": "6th Floor, 3-2-47/E, High School Rd, above Monday Hotels Heights, Amalapuram, Andhra Pradesh 533201",
+    "area": "509228",
+    "latitude": 16.5759453,
+    "longitude": 82.0031511,
+    "place_id": "ChIJ4yG1FZzvNzoRhwAtyjI9C9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yG1FZzvNzoRhwAtyjI9C9M",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:40:45"
+  }
+]

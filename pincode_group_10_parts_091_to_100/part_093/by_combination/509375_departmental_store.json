@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI CHARAN Kirana&general store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "509375",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6-6/2, nadimpally, Achampet, Nadimpalle, Telangana 509375",
+    "area": "nadimpally",
+    "latitude": 16.4171943,
+    "longitude": 78.67941739999999,
+    "place_id": "ChIJa4yWzN-JyjsRV9d_tH6a-sE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4yWzN-JyjsRV9d_tH6a-sE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:27:23"
+  },
+  {
+    "business_name": "Harihara homeneeds",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "509375",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kanyakaparameshwari, Ayyappa Temple Rd, opp. new bus stand, Achampet, Telangana 509375",
+    "area": "509375",
+    "latitude": 16.398650399999998,
+    "longitude": 78.6330469,
+    "place_id": "ChIJPzx463F9yjsRiiY6J_mLpkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzx463F9yjsRiiY6J_mLpkM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:27:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirumala Kiranam",
+    "search_category": "Patisserie",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Store",
+    "pincode": "509411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ravulpally Road, 4-36, Maddur, Telangana 509411",
+    "area": "509411",
+    "latitude": 16.8589681,
+    "longitude": 77.6117979,
+    "place_id": "ChIJeYL9M_yeyTsRLrROtDKalBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYL9M_yeyTsRLrROtDKalBo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:17"
+  },
+  {
+    "business_name": "Golden Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "509411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "VJ57+H99, Old Bustand chowk, Maddur, Telangana 509411",
+    "area": "509411",
+    "latitude": 16.8589216,
+    "longitude": 77.6134746,
+    "place_id": "ChIJ-Y6wqv6eyTsREKX4kLTPuWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Y6wqv6eyTsREKX4kLTPuWg",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:48:18"
+  }
+]

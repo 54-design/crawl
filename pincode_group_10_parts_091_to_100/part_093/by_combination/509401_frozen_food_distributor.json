@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darsi Foods.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "509401",
+    "phone_number": "+91 94400 21345",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 21,
+    "address": "D.K.R Nilayam,Road no-6, Tapovan colony, Saroornagar, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Trimurti Colony, Saroor Nagar East",
+    "latitude": 17.3500068,
+    "longitude": 78.5302121,
+    "place_id": "ChIJyQC7t5qYyzsRGuiiOC9EQLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQC7t5qYyzsRGuiiOC9EQLw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:37:48"
+  },
+  {
+    "business_name": "ZAM ZAM EGG Suppliers",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Dessert shop, Disposable Items shop, Egg supplier, Ice cream shop, Milk delivery service, Soft drinks shop",
+    "pincode": "509401",
+    "phone_number": "+91 96662 12006",
+    "website": "https://zam-zam-egg-suppliers.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amaravathi Road, beside Diamond Palace Function Hall, Vaddla Peta, Atmakur, Andhra Pradesh 518422",
+    "area": "Vaddla Peta",
+    "latitude": 15.8789492,
+    "longitude": 78.5888782,
+    "place_id": "ChIJ64_o-DiftTsRrSAR8I7emLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64_o-DiftTsRrSAR8I7emLo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:37:51"
+  }
+]

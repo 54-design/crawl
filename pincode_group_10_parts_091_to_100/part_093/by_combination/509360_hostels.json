@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mjp boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "509360",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PGVP+RC5, Veldanda, Telangana 509360",
+    "area": "509360",
+    "latitude": 16.7445137,
+    "longitude": 78.5361018,
+    "place_id": "ChIJHSAqPwBbyjsRDOyUL6rdTGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSAqPwBbyjsRDOyUL6rdTGs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:24:54"
+  },
+  {
+    "business_name": "SRI LUCKY HOSTEL",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Caterer",
+    "pincode": "509360",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 66,
+    "address": "Plot No. 51, opp. TCS COMPANY, near police station, Adibatla, Bongloor, Telangana 501510",
+    "area": "509360",
+    "latitude": 17.234287,
+    "longitude": 78.5665521,
+    "place_id": "ChIJnRzo3DOlyzsRvN_uoWEIi9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRzo3DOlyzsRvN_uoWEIi9w",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:24:55"
+  }
+]

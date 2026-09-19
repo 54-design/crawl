@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chathraji Multi-Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509335",
+    "phone_number": "N/A",
+    "website": "https://chathrajihospital.in/home/",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "Ram Nagar Colony, Pargi, Telangana 501501",
+    "area": "Ram Nagar Colony",
+    "latitude": 17.179868199999998,
+    "longitude": 77.8782781,
+    "place_id": "ChIJX9r3521jyTsRLDVRlcJO5nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9r3521jyTsRLDVRlcJO5nc",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:01:44"
+  },
+  {
+    "business_name": "Sadhana hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "509335",
+    "phone_number": "+91 83339 14574",
+    "website": "https://sites.google.com/view/sadhanahospital/bangari-ramaswamy-ceo/",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "9-215, BC Colony, Baharpet, Pargi, Telangana 501501",
+    "area": "B.C. Colony, Baharpet",
+    "latitude": 17.172485599999998,
+    "longitude": 77.87845639999999,
+    "place_id": "ChIJzZshoYZjyTsRk8Z92EWDkRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZshoYZjyTsRk8Z92EWDkRY",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:01:44"
+  }
+]

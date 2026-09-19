@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S R makup studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "509380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Housing Board Colony, Mahbubnagar, Telangana 509002",
+    "area": "Housing Board Colony",
+    "latitude": 16.7511965,
+    "longitude": 78.047039,
+    "place_id": "ChIJ96bRQ5AlyjsRpZEVh4UOJzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96bRQ5AlyjsRpZEVh4UOJzM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:44"
+  },
+  {
+    "business_name": "Rehan Mahendi Artist",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Mehndi Designer",
+    "all_categories": "Mehndi Designer",
+    "pincode": "509380",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. Bharath Talkies Land, Ravinder Nagar, Mahbubnagar, Telangana 509001",
+    "area": "Ravinder Nagar",
+    "latitude": 16.7461965,
+    "longitude": 77.98506139999999,
+    "place_id": "ChIJU9SNck8nyjsRVE6esI7QN8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9SNck8nyjsRVE6esI7QN8I",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:31:44"
+  }
+]

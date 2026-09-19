@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Obsessed Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "509381",
+    "phone_number": "+91 98491 26111",
+    "website": "https://www.obsessed.salon/",
+    "rating": 4.9,
+    "reviews_count": 107,
+    "address": "1st Floor, Mokila Rd, above HDFC bank PRIME TITANIA, Hyderabad, Mokila, Telangana 501203",
+    "area": "509381",
+    "latitude": 17.4297684,
+    "longitude": 78.19537969999999,
+    "place_id": "ChIJz4Zd-IDvyzsRIwJk0x38vPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4Zd-IDvyzsRIwJk0x38vPk",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:33:22"
+  },
+  {
+    "business_name": "Gulnar Beauty Parlour & Training Center",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "509381",
+    "phone_number": "+91 98857 90132",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 285,
+    "address": "13-4-384/A/1, Old Sabzi Mandi, Subji Mandi, Karwan, Hyderabad, Telangana 500006",
+    "area": "Old Sabzi Mandi, Subji Mandi, Karwan",
+    "latitude": 17.3723663,
+    "longitude": 78.44862239999999,
+    "place_id": "ChIJF2BdIgOXyzsRjHThzkk9kTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2BdIgOXyzsRjHThzkk9kTs",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:33:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushmati Homoeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "509376",
+    "phone_number": "+91 63097 50890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. to Uppal Bus Depot, Buddha Nagar Colony, Sai Nagar, Boduppal, Hyderabad, Telangana 500092",
+    "area": "Buddha Nagar Colony, Sai Nagar, Boduppal",
+    "latitude": 17.4065741,
+    "longitude": 78.5921074,
+    "place_id": "ChIJlckc21SfyzsR-sTyBm-gujw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlckc21SfyzsR-sTyBm-gujw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:25"
+  },
+  {
+    "business_name": "Dr.Swati's Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Homeopath",
+    "pincode": "509376",
+    "phone_number": "+91 98235 11296",
+    "website": "https://www.drswatikulkarni.com/",
+    "rating": 5,
+    "reviews_count": 107,
+    "address": "2 HARMONY, A-1, Nagras Rd, opp. SBI BANK, near Ankura hospital, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411067",
+    "area": "Ward No. 8, Wireless Colony, Aundh",
+    "latitude": 18.5646037,
+    "longitude": 73.8050737,
+    "place_id": "ChIJV6f-fC6_wjsRlrV_Ieq3LYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6f-fC6_wjsRlrV_Ieq3LYI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:29:25"
+  }
+]

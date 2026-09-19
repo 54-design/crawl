@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellness Heaven Spa - KPHB",
+    "search_category": "Wellness Center",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "509408",
+    "phone_number": "+91 63039 95196",
+    "website": "https://www.wellnessheavenspakhb.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "2nd Floor, Krishnaveni Complex, Venkat Nagar, Bhagya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Venkat Nagar, Bhagya Nagar Colony, Kukatpally",
+    "latitude": 17.4940051,
+    "longitude": 78.4026825,
+    "place_id": "ChIJ8QFTN2CRyzsR0jwYsjTSKwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QFTN2CRyzsR0jwYsjTSKwo",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:54"
+  },
+  {
+    "business_name": "Wellness Hub – Child Therapy & Mental Wellness Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service, Applied behavior analysis therapist, Child psychologist, Occupational therapist, Psychologist, Speech & Hearing Specialist",
+    "pincode": "509408",
+    "phone_number": "+91 88812 99888",
+    "website": "https://www.mywellnesshub.in/autism-treatment-centre-in-hyderabad.php",
+    "rating": 4.7,
+    "reviews_count": 81,
+    "address": "Uma Rajeswar Plaza, Plot No 76, above Kotak Mahindra Bank, Kukatpally Housing Board Colony, K P H B Phase 9, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 9, Kukatpally",
+    "latitude": 17.4856439,
+    "longitude": 78.3873823,
+    "place_id": "ChIJj3u_eYmRyzsRBiKOum7e2MM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3u_eYmRyzsRBiKOum7e2MM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:43:56"
+  }
+]

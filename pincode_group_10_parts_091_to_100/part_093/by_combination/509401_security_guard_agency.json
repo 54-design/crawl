@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Black Arrows Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "509401",
+    "phone_number": "N/A",
+    "website": "http://www.blackarrows.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "GROUND FLOOR, 3-7-403/PN/2/A, Prakash Nagar Colony, PRAKASH NAGAR, Upperpally, Telangana 500048",
+    "area": "Prakash Nagar Colony, PRAKASH NAGAR",
+    "latitude": 17.360231,
+    "longitude": 78.4170486,
+    "place_id": "ChIJI3ldMEmXyzsR1arAeXK_1HQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3ldMEmXyzsR1arAeXK_1HQ",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:03"
+  },
+  {
+    "business_name": "Kingston Security & Facility Management",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "509401",
+    "phone_number": "+91 91543 57409",
+    "website": "http://kingstonfms.com/",
+    "rating": 4.6,
+    "reviews_count": 47,
+    "address": "H:No. 1, Plot No 65, 98/3/65, Vittal Rao Nagar, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Vittal Rao Nagar, Madhapur",
+    "latitude": 17.4447369,
+    "longitude": 78.3844898,
+    "place_id": "ChIJ1YEW4GCRyzsRBU_ww7xbCqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YEW4GCRyzsRBU_ww7xbCqI",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:39:03"
+  }
+]

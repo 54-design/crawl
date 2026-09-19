@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nakshtra Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "509338",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 777,
+    "address": "825J+J4C, SH 4, Telangana 501503",
+    "area": "509338",
+    "latitude": 17.309056599999998,
+    "longitude": 78.0302779,
+    "place_id": "ChIJdY3Nc_TnyzsRwkvv2csk18k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdY3Nc_TnyzsRwkvv2csk18k",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:43"
+  },
+  {
+    "business_name": "Super Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "509338",
+    "phone_number": "+91 81253 51998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near Bangaru Maisamma Temple, Yedira, Telangana 509002",
+    "area": "509338",
+    "latitude": 16.7454257,
+    "longitude": 78.0575126,
+    "place_id": "ChIJfbU7jNMlyjsRSPkPGT0_QnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbU7jNMlyjsRSPkPGT0_QnA",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 07:06:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepika Hair Cutting Shop",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "509327",
+    "phone_number": "+91 96406 95042",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "VQR3+7FQ, Mall Road, Kurmedu, Chakalisheripally, Telangana 508250",
+    "area": "509327",
+    "latitude": 16.890707499999998,
+    "longitude": 78.75374959999999,
+    "place_id": "ChIJL9V3BgT8yjsRlzDbhs5X5YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9V3BgT8yjsRlzDbhs5X5YM",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:43"
+  },
+  {
+    "business_name": "Pandu Hair Style",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "509327",
+    "phone_number": "+91 95056 28450",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nagarjuna Sagar Rd, VT Nagar, Mall, Hyderabad, Telangana 508245",
+    "area": "VT Nagar",
+    "latitude": 16.9667289,
+    "longitude": 78.7291247,
+    "place_id": "ChIJ5ZFkFBL_yjsRx-1PSojeH_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZFkFBL_yjsRx-1PSojeH_A",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:58:44"
+  }
+]

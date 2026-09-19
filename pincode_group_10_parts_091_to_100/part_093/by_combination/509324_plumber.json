@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumber service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "509324",
+    "phone_number": "+91 79955 23269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plumber service, 509324, India",
+    "area": "509324",
+    "latitude": 16.419073,
+    "longitude": 78.51762099999999,
+    "place_id": "ChIJKYLOiM-qw68RdxHvE2v3ToE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYLOiM-qw68RdxHvE2v3ToE",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:53:29"
+  },
+  {
+    "business_name": "Sri manikanta",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "509324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MJ53+VMH, Jupally, Telangana 509324",
+    "area": "509324",
+    "latitude": 16.6596839,
+    "longitude": 78.6042475,
+    "place_id": "ChIJA69WLndfyjsR1MXBkxMLERw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA69WLndfyjsR1MXBkxMLERw",
+    "part_id": "part_093",
+    "crawled_at": "2026-09-19 06:53:29"
+  }
+]
