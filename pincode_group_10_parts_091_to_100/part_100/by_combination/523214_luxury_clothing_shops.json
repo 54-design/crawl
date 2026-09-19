@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjana Fashions",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "523214",
+    "phone_number": "+91 92912 35518",
+    "website": "https://www.instagram.com/sanjanafashions?igsh=MXdjZmc5aDVlNXNyZg==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No:2, PYDI, New Vasundhara Restaurant, MARRI COMPLEX, Rest House Rd, near Venugopal Swamy Temple, HO, Gandhinagar, Bhimavaram, Andhra Pradesh 534201",
+    "area": "HO, Gandhinagar",
+    "latitude": 16.5412991,
+    "longitude": 81.52590529999999,
+    "place_id": "ChIJIYqVyx3TNzoRgvwMjZDiSCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYqVyx3TNzoRgvwMjZDiSCk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:17:24"
+  },
+  {
+    "business_name": "Sara Designer Studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523214",
+    "phone_number": "+91 94881 26126",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Pollachi Rd, opposite to medplus, RSP Nagar, Dharapuram, Tamil Nadu 638656",
+    "area": "RSP Nagar",
+    "latitude": 10.736550699999999,
+    "longitude": 77.52072729999999,
+    "place_id": "ChIJXxZn-ZK_qTsRFuIDtE2bNTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxZn-ZK_qTsRFuIDtE2bNTE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:17:24"
+  }
+]

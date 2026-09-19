@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Expansive Marketing Agency",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "523184",
+    "phone_number": "N/A",
+    "website": "https://www.expansivemarketingagency.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Expansive Marketing Agency, 523184, India",
+    "area": "523184",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ7ZdnugYd24gRP9r5Um5k3fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZdnugYd24gRP9r5Um5k3fo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:10"
+  },
+  {
+    "business_name": "Branding Marketing Agency",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, Service establishment, Graphic designer, Website designer",
+    "pincode": "523184",
+    "phone_number": "N/A",
+    "website": "https://www.brandingmarketingagency.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Branding Marketing Agency, 523184, India",
+    "area": "523184",
+    "latitude": 38.460285,
+    "longitude": -98.07997139999999,
+    "place_id": "ChIJ49qFg-lV2YARdB7zOYMXrck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49qFg-lV2YARdB7zOYMXrck",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:10"
+  }
+]

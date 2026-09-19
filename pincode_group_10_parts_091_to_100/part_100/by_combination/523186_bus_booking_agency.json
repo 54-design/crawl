@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BK TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523186",
+    "phone_number": "N/A",
+    "website": "http://www.yastravels.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8FRG+3HR, ARAMGAR X ROADS, Telangana 500053",
+    "area": "Bhatji Nagar, Aliabad",
+    "latitude": 17.340225,
+    "longitude": 78.4763947,
+    "place_id": "ChIJSYTAGXqZyzsR9yppPvz0-dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYTAGXqZyzsR9yppPvz0-dM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:04:45"
+  },
+  {
+    "business_name": "TSRTC Counter",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency, Transportation service",
+    "pincode": "523186",
+    "phone_number": "+91 40 2345 0033",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 516,
+    "address": "9CRR+VPP, Gudi Malkapur Rd, Amba Gardens, Gudimalkapur, Hyderabad, Telangana 500006",
+    "area": "Amba Gardens, Gudimalkapur",
+    "latitude": 17.392217199999997,
+    "longitude": 78.441814,
+    "place_id": "ChIJYdi_bRCXyzsRoeCULwe7nwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdi_bRCXyzsRoeCULwe7nwU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:04:46"
+  }
+]

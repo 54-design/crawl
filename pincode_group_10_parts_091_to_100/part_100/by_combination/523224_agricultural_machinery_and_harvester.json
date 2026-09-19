@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANTHOSH AGRI MACHINERY",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "523224",
+    "phone_number": "+91 99429 32400",
+    "website": "http://santhoshagrimachinery.com/",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "KARTAR COMPLEX, 283 A, Vinayagapuram, Narasingapuram, Tamil Nadu 636108",
+    "area": "Vinayagapuram",
+    "latitude": 11.6014959,
+    "longitude": 78.5828018,
+    "place_id": "ChIJSyeWJCqdqzsRQjEmGAFNamA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyeWJCqdqzsRQjEmGAFNamA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:20"
+  },
+  {
+    "business_name": "GILL AGRICULTURAL IMPLEMENTS PVT. LTD",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "523224",
+    "phone_number": "+91 93570 14014",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "G.T. ROAD, VILL, DANEWALA, Malout, Punjab 152107",
+    "area": "VILL",
+    "latitude": 30.168958999999997,
+    "longitude": 74.515337,
+    "place_id": "ChIJNWMllEYXFzkRFTQf0e5e1CM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWMllEYXFzkRFTQf0e5e1CM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:21"
+  }
+]

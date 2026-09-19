@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshya chemicals Pvt ltd",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "523228",
+    "phone_number": "+91 99594 44423",
+    "website": "http://www.akshyachemicals.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Flat no-12, LIG -61, 4th phase, Kukatpally Housing Board Colony, K P H B Phase 4, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 4, Kukatpally",
+    "latitude": 17.4730957,
+    "longitude": 78.3879231,
+    "place_id": "ChIJbSmxF4GRyzsR3GqdDfb2NRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSmxF4GRyzsR3GqdDfb2NRc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:42"
+  },
+  {
+    "business_name": "Adarsh Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Industrial chemicals wholesaler",
+    "pincode": "523228",
+    "phone_number": "+91 44 2674 5327",
+    "website": "http://adarshchem.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "24/51, Bangaru St, Vasantha nagar, Chinna Chembarambakkam, Ayanavaram, Chennai, Tamil Nadu 600023",
+    "area": "Vasantha nagar, Chinna Chembarambakkam, Ayanavaram",
+    "latitude": 13.099528,
+    "longitude": 80.24149659999999,
+    "place_id": "ChIJVZp1JmpmUjoR2y5sL8jHqho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZp1JmpmUjoR2y5sL8jHqho",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Street Food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523201",
+    "phone_number": "+91 81212 58040",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "road, Krishna Nagar, Narasaraopeta, Addanki North U, Andhra Pradesh 523201",
+    "area": "Krishna Nagar",
+    "latitude": 15.829187899999999,
+    "longitude": 79.97128479999999,
+    "place_id": "ChIJ4wzQC_nzSjoR8jwK-caqE2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wzQC_nzSjoR8jwK-caqE2I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:46"
+  },
+  {
+    "business_name": "AVR Garden Restaurents",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VXJ4+PGC, Addanki - Narketpally Rd, Chakrayapalem, Andhra Pradesh 523201",
+    "area": "523201",
+    "latitude": 15.881809899999999,
+    "longitude": 79.95626829999999,
+    "place_id": "ChIJ3x5ceqjzSjoRz_N36acSQ9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3x5ceqjzSjoRz_N36acSQ9w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:46"
+  }
+]

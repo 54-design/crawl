@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peoples Shoe Company",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523214",
+    "phone_number": "+91 86232 42223",
+    "website": "http://www.popularshoemart.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "P228+9C9, Katcheri St, Sai Nagar, Sullurupeta, Andhra Pradesh 524121",
+    "area": "Sai Nagar",
+    "latitude": 13.7009055,
+    "longitude": 80.0161006,
+    "place_id": "ChIJ7TRgb690TToR8p98N75vX9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TRgb690TToR8p98N75vX9c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:17:17"
+  },
+  {
+    "business_name": "Merico Shoe Shope",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523214",
+    "phone_number": "+91 94969 49224",
+    "website": "https://www.mericoshoeshop.com/",
+    "rating": 4.6,
+    "reviews_count": 39,
+    "address": "Kaloor - Kadavanthara Rd, Kathrikadavu, Kaloor, Kochi, Ernakulam, Keralam 682017",
+    "area": "Kathrikadavu, Kaloor",
+    "latitude": 9.991123799999999,
+    "longitude": 76.29349239999999,
+    "place_id": "ChIJTxKOgzANCDsRG3hZ1-TqxM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxKOgzANCDsRG3hZ1-TqxM0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:17:19"
+  }
+]

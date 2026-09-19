@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MBA Chai Wala Solapur",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523227",
+    "phone_number": "+91 91687 10783",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 187,
+    "address": "Ground floor, sarswati heights, Narsinha nager near Dmart, Jule Solapur Rd, Jule, Solapur, Maharashtra 413004",
+    "area": "Bank Colony, Dnyaneshwar Nagar, Model Colony, Jule",
+    "latitude": 17.6345817,
+    "longitude": 75.9137849,
+    "place_id": "ChIJz58wxQjbxTsRffOoeo80CUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz58wxQjbxTsRffOoeo80CUs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:26"
+  },
+  {
+    "business_name": "Tandoor Chai Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523227",
+    "phone_number": "+91 97394 45477",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 416,
+    "address": "opposite to Just Bake, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "4th Block, Rajajinagar",
+    "latitude": 12.989471,
+    "longitude": 77.5561196,
+    "place_id": "ChIJV-mPkT09rjsROgmeMrgpZm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-mPkT09rjsROgmeMrgpZm4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:26"
+  }
+]

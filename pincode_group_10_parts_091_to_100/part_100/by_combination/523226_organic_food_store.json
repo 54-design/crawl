@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bounterra Naturals",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "523226",
+    "phone_number": "+91 89787 90353",
+    "website": "https://bounterra.co/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Back Side YSR Statue, 7-87, Veluguvaripalem, Buddikurapalem, Andhra Pradesh 523253",
+    "area": "Veluguvaripalem",
+    "latitude": 15.6537967,
+    "longitude": 79.7739982,
+    "place_id": "ChIJEa4xyiXnSjoRIjb3Q4rWhi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa4xyiXnSjoRIjb3Q4rWhi8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:24:28"
+  },
+  {
+    "business_name": "Village Milk Delight",
+    "search_category": "Organic Food Store",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "523226",
+    "phone_number": "+91 91334 49162",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "GOGENENI VARI PALAM, 3RD LINE, Podili, Uppala Padu, Andhra Pradesh 523253",
+    "area": "523226",
+    "latitude": 15.5870793,
+    "longitude": 79.7406639,
+    "place_id": "ChIJxfsvrpbhSjoRr__cnLJw3v4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfsvrpbhSjoRr__cnLJw3v4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:24:30"
+  }
+]

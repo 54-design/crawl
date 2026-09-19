@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW LOOK ESSENTIAL",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Bridal shop, Facial spa, Hair extension technician, Nail salon, Skin care clinic, Spa, Tanning salon, Tattoo shop, Hairdresser",
+    "pincode": "523227",
+    "phone_number": "+91 80084 34361",
+    "website": "http://www.newlookessential.com/",
+    "rating": 4.6,
+    "reviews_count": 505,
+    "address": "Lawyers colony, 22-275/12, above TATA MOTORS, beside SAI BABA TEMPLE, Kattamanchi, Chittoor, Andhra Pradesh 517001",
+    "area": "Kattamanchi",
+    "latitude": 13.2270662,
+    "longitude": 79.10866279999999,
+    "place_id": "ChIJCwlNOa1erTsRQ7BohsSJ9yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwlNOa1erTsRQ7BohsSJ9yQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:27:15"
+  },
+  {
+    "business_name": "Imera Spa And Resorts",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Resort hotel",
+    "pincode": "523227",
+    "phone_number": "+91 94808 87575",
+    "website": "http://www.imeraresorts.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Check Post, Bagalur - Sarjapur Rd, Sarjapura, Kaganur, Kagganur, Tamil Nadu 635103",
+    "area": "Sarjapura",
+    "latitude": 12.855395999999999,
+    "longitude": 77.8218072,
+    "place_id": "ChIJsyxVNW5zrjsRpoVq3CypWzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyxVNW5zrjsRpoVq3CypWzs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:27:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Oil Industries",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "523186",
+    "phone_number": "+91 257 222 6317",
+    "website": "http://www.skoil.org/",
+    "rating": 4.3,
+    "reviews_count": 34,
+    "address": "2706/2B, Shivaji Nagar, Jalgaon, Maharashtra 425001",
+    "area": "Shivaji Nagar",
+    "latitude": 21.018452699999997,
+    "longitude": 75.5541709,
+    "place_id": "ChIJD7nqoaQP2TsR0y_7nT64-Z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7nqoaQP2TsR0y_7nT64-Z4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:04:07"
+  },
+  {
+    "business_name": "Raj Oil Trading",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "523186",
+    "phone_number": "+91 22 2612 3736",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 12,
+    "address": "Vanmali Chawl, 240, Nehru Rd, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057",
+    "area": "Navpada, Vile Parle East, Vile Parle",
+    "latitude": 19.0984749,
+    "longitude": 72.84461739999999,
+    "place_id": "ChIJqV1DT7HJ5zsRN6exbaUPWdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqV1DT7HJ5zsRN6exbaUPWdA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:04:10"
+  }
+]

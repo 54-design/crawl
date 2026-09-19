@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI SUDHA'S JEWELLERY WORKS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "523225",
+    "phone_number": "+91 98668 90013",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maha lakshmi amma vari tempel, line, Pelluru, Andhra Pradesh 523272",
+    "area": "line",
+    "latitude": 15.4566576,
+    "longitude": 80.0509809,
+    "place_id": "ChIJbc5EKPoHSzoRNQtXlKAZKOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbc5EKPoHSzoRNQtXlKAZKOo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:53"
+  },
+  {
+    "business_name": "Gayathri Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "523225",
+    "phone_number": "+91 94480 14572",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandhi square, Thirthahalli, Karnataka 577432",
+    "area": "523225",
+    "latitude": 13.6912176,
+    "longitude": 75.2437228,
+    "place_id": "ChIJcRWGvodxuzsR3IPaNeX98rE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRWGvodxuzsR3IPaNeX98rE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:55"
+  }
+]

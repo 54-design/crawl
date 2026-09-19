@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Home Services - Vizag",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "523225",
+    "phone_number": "+91 81791 20888",
+    "website": "https://happyhomecareservices.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "53-33-3/2, near R. K. Residency, KRM Colony, Maddilapalem, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "KRM Colony, Maddilapalem",
+    "latitude": 17.7425554,
+    "longitude": 83.3181857,
+    "place_id": "ChIJq4nAlMVDOToRiK1TiCT6KE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4nAlMVDOToRiK1TiCT6KE8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:23:25"
+  },
+  {
+    "business_name": "Sonovision",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Air conditioning store",
+    "pincode": "523225",
+    "phone_number": "+91 92466 66329",
+    "website": "https://sonovision.in/",
+    "rating": 3.7,
+    "reviews_count": 1119,
+    "address": "Vantavari colony, Ongole, Andhra Pradesh 523001",
+    "area": "Vantavari colony",
+    "latitude": 15.508323899999999,
+    "longitude": 80.04767249999999,
+    "place_id": "ChIJweAINQcBSzoRWMM4XMjOv9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweAINQcBSzoRWMM4XMjOv9c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:23:28"
+  }
+]

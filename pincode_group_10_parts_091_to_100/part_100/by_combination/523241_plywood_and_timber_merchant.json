@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Woods India Enterprises",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "523241",
+    "phone_number": "+91 94005 83345",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "QCRC+VWM, Lakkidi-perur- I, Keralam 679511",
+    "area": "523241",
+    "latitude": 10.792241899999999,
+    "longitude": 76.4222994,
+    "place_id": "ChIJdVGeHADZpzsR7ryU8jdTKBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVGeHADZpzsR7ryU8jdTKBA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:34:27"
+  },
+  {
+    "business_name": "Saras Plywood Products Pvt. Ltd.",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "523241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Plot No. 744, New GIDC, Gundlav, Gujarat 396035",
+    "area": "New GIDC, Dhamdachi",
+    "latitude": 20.6175188,
+    "longitude": 72.9679835,
+    "place_id": "ChIJ_yb4S97p4DsR5GeHuRUNiuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yb4S97p4DsR5GeHuRUNiuo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:34:28"
+  }
+]

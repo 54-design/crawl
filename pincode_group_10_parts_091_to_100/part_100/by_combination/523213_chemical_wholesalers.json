@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varsha chemical",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "523213",
+    "phone_number": "+91 90021 61515",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "opposite Nagar Pune Road, Kedgaon, Ahilyanagar, Maharashtra 414005",
+    "area": "Kedgaon",
+    "latitude": 19.0658742,
+    "longitude": 74.7109972,
+    "place_id": "ChIJTxWPZTSx3DsRXlsK6dXII9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxWPZTSx3DsRXlsK6dXII9Q",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:16:43"
+  },
+  {
+    "business_name": "Nice Chemicals Private Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "523213",
+    "phone_number": "+91 484 280 0212",
+    "website": "http://www.nicechemicals.com/",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "28H2+HM2, Manimala Rd, Ponekkara, Edappally, Ernakulam, Keralam 682024",
+    "area": "Ponekkara, Edappally",
+    "latitude": 10.0288965,
+    "longitude": 76.301626,
+    "place_id": "ChIJFdePqXptCDsRjSMZonGWdOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdePqXptCDsRjSMZonGWdOg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:16:44"
+  }
+]

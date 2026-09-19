@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vyshnavi Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "523227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G8JQ+X37, Kanigiri - Cumbum Rd, Vemula Padu, Andhra Pradesh 523246",
+    "area": "523227",
+    "latitude": 15.5326638,
+    "longitude": 79.3377471,
+    "place_id": "ChIJz_paHAArtTsRPH-1nvwA8Cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_paHAArtTsRPH-1nvwA8Cw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:26"
+  },
+  {
+    "business_name": "Biryanis and more - Yendada",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "523227",
+    "phone_number": "+91 80965 02222",
+    "website": "http://www.biryanis.com/",
+    "rating": 4.2,
+    "reviews_count": 778,
+    "address": "Biryanis and more, Endada Rushikonda Rd, opp. Vaisakhi Skyline Apartments, Yendada, Endada, Andhra Pradesh 530045",
+    "area": "Yendada",
+    "latitude": 17.780837599999998,
+    "longitude": 83.3631412,
+    "place_id": "ChIJoV5nDVRbOToRSCOyrehUAOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoV5nDVRbOToRSCOyrehUAOs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:27"
+  }
+]

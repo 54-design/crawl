@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAACHIS JUICE & BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Juice shop",
+    "pincode": "523169",
+    "phone_number": "+91 80863 58745",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "shop8, Abhyudaya Nagar, Addanki, Andhra Pradesh 523201",
+    "area": "Abhyudaya Nagar",
+    "latitude": 15.809004499999999,
+    "longitude": 79.9756859,
+    "place_id": "ChIJDTrpZkXxSjoRodUqTrqTZ3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTrpZkXxSjoRodUqTrqTZ3Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:47:08"
+  },
+  {
+    "business_name": "Jaibharathsweets&bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523169",
+    "phone_number": "+91 93817 19399",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "W5FR+V4R, SH 193, Makkapeta, Andhra Pradesh 521190",
+    "area": "523169",
+    "latitude": 16.9261135,
+    "longitude": 80.1894655,
+    "place_id": "ChIJNf19UgCvNToRIPMdYVMqYE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNf19UgCvNToRIPMdYVMqYE0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:47:09"
+  }
+]

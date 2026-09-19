@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash pavbhaji",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523225",
+    "phone_number": "+91 72888 07092",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 81,
+    "address": "Siri multiplex, Ramji Nagar, Nellore, Andhra Pradesh 524001",
+    "area": "Ramji Nagar",
+    "latitude": 14.4559125,
+    "longitude": 79.98152019999999,
+    "place_id": "ChIJY2ZM3oeNTDoRAZ3lDwc_3LQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2ZM3oeNTDoRAZ3lDwc_3LQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:46"
+  },
+  {
+    "business_name": "King Chat Darbar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "523225",
+    "phone_number": "+91 97045 40408",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 351,
+    "address": "10-3-881/B35-F1, opposite Nirmala hospital, Vijaynagar Colony, APHB Colony, Vijaya Nagar Colony, Hyderabad, Telangana 500057",
+    "area": "Vijaynagar Colony, APHB Colony, Vijaya Nagar Colony",
+    "latitude": 17.3944918,
+    "longitude": 78.4513544,
+    "place_id": "ChIJFQepmBGXyzsR9dDd-CIwaTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQepmBGXyzsR9dDd-CIwaTY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:46"
+  }
+]

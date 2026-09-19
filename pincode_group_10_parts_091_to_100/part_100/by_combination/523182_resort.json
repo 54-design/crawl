@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swati lodge",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "523182",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Hotel Mourya, Venkateswara Nagar, Ongole, Andhra Pradesh 523001",
+    "area": "Venkateswara Nagar",
+    "latitude": 15.5120834,
+    "longitude": 80.04195589999999,
+    "place_id": "ChIJHxautcMBSzoRi-IItg_qfmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxautcMBSzoRi-IItg_qfmE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:57:51"
+  },
+  {
+    "business_name": "SKY VALLEY RESORT'S",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Ski resort",
+    "pincode": "523182",
+    "phone_number": "+91 83745 68940",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Narasaraopeta, Lingamguntla Agraharam Rural, Andhra Pradesh 522603",
+    "area": "523182",
+    "latitude": 16.2110183,
+    "longitude": 80.040165,
+    "place_id": "ChIJ5xE-Xm-BSjoRftBxPr3sAPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xE-Xm-BSjoRftBxPr3sAPc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:57:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dodla Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "523211",
+    "phone_number": "+91 92474 65360",
+    "website": "https://www.dodladairy.com/",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "G24G+8FC, Mangamuru Rd, Gandhi Nagar, Siva Prasad Colony, Ongole, Andhra Pradesh 523002",
+    "area": "Gandhi Nagar, Siva Prasad Colony",
+    "latitude": 15.505813999999999,
+    "longitude": 80.0261337,
+    "place_id": "ChIJGxo5LXQBSzoRH9rxMLMG5rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxo5LXQBSzoRH9rxMLMG5rk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:25"
+  },
+  {
+    "business_name": "Heritage Foods",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "523211",
+    "phone_number": "+91 96522 99779",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandamama hospital, 20-7-82, Sundaraiah Bhavan Rd, beside chandamam hospital, beside road, Brundavan Nagar, Pandaripuram, Ongole, Andhra Pradesh 523001",
+    "area": "Brundavan Nagar, Pandaripuram",
+    "latitude": 15.510634999999999,
+    "longitude": 80.0391403,
+    "place_id": "ChIJAc2EKhYBSzoRXjTEpWZU_wM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAc2EKhYBSzoRXjTEpWZU_wM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:26"
+  }
+]

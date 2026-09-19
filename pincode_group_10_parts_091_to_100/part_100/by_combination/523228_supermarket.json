@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SuperK - Jai Hanuman Supermarket Mulaguntapadu",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "523228",
+    "phone_number": "+91 96035 18024",
+    "website": "https://www.superk.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground floor, 3-151/1, ITI College Rd, Mulaguntapadu, Andhra Pradesh 523101",
+    "area": "523228",
+    "latitude": 15.2540996,
+    "longitude": 80.02095489999999,
+    "place_id": "ChIJaT-uF2ELSzoRHnw83RUp2_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaT-uF2ELSzoRHnw83RUp2_A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:28:08"
+  },
+  {
+    "business_name": "Chennupalli Hussain Saheb shop",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "523228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "95J3+WCJ, Bestavarapupeta, Andhra Pradesh 523346",
+    "area": "523228",
+    "latitude": 15.3823264,
+    "longitude": 79.15352159999999,
+    "place_id": "ChIJIaktDwDbtDsREPB1O-W7XGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaktDwDbtDsREPB1O-W7XGo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:28:09"
+  }
+]

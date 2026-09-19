@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RP Wealth Pvt Ltd.",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Insurance agent",
+    "all_categories": "Insurance agent",
+    "pincode": "523227",
+    "phone_number": "+91 40 4501 6362",
+    "website": "https://rpwealth.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5th Floor, B-BLOCK, Plot no ; 8-3-323,unit 620, Vasavi MPM Grand,Yellareddyguda, Ameerpet, WEST SIDE, Hyderabad, Telangana 500073",
+    "area": "Ameerpet, WEST SIDE",
+    "latitude": 17.4342203,
+    "longitude": 78.445084,
+    "place_id": "ChIJUU8XIMaQyzsRHHIs0MsxWpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU8XIMaQyzsRHHIs0MsxWpw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:27:48"
+  },
+  {
+    "business_name": "SriVasa Legal LLP",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "523227",
+    "phone_number": "+91 99713 78915",
+    "website": "http://www.srivasalegal.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tower A, ATS BOUQUET, 1102, Sector 132, Noida, Uttar Pradesh 201304",
+    "area": "Block B, Sector 132",
+    "latitude": 28.510042799999997,
+    "longitude": 77.38047089999999,
+    "place_id": "ChIJneznzeLF40gRVs2dTBbGDsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneznzeLF40gRVs2dTBbGDsY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:27:50"
+  }
+]

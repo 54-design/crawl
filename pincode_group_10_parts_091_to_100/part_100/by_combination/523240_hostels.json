@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BC Boys Hostel Podili",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "523240",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12,
+    "address": "Viswanadha Puram, Podili, Andhra Pradesh 523240",
+    "area": "523240",
+    "latitude": 15.5948502,
+    "longitude": 79.6073919,
+    "place_id": "ChIJw4k-bWnZSjoR8E5bCH04XDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4k-bWnZSjoR8E5bCH04XDE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:56"
+  },
+  {
+    "business_name": "Chinarakatla",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "523240",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JJ49+HXG, Podili, Andhra Pradesh 523240",
+    "area": "523240",
+    "latitude": 15.6064495,
+    "longitude": 79.6199437,
+    "place_id": "ChIJUbPxewDZSjoRMycgiAe8h9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbPxewDZSjoRMycgiAe8h9w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:56"
+  }
+]

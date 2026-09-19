@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KVM ONLINE SERVICES",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent, Lamination service, Money transfer service",
+    "pincode": "523201",
+    "phone_number": "+91 99891 81037",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 02 Municipal Office Complex Municipal Office, Addanki, Andhra Pradesh 523201",
+    "area": "NSP Colony",
+    "latitude": 15.8077217,
+    "longitude": 79.9740195,
+    "place_id": "ChIJdWm3TrHxSjoR-cUCDgJpKWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWm3TrHxSjoR-cUCDgJpKWA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:15"
+  },
+  {
+    "business_name": "APSRTC BUS STAND, ADDANKI",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus charter",
+    "all_categories": "Bus charter",
+    "pincode": "523201",
+    "phone_number": "+91 3213 475 245",
+    "website": "http://apsrtconline.in/",
+    "rating": 3.7,
+    "reviews_count": 3830,
+    "address": "SHOP NO 34, CENTER GATE, APSRTC Bus Stand Rd, Abhyudaya Nagar, Addanki, Andhra Pradesh 523201",
+    "area": "Abhyudaya Nagar",
+    "latitude": 15.809299699999999,
+    "longitude": 79.9753832,
+    "place_id": "ChIJlzaOiizxSjoRRxOBOx30-3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzaOiizxSjoRRxOBOx30-3k",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:17"
+  }
+]

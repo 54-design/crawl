@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI General Insurance Company Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "523183",
+    "phone_number": "+91 1800 22 1111",
+    "website": "https://www.sbigeneral.in/",
+    "rating": 3.9,
+    "reviews_count": 42,
+    "address": "second floor, Air Costa - Corporate Office, D No. 59-13-34 & 34/1, Gayatri Nagar, Patamata, Vijayawada, Andhra Pradesh 520008",
+    "area": "Gayatri Nagar, Patamata",
+    "latitude": 16.5016355,
+    "longitude": 80.6569993,
+    "place_id": "ChIJC4HlmLr6NToRi3DjQCZjVew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4HlmLr6NToRi3DjQCZjVew",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:00:02"
+  },
+  {
+    "business_name": "Reliance General Insurance Company Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "523183",
+    "phone_number": "+91 866 398 4888",
+    "website": "http://www.reliancegeneral.co.in/",
+    "rating": 3.3,
+    "reviews_count": 66,
+    "address": "40-1-21/8, IIIrd Floor Surya Towers M.G.Road(Bunder Road, Vijayawada Rd, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Revenue Colony Park, Sidhartha Nagar, Labbipet",
+    "latitude": 16.5011905,
+    "longitude": 80.6452984,
+    "place_id": "ChIJmxLrmLr6NToRdRVL_jx12D8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxLrmLr6NToRdRVL_jx12D8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:00:02"
+  }
+]

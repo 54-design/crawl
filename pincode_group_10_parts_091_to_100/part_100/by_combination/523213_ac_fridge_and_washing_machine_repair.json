@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A & A Appliance Care Ltd",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "523213",
+    "phone_number": "N/A",
+    "website": "http://aaappliancecareltd.co.uk/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "14 Church Rd, Shirley, Solihull B90 2AX, United Kingdom",
+    "area": "Shirley",
+    "latitude": 52.406685499999995,
+    "longitude": -1.8262743,
+    "place_id": "ChIJ0cQjNE-6cEgRHG6z4YkIKuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cQjNE-6cEgRHG6z4YkIKuI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:57"
+  },
+  {
+    "business_name": "Home Appliance Repair Team",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "523213",
+    "phone_number": "07305 127305",
+    "website": "https://www.homeappliancerepairteam.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Home Appliance Repair Team, 523213, India",
+    "area": "523213",
+    "latitude": 52.5052441,
+    "longitude": -1.8154096,
+    "place_id": "ChIJrevnbFXEw0ERGtlZ4zrVJik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrevnbFXEw0ERGtlZ4zrVJik",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:58"
+  }
+]

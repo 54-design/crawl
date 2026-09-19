@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sony Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "523228",
+    "phone_number": "+91 94402 23282",
+    "website": "http://www.sonybookdepot.com/",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "SBI Bank street, Turkapally, Narayankhed (CT), Telangana 502286",
+    "area": "Turkapally",
+    "latitude": 18.036316,
+    "longitude": 77.7726825,
+    "place_id": "ChIJDSKhGZ6izjsRMbMEywhEurs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSKhGZ6izjsRMbMEywhEurs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:26"
+  },
+  {
+    "business_name": "Sri Lakshmi Srinivasa General Stores",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "523228",
+    "phone_number": "+91 90105 72223",
+    "website": "https://sankeerth21.pythonanywhere.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bank Street, opposite Indian Overseas Bank, K.Agraharam, Amalapuram, Andhra Pradesh 533221",
+    "area": "K.Agraharam",
+    "latitude": 16.5761458,
+    "longitude": 82.00235699999999,
+    "place_id": "ChIJcYTVw5TvNzoRXvJkdKhpWrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYTVw5TvNzoRXvJkdKhpWrg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:26"
+  }
+]

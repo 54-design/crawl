@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sravani mess and groceries",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 41,
+    "address": "P7G7+9MM, Vidya Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Vidya Nagar",
+    "latitude": 15.7259561,
+    "longitude": 79.2641823,
+    "place_id": "ChIJwS42pxcxtTsRajzkjLEde5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS42pxcxtTsRajzkjLEde5E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:40"
+  },
+  {
+    "business_name": "Gannavaram Venkateswarlu Fancy & Coll Drinks",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "523241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "P7G7+WWF, Vidya Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Vidya Nagar",
+    "latitude": 15.727324099999999,
+    "longitude": 79.26481079999999,
+    "place_id": "ChIJH-cYDQAxtTsRszciwOCqNxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-cYDQAxtTsRszciwOCqNxc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:40"
+  }
+]

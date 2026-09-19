@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivasa agencies",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "523227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HC3C+C22, Ongole - Kurnool Main Rd, Gotlagattu, Garimana Penta, Andhra Pradesh 523246",
+    "area": "523227",
+    "latitude": 15.553522399999999,
+    "longitude": 79.4200169,
+    "place_id": "ChIJ9fP-JADVSjoRgvyKnqWRP9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fP-JADVSjoRgvyKnqWRP9c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:27:10"
+  },
+  {
+    "business_name": "Sri Lakshmi Srinivasa Motor Works",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "523227",
+    "phone_number": "+91 95420 01223",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Gotlagattu, Andhra Pradesh 523246",
+    "area": "523227",
+    "latitude": 15.5535216,
+    "longitude": 79.4210859,
+    "place_id": "ChIJ65jNpFfVSjoRxfsBx8qTQfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65jNpFfVSjoRxfsBx8qTQfk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:27:10"
+  }
+]

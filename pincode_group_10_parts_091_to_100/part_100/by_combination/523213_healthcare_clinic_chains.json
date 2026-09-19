@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LIFE CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "523213",
+    "phone_number": "+91 99602 64242",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Osmannagar, Maharashtra 431707",
+    "area": "523213",
+    "latitude": 18.9650671,
+    "longitude": 77.29496759999999,
+    "place_id": "ChIJS-iPsnMuzjsRuACaoW6oP4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-iPsnMuzjsRuACaoW6oP4g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:42"
+  },
+  {
+    "business_name": "LIFE CARE HOSPITAL-LCH,BTM LAYOUT",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital, Blood testing service, Dental clinic, Diagnostic center, Hospital, Private hospital, Specialized hospital",
+    "pincode": "523213",
+    "phone_number": "+91 80 2684 6677",
+    "website": "https://lifecarehosp.com/",
+    "rating": 4.4,
+    "reviews_count": 2522,
+    "address": "Gangothri circle, 23/24,new99, 20th Main Rd, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029",
+    "area": "Old Madiwala, Jay Bheema Nagar, 1st Stage, BTM 1st Stage",
+    "latitude": 12.9193552,
+    "longitude": 77.61299919999999,
+    "place_id": "ChIJO3xF0P4UrjsRWdqRdMqGe-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3xF0P4UrjsRWdqRdMqGe-Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:42"
+  }
+]

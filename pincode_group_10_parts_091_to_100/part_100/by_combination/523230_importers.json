@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srikar",
+    "search_category": "Importers",
+    "primary_category": "Importer",
+    "all_categories": "Importer",
+    "pincode": "523230",
+    "phone_number": "+91 80748 72976",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8-335, Gunuputi Vari St, Kanigiri, Andhra Pradesh 523230",
+    "area": "523230",
+    "latitude": 15.4057186,
+    "longitude": 79.5064075,
+    "place_id": "ChIJX85wDAAvSzoR-8xyAIl31YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX85wDAAvSzoR-8xyAIl31YY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:39"
+  },
+  {
+    "business_name": "Tobacco Board, (APF NO.35), Kanigiri",
+    "search_category": "Importers",
+    "primary_category": "Business center",
+    "all_categories": "Business center",
+    "pincode": "523230",
+    "phone_number": "+91 70935 02035",
+    "website": "https://tobaccoboard.com/apa.php",
+    "rating": 4.1,
+    "reviews_count": 60,
+    "address": "CFWX+RW5, Kanigiri, Andhra Pradesh 523245",
+    "area": "523230",
+    "latitude": 15.447004399999999,
+    "longitude": 79.4998729,
+    "place_id": "ChIJKxaUITEpSzoRjegq_TkaDrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxaUITEpSzoRjegq_TkaDrs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:40"
+  }
+]

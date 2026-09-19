@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RUBY audiologist & speech therapist",
+    "search_category": "Therapy Center",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist",
+    "pincode": "523190",
+    "phone_number": "+91 96767 04949",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 45,
+    "address": "10-9-13/1, Charbouli Rd, Charbowli, Girmajipet, Warangal, Telangana 506002",
+    "area": "Charbowli, Girmajipet",
+    "latitude": 17.982555299999998,
+    "longitude": 79.6021889,
+    "place_id": "ChIJvdJS6cdFMzoRHAotMu-7iTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdJS6cdFMzoRHAotMu-7iTM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:47"
+  },
+  {
+    "business_name": "Lahari Therapy centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "523190",
+    "phone_number": "+91 72070 99699",
+    "website": "http://laharirehabilitation.org/",
+    "rating": 4.8,
+    "reviews_count": 123,
+    "address": "2nd Floor 4th Building, Building, 29-2-50, Rama Mandiram St, beside Subbiah Gari Hotel, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.511720999999998,
+    "longitude": 80.6300334,
+    "place_id": "ChIJiVmJzKfxNToReDtnREYygz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVmJzKfxNToReDtnREYygz8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:47"
+  }
+]

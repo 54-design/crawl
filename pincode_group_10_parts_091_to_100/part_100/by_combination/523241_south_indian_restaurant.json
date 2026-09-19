@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APSARA RUCHULU",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "523241",
+    "phone_number": "+91 63003 65707",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Clock Tower, center, Markapur, Andhra Pradesh 523316",
+    "area": "center",
+    "latitude": 15.738588499999999,
+    "longitude": 79.2702748,
+    "place_id": "ChIJUxvfBj0xtTsRIHMW39pILu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxvfBj0xtTsRIHMW39pILu4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:49"
+  },
+  {
+    "business_name": "New Vyshnavi Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "523241",
+    "phone_number": "+91 94928 17367",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "7-254, Nehru St, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.738687299999999,
+    "longitude": 79.2701502,
+    "place_id": "ChIJFQRRm5cxtTsRrHQQ5iD7IeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQRRm5cxtTsRrHQQ5iD7IeU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:49"
+  }
+]

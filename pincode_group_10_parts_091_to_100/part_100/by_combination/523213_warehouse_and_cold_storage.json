@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Warehousing Express Logistics Pvt Ltd",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse, Logistics service",
+    "pincode": "523213",
+    "phone_number": "+91 92782 08606",
+    "website": "http://www.warehousingexpress.com/",
+    "rating": 2.4,
+    "reviews_count": 5,
+    "address": "Survey No- 94/3 Koralur, Hoskotae TQ, Kasaba - Hubli , Koraluru Village, Whitefield, Bengaluru, Karnataka 560067",
+    "area": "Whitefield",
+    "latitude": 12.990119499999999,
+    "longitude": 77.7840612,
+    "place_id": "ChIJ__HSNawPrjsR56P6BWskiNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__HSNawPrjsR56P6BWskiNw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:16:46"
+  },
+  {
+    "business_name": "ColdRush Logistics Cold Storage Hyderabad",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "523213",
+    "phone_number": "+91 22 4002 0499",
+    "website": "http://www.coldrushlogistics.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Survey No. 721/C, Devar Yamzal, Village, Shamirpet, Hyderabad, Telangana 500078",
+    "area": "Shamirpet",
+    "latitude": 17.5741242,
+    "longitude": 78.51609789999999,
+    "place_id": "ChIJ8an_Q1mFyzsRy6ALTE8T7LY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8an_Q1mFyzsRy6ALTE8T7LY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:16:48"
+  }
+]

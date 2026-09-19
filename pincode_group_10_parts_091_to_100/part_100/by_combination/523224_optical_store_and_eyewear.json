@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Von Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "523224",
+    "phone_number": "+91 97248 85555",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 211,
+    "address": "4 Pramukh Plaza, Polytechnic Road, Opposite Ketav Petrol Pump, Ambawadi, Ahmedabad, Gujarat 380015",
+    "area": "L Colony, Ambawadi",
+    "latitude": 23.0242856,
+    "longitude": 72.54822829999999,
+    "place_id": "ChIJqXyiaMiaXjkRiEPhlaBs7JA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXyiaMiaXjkRiEPhlaBs7JA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:21:08"
+  },
+  {
+    "business_name": "Om eye center",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "523224",
+    "phone_number": "+91 88814 45159",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Shimla Bypass Rd, near Bake Bihari Petrol pump, MEHUWALA, Dehradun, Uttarakhand 248018",
+    "area": "MEHUWALA",
+    "latitude": 30.3034435,
+    "longitude": 77.9894454,
+    "place_id": "ChIJrS2eIQwrCTkRECSGHVDdwGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrS2eIQwrCTkRECSGHVDdwGA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:21:09"
+  }
+]

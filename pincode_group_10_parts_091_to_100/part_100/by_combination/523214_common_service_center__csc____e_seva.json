@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E sevai maiyam",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center",
+    "pincode": "523214",
+    "phone_number": "+91 75500 09990",
+    "website": "https://www.tnesevai.tn.gov.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "No 1 Pu Shanmugam Nagar, 1st Main Rd, Senthil Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Senthil Nagar, Kolathur",
+    "latitude": 13.1216458,
+    "longitude": 80.2054258,
+    "place_id": "ChIJr0C9OxllUjoRtnQ-Cj4svjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0C9OxllUjoRtnQ-Cj4svjI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:18:16"
+  },
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "523214",
+    "phone_number": "+91 75308 80140",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "545, Hanuman Mandir Rd, Chirag Dilli, New Delhi, Delhi 110017",
+    "area": "Chirag Dilli",
+    "latitude": 28.5387676,
+    "longitude": 77.2305533,
+    "place_id": "ChIJeb_bZnfjDDkRN82G8LU0ITc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeb_bZnfjDDkRN82G8LU0ITc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:18:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna Mother & Child Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, General practitioner, Gynecologist",
+    "pincode": "523230",
+    "phone_number": "+91 85002 99662",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "25-13-19 Ground Floor, RV Ramarao St, Narasimharao Pet, Eluru, Andhra Pradesh 534006",
+    "area": "Narasimharao Pet",
+    "latitude": 16.7088025,
+    "longitude": 81.0919194,
+    "place_id": "ChIJYbRfT0sVNjoRGCC9_Dkoguo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbRfT0sVNjoRGCC9_Dkoguo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:30:28"
+  },
+  {
+    "business_name": "Shankar children's hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Children's hospital, Emergency care service",
+    "pincode": "523230",
+    "phone_number": "+91 94916 49111",
+    "website": "http://www.shankarchildrenshospital.in/",
+    "rating": 4.8,
+    "reviews_count": 468,
+    "address": "Park center, above SBI Bank, Tuni, Andhra Pradesh 533401",
+    "area": "523230",
+    "latitude": 17.3565388,
+    "longitude": 82.5432093,
+    "place_id": "ChIJLaI-HG3HOToRMhDNxJ0Qd1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLaI-HG3HOToRMhDNxJ0Qd1I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:30:28"
+  }
+]

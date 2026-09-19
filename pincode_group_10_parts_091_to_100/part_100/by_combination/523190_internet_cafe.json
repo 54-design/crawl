@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAREENA NET CAFE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "523190",
+    "phone_number": "+91 81210 20524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr No 3/393, Inakuduru, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Jalal Pet",
+    "latitude": 16.1719138,
+    "longitude": 81.1241707,
+    "place_id": "ChIJU0rMnZDnSToRYkfP_nRjsVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0rMnZDnSToRYkfP_nRjsVg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:05"
+  },
+  {
+    "business_name": "Prasad Net Centre",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "523190",
+    "phone_number": "+91 89857 01661",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 108,
+    "address": "4GJ6+X2P, Allagadda, Andhra Pradesh 518543",
+    "area": "523190",
+    "latitude": 15.1324609,
+    "longitude": 78.5100882,
+    "place_id": "ChIJT6ofiHJdtDsR7jPKC1AAJJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6ofiHJdtDsR7jPKC1AAJJ8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:07"
+  }
+]

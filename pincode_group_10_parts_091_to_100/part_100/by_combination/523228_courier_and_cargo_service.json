@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ST Courier Head Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523228",
+    "phone_number": "+91 44 6126 6666",
+    "website": "http://stcourier.com/",
+    "rating": 2.3,
+    "reviews_count": 561,
+    "address": "Ariyaan Street, No.199, Veteran Lane, C.Pallavaram, Meenambakkam, Pallavaram (Contonment), Tamil Nadu 600043",
+    "area": "C.Pallavaram, Mallika Nagar, Meenambakkam",
+    "latitude": 12.9756479,
+    "longitude": 80.1488409,
+    "place_id": "ChIJDU-D_C1eUjoRx9xVsFgfE3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDU-D_C1eUjoRx9xVsFgfE3Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:37"
+  },
+  {
+    "business_name": "DTDC EXPRESS LTD.",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523228",
+    "phone_number": "N/A",
+    "website": "http://www.dtdc.in/",
+    "rating": 4.1,
+    "reviews_count": 122,
+    "address": "Ground floor, ganesh nilaya, 1105/30, Begur Rd, near govt hospital or police station, near Govt Hospital, OR Police Station, Classic Paradise Layout, Begur, Bengaluru, Karnataka 560114",
+    "area": "Classic Paradise Layout, Begur",
+    "latitude": 12.878779,
+    "longitude": 77.62460469999999,
+    "place_id": "ChIJI6bmrswUrjsRiHA0u9QoKO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6bmrswUrjsRiHA0u9QoKO0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:37"
+  }
+]

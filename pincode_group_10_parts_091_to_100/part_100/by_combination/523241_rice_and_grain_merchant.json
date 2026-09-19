@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sujitha Enterprises",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food manufacturing supply",
+    "all_categories": "Food manufacturing supply",
+    "pincode": "523241",
+    "phone_number": "+91 98855 65678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "94-21-1539, Brundhavanam Towers, 1st Line, Hanuman Nagar, Chuttugunta Cir, Guntur, Andhra Pradesh 522004",
+    "area": "Ananda Theertha Agraharam",
+    "latitude": 16.2928007,
+    "longitude": 80.4229945,
+    "place_id": "ChIJA80C0i11SjoRHjDKU-TrTNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA80C0i11SjoRHjDKU-TrTNA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:43"
+  },
+  {
+    "business_name": "Sri Ranga Dhatri Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "523241",
+    "phone_number": "+91 79895 55741",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P7G8+C86, Vidya Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Vidya Nagar",
+    "latitude": 15.726031599999999,
+    "longitude": 79.26575559999999,
+    "place_id": "ChIJl619ZwAxtTsRG_IpWBx2-oU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl619ZwAxtTsRG_IpWBx2-oU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devi Shree Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523187",
+    "phone_number": "+91 89858 88686",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "FC9F+WX7 Indira gandhi statue, 12-4-75/1/G4, Patel Nagar, Moosapet, Hyderabad, Telangana 500018",
+    "area": "Patel Nagar, Moosapet",
+    "latitude": 17.4695017,
+    "longitude": 78.42496249999999,
+    "place_id": "ChIJwcSX8gCRyzsRuO-H3xwXrBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcSX8gCRyzsRuO-H3xwXrBg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:13"
+  },
+  {
+    "business_name": "Navarathna Mangalore Jewellery Works",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "523187",
+    "phone_number": "+91 99866 84702",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1000-16, 2nd cross, Kogilu Main Rd, papanna layout, Yelahanka, Bengaluru, Karnataka 560064",
+    "area": "papanna layout, Maruthi Nagar, Yelahanka",
+    "latitude": 13.1044149,
+    "longitude": 77.6077346,
+    "place_id": "ChIJd1MjXKcZrjsRK9slqPyQzL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1MjXKcZrjsRK9slqPyQzL8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:13"
+  }
+]

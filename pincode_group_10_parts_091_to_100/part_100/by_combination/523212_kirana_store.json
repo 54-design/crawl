@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Kirana and general store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523212",
+    "phone_number": "+91 99596 53207",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Q24J+XH9, Korisapadu, Andhra Pradesh 523212",
+    "area": "523212",
+    "latitude": 15.7592726,
+    "longitude": 80.0316963,
+    "place_id": "ChIJ8eSRcgD3SjoRT-ihVmyW170",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eSRcgD3SjoRT-ihVmyW170",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:17"
+  },
+  {
+    "business_name": "KALESHA AUTO SHOP",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523212",
+    "phone_number": "+91 96037 82269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Q3R8+6HC, Alavalapadu, Andhra Pradesh 523212",
+    "area": "523212",
+    "latitude": 15.7906924,
+    "longitude": 80.06620459999999,
+    "place_id": "ChIJo8InLgD3SjoRlcjsN01NLZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8InLgD3SjoRlcjsN01NLZ8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:17"
+  }
+]

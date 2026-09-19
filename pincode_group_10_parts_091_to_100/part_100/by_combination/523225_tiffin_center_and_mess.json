@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi's Kitchen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Indian takeaway",
+    "all_categories": "Indian takeaway",
+    "pincode": "523225",
+    "phone_number": "+91 81423 64656",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 473,
+    "address": "Opp:- Old Andhra Bank, Mangamuru Rd, near pantaloons, Ongole, Andhra Pradesh 523002",
+    "area": "Lawyer Pet Extension",
+    "latitude": 15.506537499999999,
+    "longitude": 80.03282209999999,
+    "place_id": "ChIJR2sAtLABSzoR_qI7HU8UlM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2sAtLABSzoR_qI7HU8UlM4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:44"
+  },
+  {
+    "business_name": "Sri Ananda Bhavan",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "523225",
+    "phone_number": "+91 85922 34562",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Trunk Rd, beside Ratnamahal, Dharavari Thota, Bhagyanagar, Ongole, Andhra Pradesh 523001",
+    "area": "Dharavari Thota, Bhagyanagar",
+    "latitude": 15.4944954,
+    "longitude": 80.04862229999999,
+    "place_id": "ChIJwfvNbxwBSzoRUA__qKzj-8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfvNbxwBSzoRUA__qKzj-8A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:44"
+  }
+]

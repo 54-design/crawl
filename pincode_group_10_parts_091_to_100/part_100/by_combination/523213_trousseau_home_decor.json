@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wrap A Smile",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "523213",
+    "phone_number": "+91 98207 20448",
+    "website": "http://www.wrapasmile.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop no C7, shiv shakti, Gharkul Society, Indira Nagar, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Gharkul Society, Indira Nagar, Four Bungalows, Andheri West",
+    "latitude": 19.1267125,
+    "longitude": 72.8288601,
+    "place_id": "ChIJ938JiQrJ5zsRVXZbDVSvq3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ938JiQrJ5zsRVXZbDVSvq3o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:16:17"
+  },
+  {
+    "business_name": "ShubhSaugaat",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Corporate gift supplier, Gift basket store, Laser Cutting Service Provider, Paper bag supplier, Wedding store",
+    "pincode": "523213",
+    "phone_number": "+91 89609 33273",
+    "website": "https://www.shubhsaugaat.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "ShubhSaugat, Kn8, pn4, barura husain bari, Ahiran kheda, Dubagga, Lucknow, Uttar Pradesh 226017",
+    "area": "Dubagga",
+    "latitude": 26.8732607,
+    "longitude": 80.8681672,
+    "place_id": "ChIJA0VoBrjimzkRpvkKoaCgN8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0VoBrjimzkRpvkKoaCgN8U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:16:17"
+  }
+]

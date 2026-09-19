@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big Brothers Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "523190",
+    "phone_number": "+91 70083 85816",
+    "website": "http://www.bigbrothersdhaba.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Plot No 120, 2340, near IOCL Petrol Pump, Sisupalgarh, Bhubaneswar, Odisha 751002",
+    "area": "Sisupalgarh",
+    "latitude": 20.2169238,
+    "longitude": 85.851928,
+    "place_id": "ChIJO8A4iTOhGToRCB6ms6N6yCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8A4iTOhGToRCB6ms6N6yCM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:07:57"
+  },
+  {
+    "business_name": "Hari Om Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant, Hotel, Punjabi restaurant",
+    "pincode": "523190",
+    "phone_number": "+91 95588 86577",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "13, G.F, Chinubhai Center Nr. Patang Hotel Nehrubridge, Corner, Ashram Rd, Ahmedabad, Gujarat 380009",
+    "area": "Ellisbridge",
+    "latitude": 23.0260918,
+    "longitude": 72.5723556,
+    "place_id": "ChIJz-YtPFeEXjkR3DH3F_vdbX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-YtPFeEXjkR3DH3F_vdbX4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:07:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkatesh bike mechanic works",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Service establishment",
+    "pincode": "523212",
+    "phone_number": "+91 76809 04808",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Venkatesh bike mechanic works, 523212, India",
+    "area": "523212",
+    "latitude": 15.723670199999999,
+    "longitude": 80.0148224,
+    "place_id": "ChIJv3OoC9j5SjoRzJ6JnRliORA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3OoC9j5SjoRzJ6JnRliORA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:52"
+  },
+  {
+    "business_name": "Ravi Sri Bike Service",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "523212",
+    "phone_number": "+91 99514 24242",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "X6CJ+W7P, Unnamed Road, G.P.T.Colony, Suryaraopeta, Andhra Pradesh 533004",
+    "area": "G.P.T.Colony",
+    "latitude": 16.9723343,
+    "longitude": 82.2307031,
+    "place_id": "ChIJI63d668pODoRK4Vu6nCcH5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI63d668pODoRK4Vu6nCcH5o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:54"
+  }
+]

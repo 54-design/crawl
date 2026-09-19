@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Path Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "523185",
+    "phone_number": "+91 99181 91867",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "achkwa Road, near Chark Polyclinic, Sahoni, Uttar Pradesh 271855",
+    "area": "523185",
+    "latitude": 28.1493781,
+    "longitude": 81.44231909999999,
+    "place_id": "ChIJ_xyOBG2JmDkRloHoW4Ektvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xyOBG2JmDkRloHoW4Ektvk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:44"
+  },
+  {
+    "business_name": "Sampige Labs & Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Blood testing service, Laboratory, Diagnostic center",
+    "pincode": "523185",
+    "phone_number": "+91 821 230 3399",
+    "website": "http://www.sampigelabs.com/",
+    "rating": 3.7,
+    "reviews_count": 40,
+    "address": "246, Mahadeshwara Layout, Hebbal, Mahadeshwara Badavane Layout, Mysuru, Karnataka 570017",
+    "area": "Mahadeshwara Layout, Hebbal, Mahadeshwara Badavane Layout",
+    "latitude": 12.3386467,
+    "longitude": 76.6163011,
+    "place_id": "ChIJgXQLbF56rzsRQuC4a6qffDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXQLbF56rzsRQuC4a6qffDU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:46"
+  }
+]

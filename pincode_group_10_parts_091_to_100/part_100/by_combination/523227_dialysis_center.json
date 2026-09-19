@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dialysis Centre Georgian Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523227",
+    "phone_number": "N/A",
+    "website": "https://gshri.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gokul Puram Colony Rd, Awaleshpur, Varanasi, Kandwa, Uttar Pradesh 221106",
+    "area": "Awaleshpur",
+    "latitude": 25.2626262,
+    "longitude": 82.9654121,
+    "place_id": "ChIJh1Y08iMzjjkR1HPleuR5Gj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1Y08iMzjjkR1HPleuR5Gj8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:47"
+  },
+  {
+    "business_name": "Thanal Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "523227",
+    "phone_number": "+91 496 251 7772",
+    "website": "http://www.thanalkannur.com/",
+    "rating": 4.6,
+    "reviews_count": 31,
+    "address": "HHXH+8CC, Kabarum Puram, Vatakara, Keralam 673103",
+    "area": "Kabarum Puram",
+    "latitude": 11.598307499999999,
+    "longitude": 75.5785069,
+    "place_id": "ChIJgx-NlWOEpjsRKRN8Im604e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgx-NlWOEpjsRKRN8Im604e8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:49"
+  }
+]

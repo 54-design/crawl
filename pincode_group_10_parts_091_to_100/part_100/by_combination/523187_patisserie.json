@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cupcake bakery (homemade)",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523187",
+    "phone_number": "+91 90309 72258",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Madhava towers, Lakshmi St, opposite Income Tax Office, Daba Gardens, Allipuram, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.7159416,
+    "longitude": 83.3002362,
+    "place_id": "ChIJIbYdWABDOToRJPBdKNgPI6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbYdWABDOToRJPBdKNgPI6U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:04"
+  },
+  {
+    "business_name": "korean FOOD",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "523187",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SOLOMN CENTRE, 23-65, R.K Puram, Chirala, Andhra Pradesh 523155",
+    "area": "R.K Puram",
+    "latitude": 15.8170469,
+    "longitude": 80.34686479999999,
+    "place_id": "ChIJFxmmr_9FSjoRWm_BKgUKxws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxmmr_9FSjoRWm_BKgUKxws",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:04"
+  }
+]

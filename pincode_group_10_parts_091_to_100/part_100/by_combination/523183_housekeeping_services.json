@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Housekeeping Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "523183",
+    "phone_number": "+91 77991 53985",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2Q5G+V9X, Devi Chowk Circle, Jampet, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Jampet",
+    "latitude": 17.0097488,
+    "longitude": 81.775981,
+    "place_id": "ChIJC-WC3RalNzoR08HUxbdlbG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-WC3RalNzoR08HUxbdlbG8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:00:06"
+  },
+  {
+    "business_name": "Sri Ranga septic tank cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Septic system service",
+    "all_categories": "Septic system service",
+    "pincode": "523183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop.no76-97-353-27, Andhra Pradesh 518003",
+    "area": "Nehru Auto Nagar",
+    "latitude": 15.833644099999999,
+    "longitude": 78.015436,
+    "place_id": "ChIJ2cuUSfvhtTsRh4Dg7GTsgag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cuUSfvhtTsRh4Dg7GTsgag",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:00:06"
+  }
+]

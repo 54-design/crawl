@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premier Estates",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Industrial real estate agency, Property investment company, Real estate rental agency, Retail space rental agency",
+    "pincode": "523171",
+    "phone_number": "+91 77100 08968",
+    "website": "https://www.premierestates.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "32-B, Shree Laxmi Vijay Industrial Estate, New Link Road,Laxmi Industrial, Estate, SAB TV Road, Suresh Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Laxmi Industrial Estate, Suresh Nagar, Andheri West",
+    "latitude": 19.136025999999998,
+    "longitude": 72.82804,
+    "place_id": "ChIJ_5CbkCK25zsRoj38GyjJqH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5CbkCK25zsRoj38GyjJqH4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:52:37"
+  },
+  {
+    "business_name": "Prima Luxury Real Estate Broker",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate consultant",
+    "pincode": "523171",
+    "phone_number": "N/A",
+    "website": "http://www.primaluxury.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sheikh Zayed Rd - Trade Center First - Dubai - United Arab Emirates",
+    "area": "Trade Center First",
+    "latitude": 25.226524899999998,
+    "longitude": 55.2845878,
+    "place_id": "ChIJv7SXv0JDXz4R5yAJwQkYO2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7SXv0JDXz4R5yAJwQkYO2I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:52:38"
+  }
+]

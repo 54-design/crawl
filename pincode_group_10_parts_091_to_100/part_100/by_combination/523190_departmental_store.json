@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK Groceries and beverages",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "523190",
+    "phone_number": "+91 80081 73112",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "12-73 ., BESIDE MAIN ROAD ., PUSAPADU - X -ROADS, X - ROADS, Pusapadu, Andhra Pradesh 523190",
+    "area": "523190",
+    "latitude": 15.9050411,
+    "longitude": 80.2184551,
+    "place_id": "ChIJOR7nHa9dSjoR9ZV2tfm30sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOR7nHa9dSjoR9ZV2tfm30sw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:07:46"
+  },
+  {
+    "business_name": "Radha Devi cool drinks shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "W53V+J36, Idupulapadu, Andhra Pradesh 523190",
+    "area": "523190",
+    "latitude": 15.904037599999999,
+    "longitude": 80.1926256,
+    "place_id": "ChIJaydng-FdSjoRryeLq3rXlck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaydng-FdSjoRryeLq3rXlck",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:07:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neotech Computer Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer desk store, Computer Hardware Company, Computer networking service, Computer service, Computer software store, Computer store, Computer Wholesaler, Printer repair service, Screen repair service",
+    "pincode": "523223",
+    "phone_number": "+91 40 2380 9566",
+    "website": "https://www.neotechcomputers.in/",
+    "rating": 4.6,
+    "reviews_count": 1539,
+    "address": "Ist Floor, 7-1-621/81/A, SR Nagar Main Rd, opposite Axis Bank, Sanjeeva Reddy Nagar Office Area, Sanjeeva Reddy Nagar, Hyderabad, Telangana 500038",
+    "area": "Sanjeeva Reddy Nagar Office Area, Sanjeeva Reddy Nagar",
+    "latitude": 17.4424968,
+    "longitude": 78.44350759999999,
+    "place_id": "ChIJq6qqasSQyzsRHBx5OGbR4as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqasSQyzsRHBx5OGbR4as",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:20:11"
+  },
+  {
+    "business_name": "Bitsy Infotech Pvt Ltd",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer Hardware Company, Computer repair service",
+    "pincode": "523223",
+    "phone_number": "+91 76693 46004",
+    "website": "https://bitsy.biz/services/",
+    "rating": 4.8,
+    "reviews_count": 4743,
+    "address": "Shop.56, Ground floor, Society, Swami Vivekanand Rd, opp. Indraprasth Shopping Centre, Gyan Nagar, Mhatre Wadi, Borivali West, Mumbai, Maharashtra 400092",
+    "area": "Gyan Nagar, Mhatre Wadi, Borivali West",
+    "latitude": 19.226676299999998,
+    "longitude": 72.8549103,
+    "place_id": "ChIJx1BVgNaw5zsRbSpDYoPhC3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1BVgNaw5zsRbSpDYoPhC3g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:20:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "car care technologies",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "523187",
+    "phone_number": "+91 95290 90074",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 234,
+    "address": "Jaipur International Airport Terminal, 2 road, Siddharth Nagar, Govind Vihar, Chainpura, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Siddharth Nagar, Govind Vihar, Chainpura, Malviya Nagar",
+    "latitude": 26.836472,
+    "longitude": 75.80295799999999,
+    "place_id": "ChIJR6YVEb61bTkRgV6TA3uEZM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6YVEb61bTkRgV6TA3uEZM8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:35"
+  },
+  {
+    "business_name": "SS CAR AC wORKS",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "523187",
+    "phone_number": "+91 77299 53414",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pedda Bazar, Vetapalem, Andhra Pradesh 523187",
+    "area": "Pedda Bazar",
+    "latitude": 15.782311,
+    "longitude": 80.30580909999999,
+    "place_id": "ChIJPXJGlJpFSjoRArndMr4YWgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXJGlJpFSjoRArndMr4YWgE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:35"
+  }
+]

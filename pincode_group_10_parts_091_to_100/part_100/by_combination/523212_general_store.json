@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Srinivasa Paints Hardware & General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523212",
+    "phone_number": "+91 87905 55115",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 8, 141B, Guntur Road, opp. Police Station, Medarametla, Bodduvani Palem, Andhra Pradesh 523212",
+    "area": "Medarametla",
+    "latitude": 15.7245747,
+    "longitude": 80.0151988,
+    "place_id": "ChIJ4_s2i-b5SjoRNiAu9kZc7ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_s2i-b5SjoRNiAu9kZc7ho",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:23"
+  },
+  {
+    "business_name": "Lakshmi home needs (Internet & Xerox)",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 56,
+    "address": "15-1-56, varaparla vari veedhi, south bazar, DV Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "south bazar, DV Nagar",
+    "latitude": 15.209793399999999,
+    "longitude": 79.9068975,
+    "place_id": "ChIJSdsnvpASSzoRNXu77MT-00Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdsnvpASSzoRNXu77MT-00Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:25"
+  }
+]

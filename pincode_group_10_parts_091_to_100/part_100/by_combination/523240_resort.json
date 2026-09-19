@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Park Lodge",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "523240",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Podili Rd, Darsi, Andhra Pradesh 523247",
+    "area": "523240",
+    "latitude": 15.767959399999999,
+    "longitude": 79.6789094,
+    "place_id": "ChIJ02bhzbzDSjoRD4wdd-48_58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02bhzbzDSjoRD4wdd-48_58",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:57"
+  },
+  {
+    "business_name": "A1GRAND STAY",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "523240",
+    "phone_number": "+91 77939 59477",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kurichedu Rd, opp. Ntr Pallevanam Park, Darsi, Andhra Pradesh 523247",
+    "area": "523240",
+    "latitude": 15.773954499999999,
+    "longitude": 79.67639559999999,
+    "place_id": "ChIJN_v4JxXDSjoRN9MjW4eGoqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_v4JxXDSjoRN9MjW4eGoqo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:57"
+  }
+]

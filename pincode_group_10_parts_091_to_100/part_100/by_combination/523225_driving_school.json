@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sravani scooty learning school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523225",
+    "phone_number": "+91 88854 44656",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "new SBI, near, Main Rd, nehru nagar, Chimakurthy, Andhra Pradesh 523226",
+    "area": "nehru nagar",
+    "latitude": 15.5820408,
+    "longitude": 79.8764868,
+    "place_id": "ChIJBcg0Xs7jSjoR0ncLh7qLCuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcg0Xs7jSjoR0ncLh7qLCuU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:23:18"
+  },
+  {
+    "business_name": "Harsha Auto Consultancy",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Car finance and loan company, Motor vehicle dealer, Insurance agency",
+    "pincode": "523225",
+    "phone_number": "+91 88854 44656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Rd, Nehru nagar, Chimakurthy, Andhra Pradesh 523226",
+    "area": "Nehru nagar",
+    "latitude": 15.582044699999999,
+    "longitude": 79.87647679999999,
+    "place_id": "ChIJN4AxkffiSjoRdhwe-xyn7BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4AxkffiSjoRdhwe-xyn7BM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:23:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wheelocity",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "523228",
+    "phone_number": "+91 92465 30365",
+    "website": "http://wheelocityind.com/",
+    "rating": 4.8,
+    "reviews_count": 360,
+    "address": "Road No. 14, opposite to ICICI Bank, Resham Bagh, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Resham Bagh, Banjara Hills",
+    "latitude": 17.4207628,
+    "longitude": 78.43702669999999,
+    "place_id": "ChIJi34_FSyXyzsRB1pKrIOeytQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi34_FSyXyzsRB1pKrIOeytQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:28:47"
+  },
+  {
+    "business_name": "SRI RK ENTERPRISES",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "523228",
+    "phone_number": "+91 91821 54843",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Relaince Smart, NH 65, Sri Ram Nagar Colony, Telangana 508213",
+    "area": "Sri Ram Nagar Colony",
+    "latitude": 17.1482132,
+    "longitude": 79.6268383,
+    "place_id": "ChIJ65FmRkzbNDoRwJWE4SDYgCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65FmRkzbNDoRwJWE4SDYgCM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:28:49"
+  }
+]

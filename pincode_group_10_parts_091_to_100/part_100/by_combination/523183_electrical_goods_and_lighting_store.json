@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Light House Electrical Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "523183",
+    "phone_number": "+91 96401 37211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near old bustand satwik hospital, opposite medak, Pillidi, Arabgalli, Medak, Telangana 502110",
+    "area": "Pillidi, Arabgalli",
+    "latitude": 18.041988099999998,
+    "longitude": 78.260978,
+    "place_id": "ChIJhzVQAOQVzDsREows9tnylmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzVQAOQVzDsREows9tnylmg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:59:23"
+  },
+  {
+    "business_name": "Gowardhan electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "523183",
+    "phone_number": "+91 99494 79350",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Doraiswamy Iyengar Rd, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.219291,
+    "longitude": 79.09855979999999,
+    "place_id": "ChIJZZS8qWpfrTsRQJZgteH1mQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZS8qWpfrTsRQJZgteH1mQA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:59:23"
+  }
+]

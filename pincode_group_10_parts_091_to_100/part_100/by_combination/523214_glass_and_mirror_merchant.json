@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Near me glass shop",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "523214",
+    "phone_number": "+91 97690 98893",
+    "website": "https://near-me-glass-shop.grexa.site/",
+    "rating": 5,
+    "reviews_count": 168,
+    "address": "Shop No.12Abdul, hamid marg, Marve Rd, Malad, New Mahakali Nagar, Malvani, Malad West, Mumbai, Maharashtra 400095",
+    "area": "Malad, New Mahakali Nagar, Malvani, Malad West",
+    "latitude": 19.195266099999998,
+    "longitude": 72.8222165,
+    "place_id": "ChIJVVXM0L225zsR-4BxW9tUYco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXM0L225zsR-4BxW9tUYco",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:17:45"
+  },
+  {
+    "business_name": "Golden Glass & Mirror Mart",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "523214",
+    "phone_number": "+91 480 282 6865",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "86X9+5J8, Brother Mission Rd, near Marina Hospital, Irinjalakuda, Keralam 680121",
+    "area": "523214",
+    "latitude": 10.3479247,
+    "longitude": 76.21906489999999,
+    "place_id": "ChIJK2suR0n2pzsRSFHaSljzN1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2suR0n2pzsRSFHaSljzN1w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:17:46"
+  }
+]

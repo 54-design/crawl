@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harish Fancy Store and Cool drinks",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store, Convenience store",
+    "pincode": "523227",
+    "phone_number": "+91 94946 81168",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Canara bank road, Gotlagattu, Podili, Andhra Pradesh 523246",
+    "area": "523227",
+    "latitude": 15.5533263,
+    "longitude": 79.4198675,
+    "place_id": "ChIJUexnCwDVSjoRGACMa2_nI9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUexnCwDVSjoRGACMa2_nI9o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:17"
+  },
+  {
+    "business_name": "Sasi Fancey",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523227",
+    "phone_number": "+91 98662 72772",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5-25, K.Agraharam, Boganampadu, Andhra Pradesh 523111",
+    "area": "K.Agraharam",
+    "latitude": 15.3146285,
+    "longitude": 79.6907265,
+    "place_id": "ChIJh0qLE5w9SzoRrT35pAYJfzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0qLE5w9SzoRrT35pAYJfzI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:26:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANIKANTA HAIRSTYLES",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "523190",
+    "phone_number": "+91 90147 34885",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, MAIN ROAD, Pavuluru, Andhra Pradesh 523167",
+    "area": "523190",
+    "latitude": 15.852099399999998,
+    "longitude": 80.1644653,
+    "place_id": "ChIJdV4VHZlfSjoRKV5JGfff9PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdV4VHZlfSjoRKV5JGfff9PY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:40"
+  },
+  {
+    "business_name": "Anoo's beauty salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "523190",
+    "phone_number": "+91 63099 84620",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, Dwaraka complex, Yellanur Rd, Sunkulammapalem, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Sunkulammapalem",
+    "latitude": 14.9083917,
+    "longitude": 78.0118521,
+    "place_id": "ChIJkZw0whcdtDsRKLMAOumOxt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZw0whcdtDsRKLMAOumOxt8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:42"
+  }
+]

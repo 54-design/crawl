@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BVS COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "523211",
+    "phone_number": "+91 70322 09219",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "samatha hospital back side, Sundaraiah Bhavan Rd, Brundavan Nagar, Pandaripuram, Ongole, Andhra Pradesh 523001",
+    "area": "Brundavan Nagar, Pandaripuram",
+    "latitude": 15.511251099999999,
+    "longitude": 80.03984799999999,
+    "place_id": "ChIJHz4IiYEBSzoRZyvqC-2N3Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHz4IiYEBSzoRZyvqC-2N3Ck",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:12:45"
+  },
+  {
+    "business_name": "Sri Sai Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer networking service, Computer store, Computer software store, Computer Wholesaler",
+    "pincode": "523211",
+    "phone_number": "+91 85922 82948",
+    "website": "https://www.facebook.com/srisaicomputersongole",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "G27Q+MHF, Venkateswara Nagar, Ongole, Andhra Pradesh 523002",
+    "area": "Venkateswara Nagar",
+    "latitude": 15.5141911,
+    "longitude": 80.03892429999999,
+    "place_id": "ChIJe7xijqYBSzoR9jg_Rcm32EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7xijqYBSzoR9jg_Rcm32EU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:12:45"
+  }
+]

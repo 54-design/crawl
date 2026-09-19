@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VANDANA GARMENTS",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Men's clothing store, Women's clothing store",
+    "pincode": "523181",
+    "phone_number": "+91 97018 83266",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "GT Rd, New Colony, Srikakulam, Andhra Pradesh 532001",
+    "area": "New Colony",
+    "latitude": 18.2950171,
+    "longitude": 83.8956714,
+    "place_id": "ChIJoz7lTRsVPDoRHMiSL_cHZKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz7lTRsVPDoRHMiSL_cHZKU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:55:05"
+  },
+  {
+    "business_name": "Mumkins Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store, Children's clothing store, Childrens Store, Clothing store",
+    "pincode": "523181",
+    "phone_number": "+91 83069 96876",
+    "website": "https://www.mumkins.in/",
+    "rating": 4.8,
+    "reviews_count": 103,
+    "address": "No. 16 Habsiguda, Nacharam Village, Uppal Mandal Medchal,Malkajagiri District, Scientist colony, Uppal Rd, near SBI Bank, Secundarabad, Hyderabad, Telangana 500007",
+    "area": "Secundarabad, Habsiguda",
+    "latitude": 17.4175248,
+    "longitude": 78.54358359999999,
+    "place_id": "ChIJZQOPcSLlZzkR3FVMLzCkZG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQOPcSLlZzkR3FVMLzCkZG0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:55:08"
+  }
+]

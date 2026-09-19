@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rebridz Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "523186",
+    "phone_number": "+91 80742 46557",
+    "website": "https://rebridz.com/",
+    "rating": 4.7,
+    "reviews_count": 120,
+    "address": "1st Floor, Trendz BSR, Plot No. 10, Greenland Colony, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Greenland Colony, Madhava Reddy Colony, Gachibowli",
+    "latitude": 17.4391513,
+    "longitude": 78.3616323,
+    "place_id": "ChIJYfYT_K6TyzsRQfAUk5gGBKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfYT_K6TyzsRQfAUk5gGBKE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:37"
+  },
+  {
+    "business_name": "H Con Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "523186",
+    "phone_number": "N/A",
+    "website": "http://www.hconproperties.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hinjewadi - Wakad Rd, Hinjawadi, Pune, Hinjawadi, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.5908902,
+    "longitude": 73.7427173,
+    "place_id": "ChIJJ4xYvMm7wjsRFwehce_2uOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4xYvMm7wjsRFwehce_2uOQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:38"
+  }
+]

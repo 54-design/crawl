@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "చందన ఫస్ట్ ఫుడ్ సెంటర్",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "523201",
+    "phone_number": "+91 83677 78878",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 49,
+    "address": "Addanki - Narketpally Rd, Addanki, Andhra Pradesh 523201",
+    "area": "523201",
+    "latitude": 15.843276399999999,
+    "longitude": 79.9683615,
+    "place_id": "ChIJqyC3mSbzSjoRjwgv7KJPf4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyC3mSbzSjoRjwgv7KJPf4E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:49"
+  },
+  {
+    "business_name": "BIGBOSS MULTI CUSINE RESTAURANT",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Eclectic restaurant",
+    "all_categories": "Eclectic restaurant, Bakery and Cake Shop, Sweet shop, Coffee shop, Dhaba, Ice cream shop, North Indian restaurant, South Indian restaurant",
+    "pincode": "523201",
+    "phone_number": "+91 94944 95678",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "On, Bhavani Centre, NH16 Highway, Addanki, Andhra Pradesh 523201",
+    "area": "Abhyudaya Nagar",
+    "latitude": 15.8141301,
+    "longitude": 79.97313439999999,
+    "place_id": "ChIJzTwnc8jxSjoRa-Q2D7YxyC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTwnc8jxSjoRa-Q2D7YxyC0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:50"
+  }
+]

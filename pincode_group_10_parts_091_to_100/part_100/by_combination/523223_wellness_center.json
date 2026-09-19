@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VARSHI WELLNESS CENTER",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "523223",
+    "phone_number": "+91 77804 46382",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "CG42+HRX, Kanigiri, Andhra Pradesh 523230",
+    "area": "523223",
+    "latitude": 15.4064827,
+    "longitude": 79.50209579999999,
+    "place_id": "ChIJtaplOgAvSzoRzMmAec3FnU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaplOgAvSzoRzMmAec3FnU0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:19:50"
+  },
+  {
+    "business_name": "AYUSHMAN BHARATH HEALTH WELLNESS CENTER",
+    "search_category": "Wellness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "523223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pedagogulapalle, Andhra Pradesh 523223",
+    "area": "523223",
+    "latitude": 15.260006899999999,
+    "longitude": 79.3165145,
+    "place_id": "ChIJS0yJQ2zMtDsR81z3sOnNrz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0yJQ2zMtDsR81z3sOnNrz8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:19:51"
+  }
+]

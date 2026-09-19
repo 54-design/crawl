@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Computer Sales&Service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "523226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palla pothu vari street, Chimakurthy, Andhra Pradesh 523226",
+    "area": "523226",
+    "latitude": 15.583392799999999,
+    "longitude": 79.8679695,
+    "place_id": "ChIJTbvDfDvjSjoRILkCahRHDVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbvDfDvjSjoRILkCahRHDVs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:25:46"
+  },
+  {
+    "business_name": "Ram Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "523226",
+    "phone_number": "+91 99484 57444",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 332,
+    "address": "Door No:14/341, Shop No:7, beside Sasi Medical Needs, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6818175,
+    "longitude": 77.5999678,
+    "place_id": "ChIJnTS9ENlKsTsRnB_lKIAznAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTS9ENlKsTsRnB_lKIAznAc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:25:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow Aquariums & Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "523240",
+    "phone_number": "+91 81437 95958",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Islampet, 2nd Line, V.N. Puram, Podili, Andhra Pradesh 523240",
+    "area": "V.N. Puram",
+    "latitude": 15.601692,
+    "longitude": 79.6027955,
+    "place_id": "ChIJs-bKJ67ZSjoRT41N87i-tH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-bKJ67ZSjoRT41N87i-tH0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:57"
+  },
+  {
+    "business_name": "Sri Srinivasa Pasuvula Daana Dairy Feeds",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "523240",
+    "phone_number": "+91 94401 81903",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JJ5C+X42, Darsi Rd, Ramnagar Podili, Podili, Andhra Pradesh 523240",
+    "area": "Ramnagar Podili",
+    "latitude": 15.6098935,
+    "longitude": 79.62027359999999,
+    "place_id": "ChIJI2aDdwDZSjoRCnD426ulZ9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2aDdwDZSjoRCnD426ulZ9g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:57"
+  }
+]

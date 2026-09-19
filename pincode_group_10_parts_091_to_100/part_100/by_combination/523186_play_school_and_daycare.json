@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cherry Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "523186",
+    "phone_number": "+91 81252 48777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kodhandaramayya 2nd line, Chuttugunta Cir, Guntur, Andhra Pradesh 522004",
+    "area": "523186",
+    "latitude": 16.2898388,
+    "longitude": 80.4266528,
+    "place_id": "ChIJzSyCN291SjoRAJqn7J8Ibnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSyCN291SjoRAJqn7J8Ibnk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:14"
+  },
+  {
+    "business_name": "Dewdrops Playschool",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "523186",
+    "phone_number": "+91 86390 60659",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "MIG IIA/12, Gullalapalem Colony, Sriharipuram, Visakhapatnam, Andhra Pradesh 530011",
+    "area": "Coromandel Gate, Sriharipuram",
+    "latitude": 17.689045099999998,
+    "longitude": 83.2326446,
+    "place_id": "ChIJ6yARYclpOToR7qZd2OJ5C8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yARYclpOToR7qZd2OJ5C8o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:15"
+  }
+]

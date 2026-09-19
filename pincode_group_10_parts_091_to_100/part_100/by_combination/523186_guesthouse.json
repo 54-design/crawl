@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAI GRAND INN",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Lodging",
+    "pincode": "523186",
+    "phone_number": "+91 86768 89999",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 269,
+    "address": "D. No. 76-13-41a/1 JOJINAGAR, CURRENT OFFICE ROAD, Bhavanipuram, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, RR Nagar",
+    "latitude": 16.5386748,
+    "longitude": 80.60227119999999,
+    "place_id": "ChIJ8T1DODTvNToR_7Uk_rKOiaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8T1DODTvNToR_7Uk_rKOiaw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:09"
+  },
+  {
+    "business_name": "Feel Like Home",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Holiday home, Hotel, Lodge, Home Stay, Service Apartment",
+    "pincode": "523186",
+    "phone_number": "+91 88974 67074",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 798,
+    "address": "shirdi nilayam, D. No 15-1-34/1, Nowroji Rd, near oota gedda, Daspalla Hills, Maharani Peta, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Daspalla Hills, Maharani Peta",
+    "latitude": 17.7139421,
+    "longitude": 83.31558,
+    "place_id": "ChIJqXmLvu9DOToRzneIrn-SN3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXmLvu9DOToRzneIrn-SN3A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:10"
+  }
+]

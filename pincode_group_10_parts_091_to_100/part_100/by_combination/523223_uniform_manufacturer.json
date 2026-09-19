@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Factory",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523223",
+    "phone_number": "+91 63001 05650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "YSR Rd, Kothapeta, Kanigiri, Andhra Pradesh 523230",
+    "area": "Kothapeta",
+    "latitude": 15.4037282,
+    "longitude": 79.50648,
+    "place_id": "ChIJEcVor9cvSzoRz0dYUfp3zEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcVor9cvSzoRz0dYUfp3zEk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:19:07"
+  },
+  {
+    "business_name": "CustumClothing",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "523223",
+    "phone_number": "+91 93472 74541",
+    "website": "https://www.custumclothing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12-86,Rahamat Nagar 1st Line, Dgpeta road, Chandrasekharapuram, Chandrashekharapuram, Andhra Pradesh 523112",
+    "area": "Chandrasekharapuram",
+    "latitude": 15.184379,
+    "longitude": 79.2757546,
+    "place_id": "ChIJjcosw3XJtDsRMj0dKb7MPR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcosw3XJtDsRMj0dKb7MPR0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:19:07"
+  }
+]

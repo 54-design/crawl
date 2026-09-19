@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pacific HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Business management consultant, Service establishment",
+    "pincode": "523181",
+    "phone_number": "N/A",
+    "website": "https://www.pacifichr.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pacific HR, 523181, India",
+    "area": "523181",
+    "latitude": 45.497263,
+    "longitude": -120.65611799999999,
+    "place_id": "ChIJE8VYw_YxhmcR1WoaS97p1_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8VYw_YxhmcR1WoaS97p1_g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:56:18"
+  },
+  {
+    "business_name": "HR Inc Consultants",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Consultant, Employment center, Service establishment, Resume service, Unemployment office",
+    "pincode": "523181",
+    "phone_number": "+91 96000 62138",
+    "website": "https://www.hrincconsultants.com/index.php",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HR Inc Consultants, 523181, India",
+    "area": "523181",
+    "latitude": 13.043795,
+    "longitude": 80.2339071,
+    "place_id": "ChIJUSQOeMtlUjoRPYLArA-HXE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSQOeMtlUjoRPYLArA-HXE0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:56:18"
+  }
+]

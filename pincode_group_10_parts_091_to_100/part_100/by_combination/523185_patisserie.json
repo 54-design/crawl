@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cake Nation",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Confectionery store",
+    "pincode": "523185",
+    "phone_number": "+91 98853 97897",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Akkayyapalem Main Rd, beside Venugopala swaami temple, opp. Bank of Baroda, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Akkayyapalem",
+    "latitude": 17.737513,
+    "longitude": 83.2998794,
+    "place_id": "ChIJIWRpDwJDOToR9CwQodJxpLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWRpDwJDOToR9CwQodJxpLU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:23"
+  },
+  {
+    "business_name": "FoodEx",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant, Patisserie, Pizza restaurant",
+    "pincode": "523185",
+    "phone_number": "+91 89127 02552",
+    "website": "https://foodexvizag.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Block A, P8C9+R85 Vuda Complex, Chinna Waltair Main Rd, behind HSBC, Siripuram, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "Siripuram",
+    "latitude": 17.7219674,
+    "longitude": 83.31839509999999,
+    "place_id": "ChIJVb3_37FpOToRu_H5e3ASlk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVb3_37FpOToRu_H5e3ASlk0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:23"
+  }
+]

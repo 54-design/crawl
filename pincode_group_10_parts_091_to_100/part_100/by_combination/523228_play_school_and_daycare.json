@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plaksha Kids world School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Kindergarten School",
+    "all_categories": "Kindergarten School",
+    "pincode": "523228",
+    "phone_number": "+91 83744 75484",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dno :20 - 130, opposite to Nirmal talkies, Havanapet, Venkannapet, Shakthi Gudi, Adoni, Andhra Pradesh 518301",
+    "area": "Havanapet, Venkannapet, Shakthi Gudi",
+    "latitude": 15.622626799999999,
+    "longitude": 77.27663869999999,
+    "place_id": "ChIJ4_GmDHRNtjsRlXseAOxwEMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_GmDHRNtjsRlXseAOxwEMM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:19"
+  },
+  {
+    "business_name": "Little Pebbles International Preschool - Paramount Hills",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "523228",
+    "phone_number": "+91 89089 04020",
+    "website": "https://www.littlepebbles.net/little-pebbles-paramount.html",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "Gate No. 1, 8-1-398/PM/73, Paramount Hills, IAS Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "Paramount Hills, IAS Colony, Toli Chowki",
+    "latitude": 17.4052818,
+    "longitude": 78.4131037,
+    "place_id": "ChIJ_YS7cBiXyzsRFqYrZSu2-a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YS7cBiXyzsRFqYrZSu2-a8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:20"
+  }
+]

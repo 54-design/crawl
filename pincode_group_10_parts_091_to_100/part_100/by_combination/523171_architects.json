@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Antlon Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architecture firm, Interior designer",
+    "pincode": "523171",
+    "phone_number": "+91 95155 45566",
+    "website": "https://www.antlon.com/architects",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "86-4-24, Manthena Gardens Rd No 2, Gandhipuram, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Gandhipuram",
+    "latitude": 17.005502099999998,
+    "longitude": 81.79680789999999,
+    "place_id": "ChIJ4_-2CMlZzS8RWtWnPL4vBmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_-2CMlZzS8RWtWnPL4vBmw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:51:58"
+  },
+  {
+    "business_name": "MODS Design Studio",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architectural designer, Architecture firm, Interior construction contractor, Interior Decorator, Interior designer, Modular home builder, Vastu consultant",
+    "pincode": "523171",
+    "phone_number": "+91 93986 64739",
+    "website": "https://modsconsultancy.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Door number: 76, 5-7, Siva Ganuga St, beside Sudha Scanning, Danavai Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Danavai Peta",
+    "latitude": 17.00542,
+    "longitude": 81.78466209999999,
+    "place_id": "ChIJ4facxAmjNzoRHl7a1iqMqWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4facxAmjNzoRHl7a1iqMqWA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:51:58"
+  }
+]

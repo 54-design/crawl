@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIDDU. HOSPITAL",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "523224",
+    "phone_number": "+91 77290 02795",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-1, Panduva Nagula Varam, Andhra Pradesh 523224",
+    "area": "523224",
+    "latitude": 15.3827001,
+    "longitude": 79.2686702,
+    "place_id": "ChIJU4Ahvq_RtDsRdsGgAHlkRWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4Ahvq_RtDsRdsGgAHlkRWw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:21:09"
+  },
+  {
+    "business_name": "Rallapalli",
+    "search_category": "Doctors",
+    "primary_category": "Physician referral service",
+    "all_categories": "Physician referral service",
+    "pincode": "523224",
+    "phone_number": "+91 99486 44906",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gunteyyaswamy Temple Road, Rallapalle, Pulikuntla Ralla Palle, Andhra Pradesh 523224",
+    "area": "Rallapalle",
+    "latitude": 15.3407498,
+    "longitude": 79.2407094,
+    "place_id": "ChIJtyuoKtjRtDsRFnvwDMOJwjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyuoKtjRtDsRFnvwDMOJwjg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:21:11"
+  }
+]

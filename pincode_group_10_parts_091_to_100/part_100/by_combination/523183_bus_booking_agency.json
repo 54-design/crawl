@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK BUS TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523183",
+    "phone_number": "+91 96038 27821",
+    "website": "http://skbustravels.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "H.No:9-1872, Sankavaram, Kanigiri, Sankhavaram, Andhra Pradesh 523254",
+    "area": "Sankavaram",
+    "latitude": 15.3963649,
+    "longitude": 79.51889109999999,
+    "place_id": "ChIJ____DwEvSzoRfpr484BVWhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____DwEvSzoRfpr484BVWhc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:59:17"
+  },
+  {
+    "business_name": "Ramana Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523183",
+    "phone_number": "+91 99599 18027",
+    "website": "http://www.ramanatravels.com/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Main Rd, opp. to Axis Bank, Amalapuram, Andhra Pradesh 533201",
+    "area": "523183",
+    "latitude": 16.581641599999998,
+    "longitude": 81.99669109999999,
+    "place_id": "ChIJUSsRB4PvNzoRUegNdLl2PpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSsRB4PvNzoRUegNdLl2PpQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:59:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sreehaan Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Catering food and drink supplier, Caterer, Event management company, Restaurant supply store, Event venue, Mobile caterer",
+    "pincode": "523201",
+    "phone_number": "+91 94406 25253",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "19-12-155, Arch Road, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Bairagi patteda",
+    "latitude": 13.6196226,
+    "longitude": 79.4199158,
+    "place_id": "ChIJKYsJ7PNLTToR--8hF2jBq5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYsJ7PNLTToR--8hF2jBq5s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:39"
+  },
+  {
+    "business_name": "vivah events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "523201",
+    "phone_number": "+91 98660 30389",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Myreddy building, R -1, near goutham school, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.7596707,
+    "longitude": 78.5509624,
+    "place_id": "ChIJO_JmE6d4tDsRwPgmLttm-nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_JmE6d4tDsRwPgmLttm-nA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:41"
+  }
+]

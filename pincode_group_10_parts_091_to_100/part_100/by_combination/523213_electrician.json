@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WORKERSAPP",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "523213",
+    "phone_number": "+91 75949 16251",
+    "website": "https://workersapp.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Giri Nagar, Kadavanthra, Kochi, Ernakulam, Keralam 682020",
+    "area": "Giri Nagar, Kadavanthra",
+    "latitude": 9.9541744,
+    "longitude": 76.3023978,
+    "place_id": "ChIJwTgppKFzCDsRyUKGc0P4cH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTgppKFzCDsRyUKGc0P4cH8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:57"
+  },
+  {
+    "business_name": "S J Home Electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "523213",
+    "phone_number": "+91 90596 92229",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "27-777/A, Palamaner Rd, opp. MRF Tyres, Vaddipalli, Chittoor, Andhra Pradesh 517002",
+    "area": "Vaddipalli",
+    "latitude": 13.2079306,
+    "longitude": 79.0903297,
+    "place_id": "ChIJm8B-TWRdrTsRHOc3Zbc0PEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8B-TWRdrTsRHOc3Zbc0PEI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "523183",
+    "phone_number": "+91 94687 22433",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Gullapalli grouth center, Burepalle, Ongole, Gundlapalli, Andhra Pradesh 523212",
+    "area": "Burepalle",
+    "latitude": 15.683523399999999,
+    "longitude": 80.0181379,
+    "place_id": "ChIJaTnXvqX5SjoRAqdjMSLiqfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTnXvqX5SjoRAqdjMSLiqfY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:58:46"
+  },
+  {
+    "business_name": "Pahadi Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 595,
+    "address": "P2M5+2XW, Medarametla, Bodduvani Palem, Andhra Pradesh 523212",
+    "area": "Medarametla",
+    "latitude": 15.732617399999999,
+    "longitude": 80.0099515,
+    "place_id": "ChIJsWptlfj5SjoRZlf1SvTzbMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWptlfj5SjoRZlf1SvTzbMo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:58:46"
+  }
+]

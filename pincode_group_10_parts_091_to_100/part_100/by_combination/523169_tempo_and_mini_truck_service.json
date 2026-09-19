@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bigtruck - Online Truck Booking, Truck Transporter Services for Pan India",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Truck rental agency",
+    "all_categories": "Truck rental agency, Logistics service, Transportation service, Trucking company, Warehouse",
+    "pincode": "523169",
+    "phone_number": "+91 90199 28737",
+    "website": "https://www.bigtruck.in/",
+    "rating": 4.4,
+    "reviews_count": 49,
+    "address": "1st Floor, Sai Golden Nest, Bus Stand, opposite Basavanagar, Talacauvery Layout, Vibhutipura, Bengaluru, Karnataka 560037",
+    "area": "Talacauvery Layout, Vibhutipura",
+    "latitude": 12.9664182,
+    "longitude": 77.6824738,
+    "place_id": "ChIJUWPEjz8UrjsRjp0TCeVz2hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWPEjz8UrjsRjp0TCeVz2hs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:47:47"
+  },
+  {
+    "business_name": "Tharangini Mini Transport",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "523169",
+    "phone_number": "+91 63097 97477",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Karakambadi Rd, Subbareddy Nagar, Akkarampalle, Tirupati, Andhra Pradesh 517507",
+    "area": "Subbareddy Nagar, Akkarampalle",
+    "latitude": 13.6434676,
+    "longitude": 79.4336465,
+    "place_id": "ChIJ3TQEsGFLTToRv2e2HC7UhAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TQEsGFLTToRv2e2HC7UhAo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:47:48"
+  }
+]

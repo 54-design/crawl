@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane rental agency",
+    "all_categories": "Crane rental agency",
+    "pincode": "523187",
+    "phone_number": "+91 98182 81834",
+    "website": "https://alicraneservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, 487/1, near Petrol Pump, ISBT Sarai Kale Khan, Sarai Kale Khan, New Delhi, Delhi 110013",
+    "area": "ISBT Sarai Kale Khan, Sarai Kale Khan",
+    "latitude": 28.5852477,
+    "longitude": 77.2598467,
+    "place_id": "ChIJZ6rqy-7jDDkRPwLOtRIVwU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6rqy-7jDDkRPwLOtRIVwU8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:40"
+  },
+  {
+    "business_name": "SINGH CRANE SERVICE",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "523187",
+    "phone_number": "+91 98933 47188",
+    "website": "http://singhcrane.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "108, Mahindra Township Phase 1, Extension E-8 Arera Colony, near Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Akashganga Colony, Gulmohar Colony",
+    "latitude": 23.1954292,
+    "longitude": 77.4322701,
+    "place_id": "ChIJK2ggmqVDfDkRm05tBj_PZZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2ggmqVDfDkRm05tBj_PZZc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:06:40"
+  }
+]

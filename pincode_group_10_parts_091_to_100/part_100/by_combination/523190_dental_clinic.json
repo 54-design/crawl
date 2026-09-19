@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Arul's Toothcare Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic surgeon, Hair removal service, Tattoo removal service",
+    "pincode": "523190",
+    "phone_number": "+91 73065 55511",
+    "website": "https://www.instagram.com/dr.aruls_toothcare",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TOOTH care dental, 17/221 , sundarayyar street unionbank first floor, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.215353499999999,
+    "longitude": 79.0984362,
+    "place_id": "ChIJeXhqrlddrTsR577nBurICJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXhqrlddrTsR577nBurICJc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:12"
+  },
+  {
+    "business_name": "Make Me Smile Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Dental hygienist, Dental implants periodontist, Dentist, Emergency dental service, Pediatric dentist",
+    "pincode": "523190",
+    "phone_number": "+91 99873 07369",
+    "website": "https://makemesmile.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 8, Queensland, B-25, Shastri Nagar Lane 2, near Bhaktivedanta Swami Mission School, Shastri Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Shastri Nagar, Andheri West",
+    "latitude": 19.138606199999998,
+    "longitude": 72.82862039999999,
+    "place_id": "ChIJc5GpzsG35zsRC1H0G42XDF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5GpzsG35zsRC1H0G42XDF8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:14"
+  }
+]

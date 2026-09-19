@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Asha kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523225",
+    "phone_number": "+91 99798 79996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "01, opp. K3K multiplex, near Sidha petrol Bunker, Chimakurthy, Andhra Pradesh 523226",
+    "area": "523225",
+    "latitude": 15.5876474,
+    "longitude": 79.8503135,
+    "place_id": "ChIJF8oJ8lPjSjoR2qFHYwzm2xQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8oJ8lPjSjoR2qFHYwzm2xQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:44"
+  },
+  {
+    "business_name": "DAKSHIN MASALA",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "523225",
+    "phone_number": "N/A",
+    "website": "https://dakshinmasala.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "50-75-28/4, Seethammapeta Main Rd, near Satyam Junction, Ganesh Nagar, Seetamma Peta, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Ganesh Nagar, Seetamma Peta, Dwaraka Nagar",
+    "latitude": 17.734274,
+    "longitude": 83.3116866,
+    "place_id": "ChIJ8adMTglDOToRgOnpUTftkCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8adMTglDOToRgOnpUTftkCY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:47"
+  }
+]

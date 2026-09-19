@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arogya Organic & Dry fruits Super Market",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Supermarket",
+    "pincode": "523241",
+    "phone_number": "+91 91606 64532",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Court Center, opp. Hed Post Office, Gandhi Bazar, Markapur, Andhra Pradesh 523316",
+    "area": "Gandhi Bazar",
+    "latitude": 15.735978,
+    "longitude": 79.26928769999999,
+    "place_id": "ChIJCb3apf4xtTsR1aVKaVrshW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCb3apf4xtTsR1aVKaVrshW4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:40"
+  },
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Markapur",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "523241",
+    "phone_number": "+91 97016 01789",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No 6/7-8, Naidu Street, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.7398042,
+    "longitude": 79.2722576,
+    "place_id": "ChIJLRK1d-YxtTsRtjIaqiM6KwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRK1d-YxtTsRtjIaqiM6KwQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:40"
+  }
+]

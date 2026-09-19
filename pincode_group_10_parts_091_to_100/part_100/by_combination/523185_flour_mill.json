@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annai Maavu Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "523185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "6VQF+R8G, Sungu Pettai, Perambalur, Tamil Nadu 621212",
+    "area": "Sungu Pettai",
+    "latitude": 11.2400807,
+    "longitude": 78.8735315,
+    "place_id": "ChIJY5JGU9wbqzsR-nfywoznztU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5JGU9wbqzsR-nfywoznztU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:17"
+  },
+  {
+    "business_name": "Rehoboth Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "523185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8W8C+H6Q, Valikandapuram, Tamil Nadu 621115",
+    "area": "523185",
+    "latitude": 11.316462099999999,
+    "longitude": 78.9206043,
+    "place_id": "ChIJuXsz06kQqzsRSo5jXgf7LP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXsz06kQqzsRSo5jXgf7LP8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:18"
+  }
+]

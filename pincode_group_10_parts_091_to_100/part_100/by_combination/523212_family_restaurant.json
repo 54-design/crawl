@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APARNA GRAND FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 33,
+    "address": "Ongole - Kurnool Main Rd, Kambhalapadu, Andhra Pradesh 523240",
+    "area": "523212",
+    "latitude": 15.5957116,
+    "longitude": 79.5965677,
+    "place_id": "ChIJP_eDcjzZSjoRJoaiVgKpUQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_eDcjzZSjoRJoaiVgKpUQQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:34"
+  },
+  {
+    "business_name": "Galaxy Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "523212",
+    "phone_number": "+91 96423 23243",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 382,
+    "address": "Ongole - Kurnool Main Rd, Chimakurthy, Andhra Pradesh 523226",
+    "area": "523212",
+    "latitude": 15.582028,
+    "longitude": 79.8765706,
+    "place_id": "ChIJs169QDnjSjoRBsCo0NU9kD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs169QDnjSjoRBsCo0NU9kD8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:34"
+  }
+]

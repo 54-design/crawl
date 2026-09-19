@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gen-Z Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "523170",
+    "phone_number": "+91 93929 30087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "opposite Lord Rama temple, Kothapeta, Chirala, Andhra Pradesh 523155",
+    "area": "Kothapeta",
+    "latitude": 15.8183957,
+    "longitude": 80.3654328,
+    "place_id": "ChIJnUM2LHNFSjoRVFgBZFpyJpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUM2LHNFSjoRVFgBZFpyJpE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:49:14"
+  },
+  {
+    "business_name": "Amulya’s Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food & Beverage Exporter",
+    "all_categories": "Food & Beverage Exporter",
+    "pincode": "523170",
+    "phone_number": "+91 63013 07678",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25-1-10/1, SM Rd Line-3, Jayanthi Pet, Perala, Chirala, Andhra Pradesh 523157",
+    "area": "Jayanthi Pet, Perala",
+    "latitude": 15.841259599999999,
+    "longitude": 80.3652559,
+    "place_id": "ChIJwcTvPQBFSjoRRdLejqnpaPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcTvPQBFSjoRRdLejqnpaPE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:49:15"
+  }
+]

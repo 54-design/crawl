@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neravati Multi Speciality Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "523228",
+    "phone_number": "+91 97041 30234",
+    "website": "https://www.neravatimultispecialityhospitals.com/",
+    "rating": 4.5,
+    "reviews_count": 161,
+    "address": "25/685B, Sanjeev Nagar, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.483604499999998,
+    "longitude": 78.4814432,
+    "place_id": "ChIJB1xU6U-ttTsROtlDkvRb25w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1xU6U-ttTsROtlDkvRb25w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:28:41"
+  },
+  {
+    "business_name": "Suraksha Health Park",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523228",
+    "phone_number": "+91 92950 62623",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 883,
+    "address": "38-4-203, Sai Nagar, Marripalem, Visakhapatnam, Andhra Pradesh 530018",
+    "area": "Sai Nagar, Marripalem",
+    "latitude": 17.739614,
+    "longitude": 83.255453,
+    "place_id": "ChIJJ02jKAtDOToRA5VfCDDpdlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ02jKAtDOToRA5VfCDDpdlU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:28:41"
+  }
+]

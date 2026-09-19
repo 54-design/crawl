@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pulipati Brother's House 🏡",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler, Housing complex",
+    "pincode": "523201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, Kukatlapalli, Andhra Pradesh 523303",
+    "area": "523201",
+    "latitude": 15.9636427,
+    "longitude": 79.9306208,
+    "place_id": "ChIJycHuBtWNSjoR0TJouxyQ-jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycHuBtWNSjoR0TJouxyQ-jk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:01"
+  },
+  {
+    "business_name": "Precise cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "523201",
+    "phone_number": "+91 99517 62370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Gokula, Gudari Gunta, Kakinada, Andhra Pradesh 533003",
+    "area": "Gokula, Gudari Gunta",
+    "latitude": 16.9716302,
+    "longitude": 82.2519317,
+    "place_id": "ChIJi1hgsRMpODoR4xbD8C-jJXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1hgsRMpODoR4xbD8C-jJXI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:01"
+  }
+]

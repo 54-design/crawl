@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahmedabad Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Balloon store, Event management company, Event planner, Party planner, Party store",
+    "pincode": "523190",
+    "phone_number": "+91 90990 92833",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rudrax Complex, Bus Stop, Shop No 111 First Floor, IOC Rd, near Chandkheda, Chandkheda, Ahmedabad, Gujarat 382424",
+    "area": "Shantikunj Society, Chandkheda",
+    "latitude": 23.1153852,
+    "longitude": 72.582303,
+    "place_id": "ChIJERxwWKGDXjkR2ZzzzUEgPdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERxwWKGDXjkR2ZzzzUEgPdE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:51"
+  },
+  {
+    "business_name": "Balloon Benders",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Balloon store, Costume store, Disposable tableware supplier, Event management company, Party planner, Party store",
+    "pincode": "523190",
+    "phone_number": "+91 82007 19439",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "29 shop, RUDRA SQUARE APARTMENT, 28, Judges Bunglow Rd, Bodakdev, Ahmedabad, Gujarat 380015",
+    "area": "Bodakdev",
+    "latitude": 23.0367875,
+    "longitude": 72.5157328,
+    "place_id": "ChIJo7C9cLybXjkR0NJDH7Rmuyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7C9cLybXjkR0NJDH7Rmuyg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:08:51"
+  }
+]

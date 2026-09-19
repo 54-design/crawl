@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JOY Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523183",
+    "phone_number": "+91 99490 88280",
+    "website": "http://www.joyhospitals.in/",
+    "rating": 3.7,
+    "reviews_count": 56,
+    "address": "Station road, 1st lane, Cloughpet, Ongole, Andhra Pradesh 523001",
+    "area": "Cloughpet, East Kammapalem",
+    "latitude": 15.500800199999999,
+    "longitude": 80.0532518,
+    "place_id": "ChIJJ5GUSGwBSzoRY4gSkEdJQHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5GUSGwBSzoRY4gSkEdJQHA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:59:02"
+  },
+  {
+    "business_name": "Sivaramireddy Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523183",
+    "phone_number": "+91 85982 38260",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": 53,
+    "address": "Sivaramireddy Hospital, Singarayakonda, Andhra Pradesh 523101",
+    "area": "523183",
+    "latitude": 15.259025699999999,
+    "longitude": 80.0243728,
+    "place_id": "ChIJJakQF-wLSzoRrojmR7l44UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJakQF-wLSzoRrojmR7l44UA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:59:02"
+  }
+]

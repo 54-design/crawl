@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABHIRAM SHOPPING COMPLEX",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523169",
+    "phone_number": "+91 89199999623",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 23,
+    "address": "P7Q9+52F, Ganesh Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Ganesh Nagar",
+    "latitude": 15.737948,
+    "longitude": 79.26753169999999,
+    "place_id": "ChIJL4LPX70xtTsRQCIsVyvHL_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4LPX70xtTsRQCIsVyvHL_U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:48:55"
+  },
+  {
+    "business_name": "Meekosam Bangles And Ladies Corner",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523169",
+    "phone_number": "+91 80197 77178",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "ammavarisala street, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.737980499999999,
+    "longitude": 79.2721048,
+    "place_id": "ChIJDZILP5cxtTsRSfdktvMP8o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZILP5cxtTsRSfdktvMP8o0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:48:55"
+  }
+]

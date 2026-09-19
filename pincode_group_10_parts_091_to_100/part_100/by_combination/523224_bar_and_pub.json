@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Live Your Life : The Music Pub",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub, Bar, Cafe, DJ service, Fine dining restaurant, Lounge bar, Musical club, Restaurant",
+    "pincode": "523224",
+    "phone_number": "+91 93305 16200",
+    "website": "http://www.lylclub.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "2ND FLOOR, Forum Rangoli Mall, 212, Girish Ghosh Rd, Belur Math, Belur, Howrah, West Bengal 711202",
+    "area": "Belur Math, Belur",
+    "latitude": 22.624153,
+    "longitude": 88.35366479999999,
+    "place_id": "ChIJ0XF9bVCd-DkR_hmJxWlcfuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XF9bVCd-DkR_hmJxWlcfuE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:20:56"
+  },
+  {
+    "business_name": "Olypub",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant",
+    "pincode": "523224",
+    "phone_number": "+91 82760 20472",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "21, Park St, Taltala, Kolkata, West Bengal 700016",
+    "area": "Taltala",
+    "latitude": 22.5535933,
+    "longitude": 88.3521809,
+    "place_id": "ChIJaYWnlQ93AjoRPucfS3qzEU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYWnlQ93AjoRPucfS3qzEU0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:20:57"
+  }
+]

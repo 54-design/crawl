@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guruji Car travel",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "523240",
+    "phone_number": "+91 79899 43895",
+    "website": "http://darsicartravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Podili Rd, Gandhi Nagar, Darsi, Andhra Pradesh 523247",
+    "area": "Gandhi Nagar",
+    "latitude": 15.763992,
+    "longitude": 79.676879,
+    "place_id": "ChIJRZAWrrzDSjoRoWE2-v4UPPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZAWrrzDSjoRoWE2-v4UPPI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:31"
+  },
+  {
+    "business_name": "Kerala Cab Rental Cochin",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Travel agency",
+    "pincode": "523240",
+    "phone_number": "+91 75608 97400",
+    "website": "http://www.keralacabrental.com/",
+    "rating": 4.9,
+    "reviews_count": 850,
+    "address": "13/173 Ground Floor , Maliyekal Building , Mattoor Cochin International Airport Junction , Mattor, Kalady, Kochi, Keralam 683574",
+    "area": "Mattoor",
+    "latitude": 10.1718464,
+    "longitude": 76.4272659,
+    "place_id": "ChIJD9TVjLMHCDsRSu8wF2uaAs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9TVjLMHCDsRSu8wF2uaAs8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:34"
+  }
+]

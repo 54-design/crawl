@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankuram Tuition Centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, After school program, Tutoring service, Educational institution, Learning center, Mathematics school",
+    "pincode": "523224",
+    "phone_number": "+91 73966 69430",
+    "website": "https://ankuramtuition.com/",
+    "rating": 4.8,
+    "reviews_count": 517,
+    "address": "Plot 229, Rd Number 72, Prashasan Nagar, Jubilee Hills, Hyderabad, Telangana 500096",
+    "area": "Prashasan Nagar, Jubilee Hills",
+    "latitude": 17.4193614,
+    "longitude": 78.4002112,
+    "place_id": "ChIJM5EHjaOVyzsRe5WmSxrWcA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5EHjaOVyzsRe5WmSxrWcA0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:21:56"
+  },
+  {
+    "business_name": "Satya Tuition",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service",
+    "pincode": "523224",
+    "phone_number": "+91 96660 41531",
+    "website": "http://satyatuition.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "I-99-18, MVP Sector 7, Sector 5, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "MVP Sector 7, Sector 5, MVP Colony",
+    "latitude": 17.7396544,
+    "longitude": 83.3321666,
+    "place_id": "ChIJCThdn4hDOToRl8tCWMo_w8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCThdn4hDOToRl8tCWMo_w8M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:21:57"
+  }
+]

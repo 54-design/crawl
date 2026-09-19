@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "523181",
+    "phone_number": "+91 824 428 8802",
+    "website": "https://www.radhamedicals.in/store/2ApV7WpHtLDHzGQSbqtm",
+    "rating": 3.9,
+    "reviews_count": 444,
+    "address": "Upper Ground Floor, Essel Wilcon, Father Muller's Rd, Bendoorwell, Kankanady, Mangaluru, Karnataka 575002",
+    "area": "Bendoorwell, Kankanady",
+    "latitude": 12.8704764,
+    "longitude": 74.8570697,
+    "place_id": "ChIJsXX98jNaozsR4Bnj2R5R7Ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXX98jNaozsR4Bnj2R5R7Ao",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:55:14"
+  },
+  {
+    "business_name": "Sai Balaji Vaccines",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "523181",
+    "phone_number": "+91 94940 88663",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Busstand, opp. HP petrol Bunk, opp. Ongole, Venkateswara Nagar, Ongole, Andhra Pradesh 523002",
+    "area": "Venkateswara Nagar",
+    "latitude": 15.5131743,
+    "longitude": 80.04115159999999,
+    "place_id": "ChIJ167QnSABSzoRYKWEGtFJze4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ167QnSABSzoRYKWEGtFJze4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:55:14"
+  }
+]

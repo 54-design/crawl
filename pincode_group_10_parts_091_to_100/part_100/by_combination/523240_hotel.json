@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel VR Grand Darsi",
+    "search_category": "Hotel",
+    "primary_category": "Extended stay hotel",
+    "all_categories": "Extended stay hotel",
+    "pincode": "523240",
+    "phone_number": "+91 94903 83444",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 193,
+    "address": "4-565, Podili Rd, Darsi, Andhra Pradesh 523247",
+    "area": "523240",
+    "latitude": 15.7669266,
+    "longitude": 79.6782884,
+    "place_id": "ChIJQ60EQjHDSjoRqOgi5ypcEVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ60EQjHDSjoRqOgi5ypcEVA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:56"
+  },
+  {
+    "business_name": "STR SUITE ROOMS",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Guest house, Lodge, Roommate referral service",
+    "pincode": "523240",
+    "phone_number": "+91 77993 49555",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 56,
+    "address": "1580, Kurichedu Rd, Darsi, Andhra Pradesh 523247",
+    "area": "523240",
+    "latitude": 15.7812696,
+    "longitude": 79.66784849999999,
+    "place_id": "ChIJk0Don47DSjoRH_8w2acidwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0Don47DSjoRH_8w2acidwg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:32:56"
+  }
+]

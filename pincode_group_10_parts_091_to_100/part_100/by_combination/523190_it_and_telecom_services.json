@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL BTS",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider, Telecommunications",
+    "pincode": "523190",
+    "phone_number": "+91 1800 345 1500",
+    "website": "http://www.bsnl.co.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Q3XF+HVW, Parlakhemundi - Kashinagar Rd, Poluru, Odisha 761201",
+    "area": "523190",
+    "latitude": 18.7989866,
+    "longitude": 84.0746932,
+    "place_id": "ChIJowT1zDD3PDoRvn1-we7d5Hg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowT1zDD3PDoRvn1-we7d5Hg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:10"
+  },
+  {
+    "business_name": "BSNL Office",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telephone company",
+    "all_categories": "Telephone company, Telecommunications",
+    "pincode": "523190",
+    "phone_number": "+91 1800 345 1500",
+    "website": "http://www.bsnl.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "X2H9+JXG, Gumma, Odisha 761207",
+    "area": "523190",
+    "latitude": 18.979063999999997,
+    "longitude": 84.0199399,
+    "place_id": "ChIJNZeJ0abuPDoRIvN8MrEW8Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZeJ0abuPDoRIvN8MrEW8Jg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:10"
+  }
+]

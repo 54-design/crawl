@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elegance Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "523211",
+    "phone_number": "+91 73822 64873",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Power Office, Ngo colony, opsite, line, Ongole, Andhra Pradesh 523002",
+    "area": "opsite, line",
+    "latitude": 15.515945799999999,
+    "longitude": 80.0397693,
+    "place_id": "ChIJ0YM6RPEBSzoRwvrKS5JzcJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YM6RPEBSzoRwvrKS5JzcJE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:12:19"
+  },
+  {
+    "business_name": "ANGEL BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "523211",
+    "phone_number": "+91 86889 54216",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sujatha Nagar, 3rd Line, near 2nd police gate, Sujatha Nagar, Ongole, Andhra Pradesh 523002",
+    "area": "Sujatha Nagar",
+    "latitude": 15.5128886,
+    "longitude": 80.03230359999999,
+    "place_id": "ChIJw0IhMGYBSzoRXZA4GcMjOvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0IhMGYBSzoRXZA4GcMjOvg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:12:20"
+  }
+]

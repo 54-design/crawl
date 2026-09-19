@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHANDRA NURSING HOME ADDANKI",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523201",
+    "phone_number": "+91 63041 09911",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Bhavani center, Main Rd, Renangivaram, Addanki, Andhra Pradesh 523201",
+    "area": "Renangivaram, Kotikalapudi",
+    "latitude": 15.8149888,
+    "longitude": 79.9719018,
+    "place_id": "ChIJpVMKIwDxSjoRt6IN4dJuSBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVMKIwDxSjoRt6IN4dJuSBU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:01"
+  },
+  {
+    "business_name": "Kranthi Nursing Home(Phaneendra Babu Hospital)",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "523201",
+    "phone_number": "+91 85932 23060",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 18,
+    "address": "RX7C+GC6 Bhavani center, Government Hospital Rd, Kotikalapudi, Addanki, Andhra Pradesh 523201",
+    "area": "Kotikalapudi",
+    "latitude": 15.8137914,
+    "longitude": 79.9710257,
+    "place_id": "ChIJ_YbVX3HxSjoRuAMNpBMkL8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YbVX3HxSjoRuAMNpBMkL8g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:01"
+  }
+]

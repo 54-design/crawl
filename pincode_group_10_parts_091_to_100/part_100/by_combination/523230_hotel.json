@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehtaab Hotel & Cool Drinks",
+    "search_category": "Hotel",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "523230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "CF7W+WH7, Muslims Funeral Ground, Kanigiri, Andhra Pradesh 523230",
+    "area": "Muslims Funeral Ground",
+    "latitude": 15.414574799999999,
+    "longitude": 79.4968966,
+    "place_id": "ChIJqzSyhs8vSzoRw0dbM_ag16s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzSyhs8vSzoRw0dbM_ag16s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:06"
+  },
+  {
+    "business_name": "SNR hotel",
+    "search_category": "Hotel",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "523230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Garlapeta road, opposite mallikarjun hospital, Kanigiri, Andhra Pradesh 523230",
+    "area": "523230",
+    "latitude": 15.4076401,
+    "longitude": 79.50518679999999,
+    "place_id": "ChIJW_HaQEYvSzoR7qyBXVeFlPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_HaQEYvSzoR7qyBXVeFlPM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:06"
+  }
+]

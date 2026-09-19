@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PALNADU HOSPITALS",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Ambulance service, Emergency room",
+    "pincode": "523212",
+    "phone_number": "+91 91445 66566",
+    "website": "https://www.palnaduhospitals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dama Vari Palem, Addanki, Andhra Pradesh 523201",
+    "area": "Dama Vari Palem",
+    "latitude": 15.8174081,
+    "longitude": 79.97127619999999,
+    "place_id": "ChIJCQBTHN3xSjoRfU9JYnA0YmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQBTHN3xSjoRfU9JYnA0YmI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:45"
+  },
+  {
+    "business_name": "Hospital",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "P2J9+8FJ, Medarametla, Bodduvani Palem, Andhra Pradesh 523212",
+    "area": "Medarametla",
+    "latitude": 15.730827499999998,
+    "longitude": 80.01865269999999,
+    "place_id": "ChIJWUPAwvr5SjoRhqgANyePW50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUPAwvr5SjoRhqgANyePW50",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:46"
+  }
+]

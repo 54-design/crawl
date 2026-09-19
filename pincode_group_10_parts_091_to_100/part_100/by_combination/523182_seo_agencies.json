@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siri Solutions",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Service establishment, Website designer",
+    "pincode": "523182",
+    "phone_number": "+91 72074 07205",
+    "website": "http://sirisolutions.great-site.net/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siri Solutions, 523182, India",
+    "area": "523182",
+    "latitude": 15.508585199999999,
+    "longitude": 80.0213472,
+    "place_id": "ChIJ72zmvytV5mwR_1xJez0zHTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72zmvytV5mwR_1xJez0zHTE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:58:27"
+  },
+  {
+    "business_name": "Digital Webglow",
+    "search_category": "SEO Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "523182",
+    "phone_number": "+91 96182 99343",
+    "website": "https://digitalwebglow.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, D.No: 36-71-181, VIP Road, 14 Line, Lawyer Pet Extension, Ongole, Andhra Pradesh 523002",
+    "area": "14 Line, Lawyer Pet Extension",
+    "latitude": 15.505852099999998,
+    "longitude": 80.0312996,
+    "place_id": "ChIJneuO2HYBSzoRlfgtUROU-fM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneuO2HYBSzoRlfgtUROU-fM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 08:58:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eden Fresh Fruits and Vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "523187",
+    "phone_number": "+91 80 2668 3555",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 784,
+    "address": "7th Main Rd, Mahadeshwara Nagar, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+    "area": "Mahadeshwara Nagar, BTM Layout 2nd Stage, BTM Layout",
+    "latitude": 12.910925599999999,
+    "longitude": 77.606573,
+    "place_id": "ChIJhX4uSh0VrjsRTafSk_nSf7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhX4uSh0VrjsRTafSk_nSf7o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:56"
+  },
+  {
+    "business_name": "AK-Fresh",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market, Fruits & Vegetable Wholesaler",
+    "pincode": "523187",
+    "phone_number": "+91 92461 07547",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 27, Mir Chowk Rd, Mir Alam Mandi, Pathar Gatti, Hyderabad, Telangana 500002",
+    "area": "Mir Alam Mandi, Pathar Gatti",
+    "latitude": 17.36533,
+    "longitude": 78.4784341,
+    "place_id": "ChIJzyntuCaYyzsRACP9j4n0qL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyntuCaYyzsRACP9j4n0qL8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:05:57"
+  }
+]

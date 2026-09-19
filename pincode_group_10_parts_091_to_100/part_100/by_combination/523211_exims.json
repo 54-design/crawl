@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exim Inc",
+    "search_category": "EXIMS",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency",
+    "pincode": "523211",
+    "phone_number": "+91 93277 21593",
+    "website": "http://www.eximinc.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Padmatex compound, B 416 417 Monalisa Business Centre Nr.Old, Manjalpur, Vadodara, Gujarat 390011",
+    "area": "Amarnath Puram Society, Shivam Society, Manjalpur",
+    "latitude": 22.282357899999997,
+    "longitude": 73.19022799999999,
+    "place_id": "ChIJSecJxefFXzkRcdCC-bkhIeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSecJxefFXzkRcdCC-bkhIeI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:07"
+  },
+  {
+    "business_name": "Lime Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "523211",
+    "phone_number": "+91 94292 39653",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 71,
+    "address": "B/h, Crystal Mall, Jyoti Nagar Main Rd, near Masoom School, Sadguru Nagar, Ghanshyam Nagar, Rajkot, Gujarat 360005",
+    "area": "Sadguru Nagar, Ghanshyam Nagar",
+    "latitude": 22.2843736,
+    "longitude": 70.7611613,
+    "place_id": "ChIJzwYdDZHLWTkRLeuVCjekkL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwYdDZHLWTkRLeuVCjekkL8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:13:08"
+  }
+]

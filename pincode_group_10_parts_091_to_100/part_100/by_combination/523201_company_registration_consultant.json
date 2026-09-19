@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.R.O Office",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "523201",
+    "phone_number": "+91 88866 16023",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 5,
+    "address": "34-229, Syndicate Bank Area, NSP Colony, Addanki, Andhra Pradesh 523201",
+    "area": "Syndicate Bank Area, NSP Colony",
+    "latitude": 15.8056497,
+    "longitude": 79.9750189,
+    "place_id": "ChIJncVXfA3xSjoRJCV3RakAWtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncVXfA3xSjoRJCV3RakAWtE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:59"
+  },
+  {
+    "business_name": "MeeSeva Center",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "State government office",
+    "all_categories": "State government office",
+    "pincode": "523201",
+    "phone_number": "+91 96768 24344",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "RX54+HCV, Near Busstand,Thimmayapalem ( L ), Addanki, Andhra Pradesh 523201",
+    "area": "Thimmayapalem",
+    "latitude": 15.808986599999999,
+    "longitude": 79.9560352,
+    "place_id": "ChIJhXcw8ZjxSjoRiSl_ZiMC8h8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXcw8ZjxSjoRiSl_ZiMC8h8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:59"
+  }
+]

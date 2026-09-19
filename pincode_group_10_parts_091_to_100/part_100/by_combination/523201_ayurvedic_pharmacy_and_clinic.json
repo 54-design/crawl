@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramjee aayurveda-Ecopathy Ayur Technologies",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Ayurvedic clinic",
+    "pincode": "523201",
+    "phone_number": "+91 884 235 7788",
+    "website": "http://ecopathy.in/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "W6G9+4FH, D no 2-109/1, bypass, Nadakuduru, Kakinada, Andhra Pradesh 533016",
+    "area": "523201",
+    "latitude": 16.9253125,
+    "longitude": 82.2186875,
+    "place_id": "ChIJzbuLuLonODoRyqW10Hw5rmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbuLuLonODoRyqW10Hw5rmY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:09:59"
+  },
+  {
+    "business_name": "Madhava Homeo and Ayurvedic Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "523201",
+    "phone_number": "+91 85722 33145",
+    "website": "https://kushalhunt.github.io/madhava-medicals/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ponniamman Koil St, Mittoor, Chittoor, Andhra Pradesh 517001",
+    "area": "Mittoor",
+    "latitude": 13.215905,
+    "longitude": 79.09891999999999,
+    "place_id": "ChIJ-2zftgJcrTsR9SvwaWJMpHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2zftgJcrTsR9SvwaWJMpHs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:01"
+  }
+]

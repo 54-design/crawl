@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakthi Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Supermarket",
+    "pincode": "523185",
+    "phone_number": "+91 91508 53866",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 950,
+    "address": "1st Ave, R.V. Nagar, VOC Nagar, Annanagar East, Chennai, Tamil Nadu 600102",
+    "area": "R.V. Nagar, VOC Nagar, Annanagar East",
+    "latitude": 13.088581999999999,
+    "longitude": 80.2236164,
+    "place_id": "ChIJSxl3AS9kUjoRaLj5FVR5JO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxl3AS9kUjoRaLj5FVR5JO4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:16"
+  },
+  {
+    "business_name": "A.R.Super Shoppe",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "523185",
+    "phone_number": "+91 877 223 4262",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Hare Rama, Hare Krishna Rd, Srinivasa Nagar, Vinayaka Nagar Haari, Tirupati, Andhra Pradesh 517507",
+    "area": "Srinivasa Nagar, Vinayaka Nagar Haari",
+    "latitude": 13.6476508,
+    "longitude": 79.41639579999999,
+    "place_id": "ChIJUzSsS_tKTToRVYbCqPened8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzSsS_tKTToRVYbCqPened8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:02:17"
+  }
+]

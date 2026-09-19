@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Chartered Accountant",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "523201",
+    "phone_number": "+91 95023 44344",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "RX5F+2H6, R&B Bungalow Rd, State Bank Colony, Addanki, Andhra Pradesh 523201",
+    "area": "State Bank Colony",
+    "latitude": 15.807534899999999,
+    "longitude": 79.9738842,
+    "place_id": "ChIJ4ZV9phLxSjoRM2DHucGGrTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZV9phLxSjoRM2DHucGGrTc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:55"
+  },
+  {
+    "business_name": "GOPI JADAPALLI & ASSOCIATES",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "523201",
+    "phone_number": "+91 97009 65552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 70,
+    "address": "D.No.19, South Post Office, 12-13, Besides, near Bairagipatteda, Arch, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Arch, Bairagi patteda",
+    "latitude": 13.6201786,
+    "longitude": 79.4185723,
+    "place_id": "ChIJt1EauTFLTToRn_qGQI1o3-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1EauTFLTToRn_qGQI1o3-Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:55"
+  }
+]

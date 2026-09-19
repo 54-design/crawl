@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legal Kamkaj",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Service establishment",
+    "pincode": "523201",
+    "phone_number": "N/A",
+    "website": "https://legalkamkaj.com/",
+    "rating": 5,
+    "reviews_count": 80,
+    "address": "Legal Kamkaj, 523201, India",
+    "area": "523201",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJV2zZ_iRjJmkRgRp41d_KSGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2zZ_iRjJmkRgRp41d_KSGk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:02"
+  },
+  {
+    "business_name": "Sarvagna Law Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Bankruptcy attorney, Civil law attorney, Criminal justice attorney, Family law attorney, Legal services",
+    "pincode": "523201",
+    "phone_number": "N/A",
+    "website": "http://www.sarvagnalaw.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "25/289, 2nd line, Sanjeev Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Sanjeev Nagar",
+    "latitude": 15.486122,
+    "longitude": 78.4787173,
+    "place_id": "ChIJjd_JXFGttTsR55CnypBT3es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjd_JXFGttTsR55CnypBT3es",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Manikanta Juice Adda",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "523241",
+    "phone_number": "+91 98855 19343",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 44,
+    "address": "House, 12, Plot No 12, opp. to Tazza Kitchen, beside Telugu Aromas, Krishna Giri Enclave, Tarnaka, Hyderabad, Secunderabad, Telangana 500017",
+    "area": "Krishna Giri Enclave, Tarnaka",
+    "latitude": 17.4284261,
+    "longitude": 78.5331157,
+    "place_id": "ChIJu2ABumOZyzsRlo4xolT3KZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2ABumOZyzsRlo4xolT3KZE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:48"
+  },
+  {
+    "business_name": "THICKSHAKES TOPIA",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Ice cream shop",
+    "pincode": "523241",
+    "phone_number": "+91 99122 13444",
+    "website": "https://www.facebook.com/Thickshakestopia/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "23-43/1,Below vision vocational Jr collage,highway road,, Ashok nagar,BHEL., beside triveni school, Hyderabad, Telangana 502032",
+    "area": "Ashok Nagar, Bharat Heavy Electricals Limited",
+    "latitude": 17.5050872,
+    "longitude": 78.30793179999999,
+    "place_id": "ChIJJyobg6aSyzsRH6q_DPigmcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyobg6aSyzsRH6q_DPigmcI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:33:49"
+  }
+]

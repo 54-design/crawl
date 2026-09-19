@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud Kitchen 🍜",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "523223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3-7-455/59, BallReddy Nagar, LB Nagar, Mansoorabad, Hyderabad, Telangana 500068",
+    "area": "BallReddy Nagar, LB Nagar",
+    "latitude": 17.3513771,
+    "longitude": 78.5688285,
+    "place_id": "ChIJ41DRsP6fyzsRloxWfBoG6oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41DRsP6fyzsRloxWfBoG6oE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:19:00"
+  },
+  {
+    "business_name": "The cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523223",
+    "phone_number": "+91 91005 22323",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road No. 6, Vijaya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vijaya Nagar Colony, Kukatpally",
+    "latitude": 17.500097399999998,
+    "longitude": 78.4112348,
+    "place_id": "ChIJNbgiCGCRyzsR4kPGpyO9uWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbgiCGCRyzsR4kPGpyO9uWk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:19:00"
+  }
+]

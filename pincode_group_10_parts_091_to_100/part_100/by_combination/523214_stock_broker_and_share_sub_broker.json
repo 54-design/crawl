@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay Financial Services",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance agency, Insurance broker, Investment service, Financial planner",
+    "pincode": "523214",
+    "phone_number": "+91 94997 56942",
+    "website": "https://shivayfinancial.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5th, Shyam, Raiya Rd, near Ambika Park Society, Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar, Rajkot, Gujarat 360007",
+    "area": "Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar",
+    "latitude": 22.299723399999998,
+    "longitude": 70.7771116,
+    "place_id": "ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:18:23"
+  },
+  {
+    "business_name": "PehlaSubbroker",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial advisor",
+    "all_categories": "Financial advisor, Service establishment",
+    "pincode": "523214",
+    "phone_number": "+91 97739 84066",
+    "website": "https://www.pehlasubbroker.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PehlaSubbroker, 523214, India",
+    "area": "523214",
+    "latitude": 28.577679399999997,
+    "longitude": 77.3149005,
+    "place_id": "ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:18:25"
+  }
+]

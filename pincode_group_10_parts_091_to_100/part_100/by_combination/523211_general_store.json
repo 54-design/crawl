@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya fancy and General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523211",
+    "phone_number": "+91 80748 42592",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ambedkar Nagar,main road.1-41, Rudravaram, Andhra Pradesh 523211",
+    "area": "523211",
+    "latitude": 15.6068457,
+    "longitude": 79.9634246,
+    "place_id": "ChIJF9c4d9v9SjoRCgFoz8JyOZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9c4d9v9SjoRCgFoz8JyOZ8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:28"
+  },
+  {
+    "business_name": "JESSIKA MULTI SERVICES",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523211",
+    "phone_number": "+91 99595 73014",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "121-12, main road, Brundavan Nagar, Pandaripuram, Ongole, Andhra Pradesh 523001",
+    "area": "Brundavan Nagar, Pandaripuram",
+    "latitude": 15.5121484,
+    "longitude": 80.04021089999999,
+    "place_id": "ChIJXaFpFNEBSzoR4UAAAQjOOEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaFpFNEBSzoR4UAAAQjOOEA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:11:30"
+  }
+]

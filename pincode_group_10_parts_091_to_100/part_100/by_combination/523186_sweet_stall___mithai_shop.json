@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swathi Foods And Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "523186",
+    "phone_number": "+91 94948 17020",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1-2-54/11, 6 St, Advocates Colony, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Advocates Colony, Himayatnagar",
+    "latitude": 17.4046281,
+    "longitude": 78.4847336,
+    "place_id": "ChIJgQGKpeuZyzsR24PvCbLdIKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQGKpeuZyzsR24PvCbLdIKg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:04:14"
+  },
+  {
+    "business_name": "G Pulla Reddy Sweets - Begumpet",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Sweet shop",
+    "pincode": "523186",
+    "phone_number": "+91 97041 30708",
+    "website": "https://gpullareddysweets.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "BLOCK-B, Greenlands Rd, Punjagutta Officers Colony, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Punjagutta Officers Colony, Begumpet",
+    "latitude": 17.4306707,
+    "longitude": 78.4557751,
+    "place_id": "ChIJWWpuB32XyzsRaQ2oeo9dl7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWpuB32XyzsRaQ2oeo9dl7M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:04:15"
+  }
+]

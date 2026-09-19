@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paradise Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Soup kitchen",
+    "pincode": "523225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 128,
+    "address": "HVQ2+2C7, Ongole - Kurnool Main Rd, Chimakurthy, Andhra Pradesh 523226",
+    "area": "523225",
+    "latitude": 15.587533899999999,
+    "longitude": 79.851057,
+    "place_id": "ChIJPQJHf6TjSjoRJAYD_D2fJ08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQJHf6TjSjoRJAYD_D2fJ08",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:42"
+  },
+  {
+    "business_name": "Ismail Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "523225",
+    "phone_number": "+91 85000 83434",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 160,
+    "address": "HVP5+RVW, opp. BSNL Office, Chimakurthy, Andhra Pradesh 523226",
+    "area": "523225",
+    "latitude": 15.5870482,
+    "longitude": 79.8596599,
+    "place_id": "ChIJabjas0zjSjoROJ60G9rGLio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabjas0zjSjoROJ60G9rGLio",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:22:42"
+  }
+]

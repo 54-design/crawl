@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zing Zing App",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523230",
+    "phone_number": "N/A",
+    "website": "https://www.zingzing.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gunuputi Vari St, Kota, Kanigiri, Andhra Pradesh 523230",
+    "area": "523230",
+    "latitude": 15.4051166,
+    "longitude": 79.5059303,
+    "place_id": "ChIJ_coRxUAvSzoR22iWZla8PiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_coRxUAvSzoR22iWZla8PiE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:48"
+  },
+  {
+    "business_name": "yeruva Lakshmi Narayana Reddy",
+    "search_category": "Commercial Complex",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "523230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8HW9+WFX, Kottayeruvaripalle, Hazis Puram, Andhra Pradesh 523254",
+    "area": "Kottayeruvaripalle",
+    "latitude": 15.3473527,
+    "longitude": 79.568748,
+    "place_id": "ChIJpSnGxmM7SzoRHcJA6fdIRZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSnGxmM7SzoRHcJA6fdIRZc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:31:51"
+  }
+]

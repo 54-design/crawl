@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment",
+    "pincode": "523228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Insurance, 523228, India",
+    "area": "523228",
+    "latitude": 24.571727499999998,
+    "longitude": 73.7056637,
+    "place_id": "ChIJDVS3RZLlZzkRHWI-g5nyA1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVS3RZLlZzkRHWI-g5nyA1s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:31"
+  },
+  {
+    "business_name": "CONCORDE FINANCIALS",
+    "search_category": "Insurance Agent",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "523228",
+    "phone_number": "+91 98771 59791",
+    "website": "http://concordefinancials.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "MOTIAZ ROYAL BUSINESS PARK, 12 A GF, Zirakpur, Gazipur, Punjab 140603",
+    "area": "523228",
+    "latitude": 30.6328155,
+    "longitude": 76.82470359999999,
+    "place_id": "ChIJ191VeZTrDzkRXCKsE6KdrBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ191VeZTrDzkRXCKsE6KdrBc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:29:31"
+  }
+]

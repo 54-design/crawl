@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraksha Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "523213",
+    "phone_number": "+91 96424 24213",
+    "website": "https://surakshahospital.base44.app/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "New Prakasham Bazar, Bottu Guda, Nalgonda, Telangana 508001",
+    "area": "New Prakasham Bazar, Bottu Guda",
+    "latitude": 17.0543627,
+    "longitude": 79.26872379999999,
+    "place_id": "ChIJ5-wsO3UpyzsReD00LjoagJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-wsO3UpyzsReD00LjoagJ0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:33"
+  },
+  {
+    "business_name": "OMNI Hospitals | Best Multispeciality Hospital in Kurnool",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523213",
+    "phone_number": "+91 85182 77188",
+    "website": "https://omnihospitals.in/kurnool/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "46/679-C, NH40, Budhawara Peta, Alluri Sitarama Raju Nagar, Kurnool, Andhra Pradesh 518002",
+    "area": "Budhawara Peta, Alluri Sitarama Raju Nagar",
+    "latitude": 15.8235616,
+    "longitude": 78.0415378,
+    "place_id": "ChIJ7yAUOfXdtTsR2Px-qRxSUVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yAUOfXdtTsR2Px-qRxSUVc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:15:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aniq Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Beauty Parlour, Hair salon, Spa",
+    "pincode": "523201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7-16-42 NH5 Road, Old Gajuwaka, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Old Gajuwaka, Chaitanya Nagar, Gajuwaka",
+    "latitude": 17.6856072,
+    "longitude": 83.2034738,
+    "place_id": "ChIJk1CUVzlpOToRoffcRDpDLwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1CUVzlpOToRoffcRDpDLwo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:31"
+  },
+  {
+    "business_name": "Trendz Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "523201",
+    "phone_number": "+91 96666 38385",
+    "website": "http://www.kamyaswellnesspa.com/",
+    "rating": 5,
+    "reviews_count": 63,
+    "address": "MVR complex op, bus stand, Ambedkar Nagar, Kadakatla, Andhra Pradesh 534101",
+    "area": "Ambedkar Nagar",
+    "latitude": 16.8176329,
+    "longitude": 81.5224233,
+    "place_id": "ChIJu8nZRLG1NzoRACLZDHmBCmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8nZRLG1NzoRACLZDHmBCmw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:10:34"
+  }
+]
