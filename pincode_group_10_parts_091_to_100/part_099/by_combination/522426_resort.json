@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haritha Resorts Vijay Vihar entrance",
+    "search_category": "Resort",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "522426",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "J76X+R3X, Hill Colony, Nagarjuna Sagar, Nandikonda, Telangana 508202",
+    "area": "Hill Colony",
+    "latitude": 16.6121207,
+    "longitude": 79.2977409,
+    "place_id": "ChIJL7wVfFe1yjsRlVHxiKG9Gv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7wVfFe1yjsRlVHxiKG9Gv8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:05:21"
+  },
+  {
+    "business_name": "Srinivasa residency",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522426",
+    "phone_number": "+91 97039 77507",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hill Colony, Nagarjuna Sagar, Nandikonda, Telangana 508202",
+    "area": "Hill Colony",
+    "latitude": 16.6033822,
+    "longitude": 79.30391,
+    "place_id": "ChIJ82dENFe1yjsRzxKaevCqBWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82dENFe1yjsRzxKaevCqBWw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:05:21"
+  }
+]

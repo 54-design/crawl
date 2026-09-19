@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jio Point",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "522615",
+    "phone_number": "N/A",
+    "website": "http://www.jio.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Sy No 4569/D 1-225/1 Bank Street Dist, Nekarikallu, Andhra Pradesh 522615",
+    "area": "522615",
+    "latitude": 16.3713294,
+    "longitude": 79.9430455,
+    "place_id": "ChIJ4RRy9rx9NToRUUGbpG_bayo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RRy9rx9NToRUUGbpG_bayo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:43:27"
+  },
+  {
+    "business_name": "VR MOBILES",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "522615",
+    "phone_number": "+91 97013 90113",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nekarikallu, Andhra Pradesh 522615",
+    "area": "522615",
+    "latitude": 16.3705683,
+    "longitude": 79.94278709999999,
+    "place_id": "ChIJQWzJapZ8NToRwtKdTcP0wyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWzJapZ8NToRwtKdTcP0wyE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:43:27"
+  }
+]

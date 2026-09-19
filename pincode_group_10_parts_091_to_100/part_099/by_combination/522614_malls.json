@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "venkatesh Fancy",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522614",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CPHF+384, Main road, Karempudi, Andhra Pradesh 522614",
+    "area": "522614",
+    "latitude": 16.4276473,
+    "longitude": 79.7233193,
+    "place_id": "ChIJZSRFcYhdNToRJwiWmORsd_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSRFcYhdNToRJwiWmORsd_c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:41:57"
+  },
+  {
+    "business_name": "Aditya Viharika Fashions",
+    "search_category": "Malls",
+    "primary_category": "Clothes market",
+    "all_categories": "Clothes market",
+    "pincode": "522614",
+    "phone_number": "+91 83285 45397",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "beside Gurazala - Karempudi Road, Karempudi, Andhra Pradesh 522614",
+    "area": "522614",
+    "latitude": 16.4287589,
+    "longitude": 79.7215377,
+    "place_id": "ChIJNcU89W9dNToR-hlSD0QQ3rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcU89W9dNToR-hlSD0QQ3rY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:41:57"
+  }
+]

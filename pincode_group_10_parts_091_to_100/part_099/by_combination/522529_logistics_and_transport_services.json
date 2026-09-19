@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522529",
+    "phone_number": "+91 80195 40175",
+    "website": "http://www.navata.com/",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "D.NO.10-18, OLD POST OFFICE ROAD, GUNTUR, Prathipadu, Andhra Pradesh 522019",
+    "area": "GUNTUR",
+    "latitude": 16.1821347,
+    "longitude": 80.3349132,
+    "place_id": "ChIJo8Ozsw9xSjoRv7vFpnpAfeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8Ozsw9xSjoRv7vFpnpAfeg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:38"
+  },
+  {
+    "business_name": "Guntur Container Terminal",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Container terminal",
+    "all_categories": "Container terminal",
+    "pincode": "522529",
+    "phone_number": "+91 44 6199 2100",
+    "website": "http://www.gunturcontainerterminal.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "57RC+FRM, Boyapalem, Marripalem, Edlapadu, Andhra Pradesh 522233",
+    "area": "Boyapalem",
+    "latitude": 16.191211799999998,
+    "longitude": 80.27203659999999,
+    "place_id": "ChIJ6_Hmg3R6SjoR6zt5fXMfDAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_Hmg3R6SjoR6zt5fXMfDAM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:38"
+  }
+]

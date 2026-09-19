@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kasturi Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "523113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H No 2-150, Chinnapavani Village, Lingasamudram Mandal, Prakasam, Chinapavani, Andhra Pradesh 523115",
+    "area": "Chinnapavani Village, Lingasamudram Mandal",
+    "latitude": 15.0269251,
+    "longitude": 79.821423,
+    "place_id": "ChIJg8WgQABpSzoR-o3esjrOaQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8WgQABpSzoR-o3esjrOaQ0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:28:04"
+  },
+  {
+    "business_name": "Shaik Sulthan Basha Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "523113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2WWX+M6F, Potluru, Andhra Pradesh 523281",
+    "area": "523113",
+    "latitude": 15.046714399999999,
+    "longitude": 79.94670409999999,
+    "place_id": "ChIJv9fZRABxSzoRXXlikJnSP1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9fZRABxSzoRXXlikJnSP1A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:28:04"
+  }
+]

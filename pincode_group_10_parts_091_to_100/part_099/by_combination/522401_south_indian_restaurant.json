@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Ravindra",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "522401",
+    "phone_number": "+91 93932 53919",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "NRT road, Perecherla, Dokiparru, Andhra Pradesh 522005",
+    "area": "522401",
+    "latitude": 16.3160568,
+    "longitude": 80.329634,
+    "place_id": "ChIJPxVP_daJNToRoI-75_aRJN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxVP_daJNToRoI-75_aRJN8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:42:24"
+  },
+  {
+    "business_name": "Mama's family food court",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "522401",
+    "phone_number": "+91 75697 59046",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 191,
+    "address": "Hyderabad - Guntur Rd, Perecherla, Andhra Pradesh 522438",
+    "area": "522401",
+    "latitude": 16.3320342,
+    "longitude": 80.3307695,
+    "place_id": "ChIJbZ9z266JNToRm4gJ41h9Lzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZ9z266JNToRm4gJ41h9Lzg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:42:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Liberty Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "522502",
+    "phone_number": "+91 93904 03637",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "CHJ8+CH7, masjid St, Near Maseed, Maseed Veedhi, Baptist Pet, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Near Maseed, Maseed Veedhi, Baptist Pet",
+    "latitude": 16.4310293,
+    "longitude": 80.56642169999999,
+    "place_id": "ChIJWQJThzjxNToRha8GHx2Yq6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQJThzjxNToRha8GHx2Yq6c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:44"
+  },
+  {
+    "business_name": "trendwalk",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "522502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flat-F2, srusties paradise appartment, Mangalagiri, Atmakur, Andhra Pradesh 522503",
+    "area": "522502",
+    "latitude": 16.4345712,
+    "longitude": 80.5662454,
+    "place_id": "ChIJ14LQ-8jxNToR4ymUZM34eCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14LQ-8jxNToR4ymUZM34eCU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:44"
+  }
+]

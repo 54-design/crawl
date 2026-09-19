@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaaman food court",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522601",
+    "phone_number": "+91 77992 74193",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 51,
+    "address": "62XG+4GQ, Reddy Nagar, Ravipadu, Andhra Pradesh 522601",
+    "area": "Reddy Nagar",
+    "latitude": 16.247859599999998,
+    "longitude": 80.0264175,
+    "place_id": "ChIJa8RpcgCBSjoRCYkryTxDpnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8RpcgCBSjoRCYkryTxDpnw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:51"
+  },
+  {
+    "business_name": "Chandu Fastfood Center ( Sri Maha Lakshmi Fastfood Center)",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522601",
+    "phone_number": "+91 83744 33998",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "63Q2+3JW, Burmpet Road, Rajakawada, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Rajakawada, Barampet",
+    "latitude": 16.2377379,
+    "longitude": 80.05158229999999,
+    "place_id": "ChIJ-2nGpB2BSjoR4AOL3BBX9Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2nGpB2BSjoR4AOL3BBX9Bw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:52"
+  }
+]

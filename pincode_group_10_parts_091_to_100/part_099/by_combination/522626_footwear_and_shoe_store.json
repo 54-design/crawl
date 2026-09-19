@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doc & Mark - Lulu Mall , Kochi",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Leather goods store",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "http://www.docandmark.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "50/2392, F6&7, 1st Floor, Lulu International Shopping Mall, Bypass Junction, Edappally, Kochi, Keralam 682024",
+    "area": "Bypass Junction, Nethaji Nagar, Edappally",
+    "latitude": 10.027501299999999,
+    "longitude": 76.3078484,
+    "place_id": "ChIJ3-LPQ68NCDsRKC-9d1jCVSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-LPQ68NCDsRKC-9d1jCVSs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:53"
+  },
+  {
+    "business_name": "Mansuri Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "522626",
+    "phone_number": "+91 85328 44786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 965,
+    "address": "159, 156, Kanwali Rd, Park Road 2, Dehradun, Uttarakhand 248001",
+    "area": "Park Road 2",
+    "latitude": 30.322197199999998,
+    "longitude": 78.0176963,
+    "place_id": "ChIJg4OJD9crCTkRilIAczft5Gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4OJD9crCTkRilIAczft5Gw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:55"
+  }
+]

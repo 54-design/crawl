@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MF Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Bakery equipment",
+    "pincode": "522503",
+    "phone_number": "+91 76709 00545",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Electronic city circle, Opposit Z P H School, Chinnakakani, Andhra Pradesh 522508",
+    "area": "522503",
+    "latitude": 16.399141,
+    "longitude": 80.5504378,
+    "place_id": "ChIJs0hzEqT2NToRn8RBjr9N1r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0hzEqT2NToRn8RBjr9N1r0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:23"
+  },
+  {
+    "business_name": "Swetha frozen foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "522503",
+    "phone_number": "+91 78935 54444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no - 19, APIIC, Industrial Park, Mangalagiri, Amaravati, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.423663299999998,
+    "longitude": 80.5589383,
+    "place_id": "ChIJB__Wh1DxNToRWujIGy5ngQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB__Wh1DxNToRWujIGy5ngQ0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:25"
+  }
+]

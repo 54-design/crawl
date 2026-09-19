@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "iCarry",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "523115",
+    "phone_number": "+91 63621 82961",
+    "website": "https://www.icarry.in/",
+    "rating": 4,
+    "reviews_count": 4993,
+    "address": "Purva Skywood, Silver County Rd, Haralur, Lakedew Residency, Bengaluru, Karnataka 560068",
+    "area": "Haralur, Lakedew Residency",
+    "latitude": 12.895151799999999,
+    "longitude": 77.66015949999999,
+    "place_id": "ChIJBfFmw1sTrjsRxEYzKAQGetM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfFmw1sTrjsRxEYzKAQGetM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:40"
+  },
+  {
+    "business_name": "ARC Paracel Service P Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523115",
+    "phone_number": "+91 92481 99932",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ngos Home devi Cinema hall road,, nellore, Andhra Pradesh 523115",
+    "area": "523115",
+    "latitude": 14.958063,
+    "longitude": 79.863283,
+    "place_id": "ChIJmaqqqrplSzoRZNjHbPUJPDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaqqqrplSzoRZNjHbPUJPDM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:43"
+  }
+]

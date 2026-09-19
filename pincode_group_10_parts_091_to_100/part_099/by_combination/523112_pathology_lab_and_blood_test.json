@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amalapuram Diagnostic Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "523112",
+    "phone_number": "+91 88562 31978",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "3-2-136, opp. Sri Satya Sai Kalyana Mandapam, K.Agraharam, Amalapuram, Andhra Pradesh 533201",
+    "area": "K.Agraharam",
+    "latitude": 16.571998999999998,
+    "longitude": 82.0002361,
+    "place_id": "ChIJO0pxjuHvNzoRo5BTs6zuGLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0pxjuHvNzoRo5BTs6zuGLQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:25:08"
+  },
+  {
+    "business_name": "Metropolis Healthcare Ltd",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Pathologist",
+    "pincode": "523112",
+    "phone_number": "+91 22 3399 3939",
+    "website": "http://www.metropolisindia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Andhra Lab, College Road, near Venkata Rama Theatre, opp. More Super Bazar, Amalapuram, Kavalakuntla, Andhra Pradesh 516505",
+    "area": "523112",
+    "latitude": 15.058955,
+    "longitude": 79.043581,
+    "place_id": "ChIJk1A9Zm2-tDsRhC62FyxqkD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1A9Zm2-tDsRhC62FyxqkD4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:25:08"
+  }
+]

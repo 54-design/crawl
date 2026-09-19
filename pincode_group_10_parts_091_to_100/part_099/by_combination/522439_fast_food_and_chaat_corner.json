@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FAST FOOD CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522439",
+    "phone_number": "+91 86862 98296",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FAST FOOD CORNER, TO, Narsampet Rd, opp. alpaharam hotel, Dayanand Colony, Warangal, Telangana 506013",
+    "area": "Dayanand Colony",
+    "latitude": 17.9738382,
+    "longitude": 79.61687049999999,
+    "place_id": "ChIJi8CSaa9FMzoRECmvVxf0njM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8CSaa9FMzoRECmvVxf0njM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:13:51"
+  },
+  {
+    "business_name": "Patel’s Food and Chaat - Wembley",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant, Gujarati restaurant",
+    "pincode": "522439",
+    "phone_number": "N/A",
+    "website": "https://patelsfoodandchaat.co.uk/",
+    "rating": 4,
+    "reviews_count": 1251,
+    "address": "1A Bowrons Ave, Wembley HA0 4QS, United Kingdom",
+    "area": "522439",
+    "latitude": 51.544947799999996,
+    "longitude": -0.29751489999999997,
+    "place_id": "ChIJCcNSUjwTdkgRCD6NTtEWzOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcNSUjwTdkgRCD6NTtEWzOw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:13:51"
+  }
+]

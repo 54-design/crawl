@@ -1,0 +1,21 @@
+[
+  {
+    "business_name": "Bruva Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Dessert shop, Takeout restaurant, Pizza restaurant, Restaurant, Sandwich shop",
+    "pincode": "523113",
+    "phone_number": "+91 95505 01199",
+    "website": "https://bruvacafe.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "D. No, 9, 28, Main road, Ramanayapeta, Ramanayyapeta, Kakinada, Andhra Pradesh 533005",
+    "area": "Ramanayapeta",
+    "latitude": 16.9947289,
+    "longitude": 82.24725629999999,
+    "place_id": "ChIJgRUneL0pODoRsrQmDEKR-ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRUneL0pODoRsrQmDEKR-ms",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:44"
+  }
+]

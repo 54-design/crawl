@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasavi Sweets & Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "522411",
+    "phone_number": "+91 63000 91134",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Road, Piduguralla, Andhra Pradesh 522413",
+    "area": "522411",
+    "latitude": 16.4810867,
+    "longitude": 79.8859256,
+    "place_id": "ChIJDxh3watvNToRVRIwNyADMpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxh3watvNToRVRIwNyADMpw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:53:24"
+  },
+  {
+    "business_name": "Sri Guru Vigneswara Milk Products",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "522411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Srinivasa Nagar, Nemalipuri, Andhra Pradesh 522413",
+    "area": "Srinivasa Nagar",
+    "latitude": 16.4160955,
+    "longitude": 79.92717859999999,
+    "place_id": "ChIJea4-m5tlNToRyHsE6_A6J-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJea4-m5tlNToRyHsE6_A6J-Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:53:25"
+  }
+]

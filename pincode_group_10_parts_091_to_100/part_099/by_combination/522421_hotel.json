@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ettipotala Haritha Resort",
+    "search_category": "Hotel",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "522421",
+    "phone_number": "+91 93461 51516",
+    "website": "https://tourism.ap.gov.in/hotellist?cityCode=68&checkinDate=2025-10-05&checkoutDate=2025-10-06&adults=1&childs=0&unitCode=ALL",
+    "rating": 3.1,
+    "reviews_count": 41,
+    "address": "GCP4+R7W, Thallapalle, Andhra Pradesh 522426",
+    "area": "522421",
+    "latitude": 16.5371034,
+    "longitude": 79.40569599999999,
+    "place_id": "ChIJVZqrtJlMNToRXLuJBjJ2BOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZqrtJlMNToRXLuJBjJ2BOI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:03:31"
+  },
+  {
+    "business_name": "Viswam Resorts",
+    "search_category": "Hotel",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "522421",
+    "phone_number": "+91 97041 62026",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "Pasuvelama Village, Nagarjuna, Sagar, Pasuvemula, Andhra Pradesh 522426",
+    "area": "Pasuvelama Village, Nagarjuna",
+    "latitude": 16.5737413,
+    "longitude": 79.3832075,
+    "place_id": "ChIJcUgD5JFLNToRGDTqWZOKnwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUgD5JFLNToRGDTqWZOKnwY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:03:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalom Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523104",
+    "phone_number": "+91 81852 00777",
+    "website": "https://nearbyinfo.in/shalom-hospital-masthikatte-hosanagara/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Masthikatte, Khyrugundha, Karnataka 577425",
+    "area": "Masthikatte",
+    "latitude": 13.7426768,
+    "longitude": 75.0274963,
+    "place_id": "ChIJfbUaP5t-uzsRPgCtyBYEuTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbUaP5t-uzsRPgCtyBYEuTU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:05"
+  },
+  {
+    "business_name": "surya poly clinic yanam",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523104",
+    "phone_number": "+91 90599 22333",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 136,
+    "address": "Puducherry, Yanam, Puducherry 533464",
+    "area": "523104",
+    "latitude": 16.7298688,
+    "longitude": 82.2153891,
+    "place_id": "ChIJxRe--dcfODoRgu2ro2jWKx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRe--dcfODoRgu2ro2jWKx8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:05"
+  }
+]

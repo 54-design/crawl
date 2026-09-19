@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kakatiya Toyota Workshop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "523113",
+    "phone_number": "+91 70327 77959",
+    "website": "http://www.kakatiyatoyota.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot 112, Sy no 315, Khanapuram Industrial Area, Khanapuram, Khanapuram Haveli, Khammam, Telangana 507002",
+    "area": "Khanapuram Industrial Area, Khanapuram",
+    "latitude": 17.2632108,
+    "longitude": 80.16506729999999,
+    "place_id": "ChIJs3vP2L9ZNDoRMero_3-toHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3vP2L9ZNDoRMero_3-toHo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:10"
+  },
+  {
+    "business_name": "SRI RAJ CAR A/c",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service",
+    "pincode": "523113",
+    "phone_number": "+91 95787 27666",
+    "website": "http://www.srirajcarac.com/",
+    "rating": 4.6,
+    "reviews_count": 238,
+    "address": "plot no :211, autonagar, Perumugai, Vellore, Tamil Nadu 632009",
+    "area": "autonagar",
+    "latitude": 12.9466798,
+    "longitude": 79.19996119999999,
+    "place_id": "ChIJZ-uKygY4rTsR7y-QiBcwuTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-uKygY4rTsR7y-QiBcwuTo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:12"
+  }
+]

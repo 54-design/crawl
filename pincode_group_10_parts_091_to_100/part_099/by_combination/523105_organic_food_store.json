@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KM VEGETABLE",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "523105",
+    "phone_number": "+91 77320 16750",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DV NAGAR, 1-2, KANDUKURU, Andhra Pradesh 523105",
+    "area": "KANDUKURU",
+    "latitude": 15.214718,
+    "longitude": 79.9058786,
+    "place_id": "ChIJjxxmR-cTSzoRMa4HiYlfV_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxxmR-cTSzoRMa4HiYlfV_c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:25"
+  },
+  {
+    "business_name": "SIVA VEGETABLE",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "523105",
+    "phone_number": "+91 81066 11762",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DV NAGAR, 1-2, Kandukuru, Andhra Pradesh 523105",
+    "area": "Kandukuru",
+    "latitude": 15.2147165,
+    "longitude": 79.90588439999999,
+    "place_id": "ChIJe-hbJCYTSzoRnW_dplkmREg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-hbJCYTSzoRnW_dplkmREg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:25"
+  }
+]

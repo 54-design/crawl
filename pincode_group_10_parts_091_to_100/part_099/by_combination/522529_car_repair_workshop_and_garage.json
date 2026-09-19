@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BISMILLAH AUTO GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522529",
+    "phone_number": "+91 70757 33753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Boyapalem, Vankayalapadu, Andhra Pradesh 522233",
+    "area": "Boyapalem",
+    "latitude": 16.1899987,
+    "longitude": 80.2611639,
+    "place_id": "ChIJzUTdBvh7SjoRMWuD3MNCRKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUTdBvh7SjoRMWuD3MNCRKQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:30"
+  },
+  {
+    "business_name": "Topside Motors Garage Servicing Repairs",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522529",
+    "phone_number": "07778 939188",
+    "website": "https://www.topsidemotors.co.uk/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "95 Charlotte Rd, Stirchley, Birmingham B30 2BT, United Kingdom",
+    "area": "Stirchley",
+    "latitude": 52.426403199999996,
+    "longitude": -1.9241016999999998,
+    "place_id": "ChIJAQB02IC-cEgRV4h-ZMMAfUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQB02IC-cEgRV4h-ZMMAfUQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI MACHINERIES",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Manufacturer",
+    "pincode": "523135",
+    "phone_number": "+91 86603 09941",
+    "website": "https://www.srilakshmimachineries.com/",
+    "rating": 4.8,
+    "reviews_count": 86,
+    "address": "64, Post, Channanayakana Palya, 2nd Stage, Nagasandra, Bengaluru, Karnataka 560073",
+    "area": "Channanayakana Palya, 2nd Stage, Nagasandra",
+    "latitude": 13.043368,
+    "longitude": 77.4903902,
+    "place_id": "ChIJQ5OLTSk9rjsRHcmAmoo2jCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5OLTSk9rjsRHcmAmoo2jCA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:35:52"
+  },
+  {
+    "business_name": "RATNAM MILL STORES",
+    "search_category": "Flour Mill",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "523135",
+    "phone_number": "+91 70133 28717",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Daba Gardens Area, Santha Pet, Vizianagaram, Andhra Pradesh 535001",
+    "area": "Daba Gardens Area, Santha Pet",
+    "latitude": 18.1168945,
+    "longitude": 83.4038241,
+    "place_id": "ChIJsQgpRVzlOzoRV13cjW5p5jA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQgpRVzlOzoRV13cjW5p5jA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:35:53"
+  }
+]

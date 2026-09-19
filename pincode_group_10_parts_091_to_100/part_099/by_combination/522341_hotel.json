@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vasavi Venkateswara Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "IsLand Circle, Bus Stand, opposite to Guntur - Chirala Road, Ponnur, Andhra Pradesh 522124",
+    "area": "522341",
+    "latitude": 16.0675962,
+    "longitude": 80.5506412,
+    "place_id": "ChIJzblWu9QRSjoRbpDl0JRs7T0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzblWu9QRSjoRbpDl0JRs7T0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:41:27"
+  },
+  {
+    "business_name": "Sambireddy Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522341",
+    "phone_number": "+91 95731 05557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3J7H+4FH, Inturu, Andhra Pradesh 522341",
+    "area": "522341",
+    "latitude": 16.0628039,
+    "longitude": 80.6287304,
+    "place_id": "ChIJNeAuwaYQSjoRWfJhub5MlII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeAuwaYQSjoRWfJhub5MlII",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:41:27"
+  }
+]

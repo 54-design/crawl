@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Private Limited",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "522510",
+    "phone_number": "+91 93468 05656",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "132, opposite Acharya Nagarjuna University (ANU), Nagarjuna Nagar, Andhra Pradesh 522510",
+    "area": "Nagarjuna Nagar",
+    "latitude": 16.3798925,
+    "longitude": 80.5253635,
+    "place_id": "ChIJv7KreLP1NToRg9Lb3Z_fWNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7KreLP1NToRg9Lb3Z_fWNc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:23"
+  },
+  {
+    "business_name": "H&M",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522510",
+    "phone_number": "+91 1800 889 8000",
+    "website": "https://www2.hm.com/en_in/customer-service/shopping-at-hm/store-locator/india/raipur/zora-mall/IN0156.html?utm_source=google_location&utm_medium=organic&utm_content=IN0156&utm_campaign=pi_INQ00AAU0AA004",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Oppsite Agriculture Collage, the mall, Serikhedi, Jora, Raipur, Chhattisgarh 492012",
+    "area": "Serikhedi",
+    "latitude": 21.238210199999997,
+    "longitude": 81.7145209,
+    "place_id": "ChIJoUby87PDKDoREU-gMcUwL7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUby87PDKDoREU-gMcUwL7A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:24"
+  }
+]

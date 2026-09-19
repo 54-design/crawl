@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basheer Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "522616",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35CJ+4R3, Pasumarru, Andhra Pradesh 522616",
+    "area": "522616",
+    "latitude": 16.070273399999998,
+    "longitude": 80.1820417,
+    "place_id": "ChIJAd6-JgBjSjoR5orWrZ3s0nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAd6-JgBjSjoR5orWrZ3s0nI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:08"
+  },
+  {
+    "business_name": "Rabbani Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "522616",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 167A, Pasumarru, Andhra Pradesh 522616",
+    "area": "522616",
+    "latitude": 16.0722484,
+    "longitude": 80.1821365,
+    "place_id": "ChIJN-ihFwBjSjoRiV7lq2UH5iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-ihFwBjSjoRiV7lq2UH5iU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:08"
+  }
+]

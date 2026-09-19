@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brooingbrea Cafe Pvt Ltd",
+    "search_category": "Patisserie",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "522611",
+    "phone_number": "+91 90312 36969",
+    "website": "http://www.boringbankercafe.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-868, Rd, Sugali Colony, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "Sugali Colony",
+    "latitude": 16.093765899999998,
+    "longitude": 80.1569387,
+    "place_id": "ChIJ4USuNABjSjoRKbDuoc1y-NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4USuNABjSjoRKbDuoc1y-NM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:34:35"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Dairy store, Dairy Products Supplier, Ice cream shop, Milk delivery service",
+    "pincode": "522611",
+    "phone_number": "+91 99634 42817",
+    "website": "https://hapdaily.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ground Floor, No. 1-846.2, Santha Road, CR Colony, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "CR Colony",
+    "latitude": 16.0984189,
+    "longitude": 80.1640108,
+    "place_id": "ChIJBYfHxkdjSjoR1dAMDdEINs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYfHxkdjSjoR1dAMDdEINs8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:34:35"
+  }
+]

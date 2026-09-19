@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Datarise Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "522603",
+    "phone_number": "+91 83410 46006",
+    "website": "http://datarisesolutions.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd Floor, Presido Towers, Srihari Nagar, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Srihari Nagar, Magunta Layout",
+    "latitude": 14.4392076,
+    "longitude": 79.98336069999999,
+    "place_id": "ChIJ53KY1c7zTDoRcxpDy_K_pV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53KY1c7zTDoRcxpDy_K_pV8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:34:20"
+  },
+  {
+    "business_name": "Generect",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "522603",
+    "phone_number": "N/A",
+    "website": "https://generect.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Generect, 522603, India",
+    "area": "522603",
+    "latitude": 48.7673154,
+    "longitude": 31.182437399999998,
+    "place_id": "ChIJ_xWWq-F1vaURFp2wBVGIRqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xWWq-F1vaURFp2wBVGIRqE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:34:22"
+  }
+]

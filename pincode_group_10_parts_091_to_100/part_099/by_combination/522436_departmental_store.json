@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Raghavendra Super Bazar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522436",
+    "phone_number": "+91 98497 97584",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "Brundavan Garden's Petrol Bunk, Road, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.314359,
+    "longitude": 80.4224101,
+    "place_id": "ChIJ0eXv2mJ1SjoRkQKMeCgc6AQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0eXv2mJ1SjoRkQKMeCgc6AQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:57"
+  },
+  {
+    "business_name": "pragnasree traders",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522436",
+    "phone_number": "+91 76759 40741",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-53/a, GUNTUR, Karlapudi, Andhra Pradesh 522016",
+    "area": "522436",
+    "latitude": 16.4935941,
+    "longitude": 80.4047381,
+    "place_id": "ChIJbVC1os-NNToR5xGAKYfXPWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVC1os-NNToR5xGAKYfXPWk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A To Z LAB",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522503",
+    "phone_number": "+91 98493 50230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CHM9+Q4J, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.4344723,
+    "longitude": 80.56776599999999,
+    "place_id": "ChIJb161Nj_xNToRZoj7eF6wmPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb161Nj_xNToRZoj7eF6wmPU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:48"
+  },
+  {
+    "business_name": "Royal Diagnostics & Research Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "522503",
+    "phone_number": "+91 866 243 6487",
+    "website": "https://royaldiagnosticsandresearchcentre.com/",
+    "rating": 3.5,
+    "reviews_count": 37,
+    "address": "29-6-14, Nakkala Rd, Vijayatakies Centre, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Vijayatakies Centre, Suryaraopeta, Governor Peta",
+    "latitude": 16.5140229,
+    "longitude": 80.6327518,
+    "place_id": "ChIJZ-Y9QLH6NToRA2LcoHuJGxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRA2LcoHuJGxw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:51"
+  }
+]

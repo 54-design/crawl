@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inturi Residency",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Wedding venue",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 184,
+    "address": "2427+XFJ, NH 16, beside HP petrol station, Martur, Rajupalem, Andhra Pradesh 523301",
+    "area": "522626",
+    "latitude": 16.0024651,
+    "longitude": 80.1136532,
+    "place_id": "ChIJqeOtygZhSjoRcXJu8RC--0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeOtygZhSjoRcXJu8RC--0E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:41"
+  },
+  {
+    "business_name": "Sri Krishna Rest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522626",
+    "phone_number": "+91 87123 24114",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 152,
+    "address": "11-30-30, Seshaiah St, Samarangam Chowk, 1town, Vijayawada, Andhra Pradesh 520001",
+    "area": "Samarangam Chowk, 1town",
+    "latitude": 16.515406,
+    "longitude": 80.609391,
+    "place_id": "ChIJk_1PNt7vNToR7JSRwBplF1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_1PNt7vNToR7JSRwBplF1A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:41"
+  }
+]

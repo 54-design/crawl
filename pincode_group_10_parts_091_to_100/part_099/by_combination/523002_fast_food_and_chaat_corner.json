@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Chat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "523002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3V4W+VXM, Saraswati Colony, Kankroli, Rajsamand, Rajasthan 313324",
+    "area": "Saraswati Colony, Kankroli",
+    "latitude": 25.0572126,
+    "longitude": 73.8974363,
+    "place_id": "ChIJb0zudYdraDkRr16XgF_DNkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0zudYdraDkRr16XgF_DNkA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:10:01"
+  },
+  {
+    "business_name": "Shobha Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "523002",
+    "phone_number": "+91 76270 66040",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "8JVM+XG9, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.344907799999998,
+    "longitude": 74.6338485,
+    "place_id": "ChIJhQyrjEnCaDkREo08k5O9DMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQyrjEnCaDkREo08k5O9DMA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:10:01"
+  }
+]

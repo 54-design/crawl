@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAACHIS JUICE & BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Juice shop",
+    "pincode": "523108",
+    "phone_number": "+91 80863 58745",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "shop8, Abhyudaya Nagar, Addanki, Andhra Pradesh 523201",
+    "area": "Abhyudaya Nagar",
+    "latitude": 15.809004499999999,
+    "longitude": 79.9756859,
+    "place_id": "ChIJDTrpZkXxSjoRodUqTrqTZ3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTrpZkXxSjoRodUqTrqTZ3Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:20"
+  },
+  {
+    "business_name": "Sri Venkateswara Bakery & Sweets",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 40,
+    "address": "3PQF+4C8, Unnamed Road, Lingasamudram, Andhra Pradesh 523114",
+    "area": "523108",
+    "latitude": 15.0877837,
+    "longitude": 79.7235937,
+    "place_id": "ChIJy_o96LRBSzoReI8I2039CSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_o96LRBSzoReI8I2039CSY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:20"
+  }
+]

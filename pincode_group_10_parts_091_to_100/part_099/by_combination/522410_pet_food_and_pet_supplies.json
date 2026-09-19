@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sridhar Pets Farm",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "522410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FX7R+V8F, Bellamkonda, Andhra Pradesh 522411",
+    "area": "522410",
+    "latitude": 16.4648116,
+    "longitude": 79.9902099,
+    "place_id": "ChIJ4zIDUgB7NToR6G2UBjC6p4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zIDUgB7NToR6G2UBjC6p4I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:51:28"
+  },
+  {
+    "business_name": "U R N FARM",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "522410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GXVC+C9C, Papayapalem, Andhra Pradesh 522411",
+    "area": "522410",
+    "latitude": 16.5435706,
+    "longitude": 79.9708899,
+    "place_id": "ChIJT21yDwBxNToRRtHKrQoiTmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT21yDwBxNToRRtHKrQoiTmg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:51:28"
+  }
+]

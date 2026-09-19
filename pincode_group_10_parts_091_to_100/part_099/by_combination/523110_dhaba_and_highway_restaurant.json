@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhaba Estd 1986 Delhi, Pune",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba, North Indian restaurant",
+    "pincode": "523110",
+    "phone_number": "+91 96079 17206",
+    "website": "https://dhaba1986.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Second Floor, Pavillion Mall, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+    "area": "Laxmi Society, Model Colony, Shivajinagar",
+    "latitude": 18.5341639,
+    "longitude": 73.8297722,
+    "place_id": "ChIJ-eCNT52_wjsRMgiwH7re0HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eCNT52_wjsRMgiwH7re0HA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:21:01"
+  },
+  {
+    "business_name": "Highway Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523110",
+    "phone_number": "+91 90585 86364",
+    "website": "http://www.up19dhaba.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Meerut - Karnal Rd, Jhal, Uttar Pradesh 247776",
+    "area": "523110",
+    "latitude": 29.4146398,
+    "longitude": 77.3454264,
+    "place_id": "ChIJDz_1WQAvDDkRib2xU4ikrVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDz_1WQAvDDkRib2xU4ikrVc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:21:02"
+  }
+]

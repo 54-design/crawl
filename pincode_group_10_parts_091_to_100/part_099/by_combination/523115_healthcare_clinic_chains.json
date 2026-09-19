@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIVYA HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Obstetrician-gynecologist",
+    "all_categories": "Obstetrician-gynecologist, Family planning center, Fertility clinic, Surgical center",
+    "pincode": "523115",
+    "phone_number": "+91 99086 55400",
+    "website": "https://divyahospitals.com/",
+    "rating": 4.9,
+    "reviews_count": 151,
+    "address": "Nataraj talkies road, Doctors Colony, Miryalaguda, Telangana 508207",
+    "area": "Doctors Colony",
+    "latitude": 16.8688392,
+    "longitude": 79.5625795,
+    "place_id": "ChIJQ0GdjXslNToRueJDuQnJlbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0GdjXslNToRueJDuQnJlbA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:47"
+  },
+  {
+    "business_name": "Health Care PHARMACLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No 7-6, NH 44 Road, beside Shabana medical, Bhiknoor Chowrasta dist, Kamareddy, Bhiknoor, Telangana 503101",
+    "area": "Bhiknoor Chowrasta dist",
+    "latitude": 18.186204099999998,
+    "longitude": 78.39833569999999,
+    "place_id": "ChIJrYVnInGHyzsRCfUkxlYv6VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYVnInGHyzsRCfUkxlYv6VQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalitha Jewelleries",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522646",
+    "phone_number": "+91 73864 19741",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "3P2R+M4F, SH 25, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0516822,
+    "longitude": 79.74031029999999,
+    "place_id": "ChIJSTAJhHSXSjoRWHFjc_Ki7mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTAJhHSXSjoRWHFjc_Ki7mg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:42"
+  },
+  {
+    "business_name": "V G T Gold Silver Testing",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "522646",
+    "phone_number": "+91 99495 36336",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "man bazzar, 6, Vinukonda, Andhra Pradesh 522647",
+    "area": "522646",
+    "latitude": 16.0486064,
+    "longitude": 79.7402204,
+    "place_id": "ChIJo4i4goC9SjoR8sAdMzkAick",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4i4goC9SjoR8sAdMzkAick",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:42"
+  }
+]

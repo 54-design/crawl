@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANANDA YOGASALA MACHARLA",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "522421",
+    "phone_number": "+91 83318 76993",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PWD Colony Rd, Macherla Rural, Andhra Pradesh 522426",
+    "area": "522421",
+    "latitude": 16.4668276,
+    "longitude": 79.4404433,
+    "place_id": "ChIJnahQjDtNNToReLpXVhqiFes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnahQjDtNNToReLpXVhqiFes",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:02:59"
+  },
+  {
+    "business_name": "Free Heartfulness Meditation Center",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "522421",
+    "phone_number": "+91 94408 84517",
+    "website": "https://heartfulness.org/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Railway Station Rd, 13th Ward, Macherla Rural, Andhra Pradesh 522426",
+    "area": "13th Ward",
+    "latitude": 16.4718348,
+    "longitude": 79.4361722,
+    "place_id": "ChIJH19tLfNNNToRuRsv6p8kWQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH19tLfNNNToRuRsv6p8kWQ0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:03:02"
+  }
+]

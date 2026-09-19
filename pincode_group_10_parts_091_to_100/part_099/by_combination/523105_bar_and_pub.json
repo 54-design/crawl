@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JV BEVERAGES",
+    "search_category": "Bar and Pub",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "523105",
+    "phone_number": "+91 11 6931 1642",
+    "website": "http://www.jvbeverages.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "434Q+6JX, T.Narasapuram, Andhra Pradesh 534467",
+    "area": "523105",
+    "latitude": 17.105562499999998,
+    "longitude": 81.0890625,
+    "place_id": "ChIJjUtkuFyLNjoRPM1RuO5oTm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUtkuFyLNjoRPM1RuO5oTm8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:41"
+  },
+  {
+    "business_name": "Sukshma Gamma LLP",
+    "search_category": "Bar and Pub",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "https://www.sukshmagamma.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "APIIC Model Industrial Park, Plot No 1-B, Mallavalli, Andhra Pradesh 521111",
+    "area": "523105",
+    "latitude": 16.697059799999998,
+    "longitude": 80.9008199,
+    "place_id": "ChIJ4eVFT9ENNjoRpVCRZUuiWug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eVFT9ENNjoRpVCRZUuiWug",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:41"
+  }
+]

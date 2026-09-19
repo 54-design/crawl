@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit Trading Company",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "522626",
+    "phone_number": "+91 98852 81350",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kailash Nagar, 11-1-18/9, 130 feet road, opp. Anna canteen, Kailash Nagar, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Kailash Nagar, Gajuwaka",
+    "latitude": 17.6824336,
+    "longitude": 83.2071557,
+    "place_id": "ChIJ2_bAxJRpOToRpyf6XsnvNno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_bAxJRpOToRpyf6XsnvNno",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:36"
+  },
+  {
+    "business_name": "Sree Jain Brothers",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer, Indian grocery store, Wholesale Food Store",
+    "pincode": "522626",
+    "phone_number": "+91 891 666 3701",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "27-3-21, Jain Temple Rd, near srikanti theater, Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Jagadamba Junction",
+    "latitude": 17.7088163,
+    "longitude": 83.2988659,
+    "place_id": "ChIJo8b0VRtDOToRg_EkxdGzQoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8b0VRtDOToRg_EkxdGzQoY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:36"
+  }
+]

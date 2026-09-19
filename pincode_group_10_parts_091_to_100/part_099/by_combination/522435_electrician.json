@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "522435",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GR8J+Q56, Brahmanapalli Rd, BrahmanaPalle, Kamepalle, Andhra Pradesh 522437",
+    "area": "BrahmanaPalle",
+    "latitude": 16.516868199999998,
+    "longitude": 79.830494,
+    "place_id": "ChIJzVWGiLhvNToRMLbB30u9Mxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVWGiLhvNToRMLbB30u9Mxg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:06:57"
+  },
+  {
+    "business_name": "Venkat eletricals Brahmanapalli",
+    "search_category": "Electrician",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "522435",
+    "phone_number": "+91 98499 40774",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Brahmanapalli Rd, BrahmanaPalle, Kamepalle, Andhra Pradesh 522437",
+    "area": "BrahmanaPalle",
+    "latitude": 16.517062499999998,
+    "longitude": 79.8300625,
+    "place_id": "ChIJXYWzCVVvNToRaouGvtHsu_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYWzCVVvNToRaouGvtHsu_4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:06:58"
+  }
+]

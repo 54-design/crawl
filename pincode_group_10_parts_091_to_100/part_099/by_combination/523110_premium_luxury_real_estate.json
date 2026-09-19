@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Residences",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "523110",
+    "phone_number": "+91 98990 55893",
+    "website": "http://www.luxuryresidences.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, Suncity Success Tower, Unit No 226, 227 & 228, Golf Course Ext Rd, Sector 65, Gurugram, Haryana 122018",
+    "area": "Sector 65",
+    "latitude": 28.408820199999997,
+    "longitude": 77.07061519999999,
+    "place_id": "ChIJ07ktlaUjDTkRSW9zzscNgso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07ktlaUjDTkRSW9zzscNgso",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:23"
+  },
+  {
+    "business_name": "Kunvarji Realty Advisors",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency",
+    "pincode": "523110",
+    "phone_number": "+91 95370 28646",
+    "website": "https://kunvarjirealty.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3rd Floor, B - Wing, SIDDHI VINAYAK TOWER, 301-302, nr. Dav International School, off Sarkhej - Gandhinagar Highway, Makarba, Ahmedabad, Gujarat 380051",
+    "area": "Makarba",
+    "latitude": 22.9935854,
+    "longitude": 72.4986991,
+    "place_id": "ChIJUauKAdWDXjkRhuopYYLhbMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUauKAdWDXjkRhuopYYLhbMs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:23"
+  }
+]

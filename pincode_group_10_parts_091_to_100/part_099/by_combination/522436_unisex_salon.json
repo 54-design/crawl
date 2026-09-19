@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suri Babu Hair Salons",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "522436",
+    "phone_number": "+91 99591 27696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Amaravathi Road Ato Mobile Bisid, 34, Amaravati Rd, Andhra Pradesh 522020",
+    "area": "522436",
+    "latitude": 16.5720134,
+    "longitude": 80.3587517,
+    "place_id": "ChIJt7BmkKGRNToROw_jKWyHPvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7BmkKGRNToROw_jKWyHPvI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:55"
+  },
+  {
+    "business_name": "Sivani's beauty parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522436",
+    "phone_number": "+91 90107 19105",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sivani beauty parlour, Kosur road, opp. maruthi mobiles, beside subharao hospital, Amravati, Amaravati, Andhra Pradesh 522020",
+    "area": "522436",
+    "latitude": 16.5773908,
+    "longitude": 80.3561848,
+    "place_id": "ChIJ9dRmFVuRNToR6yN1uzovm5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dRmFVuRNToR6yN1uzovm5s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:58"
+  }
+]

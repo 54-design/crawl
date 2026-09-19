@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clinault Consumer Pvt Ltd",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "522660",
+    "phone_number": "N/A",
+    "website": "http://www.clinault.com/",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "2nd Floor, LG Tower, 60/D, above HDFC Bank, Bommasandra Industrial Area, Bengaluru, Bommasandra, Karnataka 560099",
+    "area": "Bommasandra Industrial Area",
+    "latitude": 12.813217799999999,
+    "longitude": 77.68272929999999,
+    "place_id": "ChIJuxbFbl1trjsR2qJ17S0gfeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxbFbl1trjsR2qJ17S0gfeM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:02:29"
+  },
+  {
+    "business_name": "UMA Consumer Products Ltd",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "522660",
+    "phone_number": "N/A",
+    "website": "https://www.umaglobalfoods.com/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "97, Santhome High Rd, Santhome, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+    "area": "Santhome, Raja Annamalaipuram",
+    "latitude": 13.02746,
+    "longitude": 80.27610589999999,
+    "place_id": "ChIJ3STYoKhnUjoRVHpKLMFddhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3STYoKhnUjoRVHpKLMFddhs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:02:29"
+  }
+]

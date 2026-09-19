@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VSM SHOPPINGMALL",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522435",
+    "phone_number": "+91 83319 61199",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "DOR NO 3-47, near VEERABDHARA SWAMI TEMPLE, Bandarulanka, Andhra Pradesh 533221",
+    "area": "522435",
+    "latitude": 16.5885229,
+    "longitude": 81.9754801,
+    "place_id": "ChIJbcaMRcrvNzoRTL3f44TN8ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcaMRcrvNzoRTL3f44TN8ic",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:06:21"
+  },
+  {
+    "business_name": "Favourite Textiles & Readymades",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522435",
+    "phone_number": "+91 70130 67584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHH8+GJF, Tenali - Mangalagiri Rd, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522435",
+    "latitude": 16.4288387,
+    "longitude": 80.56656269999999,
+    "place_id": "ChIJIxo-AarxNToRuoRdF8aF2-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxo-AarxNToRuoRdF8aF2-I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:06:22"
+  }
+]

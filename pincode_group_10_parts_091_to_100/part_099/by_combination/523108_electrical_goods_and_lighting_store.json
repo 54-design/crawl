@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasu Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523108",
+    "phone_number": "+91 94402 06941",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3CW6+823, Pamuru, Andhra Pradesh 523108",
+    "area": "523108",
+    "latitude": 15.0957642,
+    "longitude": 79.410048,
+    "place_id": "ChIJx07vHhFLSzoRs_caKbSadXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx07vHhFLSzoRs_caKbSadXY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:55"
+  },
+  {
+    "business_name": "RK Electricals and General Stores",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "523108",
+    "phone_number": "+91 98486 85886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "D.No. 4-5-84, Pillaraya Street, opp. Police Station, Yanam, Puducherry 533464",
+    "area": "Ambedkar Nagar",
+    "latitude": 16.7348404,
+    "longitude": 82.2137348,
+    "place_id": "ChIJMTrX4yH1NzoR0MgohL-1h-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTrX4yH1NzoR0MgohL-1h-Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:56"
+  }
+]

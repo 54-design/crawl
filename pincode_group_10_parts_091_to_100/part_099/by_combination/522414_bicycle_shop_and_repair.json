@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cycle World",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "522414",
+    "phone_number": "+91 75696 96677",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Room no 9 ,10, Yaqoob Saheb masjid complex, Madras Rd, beside Krishna Circle Road, Maria Puram, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Kadapa",
+    "latitude": 14.478507599999999,
+    "longitude": 78.8269766,
+    "place_id": "ChIJ9ZCa7AZyszsR3VedF0evFNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZCa7AZyszsR3VedF0evFNk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:28"
+  },
+  {
+    "business_name": "Sri Rama Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "522414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Maruteru, Andhra Pradesh 534122",
+    "area": "522414",
+    "latitude": 16.6248207,
+    "longitude": 81.7404083,
+    "place_id": "ChIJ20z4_EvENzoRgLG1yKO8yMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20z4_EvENzoRgLG1yKO8yMo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FIVE STAR CHICKEN (CP FIVE STAR)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Thai restaurant",
+    "all_categories": "Thai restaurant",
+    "pincode": "522529",
+    "phone_number": "+91 96185 51240",
+    "website": "http://fivestarchicken.com/",
+    "rating": 4.4,
+    "reviews_count": 184,
+    "address": "Sathram center, Amaravati Rd, Bharathpet, Vishnu Nagar, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Bharathpet, Vishnu Nagar, Koritepadu",
+    "latitude": 16.3118749,
+    "longitude": 80.4368638,
+    "place_id": "ChIJTxeU4FB1SjoRgLftvjcuW60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxeU4FB1SjoRgLftvjcuW60",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:09"
+  },
+  {
+    "business_name": "Fynito",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "522529",
+    "phone_number": "N/A",
+    "website": "https://fynito.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd Ln, opposite Raithu Bazar, behind Kamma Hostel, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+    "area": "Brindavan Gardens",
+    "latitude": 16.3128823,
+    "longitude": 80.42033959999999,
+    "place_id": "ChIJ8_EshyCLNToRxr8NiQrxcas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_EshyCLNToRxr8NiQrxcas",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:11"
+  }
+]

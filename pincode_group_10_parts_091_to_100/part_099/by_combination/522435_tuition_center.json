@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sriram Computer Education",
+    "search_category": "Tuition Center",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "522435",
+    "phone_number": "+91 77806 25553",
+    "website": "https://sriram-computer-education.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Machavaram Main Rd, Rod, Machavaram, Andhra Pradesh 522435",
+    "area": "Rod",
+    "latitude": 16.5661935,
+    "longitude": 79.86384439999999,
+    "place_id": "ChIJ15EWXh9vNToRXOzm8LQZXjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15EWXh9vNToRXOzm8LQZXjE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:19"
+  },
+  {
+    "business_name": "Sri Vasavi Education",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Antenna service, Aerobics Class, Banking entrance coaching centre, Chemistry lab, Educational consultant, Elder law attorney, Foundation, Mathematics school",
+    "pincode": "522435",
+    "phone_number": "+91 90307 27409",
+    "website": "https://srivasavieducation.com/",
+    "rating": 5,
+    "reviews_count": 1169,
+    "address": "D No 46-11-9, near Little Paradise School, Danavai Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Danavai Peta",
+    "latitude": 17.0052278,
+    "longitude": 81.7811175,
+    "place_id": "ChIJsSd_bJ-jNzoRbYV0geAIz_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSd_bJ-jNzoRbYV0geAIz_w",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:20"
+  }
+]

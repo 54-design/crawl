@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisan Choice",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "522503",
+    "phone_number": "+91 81425 58955",
+    "website": "https://kisanchoice.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No 274, 4th Ln, Autonagar, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Autonagar",
+    "latitude": 16.4166036,
+    "longitude": 80.5689737,
+    "place_id": "ChIJddvU6pfxNToRUbPlVwb_fiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddvU6pfxNToRUbPlVwb_fiI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:02"
+  },
+  {
+    "business_name": "Shree Mangalagiri agro traders",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "522503",
+    "phone_number": "+91 79041 40108",
+    "website": "https://mgfarmtools.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "9, kongu nagar, near sathya weigh bridge, Kamala Nagar, Karungalpalayam, Erode, Tamil Nadu 638003",
+    "area": "Kamala Nagar",
+    "latitude": 11.3537942,
+    "longitude": 77.7346398,
+    "place_id": "ChIJFz53qSpvqTsRVVBuAq-RgjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFz53qSpvqTsRVVBuAq-RgjI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:02"
+  }
+]

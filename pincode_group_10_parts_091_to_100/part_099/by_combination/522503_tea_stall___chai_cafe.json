@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfa Tea Time",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "522503",
+    "phone_number": "+91 95333 36033",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 19,
+    "address": "CHJ9+C7J, Main Bazar, Salivahanapeta, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Main Bazar, Salivahanapeta",
+    "latitude": 16.4310956,
+    "longitude": 80.5681369,
+    "place_id": "ChIJDz4B-DjxNToRuZBDReA_Pmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDz4B-DjxNToRuZBDReA_Pmo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:25"
+  },
+  {
+    "business_name": "Rajasthan Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "522503",
+    "phone_number": "+91 79896 49155",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Shop 3 Main Road, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.434402,
+    "longitude": 80.56649019999999,
+    "place_id": "ChIJWaunFsnxNToRospb8PgNpho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaunFsnxNToRospb8PgNpho",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:25"
+  }
+]

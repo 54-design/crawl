@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suguna Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "522549",
+    "phone_number": "+91 84999 97711",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "Major District Road 23, Lingamguntla Agraharam Rural, Andhra Pradesh 522601",
+    "area": "522549",
+    "latitude": 16.2268536,
+    "longitude": 80.0279717,
+    "place_id": "ChIJ8egogm2BSjoRL9Ku3y_7Ku8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8egogm2BSjoRL9Ku3y_7Ku8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:50"
+  },
+  {
+    "business_name": "Babai shawarma CPT",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "522549",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "35V8+5PM, 7/403, Narasaraopet Rd, Vasavi Nagar, CR Colony, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "Vasavi Nagar, CR Colony",
+    "latitude": 16.092892499999998,
+    "longitude": 80.16682209999999,
+    "place_id": "ChIJ5e6aXgBjSjoRK5XljLXYJ78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5e6aXgBjSjoRK5XljLXYJ78",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:51"
+  }
+]

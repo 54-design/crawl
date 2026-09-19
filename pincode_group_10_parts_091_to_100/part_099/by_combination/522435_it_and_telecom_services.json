@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "522435",
+    "phone_number": "+91 98483 85094",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/3, 7, BrahmanaPalle, brahmanapalli, piduguralla, MACHAVARAM, Andhra Pradesh 522437",
+    "area": "BrahmanaPalle, brahmanapalli",
+    "latitude": 16.517021,
+    "longitude": 79.83103,
+    "place_id": "ChIJwffF2_ZvNToRh5OGu0kW4EE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwffF2_ZvNToRh5OGu0kW4EE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:32"
+  },
+  {
+    "business_name": "BSNL Telephone Exchange",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telephone exchange",
+    "all_categories": "Telephone exchange",
+    "pincode": "522435",
+    "phone_number": "+91 1800 345 1500",
+    "website": "http://www.bsnl.co.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "HVC8+5H3, Machavaram, Andhra Pradesh 522435",
+    "area": "522435",
+    "latitude": 16.5703851,
+    "longitude": 79.8664293,
+    "place_id": "ChIJO7fi0ylsNToRQBfsmLdNzIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7fi0ylsNToRQBfsmLdNzIc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cherryfashions",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "522408",
+    "phone_number": "+91 88016 66777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "74/37/1, 4th Ln, opposite Nalla Cheruvu, Nallacheruvu, Guntur, Andhra Pradesh 522004",
+    "area": "Nallacheruvu",
+    "latitude": 16.2853694,
+    "longitude": 80.4410102,
+    "place_id": "ChIJ-8g5IDt1SjoRjwiQBU6j0oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8g5IDt1SjoRjwiQBU6j0oY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:47:59"
+  },
+  {
+    "business_name": "SADA PICZ",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "T-shirt store",
+    "all_categories": "T-shirt store",
+    "pincode": "522408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "OPPOISTE SBI, 3-72, BANK STREET, Ravipadu, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "522408",
+    "latitude": 16.257957299999998,
+    "longitude": 80.0117058,
+    "place_id": "ChIJVdQSp0eBSjoROzBnbIVYbwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdQSp0eBSjoROzBnbIVYbwg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:02"
+  }
+]

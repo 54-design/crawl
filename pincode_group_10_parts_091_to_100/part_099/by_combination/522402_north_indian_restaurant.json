@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sip N snack",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "522402",
+    "phone_number": "+91 63013 56646",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, beside sana lock house, opposite union bank of India, Amaravati, Andhra Pradesh 522020",
+    "area": "522402",
+    "latitude": 16.573487999999998,
+    "longitude": 80.3590473,
+    "place_id": "ChIJqYbg2AqRNToRPpNxCLZSkx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYbg2AqRNToRPpNxCLZSkx4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:44:14"
+  },
+  {
+    "business_name": "GM Cream World",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Fast food restaurant, Ice cream shop",
+    "pincode": "522402",
+    "phone_number": "+91 94926 89770",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sattenapalli Main Rd, beside india oil petroleum, Sattenapalle, Andhra Pradesh 522403",
+    "area": "522402",
+    "latitude": 16.394206699999998,
+    "longitude": 80.1543346,
+    "place_id": "ChIJq_xRnyiCNToR7kj1bzFGXKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_xRnyiCNToR7kj1bzFGXKM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:44:14"
+  }
+]

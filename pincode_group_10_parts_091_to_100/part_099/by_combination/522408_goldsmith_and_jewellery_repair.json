@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manimukhura Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522408",
+    "phone_number": "+91 73862 34568",
+    "website": "http://www.saisanthoshi.com/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "MG Rd, near gandhi bomma, Vidyanagar, Suryapet, Telangana 508213",
+    "area": "Vidyanagar",
+    "latitude": 17.145794,
+    "longitude": 79.6222631,
+    "place_id": "ChIJg3jhFWHbNDoR2hDAyoW5Ao8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3jhFWHbNDoR2hDAyoW5Ao8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:05"
+  },
+  {
+    "business_name": "AK Laser Soldering",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "522408",
+    "phone_number": "+91 98848 86500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Venus, 51/26, Market St, Gopal Colony, Perambur, Chennai, Tamil Nadu 600011",
+    "area": "Gopal Colony, Perambur",
+    "latitude": 13.1117616,
+    "longitude": 80.2368096,
+    "place_id": "ChIJg-Hl1E5lUjoRoTOc55PC_q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-Hl1E5lUjoRoTOc55PC_q8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:06"
+  }
+]

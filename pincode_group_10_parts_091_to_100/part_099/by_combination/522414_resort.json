@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Horsley Hills Haritha Hill Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "522414",
+    "phone_number": "+91 99516 11040",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 3178,
+    "address": "Horsley Hills Rd, Horsley Hills, Andhra Pradesh 517326",
+    "area": "522414",
+    "latitude": 13.6521353,
+    "longitude": 78.3972768,
+    "place_id": "ChIJm1_kYAVCsjsRSGE3UNzSkuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1_kYAVCsjsRSGE3UNzSkuw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:53"
+  },
+  {
+    "business_name": "Sai Priya Beach Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "522414",
+    "phone_number": "+91 99519 33444",
+    "website": "http://www.saipriyabeachresorts.com/",
+    "rating": 4.3,
+    "reviews_count": 19433,
+    "address": "Rushikonda, Andhra Pradesh 530045",
+    "area": "Rushikonda",
+    "latitude": 17.785765599999998,
+    "longitude": 83.3844594,
+    "place_id": "ChIJAQAAAFVaOToRM6Bd8bbZdrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAFVaOToRM6Bd8bbZdrY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:53"
+  }
+]

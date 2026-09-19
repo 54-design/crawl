@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopi Store",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "522412",
+    "phone_number": "+91 90003 88945",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rentapalla, Andhra Pradesh 522410",
+    "area": "522412",
+    "latitude": 16.4712326,
+    "longitude": 80.13513569999999,
+    "place_id": "ChIJ-a4ItOiDNToRzTDPz8u5vqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-a4ItOiDNToRzTDPz8u5vqQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:56:25"
+  },
+  {
+    "business_name": "RepairPC13",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Electronics repair shop",
+    "pincode": "522412",
+    "phone_number": "N/A",
+    "website": "http://repairpc13.weebly.com/",
+    "rating": 4.8,
+    "reviews_count": 162,
+    "address": "316 Galway Dr, Iowa City, IA 52246, United States",
+    "area": "Weber",
+    "latitude": 41.6565587,
+    "longitude": -91.5879348,
+    "place_id": "ChIJ8b6wk0VB5IcRCASE3hGv69s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8b6wk0VB5IcRCASE3hGv69s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:56:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinis Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523115",
+    "phone_number": "+91 93931 01851",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1656,
+    "address": "Sampath Vinayaka Temple Rd, Opp Sampath Vinayak temple, CBM Compound, Asilmetta, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "CBM Compound, Asilmetta",
+    "latitude": 17.724573,
+    "longitude": 83.313459,
+    "place_id": "ChIJ-4LwcT9DOToRtDVLgsZx-YA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4LwcT9DOToRtDVLgsZx-YA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:01"
+  },
+  {
+    "business_name": "Lucky Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store",
+    "pincode": "523115",
+    "phone_number": "+91 89125 47766",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 2906,
+    "address": "30-15-123, KGH Down Rd, Near Jagadamba Circle, Daba Gardens, Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Near Jagadamba Circle, Daba Gardens, Jagadamba Junction",
+    "latitude": 17.7110236,
+    "longitude": 83.3021796,
+    "place_id": "ChIJq0d17xpDOToRKAlXeDrYR3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0d17xpDOToRKAlXeDrYR3E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:01"
+  }
+]

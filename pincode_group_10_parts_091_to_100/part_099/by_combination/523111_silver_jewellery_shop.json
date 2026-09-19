@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AS SILVERS AMALAPURAM",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523111",
+    "phone_number": "+91 89781 26757",
+    "website": "https://assilvers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Main Rd, Amalapuram, Andhra Pradesh 533201",
+    "area": "523111",
+    "latitude": 16.5785524,
+    "longitude": 82.0038603,
+    "place_id": "ChIJWcVzrKLvNzoREoLouuxFlHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcVzrKLvNzoREoLouuxFlHw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:04"
+  },
+  {
+    "business_name": "DHANIKA SILVER JEWELLERY",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523111",
+    "phone_number": "+91 78429 43916",
+    "website": "http://dhanikasilverjewellery.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "16-11-489, Hanumannagar, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Hanumannagar, Dilsukhnagar",
+    "latitude": 17.3689082,
+    "longitude": 78.52436519999999,
+    "place_id": "ChIJYySs1GSZyzsRTZVbgUYBRdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYySs1GSZyzsRTZVbgUYBRdI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:04"
+  }
+]

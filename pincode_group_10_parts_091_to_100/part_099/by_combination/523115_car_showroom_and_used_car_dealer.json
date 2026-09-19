@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIKAS MOTORLAND",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "523115",
+    "phone_number": "+91 98240 49555",
+    "website": "http://www.vikasmotorland.com/",
+    "rating": 4.6,
+    "reviews_count": 216,
+    "address": "Ground Floor Sumel-2 Complex, Nr. Gurudwara, Sarkhej - Gandhinagar Hwy, Thaltej, Ahmedabad, Gujarat 380059",
+    "area": "Thaltej",
+    "latitude": 23.0472535,
+    "longitude": 72.5156949,
+    "place_id": "ChIJ07L7M1KbXjkRQ68-pcCwbSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07L7M1KbXjkRQ68-pcCwbSQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:49"
+  },
+  {
+    "business_name": "THE BEST CARS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "523115",
+    "phone_number": "+91 97866 44300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Erranahalli, Tamil Nadu 636808",
+    "area": "523115",
+    "latitude": 12.2942121,
+    "longitude": 78.07385649999999,
+    "place_id": "ChIJJeroSvIkrDsR5FdhZFh5GmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeroSvIkrDsR5FdhZFh5GmE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARAMESHWARA ENTERPRISES",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electrical supply store",
+    "pincode": "522626",
+    "phone_number": "+91 76748 78976",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "9-10-19, Jayaprakash Narayan Road, opposite to Bharat petroleum, Nandayya Gari Compound, Sherpura, Girmajipet, Warangal, Telangana 506002",
+    "area": "Nandayya Gari Compound, Sherpura, Girmajipet",
+    "latitude": 17.9802654,
+    "longitude": 79.598601,
+    "place_id": "ChIJIyWeDiJFMzoRmimED13dU04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyWeDiJFMzoRmimED13dU04",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:20"
+  },
+  {
+    "business_name": "Star Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Bathroom supply store, Building materials store, Hardware store, Light bulb supplier, Electrical supply store, Tile store",
+    "pincode": "522626",
+    "phone_number": "+91 89125 31351",
+    "website": "https://starelectricalsvsp.com/",
+    "rating": 4.2,
+    "reviews_count": 110,
+    "address": "Star plaza complex, Main Rd, opposite vaibhav jewellery, Nad Junction, Gopalapatnam, Simhachalam, Visakhapatnam, Andhra Pradesh 530027",
+    "area": "Nad Junction, Gopalapatnam, Simhachalam",
+    "latitude": 17.7448829,
+    "longitude": 83.2250797,
+    "place_id": "ChIJtXzYbtlnOToRgGZ4ymgIQ4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXzYbtlnOToRgGZ4ymgIQ4k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:22"
+  }
+]

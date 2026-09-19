@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angels Beauty World",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522403",
+    "phone_number": "+91 93814 64447",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5 lamps center, Sattenapalle, Andhra Pradesh 522403",
+    "area": "522403",
+    "latitude": 16.3953859,
+    "longitude": 80.1457874,
+    "place_id": "ChIJwYyEKwCBNToRy7cnuhM9Jns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYyEKwCBNToRy7cnuhM9Jns",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:51"
+  },
+  {
+    "business_name": "KEVA STORE",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "522403",
+    "phone_number": "+91 94940 17574",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Municipal Office, Guntur - Sattenapalli Rd, Guntur, Kankanalapalli, Andhra Pradesh 522412",
+    "area": "522403",
+    "latitude": 16.400736,
+    "longitude": 80.1320192,
+    "place_id": "ChIJzfVRnyiCNToRAAAAsL5MQV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfVRnyiCNToRAAAAsL5MQV8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:51"
+  }
+]

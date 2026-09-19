@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YSR Village Health Clinic, Chintagum palli",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6H6C+8M4, Irlapadu Rd, Venuthurla Vari Palli, Chinthagum Palli, Chintagumpalle, Andhra Pradesh 523117",
+    "area": "Venuthurla Vari Palli",
+    "latitude": 15.2106414,
+    "longitude": 79.57227569999999,
+    "place_id": "ChIJRRK5VQA5SzoRNXy6na8PbVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRK5VQA5SzoRNXy6na8PbVM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:31"
+  },
+  {
+    "business_name": "SOC",
+    "search_category": "Clinics",
+    "primary_category": "Crime victim service",
+    "all_categories": "Crime victim service",
+    "pincode": "523116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4GV9+5RH, Kodigumpalle, Ayyavaripalli, Andhra Pradesh 523117",
+    "area": "Kodigumpalle",
+    "latitude": 15.142942699999999,
+    "longitude": 79.51959389999999,
+    "place_id": "ChIJu1cLF2tJSzoRoXXKflwlL9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1cLF2tJSzoRoXXKflwlL9g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Majestic Events (Drone on rent)",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency, Aerial photographer, Drone shop",
+    "pincode": "523110",
+    "phone_number": "N/A",
+    "website": "http://majestic-drone.web.app/",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "A/37, Abhishek Society, South Bopal, Bopal, Ahmedabad, Gujarat 380058",
+    "area": "Abhishek Society, South Bopal, Bopal",
+    "latitude": 23.031929599999998,
+    "longitude": 72.4621203,
+    "place_id": "ChIJoxQoVPibXjkRKKzQHuDoPE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxQoVPibXjkRKKzQHuDoPE8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:21:56"
+  },
+  {
+    "business_name": "KPS Drone Repair and Service Centre",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone service",
+    "all_categories": "Drone service",
+    "pincode": "523110",
+    "phone_number": "N/A",
+    "website": "https://djirepair.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd Floor, Kucha Chaudhary, 25/26, Old Delhi, Clock Market, Dariba Kalan, Chandni Chowk, North Delhi, Delhi, 110006",
+    "area": "Old Delhi, Clock Market, Dariba Kalan, Chandni Chowk",
+    "latitude": 28.6555604,
+    "longitude": 77.2343198,
+    "place_id": "ChIJx_tnW7H9DDkRIHmFqmhUdao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_tnW7H9DDkRIHmFqmhUdao",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:21:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shobha SHREE",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "522508",
+    "phone_number": "+91 89787 91478",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 33,
+    "address": "5th Ln, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3023421,
+    "longitude": 80.438467,
+    "place_id": "ChIJXzRfZkN1SjoRkzRPgmksRaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzRfZkN1SjoRkzRPgmksRaM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:28"
+  },
+  {
+    "business_name": "Poorna Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522508",
+    "phone_number": "+91 86452 33423",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "# 8-394 Tenali Road Bhargava Peta, near Kotta Ramalayam, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Salivahanapeta",
+    "latitude": 16.4287526,
+    "longitude": 80.56940759999999,
+    "place_id": "ChIJ7_FU0DnxNToRkQvIo5VkRD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_FU0DnxNToRkQvIo5VkRD8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:29"
+  }
+]

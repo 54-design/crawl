@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Volkswagen Vijayawada",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Volkswagen dealer",
+    "all_categories": "Volkswagen dealer, Auto broker",
+    "pincode": "522603",
+    "phone_number": "+91 88866 91748",
+    "website": "https://www.volkswagen-lmautocars.in/",
+    "rating": 4.6,
+    "reviews_count": 2310,
+    "address": "Chennai - Kolkata Hwy, Enikepadu, Prasadampadu, Andhra Pradesh 521108",
+    "area": "Enikepadu",
+    "latitude": 16.516281499999998,
+    "longitude": 80.70162959999999,
+    "place_id": "ChIJBexQ0inlNToREia5WWDUdh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBexQ0inlNToREia5WWDUdh0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:12"
+  },
+  {
+    "business_name": "Volkswagen Bhimavaram",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Volkswagen dealer",
+    "all_categories": "Volkswagen dealer, Car dealer",
+    "pincode": "522603",
+    "phone_number": "+91 88866 91749",
+    "website": "https://www.volkswagen-lmautocars.in/",
+    "rating": 4.8,
+    "reviews_count": 202,
+    "address": "D.No:481, Undi Rd, opp. Venkateswara swamy Temple, Narasimhapuram, Bhimavaram, Andhra Pradesh 534203",
+    "area": "Narasimhapuram",
+    "latitude": 16.555165,
+    "longitude": 81.5055141,
+    "place_id": "ChIJHTCluqgyNjoRYqzWrYZrCtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTCluqgyNjoRYqzWrYZrCtc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vijaya Krishna Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522437",
+    "phone_number": "+91 98480 98044",
+    "website": "https://www.svkbus.in/",
+    "rating": 2.6,
+    "reviews_count": 5,
+    "address": "3-263,3, Near Govt Elementary School, Main Road, Kamanagaruvu - Reddipalli Rd, Andhra Pradesh 533213",
+    "area": "Reddipalli",
+    "latitude": 16.5789206,
+    "longitude": 82.0429861,
+    "place_id": "ChIJx8o9SQLwNzoRd_iUlp_hBaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8o9SQLwNzoRd_iUlp_hBaI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:10:33"
+  },
+  {
+    "business_name": "Lucky Car Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "522437",
+    "phone_number": "+91 83329 39740",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4-190, Nadikudi Village, Nadikudi, Andhra Pradesh 522414",
+    "area": "522437",
+    "latitude": 16.5963289,
+    "longitude": 79.7188694,
+    "place_id": "ChIJMWVSw8dBNToRs-GRH4n14Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWVSw8dBNToRs-GRH4n14Eo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:10:36"
+  }
+]

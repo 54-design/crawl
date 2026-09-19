@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GANGOTHRI TRADERS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 812,
+    "address": "13/167, Kadapa Rd, Vempalli, Andhra Pradesh 516329",
+    "area": "523105",
+    "latitude": 14.365941,
+    "longitude": 78.4570263,
+    "place_id": "ChIJj6npKAC9szsRacoQpzCQOs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6npKAC9szsRacoQpzCQOs8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:27"
+  },
+  {
+    "business_name": "Rythu Mandi Private Limited",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "523105",
+    "phone_number": "+91 90004 44311",
+    "website": "http://www.rythumandi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "23-2-202/E2, SV Nagar, Balijagadda, Avilali, Andhra Pradesh 517502",
+    "area": "SV Nagar, Balijagadda",
+    "latitude": 13.6159757,
+    "longitude": 79.4108246,
+    "place_id": "ChIJLStxPoVLTToRoYJAF_yJpfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLStxPoVLTToRoYJAF_yJpfk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:29"
+  }
+]

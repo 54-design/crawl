@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Jai Andhra",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "X4P3+MRM, Martur, Andhra Pradesh 523301",
+    "area": "522626",
+    "latitude": 15.9867241,
+    "longitude": 80.10455639999999,
+    "place_id": "ChIJl3lIuNBhSjoRtgPSs9KIj0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3lIuNBhSjoRtgPSs9KIj0M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:42"
+  },
+  {
+    "business_name": "Sri Maruti Bhavan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 75,
+    "address": "345X+P8F, Boppudi, Andhra Pradesh 522626",
+    "area": "522626",
+    "latitude": 16.0593122,
+    "longitude": 80.1483009,
+    "place_id": "ChIJ5ds5ArJjSjoRP-k5-7UgJ0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ds5ArJjSjoRP-k5-7UgJ0k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:45"
+  }
+]

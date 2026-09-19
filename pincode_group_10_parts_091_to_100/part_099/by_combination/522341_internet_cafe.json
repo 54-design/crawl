@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "best csc centre",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "522341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SPP Rd, Ponnur, Andhra Pradesh 522124",
+    "area": "522341",
+    "latitude": 16.067145,
+    "longitude": 80.5493042,
+    "place_id": "ChIJczhJdwARSjoRAAZjDMROeSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczhJdwARSjoRAAZjDMROeSE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:41:41"
+  },
+  {
+    "business_name": "Funfinity Gaming Zone",
+    "search_category": "Internet Cafe",
+    "primary_category": "Video arcade",
+    "all_categories": "Video arcade",
+    "pincode": "522341",
+    "phone_number": "+91 77998 89915",
+    "website": "https://www.funfinity.ai/",
+    "rating": 4.9,
+    "reviews_count": 1187,
+    "address": "Ravi Priya Mall, Guntur Rd, Gopal Nagar, Ongole, Andhra Pradesh 523001",
+    "area": "Gopal Nagar",
+    "latitude": 15.5198038,
+    "longitude": 80.0481088,
+    "place_id": "ChIJRaF6vlkBSzoRbodE9VaUcXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRaF6vlkBSzoRbodE9VaUcXo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:41:42"
+  }
+]

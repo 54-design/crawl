@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi Bike Mechanic",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "522426",
+    "phone_number": "+91 63047 55437",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagarjuna Sagar, Pylon Colony Main Rd, Telangana 508202",
+    "area": "522426",
+    "latitude": 16.586641,
+    "longitude": 79.323735,
+    "place_id": "ChIJm5g8MNq1yjsRbpgnqEXhbSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5g8MNq1yjsRbpgnqEXhbSA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:04:55"
+  },
+  {
+    "business_name": "Bike Mechanic",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "522426",
+    "phone_number": "+91 63040 07211",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 23 Opp Myhtri TheatresDammaiguda Hyderabad Ecil, Telangana 522426",
+    "area": "522426",
+    "latitude": 16.4729603,
+    "longitude": 79.44601449999999,
+    "place_id": "ChIJScNNzZFNNToRgjvUODhtmM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScNNzZFNNToRgjvUODhtmM8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:04:58"
+  }
+]

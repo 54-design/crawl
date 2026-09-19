@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "4g new look spa & saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop",
+    "pincode": "522603",
+    "phone_number": "+91 95733 56162",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 116,
+    "address": "Subrayapuram, Annavaram, Andhra Pradesh 533406",
+    "area": "Subrayapuram",
+    "latitude": 17.275809499999998,
+    "longitude": 82.39900399999999,
+    "place_id": "ChIJfxfbcDzPOToR3QwRgzS1tQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxfbcDzPOToR3QwRgzS1tQg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:29"
+  },
+  {
+    "business_name": "Rama Madhuri Hair and Beauty",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522603",
+    "phone_number": "+91 98669 46787",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 229,
+    "address": "H P, Petrol bunk, back side, Annavaram, Andhra Pradesh 533406",
+    "area": "522603",
+    "latitude": 17.277675,
+    "longitude": 82.4013674,
+    "place_id": "ChIJ3XSbu1jPOToRQS5l_JaPaMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XSbu1jPOToRQS5l_JaPaMg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:29"
+  }
+]

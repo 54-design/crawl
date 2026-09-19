@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkata Ramana Ice Creams and Pizza Den",
+    "search_category": "Patisserie",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Pizza restaurant, Pizza takeaway, Sandwich shop",
+    "pincode": "522646",
+    "phone_number": "+91 99631 83396",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 250,
+    "address": "Lawers St, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0514704,
+    "longitude": 79.7413357,
+    "place_id": "ChIJ4doPtyqWSjoRiQNFF7qjAXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4doPtyqWSjoRiQNFF7qjAXM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:32"
+  },
+  {
+    "business_name": "Traditional Foods",
+    "search_category": "Patisserie",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "522646",
+    "phone_number": "+91 78930 29469",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 33,
+    "address": "Burandam Gardeners, 3-28-1/c, Burandam Gardeners, near Petrol Bunk, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.3143606,
+    "longitude": 80.422417,
+    "place_id": "ChIJm6vi2MR1SjoRspz7fyVri2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6vi2MR1SjoRspz7fyVri2Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:34"
+  }
+]

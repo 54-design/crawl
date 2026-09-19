@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522414",
+    "phone_number": "+91 88866 79232",
+    "website": "http://www.navata.com/",
+    "rating": 4,
+    "reviews_count": 36,
+    "address": "D.NO.11-51 NEAR SBI CENTER MACHARLA ROAD GURAZALA - 522415 GURAJALA, Andhra Pradesh 522415",
+    "area": "522414",
+    "latitude": 16.5575428,
+    "longitude": 79.63425269999999,
+    "place_id": "ChIJ3x4ejnxFNToRCM9kMveFJNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3x4ejnxFNToRCM9kMveFJNM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:29"
+  },
+  {
+    "business_name": "Ekart Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "522414",
+    "phone_number": "N/A",
+    "website": "https://ekartlogistics.com/",
+    "rating": 3.7,
+    "reviews_count": 34,
+    "address": "PJGQ+CQM, Damercherla, Telangana 508355",
+    "area": "522414",
+    "latitude": 16.7260941,
+    "longitude": 79.63943119999999,
+    "place_id": "ChIJQ-Vw-aY5NToRjJ_JunmX27k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-Vw-aY5NToRjJ_JunmX27k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:29"
+  }
+]

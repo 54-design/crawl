@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pl vet solutions",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "522414",
+    "phone_number": "+91 91543 71433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siri venchers, Gurazala, Andhra Pradesh 522415",
+    "area": "522414",
+    "latitude": 16.5639791,
+    "longitude": 79.64962489999999,
+    "place_id": "ChIJYUgxCJ1HNToRct80NfwZULY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUgxCJ1HNToRct80NfwZULY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:18"
+  },
+  {
+    "business_name": "Godavari pet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "522414",
+    "phone_number": "+91 74164 19466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ayyappa swamy temple road, 3-28-26,kundula road, Krishna Nagar main road, Ayyappa swamy temple street, opposite Apollo clinic, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+    "area": "Brindavan Gardens",
+    "latitude": 16.3129217,
+    "longitude": 80.4204682,
+    "place_id": "ChIJA3OsQvd1SjoRtiYvaObHN6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3OsQvd1SjoRtiYvaObHN6A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:18"
+  }
+]

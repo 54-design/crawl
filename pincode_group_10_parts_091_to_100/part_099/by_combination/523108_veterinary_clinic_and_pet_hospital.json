@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Bhavanam Pet Vet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Hospital",
+    "pincode": "523108",
+    "phone_number": "+91 86886 18657",
+    "website": "http://drbhavanampetvetclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 142,
+    "address": "Door No 154, 300, Gandhi Rd, opp. Karur Vysya Bank, near Purna Coaching Centre, Holmus Pet, Proddatur, Andhra Pradesh 516361",
+    "area": "Holmus Pet",
+    "latitude": 14.7525727,
+    "longitude": 78.5493333,
+    "place_id": "ChIJUU1UXa95tDsRGdrBiQDaALE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU1UXa95tDsRGdrBiQDaALE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:43"
+  },
+  {
+    "business_name": "Royal Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "523108",
+    "phone_number": "+91 83175 73606",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "D.No: 20/1A-7-21, Podalakur Rd, beside HDFC Bank, near Telugu ganga colony, Kottur, Nellore-1 Rular, Andhra Pradesh 524004",
+    "area": "Kottur",
+    "latitude": 14.413279,
+    "longitude": 79.9427414,
+    "place_id": "ChIJc7_cm2zzTDoRfjwqxqArkJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7_cm2zzTDoRfjwqxqArkJU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:43"
+  }
+]

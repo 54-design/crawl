@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Caramba Autoworks",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "522341",
+    "phone_number": "07432 133850",
+    "website": "http://carambaautoworks.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "unit 2 Crooks Ln, Studley B80 7QX, United Kingdom",
+    "area": "522341",
+    "latitude": 52.2693322,
+    "longitude": -1.8996206999999998,
+    "place_id": "ChIJ6Ygy0JbBcEgRH_sPMe8YMKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Ygy0JbBcEgRH_sPMe8YMKs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:40:58"
+  },
+  {
+    "business_name": "Car AC Works",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Parking lot",
+    "all_categories": "Parking lot",
+    "pincode": "522341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "76-1-6, Bhavanipuram, Gollapudi, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, Gollapudi",
+    "latitude": 16.5303285,
+    "longitude": 80.5898995,
+    "place_id": "ChIJ8zs5GQDvNToRwp5mM9tJGWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zs5GQDvNToRwp5mM9tJGWs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:41:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Chats",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Vegetarian restaurant",
+    "pincode": "523109",
+    "phone_number": "+91 94400 44064",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "HF5W+XGQ, Society Colony Main Rd, Kuravanka, P and T Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Kuravanka, P and T Colony",
+    "latitude": 13.559951799999999,
+    "longitude": 78.4963597,
+    "place_id": "ChIJL7HidrRnsjsRblxWJhhpLCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7HidrRnsjsRblxWJhhpLCM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:15"
+  },
+  {
+    "business_name": "CHAAT INDIA",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Panipuri shop",
+    "all_categories": "Panipuri shop",
+    "pincode": "523109",
+    "phone_number": "+91 96666 77412",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "D No:50-27, 19, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "State Bank, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7418863,
+    "longitude": 83.30738529999999,
+    "place_id": "ChIJiwZujkBDOToRKbLfWMEWg7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwZujkBDOToRKbLfWMEWg7Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:15"
+  }
+]

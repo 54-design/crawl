@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heritage Fresh",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 82,
+    "address": "H. NO.11-45, SY. NO. 327, S.V.K.P, College Road, Markapur, Andhra Pradesh 523105",
+    "area": "523105",
+    "latitude": 15.2041387,
+    "longitude": 79.9416549,
+    "place_id": "ChIJueUbdUQNSzoR3LV1QhULlSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueUbdUQNSzoR3LV1QhULlSQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:29"
+  },
+  {
+    "business_name": "Anuradha kirana store &cool drinks",
+    "search_category": "FMCG Distributor",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "road, Machavaram, Kandukur, Andhra Pradesh 523113",
+    "area": "523105",
+    "latitude": 15.133918699999999,
+    "longitude": 79.898358,
+    "place_id": "ChIJvdabocFtSzoRoZnm0znuiJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdabocFtSzoRoZnm0znuiJw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:29"
+  }
+]

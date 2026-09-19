@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayyavaripalem",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "523109",
+    "phone_number": "+91 95535 02828",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 45,
+    "address": "CP4M+R7H, Ayyavaripalem, Thangella, Andhra Pradesh 523270",
+    "area": "Ayyavaripalem",
+    "latitude": 15.4070057,
+    "longitude": 79.73321179999999,
+    "place_id": "ChIJZ8FCPnwiSzoR1RC29w9OAB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8FCPnwiSzoR1RC29w9OAB8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:20:10"
+  },
+  {
+    "business_name": "Eve Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "523109",
+    "phone_number": "+91 98495 42228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 84,
+    "address": "Alcot Gardens, next to flyover Bridge, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Alcot Gardens",
+    "latitude": 16.9770717,
+    "longitude": 81.7858906,
+    "place_id": "ChIJC-O0bAmjNzoRq4VX7vbx3ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-O0bAmjNzoRq4VX7vbx3ig",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:20:12"
+  }
+]

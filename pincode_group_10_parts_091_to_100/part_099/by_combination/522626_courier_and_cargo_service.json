@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajapeta Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "34Q7+C8F, Rajapeta, Andhra Pradesh 522626",
+    "area": "522626",
+    "latitude": 16.0885641,
+    "longitude": 80.1133045,
+    "place_id": "ChIJWfGKjJZiSjoR8lwuoRYhR4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfGKjJZiSjoR8lwuoRYhR4w",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:04"
+  },
+  {
+    "business_name": "Gopalam Vari Palem Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "33JP+X7X, Gopalam Vari Palem, Andhra Pradesh 522626",
+    "area": "522626",
+    "latitude": 16.0824763,
+    "longitude": 80.0857422,
+    "place_id": "ChIJMdoP3TqISjoRcqz63enCEeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdoP3TqISjoRcqz63enCEeo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:04"
+  }
+]

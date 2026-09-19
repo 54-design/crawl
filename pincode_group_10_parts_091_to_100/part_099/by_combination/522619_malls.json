@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajula bazar",
+    "search_category": "Malls",
+    "primary_category": "Bazar",
+    "all_categories": "Bazar",
+    "pincode": "522619",
+    "phone_number": "+91 98858 50803",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 32,
+    "address": "Unnamed Road, Ganapavaram, Andhra Pradesh 522619",
+    "area": "522619",
+    "latitude": 16.125453699999998,
+    "longitude": 80.1705827,
+    "place_id": "ChIJm5f5sLZ8SjoRdMuy-6059lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5f5sLZ8SjoRdMuy-6059lU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:28"
+  },
+  {
+    "business_name": "Balaiah shop సురుగుల_వెంకటేశ్వర్లు",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522619",
+    "phone_number": "+91 81426 57033",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "4636+CC7, Veluru, Andhra Pradesh 522619",
+    "area": "522619",
+    "latitude": 16.1035438,
+    "longitude": 80.2110415,
+    "place_id": "ChIJyXUCS8dkSjoRqG7KeEMmiwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXUCS8dkSjoRqG7KeEMmiwk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:28"
+  }
+]

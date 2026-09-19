@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanuman hair style",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522415",
+    "phone_number": "+91 63043 52633",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Checkpost center, Karempudi, Andhra Pradesh 522614",
+    "area": "522415",
+    "latitude": 16.427577799999998,
+    "longitude": 79.72172479999999,
+    "place_id": "ChIJ28bn8FxdNToR0s9vgZOpuMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28bn8FxdNToR0s9vgZOpuMo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:31"
+  },
+  {
+    "business_name": "Lingaiah Barber Shop",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "522415",
+    "phone_number": "+91 91827 58505",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "near zp high school, main road, Jangameshwarapuram, Andhra Pradesh 522415",
+    "area": "Jangameshwarapuram",
+    "latitude": 16.537401199999998,
+    "longitude": 79.6395952,
+    "place_id": "ChIJLQyeZQ1ENToROlJzqXKxmLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQyeZQ1ENToROlJzqXKxmLk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:31"
+  }
+]

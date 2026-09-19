@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swetha Pvc Industries",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "522438",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "06-103, Guntur - Sattenapalli Rd, Bhavanipuram, Ananda Theertha Agraharam, Guntur, Kantepudi, Andhra Pradesh 522438",
+    "area": "Bhavanipuram, Ananda Theertha Agraharam",
+    "latitude": 16.3771579,
+    "longitude": 80.2198583,
+    "place_id": "ChIJYbpBS-2GNToRxRsi3qYeoow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbpBS-2GNToRxRsi3qYeoow",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:12:36"
+  },
+  {
+    "business_name": "PGN Agencies",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "522438",
+    "phone_number": "+91 83281 44318",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "3, Tvr Road, Vissannapeta, Andhra Pradesh 521215",
+    "area": "522438",
+    "latitude": 16.9420707,
+    "longitude": 80.7796106,
+    "place_id": "ChIJ2bP14irXNToRJKEDkftaVh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bP14irXNToRJKEDkftaVh4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:12:36"
+  }
+]

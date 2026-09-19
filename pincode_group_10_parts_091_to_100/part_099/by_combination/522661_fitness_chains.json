@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xtream fitness gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "522661",
+    "phone_number": "+91 77308 40249",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 287,
+    "address": "Sai Baba Temple St, gullalapalem, Sriharipuram, Visakhapatnam, Andhra Pradesh 530011",
+    "area": "gullalapalem, Sriharipuram",
+    "latitude": 17.688489099999998,
+    "longitude": 83.2338055,
+    "place_id": "ChIJofXbpQhpOToR_X9E7WtZ52E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofXbpQhpOToR_X9E7WtZ52E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:04:50"
+  },
+  {
+    "business_name": "SQUAD FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "522661",
+    "phone_number": "+91 77999 88317",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Madeti Gardens, 45-47-22/5, Akkayyapalem 80 Feet Rd, Akkayapalem Vsp, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Akkayapalem Vsp, Akkayyapalem",
+    "latitude": 17.735365899999998,
+    "longitude": 83.2978028,
+    "place_id": "ChIJNQ__aQBDOToRMxawbUjm0kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQ__aQBDOToRMxawbUjm0kE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:04:50"
+  }
+]

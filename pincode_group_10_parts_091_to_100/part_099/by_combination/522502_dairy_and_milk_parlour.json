@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "522502",
+    "phone_number": "+91 99893 22741",
+    "website": "https://www.hapdaily.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No.5-504 K 1, Tenali Rd, opp. IOB, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522502",
+    "latitude": 16.4287262,
+    "longitude": 80.5737517,
+    "place_id": "ChIJm5G5xWXxNToRqnNOwMY9Guw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5G5xWXxNToRqnNOwMY9Guw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:28"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "522502",
+    "phone_number": "+91 99487 92903",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "REVENUE WARD NO.5, D.NO.5-601-A, Baptist Pet, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Baptist Pet",
+    "latitude": 16.428732999999998,
+    "longitude": 80.5705625,
+    "place_id": "ChIJUffzOo07tjsR0C9S4UlgYAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUffzOo07tjsR0C9S4UlgYAE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPA Insurance Broking Services Limited",
+    "search_category": "Spa Consultants",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Corporate office",
+    "pincode": "523111",
+    "phone_number": "+91 11 4567 5500",
+    "website": "https://www.spacapital.com/Risk-Management.html",
+    "rating": 3,
+    "reviews_count": 11,
+    "address": "C Block Community Centre, C-25, Mall Rd, Block C 6A, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Block C 6A, Janakpuri",
+    "latitude": 28.6111497,
+    "longitude": 77.0946592,
+    "place_id": "ChIJeTkw16wEDTkR1MuH-CUvafQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTkw16wEDTkR1MuH-CUvafQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:48"
+  },
+  {
+    "business_name": "The Spa Group India Hariyana",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "523111",
+    "phone_number": "+91 124 438 5592",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 33,
+    "address": "J2, 14, J-2, DLF Phase 2, Sector 25, Sarhol, Haryana 122002",
+    "area": "DLF Phase 2, Sector 25",
+    "latitude": 28.4823095,
+    "longitude": 77.0866549,
+    "place_id": "ChIJyY7UjCQZDTkRYoLvn9O7o2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyY7UjCQZDTkRYoLvn9O7o2Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:48"
+  }
+]

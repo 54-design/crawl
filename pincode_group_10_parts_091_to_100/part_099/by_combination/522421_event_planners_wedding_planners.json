@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivaha and Co",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "522421",
+    "phone_number": "+91 94909 12616",
+    "website": "https://vivahaandco.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Guntur Road, opposite to Govt Civil Court, Macherla, Andhra Pradesh 522426",
+    "area": "522421",
+    "latitude": 16.472824,
+    "longitude": 79.447102,
+    "place_id": "ChIJeaber7dNNToRLQyA-jYFNj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaber7dNNToRLQyA-jYFNj0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:03:28"
+  },
+  {
+    "business_name": "DE Event and Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Entertainment agency, Service establishment, Event management company, Event planner, Party planner, Wedding service",
+    "pincode": "522421",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DE Event and Wedding Planner, 522421, India",
+    "area": "522421",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJHSKqMQ7xDDkR7bMUdIzTIqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSKqMQ7xDDkR7bMUdIzTIqs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:03:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghava Hair Styles",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "522330",
+    "phone_number": "+91 94930 32742",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sivalayam Centre, Station Rd, Pedavadlapudi, Andhra Pradesh 522302",
+    "area": "522330",
+    "latitude": 16.411782499999997,
+    "longitude": 80.6109647,
+    "place_id": "ChIJXf9Z5En3NToRlYcRbEw3GLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXf9Z5En3NToRlYcRbEw3GLA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:39:20"
+  },
+  {
+    "business_name": "Arjun Gents Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Revendrapadu, Nutakki, Andhra Pradesh 522302",
+    "area": "Revendrapadu",
+    "latitude": 16.4061295,
+    "longitude": 80.6222284,
+    "place_id": "ChIJ46RFt1r3NToRDK-lwclInj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46RFt1r3NToRDK-lwclInj4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:39:23"
+  }
+]

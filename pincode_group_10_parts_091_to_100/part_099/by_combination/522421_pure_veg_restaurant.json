@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Annapurna Vilas",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522421",
+    "phone_number": "+91 86422 24856",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Guntur, SH-2, Sagar Road, Macherla, Macherla, Andhra Pradesh 522426",
+    "area": "13th Ward",
+    "latitude": 16.474664999999998,
+    "longitude": 79.43593299999999,
+    "place_id": "ChIJ-9uy3JlNNToRNBnB9PtTh-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9uy3JlNNToRNBnB9PtTh-A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:02:37"
+  },
+  {
+    "business_name": "Sri Mani Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522421",
+    "phone_number": "+91 90100 13987",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mirchi Yard, Road, opp. Macherla, Rentachintala, Andhra Pradesh 522421",
+    "area": "522421",
+    "latitude": 16.549482299999998,
+    "longitude": 79.5385435,
+    "place_id": "ChIJg1qB-JNPNToR2U_Kd8-SBng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1qB-JNPNToR2U_Kd8-SBng",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:02:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagur Electrical & Plumbing works",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Plumber",
+    "pincode": "522626",
+    "phone_number": "+91 83338 66631",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "Chaitanya Nagar, Erragondapalem, Markapur, Andhra Pradesh 523327",
+    "area": "Chaitanya Nagar",
+    "latitude": 16.0429434,
+    "longitude": 79.3070388,
+    "place_id": "ChIJ-WQQfOhNtTsR3vUDmkHWvA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WQQfOhNtTsR3vUDmkHWvA4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:23"
+  },
+  {
+    "business_name": "UK Plumbing & electrical installation services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Bathroom remodeler, Drainage service, Electrical installation service, Repair service, Water Tank Cleaners",
+    "pincode": "522626",
+    "phone_number": "+91 80959 59775",
+    "website": "https://ukplumbing.in/",
+    "rating": 4.8,
+    "reviews_count": 810,
+    "address": "Sathya Sai Layout, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Sathya Sai Layout, Whitefield",
+    "latitude": 12.9698081,
+    "longitude": 77.7498992,
+    "place_id": "ChIJwwZNQ2oPrjsRRpso6VkAaXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwZNQ2oPrjsRRpso6VkAaXc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:23"
+  }
+]

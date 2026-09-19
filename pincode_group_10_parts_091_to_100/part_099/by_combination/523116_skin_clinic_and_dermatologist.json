@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Pediatric dermatologist",
+    "pincode": "523116",
+    "phone_number": "+91 80194 64040",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 79,
+    "address": "Abid Nagar Rd, beside PEN school, opp. Masjid-E, Taj Bagh, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Taj Bagh, Akkayyapalem",
+    "latitude": 17.7396621,
+    "longitude": 83.29986889999999,
+    "place_id": "ChIJ4XE21XFDOToR9j4-X6b7v1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XE21XFDOToR9j4-X6b7v1A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:33"
+  },
+  {
+    "business_name": "Deepak Skin & Hair Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "523116",
+    "phone_number": "+91 82470 35660",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 675,
+    "address": "45/377-10, Main Rd 1, near crime police station, Tilak Nagar, Balaji Nagar, Nagarajupeta, Andhra Pradesh 516001",
+    "area": "Tilak Nagar, Balaji Nagar",
+    "latitude": 14.464761399999999,
+    "longitude": 78.8189158,
+    "place_id": "ChIJQ704OeVzszsRg9yaVpUwb0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ704OeVzszsRg9yaVpUwb0Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:34"
+  }
+]

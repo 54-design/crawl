@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OMNI Hospitals | Best Multispeciality Hospital in Visakhapatnam",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "522663",
+    "phone_number": "+91 88801 01000",
+    "website": "https://omnihospitals.in/vizag/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Waltair Main Rd, opp. Lions Club, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Ram Nagar",
+    "latitude": 17.7183897,
+    "longitude": 83.31115419999999,
+    "place_id": "ChIJd2WqthVDOToR3YTObu2tmTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2WqthVDOToR3YTObu2tmTY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:30"
+  },
+  {
+    "business_name": "Satyadev Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522663",
+    "phone_number": "+91 88866 33792",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pudimadaka Rd, besides Bajaj Electronics, Sarada Colony, Anakapalli, Andhra Pradesh 531001",
+    "area": "Sarada Colony",
+    "latitude": 17.6845239,
+    "longitude": 83.001483,
+    "place_id": "ChIJL5uXTShxOToRPCXLBf-NSnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5uXTShxOToRPCXLBf-NSnc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:30"
+  }
+]

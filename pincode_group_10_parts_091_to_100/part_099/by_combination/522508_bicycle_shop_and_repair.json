@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BikeBandits",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "522508",
+    "phone_number": "+91 86865 15131",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 113,
+    "address": "Mahatma Gandhi Inner Ring Rd, opposite Vijay digitals, Velangini Nagar, Guntur, Andhra Pradesh 522034",
+    "area": "Velangini Nagar",
+    "latitude": 16.3304906,
+    "longitude": 80.4467822,
+    "place_id": "ChIJo2Sl9SaLNToRDgYoG8g2y00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2Sl9SaLNToRDgYoG8g2y00",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:55"
+  },
+  {
+    "business_name": "S bikes",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "522508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lakshmi nagar 7th line, Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.3469601,
+    "longitude": 80.4411291,
+    "place_id": "ChIJbX6Zyn2LNToRnIBYxQhq8BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbX6Zyn2LNToRnIBYxQhq8BQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:56"
+  }
+]

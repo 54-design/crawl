@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency, Minibus taxi service, Taxi service, Tour operator",
+    "pincode": "523115",
+    "phone_number": "N/A",
+    "website": "https://www.ramtravelsrke.in/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "mission market, 16, Haridwar Rd, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.873690099999997,
+    "longitude": 77.8938343,
+    "place_id": "ChIJFZ0H-cmzDjkRFX8amDwnaHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZ0H-cmzDjkRFX8amDwnaHM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:54"
+  },
+  {
+    "business_name": "Uniyal Bus Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "523115",
+    "phone_number": "+91 97600 25375",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 297,
+    "address": "Raipur Rd, Bangakhala, Kidduwala, Dehradun, Uttarakhand 248008",
+    "area": "Bangakhala, Kidduwala",
+    "latitude": 30.300989299999998,
+    "longitude": 78.0935938,
+    "place_id": "ChIJ2XVIu-8pCTkRms--e2F0FJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XVIu-8pCTkRms--e2F0FJ4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:54"
+  }
+]

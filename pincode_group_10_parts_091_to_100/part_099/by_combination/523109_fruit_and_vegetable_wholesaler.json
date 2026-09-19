@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amd Fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "523109",
+    "phone_number": "+91 99491 49664",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "8/107, line Old busstand, Dist, near Guntabavi Street, Hanumesh Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Hanumesh Nagar",
+    "latitude": 15.1655173,
+    "longitude": 77.375449,
+    "place_id": "ChIJ2cCHSvXltjsR8FQxV_2VDmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cCHSvXltjsR8FQxV_2VDmM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:04"
+  },
+  {
+    "business_name": "R K Reddy Mangoes Nellore",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "523109",
+    "phone_number": "+91 94402 54035",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "victory complex, 13/666, Chinna Bazar Rd, Kukkalagunta, Ramji Nagar, Nellore, Andhra Pradesh 524001",
+    "area": "Kukkalagunta, Ramji Nagar",
+    "latitude": 14.4560816,
+    "longitude": 79.97996479999999,
+    "place_id": "ChIJS8WtfIONTDoR44g9zz8R13A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8WtfIONTDoR44g9zz8R13A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:04"
+  }
+]

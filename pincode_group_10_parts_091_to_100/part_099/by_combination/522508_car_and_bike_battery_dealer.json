@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roshan Battery Works",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Manufacturer, Battery Wholesaler, Battery Store",
+    "pincode": "522508",
+    "phone_number": "+91 63093 32097",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Plot no 277 ,phase 1&2 complex road Indira, Autonagar, Agatavarappadu, Andhra Pradesh 522001",
+    "area": "Autonagar",
+    "latitude": 16.3251881,
+    "longitude": 80.4788301,
+    "place_id": "ChIJNSli3cT1NToRoiKpDAlfeYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSli3cT1NToRoiKpDAlfeYE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:53"
+  },
+  {
+    "business_name": "GHS BATTERY",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Manufacturer",
+    "all_categories": "Battery Manufacturer",
+    "pincode": "522508",
+    "phone_number": "+91 99495 32182",
+    "website": "https://ghsgreenenergy.com/",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "Survey No:281-B-2,Venigandla village, DT, Pedakakani, Andhra Pradesh 522509",
+    "area": "522508",
+    "latitude": 16.3508538,
+    "longitude": 80.4738793,
+    "place_id": "ChIJka9IQhb1NToRcBh1LbPEQSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka9IQhb1NToRcBh1LbPEQSE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyothi Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Pen store",
+    "pincode": "522501",
+    "phone_number": "+91 90303 59459",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 109,
+    "address": "beside Seshmahal Theater, Subbaraopet, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Subbaraopet",
+    "latitude": 16.8124397,
+    "longitude": 81.52987619999999,
+    "place_id": "ChIJqzy-C7m0NzoRTgiPMia2iKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzy-C7m0NzoRTgiPMia2iKE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:16:47"
+  },
+  {
+    "business_name": "Sri dasanjaneya store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "522501",
+    "phone_number": "+91 99483 60489",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near police station, Kunchanapalle, Tadepalle, Andhra Pradesh 522501",
+    "area": "Kunchanapalle",
+    "latitude": 16.4815809,
+    "longitude": 80.6038951,
+    "place_id": "ChIJq4ke34HxNToR248JmSfSy8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4ke34HxNToR248JmSfSy8c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:16:48"
+  }
+]

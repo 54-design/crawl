@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kandukur Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "6W83+GHQ, DV Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "DV Nagar",
+    "latitude": 15.2163496,
+    "longitude": 79.90399599999999,
+    "place_id": "ChIJx1ESBlATSzoRPQtRP2SnunA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1ESBlATSzoRPQtRP2SnunA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:16:50"
+  },
+  {
+    "business_name": "THE PROFESSIONAL COURIERS",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523105",
+    "phone_number": "+91 90524 40565",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop NO 27, Subhadra Arcade, Bhanugudi Jct, Police Quarters, Kakinada, Andhra Pradesh 533003",
+    "area": "Police Quarters",
+    "latitude": 16.9713889,
+    "longitude": 82.2357349,
+    "place_id": "ChIJC68vpBQoODoRc1o2odt5HIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC68vpBQoODoRc1o2odt5HIA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:16:51"
+  }
+]

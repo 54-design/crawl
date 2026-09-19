@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivas Santosh & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Accountant, Auditor",
+    "pincode": "522549",
+    "phone_number": "+91 99518 80011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "1-1-19/4,By Pass, Road, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Barampet",
+    "latitude": 16.2424932,
+    "longitude": 80.05152389999999,
+    "place_id": "ChIJez4C7xyBSjoRhCuniK_nUUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJez4C7xyBSjoRhCuniK_nUUs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:19"
+  },
+  {
+    "business_name": "CMA CHENNAREDDY & ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Cost accounting service",
+    "pincode": "522549",
+    "phone_number": "+91 81258 29719",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-72, 1-72, main road, near ramalayam, Manukondavari palem, Andhra Pradesh 522616",
+    "area": "522549",
+    "latitude": 16.0929899,
+    "longitude": 80.2003505,
+    "place_id": "ChIJAb5OTABjSjoRrbzsLI365gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAb5OTABjSjoRrbzsLI365gU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAFE",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "523104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "726F+3JM, Mulaguntapadu, Andhra Pradesh 523101",
+    "area": "523104",
+    "latitude": 15.260205599999999,
+    "longitude": 80.0240613,
+    "place_id": "ChIJX-hOn-4LSzoRC2__KsBnOA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-hOn-4LSzoRC2__KsBnOA8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:14"
+  },
+  {
+    "business_name": "Mana Gromor Ulavapadu",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "523104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "5295+XXC, Ulavapadu Rd, Ulavapadu, Kollurupadu Rajupalem, Andhra Pradesh 523292",
+    "area": "Ulavapadu",
+    "latitude": 15.169946099999999,
+    "longitude": 80.0098802,
+    "place_id": "ChIJ101pTEV1SzoR8T4KI-Cyxq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ101pTEV1SzoR8T4KI-Cyxq4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:14"
+  }
+]

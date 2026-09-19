@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reshma ladies and gents tailoring shop",
+    "search_category": "Boutiques",
+    "primary_category": "Work clothes store",
+    "all_categories": "Work clothes store",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25H5+5WG, Ananthavaram Chennupalli Rd, Anatavaram, Andhra Pradesh 523301",
+    "area": "522626",
+    "latitude": 16.027943099999998,
+    "longitude": 80.15983039999999,
+    "place_id": "ChIJw319d2tjSjoRKXXG0o2A1Mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw319d2tjSjoRKXXG0o2A1Mo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:57"
+  },
+  {
+    "business_name": "Sri botu veeranjanaya traders",
+    "search_category": "Boutiques",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "24Q3+RCW, Murikipudi, Andhra Pradesh 522626",
+    "area": "522626",
+    "latitude": 16.0396215,
+    "longitude": 80.1035721,
+    "place_id": "ChIJg_3oOMljSjoRtY880tgC79s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_3oOMljSjoRtY880tgC79s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL PARTHA SARATHI",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522663",
+    "phone_number": "+91 73493 22246",
+    "website": "https://www.youtube.com/@HOTELPARTHASARATHI-2024",
+    "rating": 4.2,
+    "reviews_count": 697,
+    "address": "Malavalli, Baachana Halli, Karnataka 571430",
+    "area": "522663",
+    "latitude": 12.3451875,
+    "longitude": 77.0836875,
+    "place_id": "ChIJldPTRAAFrzsRodogczbhXx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldPTRAAFrzsRodogczbhXx8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:16"
+  },
+  {
+    "business_name": "Rumaan Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant, Breakfast restaurant, Fast food restaurant, Non Vegetarian Restaurant, Tea house",
+    "pincode": "522663",
+    "phone_number": "+91 98489 81448",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 6245,
+    "address": "Opp e azam, Masjid e Omer Farooq, Mustafa Nagar, Chandrayangutta, NH 7, Hyderabad, Telangana 500005",
+    "area": "Kummar Basthi, Chandrayangutta",
+    "latitude": 17.3279825,
+    "longitude": 78.4813241,
+    "place_id": "ChIJRVgSr66iyzsRFn4ImfRSoO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVgSr66iyzsRFn4ImfRSoO8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:16"
+  }
+]

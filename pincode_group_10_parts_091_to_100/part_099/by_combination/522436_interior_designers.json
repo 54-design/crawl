@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acquire Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Modular home dealer",
+    "pincode": "522436",
+    "phone_number": "+91 87905 52341",
+    "website": "https://sites.google.com/view/acquireinteriors/home",
+    "rating": 4.9,
+    "reviews_count": 70,
+    "address": "1st Floor, Phase, 1, Mahatma Gandhi Inner Ring Rd, opp. Apollo Pharmacy, Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.3336124,
+    "longitude": 80.4437505,
+    "place_id": "ChIJr1kGi3t1SjoR094812MrUOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1kGi3t1SjoR094812MrUOM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:51"
+  },
+  {
+    "business_name": "Awesome Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "522436",
+    "phone_number": "+91 84998 88819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "2nd Floor, Amma Plaza, 134/77, Mahatma Gandhi Inner Ring Rd, Phase-2, Guntur, Gorantla, Andhra Pradesh 522034",
+    "area": "Phase-2",
+    "latitude": 16.336089599999998,
+    "longitude": 80.4317394,
+    "place_id": "ChIJEyXgJwKLNToRDx9W7XGtBtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyXgJwKLNToRDx9W7XGtBtw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:51"
+  }
+]

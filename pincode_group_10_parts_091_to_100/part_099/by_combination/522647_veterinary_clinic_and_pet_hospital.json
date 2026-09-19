@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri lakshmi Venkateswara Vet Medicals",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522647",
+    "phone_number": "+91 94908 45336",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-195, Markaz Masjid Area, Mullamuru, Vinukonda, Andhra Pradesh 522647",
+    "area": "Markaz Masjid Area, Mullamuru",
+    "latitude": 16.047013,
+    "longitude": 79.73941099999999,
+    "place_id": "ChIJCbP4ACu9SjoRIZI6N9X8rro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCbP4ACu9SjoRIZI6N9X8rro",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:47"
+  },
+  {
+    "business_name": "Palnadu vet medicals and Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522647",
+    "phone_number": "+91 97018 13468",
+    "website": "http://www.palnadupetclinic.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Main Gate, Bus Stand, Road, opposite Government Junior College, beside Jayathi Hospital, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0531679,
+    "longitude": 79.7397447,
+    "place_id": "ChIJxY3nP4eXSjoRGbxqhvMRrH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxY3nP4eXSjoRGbxqhvMRrH4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:47"
+  }
+]

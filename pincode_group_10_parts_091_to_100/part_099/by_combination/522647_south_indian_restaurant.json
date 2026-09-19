@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BILAL DUM BIRYANI POINT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "522647",
+    "phone_number": "+91 94942 99289",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "NRT Rd, beside Nsp Saibaba Temple, Mulakaluru, Vinukonda, Andhra Pradesh 522647",
+    "area": "Mulakaluru",
+    "latitude": 16.0561304,
+    "longitude": 79.7478434,
+    "place_id": "ChIJG_XK51iXSjoRrvC0Fn9zZdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_XK51iXSjoRrvC0Fn9zZdQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:26"
+  },
+  {
+    "business_name": "URVASI RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "522647",
+    "phone_number": "+91 80088 36333",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 457,
+    "address": "Podili Rd, opposite to SBI, Darsi, Andhra Pradesh 523247",
+    "area": "522647",
+    "latitude": 15.768462999999999,
+    "longitude": 79.6789721,
+    "place_id": "ChIJr4rahAnDSjoR2mh3VFn4yr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4rahAnDSjoR2mh3VFn4yr8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:28"
+  }
+]

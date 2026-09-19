@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hk family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523109",
+    "phone_number": "+91 99499 40328",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "opposite substation, Vengalapuram, Lingasamudram, Andhra Pradesh 523114",
+    "area": "523109",
+    "latitude": 15.1227681,
+    "longitude": 79.712156,
+    "place_id": "ChIJF5v2OABBSzoRSBs69dn3wDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5v2OABBSzoRSBs69dn3wDs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:16"
+  },
+  {
+    "business_name": "Club 10 restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523109",
+    "phone_number": "+91 96000 49236",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "6WFF+Q26, Oguru, Andhra Pradesh 523105",
+    "area": "523109",
+    "latitude": 15.2244915,
+    "longitude": 79.9222413,
+    "place_id": "ChIJH4ddJ5cNSzoRGC_LXPbUpSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4ddJ5cNSzoRGC_LXPbUpSQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:17"
+  }
+]

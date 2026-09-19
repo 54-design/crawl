@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamata furnitures",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "522402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "H.No.8, 6-98, Gollamudi Vari St, opp. Bengaluru Ayyangar Bakery, Sattenapalle, Andhra Pradesh 522403",
+    "area": "522402",
+    "latitude": 16.3959532,
+    "longitude": 80.14878879999999,
+    "place_id": "ChIJPZyxIwCBNToRiU0CUKNj2tA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZyxIwCBNToRiU0CUKNj2tA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:45:00"
+  },
+  {
+    "business_name": "SRI Sai Durga Furnitures",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "522402",
+    "phone_number": "+91 76749 19986",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 24,
+    "address": "94WX+383, 6, Journalist Complex Rd, Sattenapalle, Andhra Pradesh 522403",
+    "area": "522402",
+    "latitude": 16.396092499999998,
+    "longitude": 80.14816019999999,
+    "place_id": "ChIJvamnPdaBNToRPagtIX7GHfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvamnPdaBNToRPagtIX7GHfI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:45:00"
+  }
+]

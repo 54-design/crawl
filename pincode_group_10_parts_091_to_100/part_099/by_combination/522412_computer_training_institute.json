@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "u r choice computer institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "522412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C599+MFV, Bhimavarm, Andhra Pradesh 522402",
+    "area": "522412",
+    "latitude": 16.4192399,
+    "longitude": 80.1686734,
+    "place_id": "ChIJq6qqGuuDNToRMHmpLeU9DBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqGuuDNToRMHmpLeU9DBQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:56:19"
+  },
+  {
+    "business_name": "Loyola Institute Of Technology And Management",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, College",
+    "pincode": "522412",
+    "phone_number": "+91 98681 80335",
+    "website": "http://www.litam.ac.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sattenapalli Main Rd, Dhulipalla, Andhra Pradesh 522412",
+    "area": "522412",
+    "latitude": 16.422162,
+    "longitude": 80.078001,
+    "place_id": "ChIJAQAA0Lx4NToRtiyuEaUguIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA0Lx4NToRtiyuEaUguIY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:56:22"
+  }
+]

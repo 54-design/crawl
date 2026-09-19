@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS COOL DRINKS",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "523111",
+    "phone_number": "+91 70325 93234",
+    "website": "https://www.sudhakarxerox.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Punugodu, Kanigiri, Andhra Pradesh 523254",
+    "area": "523111",
+    "latitude": 15.417344799999999,
+    "longitude": 79.5678956,
+    "place_id": "ChIJy1wSS30lSzoRij5oDEr0VTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1wSS30lSzoRij5oDEr0VTk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:45"
+  },
+  {
+    "business_name": "Paluri Grocery Shop",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kanigiri - Kamepalli Rd, Bommireddi Palle, Andhra Pradesh 523254",
+    "area": "523111",
+    "latitude": 15.402799799999999,
+    "longitude": 79.5998145,
+    "place_id": "ChIJv3bg-vclSzoRzw1-wAh4JEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3bg-vclSzoRzw1-wAh4JEA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:45"
+  }
+]

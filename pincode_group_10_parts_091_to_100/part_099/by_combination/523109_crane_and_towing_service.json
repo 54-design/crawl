@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati Multi Car Garage",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "523109",
+    "phone_number": "+91 75690 42337",
+    "website": "https://www.tirupatimulticargarage.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kothapalli, Tirupati, Andhra Pradesh 517501",
+    "area": "Kothapalli",
+    "latitude": 13.638799299999999,
+    "longitude": 79.44105789999999,
+    "place_id": "ChIJIwiCmktLTToRJvc84snrAwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwiCmktLTToRJvc84snrAwU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:46"
+  },
+  {
+    "business_name": "Kavitha Cranes & Recovery Vehicle Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "523109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "QGF8+V3G, Power House Colony, Godavarikhani, Ramagundam, Telangana 505209",
+    "area": "Power House Colony, Godavarikhani",
+    "latitude": 18.774686799999998,
+    "longitude": 79.51519259999999,
+    "place_id": "ChIJN-Gn9N_OMjoRdzpFvcSJQCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-Gn9N_OMjoRdzpFvcSJQCk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:47"
+  }
+]

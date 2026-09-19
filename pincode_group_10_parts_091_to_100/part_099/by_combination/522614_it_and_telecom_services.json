@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padma medical top",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "522614",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FVJQ+789, Piduguralla, Andhra Pradesh 522413",
+    "area": "522614",
+    "latitude": 16.4806588,
+    "longitude": 79.88836069999999,
+    "place_id": "ChIJ5yP2SgBvNToRHlmGijxDuY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yP2SgBvNToRHlmGijxDuY4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:41:33"
+  },
+  {
+    "business_name": "Sri Vengamamba Mobiles",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "522614",
+    "phone_number": "+91 95539 03904",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "India, Piduguralla, Andhra Pradesh 522413",
+    "area": "522614",
+    "latitude": 16.481061099999998,
+    "longitude": 79.8884574,
+    "place_id": "ChIJbQhG33FvNToRvifPefuB7GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQhG33FvNToRvifPefuB7GA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:41:33"
+  }
+]

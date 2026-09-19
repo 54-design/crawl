@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "49-9-22, Lalitha Nagar, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Lalitha Nagar, Akkayyapalem",
+    "latitude": 17.7328632,
+    "longitude": 83.3004342,
+    "place_id": "ChIJMbPEGQBDOToRyC8E01X8H8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbPEGQBDOToRyC8E01X8H8Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:59"
+  },
+  {
+    "business_name": "Isha Yoga Center, Gachibowli, Hyderabad (Yoga Classes designed by Sadhguru)",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Meditation center",
+    "pincode": "523105",
+    "phone_number": "+91 40 4189 6666",
+    "website": "https://isha.sadhguru.org/en/center/yoga-classes-hyderabad",
+    "rating": 4.8,
+    "reviews_count": 118,
+    "address": "2nd floor, Lavanya Arcade, Plot No-39, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Jayabheri Enclave, Gachibowli",
+    "latitude": 17.449044699999998,
+    "longitude": 78.36298769999999,
+    "place_id": "ChIJC-jpauuTyzsR_SWUdZsT3QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-jpauuTyzsR_SWUdZsT3QY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:59"
+  }
+]

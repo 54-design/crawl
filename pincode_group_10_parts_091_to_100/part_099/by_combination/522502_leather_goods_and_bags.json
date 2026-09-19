@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Deccan Leather Works",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "522502",
+    "phone_number": "+91 97005 45175",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "S No, 9-8-145, opp. ICICI Bank, .GB. traders, Maruthi Nagar, back said, Santosh Nagar, Hyderabad, Telangana 500059",
+    "area": "Maruthi Nagar, back said, Santosh Nagar",
+    "latitude": 17.3440559,
+    "longitude": 78.5079098,
+    "place_id": "ChIJl7N47XCYyzsRaEVaOU5nxuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7N47XCYyzsRaEVaOU5nxuM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:46"
+  },
+  {
+    "business_name": "Leather House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "522502",
+    "phone_number": "+91 70201 25305",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lokmanya Nagar, Nagpur, Maharashtra 441110",
+    "area": "Lokmanya Nagar",
+    "latitude": 21.110046,
+    "longitude": 79.00063329999999,
+    "place_id": "ChIJy3w530uV1DsRRCTqbWRasF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3w530uV1DsRRCTqbWRasF8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:46"
+  }
+]

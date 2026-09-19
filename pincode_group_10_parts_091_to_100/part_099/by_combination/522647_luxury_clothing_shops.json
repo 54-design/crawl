@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KANAK FASHIONS",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522647",
+    "phone_number": "+91 98488 86838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SRI HARI COMPLEX, Palnadu Rd, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0515758,
+    "longitude": 79.74032989999999,
+    "place_id": "ChIJeYSGPhy9SjoRswyDrpvPaxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYSGPhy9SjoRswyDrpvPaxA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:39"
+  },
+  {
+    "business_name": "MOHIT FASHIONS",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522647",
+    "phone_number": "+91 98488 86838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "23/25, Palnadu Rd, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.051420999999998,
+    "longitude": 79.74006039999999,
+    "place_id": "ChIJEQ1yqCqWSjoRYstAWd3m6yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQ1yqCqWSjoRYstAWd3m6yI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:39"
+  }
+]

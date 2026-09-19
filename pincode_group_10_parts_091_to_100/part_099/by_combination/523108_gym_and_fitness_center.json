@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "523108",
+    "phone_number": "+91 90103 22894",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bypass road, opp. Ramachandra hospital, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.5836999,
+    "longitude": 79.11408329999999,
+    "place_id": "ChIJ7yEaG7cntTsRAWTBInGoDcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yEaG7cntTsRAWTBInGoDcc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:45"
+  },
+  {
+    "business_name": "AYUSHMAN BHARATH HEALTH WELLNESS CENTER",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "523108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pedagogulapalle, Andhra Pradesh 523223",
+    "area": "523108",
+    "latitude": 15.260006899999999,
+    "longitude": 79.3165145,
+    "place_id": "ChIJS0yJQ2zMtDsR81z3sOnNrz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0yJQ2zMtDsR81z3sOnNrz8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:45"
+  }
+]

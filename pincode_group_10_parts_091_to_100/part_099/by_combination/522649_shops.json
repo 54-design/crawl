@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ration Shop",
+    "search_category": "Shops",
+    "primary_category": "Government ration shop",
+    "all_categories": "Government ration shop",
+    "pincode": "522649",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3RC8+86M, Pitchikalapalem, Andhra Pradesh 522649",
+    "area": "522649",
+    "latitude": 16.0708362,
+    "longitude": 79.81553629999999,
+    "place_id": "ChIJc8z6rDuXSjoRe3KxqQtP-QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8z6rDuXSjoRe3KxqQtP-QY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:56:50"
+  },
+  {
+    "business_name": "Salamma General Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522649",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2QGR+VMQ, Kancherla Colony, Peda Kancherla, Andhra Pradesh 522649",
+    "area": "Kancherla Colony",
+    "latitude": 16.0272047,
+    "longitude": 79.7917366,
+    "place_id": "ChIJJ1_3D_qXSjoR3_WeFVJXy5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1_3D_qXSjoR3_WeFVJXy5w",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:56:50"
+  }
+]

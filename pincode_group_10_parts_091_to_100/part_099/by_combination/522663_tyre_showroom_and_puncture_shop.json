@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H.M.S Tyre Park",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Mechanic",
+    "pincode": "522663",
+    "phone_number": "+91 99000 36364",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 131,
+    "address": "379/ 6th main road, Dr Rajkumar Rd, 6th Block, Bengaluru, Karnataka 560010",
+    "area": "6th Block, Rajajinagar",
+    "latitude": 12.9753622,
+    "longitude": 77.5522773,
+    "place_id": "ChIJb0vgERU9rjsRmVd2bF3VCvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0vgERU9rjsRmVd2bF3VCvg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:44"
+  },
+  {
+    "business_name": "MRF Tyres T&S - SVRS Wheels",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "522663",
+    "phone_number": "+91 79 4281 2111",
+    "website": "https://dealers.mrftyres.com/mrf-tyres-t-s-svrs-wheels-tyre-shop-porur-chennai-397798/Home",
+    "rating": 4.5,
+    "reviews_count": 389,
+    "address": "Bus Stop, Ground Floor, Trunk Road, Nr Karambakkam, Chettiyar Agaram Rd, Gandhi Nagar, Porur, Chennai, Tamil Nadu 600116",
+    "area": "Gandhi Nagar, Porur",
+    "latitude": 13.0363936,
+    "longitude": 80.1468762,
+    "place_id": "ChIJoZCX5wBhUjoRcQ3sRa3xuLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZCX5wBhUjoRcQ3sRa3xuLk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:44"
+  }
+]

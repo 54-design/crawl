@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARATH HOMEO CLINIC",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523117",
+    "phone_number": "+91 97037 45213",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "YSR Rd, opposite H.P.GAS, Kothapeta, Kanigiri, Andhra Pradesh 523230",
+    "area": "Kothapeta",
+    "latitude": 15.4041354,
+    "longitude": 79.5065195,
+    "place_id": "ChIJg-XNkaMvSzoRXomUD5pUZV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-XNkaMvSzoRXomUD5pUZV4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:34:23"
+  },
+  {
+    "business_name": "Kamla Health Care- Best Homeopathic Doctor in Kanpur | Best Homeopathy Clinic in kanpur",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Alternative medicine practitioner, Dermatologist, Doctor, Holistic medicine practitioner, Medical Center, Psychiatrist, Psychologist, Rheumatologist, Wellness center",
+    "pincode": "523117",
+    "phone_number": "+91 83185 58933",
+    "website": "https://www.kamlahealthcare.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 6A, Surya Residency, 1, Awas Vikas, Keshavpuram, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Awas Vikas, Keshavpuram, Kalyanpur",
+    "latitude": 26.4845209,
+    "longitude": 80.27491429999999,
+    "place_id": "ChIJS3wojb03nDkR75AhBLLglE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3wojb03nDkR75AhBLLglE8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:34:25"
+  }
+]

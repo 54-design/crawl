@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AV Run Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "522657",
+    "phone_number": "+91 63023 74993",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "2FCF+65W, NH 544D, Ganapavaram, Andhra Pradesh 523326",
+    "area": "522657",
+    "latitude": 16.0206127,
+    "longitude": 79.472966,
+    "place_id": "ChIJ0RK81BuxSjoRKITYPeZGrwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RK81BuxSjoRKITYPeZGrwY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:57:00"
+  },
+  {
+    "business_name": "SV Hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "522657",
+    "phone_number": "+91 63021 02500",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "opposite Hanuman Temple, Annasamudram, Medapi, Andhra Pradesh 523326",
+    "area": "522657",
+    "latitude": 16.0276638,
+    "longitude": 79.507183,
+    "place_id": "ChIJ11wbu3CxSjoRS11B4eqUu1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11wbu3CxSjoRS11B4eqUu1U",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:57:02"
+  }
+]

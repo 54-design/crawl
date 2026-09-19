@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KOTAREDDY NAGAR",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6W83+FX2, DV Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "DV Nagar",
+    "latitude": 15.2161475,
+    "longitude": 79.90489219999999,
+    "place_id": "ChIJ-TjpJQATSzoRXshZjrcC7Hg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TjpJQATSzoRXshZjrcC7Hg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:38"
+  },
+  {
+    "business_name": "Basha Badham Palu",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "523105",
+    "phone_number": "+91 99856 70677",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop 8, Pamuru Rd, DV Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "DV Nagar",
+    "latitude": 15.2155984,
+    "longitude": 79.9039138,
+    "place_id": "ChIJSZWZFBwTSzoR1DQzYt6cX98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZWZFBwTSzoR1DQzYt6cX98",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:41"
+  }
+]

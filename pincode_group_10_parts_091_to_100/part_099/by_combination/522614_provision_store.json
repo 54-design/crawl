@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavya Sri Keerana Shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522614",
+    "phone_number": "+91 95538 67468",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-1 Main Road, Karempudi Dachepalli Rd, NTR Stree, Karempudi, Andhra Pradesh 522614",
+    "area": "NTR Stree",
+    "latitude": 16.428708699999998,
+    "longitude": 79.7210616,
+    "place_id": "ChIJravBkopdNToRnGuJE_x75WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJravBkopdNToRnGuJE_x75WM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:40:09"
+  },
+  {
+    "business_name": "Ayyappa",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522614",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "GP67+47W, Gadewaripalli, Sankarapuram Siddhayi, Andhra Pradesh 522614",
+    "area": "Gadewaripalli",
+    "latitude": 16.5103845,
+    "longitude": 79.7132019,
+    "place_id": "ChIJ62Y1CgBDNToRnhGzJOZDzQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62Y1CgBDNToRnhGzJOZDzQ4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:40:11"
+  }
+]

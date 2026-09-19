@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "522403",
+    "phone_number": "+91 95334 54342",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "opp. Sujatha Lakshmi Hospital, Sattenapalle, Andhra Pradesh 522403",
+    "area": "522403",
+    "latitude": 16.395656,
+    "longitude": 80.1512535,
+    "place_id": "ChIJM6p5Cn2BNToRVHmd3jHnV9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6p5Cn2BNToRVHmd3jHnV9s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:47:10"
+  },
+  {
+    "business_name": "Amaravathi computer education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "522403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "62PQ+G7M, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.2363285,
+    "longitude": 80.0381755,
+    "place_id": "ChIJ0e7JdACBSjoRyGpC6mPshjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0e7JdACBSjoRyGpC6mPshjI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:47:11"
+  }
+]

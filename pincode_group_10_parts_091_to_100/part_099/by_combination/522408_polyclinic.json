@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "522408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "7FP3+MWM, Anandapet, 3rd Line, Old Guntur, Guntur, Andhra Pradesh 522003",
+    "area": "Indira Priyadarshini Colony, Old Guntur",
+    "latitude": 16.2867247,
+    "longitude": 80.4547956,
+    "place_id": "ChIJ2WpGcil1SjoRGZFDFMx4l-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2WpGcil1SjoRGZFDFMx4l-0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:16"
+  },
+  {
+    "business_name": "Dr. D. KOTI REDDY, M.B.B.S",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522408",
+    "phone_number": "+91 90301 04577",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "7FX3+5R5, 6th Ln, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.297887499999998,
+    "longitude": 80.4546072,
+    "place_id": "ChIJ6YITx0p1SjoRIY1z5BpUQL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YITx0p1SjoRIY1z5BpUQL0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:17"
+  }
+]

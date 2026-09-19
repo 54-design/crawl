@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venus Nursing Home - Dr.Jhansi Rani Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522411",
+    "phone_number": "+91 88182 23049",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 43,
+    "address": "Dr. jhansi rani hospital, Dhulipala Vari St, subba rao peta, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "subba rao peta",
+    "latitude": 16.815564,
+    "longitude": 81.531027,
+    "place_id": "ChIJFf3AeoK1NzoRetqzpp7VGPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFf3AeoK1NzoRetqzpp7VGPM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:53:42"
+  },
+  {
+    "business_name": "Vunnam Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522411",
+    "phone_number": "+91 97046 66745",
+    "website": "http://vunnamhospitals.com/",
+    "rating": 4.4,
+    "reviews_count": 324,
+    "address": "FVHV+M5W, Main Road, near Andhra Bank ATM, Piduguralla, Andhra Pradesh 522413",
+    "area": "522411",
+    "latitude": 16.479248,
+    "longitude": 79.8929393,
+    "place_id": "ChIJlQcUbYpvNToRFIWdGw8pB84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQcUbYpvNToRFIWdGw8pB84",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:53:42"
+  }
+]

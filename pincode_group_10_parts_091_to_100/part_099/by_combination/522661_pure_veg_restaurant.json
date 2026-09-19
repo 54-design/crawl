@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Singh Brothers",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant, Punjabi restaurant",
+    "pincode": "522661",
+    "phone_number": "+91 98265 16532",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 1193,
+    "address": "62QW+F8M, Indore - Khandwa Rd, opposite ancops office, near nahar, Barwaha, Madhya Pradesh 451115",
+    "area": "522661",
+    "latitude": 22.238688,
+    "longitude": 76.04581499999999,
+    "place_id": "ChIJCcX4V6-XYjkRw-w2duSrXR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcX4V6-XYjkRw-w2duSrXR8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:04:22"
+  },
+  {
+    "business_name": "PURE VEG RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Pithampur Industrial Area, Banjari, Madhya Pradesh 453441",
+    "area": "Pithampur Industrial Area",
+    "latitude": 22.5898649,
+    "longitude": 75.6926472,
+    "place_id": "ChIJ4QjW78pXYjkRyxowEaovge8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QjW78pXYjkRyxowEaovge8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:04:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "giri car garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "523116",
+    "phone_number": "+91 93913 60004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 34,
+    "address": "OPP venkusa, Kattamanchi, Chittoor, Andhra Pradesh 517001",
+    "area": "Kattamanchi",
+    "latitude": 13.229477,
+    "longitude": 79.1115279,
+    "place_id": "ChIJRQplMFtZrTsRUoiCPpviNxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQplMFtZrTsRUoiCPpviNxY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:40"
+  },
+  {
+    "business_name": "SAR CAR CARE CENTER",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "523116",
+    "phone_number": "+91 77318 20363",
+    "website": "https://www.facebook.com/profile.php?id=100028886919975&mibextid=ZbWKwL",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th cross, right corner, Auto nagar old estate, near balaji water service, Palamaner, Andhra Pradesh 517408",
+    "area": "523116",
+    "latitude": 13.204596299999999,
+    "longitude": 78.7337153,
+    "place_id": "ChIJdRn5niR7rTsRIYzaV5EUP3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRn5niR7rTsRIYzaV5EUP3U",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:42"
+  }
+]

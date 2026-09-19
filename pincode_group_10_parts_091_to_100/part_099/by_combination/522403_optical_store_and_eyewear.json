@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr. Optics",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "522403",
+    "phone_number": "N/A",
+    "website": "http://www.mroptics.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "16-571, 16-571, 16-571, Piduguralla Fly Over Rd, Naveen College Area, Old Post Office Area, Piduguralla, Andhra Pradesh 522413",
+    "area": "Naveen College Area, Old Post Office Area",
+    "latitude": 16.4791302,
+    "longitude": 79.89324979999999,
+    "place_id": "ChIJ4ZJRWgBvNToRlrvmY04mK-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZJRWgBvNToRlrvmY04mK-Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:19"
+  },
+  {
+    "business_name": "ROJA EYE CARE AND OPTICALS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "522403",
+    "phone_number": "+91 88972 07213",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dsr visiting lab, Roja eye hospital, phiragipuram, Phirangipuram, Andhra Pradesh 522529",
+    "area": "phiragipuram",
+    "latitude": 16.2915199,
+    "longitude": 80.2626555,
+    "place_id": "ChIJgf_RJKV5SjoR_LMJiWV9WIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgf_RJKV5SjoR_LMJiWV9WIw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:20"
+  }
+]

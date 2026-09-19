@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uss Da Dhaba Premium",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Family restaurant",
+    "pincode": "522510",
+    "phone_number": "+91 98979 21313",
+    "website": "https://ussdadhaba.co.in/",
+    "rating": 4.4,
+    "reviews_count": 2637,
+    "address": "DEAR PARK, 373/3, Mussoorie Rd, near MALSI, Salan Gaon, bakral gaon, Dehradun, Guniyal Gaon, Uttarakhand 248009",
+    "area": "Salan Gaon, bakral gaon",
+    "latitude": 30.3913674,
+    "longitude": 78.0727347,
+    "place_id": "ChIJmRDT-NkpCTkRAkWniazF9sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRDT-NkpCTkRAkWniazF9sw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:16"
+  },
+  {
+    "business_name": "SRI DURGA BHAVANI DHABA & RESTAURANT",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "522510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "GQFH+7JQ, IT Park Rd, Gannavaram, Kesarapalli, Andhra Pradesh 521102",
+    "area": "522510",
+    "latitude": 16.5232659,
+    "longitude": 80.779136,
+    "place_id": "ChIJw4_bch_jNToRqSFGtW12_Ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4_bch_jNToRqSFGtW12_Ec",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:17"
+  }
+]

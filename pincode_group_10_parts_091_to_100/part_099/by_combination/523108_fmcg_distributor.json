@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Kirana",
+    "search_category": "FMCG Distributor",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523108",
+    "phone_number": "+91 94907 57503",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop No 4, Inemerla, Pamuru, Inimerla, Andhra Pradesh 523110",
+    "area": "Inemerla",
+    "latitude": 15.0900368,
+    "longitude": 79.4635326,
+    "place_id": "ChIJSQK9b9hLSzoR_Vxg6NDoafg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQK9b9hLSzoR_Vxg6NDoafg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:18"
+  },
+  {
+    "business_name": "Papireddy Kirana Stores",
+    "search_category": "FMCG Distributor",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523108",
+    "phone_number": "+91 84648 63735",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Rd, Vaggampalle, Andhra Pradesh 523108",
+    "area": "523108",
+    "latitude": 15.1638509,
+    "longitude": 79.4422593,
+    "place_id": "ChIJi3OgsI41SzoR4gDpfMgFw9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3OgsI41SzoR4gDpfMgFw9Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:17:18"
+  }
+]

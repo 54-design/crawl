@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daimend car care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "522646",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sungam dairy oposite, near chekkavagu, Vinukonda, Brahmanapalle, Andhra Pradesh 522647",
+    "area": "522646",
+    "latitude": 16.0643088,
+    "longitude": 79.7597382,
+    "place_id": "ChIJ7R64UQOXSjoRpJZ1FwouOww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R64UQOXSjoRpJZ1FwouOww",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:52:01"
+  },
+  {
+    "business_name": "Bismilla Water Servicing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "522646",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "3P4X+9C7, NH 544D, Mulakaluru, Vinukonda, Andhra Pradesh 522647",
+    "area": "Mulakaluru",
+    "latitude": 16.0559191,
+    "longitude": 79.74853139999999,
+    "place_id": "ChIJx9VxU9KXSjoRycuftJ2fq-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9VxU9KXSjoRycuftJ2fq-8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:52:01"
+  }
+]

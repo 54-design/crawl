@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya collections",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "523116",
+    "phone_number": "+91 98852 98871",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tilak Rd, opp. SBI ATM, Varadaraja Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Varadaraja Nagar",
+    "latitude": 13.6331258,
+    "longitude": 79.42037289999999,
+    "place_id": "ChIJBwKWLSZLTToRGand91I2mTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwKWLSZLTToRGand91I2mTQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:19"
+  },
+  {
+    "business_name": "UNITED PINK",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523116",
+    "phone_number": "+91 73861 72725",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kamayyathopu, Padmaja Nagar, Chalasani Nagar, Ashok Nagar, Kanuru, Andhra Pradesh 520007",
+    "area": "Kamayyathopu, Padmaja Nagar, Chalasani Nagar, Ashok Nagar",
+    "latitude": 16.4838204,
+    "longitude": 80.68658239999999,
+    "place_id": "ChIJZ96Z4IP7NToRWBWj4vQDRok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ96Z4IP7NToRWBWj4vQDRok",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:21"
+  }
+]

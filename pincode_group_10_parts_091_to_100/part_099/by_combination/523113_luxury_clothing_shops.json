@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Velvet Designer Studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "523113",
+    "phone_number": "+91 74909 05725",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Shop no.401, Royal Green City, Apts, Kanuru, Andhra Pradesh 520007",
+    "area": "Apts, Kanuru",
+    "latitude": 16.501910199999998,
+    "longitude": 80.6872236,
+    "place_id": "ChIJQRkY-Pb7NToR3i-7UOZYJ38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRkY-Pb7NToR3i-7UOZYJ38",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:54"
+  },
+  {
+    "business_name": "Brand Shopee",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523113",
+    "phone_number": "+91 73867 97855",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Air Bypass Rd, SBI Colony, Royal Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "SBI Colony, Royal Nagar",
+    "latitude": 13.622669799999999,
+    "longitude": 79.4207682,
+    "place_id": "ChIJIYax-SJLTToRMUJx1vrsG0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYax-SJLTToRMUJx1vrsG0I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:54"
+  }
+]

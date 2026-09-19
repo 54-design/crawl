@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Farmer",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer, Corporate office",
+    "pincode": "522401",
+    "phone_number": "+91 88967 89678",
+    "website": "http://www.littlefarmerindia.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Survey No.23A, Pamulapdu Road, Ravela, Tadikonda, Ponnekallu, Andhra Pradesh 522018",
+    "area": "Tadikonda",
+    "latitude": 16.4234612,
+    "longitude": 80.3476147,
+    "place_id": "ChIJf8lEMACPNToRnnnVTFYXRVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8lEMACPNToRnnnVTFYXRVw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:42:16"
+  },
+  {
+    "business_name": "Le Chilli",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "522401",
+    "phone_number": "+91 77806 53529",
+    "website": "https://www.lechilli.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Varagani, Andhra Pradesh 522401",
+    "area": "522401",
+    "latitude": 16.4266421,
+    "longitude": 80.3223819,
+    "place_id": "ChIJJ1fZCeuPNToRhz-hRRmNhVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1fZCeuPNToRhz-hRRmNhVc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:42:16"
+  }
+]

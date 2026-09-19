@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PILES CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "522410",
+    "phone_number": "+91 94419 78750",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 206,
+    "address": "7CRV+C6J Hindu College back side, Grand Trunk Rd, near vegetable market, near Karnataka Bank, Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.2911,
+    "longitude": 80.4430764,
+    "place_id": "ChIJzcgE0jl1SjoRs1_cob36yD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcgE0jl1SjoRs1_cob36yD0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:51:56"
+  },
+  {
+    "business_name": "Ayush Piles Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "522410",
+    "phone_number": "+91 70018 06540",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "6, th line, near gandhi statue, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.2971799,
+    "longitude": 80.4544994,
+    "place_id": "ChIJ3fH_KVd1SjoR3VyHBGlo-RE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fH_KVd1SjoR3VyHBGlo-RE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:51:56"
+  }
+]

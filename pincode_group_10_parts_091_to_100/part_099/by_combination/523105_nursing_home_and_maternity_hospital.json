@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523105",
+    "phone_number": "+91 90101 64821",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Kota Reddy Nagar, 6WKandukur, Kandukur, Andhra Pradesh 523105",
+    "area": "Kota Reddy Nagar",
+    "latitude": 15.214751499999998,
+    "longitude": 79.9012134,
+    "place_id": "ChIJnVYbXncTSzoRLxS2KiSSRck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVYbXncTSzoRLxS2KiSSRck",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:52"
+  },
+  {
+    "business_name": "Dr.Ramaswamy Hospitals",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523105",
+    "phone_number": "+91 99127 57854",
+    "website": "http://www.ramaswamyhospitals.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2-4-26, Vishnalayam St, Vaddi Palem, Kavali, Andhra Pradesh 524201",
+    "area": "Vaddi Palem",
+    "latitude": 14.916659,
+    "longitude": 79.9951475,
+    "place_id": "ChIJ00RhdAB7SzoRMdkelwOKhM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00RhdAB7SzoRMdkelwOKhM8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:52"
+  }
+]

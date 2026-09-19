@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MIT Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "522615",
+    "phone_number": "+91 79954 81482",
+    "website": "https://www.mitcenter.in/",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "3-367, SC Colony, A Muppalla, Andhra Pradesh 522661",
+    "area": "SC Colony",
+    "latitude": 16.2432561,
+    "longitude": 79.83422499999999,
+    "place_id": "ChIJCy7ph2udSjoRQJA1HRjV5NI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCy7ph2udSjoRQJA1HRjV5NI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:43:18"
+  },
+  {
+    "business_name": "Vasavi Software Solutions",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "522615",
+    "phone_number": "+91 99661 19538",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 34,
+    "address": "near Anjaneya Swamy Temple, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.235115399999998,
+    "longitude": 80.0460447,
+    "place_id": "ChIJfSdPYhmBSjoRglHXvDhiLcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSdPYhmBSjoRglHXvDhiLcU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:43:22"
+  }
+]

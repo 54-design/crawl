@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "T T Forex",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Currency exchange service",
+    "all_categories": "Currency exchange service",
+    "pincode": "522616",
+    "phone_number": "+91 40 6602 7700",
+    "website": "http://www.tatacapital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4,5&6, Auto Plaza, Plot No.3, Banjara Hills Rd Number 3, opposite Times of India, North H Block, Journalist Colony, VST Colony, Banjara Hills, Hyderabad, Telangana 500082",
+    "area": "North H Block, Journalist Colony, VST Colony, Banjara Hills",
+    "latitude": 17.427173,
+    "longitude": 78.445968,
+    "place_id": "ChIJnUTCl8yQyzsRaqHgEdZL28I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUTCl8yQyzsRaqHgEdZL28I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:24"
+  },
+  {
+    "business_name": "Kotak Mahindra Bank",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Financial institution, Insurance company, Investment bank, Investment service, Life insurance agency, Loan agency, Bank, Mortgage lender, Savings bank",
+    "pincode": "522616",
+    "phone_number": "+91 1800 4100",
+    "website": "https://www.kotak.bank.in/en/reach-us.html?utm_source=google&utm_medium=gmb",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "113, Main Road, Near Konda, Kotappakonda Guravayapalem, Kondakavuru, Andhra Pradesh 522549",
+    "area": "522616",
+    "latitude": 16.1416354,
+    "longitude": 80.0394405,
+    "place_id": "ChIJ9ZW71_GHSjoRnh9sb99zhNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZW71_GHSjoRnh9sb99zhNA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:26"
+  }
+]

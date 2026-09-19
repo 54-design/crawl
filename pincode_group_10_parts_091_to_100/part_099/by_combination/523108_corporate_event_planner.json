@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "harsha events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "523108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2A, AK Nagar, Industrial Estate, Vedayapalem Industrial Estate, Dargamitta, Nellore, Andhra Pradesh 524004",
+    "area": "Industrial Estate, Vedayapalem Industrial Estate, Dargamitta",
+    "latitude": 14.4190308,
+    "longitude": 79.95816479999999,
+    "place_id": "ChIJy262_7LzTDoR-DzQa-k8B7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy262_7LzTDoR-DzQa-k8B7Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:18:22"
+  },
+  {
+    "business_name": "sai supliers",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "523108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MAIN STREET, Varikuntapadu, Andhra Pradesh 524227",
+    "area": "523108",
+    "latitude": 14.991935499999999,
+    "longitude": 79.42043269999999,
+    "place_id": "ChIJbTvUvk1NSzoR1hMkRn2M_3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTvUvk1NSzoR1hMkRn2M_3s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:18:23"
+  }
+]

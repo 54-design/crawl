@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sneha Decors",
+    "search_category": "Interior Designers",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "523113",
+    "phone_number": "+91 95737 21541",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "19-4-121, 14D, Air Bypass Rd, near TVS Show Room, New Balaji Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "New Balaji Colony",
+    "latitude": 13.6226291,
+    "longitude": 79.4231533,
+    "place_id": "ChIJg1s5SApLTToRCsQ2ftb21Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1s5SApLTToRCsQ2ftb21Lk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:24"
+  },
+  {
+    "business_name": "Sri Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "523113",
+    "phone_number": "+91 85220 51444",
+    "website": "http://sridecors.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "67-15-1/3A, 5th Cross Rd, Lalbahadur Nagar, Rajeshwari Nagar, Kakinada, Andhra Pradesh 533005",
+    "area": "523113",
+    "latitude": 17.0368005,
+    "longitude": 82.269193,
+    "place_id": "ChIJq6qqqnopODoR0n-qMcQdcTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqnopODoR0n-qMcQdcTE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:24"
+  }
+]

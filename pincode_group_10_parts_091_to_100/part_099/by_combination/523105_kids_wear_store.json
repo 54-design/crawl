@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Student Book Centerh",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "523105",
+    "phone_number": "+91 99490 45789",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Janardhan Swamy Temple St, Sai Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Sai Nagar",
+    "latitude": 15.216714699999999,
+    "longitude": 79.9039526,
+    "place_id": "ChIJn6rKX44SSzoRxNvMa1S2oGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6rKX44SSzoRxNvMa1S2oGU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:42"
+  },
+  {
+    "business_name": "Sri Venkateswara fire works",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Fireworks store",
+    "all_categories": "Fireworks store",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kanigiri Rd, near RTO office, Dubagunta, Kandukur, Andhra Pradesh 523109",
+    "area": "Dubagunta",
+    "latitude": 15.2317497,
+    "longitude": 79.8718871,
+    "place_id": "ChIJWwavJY4TSzoRx3zBcMWCSfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwavJY4TSzoRx3zBcMWCSfQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:42"
+  }
+]

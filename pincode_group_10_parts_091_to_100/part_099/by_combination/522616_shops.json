@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivasa Cut Piecies Center",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522616",
+    "phone_number": "+91 81214 58291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rajapeta - Chilakaluripet Rd, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522616",
+    "latitude": 16.0860144,
+    "longitude": 80.15293559999999,
+    "place_id": "ChIJwSybhmxjSjoRIxdjyHiljTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSybhmxjSjoRIxdjyHiljTw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:47"
+  },
+  {
+    "business_name": "Crackers mart",
+    "search_category": "Shops",
+    "primary_category": "Fireworks store",
+    "all_categories": "Fireworks store",
+    "pincode": "522616",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "35F4+PC2, Pasumarru, Andhra Pradesh 522616",
+    "area": "522616",
+    "latitude": 16.0733309,
+    "longitude": 80.15540969999999,
+    "place_id": "ChIJNaveSABjSjoR8n5zUtn8dNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaveSABjSjoR8n5zUtn8dNw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:47"
+  }
+]

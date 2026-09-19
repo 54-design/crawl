@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VENKAT Interior designer",
+    "search_category": "Interior Designers",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "522408",
+    "phone_number": "+91 77994 76788",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2-169, near cheruvu line, Kunduruvaripalem, muppalla, Gollapadu, Andhra Pradesh 522408",
+    "area": "Kunduruvaripalem",
+    "latitude": 16.3048543,
+    "longitude": 80.0892142,
+    "place_id": "ChIJQcgNBj9_NToRNWuGRZyRnj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcgNBj9_NToRNWuGRZyRnj0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:37"
+  },
+  {
+    "business_name": "MAHESHWARA INTERIORS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "522408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "near Union Bank, Ramnagar, Addanki, Andhra Pradesh 523201",
+    "area": "Ramnagar",
+    "latitude": 15.8023261,
+    "longitude": 79.9776014,
+    "place_id": "ChIJayT8fQPxSjoRIy6PHYRCJ2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayT8fQPxSjoRIy6PHYRCJ2M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:39"
+  }
+]

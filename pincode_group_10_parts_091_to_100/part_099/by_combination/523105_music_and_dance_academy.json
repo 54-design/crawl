@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAACK Academy of Dance",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance company",
+    "all_categories": "Dance company, Dance hall",
+    "pincode": "523105",
+    "phone_number": "+91 95000 01292",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bus stop, No: 3, Mudichur Rd, near Bharathi Nagar, Gandhi Nagar, Old Perungalathur, Chennai, Tamil Nadu 600063",
+    "area": "Gandhi Nagar",
+    "latitude": 12.9210742,
+    "longitude": 80.0910335,
+    "place_id": "ChIJ30zBbVH1UjoRPqYX2fSaTiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30zBbVH1UjoRPqYX2fSaTiU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:16:38"
+  },
+  {
+    "business_name": "Hayathi Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "523105",
+    "phone_number": "+91 94901 55196",
+    "website": "https://www.hayathiacademy.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1st floor, HAYATHI ACADEMY, Children's Park Road, above B Farm Fresh, Pinakini Avenue, Ramji Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "Pinakini Avenue, Ramji Nagar",
+    "latitude": 14.4399327,
+    "longitude": 79.99326359999999,
+    "place_id": "ChIJmxCd0vZ7SzoRk2szjMX3JmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxCd0vZ7SzoRk2szjMX3JmQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:16:38"
+  }
+]

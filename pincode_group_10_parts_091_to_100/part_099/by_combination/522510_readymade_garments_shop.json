@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sankar Rao Cloth Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522510",
+    "phone_number": "+91 92900 27589",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4, Uppalapadu - Kaza Rd, near Union Bank ATM, Kaza, Andhra Pradesh 522508",
+    "area": "522510",
+    "latitude": 16.3899529,
+    "longitude": 80.5415754,
+    "place_id": "ChIJPw-2IKT1NToRC1uX3zzgX_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPw-2IKT1NToRC1uX3zzgX_0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:19"
+  },
+  {
+    "business_name": "Om cloth and readymade ओम क्लॉथ एंड रेडीमेड",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "NH 45, Kota, Chhattisgarh 495113",
+    "area": "522510",
+    "latitude": 22.288121699999998,
+    "longitude": 82.01344639999999,
+    "place_id": "ChIJw3mRpCwbKDoRSIc0gA3-TEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3mRpCwbKDoRSIc0gA3-TEw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:20"
+  }
+]

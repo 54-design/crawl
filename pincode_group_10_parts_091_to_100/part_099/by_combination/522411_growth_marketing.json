@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Artwist",
+    "search_category": "Growth Marketing",
+    "primary_category": "Design agency",
+    "all_categories": "Design agency, Service establishment",
+    "pincode": "522411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Artwist, 522411, India",
+    "area": "522411",
+    "latitude": 9.374110199999999,
+    "longitude": -74.9524576,
+    "place_id": "ChIJ0U1tJfmHjUURjRJ8hCXdimw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U1tJfmHjUURjRJ8hCXdimw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:54:59"
+  },
+  {
+    "business_name": "BlueWing Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Agricultural organization, Solar energy equipment supplier",
+    "pincode": "522411",
+    "phone_number": "+91 91219 95980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vasavi Complex, opposite Bhanodaya School Road, Piduguralla, Andhra Pradesh 522413",
+    "area": "522411",
+    "latitude": 16.474842,
+    "longitude": 79.8819266,
+    "place_id": "ChIJt0_-killNToRBmANXcfiS2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0_-killNToRBmANXcfiS2U",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:55:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virat Medical Shop",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa, Medical clinic",
+    "pincode": "522414",
+    "phone_number": "+91 98858 39053",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "FMHC+7GJ, Main road, Gurazala - Karempudi Rd, Andhra Pradesh 522614",
+    "area": "Laxmipuram",
+    "latitude": 16.4782218,
+    "longitude": 79.67127459999999,
+    "place_id": "ChIJGUxHIHRdNToR7Mehe0UdEiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUxHIHRdNToR7Mehe0UdEiE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:42"
+  },
+  {
+    "business_name": "Balaji Hair Salon And Beauty Spa A/C",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop",
+    "pincode": "522414",
+    "phone_number": "+91 99494 25169",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Miryalaguda - Vadapalle Hwy, Damercherla, Telangana 508355",
+    "area": "522414",
+    "latitude": 16.7281063,
+    "longitude": 79.6360194,
+    "place_id": "ChIJMUr3LUQ5NToRFK1BKm8tdzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUr3LUQ5NToRFK1BKm8tdzU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:42"
+  }
+]

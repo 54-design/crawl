@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vengamambha Kirana&General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "5Q63+5QP, Z.Uppalapadu, Andhra Pradesh 523116",
+    "area": "523116",
+    "latitude": 15.160472299999999,
+    "longitude": 79.7544497,
+    "place_id": "ChIJveuhe7pqSzoRLf070ECv_9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveuhe7pqSzoRLf070ECv_9s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:03"
+  },
+  {
+    "business_name": "Kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3Q2H+Q2W, Isukapalem, Saipeta, Andhra Pradesh 523115",
+    "area": "Isukapalem",
+    "latitude": 15.0519947,
+    "longitude": 79.7775727,
+    "place_id": "ChIJB0w_IgBpSzoRGYFrOF6BQNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0w_IgBpSzoRGYFrOF6BQNs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jameel Fancy Store",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522413",
+    "phone_number": "+91 93817 22632",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saibaba Temple, Piduguralla, Andhra Pradesh 522413",
+    "area": "522413",
+    "latitude": 16.48046,
+    "longitude": 79.88913,
+    "place_id": "ChIJtfEDDZpvNToRvT8kjuJu5YQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfEDDZpvNToRvT8kjuJu5YQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:14"
+  },
+  {
+    "business_name": "NVS Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9WCV+R47, Nekarikallu, Andhra Pradesh 522615",
+    "area": "522413",
+    "latitude": 16.3720276,
+    "longitude": 79.94280499999999,
+    "place_id": "ChIJi4laUAB9NToRV9gAArxzuc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4laUAB9NToRV9gAArxzuc4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:15"
+  }
+]

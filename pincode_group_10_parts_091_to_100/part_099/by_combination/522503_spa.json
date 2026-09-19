@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANI BEAUTY PARLOUR",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Ear piercing service, Facial spa, Mehndi Designer",
+    "pincode": "522503",
+    "phone_number": "+91 98487 93773",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Hussain katta centre, Main Bazar Rd, beside Punjab national bank, Bhargavapet, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Bhargavapet",
+    "latitude": 16.425825,
+    "longitude": 80.5678286,
+    "place_id": "ChIJHYWHbWTxNToRtSPtRDHl07U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYWHbWTxNToRtSPtRDHl07U",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:15"
+  },
+  {
+    "business_name": "SLN water Plant",
+    "search_category": "Spa",
+    "primary_category": "Bottled water supplier",
+    "all_categories": "Bottled water supplier",
+    "pincode": "522503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "CHMF+9FV, Indira Nagar Rd, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.4334897,
+    "longitude": 80.5736768,
+    "place_id": "ChIJvWcgLlnxNToR69_2a94NH0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWcgLlnxNToR69_2a94NH0I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:17"
+  }
+]

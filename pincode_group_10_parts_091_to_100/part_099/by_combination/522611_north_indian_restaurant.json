@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kp mini restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522611",
+    "phone_number": "+91 99639 94560",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "near bhaskar theatre, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522611",
+    "latitude": 16.0927997,
+    "longitude": 80.1674889,
+    "place_id": "ChIJwe7Q_WpjSjoRf2dTAz028nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwe7Q_WpjSjoRf2dTAz028nI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:34:36"
+  },
+  {
+    "business_name": "Tejasri Dental - Chilakaluripet",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "American restaurant",
+    "all_categories": "American restaurant",
+    "pincode": "522611",
+    "phone_number": "+91 91602 51100",
+    "website": "http://www.tejasridental.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "above Central Bank of India chowtra Centre, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522611",
+    "latitude": 16.0900615,
+    "longitude": 80.16758659999999,
+    "place_id": "ChIJWwArkeBjSjoR-N_W2QaOdf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwArkeBjSjoR-N_W2QaOdf4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:34:37"
+  }
+]

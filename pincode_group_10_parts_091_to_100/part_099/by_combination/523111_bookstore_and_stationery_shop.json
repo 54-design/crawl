@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Book Sellers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, General store, Book store",
+    "pincode": "523111",
+    "phone_number": "+91 91777 57000",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 228,
+    "address": "Jagtial Rd, Chaitanyapuri, Karimnagar, Telangana 505001",
+    "area": "Chaitanyapuri",
+    "latitude": 18.4485569,
+    "longitude": 79.1219741,
+    "place_id": "ChIJGTKuNtjYzDsRME-p7v_MK9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTKuNtjYzDsRME-p7v_MK9c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:24:05"
+  },
+  {
+    "business_name": "Ranker Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "523111",
+    "phone_number": "+91 97033 69539",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "MDR118, Yendada, Endada, Andhra Pradesh 530045",
+    "area": "Yendada",
+    "latitude": 17.780992899999998,
+    "longitude": 83.3621292,
+    "place_id": "ChIJW3X1M0dbOToRMb9ZNAQh_Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3X1M0dbOToRMb9ZNAQh_Ww",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:24:06"
+  }
+]

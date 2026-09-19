@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Fast Foods - Taste the best",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Barbecue area, Chinese takeaway, Diner, Takeout restaurant, Noodle shop, Youth center",
+    "pincode": "522503",
+    "phone_number": "+91 62812 73976",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Vijaya Sri, Near, NH 16, Mangalagiri, Chinnakakani, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.411157799999998,
+    "longitude": 80.5584482,
+    "place_id": "ChIJA3M7E733NToRkaKjtDTL4TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3M7E733NToRkaKjtDTL4TU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:28"
+  },
+  {
+    "business_name": "Basha Biryani Centre",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "522503",
+    "phone_number": "+91 89784 89617",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Opp:Gopala Krishna Theater, Gowtham Buddha Rd, Mangalagiri, Mangalgiri, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.4270964,
+    "longitude": 80.566181,
+    "place_id": "ChIJgTnh_zfxNToR66pD38SuMRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTnh_zfxNToR66pD38SuMRY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:30"
+  }
+]

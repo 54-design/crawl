@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Sweets & Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522647",
+    "phone_number": "+91 98487 52003",
+    "website": "https://www.youtube.com/@ravisweetsandbakeryvinukonda",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palnadu Rd, opp. R T C Busstand, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0557652,
+    "longitude": 79.73931379999999,
+    "place_id": "ChIJv1v561W9SjoRSUOHr0k-nvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1v561W9SjoRSUOHr0k-nvg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:22"
+  },
+  {
+    "business_name": "Friends Bakery And Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522647",
+    "phone_number": "+91 62826 73752",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "29-1028, Macherla Karempudi Vinukonda Rd, near Busstand, Gdcc Bank Area, Kothapeta, Guntur, Vinukonda, Andhra Pradesh 522647",
+    "area": "Gdcc Bank Area, Kothapeta",
+    "latitude": 16.0557914,
+    "longitude": 79.7397415,
+    "place_id": "ChIJGZcHJn69SjoRvPantqcmbS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZcHJn69SjoRvPantqcmbS8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:22"
+  }
+]

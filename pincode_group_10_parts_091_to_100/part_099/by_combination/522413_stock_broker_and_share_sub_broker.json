@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PCS Securities Ltd.,",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "522413",
+    "phone_number": "+91 99891 94990",
+    "website": "https://www.pcssecurities.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WHWR+RHH, Hanuman Theatre Rd, Pamidi, Andhra Pradesh 515775",
+    "area": "522413",
+    "latitude": 14.947054699999999,
+    "longitude": 77.5914718,
+    "place_id": "ChIJExlSkum4tjsRHQcyKvdiArU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExlSkum4tjsRHQcyKvdiArU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:58:23"
+  },
+  {
+    "business_name": "HDFC Securities - Podili",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "522413",
+    "phone_number": "+91 92402 37953",
+    "website": "https://www.hdfcsec.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Door No, 11/377, Viswanathapuram, Podili, Andhra Pradesh 523240",
+    "area": "Viswanathapuram, V.N. Puram",
+    "latitude": 15.602176,
+    "longitude": 79.605178,
+    "place_id": "ChIJoRDqROXZSjoRt-bONeHTuAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRDqROXZSjoRt-bONeHTuAc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:58:23"
+  }
+]

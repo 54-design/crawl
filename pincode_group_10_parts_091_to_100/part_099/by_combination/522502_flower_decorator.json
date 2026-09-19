@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chittamma Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market",
+    "pincode": "522502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Bus Station, N.T.R, Trunk Road, Mangalagiri, Amaravati, Andhra Pradesh 522503",
+    "area": "522502",
+    "latitude": 16.4335708,
+    "longitude": 80.5660164,
+    "place_id": "ChIJH-PgQ0PxNToR47BeHF1JA6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-PgQ0PxNToR47BeHF1JA6c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:18:28"
+  },
+  {
+    "business_name": "Flower decoration by siree event ‘s",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "522502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri Rama Nagar Colony, Ambati Nagar, Andhra Pradesh 522502",
+    "area": "Sri Rama Nagar Colony, Ambati Nagar",
+    "latitude": 16.4506986,
+    "longitude": 80.5685244,
+    "place_id": "ChIJCQfiEjXxNToRaGPa9OljWpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQfiEjXxNToRaGPa9OljWpE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:18:30"
+  }
+]

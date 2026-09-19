@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lupin Diagnostics Mangalagiri",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "522502",
+    "phone_number": "N/A",
+    "website": "https://www.lupindiagnostics.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-438, Gowtham Buddha Rd, beside HDFC Bank, opp. new kennedy high school, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522502",
+    "latitude": 16.4374394,
+    "longitude": 80.5665566,
+    "place_id": "ChIJCZh3q2HxNToRKO0cWvPxINQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZh3q2HxNToRKO0cWvPxINQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:55"
+  },
+  {
+    "business_name": "Srinivasa Clinical Laboratory",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "522502",
+    "phone_number": "+91 86452 34034",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 11,
+    "address": "Girls High School Street New Bus Stand, near, Trunk Road, opposite Road, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522502",
+    "latitude": 16.4339133,
+    "longitude": 80.566608,
+    "place_id": "ChIJL5krUz_xNToRaudgh97WQ6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5krUz_xNToRaudgh97WQ6E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:57"
+  }
+]

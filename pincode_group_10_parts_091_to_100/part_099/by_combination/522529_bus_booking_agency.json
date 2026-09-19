@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anudeep Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522529",
+    "phone_number": "+91 94416 39040",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "beside Bus Stand, Phirangipuram, Andhra Pradesh 522529",
+    "area": "522529",
+    "latitude": 16.2901173,
+    "longitude": 80.2595697,
+    "place_id": "ChIJX8-PMtV5SjoRTwRshLF_NvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8-PMtV5SjoRTwRshLF_NvQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:36"
+  },
+  {
+    "business_name": "Veena Gas Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Gas Agency",
+    "all_categories": "Gas Agency",
+    "pincode": "522529",
+    "phone_number": "+91 86472 76444",
+    "website": "http://www.hindustanpetroleum.com/",
+    "rating": 3.7,
+    "reviews_count": 41,
+    "address": "566H+73J, Guntur, Edlapadu, Andhra Pradesh 522233",
+    "area": "522529",
+    "latitude": 16.1607122,
+    "longitude": 80.2276268,
+    "place_id": "ChIJDfSPlAN7SjoR-VwQagrTC8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfSPlAN7SjoR-VwQagrTC8c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:39"
+  }
+]

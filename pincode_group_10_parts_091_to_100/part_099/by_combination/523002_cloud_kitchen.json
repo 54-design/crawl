@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Telangana Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian takeaway",
+    "all_categories": "Indian takeaway",
+    "pincode": "523002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "opp. andani hospital, Narsingi, Hyderabad, Telangana 500089",
+    "area": "Narsingi",
+    "latitude": 17.387002499999998,
+    "longitude": 78.35953119999999,
+    "place_id": "ChIJrfF_IeyVyzsRPtTL-1Qa9iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfF_IeyVyzsRPtTL-1Qa9iw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:10:02"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523002",
+    "phone_number": "+91 63005 53635",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Railway Quarters, Railway New Colony, Visakhapatnam, Andhra Pradesh 530004",
+    "area": "Railway Quarters, Railway New Colony",
+    "latitude": 17.7224231,
+    "longitude": 83.29320849999999,
+    "place_id": "ChIJMXs2PtVDOToRAp2QhXnkTao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXs2PtVDOToRAp2QhXnkTao",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:10:02"
+  }
+]

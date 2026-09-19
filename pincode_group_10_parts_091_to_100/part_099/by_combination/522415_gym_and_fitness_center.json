@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veeraswami Nutrition Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist, Fitness center",
+    "pincode": "522415",
+    "phone_number": "+91 79896 88198",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karnam gaari building, railway station root, above Rentachintala, Rentachintala, Andhra Pradesh 522421",
+    "area": "522415",
+    "latitude": 16.554467,
+    "longitude": 79.552454,
+    "place_id": "ChIJJ1KgdP9PNToRKMwyIQpBFC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1KgdP9PNToRKMwyIQpBFC0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:09"
+  },
+  {
+    "business_name": "Outdoor Gym Area",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "522415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HJ3M+9FW, Gurazala, Andhra Pradesh 522415",
+    "area": "522415",
+    "latitude": 16.5534955,
+    "longitude": 79.6336958,
+    "place_id": "ChIJkwX1CwBFNToRx4G2_sA9uvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwX1CwBFNToRx4G2_sA9uvY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:09"
+  }
+]

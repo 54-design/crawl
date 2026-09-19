@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andhra Stationery Syndicate",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store, Office supply store, Office supply wholesaler",
+    "pincode": "523113",
+    "phone_number": "+91 89127 46071",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "30-6-41, Premsamajam Road, Daba Gardens, Mahaarajupeta, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Mahaarajupeta",
+    "latitude": 17.718622,
+    "longitude": 83.30169699999999,
+    "place_id": "ChIJVb3_37FpOToR8zGOysZ68q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVb3_37FpOToR8zGOysZ68q8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:49"
+  },
+  {
+    "business_name": "Lalitha And Co.",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book publisher",
+    "all_categories": "Book publisher, Book store, Stationery store",
+    "pincode": "523113",
+    "phone_number": "+91 99481 37777",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 66,
+    "address": "R.R.Pet Main Road, Ramachandra Rao Pet, Eluru, Andhra Pradesh 534002",
+    "area": "Ramachandra Rao Pet",
+    "latitude": 16.7127285,
+    "longitude": 81.0985807,
+    "place_id": "ChIJE-oC6skUNjoRqV021iWXSUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-oC6skUNjoRqV021iWXSUI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:49"
+  }
+]

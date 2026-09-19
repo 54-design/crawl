@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The kadapa service center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service",
+    "pincode": "523101",
+    "phone_number": "+91 77807 11741",
+    "website": "http://kadapaservicecenter.com/",
+    "rating": 4.3,
+    "reviews_count": 39,
+    "address": "Iti circle, Shastri Nagar, Ravindra Nagar, Kadapa, Akkayapalle, Andhra Pradesh 516002",
+    "area": "Shastri Nagar, Ravindra Nagar",
+    "latitude": 14.4668513,
+    "longitude": 78.8154244,
+    "place_id": "ChIJpyVOUNFzszsRluHhHn4yafk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyVOUNFzszsRluHhHn4yafk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:12:35"
+  },
+  {
+    "business_name": "LG Best Shop - Adhitya E World",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Electronics Company, Cell phone store, Computer store, Refrigerator store, Vacuum cleaner store, Washer & dryer store",
+    "pincode": "523101",
+    "phone_number": "+91 90529 55509",
+    "website": "https://www.lg.com/in?utm_source=google&utm_medium=gmb",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "OLD ANDHRA BANK BUILDING, Janardhan Swamy Temple St, near POST OFFICE CENTRE, Santhosh Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Santhosh Nagar",
+    "latitude": 15.217054899999999,
+    "longitude": 79.9039718,
+    "place_id": "ChIJB8OOmrITSzoRM4RHu4VKkKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8OOmrITSzoRM4RHu4VKkKU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:12:38"
+  }
+]

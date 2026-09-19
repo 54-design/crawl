@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirumala mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "522438",
+    "phone_number": "+91 99891 28749",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "788W+9V6, Obulanayudupalem, Potturu, Andhra Pradesh 522005",
+    "area": "Obulanayudupalem",
+    "latitude": 16.265911499999998,
+    "longitude": 80.3471382,
+    "place_id": "ChIJmyy_TAB3SjoReM4YnNQriRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyy_TAB3SjoReM4YnNQriRE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:11:45"
+  },
+  {
+    "business_name": "Vasaiah Gari Kirana & Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour Mill",
+    "all_categories": "Flour Mill",
+    "pincode": "522438",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Perecherla, Andhra Pradesh 522009",
+    "area": "522438",
+    "latitude": 16.3320331,
+    "longitude": 80.353503,
+    "place_id": "ChIJTbKf6e2JNToRFZCQXPuGiWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbKf6e2JNToRFZCQXPuGiWY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:11:46"
+  }
+]

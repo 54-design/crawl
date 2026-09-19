@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pets 4 you aquarium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "522502",
+    "phone_number": "+91 99087 12999",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near undavalli center, KL Rao Colony, Sitanagaram, Tadepalle, Andhra Pradesh 522501",
+    "area": "KL Rao Colony, Sitanagaram",
+    "latitude": 16.4930794,
+    "longitude": 80.6020882,
+    "place_id": "ChIJwXFs2eHxNToRUCwT-Kb3di4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXFs2eHxNToRUCwT-Kb3di4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:30"
+  },
+  {
+    "business_name": "Dairy Mart India",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "522502",
+    "phone_number": "+91 91105 67502",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2-190/1, Undavalli Rd, Undavalli, Tadepalli, Undavalli, Andhra Pradesh 522501",
+    "area": "Undavalli",
+    "latitude": 16.4972475,
+    "longitude": 80.5848571,
+    "place_id": "ChIJc6KaJJ3xNToRhfvuHXvE_yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6KaJJ3xNToRhfvuHXvE_yA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:31"
+  }
+]

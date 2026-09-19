@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "523113",
+    "phone_number": "+91 44 4207 9779",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "80, N Usman Rd, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Postal Colony, T. Nagar",
+    "latitude": 13.0361795,
+    "longitude": 80.23065199999999,
+    "place_id": "ChIJx3CfWf9mUjoR9nFXO68rR-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3CfWf9mUjoR9nFXO68rR-k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:54"
+  },
+  {
+    "business_name": "Nethra opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "523113",
+    "phone_number": "+91 90241 91445",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Eluru Rd, near bajaj electronics, vijaya talkies centre, Eluru Rd, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5144369,
+    "longitude": 80.6345958,
+    "place_id": "ChIJxTdDuVzlNToRhpANGjDXRGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTdDuVzlNToRhpANGjDXRGI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:56"
+  }
+]

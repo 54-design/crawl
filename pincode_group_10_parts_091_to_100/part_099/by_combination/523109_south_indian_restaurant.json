@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Pullaiah Gaari Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Indian restaurant",
+    "pincode": "523109",
+    "phone_number": "+91 93980 39517",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 14,
+    "address": "CG33+XVP, Kanigiri, Andhra Pradesh 523230",
+    "area": "523109",
+    "latitude": 15.4049777,
+    "longitude": 79.5046045,
+    "place_id": "ChIJ3ZZoTykvSzoRAUeQLpLkk94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZZoTykvSzoRAUeQLpLkk94",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:13"
+  },
+  {
+    "business_name": "Ravi Tiffin Center",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "523109",
+    "phone_number": "+91 98485 09123",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Peda Irla Padu, Andhra Pradesh 523117",
+    "area": "523109",
+    "latitude": 15.2027466,
+    "longitude": 79.5816445,
+    "place_id": "ChIJZ1MSNzY4SzoR0g2LICazCd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1MSNzY4SzoR0g2LICazCd8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:15"
+  }
+]

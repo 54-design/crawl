@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman children clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric clinic",
+    "all_categories": "Pediatric clinic",
+    "pincode": "523113",
+    "phone_number": "+91 90145 53268",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4-8-13, Nelapavari Streat, Balaji Nagar, Ramakrishna Rao Peta, Kakinada, Andhra Pradesh 533001",
+    "area": "Balaji Nagar, Ramakrishna Rao Peta",
+    "latitude": 16.960549,
+    "longitude": 82.237982,
+    "place_id": "ChIJz9MvJ8QpODoRwy-FaywMd6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9MvJ8QpODoRwy-FaywMd6Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:59"
+  },
+  {
+    "business_name": "Amrutha Mother and Child Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Gynecologist",
+    "all_categories": "Gynecologist, Obstetrician-gynecologist, Pediatrician",
+    "pincode": "523113",
+    "phone_number": "+91 97012 17186",
+    "website": "https://amruthahospitalkakinada.com/",
+    "rating": 4.8,
+    "reviews_count": 612,
+    "address": "behind tipsy topsy, V.S. Raju Colony, Rajendra Nagar, Ramanayyapeta, Andhra Pradesh 533005",
+    "area": "V.S. Raju Colony, Rajendra Nagar",
+    "latitude": 16.9930613,
+    "longitude": 82.240026,
+    "place_id": "ChIJNaEU-ksoODoRJ5d_-GudTCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaEU-ksoODoRJ5d_-GudTCY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:59"
+  }
+]

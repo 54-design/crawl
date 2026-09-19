@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spree One Resorts and Conventions",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "522603",
+    "phone_number": "+91 88801 58158",
+    "website": "https://spreehotels.com/new/spree-one-resort-convention/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "A, Sankavaram Mandal, Annavaram, Arempudi, Andhra Pradesh 533406",
+    "area": "A, Sankavaram Mandal",
+    "latitude": 17.2962346,
+    "longitude": 82.41835119999999,
+    "place_id": "ChIJyUt-wn7POToRUHxX_VX52ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUt-wn7POToRUHxX_VX52ug",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:40"
+  },
+  {
+    "business_name": "Mythri Residency",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Convention center, Function room facility",
+    "pincode": "522603",
+    "phone_number": "+91 83320 17333",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 1204,
+    "address": "opposite to hill entry ghat road, Annavaram, Andhra Pradesh 533406",
+    "area": "522603",
+    "latitude": 17.278807699999998,
+    "longitude": 82.4015569,
+    "place_id": "ChIJV4YQZAPPOToRu8cnk8y9R4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4YQZAPPOToRu8cnk8y9R4A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:41"
+  }
+]

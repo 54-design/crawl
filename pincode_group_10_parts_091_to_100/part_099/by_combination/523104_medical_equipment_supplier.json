@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GENESIS SURGICALS",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "523104",
+    "phone_number": "+91 79971 72017",
+    "website": "https://www.genesishomecarenursing.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "health City road, 18-187/3, service lane, opp. care hospital, we, Hanumanthavaka, Visakhapatnam, Andhra Pradesh 530040",
+    "area": "we, Hanumanthavaka",
+    "latitude": 17.7600828,
+    "longitude": 83.3157914,
+    "place_id": "ChIJvdsL3ildOToRZ0cVie-QVv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdsL3ildOToRZ0cVie-QVv0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:07"
+  },
+  {
+    "business_name": "MENDICA HEALTH DISTRIBUTORS",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies, Orthopedic supplies store, Oxygen equipment supplier, Physical rehabilitation center, Physiotherapy equipment supplier, Wheelchair store",
+    "pincode": "523104",
+    "phone_number": "+91 83300 33746",
+    "website": "https://mendicahealth.com/",
+    "rating": 4.4,
+    "reviews_count": 70,
+    "address": "140, pallethu, putten veedu, ms road, near marthoma youth centre, Karuvatta, Adoor, Keralam 691523",
+    "area": "523104",
+    "latitude": 9.1677804,
+    "longitude": 76.7174522,
+    "place_id": "ChIJZ6RS4IkRBjsRY7DAYRDSY3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6RS4IkRBjsRY7DAYRDSY3o",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:08"
+  }
+]

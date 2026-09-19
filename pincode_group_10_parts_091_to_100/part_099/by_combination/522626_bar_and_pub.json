@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Windmills Craftworks [Whitefield]",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewpub",
+    "all_categories": "Brewpub, Brewery, Jazz club",
+    "pincode": "522626",
+    "phone_number": "+91 78997 40309",
+    "website": "https://windmills-india.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Shivaji Nagar, EPIP Zone, Whitefield",
+    "latitude": 12.9825325,
+    "longitude": 77.7217732,
+    "place_id": "ChIJd5CMLo0RrjsRboHwm9XNEzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5CMLo0RrjsRboHwm9XNEzg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:46"
+  },
+  {
+    "business_name": "THREE DROPS BAR & KITCHEN",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "522626",
+    "phone_number": "+91 95132 60045",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 929,
+    "address": "Global village back gate, 3rd Main Rd, BEML Layout, Mailasandra, Bengaluru, Karnataka 560059",
+    "area": "BEML Layout, Mailasandra",
+    "latitude": 12.9159875,
+    "longitude": 77.500514,
+    "place_id": "ChIJHwmHnaQ_rjsRRm5aESBI2xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwmHnaQ_rjsRRm5aESBI2xk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:47"
+  }
+]

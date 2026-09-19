@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banty's House",
+    "search_category": "School",
+    "primary_category": "Primary school",
+    "all_categories": "Primary school",
+    "pincode": "522341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3JRV+V7F, Unnamed Road, Yelavarru, Andhra Pradesh 522341",
+    "area": "522341",
+    "latitude": 16.092179299999998,
+    "longitude": 80.6431721,
+    "place_id": "ChIJjW7X0isbSjoRHeMUoza5A0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjW7X0isbSjoRHeMUoza5A0M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:41:31"
+  },
+  {
+    "business_name": "Bhashyam Educational Institutions",
+    "search_category": "School",
+    "primary_category": "Private educational institution",
+    "all_categories": "Private educational institution, School",
+    "pincode": "522341",
+    "phone_number": "+91 98485 36975",
+    "website": "http://www.bhashyamschools.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6th Ln, Pandaripuram, Ashok Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Pandaripuram, Ashok Nagar",
+    "latitude": 16.3137588,
+    "longitude": 80.4282873,
+    "place_id": "ChIJq355dGF1SjoRPysyp213FC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq355dGF1SjoRPysyp213FC8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:41:32"
+  }
+]

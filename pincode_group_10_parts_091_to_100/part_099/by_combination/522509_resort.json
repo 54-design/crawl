@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhavi Suites",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522509",
+    "phone_number": "+91 90104 53888",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hotel Madhavi suites, 2/3, Ankamma Nagar, Sali Pet, Arundelpet, Guntur, Andhra Pradesh 522002",
+    "area": "Ankamma Nagar, Sali Pet, Arundelpet",
+    "latitude": 16.3027507,
+    "longitude": 80.44294459999999,
+    "place_id": "ChIJvUf6awB1SjoREg0g_3c1VWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUf6awB1SjoREg0g_3c1VWs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:24:19"
+  },
+  {
+    "business_name": "HOTEL NVR RESIDENCY",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522509",
+    "phone_number": "+91 98484 80896",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Railway Station Road, opp. RTC Bus Stand, Gunturvari Thota, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.296388699999998,
+    "longitude": 80.4541733,
+    "place_id": "ChIJ-RAKyEp1SjoRExZl_l26Kbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RAKyEp1SjoRExZl_l26Kbg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:24:20"
+  }
+]

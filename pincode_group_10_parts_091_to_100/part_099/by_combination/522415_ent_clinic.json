@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK Hospital Vinukonda",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522415",
+    "phone_number": "+91 85009 79179",
+    "website": "https://www.instagram.com/akhospitalvnk?igsh=YzdjMTFmOXNoZGsz",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Palnadu Rd, beside Reliance Trends, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0535896,
+    "longitude": 79.7396643,
+    "place_id": "ChIJpdjLBTu9SjoRGyk2s9kIt8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdjLBTu9SjoRGyk2s9kIt8s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:07"
+  },
+  {
+    "business_name": "santha hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522415",
+    "phone_number": "+91 98480 92214",
+    "website": "http://santhahospitals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Doctors Colony Rd, Doctors Colony, Miryalaguda, Telangana 508207",
+    "area": "Doctors Colony",
+    "latitude": 16.868465399999998,
+    "longitude": 79.5612254,
+    "place_id": "ChIJAQAA1GIlNToR1956HMg9U0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA1GIlNToR1956HMg9U0Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:07"
+  }
+]

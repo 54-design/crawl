@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raintree Park Commercial Centre",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Commercial complex, IJM raintree park, opp. Acharya Nagarjuna University Main Road, Namburu, Andhra Pradesh 522510",
+    "area": "522510",
+    "latitude": 16.3819578,
+    "longitude": 80.5198382,
+    "place_id": "ChIJVVWlpkf0NToRQd542TN8ElM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWlpkf0NToRQd542TN8ElM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:51"
+  },
+  {
+    "business_name": "Vijayalakshmi Communicatons",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "9GF7+FQ4, Koppuravuru, Andhra Pradesh 522508",
+    "area": "522510",
+    "latitude": 16.3736384,
+    "longitude": 80.5144481,
+    "place_id": "ChIJDfdAmU70NToRPMX7aoIN2ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfdAmU70NToRPMX7aoIN2ao",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:51"
+  }
+]

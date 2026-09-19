@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Titan World - Gandhi Nagar, West Godavari",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "523109",
+    "phone_number": "+91 80 6291 4438",
+    "website": "https://www.titan.co.in/stores?storeId=WJKES",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "GVS Commercial Complex, PP Rd, opposite CMR Shopping Mall, Somavaram, Gandhinagar, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Somavaram, Gandhinagar",
+    "latitude": 16.5453682,
+    "longitude": 81.5273538,
+    "place_id": "ChIJ2c8eBqbSNzoR2G8UCBSJDIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2c8eBqbSNzoR2G8UCBSJDIU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:24"
+  },
+  {
+    "business_name": "Fastrack store - New Balaji Colony, Tirupati",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Bag shop, Handbags shop, Perfume store, Sunglasses store",
+    "pincode": "523109",
+    "phone_number": "+91 877 224 5001",
+    "website": "https://www.fastrack.in/",
+    "rating": 4.9,
+    "reviews_count": 1106,
+    "address": "A plot no 5, 8/161, Air Bypass Rd, New Balaji Colony, Avilali, Andhra Pradesh 517502",
+    "area": "New Balaji Colony",
+    "latitude": 13.6218784,
+    "longitude": 79.41101859999999,
+    "place_id": "ChIJZdmTUOZLTToRu70SjGmyWFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdmTUOZLTToRu70SjGmyWFI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:27"
+  }
+]

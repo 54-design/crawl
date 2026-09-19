@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHESH BABU PINDI MILL",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery store",
+    "pincode": "523105",
+    "phone_number": "+91 80965 39455",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Raithu Bazar Kandukuru, DV Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "DV Nagar",
+    "latitude": 15.214990199999999,
+    "longitude": 79.9057144,
+    "place_id": "ChIJsVWhYNcTSzoRHz_BcDXKUVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVWhYNcTSzoRHz_BcDXKUVU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:24"
+  },
+  {
+    "business_name": "Lakshmi Narasimha Kirana Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523105",
+    "phone_number": "+91 63796 86383",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Kandukur, Singmanenipalli, Andhra Pradesh 523113",
+    "area": "523105",
+    "latitude": 15.1538992,
+    "longitude": 79.8467284,
+    "place_id": "ChIJA3jgTgBtSzoRMjmt1z0PEyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3jgTgBtSzoRMjmt1z0PEyg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Tiger Valley Restaurant & Rooms",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "522426",
+    "phone_number": "+91 91543 93030",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 98,
+    "address": "NH565, opposite Bharat petroleum Pump, Pylon Colony, Nagarjuna sagar, Telangana 508202",
+    "area": "Pylon Colony",
+    "latitude": 16.5865805,
+    "longitude": 79.32335739999999,
+    "place_id": "ChIJNzMMQ1K1yjsR_S_0zVGoWl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzMMQ1K1yjsR_S_0zVGoWl0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:04:26"
+  },
+  {
+    "business_name": "New Sagar Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "522426",
+    "phone_number": "+91 89856 83449",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 84,
+    "address": "00 Main Road Pylon Nagarjuna Sagar, Telangana 508202",
+    "area": "522426",
+    "latitude": 16.5914775,
+    "longitude": 79.3170341,
+    "place_id": "ChIJGYUyf321yjsRG9Yi_8Uxqxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYUyf321yjsRG9Yi_8Uxqxw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:04:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522603",
+    "phone_number": "+91 95420 61581",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guntur Rd, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Barampet",
+    "latitude": 16.2371984,
+    "longitude": 80.0551723,
+    "place_id": "ChIJtz6miAqBSjoRlDBYc6VUEKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtz6miAqBSjoRlDBYc6VUEKE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:32:46"
+  },
+  {
+    "business_name": "Satyabhama Fashions",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522603",
+    "phone_number": "+91 92467 46796",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 40,
+    "address": "Station Rd, opposite MRO Office, Ameensaheb Palem, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Ameensaheb Palem, Arundelpet",
+    "latitude": 16.235213599999998,
+    "longitude": 80.0484357,
+    "place_id": "ChIJO1rzqx6BSjoRY45p9uWom-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1rzqx6BSjoRY45p9uWom-M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:32:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marketing Mechanix",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "522549",
+    "phone_number": "+91 81434 82526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palnadu Rd, beside muthoot finance gold, busstand, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "busstand",
+    "latitude": 16.2375696,
+    "longitude": 80.0441316,
+    "place_id": "ChIJ_weftxGBSjoRaa1KioxEOO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_weftxGBSjoRaa1KioxEOO0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:32"
+  },
+  {
+    "business_name": "SAI KRISHNA CREATIVES",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Print shop",
+    "pincode": "522549",
+    "phone_number": "+91 96183 06484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Prakash Nagar, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Prakash Nagar",
+    "latitude": 16.2288261,
+    "longitude": 80.0454373,
+    "place_id": "ChIJaXYeMTKBSjoR8aJR2B3THo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXYeMTKBSjoR8aJR2B3THo4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:33"
+  }
+]

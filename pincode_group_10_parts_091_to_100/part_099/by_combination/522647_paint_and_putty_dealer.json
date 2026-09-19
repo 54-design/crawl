@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramya Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "522647",
+    "phone_number": "+91 99893 34892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palnadu Rd, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0532774,
+    "longitude": 79.7397405,
+    "place_id": "ChIJu9gZfNO9SjoRLxzZNJiQIh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9gZfNO9SjoRLxzZNJiQIh4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:54:03"
+  },
+  {
+    "business_name": "Birla Opus Paint Gallery - Pardhuram Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Paint Manufacturer, Painter, Painting",
+    "pincode": "522647",
+    "phone_number": "+91 80 3784 0361",
+    "website": "http://www.birlaopus.com/?utm_source=Google&utm_medium=GMB",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1 Chitirala, Satyam Bazar, 24-185, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0495673,
+    "longitude": 79.7380632,
+    "place_id": "ChIJiVeFRz69SjoRzbdotX_-MLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVeFRz69SjoRzbdotX_-MLQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:54:03"
+  }
+]

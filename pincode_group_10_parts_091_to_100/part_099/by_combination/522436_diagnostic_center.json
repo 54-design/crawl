@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIVA SANKAR MEDICAL SHOP",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "522436",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "G77Q+M5C, 75-Tyallur, Tyalluru, Andhra Pradesh 522436",
+    "area": "75-Tyallur",
+    "latitude": 16.5141785,
+    "longitude": 80.2879052,
+    "place_id": "ChIJafA77sORNToRZrwXIylndSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafA77sORNToRZrwXIylndSs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:29"
+  },
+  {
+    "business_name": "Anandhi Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "522436",
+    "phone_number": "+91 863 224 6999",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Amrutha Hospitals, Old Club Rd, near Bose statue, opposite Union Bank, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2994587,
+    "longitude": 80.4503539,
+    "place_id": "ChIJwSKFuKJ1SjoR6k7_yIxptIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSKFuKJ1SjoR6k7_yIxptIY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW ROYAL FRESH MART",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523002",
+    "phone_number": "+91 73490 80987",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 700,
+    "address": "Thanisandra Main Rd, next to R R Signature Apartment, Balaji Layout, Chokkanahalli, Bengaluru, Karnataka 560064",
+    "area": "Balaji Layout, Chokkanahalli",
+    "latitude": 13.0796197,
+    "longitude": 77.63345369999999,
+    "place_id": "ChIJ3RVbC6EZrjsRuGSDgnRiFWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RVbC6EZrjsRuGSDgnRiFWc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:11:42"
+  },
+  {
+    "business_name": "Balamurugan Stores",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523002",
+    "phone_number": "+91 98404 11227",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 46,
+    "address": "No.29, 22, 1st Main Rd, Phase-2, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+    "area": "Phase-2, Thirumalai Nagar Annexe, Perungudi",
+    "latitude": 12.959712,
+    "longitude": 80.241785,
+    "place_id": "ChIJn3bLQA5dUjoRI-w5eHCIRCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3bLQA5dUjoRI-w5eHCIRCk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:11:42"
+  }
+]

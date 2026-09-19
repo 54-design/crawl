@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SASI COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Camera repair shop, Computer Rental Agency",
+    "pincode": "522413",
+    "phone_number": "+91 91210 02753",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Railway Station Rd, Piduguralla, Andhra Pradesh 522413",
+    "area": "522413",
+    "latitude": 16.4799593,
+    "longitude": 79.87880349999999,
+    "place_id": "ChIJnZ6Rw6ZvNToR_pw8blMp9_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZ6Rw6ZvNToR_pw8blMp9_I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:58:16"
+  },
+  {
+    "business_name": "KB MOBILES & ACCESSORIES",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Cell phone charging station, Mobile home dealer, Mobile phone repair shop, Phone repair service",
+    "pincode": "522413",
+    "phone_number": "+91 78424 84670",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main road, opposite police station, milatary colony, Piduguralla, Andhra Pradesh 522413",
+    "area": "milatary colony",
+    "latitude": 16.480264,
+    "longitude": 79.8891704,
+    "place_id": "ChIJR8QpXgBvNToRZzyY1Jzc7R4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8QpXgBvNToRZzyY1Jzc7R4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:58:17"
+  }
+]

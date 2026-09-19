@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KKK Lorry Supply Office",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522413",
+    "phone_number": "+91 93468 74363",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "Under Over Bridge, Vinukonda Rd, adjacent to Vinukonda bus stop, Venkat Reddy Nagar, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Venkat Reddy Nagar",
+    "latitude": 16.2322758,
+    "longitude": 80.05314659999999,
+    "place_id": "ChIJLUdrMwyBSjoRcZcnjuiArYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUdrMwyBSjoRcZcnjuiArYQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:39"
+  },
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522413",
+    "phone_number": "+91 866 663 8787",
+    "website": "http://www.navata.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DEVARASETTY BALANJANEYA COMPLEX, D.NO.1-11 C/O, KESANAPALLI ROAD, DACHEPALLI, Kesanu Palle, Andhra Pradesh 522414",
+    "area": "DACHEPALLI",
+    "latitude": 16.5907469,
+    "longitude": 79.74017409999999,
+    "place_id": "ChIJbRFXmkV1SjoRidjdYz-2BhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRFXmkV1SjoRidjdYz-2BhE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:40"
+  }
+]

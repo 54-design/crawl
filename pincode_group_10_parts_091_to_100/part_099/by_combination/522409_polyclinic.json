@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sathvika Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "Sambasiva Pet, Guntur, Andhra Pradesh 522001",
+    "area": "Sambasiva Pet",
+    "latitude": 16.2974864,
+    "longitude": 80.4452852,
+    "place_id": "ChIJZ77GhUB1SjoRi5NU6WjpulI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ77GhUB1SjoRi5NU6WjpulI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:50:05"
+  },
+  {
+    "business_name": "Yashaswi Hospitals",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor",
+    "pincode": "522409",
+    "phone_number": "+91 863 226 2255",
+    "website": "http://www.yashaswihospitals.com/",
+    "rating": 3.4,
+    "reviews_count": 77,
+    "address": "Arka hospital back side,Mangalagiri road, 1, Guntur - Vijayawada Hwy, Maddirala Colony, Agatavarappadu, Andhra Pradesh 522001",
+    "area": "Maddirala Colony",
+    "latitude": 16.317900299999998,
+    "longitude": 80.47028,
+    "place_id": "ChIJG6gbQqcKSjoR86zc_QhA_Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6gbQqcKSjoR86zc_QhA_Ms",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:50:05"
+  }
+]

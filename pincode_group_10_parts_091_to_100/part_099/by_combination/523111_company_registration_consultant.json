@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TaXmaan Advisors Private limited",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Professional association",
+    "all_categories": "Professional association",
+    "pincode": "523111",
+    "phone_number": "+91 40 2933 9144",
+    "website": "https://www.taxmaan.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Asian Mukund Theater, Flat No. 104, 1st Floor, Dr. Venugopal Nirmal Arcade, Opp:, Medchal, Hyderabad, Telangana 501401",
+    "area": "Chandra Nagar, Medchal",
+    "latitude": 17.63909,
+    "longitude": 78.485804,
+    "place_id": "ChIJo8d1ZuuHyzsRj9IVVmm9kWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8d1ZuuHyzsRj9IVVmm9kWU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:24:14"
+  },
+  {
+    "business_name": "Naresh Pokala & Company",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accountant, Auditor, Consultant, Financial consultant, Financial planner, Income tax help association, Registration office, Tax preparation service",
+    "pincode": "523111",
+    "phone_number": "+91 73068 10570",
+    "website": "http://nareshpokala.in/",
+    "rating": 5,
+    "reviews_count": 124,
+    "address": "1st Floor, Janapriya Enclave, 3-7-51/91F, near Rock Town Colony, L. B. Nagar, Mansoorabad, Hyderabad, Telangana 500068",
+    "area": "L. B. Nagar",
+    "latitude": 17.3585813,
+    "longitude": 78.5639636,
+    "place_id": "ChIJL045tnqZyzsRti-3IV0XKHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL045tnqZyzsRti-3IV0XKHU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:24:16"
+  }
+]

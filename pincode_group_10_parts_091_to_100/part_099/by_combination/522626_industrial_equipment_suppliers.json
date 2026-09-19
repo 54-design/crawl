@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Oil field equipment supplier",
+    "all_categories": "Oil field equipment supplier",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Service Rd, Martur, Rajupalem, Andhra Pradesh 523301",
+    "area": "522626",
+    "latitude": 16.0027109,
+    "longitude": 80.1128461,
+    "place_id": "ChIJ40sKPABhSjoRS9_jS_6p-YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40sKPABhSjoRS9_jS_6p-YE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:12"
+  },
+  {
+    "business_name": "Emmu welding works",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "522626",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24Q3+FQM, Murikipudi, Andhra Pradesh 522626",
+    "area": "522626",
+    "latitude": 16.0387137,
+    "longitude": 80.104418,
+    "place_id": "ChIJl9MNDwBjSjoRdUcYuwKm7hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9MNDwBjSjoRdUcYuwKm7hc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:51:13"
+  }
+]

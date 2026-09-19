@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "522501",
+    "phone_number": "+91 82975 33444",
+    "website": "https://goldenfitnessgym.in/",
+    "rating": 4.9,
+    "reviews_count": 163,
+    "address": "4th floor, 15-130, Door number 32, Chandra Rajeswara Rao Raod, opp. metro store, Mogalrajapuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Christurajupuram",
+    "latitude": 16.510280899999998,
+    "longitude": 80.6418731,
+    "place_id": "ChIJC7jxsq77NToReU0SC1qC-A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7jxsq77NToReU0SC1qC-A4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:16:01"
+  },
+  {
+    "business_name": "Maruthi Sports House",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "522501",
+    "phone_number": "+91 98489 03029",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Door No. 11-40-31/2, Pulipativari St, 1 Town, Kaleswara Rao Market, Tarapet, Vijayawada, Andhra Pradesh 520001",
+    "area": "1 Town, Kaleswara Rao Market, Tarapet",
+    "latitude": 16.514200499999998,
+    "longitude": 80.61117589999999,
+    "place_id": "ChIJ1QqhXeDvNToRrWmBUIS7m4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QqhXeDvNToRrWmBUIS7m4Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:16:02"
+  }
+]

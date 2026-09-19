@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Guru Sai Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "523111",
+    "phone_number": "+91 81434 17248",
+    "website": "http://www.gurusaicaterers.in/",
+    "rating": 4.9,
+    "reviews_count": 251,
+    "address": "Plot no 22 ,new venkateshwara colony ,jillelaguda, Kharmanghat, Telangana 500097",
+    "area": "Srinivasa Gayatri Nagar",
+    "latitude": 17.3303823,
+    "longitude": 78.5289464,
+    "place_id": "ChIJxfl7iL-jyzsR0T37GsfT-Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfl7iL-jyzsR0T37GsfT-Ac",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:52"
+  },
+  {
+    "business_name": "Sree Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Restaurant supply store, Wedding buffet",
+    "pincode": "523111",
+    "phone_number": "+91 99480 22221",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Adikmet Main Road, Vidya Nagar, Adikmet, Hyderabad, Telangana 500044",
+    "area": "Vidya Nagar, Adikmet",
+    "latitude": 17.4084634,
+    "longitude": 78.514408,
+    "place_id": "ChIJwTAGi3KZyzsRoWuV5qlKEhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTAGi3KZyzsRoWuV5qlKEhA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:53"
+  }
+]

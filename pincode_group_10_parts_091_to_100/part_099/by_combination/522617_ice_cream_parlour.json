@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naga Jyothi Ice Cream Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "522617",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Unnamed Road, Vellalacheruvu, Andhra Pradesh 523302",
+    "area": "522617",
+    "latitude": 16.125112599999998,
+    "longitude": 79.8846183,
+    "place_id": "ChIJj1ZbemGbSjoRPLpu9qkI6YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1ZbemGbSjoRPLpu9qkI6YY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:46:03"
+  },
+  {
+    "business_name": "Pooja colddrink & juice center",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "522617",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6W57+Q2G, Rompicharla, Andhra Pradesh 522617",
+    "area": "522617",
+    "latitude": 16.2094457,
+    "longitude": 79.9125739,
+    "place_id": "ChIJP7MKUgCdSjoR8el6l-q3EJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7MKUgCdSjoR8el6l-q3EJY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:46:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanmukha Communication",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "522603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nrt Road, opposite ysr stachu, Santhamaguluru, Andhra Pradesh 523302",
+    "area": "522603",
+    "latitude": 16.1194505,
+    "longitude": 79.95502929999999,
+    "place_id": "ChIJ2QZXwxeFSjoR9NFJVrDiViw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QZXwxeFSjoR9NFJVrDiViw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:54"
+  },
+  {
+    "business_name": "Meeseva Vipparlapalli",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "522603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "main road, vipparlapalli, Vipparla Palli, Andhra Pradesh 522603",
+    "area": "vipparlapalli",
+    "latitude": 16.1930639,
+    "longitude": 79.96613529999999,
+    "place_id": "ChIJVahKdH2ESjoR2jX-p5CB7fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVahKdH2ESjoR2jX-p5CB7fw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:55"
+  }
+]

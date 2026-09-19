@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LASYA CLINIC",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "522647",
+    "phone_number": "+91 93913 33392",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Main Road, Medapi, Andhra Pradesh 523326",
+    "area": "522647",
+    "latitude": 16.0312675,
+    "longitude": 79.49669779999999,
+    "place_id": "ChIJFYCxGfmxSjoRcYlGoXbbh_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYCxGfmxSjoRcYlGoXbbh_M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:54:14"
+  },
+  {
+    "business_name": "Krishnapriya AC Deluxe Lodge",
+    "search_category": "Spa",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522647",
+    "phone_number": "+91 86462 72616",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 15,
+    "address": "Guntur, SH-89, Vinukonda Macherla Road, Vinukonda, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.056383999999998,
+    "longitude": 79.739621,
+    "place_id": "ChIJMZ8oIn69SjoRymBqQdK9EP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZ8oIn69SjoRymBqQdK9EP0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:54:15"
+  }
+]

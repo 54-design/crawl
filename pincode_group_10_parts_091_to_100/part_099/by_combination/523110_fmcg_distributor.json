@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankita Enterprise - FMCG Distributor",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "523110",
+    "phone_number": "+91 94261 71115",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambalal Complex, 12, Gulab Tower Rd, Someshwar Park-3, Thaltej, Ahmedabad, Gujarat 380054",
+    "area": "Someshwar Park-3, Thaltej",
+    "latitude": 23.060030899999997,
+    "longitude": 72.5257992,
+    "place_id": "ChIJj1v_cduDXjkRHsEeXZzkO20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1v_cduDXjkRHsEeXZzkO20",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:20:54"
+  },
+  {
+    "business_name": "Grace Agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "523110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13-6-826/24/1 Moghal Ka Nala, Ring Road, Karwan West, Karwan, Hyderabad, Telangana 500006",
+    "area": "Karwan West, Karwan",
+    "latitude": 17.3749939,
+    "longitude": 78.43006439999999,
+    "place_id": "ChIJgevZb42XyzsRmdwa492ia9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgevZb42XyzsRmdwa492ia9U",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:20:57"
+  }
+]

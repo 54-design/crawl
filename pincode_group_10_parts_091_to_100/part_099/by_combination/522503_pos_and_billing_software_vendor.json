@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Federal Bank",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Business banking service, Car finance and loan company, Financial advisor, Financial institution, Investment service, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "522503",
+    "phone_number": "+91 1800 425 1199",
+    "website": "https://www.federal.bank.in/?utm_source=branch_locator&utm_medium=brand_website",
+    "rating": 5,
+    "reviews_count": 151,
+    "address": "No 6/90, NH 5 Road, near Anjaneyaswami Temple, Koppuravuru, Andhra Pradesh 522508",
+    "area": "522503",
+    "latitude": 16.3772912,
+    "longitude": 80.5001149,
+    "place_id": "ChIJVzzoJWr1NToRwGaDwSZaf10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzzoJWr1NToRwGaDwSZaf10",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:40"
+  },
+  {
+    "business_name": "Kaza Toll Plaza",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Toll station",
+    "all_categories": "Toll station",
+    "pincode": "522503",
+    "phone_number": "N/A",
+    "website": "https://tis.nhai.gov.in/",
+    "rating": 3.9,
+    "reviews_count": 8771,
+    "address": "National Highway 16, Kaza, Andhra Pradesh 522508",
+    "area": "522503",
+    "latitude": 16.3857462,
+    "longitude": 80.5329395,
+    "place_id": "ChIJ_wXkryT0NToRhxU9lwqm8k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wXkryT0NToRhxU9lwqm8k8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:40"
+  }
+]

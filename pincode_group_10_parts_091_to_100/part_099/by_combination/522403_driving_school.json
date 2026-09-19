@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri bhavani driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "522403",
+    "phone_number": "+91 88970 88169",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opt, BSNL office, Guntur Rd, Sattenapalle, Andhra Pradesh 522403",
+    "area": "522403",
+    "latitude": 16.3959755,
+    "longitude": 80.1492148,
+    "place_id": "ChIJc-tw5GGBNToRX1hROclH254",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-tw5GGBNToRX1hROclH254",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:40"
+  },
+  {
+    "business_name": "Rajya Lakshmi motor driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "522403",
+    "phone_number": "+91 88852 05769",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 104,
+    "address": "35VC+P6V, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522403",
+    "latitude": 16.0944061,
+    "longitude": 80.1702468,
+    "place_id": "ChIJbelVm-djSjoRbZ1kLnFW2bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbelVm-djSjoRbZ1kLnFW2bg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:42"
+  }
+]

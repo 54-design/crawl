@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Herbals Ayurvedic Shop",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Alternative medicine practitioner, Herbal medicine store",
+    "pincode": "522601",
+    "phone_number": "+91 96529 29294",
+    "website": "http://www.happyherbals.online/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1-1- 5, Kothapet- Nagole, Chaitanyapuri Main Rd, opposite Kotak Mahindra Bank, Mohan Nagar, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Mohan Nagar, Srinagar Colony, Kothapet",
+    "latitude": 17.3732059,
+    "longitude": 78.5483387,
+    "place_id": "ChIJtzlAUsOYyzsRK08EWdbt3lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzlAUsOYyzsRK08EWdbt3lI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:38"
+  },
+  {
+    "business_name": "VR Wellness Care Ayurheera Herbal and Ayurvedic Products",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Wholesaler",
+    "pincode": "522601",
+    "phone_number": "+91 86394 15347",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "near ST. MICHAELS SCHOOL, Sri Sai Nagar, Shivanagar Colony, Old Alwal, Alwal, Jonnabanda, Hyderabad, Telangana 500010",
+    "area": "Sri Sai Nagar, Shivanagar Colony, Old Alwal, Alwal",
+    "latitude": 17.5202861,
+    "longitude": 78.5017635,
+    "place_id": "ChIJy8yUYSGbyzsRKokOul12hUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8yUYSGbyzsRKokOul12hUA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:40"
+  }
+]

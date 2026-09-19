@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyEdumate.Co",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "522529",
+    "phone_number": "N/A",
+    "website": "http://myedumate.co/",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "5-88/1, Main Road, near Rachabanda, Edlapadu, Andhra Pradesh 522233",
+    "area": "522529",
+    "latitude": 16.1685245,
+    "longitude": 80.2245945,
+    "place_id": "ChIJL6ydirV7SjoR7ufsmTL6sw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6ydirV7SjoR7ufsmTL6sw8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:14"
+  },
+  {
+    "business_name": "Sri Rama Overseas",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "522529",
+    "phone_number": "N/A",
+    "website": "https://www.sriramaoverseas.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-22 Venu gopala swamy temple street, Vankayalapadu, Edlapadu, Andhra Pradesh 522233",
+    "area": "522529",
+    "latitude": 16.1819315,
+    "longitude": 80.2524438,
+    "place_id": "ChIJF_btEYl7SjoRo0Pcgo_kuH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_btEYl7SjoRo0Pcgo_kuH8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:14"
+  }
+]

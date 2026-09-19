@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RS EVENTS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "522611",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RVSCVS COMPLEX, Subbiah Thota St, near BSNL OFFICE, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522611",
+    "latitude": 16.0841232,
+    "longitude": 80.16175779999999,
+    "place_id": "ChIJ67IrzQ1jSjoRCGPU1spvQRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67IrzQ1jSjoRCGPU1spvQRI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:35:39"
+  },
+  {
+    "business_name": "PFD EVENT PLANNERS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "522611",
+    "phone_number": "+91 99850 87911",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vasavi complex, 2nd line, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Barampet",
+    "latitude": 16.2524461,
+    "longitude": 80.0571732,
+    "place_id": "ChIJ1f7M3PeBSjoRXPtj6AfSEz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1f7M3PeBSjoRXPtj6AfSEz4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:35:42"
+  }
+]

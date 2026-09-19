@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nice chicken and fish market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "523111",
+    "phone_number": "+91 97008 13561",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "9F3R+M85, Edi bazar road, Zohra Bee Darga Rd, near sultan mahal, opp. railway bridge Hyderabad, Rein Bazar, Yakutpura, Hyderabad, Telangana 500023",
+    "area": "Rein Bazar, Yakutpura",
+    "latitude": 17.3541852,
+    "longitude": 78.4911437,
+    "place_id": "ChIJJwk4LHeZyzsRq08VdeCFf2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwk4LHeZyzsRq08VdeCFf2k",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:48"
+  },
+  {
+    "business_name": "Godavari Cuts - Gachibowli",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "523111",
+    "phone_number": "+91 80057 21777",
+    "website": "https://godavaricuts.com/pages/gachibowli-1",
+    "rating": 3.3,
+    "reviews_count": 138,
+    "address": "No-1-55/196 & 199B No 196 & 199 Kondapur Village, Botanical Garden Rd, Kondapur, Telangana 500084",
+    "area": "Kondapur",
+    "latitude": 17.4625295,
+    "longitude": 78.34888649999999,
+    "place_id": "ChIJRUeoKaaTyzsR69LIRYE4HxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUeoKaaTyzsR69LIRYE4HxM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:48"
+  }
+]

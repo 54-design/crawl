@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Locul.Uptown - Abshot Layout",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Bed & breakfast, Hotel, Serviced accommodation, Service Apartment, Student dormitory, Tour agency, Working women's hostel, Youth Hostel",
+    "pincode": "523115",
+    "phone_number": "+91 95389 79403",
+    "website": "https://locul.co.in/locul-uptown",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground Floor, 40, Sankey Cross Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "area": "Abshot Layout, Vasanth Nagar",
+    "latitude": 12.9926043,
+    "longitude": 77.58621,
+    "place_id": "ChIJSeiIi0AWrjsRNUuOZBwDF-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeiIi0AWrjsRNUuOZBwDF-c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:20"
+  },
+  {
+    "business_name": "LoCul.Central - Church Street",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Capsule hotel, Extended stay hotel, Guest house, Service Apartment, Student dormitory, Tour agency, Youth Hostel",
+    "pincode": "523115",
+    "phone_number": "+91 80734 88380",
+    "website": "https://locul.co.in/locul-central",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "46, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "area": "Haridevpur, Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.9757343,
+    "longitude": 77.602347,
+    "place_id": "ChIJz1mnWZYXrjsRDcqCM6Tw3tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1mnWZYXrjsRDcqCM6Tw3tw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:20"
+  }
+]

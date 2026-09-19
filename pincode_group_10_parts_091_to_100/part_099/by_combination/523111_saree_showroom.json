@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prashanti Sarees - T Nagar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store, Dress store",
+    "pincode": "523111",
+    "phone_number": "+91 99625 05459",
+    "website": "https://www.prashantisarees.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "11, Srinivasa Rd, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Pondy Bazaar, T. Nagar",
+    "latitude": 13.0417466,
+    "longitude": 80.2361908,
+    "place_id": "ChIJ53riZBtnUjoR7kjZ4AFpBe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53riZBtnUjoR7kjZ4AFpBe8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:59"
+  },
+  {
+    "business_name": "SUHAG SAREES",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523111",
+    "phone_number": "+91 85622 51214",
+    "website": "https://suhagsarees.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "13/483, YV St, YV Street, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "YV Street, Ganagapeta",
+    "latitude": 14.479694299999998,
+    "longitude": 78.8217638,
+    "place_id": "ChIJLcykrB1yszsR46Ox0W3HMjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcykrB1yszsR46Ox0W3HMjw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:22:59"
+  }
+]

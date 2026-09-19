@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LG service center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "522415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "zinah tower center, opposite SONOVISION, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2940297,
+    "longitude": 80.4474879,
+    "place_id": "ChIJRXBkWB91SjoRJ5YkQfKjcwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXBkWB91SjoRJ5YkQfKjcwY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:26"
+  },
+  {
+    "business_name": "Ramesh cooling service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "HVAC contractor",
+    "all_categories": "HVAC contractor, Washer & dryer store",
+    "pincode": "522415",
+    "phone_number": "+91 95157 04550",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adinatayana colony, Karempudi, Andhra Pradesh 522614",
+    "area": "Adinatayana colony",
+    "latitude": 16.4303718,
+    "longitude": 79.718964,
+    "place_id": "ChIJN0OX5j1dNToRClnvF2ESOAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0OX5j1dNToRClnvF2ESOAA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:28"
+  }
+]

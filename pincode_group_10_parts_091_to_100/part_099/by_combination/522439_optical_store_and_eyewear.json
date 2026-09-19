@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE OPTICAL STORE",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "522439",
+    "phone_number": "+91 90401 25004",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rahmat Nagar, Bisra, Odisha 770036",
+    "area": "Rahmat Nagar",
+    "latitude": 22.2504138,
+    "longitude": 84.994185,
+    "place_id": "ChIJhZhd0CX0HzoR6BhkZ6_Gjac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZhd0CX0HzoR6BhkZ6_Gjac",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:14:00"
+  },
+  {
+    "business_name": "OPTIC MART",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical instrument repair service",
+    "all_categories": "Optical instrument repair service",
+    "pincode": "522439",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Piller no 1046, opp. maytrivanam, Maitrivanam, Srinivasa Nagar West, Ameerpet, Hyderabad, Telangana 500038",
+    "area": "Maitrivanam, Srinivasa Nagar West, Ameerpet",
+    "latitude": 17.4374604,
+    "longitude": 78.4433578,
+    "place_id": "ChIJm90FsZ6RyzsRlWlO-8tiU1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm90FsZ6RyzsRlWlO-8tiU1w",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:14:03"
+  }
+]

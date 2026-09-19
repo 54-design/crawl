@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good Looks Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522412",
+    "phone_number": "+91 97599 14032",
+    "website": "http://goodlookssalon-blush.vercel.app/",
+    "rating": 3.8,
+    "reviews_count": 140,
+    "address": "Chakarata Road, Ballupur Rd, near Ballupur flyover, opp. dominos, Dehradun, Uttarakhand 248001",
+    "area": "Friends Colony, Ram Vihar, Ballupur",
+    "latitude": 30.333856899999997,
+    "longitude": 78.0152889,
+    "place_id": "ChIJ3fTACgMqCTkRxf65DIlE7gI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fTACgMqCTkRxf65DIlE7gI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:56:04"
+  },
+  {
+    "business_name": "Neelams Young Master, Hair & Beauty Studio, Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522412",
+    "phone_number": "+91 99971 88988",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 202,
+    "address": "1/6b, Idgah Rd, Prakash Nagar, Govind Garh, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Prakash Nagar, Govind Garh, Khurbura Mohalla",
+    "latitude": 30.32677,
+    "longitude": 78.029315,
+    "place_id": "ChIJcdxIivEpCTkRWEF4s1xK8Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdxIivEpCTkRWEF4s1xK8Lk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:56:04"
+  }
+]

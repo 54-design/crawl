@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nisha & Jagat",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Bridal shop, Clothing store, Dressmaker, Fashion designer",
+    "pincode": "523110",
+    "phone_number": "+91 98266 18000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 117,
+    "address": "NISHA & JAGAT, 16/1/1 Sarju Prasad Marg, Dhakkan wala kuan Between Hans Travels & Hotel Rajshahi, Plot No.16-1, Banwari Lal Jaju Marg, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "Manorama Ganj, South Tukoganj",
+    "latitude": 22.7177072,
+    "longitude": 75.878765,
+    "place_id": "ChIJj2yGnzj9YjkRy7gVEu4wOkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2yGnzj9YjkRy7gVEu4wOkE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:21:13"
+  },
+  {
+    "business_name": "Purvi Doshi",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "523110",
+    "phone_number": "+91 79 4005 4736",
+    "website": "http://www.purvidoshi.com/",
+    "rating": 4.5,
+    "reviews_count": 73,
+    "address": "12, Sunrise Park Road, opp. Advait Complex, tenament, Bodakdev, Ahmedabad, Gujarat 380054",
+    "area": "tenament, Bodakdev",
+    "latitude": 23.0409857,
+    "longitude": 72.5269896,
+    "place_id": "ChIJv4XtcNeEXjkRY1FDX5b-9TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4XtcNeEXjkRY1FDX5b-9TY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:21:13"
+  }
+]

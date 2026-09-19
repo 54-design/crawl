@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aniq Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Beauty Parlour, Hair salon, Spa",
+    "pincode": "523111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "7-16-42 NH5 Road, Old Gajuwaka, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Old Gajuwaka, Chaitanya Nagar, Gajuwaka",
+    "latitude": 17.6856072,
+    "longitude": 83.2034738,
+    "place_id": "ChIJk1CUVzlpOToRoffcRDpDLwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1CUVzlpOToRoffcRDpDLwo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:44"
+  },
+  {
+    "business_name": "Eternal Expression Tattoo & Piercing Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Body piercing shop, Ear piercing service, Permanent make-up clinic, Tattoo and piercing shop, Tattoo artist",
+    "pincode": "523111",
+    "phone_number": "+91 80 2530 9090",
+    "website": "https://www.tattoobangalore.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "91, Richmond Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Ashok Nagar",
+    "latitude": 12.966488499999999,
+    "longitude": 77.6071533,
+    "place_id": "ChIJF0fSuyoUrjsR-DwkzPbW1UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0fSuyoUrjsR-DwkzPbW1UY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:23:47"
+  }
+]

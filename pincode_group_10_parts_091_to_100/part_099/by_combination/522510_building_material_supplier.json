@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhila Earth Movers",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "522510",
+    "phone_number": "+91 74161 83999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kantheru, X Road, Namburu, Andhra Pradesh 522508",
+    "area": "522510",
+    "latitude": 16.3802079,
+    "longitude": 80.5117131,
+    "place_id": "ChIJVZmhLXz1NToR6UlRr1K1PXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZmhLXz1NToR6UlRr1K1PXs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:54"
+  },
+  {
+    "business_name": "Shree Laxmi Steel Center",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store, Tile store",
+    "pincode": "522510",
+    "phone_number": "+91 98223 58242",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Shop No:121/2, Hinjewadi, Mumbai Pune Bypass Road, Hinjawadi, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.5937694,
+    "longitude": 73.7359036,
+    "place_id": "ChIJuUmeU8O7wjsRiJPeh9zYYbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUmeU8O7wjsRiJPeh9zYYbI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:55"
+  }
+]

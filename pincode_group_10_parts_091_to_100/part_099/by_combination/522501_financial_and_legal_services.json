@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "O.W. Legal Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Legal services",
+    "pincode": "522501",
+    "phone_number": "+91 79976 96104",
+    "website": "http://www.owlegalassociates.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HIG 161, Housing Board Colony Rd, Bhavanipuram, Housing Board Colony, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, Housing Board Colony",
+    "latitude": 16.534159,
+    "longitude": 80.59278429999999,
+    "place_id": "ChIJ35e6BRLvNToR9D0O74CfIVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35e6BRLvNToR9D0O74CfIVw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:01"
+  },
+  {
+    "business_name": "SKYWEALTH FINSERV PRIVATE LIMITED",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "522501",
+    "phone_number": "+91 88866 85111",
+    "website": "https://www.skywealthfinserv.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Ananda Nilayam, Pulla Reddy St, beside C S R Kalyana Mandapam, Tadepalle, Vijayawada, Tadepalle, Andhra Pradesh 522501",
+    "area": "Tadepalle",
+    "latitude": 16.478606499999998,
+    "longitude": 80.6202524,
+    "place_id": "ChIJjRHBDUf7NToRArWpVI4U7Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRHBDUf7NToRArWpVI4U7Us",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:02"
+  }
+]

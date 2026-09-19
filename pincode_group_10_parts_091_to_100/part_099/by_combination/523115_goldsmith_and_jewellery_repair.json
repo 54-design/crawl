@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JV Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry manufacturer",
+    "all_categories": "Jewelry manufacturer, Gold dealer, Jewelry buyer, Pawn shop, Silversmith",
+    "pincode": "523115",
+    "phone_number": "+91 99411 87400",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4/270, 37, Dudhiya, Pari Salai, Mogappair East, Chennai, Tamil Nadu 600037",
+    "area": "Dudhiya, Pari Salai, Mogappair East",
+    "latitude": 13.081312299999999,
+    "longitude": 80.18563189999999,
+    "place_id": "ChIJMZjhnABkUjoRJa1bvMMDBbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZjhnABkUjoRJa1bvMMDBbo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:31"
+  },
+  {
+    "business_name": "Syed Ali Fathima Gold Covering",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523115",
+    "phone_number": "+91 98419 81786",
+    "website": "http://www.safathima.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "New: 126, old:, 234, Purasaivakkam High Rd, Purasaiwakkam, Chennai, Tamil Nadu 600007",
+    "area": "Purasaiwakkam",
+    "latitude": 13.085763,
+    "longitude": 80.2542143,
+    "place_id": "ChIJZaWbId5lUjoRmzRZWvqMvQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaWbId5lUjoRmzRZWvqMvQM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:31"
+  }
+]

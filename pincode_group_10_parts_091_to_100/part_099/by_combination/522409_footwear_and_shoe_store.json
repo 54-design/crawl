@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "522409",
+    "phone_number": "+91 95507 34887",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7-34/1, Main Rd, near Ysr Statue, Chandralapadu, Andhra Pradesh 521182",
+    "area": "522409",
+    "latitude": 16.6930703,
+    "longitude": 80.2016672,
+    "place_id": "ChIJoeZ4vIyjNToRnydHr40QoSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeZ4vIyjNToRnydHr40QoSo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:49:55"
+  },
+  {
+    "business_name": "Walkaroo International Pvt Ltd (VKC footprints Global Pvt Ltd)",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe factory",
+    "all_categories": "Shoe factory",
+    "pincode": "522409",
+    "phone_number": "+91 84980 81002",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 128,
+    "address": "M263+QCJ P.O. Mandal, APIIC Industrial Park Rd, Tada, Mambattu, Kadalur, Andhra Pradesh 524121",
+    "area": "Tada",
+    "latitude": 13.6619618,
+    "longitude": 80.0035284,
+    "place_id": "ChIJxWjIfoFzTToRsW2aJBt34CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWjIfoFzTToRsW2aJBt34CI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:49:57"
+  }
+]

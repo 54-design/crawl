@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta Bakery & General Store",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522439",
+    "phone_number": "+91 63053 99328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite BC school, Hill Colony, Nagarjuna Sagar, Nandikonda, Telangana 508202",
+    "area": "Hill Colony",
+    "latitude": 16.6167345,
+    "longitude": 79.2957248,
+    "place_id": "ChIJo3w7NkS1yjsR15P3BSGJkIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3w7NkS1yjsR15P3BSGJkIk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:13:47"
+  },
+  {
+    "business_name": "Bake My Cakes",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Cupcake shop, Pastry shop",
+    "pincode": "522439",
+    "phone_number": "+91 75888 95959",
+    "website": "https://bakemycakes.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Orange County 1, Balaji circle Baner pashan link road, Sus - Pashan Rd, Pashan, Pune, Maharashtra 411021",
+    "area": "Pashan",
+    "latitude": 18.5436653,
+    "longitude": 73.7904588,
+    "place_id": "ChIJKVhPjSe_wjsRkLoo4en9aTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVhPjSe_wjsRkLoo4en9aTw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:13:47"
+  }
+]

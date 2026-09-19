@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Power Constructions",
+    "search_category": "Electrician",
+    "primary_category": "Electrical engineer",
+    "all_categories": "Electrical engineer, Store",
+    "pincode": "522626",
+    "phone_number": "+91 91004 11490",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chinna Jagarlamudi, 1street, Rajupalem, Andhra Pradesh 523301",
+    "area": "Chinna Jagarlamudi, 1street",
+    "latitude": 16.005332199999998,
+    "longitude": 80.1238087,
+    "place_id": "ChIJ3X0rZ5RhSjoRepyMM2Uq2fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3X0rZ5RhSjoRepyMM2Uq2fg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:25"
+  },
+  {
+    "business_name": "Sri Raja lighting and decoration",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "522626",
+    "phone_number": "+91 91337 47452",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Boppudi, Andhra Pradesh 522626",
+    "area": "522626",
+    "latitude": 16.0781374,
+    "longitude": 80.1346567,
+    "place_id": "ChIJ2xu468tjSjoRy_V7hhYJD8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xu468tjSjoRy_V7hhYJD8A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:26"
+  }
+]

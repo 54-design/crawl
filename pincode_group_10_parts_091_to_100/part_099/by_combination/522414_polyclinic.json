@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Chowdary",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522414",
+    "phone_number": "+91 91338 76967",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JM42+XJ7, Pulipadu, Andhra Pradesh 522415",
+    "area": "522414",
+    "latitude": 16.6074043,
+    "longitude": 79.6515375,
+    "place_id": "ChIJVVVVFdVANToRs1BUNonCB58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFdVANToRs1BUNonCB58",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:16"
+  },
+  {
+    "business_name": "Dr G Jagadish Kumar psychiatry clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Child psychiatrist, Doctor, Mental Hospital, Mental health service, Psychiatric hospital, Student career counseling office",
+    "pincode": "522414",
+    "phone_number": "+91 94932 34704",
+    "website": "https://gjagadishpsychiatrist.in/",
+    "rating": 4.9,
+    "reviews_count": 288,
+    "address": "7FX2+M7P, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2991419,
+    "longitude": 80.4506329,
+    "place_id": "ChIJ0WXBGe51SjoRmQMZrzl-sXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WXBGe51SjoRmQMZrzl-sXA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:17"
+  }
+]

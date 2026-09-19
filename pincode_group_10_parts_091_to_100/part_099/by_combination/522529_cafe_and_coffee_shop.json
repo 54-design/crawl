@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cooking",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522529",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "101, Guntur, Andhra Pradesh 522233",
+    "area": "Boyapalem",
+    "latitude": 16.1936183,
+    "longitude": 80.2553157,
+    "place_id": "ChIJZShGNo97SjoRG8LXi1kHqM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZShGNo97SjoRG8LXi1kHqM4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:09"
+  },
+  {
+    "business_name": "Bismillah tae stall",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522529",
+    "phone_number": "+91 97037 77037",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "11-124/A , MAIN ROAD, near POST OFFICE, Phirangipuram, Andhra Pradesh 522529",
+    "area": "522529",
+    "latitude": 16.2910336,
+    "longitude": 80.2610543,
+    "place_id": "ChIJdQTnu-V5SjoRvj6UFvezAYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQTnu-V5SjoRvj6UFvezAYQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:10"
+  }
+]

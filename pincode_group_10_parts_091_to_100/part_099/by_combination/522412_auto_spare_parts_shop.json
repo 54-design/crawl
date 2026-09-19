@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanalakshmi Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "522412",
+    "phone_number": "+91 92471 28833",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 171,
+    "address": "11/52, Renigunta Rd, AutoNagar, SV Auto Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "AutoNagar, SV Auto Nagar",
+    "latitude": 13.6301546,
+    "longitude": 79.4462866,
+    "place_id": "ChIJk0uWhbpLTToRGy_5CVchrKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0uWhbpLTToRGy_5CVchrKQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:55:44"
+  },
+  {
+    "business_name": "ROYAL OILS & AUTO MOBILES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "522412",
+    "phone_number": "+91 99087 88064",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bellamkonda, Andhra Pradesh 522411",
+    "area": "522412",
+    "latitude": 16.4907652,
+    "longitude": 80.0061399,
+    "place_id": "ChIJ8SXeiqxwNToRn2pDMJHDszs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SXeiqxwNToRn2pDMJHDszs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:55:47"
+  }
+]

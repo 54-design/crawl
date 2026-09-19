@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KS Bike Rentals",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Rental Agency",
+    "all_categories": "Two Wheeler Rental Agency",
+    "pincode": "522502",
+    "phone_number": "+91 94925 92835",
+    "website": "http://ksbikerentals.in/",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "1-80, Kuragallu, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Kuragallu",
+    "latitude": 16.4541225,
+    "longitude": 80.5248216,
+    "place_id": "ChIJ91w78HzzNToRZ8VBIK-Tbcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91w78HzzNToRZ8VBIK-Tbcc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:18:01"
+  },
+  {
+    "business_name": "Vijaya Durga Auto Consultancy",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "522502",
+    "phone_number": "+91 98858 80198",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "#1-443/A, Opp. Shardha Residency, Gowtah Boddha Road,, Managalgiri, Vijayawada, Andhra Pradesh 522503",
+    "area": "522502",
+    "latitude": 16.437082999999998,
+    "longitude": 80.566581,
+    "place_id": "ChIJr6UMgz_xNToRkIVvmCQfQq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6UMgz_xNToRkIVvmCQfQq4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:18:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Market Yard",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Business center",
+    "all_categories": "Business center",
+    "pincode": "523101",
+    "phone_number": "+91 99897 42757",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 31,
+    "address": "62W8+M2P, Somarajupalle, Andhra Pradesh 523101",
+    "area": "523101",
+    "latitude": 15.246717599999998,
+    "longitude": 80.01507769999999,
+    "place_id": "ChIJpVbcuY4LSzoRyoTMfckEPb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVbcuY4LSzoRyoTMfckEPb4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:13:33"
+  },
+  {
+    "business_name": "MASTANAIAH TRADERS",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523101",
+    "phone_number": "+91 98667 17151",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop10 Main Road, Singarayakonda, Andhra Pradesh 523101",
+    "area": "523101",
+    "latitude": 15.253889099999999,
+    "longitude": 80.0235313,
+    "place_id": "ChIJMebUEugLSzoRvOCqHmdHajM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMebUEugLSzoRvOCqHmdHajM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:13:33"
+  }
+]

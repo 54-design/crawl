@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jp travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "522615",
+    "phone_number": "+91 81858 52011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vipperla Rompcherla Mandel, Andhra Pradesh 522615",
+    "area": "522615",
+    "latitude": 16.30141,
+    "longitude": 79.9376083,
+    "place_id": "ChIJv5ejwhh9NToRVIYiTQlirB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5ejwhh9NToRVIYiTQlirB4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:42:44"
+  },
+  {
+    "business_name": "Ksr travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522615",
+    "phone_number": "+91 96188 90864",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ravipadu - Santhagudipadu Rd, Santhagudipadu, Machavarem, Andhra Pradesh 522615",
+    "area": "522615",
+    "latitude": 16.2507748,
+    "longitude": 79.9623345,
+    "place_id": "ChIJUw9J-g6DSjoRPcewBLuWRGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUw9J-g6DSjoRPcewBLuWRGk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:42:44"
+  }
+]

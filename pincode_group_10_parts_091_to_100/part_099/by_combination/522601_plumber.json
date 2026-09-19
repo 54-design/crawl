@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Friend Sales & Service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "522601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Town Police, 1, Station Rd, opposite Venkateswara Swamy Temple, Varavakatta, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Varavakatta",
+    "latitude": 16.2352123,
+    "longitude": 80.0495529,
+    "place_id": "ChIJMf7ynh6BSjoRJr52mlNpTdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMf7ynh6BSjoRJr52mlNpTdI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:29"
+  },
+  {
+    "business_name": "Munagala's home",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "522601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-29-15, Kakatiya Nagar, Ramreddypet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Kakatiya Nagar, Ramreddypet",
+    "latitude": 16.2407207,
+    "longitude": 80.04566419999999,
+    "place_id": "ChIJcQDwLACBSjoRMgw7NZQdYBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQDwLACBSjoRMgw7NZQdYBo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:29"
+  }
+]

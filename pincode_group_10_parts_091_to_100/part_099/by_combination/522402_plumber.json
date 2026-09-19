@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "varaprasad electricals & plumbing services",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "522402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near JB GARDENS, Amaravati, Dharanikota, Andhra Pradesh 522020",
+    "area": "522402",
+    "latitude": 16.581161299999998,
+    "longitude": 80.3308839,
+    "place_id": "ChIJ3XHqi2iRNToRVMygDpub2Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XHqi2iRNToRVMygDpub2Jo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:44:55"
+  },
+  {
+    "business_name": "KANAKADURGA AGENCIES",
+    "search_category": "Plumber",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "522402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 52,
+    "address": "27-6-183, Prakasam Rd, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.512376,
+    "longitude": 80.6245771,
+    "place_id": "ChIJfaf-JgLwNToRZCv0PDfMhbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaf-JgLwNToRZCv0PDfMhbY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:44:57"
+  }
+]

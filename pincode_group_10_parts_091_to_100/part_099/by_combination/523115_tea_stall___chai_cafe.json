@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523115",
+    "phone_number": "+91 97700 91471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hanumana, Madhya Pradesh 486335",
+    "area": "523115",
+    "latitude": 24.7959152,
+    "longitude": 82.1070629,
+    "place_id": "ChIJL3iDN4l7hTkR-ypcEjwx29I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3iDN4l7hTkR-ypcEjwx29I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:20"
+  },
+  {
+    "business_name": "Neema Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "523115",
+    "phone_number": "+91 98069 50950",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 19,
+    "address": "11, Siyaganj Main Rd, Siyaganj, Indore, Madhya Pradesh 452007",
+    "area": "Siyaganj",
+    "latitude": 22.715869899999998,
+    "longitude": 75.867153,
+    "place_id": "ChIJ____Dw79YjkR7JfL5W23C2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____Dw79YjkR7JfL5W23C2Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:30:22"
+  }
+]

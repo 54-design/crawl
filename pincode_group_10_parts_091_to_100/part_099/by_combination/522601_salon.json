@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZOHRA",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522601",
+    "phone_number": "+91 91777 71326",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "62MW+P87, beside YES Bank, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.2342914,
+    "longitude": 80.0457938,
+    "place_id": "ChIJ3fIpDyaBSjoRVtm3e1qRCv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fIpDyaBSjoRVtm3e1qRCv8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:35"
+  },
+  {
+    "business_name": "Anila Beauty Care",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522601",
+    "phone_number": "+91 99129 87437",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Navodaya Nagar, Ramireddypet, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Navodaya Nagar, Ramireddypet, Arundelpet",
+    "latitude": 16.2321588,
+    "longitude": 80.039682,
+    "place_id": "ChIJCekTD0OBSjoR_yiBK040e48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCekTD0OBSjoR_yiBK040e48",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:37"
+  }
+]

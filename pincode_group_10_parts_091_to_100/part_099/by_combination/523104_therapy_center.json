@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healing Physiotherapy & Rehabilitation Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "523104",
+    "phone_number": "+91 75328 49332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "G-209 Gali No 9, 40 Feet Rd, Molar band Extension, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block D, Molar band Extension, Badarpur",
+    "latitude": 28.4897402,
+    "longitude": 77.3088258,
+    "place_id": "ChIJoakAo1jnDDkRj4CemY0oFNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoakAo1jnDDkRj4CemY0oFNI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:36"
+  },
+  {
+    "business_name": "Sanjay Speech Hearing and Rehabilitation Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Audiologist, Speech & Hearing Specialist",
+    "pincode": "523104",
+    "phone_number": "+91 80 4204 1980",
+    "website": "http://www.speechtherapyindia.in/",
+    "rating": 4.7,
+    "reviews_count": 698,
+    "address": "363, First Floor, SSA Road, Post, near Sumangali Seva Aashram, Cholanayakanahalli, RT Nagar, Bengaluru, Karnataka 560024",
+    "area": "Sonnappa Layout, Cholanayakanahalli, RT Nagar",
+    "latitude": 13.0364012,
+    "longitude": 77.5946274,
+    "place_id": "ChIJBf9Ux5cXrjsR1x0-wwgp8tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBf9Ux5cXrjsR1x0-wwgp8tc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:36"
+  }
+]

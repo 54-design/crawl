@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FAMOUS DENTAL CLINIC",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "523113",
+    "phone_number": "N/A",
+    "website": "https://wa.me/918919567624",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no7, 7/7, Nanduku Road, near Police station, Gudlur, Andhra Pradesh 523281",
+    "area": "523113",
+    "latitude": 15.0734582,
+    "longitude": 79.90131679999999,
+    "place_id": "ChIJXcFzs6pvSzoRb_JovvC3hbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcFzs6pvSzoRb_JovvC3hbw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:26:58"
+  },
+  {
+    "business_name": "Podili dental hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Hospital",
+    "pincode": "523113",
+    "phone_number": "+91 99595 09706",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 116,
+    "address": "Mro office, Street, Podili, Andhra Pradesh 523240",
+    "area": "523113",
+    "latitude": 15.6057936,
+    "longitude": 79.6151939,
+    "place_id": "ChIJ54UXaorZSjoRszqZ5TcRsGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54UXaorZSjoRszqZ5TcRsGA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:00"
+  }
+]

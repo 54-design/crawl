@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phani general stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "522612",
+    "phone_number": "+91 91337 43434",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Veldhurthy, Andhra Pradesh 522613",
+    "area": "522612",
+    "latitude": 16.3489571,
+    "longitude": 79.3664812,
+    "place_id": "ChIJHyMdjwiryjsRFAu4vz1qzFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyMdjwiryjsRFAu4vz1qzFA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:36:20"
+  },
+  {
+    "business_name": "Vadithe Badya Naik",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "522612",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8J8W+CHV, Gummanampadu, Andhra Pradesh 522614",
+    "area": "522612",
+    "latitude": 16.3161182,
+    "longitude": 79.6464211,
+    "place_id": "ChIJ1UFJDbFZNToRuJiPBOOPM00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UFJDbFZNToRuJiPBOOPM00",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:36:23"
+  }
+]

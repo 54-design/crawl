@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jee Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "523112",
+    "phone_number": "+91 95601 81787",
+    "website": "http://jeeacademy.in/",
+    "rating": 5,
+    "reviews_count": 294,
+    "address": "J Block, Central Market, Phase II, Saket, New Delhi, Delhi 110017",
+    "area": "Central Market, Phase II, Saket",
+    "latitude": 28.5199331,
+    "longitude": 77.2155609,
+    "place_id": "ChIJ____v4zhDDkRQ-gqRlTgUZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____v4zhDDkRQ-gqRlTgUZY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:25:53"
+  },
+  {
+    "business_name": "Tirumala Educational Institutes",
+    "search_category": "Tuition Center",
+    "primary_category": "General education school",
+    "all_categories": "General education school",
+    "pincode": "523112",
+    "phone_number": "+91 82979 23333",
+    "website": "https://www.tirumalaedu.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3Q5C+2HX, Rajamahendravaram, Kateru, Andhra Pradesh 533105",
+    "area": "523112",
+    "latitude": 17.057612199999998,
+    "longitude": 81.77148609999999,
+    "place_id": "ChIJ6bmwMMmmNzoRxJRe9Jl1l1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bmwMMmmNzoRxJRe9Jl1l1g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:25:53"
+  }
+]

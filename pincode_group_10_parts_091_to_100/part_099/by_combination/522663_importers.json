@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Magic",
+    "search_category": "Importers",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "522663",
+    "phone_number": "N/A",
+    "website": "http://app.foodmagic.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kothapet, Bollapalle, Andhra Pradesh 522663",
+    "area": "Kothapet",
+    "latitude": 16.1874282,
+    "longitude": 79.68577599999999,
+    "place_id": "ChIJs7R79OCjSjoR-RM8u758dJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7R79OCjSjoR-RM8u758dJA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:07:42"
+  },
+  {
+    "business_name": "Spes Merchants",
+    "search_category": "Importers",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "522663",
+    "phone_number": "+91 78069 01329",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "B-156, Rajiv Nagar, ARIYALUR, Valajanagaram, Tamil Nadu 621704",
+    "area": "Rajiv Nagar",
+    "latitude": 11.122651,
+    "longitude": 79.08936109999999,
+    "place_id": "ChIJTSJmDTvfqjsRoQtWQqMYDJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSJmDTvfqjsRoQtWQqMYDJU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:07:43"
+  }
+]

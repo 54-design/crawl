@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.R. Venkata rao",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522403",
+    "phone_number": "+91 97048 21418",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11-5-5, Raghuram Nagar, Sattenapalli, Sattenapalle, Andhra Pradesh 522403",
+    "area": "Raghuram Nagar",
+    "latitude": 16.3909832,
+    "longitude": 80.1569923,
+    "place_id": "ChIJ4ZYnY2SBNToRcSpOdZCCbX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZYnY2SBNToRcSpOdZCCbX8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:23"
+  },
+  {
+    "business_name": "Aswini Nethralayam",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "522403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ramalinga Reddy Eye Hospital, Guntur Rd, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Barampet",
+    "latitude": 16.2374103,
+    "longitude": 80.0659198,
+    "place_id": "ChIJAUXkQO-ASjoRCc2Wd-qRgz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUXkQO-ASjoRCc2Wd-qRgz0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:24"
+  }
+]

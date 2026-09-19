@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Mechanic and Water Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "522603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "45FF+9QM, Ganapavaram, Andhra Pradesh 522619",
+    "area": "522603",
+    "latitude": 16.1234593,
+    "longitude": 80.1744308,
+    "place_id": "ChIJS6zPUwB9SjoRlx0M9eOCZbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6zPUwB9SjoRlx0M9eOCZbU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:11"
+  },
+  {
+    "business_name": "Ganga Bhavani Water Servicing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "522603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Chandlagundla, Nekarikallu, Challagundla, Andhra Pradesh 522615",
+    "area": "Chandlagundla",
+    "latitude": 16.3576129,
+    "longitude": 79.9496097,
+    "place_id": "ChIJDbe-N7Z9NToROePNSRBOQrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbe-N7Z9NToROePNSRBOQrY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:33:12"
+  }
+]

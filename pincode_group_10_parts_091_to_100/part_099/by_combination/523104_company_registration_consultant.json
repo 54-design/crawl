@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASC Group",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Accounting firm, Business management consultant",
+    "pincode": "523104",
+    "phone_number": "+91 99990 43311",
+    "website": "https://www.ascgroup.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "C-100, C Block, Sector 2, Noida, Uttar Pradesh 201301",
+    "area": "C Block, Sector 2",
+    "latitude": 28.5847497,
+    "longitude": 77.3152916,
+    "place_id": "ChIJAQAA0FjkDDkRJfPLJUlEWRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA0FjkDDkRJfPLJUlEWRU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:02"
+  },
+  {
+    "business_name": "Sreevatsa associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor",
+    "pincode": "523104",
+    "phone_number": "+91 85005 54935",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23-4-26, magunta layout, Lectures colony north end, Aravinda Nagar, extension, Nellore, Andhra Pradesh 524004",
+    "area": "Aravinda Nagar, extension",
+    "latitude": 14.4049915,
+    "longitude": 79.95371449999999,
+    "place_id": "ChIJA2CNa9LzTDoR4gL8_D6m-OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2CNa9LzTDoR4gL8_D6m-OU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:15:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkat car Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop",
+    "pincode": "522408",
+    "phone_number": "+91 99086 74632",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ayyappa temple, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Barampet",
+    "latitude": 16.254479,
+    "longitude": 80.0578244,
+    "place_id": "ChIJ5a6dMvKBSjoRMkJW7Wompvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5a6dMvKBSjoRMkJW7Wompvc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:22"
+  },
+  {
+    "business_name": "Car Valley",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic, Auto body shop, Auto painting, Car wash",
+    "pincode": "522408",
+    "phone_number": "+91 92876 86868",
+    "website": "https://carvalley.in/",
+    "rating": 4,
+    "reviews_count": 626,
+    "address": "Manath Building, Manathu Rd, near Sunrise Hospital Kochi, Thrikkakara, Kakkanad, Kochi, Keralam 682021",
+    "area": "Thrikkakara",
+    "latitude": 10.0264259,
+    "longitude": 76.33867359999999,
+    "place_id": "ChIJMWZcuV0MCDsRYf3YKZzqJmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWZcuV0MCDsRYf3YKZzqJmk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:48:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ITALIAN BAGS",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage store, Handbags shop, Luggage repair service, Luggage storage facility, Luggage wholesaler",
+    "pincode": "522402",
+    "phone_number": "+91 99988 72066",
+    "website": "https://italianbag.in/",
+    "rating": 4.5,
+    "reviews_count": 191,
+    "address": "Corner, Sunrise Park Road, opp. Sanjivani Hospital, Sunrise Park, Vastrapur, Ahmedabad, Gujarat 380015",
+    "area": "Sunrise Park, Vastrapur",
+    "latitude": 23.0407492,
+    "longitude": 72.5276334,
+    "place_id": "ChIJd8gpy7eEXjkRiVCxaN4Ht6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8gpy7eEXjkRiVCxaN4Ht6I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:44:25"
+  },
+  {
+    "business_name": "Karnavati Bag",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Bag shop, Handbags shop",
+    "pincode": "522402",
+    "phone_number": "+91 98240 15682",
+    "website": "https://www.karnavatibag.com/",
+    "rating": 4.8,
+    "reviews_count": 27,
+    "address": "2043, Dolatkhana, near upasana school, Old City, Sarangpur, Khadia, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Sarangpur, Khadia",
+    "latitude": 23.019854799999997,
+    "longitude": 72.5958761,
+    "place_id": "ChIJP2wV306EXjkRsBDXuuskaNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2wV306EXjkRsBDXuuskaNI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:44:25"
+  }
+]

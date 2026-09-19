@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI MILK PARLOUR",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "522436",
+    "phone_number": "+91 97011 56158",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Sattenapalli Amaravathi Rd, Parasa, Andhra Pradesh 522436",
+    "area": "Parasa",
+    "latitude": 16.5157661,
+    "longitude": 80.3027623,
+    "place_id": "ChIJCzD855CRNToRt5653Dk7cng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzD855CRNToRt5653Dk7cng",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:58"
+  },
+  {
+    "business_name": "Sangam Dairy Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Milk delivery service",
+    "pincode": "522436",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "09-54, 14th Mile Center, beside Hp Petrol Bunk, Lemalle, Unguturu, Andhra Pradesh 522016",
+    "area": "Lemalle",
+    "latitude": 16.4814336,
+    "longitude": 80.3971969,
+    "place_id": "ChIJdQbDp5eNNToRqUbVF--wQas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQbDp5eNNToRqUbVF--wQas",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:07:58"
+  }
+]

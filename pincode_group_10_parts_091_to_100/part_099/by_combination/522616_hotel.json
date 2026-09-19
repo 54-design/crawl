@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lodge and residency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522616",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sy no-465-1c, Uppumaguluru, Andhra Pradesh 523301",
+    "area": "522616",
+    "latitude": 16.0423456,
+    "longitude": 80.0590162,
+    "place_id": "ChIJrREBP1iJSjoRR6-zZrkFAzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrREBP1iJSjoRR6-zZrkFAzA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:05"
+  },
+  {
+    "business_name": "OYO 71150 Santosh Grand",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522616",
+    "phone_number": "+91 124 620 1530",
+    "website": "https://www.oyorooms.com/98877",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4 JB, Martur - Ballikurava Road, Andhra Pradesh 523301",
+    "area": "522616",
+    "latitude": 15.98669,
+    "longitude": 80.1037652,
+    "place_id": "ChIJHXdRuzVhSjoRY0oEpl1XFqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXdRuzVhSjoRY0oEpl1XFqs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:45:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkatasai Sweets And Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Sweet shop",
+    "pincode": "522508",
+    "phone_number": "+91 98483 05417",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Pedakakani, Main road, Pedakakani, Andhra Pradesh 522509",
+    "area": "Yuvajananagar",
+    "latitude": 16.340661,
+    "longitude": 80.4893175,
+    "place_id": "ChIJHa3KdHL1NToR8WThY0Me42g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHa3KdHL1NToR8WThY0Me42g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:19"
+  },
+  {
+    "business_name": "Sri Saigruha Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop",
+    "pincode": "522508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Phase -1, VR complex, Mahatma Gandhi Inner Ring Rd, Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.3320672,
+    "longitude": 80.4461673,
+    "place_id": "ChIJE6kYKQCLNToRrhGmE4dAMDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6kYKQCLNToRrhGmE4dAMDM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:21"
+  }
+]

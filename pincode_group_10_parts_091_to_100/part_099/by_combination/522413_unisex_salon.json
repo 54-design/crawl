@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The hair studio unisex salon & Tattoo",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Piduguralla rl, Andhra Pradesh 522413",
+    "area": "522413",
+    "latitude": 16.4804583,
+    "longitude": 79.88913269999999,
+    "place_id": "ChIJ31DKU-9vNToRp9vCsur2H74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31DKU-9vNToRp9vCsur2H74",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:52"
+  },
+  {
+    "business_name": "Fuzion Studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "522413",
+    "phone_number": "+91 95332 32494",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": null,
+    "address": "Pedda Masjid, Piduguralla, opposite Main Road, Piduguralla, Andhra Pradesh 522413",
+    "area": "522413",
+    "latitude": 16.4803312,
+    "longitude": 79.88801819999999,
+    "place_id": "ChIJgVUXijZvNToRxjGbJxm_hEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVUXijZvNToRxjGbJxm_hEE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:52"
+  }
+]

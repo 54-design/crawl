@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lotus Park A/c Guest Rooms",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "522510",
+    "phone_number": "+91 863 222 3456",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 177,
+    "address": "3rd Ln, behind Harihar Cinemas, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram",
+    "latitude": 16.3096019,
+    "longitude": 80.4340333,
+    "place_id": "ChIJPx3plV11SjoR6LkDAhr91pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPx3plV11SjoR6LkDAhr91pw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:11"
+  },
+  {
+    "business_name": "VHOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "522510",
+    "phone_number": "+91 99593 96633",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "adjacent to SSV International School, opp. JMJ School Road, Nagarjuna Nagar, Kaza, Andhra Pradesh 522510",
+    "area": "Nagarjuna Nagar",
+    "latitude": 16.3868017,
+    "longitude": 80.52317769999999,
+    "place_id": "ChIJr3yRYdL1NToRIm7iHe_f0bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3yRYdL1NToRIm7iHe_f0bo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:11"
+  }
+]

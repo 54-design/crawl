@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PSR suppliers",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency",
+    "pincode": "522503",
+    "phone_number": "+91 99666 80308",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9G6J+5GW, Namburu, Andhra Pradesh 522508",
+    "area": "522503",
+    "latitude": 16.360035099999997,
+    "longitude": 80.53102059999999,
+    "place_id": "ChIJO_kbYQD1NToR-hKZNDQCChA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_kbYQD1NToR-hKZNDQCChA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:03"
+  },
+  {
+    "business_name": "Techno lifts",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Elevator Manufacturer",
+    "all_categories": "Elevator Manufacturer, Elevator service",
+    "pincode": "522503",
+    "phone_number": "+91 77993 82857",
+    "website": "https://technolifts.odoo.com/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Door no. 3, 169, Undavalli, Mangalagiri, Undavalli, Andhra Pradesh 522501",
+    "area": "Undavalli",
+    "latitude": 16.4844513,
+    "longitude": 80.5868091,
+    "place_id": "ChIJvQDOR1PxNToRJ7QhxbGohtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQDOR1PxNToRJ7QhxbGohtA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:03"
+  }
+]

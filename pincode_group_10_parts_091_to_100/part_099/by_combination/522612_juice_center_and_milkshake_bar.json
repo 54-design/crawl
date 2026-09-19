@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Just Fresh Juice bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "522612",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "HX9P+3HR, Atchutapuram, Chodapalle, Andhra Pradesh 531011",
+    "area": "Atchutapuram",
+    "latitude": 17.567735499999998,
+    "longitude": 82.98639899999999,
+    "place_id": "ChIJqZLnFQB1OToR2XTyu8sLMqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZLnFQB1OToR2XTyu8sLMqk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:36:29"
+  },
+  {
+    "business_name": "Cool Drinks Supplier",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop",
+    "pincode": "522612",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "62XF+PMV, Somarajupalle, Andhra Pradesh 523101",
+    "area": "522612",
+    "latitude": 15.2493506,
+    "longitude": 80.0241731,
+    "place_id": "ChIJ2UoEwpMLSzoR6zTmnO1buJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UoEwpMLSzoR6zTmnO1buJc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:36:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhayam Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "522414",
+    "phone_number": "+91 494 258 8332",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "WWFR+6MP, Tirur - Iringavoor - Kadungathukundu Rd, Cholappuram, Tirur, Kerala 676103",
+    "area": "Cholappuram",
+    "latitude": 10.9230889,
+    "longitude": 75.9417184,
+    "place_id": "ChIJ6Xw_iYCxpzsR5escbMB3zY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Xw_iYCxpzsR5escbMB3zY4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:17"
+  },
+  {
+    "business_name": "Apex Kidney Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522414",
+    "phone_number": "+91 86393 03878",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3-145-B/21, 2nd Main, Prasanth Nagar, A.V.Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Prasanth Nagar, A.V.Naidu Colony",
+    "latitude": 13.562854699999999,
+    "longitude": 78.49981799999999,
+    "place_id": "ChIJnfHFf7FnsjsRGkzcqE1llZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfHFf7FnsjsRGkzcqE1llZU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:17"
+  }
+]

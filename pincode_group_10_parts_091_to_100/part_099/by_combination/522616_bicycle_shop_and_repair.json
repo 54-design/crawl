@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narsaiah Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "522616",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522616",
+    "latitude": 16.0903015,
+    "longitude": 80.1679547,
+    "place_id": "ChIJIf-DeGtjSjoR1YQJBx1qb8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIf-DeGtjSjoR1YQJBx1qb8M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:44:38"
+  },
+  {
+    "business_name": "SUBHANI CYCLE SHOP",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "522616",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35CJ+9V8, NH 167A, Pasumarru, Andhra Pradesh 522616",
+    "area": "522616",
+    "latitude": 16.0709055,
+    "longitude": 80.1822092,
+    "place_id": "ChIJC-PVewBjSjoRbGrFlqrQOzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-PVewBjSjoRbGrFlqrQOzU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:44:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Yugandher",
+    "search_category": "Doctors",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "522413",
+    "phone_number": "+91 99890 37903",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "H.No. 1-161, Piduguralla Mandal, Guntur District, PedaAgraharam, Andhra Pradesh 522437",
+    "area": "522413",
+    "latitude": 16.494595399999998,
+    "longitude": 79.8281502,
+    "place_id": "ChIJ9dfX57RoNToRt1OOLGvMAYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dfX57RoNToRt1OOLGvMAYE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:22"
+  },
+  {
+    "business_name": "newlife hospital",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "522413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "FVHR+QHH, SH 21, Piduguralla, Andhra Pradesh 522413",
+    "area": "522413",
+    "latitude": 16.4794467,
+    "longitude": 79.8914731,
+    "place_id": "ChIJ8RDZhUFvNToRSZHTIcOZ71s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RDZhUFvNToRSZHTIcOZ71s",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:57:22"
+  }
+]

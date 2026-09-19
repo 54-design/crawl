@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinukonda dogs",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "522647",
+    "phone_number": "+91 91827 85788",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Venkata ramatridam, stone factory ð, Vinukonda, Andhra Pradesh 522647",
+    "area": "522647",
+    "latitude": 16.0470352,
+    "longitude": 79.7399555,
+    "place_id": "ChIJ4xDTbYW9SjoRPb8OYbuegeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xDTbYW9SjoRPb8OYbuegeI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:22"
+  },
+  {
+    "business_name": "Pets shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "522647",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3P5V+54G, Vinukonda, Andhra Pradesh 522647",
+    "area": "522647",
+    "latitude": 16.0579422,
+    "longitude": 79.74283679999999,
+    "place_id": "ChIJ9zXbFZSXSjoR3ZEjelZOryw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zXbFZSXSjoR3ZEjelZOryw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:24"
+  }
+]

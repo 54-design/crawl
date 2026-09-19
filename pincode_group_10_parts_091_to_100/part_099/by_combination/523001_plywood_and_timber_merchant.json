@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sairam Sawmill & Timber Depot",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store, Saw mill, Wholesaler",
+    "pincode": "523001",
+    "phone_number": "+91 98481 19798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No: 33, Wood Complex, North By Pass Road, Ongole, Andhra Pradesh 523002",
+    "area": "Venkateswara Colony",
+    "latitude": 15.5215836,
+    "longitude": 80.0417618,
+    "place_id": "ChIJzWxFrroBSzoR-RRmuex73WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWxFrroBSzoR-RRmuex73WI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:08:43"
+  },
+  {
+    "business_name": "Sri Hanuman Plywood & Hardware",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "523001",
+    "phone_number": "+91 91336 36037",
+    "website": "https://ebco.in/shop-now",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "20-1-16/23 Bandlamitta Center, Ongole, Andhra Pradesh 523001",
+    "area": "Vantavari colony",
+    "latitude": 15.5062628,
+    "longitude": 80.0465705,
+    "place_id": "ChIJGaB4r0IBSzoRKlcomwyLwp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaB4r0IBSzoRKlcomwyLwp0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:08:45"
+  }
+]

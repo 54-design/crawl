@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NARASIMHA AUTO MOBILES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "522659",
+    "phone_number": "+91 94949 58824",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MDR17, Nadigadda, Narasanayunipalem, Andhra Pradesh 522647",
+    "area": "Nadigadda",
+    "latitude": 16.0452847,
+    "longitude": 79.6447603,
+    "place_id": "ChIJQTCPH7S7SjoRIBJdA7gW2gM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTCPH7S7SjoRIBJdA7gW2gM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:01:11"
+  },
+  {
+    "business_name": "NARASIMHA EGGS COOLDRING AND AUTO MOBILES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Auto repair shop",
+    "pincode": "522659",
+    "phone_number": "+91 86398 95145",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sivapuram - Dondapadu Rd, Nadigadda, Guntur, Narasanayunipalem, Andhra Pradesh 522647",
+    "area": "Nadigadda",
+    "latitude": 16.0471288,
+    "longitude": 79.63880759999999,
+    "place_id": "ChIJE0jB7267SjoRWGU_iwGWOvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0jB7267SjoRWGU_iwGWOvk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:01:11"
+  }
+]

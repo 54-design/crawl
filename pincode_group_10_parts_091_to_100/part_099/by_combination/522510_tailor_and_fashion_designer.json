@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Princess & Queens Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "522510",
+    "phone_number": "+91 40 4853 8196",
+    "website": "http://www.pnqboutiques.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "121, Janapriya Nagar, Pragathi Enclave, Miyapur, Hyderabad, Telangana 500049",
+    "area": "Janapriya Nagar, Pragathi Enclave",
+    "latitude": 17.499958799999998,
+    "longitude": 78.3564643,
+    "place_id": "ChIJ_TYzLHKTyzsRMTw2V0wJUP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TYzLHKTyzsRMTw2V0wJUP0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:23"
+  },
+  {
+    "business_name": "Fit Martin ladies tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Fashion designer",
+    "pincode": "522510",
+    "phone_number": "+91 95982 02222",
+    "website": "https://instagram.com/fitmartin_farhan",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "25-Y, Basement 1, Janpath Market, near Shiv Mandir in Janpath, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Sushanpura, Hazratganj",
+    "latitude": 26.846875899999997,
+    "longitude": 80.9435804,
+    "place_id": "ChIJF-5n-gf9mzkRmAJMiS89rys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-5n-gf9mzkRmAJMiS89rys",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:25:23"
+  }
+]

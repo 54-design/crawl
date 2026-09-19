@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Music School",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music instructor",
+    "all_categories": "Music instructor",
+    "pincode": "522612",
+    "phone_number": "+91 92471 07552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VWXG+6Q2, Ippanapadu, Andhra Pradesh 533340",
+    "area": "522612",
+    "latitude": 16.8980241,
+    "longitude": 81.9269,
+    "place_id": "ChIJWdOsJgCXNzoRdhs3TgUrb1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdOsJgCXNzoRdhs3TgUrb1g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:37:37"
+  },
+  {
+    "business_name": "Rinna Recording Studio & Music Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "522612",
+    "phone_number": "+91 83743 48940",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "63J2+784, Kannela Hospital Rd, near Siri Appartments, Santhinagar, Prakash Nagar, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Santhinagar, Prakash Nagar",
+    "latitude": 16.2306469,
+    "longitude": 80.0508436,
+    "place_id": "ChIJk5ZDufCBSjoR3eu0Zx7e2Hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5ZDufCBSjoR3eu0Zx7e2Hc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:37:41"
+  }
+]

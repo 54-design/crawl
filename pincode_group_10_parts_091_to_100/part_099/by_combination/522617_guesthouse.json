@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taarak Ram Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522617",
+    "phone_number": "+91 84989 82008",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 80,
+    "address": "Puttavaripalem, x road, Santhamaguluru, Andhra Pradesh 523302",
+    "area": "Puttawaripajem",
+    "latitude": 16.1189702,
+    "longitude": 79.9291427,
+    "place_id": "ChIJG2EAaM-FSjoRPS8nkwC_jiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2EAaM-FSjoRPS8nkwC_jiI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:46:59"
+  },
+  {
+    "business_name": "Siva Sai Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522617",
+    "phone_number": "+91 98661 49200",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 25,
+    "address": "Prakasam, NH-50, Vinukonda Narasaraopet Road, Puttavaripalem, Puttawaripajem, Andhra Pradesh 523302",
+    "area": "Puttawaripajem",
+    "latitude": 16.1189344,
+    "longitude": 79.9291686,
+    "place_id": "ChIJQ_I1H1CFSjoRRjrIOtcS2Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_I1H1CFSjoRRjrIOtcS2Nw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:46:59"
+  }
+]

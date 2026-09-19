@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mavullamma CAR Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "522626",
+    "phone_number": "+91 97015 11116",
+    "website": "http://srimavullammacars.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Undi Rd, Narasimhapuram, Kovvada, Andhra Pradesh 534202",
+    "area": "Narasimhapuram",
+    "latitude": 16.5514986,
+    "longitude": 81.5099202,
+    "place_id": "ChIJMTII9KkyNjoRmZdOGzIZAt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTII9KkyNjoRmZdOGzIZAt4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:10"
+  },
+  {
+    "business_name": "Harman Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "522626",
+    "phone_number": "+91 79999 99699",
+    "website": "http://harmanmotors.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Metro Pillar No:342, Ernakulam Rd, Pathadipalam, Edappally, Ernakulam, Keralam 682033",
+    "area": "Pathadipalam, Edappally",
+    "latitude": 10.0388922,
+    "longitude": 76.3158555,
+    "place_id": "ChIJ1YFpbcAOCDsRE9pr39PsUDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YFpbcAOCDsRE9pr39PsUDY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:50:10"
+  }
+]

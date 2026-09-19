@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lassi Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Ice cream shop",
+    "pincode": "522549",
+    "phone_number": "+91 74068 04000",
+    "website": "https://www.lassicorner.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "35R7+7XX, Vijaya Bank center, R.V.S C.V.S High School Road, Sriram complex, opp. Eagle Restaurant, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522549",
+    "latitude": 16.0907431,
+    "longitude": 80.1649748,
+    "place_id": "ChIJ3a11ggZjSjoRB8IlqqJQ6pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3a11ggZjSjoRB8IlqqJQ6pY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:55"
+  },
+  {
+    "business_name": "Narmada Fruit Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "522549",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "522601, Rajakawada, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Rajakawada, Barampet",
+    "latitude": 16.2369918,
+    "longitude": 80.0513473,
+    "place_id": "ChIJ9_r7tx2BSjoR2iHyFKs5kR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_r7tx2BSjoR2iHyFKs5kR0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:59"
+  }
+]

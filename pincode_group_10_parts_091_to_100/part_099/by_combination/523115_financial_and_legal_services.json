@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nalluri Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Car finance and loan company, Mortgage broker, Mortgage lender",
+    "pincode": "523115",
+    "phone_number": "+91 98859 50555",
+    "website": "https://nalluriassociates.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "metro pillar no 604, sai balaji towers Above canara bank Near, Mathrusree Nagar, Miyapur, Telangana 500049",
+    "area": "Mathrusree Nagar, Hafeezpet",
+    "latitude": 17.495908999999997,
+    "longitude": 78.36683529999999,
+    "place_id": "ChIJoV62OWuTyzsRa6dGYAVApSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoV62OWuTyzsRa6dGYAVApSI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:43"
+  },
+  {
+    "business_name": "Reduceddebts",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Legal services",
+    "pincode": "523115",
+    "phone_number": "+91 95990 05640",
+    "website": "https://www.reduceddebts.com/",
+    "rating": 4.9,
+    "reviews_count": 449,
+    "address": "5th Floor, G-47, Block G, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Block G, Noida Sector 3",
+    "latitude": 28.579615999999998,
+    "longitude": 77.31865599999999,
+    "place_id": "ChIJ1cCtpoPlDDkRezMJpor6RfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cCtpoPlDDkRezMJpor6RfQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:45"
+  }
+]

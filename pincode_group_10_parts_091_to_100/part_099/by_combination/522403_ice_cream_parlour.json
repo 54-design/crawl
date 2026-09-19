@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijayacoolhome AS",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Soft drinks shop",
+    "pincode": "522403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "beside ayyamgar bakery oppo, Subjail, Sattenapalle, Andhra Pradesh 522403",
+    "area": "Subjail",
+    "latitude": 16.3951983,
+    "longitude": 80.1495166,
+    "place_id": "ChIJ1er0942BNToR0WHS1KiHf5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1er0942BNToR0WHS1KiHf5Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:12"
+  },
+  {
+    "business_name": "JERSEY PARLOUR",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "522403",
+    "phone_number": "+91 97049 43890",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Beside Municipal Office Sattenapalli, Sattenapalli, Guntur, Andhra Pradesh 522403",
+    "area": "522403",
+    "latitude": 16.3932024,
+    "longitude": 80.14616699999999,
+    "place_id": "ChIJ29kJOOeBNToRYe1C_TUMONs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29kJOOeBNToRYe1C_TUMONs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:12"
+  }
+]

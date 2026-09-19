@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vesavi General Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "522330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8JGG+X6H, Railpeta, Duggirala, Andhra Pradesh 522330",
+    "area": "Railpeta",
+    "latitude": 16.3274103,
+    "longitude": 80.625596,
+    "place_id": "ChIJ__AXWQD3NToRdPtiZ1WpV9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__AXWQD3NToRdPtiZ1WpV9Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:39:13"
+  },
+  {
+    "business_name": "Go BuildMart",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "522330",
+    "phone_number": "+91 92279 80810",
+    "website": "https://www.gobuildmart.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "RS NO 49, BLOCK NO 345, B/5/3, OLPAD, Orma, Saras, Gujarat 394540",
+    "area": "OLPAD",
+    "latitude": 21.3293727,
+    "longitude": 72.72583449999999,
+    "place_id": "ChIJ5UFqYPM14DsReNgAhEmiw_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UFqYPM14DsReNgAhEmiw_c",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:39:14"
+  }
+]

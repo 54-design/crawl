@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guntur Multi-speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522436",
+    "phone_number": "+91 93902 96902",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "D, D, Sanakkayala Factory Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.301344699999998,
+    "longitude": 80.45015339999999,
+    "place_id": "ChIJjbBFMwB1SjoRHbpayZJRlJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbBFMwB1SjoRHbpayZJRlJA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:24"
+  },
+  {
+    "business_name": "JVM MULTI SPECIALITY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522436",
+    "phone_number": "+91 87904 00360",
+    "website": "https://jvmhospitals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bharath petrol bunk, beside Manipuram Bridge, near RTC bus stand, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2993682,
+    "longitude": 80.4572603,
+    "place_id": "ChIJt6crSgALSjoR9At7_hswe70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6crSgALSjoR9At7_hswe70",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:08:24"
+  }
+]

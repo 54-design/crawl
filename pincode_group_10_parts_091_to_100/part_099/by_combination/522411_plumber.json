@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandi plumbing and electrical services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "522411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FW6C+677, Kondamodu, Kubadpuram, Andhra Pradesh 522413",
+    "area": "Kondamodu",
+    "latitude": 16.4605445,
+    "longitude": 79.9206694,
+    "place_id": "ChIJT1Jwsjd7NToR1bliIynhgfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1Jwsjd7NToR1bliIynhgfk",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:54:05"
+  },
+  {
+    "business_name": "UGAADI PIPES",
+    "search_category": "Plumber",
+    "primary_category": "Pipe Manufacturer",
+    "all_categories": "Pipe Manufacturer",
+    "pincode": "522411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "830/1B, Janapadu Rd, Polimera Donka, Janapadu, Andhra Pradesh 522413",
+    "area": "Polimera Donka",
+    "latitude": 16.468792999999998,
+    "longitude": 79.885198,
+    "place_id": "ChIJlcuiAIJlNToRkKs-JdQJFYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcuiAIJlNToRkKs-JdQJFYY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:54:07"
+  }
+]

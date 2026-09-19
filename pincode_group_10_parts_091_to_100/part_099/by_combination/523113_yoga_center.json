@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rupesh yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "523113",
+    "phone_number": "+91 76709 80289",
+    "website": "http://www.rupeshyoga.com/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "4-41, 4-41, Kondur, Hindupur, Andhra Pradesh 515331",
+    "area": "523113",
+    "latitude": 13.8511311,
+    "longitude": 77.6079188,
+    "place_id": "ChIJe8Bu--aZsTsRX6xeu3yafP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8Bu--aZsTsRX6xeu3yafP0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:04"
+  },
+  {
+    "business_name": "Tatva Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "523113",
+    "phone_number": "+91 73964 88107",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 38,
+    "address": "Durga Devi Aalaya Mandapam, Canara bank road, beside Durga Devi Temple, Yendada, Visakhapatnam, Endada, Andhra Pradesh 530045",
+    "area": "Yendada",
+    "latitude": 17.7822866,
+    "longitude": 83.3620195,
+    "place_id": "ChIJzWwQ8OBbOToRRs3A_IsbIh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWwQ8OBbOToRRs3A_IsbIh8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:06"
+  }
+]

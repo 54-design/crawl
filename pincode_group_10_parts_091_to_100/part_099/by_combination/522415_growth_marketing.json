@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Growth View Consulting Group",
+    "search_category": "Growth Marketing",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "522415",
+    "phone_number": "+91 79974 34344",
+    "website": "https://www.gvcg.in/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "The Cowork Spaces, Garudu Mall, Madhav Puram, Tirupati, Andhra Pradesh 517501",
+    "area": "Madhav Puram",
+    "latitude": 13.6453413,
+    "longitude": 79.43824699999999,
+    "place_id": "ChIJD7tegSI02asRzIpW7WCjbLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7tegSI02asRzIpW7WCjbLs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:02:17"
+  },
+  {
+    "business_name": "Growbuzzz",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Graphic designer, Internet marketing service, Marketing consultant, Website designer",
+    "pincode": "522415",
+    "phone_number": "+91 82359 49698",
+    "website": "https://grobuzzz.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Usha Gupta Ln, near Jan Aushadhi Kendra, Gopal Vihar Colony, Colon, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Gopal Vihar Colony, Colon, Mahmoorganj",
+    "latitude": 25.304393899999997,
+    "longitude": 82.9846592,
+    "place_id": "ChIJpeX_HBAzjjkRbzBWDgUdIl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeX_HBAzjjkRbzBWDgUdIl8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:02:18"
+  }
+]

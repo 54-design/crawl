@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Star Hotal",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522529",
+    "phone_number": "+91 95538 28259",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "779M+54J, పుట్టకోట గ్రామము, యడ్లపాడు (మం), గుంటూరు జిల్లా., Havusuganesa, Andhra Pradesh 522529",
+    "area": "Havusuganesa, Kothapalem",
+    "latitude": 16.2679594,
+    "longitude": 80.2827671,
+    "place_id": "ChIJIf-23YN3SjoRRqtAxFZrm_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIf-23YN3SjoRRqtAxFZrm_U",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:00"
+  },
+  {
+    "business_name": "pvc's sresta",
+    "search_category": "Hotel",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "522529",
+    "phone_number": "+91 95155 55720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 79,
+    "address": "SNO-312, C-A, SH-45, Mainroad, opposite kalika devi temple, Ameensaheb Palem, Chilakaluripet, Irlapadu, Andhra Pradesh 522549",
+    "area": "Ameensaheb Palem",
+    "latitude": 16.180354899999998,
+    "longitude": 80.1014233,
+    "place_id": "ChIJKemdcd59SjoRBACjXxPX-MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKemdcd59SjoRBACjXxPX-MA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:28:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Koteswar ENT & Dental Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "522549",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 55,
+    "address": "35Q9+XVG Krishnamahal centre, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522549",
+    "latitude": 16.0899438,
+    "longitude": 80.1697119,
+    "place_id": "ChIJzWK04RJjSjoR8OmORQPrXE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWK04RJjSjoR8OmORQPrXE4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:29:19"
+  },
+  {
+    "business_name": "Poojita Hospitals",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522549",
+    "phone_number": "+91 96765 83456",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 40,
+    "address": "Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.235265599999998,
+    "longitude": 80.0467041,
+    "place_id": "ChIJwxcHXxmBSjoRHuh1etj8B2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxcHXxmBSjoRHuh1etj8B2o",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:29:20"
+  }
+]

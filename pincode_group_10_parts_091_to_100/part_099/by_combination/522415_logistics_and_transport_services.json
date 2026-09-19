@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TCI FREIGHT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522415",
+    "phone_number": "+91 86892 42879",
+    "website": "http://www.tcifreight.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Rajiv Gandhi Bhavan, BESIDE, Shabu Nagar, Miryalaguda, Telangana 508208",
+    "area": "Shabu Nagar",
+    "latitude": 16.692187,
+    "longitude": 79.515377,
+    "place_id": "ChIJP1VVVVU2NToRTjveTYxaxMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1VVVVU2NToRTjveTYxaxMY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:19"
+  },
+  {
+    "business_name": "Msr Transports",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "522415",
+    "phone_number": "N/A",
+    "website": "https://msr-transports.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karempudi, Andhra Pradesh 522614",
+    "area": "522415",
+    "latitude": 16.4303718,
+    "longitude": 79.71896389999999,
+    "place_id": "ChIJN1oN0KtdNToRMjo5nTXzlkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1oN0KtdNToRMjo5nTXzlkE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:01:19"
+  }
+]

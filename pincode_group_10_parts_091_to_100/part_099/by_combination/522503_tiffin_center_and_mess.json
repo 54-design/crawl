@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JM Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "522503",
+    "phone_number": "+91 86396 02642",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Trunk Road, Mangalagiri, Mamgalagiri, Andhra Pradesh 522502",
+    "area": "522503",
+    "latitude": 16.4513682,
+    "longitude": 80.5755822,
+    "place_id": "ChIJL_WDt3PxNToRxik6PdKiDfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_WDt3PxNToRxik6PdKiDfs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:28"
+  },
+  {
+    "business_name": "SVS Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant, Tiffin Service Provider",
+    "pincode": "522503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "27-1/5-4, Eluru Rd, Lenin Center, Eluru Rd, Lenin Center, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Lenin Center, Arundalpet, Governor Peta",
+    "latitude": 16.5140287,
+    "longitude": 80.62661279999999,
+    "place_id": "ChIJ3zUA3f3vNToRg4VNgzz7r_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zUA3f3vNToRg4VNgzz7r_w",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:28"
+  }
+]

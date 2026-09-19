@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VFC. Fried Crispy Chicken",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant, Chicken wings restaurant, Fried chicken takeaway",
+    "pincode": "522647",
+    "phone_number": "+91 98851 69645",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Lawers St, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0515588,
+    "longitude": 79.7413354,
+    "place_id": "ChIJ606HuCqWSjoRGEy_9iMX-DI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ606HuCqWSjoRGEy_9iMX-DI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:30"
+  },
+  {
+    "business_name": "Msk Fast food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522647",
+    "phone_number": "+91 63053 88512",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3P2V 4WJ, Vinukonda, Andhra Pradesh 522647",
+    "area": "522647",
+    "latitude": 16.0500573,
+    "longitude": 79.7447193,
+    "place_id": "ChIJWYV6AG6XSjoRN7izCvzAKIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYV6AG6XSjoRN7izCvzAKIg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:53:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bridal Brush",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "522503",
+    "phone_number": "+91 70862 52284",
+    "website": "https://thebridalbrush.my.canva.site/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Willows IJM, Raintree Park Dwaraka Krishna, Apartment, Namburu, Koppuravuru, Andhra Pradesh 522510",
+    "area": "Apartment",
+    "latitude": 16.3797127,
+    "longitude": 80.5154716,
+    "place_id": "ChIJ2VyLOZmD06IRbkwLkntrJt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VyLOZmD06IRbkwLkntrJt0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:16"
+  },
+  {
+    "business_name": "Glam by janu",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "522503",
+    "phone_number": "+91 89854 89220",
+    "website": "https://www.instagram.com/glam_by_januu?igsh=aTFsbTFyYXB5cXRz",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near bachpan school.markandeya kalyana mandapam, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.4345712,
+    "longitude": 80.5662454,
+    "place_id": "ChIJBQsvW2rxNToRY-2wdpyDHZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQsvW2rxNToRY-2wdpyDHZE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babai Boy's Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "522619",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "45CG+46J, Ganapavaram, Andhra Pradesh 522619",
+    "area": "522619",
+    "latitude": 16.1203289,
+    "longitude": 80.17552169999999,
+    "place_id": "ChIJJ6WavLJ8SjoRd8PLhOs2_eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6WavLJ8SjoRd8PLhOs2_eg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:48:48"
+  },
+  {
+    "business_name": "RR Boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "522619",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 19,
+    "address": "8C2P+QQ6, 4/6, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.301933,
+    "longitude": 80.4369655,
+    "place_id": "ChIJ68L01X11SjoRHjPRwbLuJAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68L01X11SjoRHjPRwbLuJAI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:48:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalakshmi Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "522509",
+    "phone_number": "+91 94406 38736",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "8F73+823, Reddy Palem Rd, Sarada Nagar Colony, Agatha Varappadu, Guntur, Andhra Pradesh 522002",
+    "area": "Sarada Nagar Colony, Agatha Varappadu",
+    "latitude": 16.3132686,
+    "longitude": 80.4525606,
+    "place_id": "ChIJvwmVjlR1SjoRRF-ozfGP6lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwmVjlR1SjoRRF-ozfGP6lU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:23:58"
+  },
+  {
+    "business_name": "Sivaparavathi Cement",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Sand & gravel supplier",
+    "all_categories": "Sand & gravel supplier, Building materials supplier, Cement Supplier",
+    "pincode": "522509",
+    "phone_number": "+91 97018 32715",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7CPM+97M, Srinivasaraopeta Last, Guntur, Andhra Pradesh 522004",
+    "area": "Sampath Nagar",
+    "latitude": 16.2859589,
+    "longitude": 80.4331844,
+    "place_id": "ChIJAUV1jz11SjoRBhcR5lhqNXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUV1jz11SjoRBhcR5lhqNXQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:24:00"
+  }
+]

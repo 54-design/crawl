@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARYA MADICAL SHOP",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522657",
+    "phone_number": "+91 70363 10160",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MARRIVEMULA ROAD, Mutukula, Andhra Pradesh 523328",
+    "area": "522657",
+    "latitude": 16.1629578,
+    "longitude": 79.5301045,
+    "place_id": "ChIJ2_IN6XqvSjoRCq32iUR1_pA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_IN6XqvSjoRCq32iUR1_pA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:57:15"
+  },
+  {
+    "business_name": "Durga Medicals",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522657",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Main Bazar, Guntur, Vellaturu, Andhra Pradesh 522657",
+    "area": "522657",
+    "latitude": 16.1217121,
+    "longitude": 79.6506205,
+    "place_id": "ChIJXZfYKM2jSjoR1nGQDUkMsYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZfYKM2jSjoR1nGQDUkMsYQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:57:15"
+  }
+]

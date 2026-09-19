@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance SMART Superstore",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "522617",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-superstore-hypermarket-vinukonda-guntur-280099/Home",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "Sy No 507/1 M No 31/736, Addanki Road, Vinukonda, near Old Lakshmi Theatre, Guntur, Andhra Pradesh 522647",
+    "area": "522617",
+    "latitude": 16.057278999999998,
+    "longitude": 79.745301,
+    "place_id": "ChIJaZwH00aXSjoRKOH2LZFTCaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZwH00aXSjoRKOH2LZFTCaU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:47:40"
+  },
+  {
+    "business_name": "Reliance Smart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522617",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://relianceretail.com/reliance-smart.html",
+    "rating": 3.8,
+    "reviews_count": 1335,
+    "address": "SH 275, Vinukonda, Andhra Pradesh 522647",
+    "area": "522617",
+    "latitude": 16.0483206,
+    "longitude": 79.7416302,
+    "place_id": "ChIJ2Wz7XjqXSjoRIkKTUc8ng00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Wz7XjqXSjoRIkKTUc8ng00",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:47:40"
+  }
+]

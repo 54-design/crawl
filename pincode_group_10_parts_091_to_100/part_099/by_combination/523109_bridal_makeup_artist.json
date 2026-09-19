@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Brides",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Beautician, Beauty Parlour",
+    "pincode": "523109",
+    "phone_number": "+91 90108 07590",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "House of Brides, opposite BVK GROUP OF EDUCATION, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Bairagi patteda",
+    "latitude": 13.6209872,
+    "longitude": 79.41908959999999,
+    "place_id": "ChIJyZcCgwtLTToRMRaL9OqvUso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZcCgwtLTToRMRaL9OqvUso",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:19:59"
+  },
+  {
+    "business_name": "ZyLook Salon Dharmavaram",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "523109",
+    "phone_number": "+91 88860 60400",
+    "website": "https://zylook.ynot.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "542-9, Puttaparthi Road, above Lenin's, Parthasaradhi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Parthasaradhi Nagar",
+    "latitude": 14.4056385,
+    "longitude": 77.71062859999999,
+    "place_id": "ChIJa5CdyLOtZCYRfadlP6lIzXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5CdyLOtZCYRfadlP6lIzXw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:20:00"
+  }
+]

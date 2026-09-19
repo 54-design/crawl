@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai SreeRam Family Restaurant & Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "523112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Porumamilla road, opposite S.R.Puram Road, lake, Seetharamapuram, Narayanampet, Andhra Pradesh 524310",
+    "area": "lake",
+    "latitude": 15.007439799999998,
+    "longitude": 79.1420716,
+    "place_id": "ChIJBZ_iUxC7tDsRvcIXcEy5Bnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZ_iUxC7tDsRvcIXcEy5Bnw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:24:51"
+  },
+  {
+    "business_name": "GUNTHER'S KITCHEN, FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 49,
+    "address": "Ramapuram Beach Rd, Indira Nagar Colony, ILTD Colony, AR Nagar, Kotha Peta Rural, Andhra Pradesh 523157",
+    "area": "Indira Nagar Colony, ILTD Colony, AR Nagar",
+    "latitude": 15.801870099999999,
+    "longitude": 80.3663952,
+    "place_id": "ChIJ-92Wt55HSjoR91SSGRueNfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-92Wt55HSjoR91SSGRueNfs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:24:54"
+  }
+]

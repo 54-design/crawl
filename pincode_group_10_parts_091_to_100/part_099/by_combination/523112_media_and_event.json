@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR multi events",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "523112",
+    "phone_number": "+91 95421 93785",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sai Baba Theatre Complex, line, N.T.R Circle, nearby Kadapa, Maria Puram, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Kadapa",
+    "latitude": 14.473020199999999,
+    "longitude": 78.82348139999999,
+    "place_id": "ChIJrUL7B91zszsR9Tazw0grbHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUL7B91zszsR9Tazw0grbHE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:25:49"
+  },
+  {
+    "business_name": "Sreekaram events",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Association / Organization",
+    "pincode": "523112",
+    "phone_number": "+91 96661 46996",
+    "website": "https://www.instagram.com/sreekaram.events?igsh=dWpxaWRkeGNvdms=",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Satellite City, C-Block, Rajamahendravaram, Andhra Pradesh 533107",
+    "area": "C-Block",
+    "latitude": 16.9914365,
+    "longitude": 81.8410363,
+    "place_id": "ChIJlRQHPQCjNzoRn5Tppa4x7Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRQHPQCjNzoRn5Tppa4x7Jo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:25:50"
+  }
+]

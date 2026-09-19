@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zimindara Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522663",
+    "phone_number": "+91 99143 07070",
+    "website": "http://www.zimindaratravels.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "1064-1065, Himalaya Marg, Sector 22B, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22B, Sector 22",
+    "latitude": 30.733304099999998,
+    "longitude": 76.77858429999999,
+    "place_id": "ChIJFdaou6ftDzkRzTBjdVSRxXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdaou6ftDzkRzTBjdVSRxXY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:47"
+  },
+  {
+    "business_name": "Vijay Travels, Chandigarh sector 52",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "522663",
+    "phone_number": "+91 98152 66111",
+    "website": "https://www.vijaytourss.com/Chandigarh-Jaipur-6677-37-route",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "125 phese 3a SECTOR 53 Sector 53, Chandigarh, 160036",
+    "area": "Kajheri, Kajheri Village, Sector 52",
+    "latitude": 30.7172722,
+    "longitude": 76.7364281,
+    "place_id": "ChIJWfRkJy3sDzkRTz4X-5nIQ_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfRkJy3sDzkRTz4X-5nIQ_4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GEETHA SHOP",
+    "search_category": "Shops",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "522510",
+    "phone_number": "+91 87907 09313",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "90-5, Namburu, Andhra Pradesh 522510",
+    "area": "522510",
+    "latitude": 16.379755,
+    "longitude": 80.52502489999999,
+    "place_id": "ChIJp2g4n-L1NToROhzxFwbAPmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2g4n-L1NToROhzxFwbAPmQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:53"
+  },
+  {
+    "business_name": "Bible Mission Grounds",
+    "search_category": "Shops",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "522510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9GMG+8H7, Guntur, Kaza, Andhra Pradesh 522510",
+    "area": "522510",
+    "latitude": 16.3832933,
+    "longitude": 80.5264334,
+    "place_id": "ChIJgSMdcDn0NToRXuwYfFjsehA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSMdcDn0NToRXuwYfFjsehA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:55"
+  }
+]

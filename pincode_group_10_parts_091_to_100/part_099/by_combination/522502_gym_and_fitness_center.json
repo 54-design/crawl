@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A cube Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "522502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A1 shoppy upstairs, D.no.1-434A, beside Reliance trends, Goutham buddaroad, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Goutham buddaroad",
+    "latitude": 16.4381046,
+    "longitude": 80.5665981,
+    "place_id": "ChIJsZiIsV7xNToRI5F1TUDQLbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZiIsV7xNToRI5F1TUDQLbA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:59"
+  },
+  {
+    "business_name": "SANDEEP'S GOLD GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "522502",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/sandeeps_gold_gym?igshid=YmMyMTA2M2Y=",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Near Bungalow, 1-658, G. T. Rd, Kothapet, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Kothapet",
+    "latitude": 16.4382384,
+    "longitude": 80.5661562,
+    "place_id": "ChIJIzEySrzxNToR6iTy76PRGdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzEySrzxNToR6iTy76PRGdU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:17:59"
+  }
+]

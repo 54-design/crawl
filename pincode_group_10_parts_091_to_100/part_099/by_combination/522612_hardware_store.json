@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sambha Siva Iron Stores",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "522612",
+    "phone_number": "+91 98668 82762",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Gandhi Bomma Center, 7-177, Main Road, opposite Siva Studio, Karempudi, Andhra Pradesh 522614",
+    "area": "522612",
+    "latitude": 16.427610299999998,
+    "longitude": 79.7234359,
+    "place_id": "ChIJ-x6fk_1dNToRz47QOkyRhxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-x6fk_1dNToRz47QOkyRhxA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:37:06"
+  },
+  {
+    "business_name": "IMAM Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "522612",
+    "phone_number": "+91 89858 98186",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 32-147, Dammaiguda Hyderabad Main Road, opp. Sbi Bank, near Gandhi Statue Pvt Market, Dammaiguda, Medchal, Durgi, Telangana 522612",
+    "area": "Dammaiguda",
+    "latitude": 16.4242711,
+    "longitude": 79.5424462,
+    "place_id": "ChIJkWY5wZ5RNToRm7rXgpqGi1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWY5wZ5RNToRm7rXgpqGi1o",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:37:08"
+  }
+]

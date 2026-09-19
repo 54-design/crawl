@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nithins Cables",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "522619",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Uppalapadu, Andhra Pradesh 522616",
+    "area": "522619",
+    "latitude": 16.0763812,
+    "longitude": 80.2354938,
+    "place_id": "ChIJzcPkP1JlSjoRo0fE9-A_Lkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcPkP1JlSjoRo0fE9-A_Lkw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:04"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "522619",
+    "phone_number": "+91 90590 00596",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12-321Pedanandipadu RoadMaruthi NagarChilakaluripet, H/O, Purushotha, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "H/O",
+    "latitude": 16.089788,
+    "longitude": 80.244233,
+    "place_id": "ChIJG4-EDrllSjoRBN20x_FBUIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4-EDrllSjoRBN20x_FBUIQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:04"
+  }
+]

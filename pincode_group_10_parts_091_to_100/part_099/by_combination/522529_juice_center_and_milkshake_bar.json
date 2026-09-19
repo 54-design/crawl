@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "juice bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Eatery",
+    "all_categories": "Eatery",
+    "pincode": "522529",
+    "phone_number": "+91 78425 10629",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "45-6, Main Rd, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+    "area": "Brindavan Gardens",
+    "latitude": 16.3144813,
+    "longitude": 80.4179156,
+    "place_id": "ChIJde1ivH11SjoRIOYw-QQ1Fjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJde1ivH11SjoRIOYw-QQ1Fjg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:05"
+  },
+  {
+    "business_name": "Juice Point",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "522529",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "8C79+GWX, Ring Rd, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+    "area": "Brindavan Gardens",
+    "latitude": 16.3138689,
+    "longitude": 80.41984839999999,
+    "place_id": "ChIJfzyTHn11SjoRVKPBi77L5yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzyTHn11SjoRVKPBi77L5yo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:27:07"
+  }
+]

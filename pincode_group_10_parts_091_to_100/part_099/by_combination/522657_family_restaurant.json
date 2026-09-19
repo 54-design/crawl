@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Sai Fast Food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522657",
+    "phone_number": "+91 84658 03474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Kiran Sai Fast Food, Main Road, Guntur, Vellaturu, Andhra Pradesh 522657",
+    "area": "522657",
+    "latitude": 16.121484199999998,
+    "longitude": 79.65105539999999,
+    "place_id": "ChIJCVc6pLKjSjoR0qOdRj_Gyo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVc6pLKjSjoR0qOdRj_Gyo0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:57:05"
+  },
+  {
+    "business_name": "KING DHABA& FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522657",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 36,
+    "address": "Shop No1, Hp Petroleum, Be Side, Tripuranthakam, Andhra Pradesh 523326",
+    "area": "522657",
+    "latitude": 16.0107623,
+    "longitude": 79.46298879999999,
+    "place_id": "ChIJjdJsAwCzSjoRBLJj4T9I7yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdJsAwCzSjoRBLJj4T9I7yA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:57:05"
+  }
+]

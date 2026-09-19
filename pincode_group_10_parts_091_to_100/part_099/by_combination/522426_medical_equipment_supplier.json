@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI RAGHU RAMA MEDICAL",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "522426",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Main bajar, Hill Colony, Nagarjuna Sagar, Telangana 508202",
+    "area": "Hill Colony",
+    "latitude": 16.6033555,
+    "longitude": 79.30452869999999,
+    "place_id": "ChIJQQDl7Qe1yjsRTYg4u6Plkx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQDl7Qe1yjsRTYg4u6Plkx8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:04:48"
+  },
+  {
+    "business_name": "Medical Shop",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "522426",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Telangana 508202",
+    "area": "522426",
+    "latitude": 16.5847036,
+    "longitude": 79.3188268,
+    "place_id": "ChIJoT6gFEy0yjsRofpSD8cNdMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoT6gFEy0yjsRofpSD8cNdMM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:04:48"
+  }
+]

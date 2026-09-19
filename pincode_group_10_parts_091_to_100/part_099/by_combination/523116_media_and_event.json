@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE SKY EVENTS",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "523116",
+    "phone_number": "+91 85549 48207",
+    "website": "https://theskyevents.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv Sena Quarters, Santa Tukdoji Ward, near Madha Colony, Hinganghat, Maharashtra 442301",
+    "area": "Shahalangadi",
+    "latitude": 20.536794399999998,
+    "longitude": 78.84201279999999,
+    "place_id": "ChIJcaIzWNhv0zsRZwjTS2RNW5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaIzWNhv0zsRZwjTS2RNW5A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:33:15"
+  },
+  {
+    "business_name": "CA Convention",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "523116",
+    "phone_number": "+91 90595 55555",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hyderabad - Vijayawada Hwy, Guntupalli, Gollapudi, Andhra Pradesh 521225",
+    "area": "523116",
+    "latitude": 16.5611958,
+    "longitude": 80.5603703,
+    "place_id": "ChIJwd4uM_rvNToREI-O5anOqP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwd4uM_rvNToREI-O5anOqP0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:33:16"
+  }
+]

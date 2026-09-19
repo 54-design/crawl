@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Maha Lakshmi Medicals Under General Store",
+    "search_category": "General Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522615",
+    "phone_number": "+91 99085 65813",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nekarikallu Rd, Inimetla, Uppalapadu, Andhra Pradesh 522615",
+    "area": "Inimetla",
+    "latitude": 16.3784995,
+    "longitude": 79.9828613,
+    "place_id": "ChIJxevPe3l9NToR9ky-VvtUbos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxevPe3l9NToR9ky-VvtUbos",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:42:05"
+  },
+  {
+    "business_name": "Sruthi General Store",
+    "search_category": "General Store",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "522615",
+    "phone_number": "+91 99086 06042",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sruthi General Store, near Hanuman Temple, Nasaraopet, Nekarikallu, Challagundla, Andhra Pradesh 522615",
+    "area": "Nasaraopet",
+    "latitude": 16.3383658,
+    "longitude": 79.9491843,
+    "place_id": "ChIJTUA6Lwd9NToRMwiBGC5GGcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUA6Lwd9NToRMwiBGC5GGcc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:42:05"
+  }
+]

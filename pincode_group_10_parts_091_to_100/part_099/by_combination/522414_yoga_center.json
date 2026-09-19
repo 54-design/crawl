@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adithya Home Yoga & wellness",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "522414",
+    "phone_number": "N/A",
+    "website": "http://adithyayoga.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FMJC+FWH, Laxmipuram, Peda Kodamagundla, Andhra Pradesh 522614",
+    "area": "Laxmipuram",
+    "latitude": 16.4811841,
+    "longitude": 79.67235,
+    "place_id": "ChIJg9q5tDxDNToR2lfVOcGXhbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9q5tDxDNToR2lfVOcGXhbc",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:19"
+  },
+  {
+    "business_name": "Rammohan Wellness & Naturecure Hospital",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Acupuncture clinic, Alternative Medicine Clinic, Health spa, Massage spa, Naturopathic practitioner, Pain management physician, Wellness center, Yoga instructor, Hospital",
+    "pincode": "522414",
+    "phone_number": "+91 99668 77227",
+    "website": "https://rammohanwellness.in/",
+    "rating": 4.9,
+    "reviews_count": 54,
+    "address": "bhashyam school, to, Church Street, opposite road, Subbaraopet, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Subbaraopet",
+    "latitude": 16.8172222,
+    "longitude": 81.5262887,
+    "place_id": "ChIJR0e4Zz-1NzoRozeQF1rX5Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0e4Zz-1NzoRozeQF1rX5Os",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:59:20"
+  }
+]

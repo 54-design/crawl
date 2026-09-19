@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KSR Continuum",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports complex",
+    "all_categories": "Sports complex",
+    "pincode": "522508",
+    "phone_number": "+91 90592 34268",
+    "website": "https://playo.co/venues/amaravati%20road/ksr-continuum-amaravati-road-guntur",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4-14-225, Amaravati Rd, opp. Hindu College of Management, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Koritepadu",
+    "latitude": 16.319460199999998,
+    "longitude": 80.4374062,
+    "place_id": "ChIJsSVxtZuNNToR77yRZCp1yBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSVxtZuNNToR77yRZCp1yBM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:22:33"
+  },
+  {
+    "business_name": "Venu Badminton Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "522508",
+    "phone_number": "+91 99598 26522",
+    "website": "https://playo.co/venue?venueId=232295ca-728e-4f92-91b3-3ac0fd94cab0",
+    "rating": 4.4,
+    "reviews_count": 536,
+    "address": "Tarakarama Nagar, Srinivasa Nagar Colony, Guntur, Andhra Pradesh 522006",
+    "area": "Tarakarama Nagar, Srinivasa Nagar Colony",
+    "latitude": 16.3289792,
+    "longitude": 80.41647619999999,
+    "place_id": "ChIJ4e4GXWqLNToRVhCCd-6Q12Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4e4GXWqLNToRVhCCd-6Q12Y",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:22:35"
+  }
+]

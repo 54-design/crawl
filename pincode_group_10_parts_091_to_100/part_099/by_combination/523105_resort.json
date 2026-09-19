@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDUKURI RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Campground",
+    "pincode": "523105",
+    "phone_number": "+91 78936 92222",
+    "website": "http://www.indukuriresorts.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Via, Bhavani nagar, bowdara post, Araku - Visakhapatnam Rd, Srungavarapu kota, Andhra Pradesh 535145",
+    "area": "523105",
+    "latitude": 18.163493499999998,
+    "longitude": 83.1312657,
+    "place_id": "ChIJn9FVjBzFOzoR_1aNzxaMXCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9FVjBzFOzoR_1aNzxaMXCQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:16:30"
+  },
+  {
+    "business_name": "Prakruthi Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "523105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "ORR Exit, 14, Srisailam Hwy, near Kandukur Police Station, Lemoor, Telangana 500113",
+    "area": "523105",
+    "latitude": 17.0760182,
+    "longitude": 78.4812658,
+    "place_id": "ChIJG0ktOWivyzsRBtO6qI6F5LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0ktOWivyzsRBtO6qI6F5LE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:16:32"
+  }
+]

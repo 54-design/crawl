@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Liimrasoft Academy",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "522601",
+    "phone_number": "N/A",
+    "website": "https://www.liimrasoftacademy.com/",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "beside OGR Guest house, near Union Bank bank, Reddy Nagar, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Reddy Nagar",
+    "latitude": 16.2453674,
+    "longitude": 80.03498259999999,
+    "place_id": "ChIJzRQxvD-BSjoRA1cqdjgOaAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRQxvD-BSjoRA1cqdjgOaAo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:25"
+  },
+  {
+    "business_name": "PJ SKILL DEVELOPMENT ACADEMY",
+    "search_category": "Driving School",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Association / Organization",
+    "pincode": "522601",
+    "phone_number": "+91 79979 79100",
+    "website": "https://www.pjskilldevelopment.com/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Road, opposite to Bajaj showroom, Arundelpet, Ravipadu, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.2401962,
+    "longitude": 80.0364523,
+    "place_id": "ChIJyZgyNgCBSjoRxi0EBsChJH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZgyNgCBSjoRxi0EBsChJH0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:31:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "మనస్వీట్ బేకరి",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522626",
+    "phone_number": "+91 72077 74747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522626",
+    "latitude": 16.094106,
+    "longitude": 80.1655279,
+    "place_id": "ChIJg7bhtWpjSjoRjQJskSlynms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7bhtWpjSjoRjQJskSlynms",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:39"
+  },
+  {
+    "business_name": "Bakelore Madhapur",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522626",
+    "phone_number": "+91 81210 34991",
+    "website": "https://bakelore.com/",
+    "rating": 4.7,
+    "reviews_count": 3823,
+    "address": "1-103/5/1, Hitech City Rd, D Block, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081",
+    "area": "D Block, Kavuri Hills, Madhapur",
+    "latitude": 17.4409526,
+    "longitude": 78.390863,
+    "place_id": "ChIJN1gCoEORyzsRA4bNFiWhHWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1gCoEORyzsRA4bNFiWhHWg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:49:40"
+  }
+]

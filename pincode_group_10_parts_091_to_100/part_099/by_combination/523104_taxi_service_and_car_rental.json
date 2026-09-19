@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muzaffarpur Cab Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Transportation service",
+    "pincode": "523104",
+    "phone_number": "+91 89359 05720",
+    "website": "https://muzaffarpur-cab-car.grexa.site/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Laxmi Narayan Nagar Rd, Mahammadpur Kazi, chowk, Muzaffarpur, Bihar 842002",
+    "area": "Mahammadpur Kazi, chowk",
+    "latitude": 26.111269699999998,
+    "longitude": 85.4052523,
+    "place_id": "ChIJZ3d3pUQR7TkR0Vuuig1uwio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3d3pUQR7TkR0Vuuig1uwio",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:14"
+  },
+  {
+    "business_name": "Haridwar Cab Service | Chardham Yatra Taxi Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523104",
+    "phone_number": "+91 89095 42642",
+    "website": "https://haridwarcabservice.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. 32, Bangali More, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Mohallla Miaria, Kankhal",
+    "latitude": 29.9336022,
+    "longitude": 78.14992029999999,
+    "place_id": "ChIJKfXbdKFHCTkR5oMjV6apx_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfXbdKFHCTkR5oMjV6apx_o",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:14:15"
+  }
+]

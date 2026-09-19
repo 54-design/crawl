@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "522619",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "No 5, NH 16, Manubolu, Andhra Pradesh 522616",
+    "area": "522619",
+    "latitude": 16.0945546,
+    "longitude": 80.16523,
+    "place_id": "ChIJQeEns2pjSjoR0GAKfmkDvYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeEns2pjSjoR0GAKfmkDvYo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:47:53"
+  },
+  {
+    "business_name": "Amrutha Punjabi daba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Mid-Atlantic restaurant (US)",
+    "all_categories": "Mid-Atlantic restaurant (US), Punjabi restaurant",
+    "pincode": "522619",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "4535+MGV, SH 45, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522619",
+    "latitude": 16.104242,
+    "longitude": 80.15880729999999,
+    "place_id": "ChIJhcEjMjpjSjoR7QrX7cK5YaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcEjMjpjSjoR7QrX7cK5YaY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:47:53"
+  }
+]

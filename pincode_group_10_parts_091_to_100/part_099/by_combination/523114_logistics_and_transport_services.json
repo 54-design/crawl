@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J3S LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "523114",
+    "phone_number": "+91 88912 49979",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "BROTHERS SQUARE, 7/229/F, PALIAM NADA, Chendamangalam, Keralam 683512",
+    "area": "523114",
+    "latitude": 10.172951399999999,
+    "longitude": 76.23676809999999,
+    "place_id": "ChIJradIigYbCDsR1Qlz_Pz0_Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJradIigYbCDsR1Qlz_Pz0_Ac",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:29:04"
+  },
+  {
+    "business_name": "SRMT Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "523114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "FRMG+W8C, MDR382, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "MDR382, Ganagapeta",
+    "latitude": 14.4848229,
+    "longitude": 78.825763,
+    "place_id": "ChIJfzAit5dxszsRw5hCLMzfBNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzAit5dxszsRw5hCLMzfBNU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:29:05"
+  }
+]

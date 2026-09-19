@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khasim Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "522529",
+    "phone_number": "+91 88862 82666",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "58JP+G9C, Mallayapalem Rd, Lakshmi Puram, Prathipadu, Andhra Pradesh 522019",
+    "area": "Lakshmi Puram",
+    "latitude": 16.1813025,
+    "longitude": 80.33590009999999,
+    "place_id": "ChIJDddl-g5xSjoRudbN53HTT1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDddl-g5xSjoRudbN53HTT1w",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:59"
+  },
+  {
+    "business_name": "Bismilla Chicken Centre",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "522529",
+    "phone_number": "+91 99080 57694",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "busstand centre, Solasa - Phirangipuram Rd, Phirangipuram, Andhra Pradesh 522529",
+    "area": "522529",
+    "latitude": 16.291337,
+    "longitude": 80.26411519999999,
+    "place_id": "ChIJ9Th3hdZ5SjoRN69S_3cLYuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Th3hdZ5SjoRN69S_3cLYuU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:26:59"
+  }
+]

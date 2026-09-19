@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navodaya Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522503",
+    "phone_number": "+91 98855 98999",
+    "website": "https://www.navodayatransport.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kaza, Mangalagiri, Andhra Pradesh 522508",
+    "area": "522503",
+    "latitude": 16.3875255,
+    "longitude": 80.53415059999999,
+    "place_id": "ChIJVyEeWID1NToRzcU2C2pOHs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyEeWID1NToRzcU2C2pOHs8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:01"
+  },
+  {
+    "business_name": "Sai Balaji Mini Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "522503",
+    "phone_number": "+91 94916 10822",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "National Hwy 16 Service Rd, Koppuravuru, Andhra Pradesh 522508",
+    "area": "522503",
+    "latitude": 16.363541899999998,
+    "longitude": 80.500593,
+    "place_id": "ChIJebBPZ6r1NToRz3UBUEWKTsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebBPZ6r1NToRz3UBUEWKTsY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:20:01"
+  }
+]

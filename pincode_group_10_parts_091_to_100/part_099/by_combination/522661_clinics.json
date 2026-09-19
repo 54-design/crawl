@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIHAAN CLINIC",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522661",
+    "phone_number": "+91 96524 58393",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "opp. Anjaneyaswami Temple, beside Sivalayam, Mallikarjunpet, Guntur, Andhra Pradesh 522002",
+    "area": "Mallikarjunpet",
+    "latitude": 16.3159898,
+    "longitude": 80.4373356,
+    "place_id": "ChIJRa4IzHx1SjoR4ijNLI-53NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRa4IzHx1SjoR4ijNLI-53NQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:04:42"
+  },
+  {
+    "business_name": "విఘ్నేశ్వరా టెంట్ హౌస్ లైటింగ్ & డెకరేషన్",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "522661",
+    "phone_number": "+91 91771 23783",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A Muppalla, Andhra Pradesh 522661",
+    "area": "522661",
+    "latitude": 16.244359,
+    "longitude": 79.8392531,
+    "place_id": "ChIJV9xv6tKdSjoRuwKqHVauXws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9xv6tKdSjoRuwKqHVauXws",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:04:42"
+  }
+]

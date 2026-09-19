@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hema Sri Silks",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store, Dress store, Women's clothing store",
+    "pincode": "522658",
+    "phone_number": "+91 85208 22299",
+    "website": "https://hemasrisilks.my.canva.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ring Rd, Nalanda Nagar, Navabharath Nagar, Guntur, Andhra Pradesh 522006",
+    "area": "Nalanda Nagar, Navabharath Nagar",
+    "latitude": 16.3179656,
+    "longitude": 80.4188758,
+    "place_id": "ChIJf2iMCQCLNToR0v9OIpLZqKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2iMCQCLNToR0v9OIpLZqKg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:58:57"
+  },
+  {
+    "business_name": "Kotha Pentaiah & Bodla Ramachandraiah",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522658",
+    "phone_number": "+91 40 2781 2965",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3-3-592, Mahankali St, General Bazaar, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "General Bazaar, Kalasiguda",
+    "latitude": 17.4375021,
+    "longitude": 78.49189369999999,
+    "place_id": "ChIJy2IlzBuayzsRElhqEoBwl3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2IlzBuayzsRElhqEoBwl3E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:58:57"
+  }
+]

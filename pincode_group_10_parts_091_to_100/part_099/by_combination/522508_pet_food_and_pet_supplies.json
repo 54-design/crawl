@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guppy Nest",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "522508",
+    "phone_number": "+91 88848 04800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th line, Amaravati Rd, Muthyala Reddy Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chaitanyapuri, Venugopalnagar, Muthyala Reddy Nagar",
+    "latitude": 16.3219756,
+    "longitude": 80.43480029999999,
+    "place_id": "ChIJy3yiPSOLNToRCL6lQh7YA70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3yiPSOLNToRCL6lQh7YA70",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:19"
+  },
+  {
+    "business_name": "OM SAI RAM AUTOMOBILES",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Reptile store",
+    "all_categories": "Reptile store",
+    "pincode": "522508",
+    "phone_number": "+91 95023 69922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Line, J.K.C Nagar, Gujjanagundla, Guntur, Andhra Pradesh 522006",
+    "area": "J.K.C Nagar, Gujjanagundla",
+    "latitude": 16.3202413,
+    "longitude": 80.4142633,
+    "place_id": "ChIJ7-akbQ-LNToRYWezV05vfaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-akbQ-LNToRYWezV05vfaA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:21:19"
+  }
+]

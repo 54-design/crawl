@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Indian Kaw-Fee Company",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee wholesaler",
+    "all_categories": "Coffee wholesaler, Coffee roastery, Coffee store, Tea Wholesaler",
+    "pincode": "522663",
+    "phone_number": "+91 82697 86420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indian kawfee, 12, near royal enfield showroom, Sachidanand Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Model Town Colony, Revenue Colony, Sachidanand Nagar",
+    "latitude": 22.700689099999998,
+    "longitude": 75.8413188,
+    "place_id": "ChIJl3vyshVazi8RrwUcGoc0SSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3vyshVazi8RrwUcGoc0SSQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:19"
+  },
+  {
+    "business_name": "Mr Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "522663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1/184, Macherla Road, Karempudi, Guntur, Andhra Pradesh 522614",
+    "area": "522663",
+    "latitude": 16.430303,
+    "longitude": 79.71912329999999,
+    "place_id": "ChIJjUrYDgBdNToRMA04PaCIJDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUrYDgBdNToRMA04PaCIJDs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:06:19"
+  }
+]

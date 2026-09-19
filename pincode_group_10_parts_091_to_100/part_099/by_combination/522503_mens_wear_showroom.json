@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New look fashions mens wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Main Bazar",
+    "latitude": 16.429139799999998,
+    "longitude": 80.5680277,
+    "place_id": "ChIJiX-pMsnxNToRg_J8wBXkIr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiX-pMsnxNToRg_J8wBXkIr0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:33"
+  },
+  {
+    "business_name": "Sri Bhavani Fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Shopping mall",
+    "pincode": "522503",
+    "phone_number": "+91 94946 65561",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Road, Tenali, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522503",
+    "latitude": 16.4286444,
+    "longitude": 80.5676781,
+    "place_id": "ChIJVYTsIzjxNToRaY1G5jrjf-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYTsIzjxNToRaY1G5jrjf-4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:19:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra Overseas",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "522508",
+    "phone_number": "+91 98852 34150",
+    "website": "http://www.rudraoverseas.org/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vidyanagar 4thline, Mainroad, Ring Rd, beside ITC Welcome Hotel, Guntur, Andhra Pradesh 522007",
+    "area": "Vidyanagar",
+    "latitude": 16.3171324,
+    "longitude": 80.4225163,
+    "place_id": "ChIJYUvtNkyLNToRlv4ftct9BVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUvtNkyLNToRlv4ftct9BVI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:22:25"
+  },
+  {
+    "business_name": "Sumasri Nutrition Centre",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist",
+    "pincode": "522508",
+    "phone_number": "+91 94410 25211",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1/3 Annapurna Nagar, Near Chilli's Dhaba Restaurant, opp :Sri Kamala hotel, Mahatma Gandhi Inner Ring Rd, Guntur, Andhra Pradesh 522034",
+    "area": "522508",
+    "latitude": 16.3290611,
+    "longitude": 80.4472598,
+    "place_id": "ChIJ08kAp76KNToR8MW8fE6Mu_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08kAp76KNToR8MW8fE6Mu_4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:22:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Vrinda Grand",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "523115",
+    "phone_number": "+91 79956 59999",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GNT Road, Shanthi Nagar, Kavali, Andhra Pradesh 524201",
+    "area": "Shanthi Nagar",
+    "latitude": 14.9002401,
+    "longitude": 79.9920022,
+    "place_id": "ChIJEUqHvBp9SzoREXR4DBfY6nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUqHvBp9SzoREXR4DBfY6nI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:18"
+  },
+  {
+    "business_name": "HOTEL M.L.N WHITE HOUSE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "523115",
+    "phone_number": "+91 86262 41144",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "EXCISE OFFFICE ROAD , SANTHI NAGAR, Kavali, Andhra Pradesh 524201",
+    "area": "Shanthi Nagar",
+    "latitude": 14.899795899999999,
+    "longitude": 79.9912425,
+    "place_id": "ChIJs6a1CAx8SzoRTWtALnw8ACo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6a1CAx8SzoRTWtALnw8ACo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:31:18"
+  }
+]

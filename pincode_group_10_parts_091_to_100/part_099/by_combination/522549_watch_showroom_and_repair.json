@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon Watch & Electronics",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "522549",
+    "phone_number": "+91 92906 18094",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "5-1-399, near Gadiyara stambham, Ameensaheb Palem, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Ameensaheb Palem, Arundelpet",
+    "latitude": 16.2358458,
+    "longitude": 80.0494161,
+    "place_id": "ChIJHQORrwuBSjoRnoAaXuOXyPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQORrwuBSjoRnoAaXuOXyPM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:29:09"
+  },
+  {
+    "business_name": "Sai Watch&Electronics",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "522549",
+    "phone_number": "+91 93945 12498",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Gangamma Temple Ln, Prakash Nagar, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Prakash Nagar",
+    "latitude": 16.2278114,
+    "longitude": 80.0489618,
+    "place_id": "ChIJOXQElCGBSjoRza9kHBqvoMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXQElCGBSjoRza9kHBqvoMM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:29:09"
+  }
+]

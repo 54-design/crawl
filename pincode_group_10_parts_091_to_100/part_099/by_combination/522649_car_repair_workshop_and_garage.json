@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavni Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522649",
+    "phone_number": "+91 81425 93452",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3P6R 58F, Road, Vinukonda, Andhra Pradesh 522647",
+    "area": "522649",
+    "latitude": 16.0605104,
+    "longitude": 79.7409244,
+    "place_id": "ChIJf0DZTIuXSjoRUSsuT1UnD8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0DZTIuXSjoRUSsuT1UnD8Q",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:55:41"
+  },
+  {
+    "business_name": "4STROKE MOTOREN",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto body shop, Auto glass repair service, Auto painting, Tire shop",
+    "pincode": "522649",
+    "phone_number": "+91 98481 13271",
+    "website": "http://4strokemotoren.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8-2-602/i, Road No. 10, beside Kunal Rawal, Zahara Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Zahara Nagar, Banjara Hills",
+    "latitude": 17.4170686,
+    "longitude": 78.4391394,
+    "place_id": "ChIJ-TSb1TaXyzsREwlPo4FnW1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TSb1TaXyzsREwlPo4FnW1g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:55:43"
+  }
+]

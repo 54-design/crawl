@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Communication Tower",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "522330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8JGJ+PM3, Repalle Rd, Duggirala, Andhra Pradesh 522330",
+    "area": "522330",
+    "latitude": 16.3263604,
+    "longitude": 80.63161989999999,
+    "place_id": "ChIJmYOa4B_3NToRXu9gMycQQhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYOa4B_3NToRXu9gMycQQhw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:40:10"
+  },
+  {
+    "business_name": "NTR Statue",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "522330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8JHF+3VQ, Railway Station Road, Railpeta, Duggirala, Andhra Pradesh 522330",
+    "area": "Railpeta",
+    "latitude": 16.3277954,
+    "longitude": 80.6245483,
+    "place_id": "ChIJjTfuFt_3NToRlaBHPng4AG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTfuFt_3NToRlaBHPng4AG0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:40:10"
+  }
+]

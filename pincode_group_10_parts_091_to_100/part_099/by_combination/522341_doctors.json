@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Liver and Gastro Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Gastroenterologist",
+    "all_categories": "Gastroenterologist",
+    "pincode": "522341",
+    "phone_number": "+91 94402 14706",
+    "website": "https://nationallivergastro.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "24-4-9, Narasimha Swamy Temple St opp Apollo Pharmacy R Agraharam,Prathipadu, Road, Guntur, Andhra Pradesh 522003",
+    "area": "522341",
+    "latitude": 16.2895738,
+    "longitude": 80.4417399,
+    "place_id": "ChIJEQg6mzl1SjoR8LQu0U2XC3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQg6mzl1SjoR8LQu0U2XC3E",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:40:47"
+  },
+  {
+    "business_name": "Balu RMP",
+    "search_category": "Doctors",
+    "primary_category": "Physician referral service",
+    "all_categories": "Physician referral service",
+    "pincode": "522341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-19, Pyaparru, Andhra Pradesh 522341",
+    "area": "522341",
+    "latitude": 16.080743299999998,
+    "longitude": 80.6123022,
+    "place_id": "ChIJCyGCoy8RSjoRMRE1mCgrZvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyGCoy8RSjoRMRE1mCgrZvA",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:40:49"
+  }
+]

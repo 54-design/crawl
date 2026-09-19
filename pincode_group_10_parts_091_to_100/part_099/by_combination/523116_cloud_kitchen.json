@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghar The Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "523116",
+    "phone_number": "+91 91008 63933",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 98,
+    "address": "Plot #145, Golden Mile Layout Rd, beside Tea Cube, Colony, Hyderabad, Telangana 500075",
+    "area": "Colony",
+    "latitude": 17.3987248,
+    "longitude": 78.3329308,
+    "place_id": "ChIJf4BIY8GVyzsRkPcrIm1cFZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4BIY8GVyzsRkPcrIm1cFZQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:16"
+  },
+  {
+    "business_name": "VIZAG CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523116",
+    "phone_number": "+91 94922 13045",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chinna Waltair, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Chinna Waltair, Pedda Waltair",
+    "latitude": 17.723740799999998,
+    "longitude": 83.3366559,
+    "place_id": "ChIJcccXGIdFOToRWtc2IL80f5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcccXGIdFOToRWtc2IL80f5M",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:32:16"
+  }
+]

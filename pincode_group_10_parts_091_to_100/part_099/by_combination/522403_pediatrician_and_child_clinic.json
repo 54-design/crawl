@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vennela Children's Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "522403",
+    "phone_number": "+91 82928 54747",
+    "website": "https://www.vennelachildrenshospital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guntur Rd, beside Ramalinga Reddy Gari Eye Hospital, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Barampet",
+    "latitude": 16.2367478,
+    "longitude": 80.0556531,
+    "place_id": "ChIJ3cXNukaBSjoRSpCOJM1NgVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cXNukaBSjoRSpCOJM1NgVs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:25"
+  },
+  {
+    "business_name": "Sri Hanvitha Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522403",
+    "phone_number": "+91 94940 10808",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ramdas St, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.2361863,
+    "longitude": 80.04660899999999,
+    "place_id": "ChIJh75D-JmBSjoRbyZzT51WKso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh75D-JmBSjoRbyZzT51WKso",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 09:46:25"
+  }
+]

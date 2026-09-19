@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra computer world",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "523113",
+    "phone_number": "+91 94402 58944",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "CXVG+7WP, Somasekara Puram, Nellore, Andhra Pradesh 524003",
+    "area": "Somasekara Puram",
+    "latitude": 14.443213499999999,
+    "longitude": 79.97733649999999,
+    "place_id": "ChIJGURY5zLzTDoRABw0u5bN-cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGURY5zLzTDoRABw0u5bN-cY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:52"
+  },
+  {
+    "business_name": "Rambabu Tech Suport",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523113",
+    "phone_number": "+91 95056 06753",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chinapavani, Andhra Pradesh 523115",
+    "area": "523113",
+    "latitude": 15.030107,
+    "longitude": 79.82452339999999,
+    "place_id": "ChIJwwjh5tNoSzoR5qTpRzzz-4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwjh5tNoSzoR5qTpRzzz-4I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:27:52"
+  }
+]

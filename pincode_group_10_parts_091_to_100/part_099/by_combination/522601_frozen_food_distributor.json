@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darsi Foods.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "522601",
+    "phone_number": "+91 94400 21345",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 21,
+    "address": "D.K.R Nilayam,Road no-6, Tapovan colony, Saroornagar, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Trimurti Colony, Saroor Nagar East",
+    "latitude": 17.3500068,
+    "longitude": 78.5302121,
+    "place_id": "ChIJyQC7t5qYyzsRGuiiOC9EQLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQC7t5qYyzsRGuiiOC9EQLw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:46"
+  },
+  {
+    "business_name": "Prime Mero Enterprises - Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, FMCG Goods Wholesaler, Food products supplier",
+    "pincode": "522601",
+    "phone_number": "+91 81436 15605",
+    "website": "https://primemero.wordpress.com/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "3-6-95/1, Indira Nagar, Nehru Nagar, Ramanthapur, Hyderabad, Telangana 500013",
+    "area": "Indira Nagar, Nehru Nagar, Ramanthapur",
+    "latitude": 17.396396799999998,
+    "longitude": 78.538564,
+    "place_id": "ChIJ7936oQeZyzsRUEVhT6W8AGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7936oQeZyzsRUEVhT6W8AGU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:30:48"
+  }
+]

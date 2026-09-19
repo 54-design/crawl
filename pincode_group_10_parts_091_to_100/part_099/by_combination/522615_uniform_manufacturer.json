@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Tailors",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing store",
+    "pincode": "522615",
+    "phone_number": "+91 96764 86949",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Main Rd, Nekarikallu, Andhra Pradesh 522615",
+    "area": "522615",
+    "latitude": 16.373078,
+    "longitude": 79.9433741,
+    "place_id": "ChIJ68vptJd8NToRrhSzmVMTh6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68vptJd8NToRrhSzmVMTh6o",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:42:22"
+  },
+  {
+    "business_name": "S R Trilar",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "522615",
+    "phone_number": "+91 89780 04807",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1 Vard, DevaramPadu to GundlaPalli, Guntur, Andhra Pradesh 522413",
+    "area": "522615",
+    "latitude": 16.4431012,
+    "longitude": 79.9096501,
+    "place_id": "ChIJxZqhhJhlNToR4DDChvuSZH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZqhhJhlNToR4DDChvuSZH8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 10:42:25"
+  }
+]
