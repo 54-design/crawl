@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navadeep General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store, Soft drinks shop",
+    "pincode": "515571",
+    "phone_number": "+91 94409 59551",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no: 4-67 main road, Chennai - Anantapur Hwy, near ICICI Bank, Vepurikota, Andhra Pradesh 517351",
+    "area": "515571",
+    "latitude": 13.7499892,
+    "longitude": 78.3221342,
+    "place_id": "ChIJ_-uRzA1HsjsRuQDqaMe_gic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-uRzA1HsjsRuQDqaMe_gic",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:44"
+  },
+  {
+    "business_name": "Zam Zam Super Market",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "515571",
+    "phone_number": "+91 97019 02011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "M.B, T Road, near H.P Petrol Bunk, Mulakalacheruvu, Andhra Pradesh 517390",
+    "area": "515571",
+    "latitude": 13.7978174,
+    "longitude": 78.26751639999999,
+    "place_id": "ChIJG_B3DSY5sjsR2Eqb000hbbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_B3DSY5sjsR2Eqb000hbbA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:46"
+  }
+]

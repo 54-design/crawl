@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant, Restaurant",
+    "pincode": "515341",
+    "phone_number": "+91 63025 26879",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 515,
+    "address": "JD Hospital Rd, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.511153099999998,
+    "longitude": 80.6272566,
+    "place_id": "ChIJr2kN9QHwNToRPNpy-Qa-fNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2kN9QHwNToRPNpy-Qa-fNU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:02:02"
+  },
+  {
+    "business_name": "Sairam Tiffins Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "515341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 911,
+    "address": "32-5-7, Mohanchari St, Moghalrajpuram, Suryaraopeta, Vijayawada, Andhra Pradesh 520010",
+    "area": "Moghalrajpuram, Suryaraopeta",
+    "latitude": 16.509169,
+    "longitude": 80.6406318,
+    "place_id": "ChIJATaIhgn7NToRDSXnJe9P5y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATaIhgn7NToRDSXnJe9P5y8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:02:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Relax Restaurant & Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515556",
+    "phone_number": "+91 96666 32527",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "National Highway, opp. HP PETROL PUMP, Anantapur, Burakaylakota, Andhra Pradesh 517351",
+    "area": "515556",
+    "latitude": 13.7310366,
+    "longitude": 78.3458465,
+    "place_id": "ChIJWbR4MVg_sjsRTf3Gvo84hhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbR4MVg_sjsRTf3Gvo84hhU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:29"
+  },
+  {
+    "business_name": "Doon Punjabi family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "515556",
+    "phone_number": "+91 99085 20366",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Chennai Bypass, Madamidipalle, Kadapa, Pathacuddapah, Andhra Pradesh 516505",
+    "area": "Madamidipalle",
+    "latitude": 14.5083308,
+    "longitude": 78.8278359,
+    "place_id": "ChIJQwQoRd1xszsRck6MvWLrp6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwQoRd1xszsRck6MvWLrp6c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:30"
+  }
+]

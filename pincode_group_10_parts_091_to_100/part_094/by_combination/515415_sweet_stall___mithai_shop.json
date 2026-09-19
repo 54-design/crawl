@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva sweets shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515415",
+    "phone_number": "+91 91001 45747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "34H5+P92, Kolimigundla, Andhra Pradesh 518123",
+    "area": "515415",
+    "latitude": 15.0791697,
+    "longitude": 78.10805789999999,
+    "place_id": "ChIJ820KJQAZtDsRqXWyUDAqmw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ820KJQAZtDsRqXWyUDAqmw0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:15:40"
+  },
+  {
+    "business_name": "Vani Sweets - Tikkle Road",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "515415",
+    "phone_number": "+91 90902 22444",
+    "website": "http://www.vanisweets.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "40-5-8, Tikkle Rd, Venkateswara Puram, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Venkateswara Puram, Sidhartha Nagar, Labbipet",
+    "latitude": 16.500688399999998,
+    "longitude": 80.6483995,
+    "place_id": "ChIJ06Qr6sD7NToRRFyPRCbcF7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06Qr6sD7NToRRFyPRCbcF7k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:15:42"
+  }
+]

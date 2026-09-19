@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juicy cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "515511",
+    "phone_number": "+91 87705 91114",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shpo no. 11,kurmi samaj vayaparik parisar, Rahangi Rd, mod, Chakarbhatha, Chhattisgarh 495220",
+    "area": "mod",
+    "latitude": 22.0082441,
+    "longitude": 82.1000859,
+    "place_id": "ChIJ0wrxguRzKDoR3lSiChb_Jwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wrxguRzKDoR3lSiChb_Jwc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:27:40"
+  },
+  {
+    "business_name": "Unique milkshakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "515511",
+    "phone_number": "+91 73046 65384",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unique milkshakes, Lal Baug, Parel, Mumbai, Maharashtra 400012",
+    "area": "Lal Baug, Parel",
+    "latitude": 18.997611499999998,
+    "longitude": 72.8379411,
+    "place_id": "ChIJlWBit4PP5zsRwAfjdC2ksNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWBit4PP5zsRwAfjdC2ksNI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:27:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atia Farmer Producer Company Limited",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "515551",
+    "phone_number": "+91 80190 41161",
+    "website": "https://atiafpcl.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "X5QJ+75C, Nallacheruvu, Andhra Pradesh 515551",
+    "area": "515551",
+    "latitude": 13.9880835,
+    "longitude": 78.1803717,
+    "place_id": "ChIJp05RFAAzsjsRGsivfHVC3Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp05RFAAzsjsRGsivfHVC3Js",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:34:35"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Fish Market",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Bakery and Cake Shop, Dairy Products Supplier, Ice cream shop, Milk delivery service",
+    "pincode": "515551",
+    "phone_number": "+91 88868 87478",
+    "website": "http://hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. 9-68, Tirupati Hwy, near India1 ATM, Nallacheruvu, Andhra Pradesh 515551",
+    "area": "515551",
+    "latitude": 13.987500899999999,
+    "longitude": 78.18028509999999,
+    "place_id": "ChIJl-jeIvQzsjsRd3DS8a0ByzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-jeIvQzsjsRd3DS8a0ByzQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:34:35"
+  }
+]

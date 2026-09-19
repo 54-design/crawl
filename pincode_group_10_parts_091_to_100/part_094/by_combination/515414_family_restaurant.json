@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LN Reddy dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515414",
+    "phone_number": "+91 93906 07881",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 180,
+    "address": "Khajipeta to, to, Kadapa - Gooty Rd, Khajipet Sunkesula, Andhra Pradesh 516163",
+    "area": "515414",
+    "latitude": 14.631937599999999,
+    "longitude": 78.7813974,
+    "place_id": "ChIJ_9ZiIlF7szsRsOKYBwhxvDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9ZiIlF7szsRsOKYBwhxvDE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:14:07"
+  },
+  {
+    "business_name": "BHAVYA’s Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "515414",
+    "phone_number": "+91 89850 19282",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "R655+26W, Chinnamushidiwada, Pendurthi, Chinnamusidivada, Andhra Pradesh 531173",
+    "area": "Chinnamushidiwada, Pendurthi",
+    "latitude": 17.8076483,
+    "longitude": 83.2081123,
+    "place_id": "ChIJnZqhSwBnOToR4txyqg1CAEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZqhSwBnOToR4txyqg1CAEM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:14:09"
+  }
+]

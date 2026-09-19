@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teja Silks",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515445",
+    "phone_number": "+91 94925 54194",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5/177, village, village Naramma colony, Naramma colony, Narasapuram, Andhra Pradesh 515408",
+    "area": "village Naramma colony, Naramma colony",
+    "latitude": 14.9713709,
+    "longitude": 77.8918547,
+    "place_id": "ChIJkbTjhuuntjsR5tzyn_Fhhxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbTjhuuntjsR5tzyn_Fhhxo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:20"
+  },
+  {
+    "business_name": "Nerolac paints",
+    "search_category": "Commercial Complex",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "515445",
+    "phone_number": "N/A",
+    "website": "https://www.nerolac.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Beside tadipatri road, opposite to veterinary hospital Near Peddapappur bustand,515445, 2, Peddapappuru, Andhra Pradesh 515445",
+    "area": "515445",
+    "latitude": 14.9294379,
+    "longitude": 77.860169,
+    "place_id": "ChIJyT4nvDyntjsRvPs6o6PQM04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyT4nvDyntjsRvPs6o6PQM04",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:21"
+  }
+]

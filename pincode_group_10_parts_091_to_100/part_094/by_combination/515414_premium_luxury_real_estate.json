@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sthira Properties Pvt. Ltd.",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "515414",
+    "phone_number": "+91 99895 47149",
+    "website": "http://sthiraproperties.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "406, Kukatpally Housing Board Colony, K P H B Phase 7, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 7, Kukatpally",
+    "latitude": 17.47342,
+    "longitude": 78.38676099999999,
+    "place_id": "ChIJb5JaUgCRyzsRG7IrSrvUGxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5JaUgCRyzsRG7IrSrvUGxQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:15:16"
+  },
+  {
+    "business_name": "LD REAL ESTATES",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial agent, Real Estate Builders & Construction Company, Industrial real estate agency",
+    "pincode": "515414",
+    "phone_number": "+91 95530 08009",
+    "website": "https://boisterous-taiyaki-e4e0c9.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Varamahalakshmi back side, Guduru bhaskararamireddy layout, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Magunta Layout",
+    "latitude": 14.432672,
+    "longitude": 79.9794991,
+    "place_id": "ChIJxZqiAtyNTDoRGHnLbfLHYwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZqiAtyNTDoRGHnLbfLHYwA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:15:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUBBARAO FLOUR MILL",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515331",
+    "phone_number": "+91 80963 67755",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP1, Peddapuram, Andhra Pradesh 533437",
+    "area": "515331",
+    "latitude": 17.1732777,
+    "longitude": 82.1168952,
+    "place_id": "ChIJZ8NEVFh5NzoRwpnQ-VBBN-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8NEVFh5NzoRwpnQ-VBBN-4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:01:38"
+  },
+  {
+    "business_name": "Sri Sai Ganesh Pindi Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "515331",
+    "phone_number": "+91 99123 62526",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "10-148, Araku - Visakhapatnam Rd, Near Bus Stop, Sujatha Nagar, Pendurthi, Purushottapuram, Andhra Pradesh 530051",
+    "area": "Sujatha Nagar, Pendurthi",
+    "latitude": 17.791973199999997,
+    "longitude": 83.2127351,
+    "place_id": "ChIJM1zuMQFnOToR3ftbgnUgon4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1zuMQFnOToR3ftbgnUgon4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:01:38"
+  }
+]

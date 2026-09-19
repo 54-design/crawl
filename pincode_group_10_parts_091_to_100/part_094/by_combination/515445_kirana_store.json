@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suri General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "515445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VVRW+8H9, Kottapalle, J. Kottalapalli, Amalladinne, Andhra Pradesh 515445",
+    "area": "Kottapalle, J. Kottalapalli",
+    "latitude": 14.8907904,
+    "longitude": 77.8964902,
+    "place_id": "ChIJT2AYdACptjsRVt4F6_NSMXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2AYdACptjsRVt4F6_NSMXU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:40"
+  },
+  {
+    "business_name": "Ganesh kirana store and fruit juice shop",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "515445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WVP7+4X8, Peddapappuru, Andhra Pradesh 515445",
+    "area": "515445",
+    "latitude": 14.9354816,
+    "longitude": 77.8651084,
+    "place_id": "ChIJLeU0XACntjsRBxih98L2uW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeU0XACntjsRBxih98L2uW8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:40"
+  }
+]

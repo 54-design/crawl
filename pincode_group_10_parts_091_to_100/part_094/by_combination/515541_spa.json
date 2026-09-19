@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welcome VIP Spa Vijaywada",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515541",
+    "phone_number": "+91 98773 14054",
+    "website": "http://welcomevipspa.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "beside Apsara Theatre, Near N. T. R. Complex, 2 Town, 2 Town, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near N. T. R. Complex, 2 Town, 2 Town, Governor Peta",
+    "latitude": 16.512250299999998,
+    "longitude": 80.6258599,
+    "place_id": "ChIJH0dxzpfxNToRfjy-yMGE4Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0dxzpfxNToRfjy-yMGE4Eo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:41"
+  },
+  {
+    "business_name": "Shine&Smile Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ammavari saala street, beside Balija sangam, Pulivendula, Andhra Pradesh 516390",
+    "area": "515541",
+    "latitude": 14.421443799999999,
+    "longitude": 78.2292181,
+    "place_id": "ChIJh-4celbrszsRjAj8OcfsLNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-4celbrszsRjAj8OcfsLNc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:43"
+  }
+]

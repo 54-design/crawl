@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "515581",
+    "phone_number": "+91 63618 52110",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "135, Uco Bank Road, B Block, C K Layout, Sahakar Nagar, Bengaluru, Karnataka 560092",
+    "area": "B Block, C K Layout, Sahakar Nagar",
+    "latitude": 13.0635243,
+    "longitude": 77.5828356,
+    "place_id": "ChIJr05ZzxgYrjsR5GLfG0jLRdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr05ZzxgYrjsR5GLfG0jLRdg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:42:44"
+  },
+  {
+    "business_name": "Madeena book shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "515581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 14,
+    "address": "opposite venkateswara swamy temple, Pulivendula, Andhra Pradesh 516390",
+    "area": "515581",
+    "latitude": 14.4204332,
+    "longitude": 78.2259574,
+    "place_id": "ChIJA5OlZznrszsRAqMsbRIl8Ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5OlZznrszsRAqMsbRIl8Ek",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:42:45"
+  }
+]

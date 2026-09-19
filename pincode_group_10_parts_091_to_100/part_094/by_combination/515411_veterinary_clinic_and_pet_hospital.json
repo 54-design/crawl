@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakruthi Vet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care, Veterinarian",
+    "pincode": "515411",
+    "phone_number": "+91 98440 57919",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "241/B, 7th Cross Rd, opp. Kamakya Theatre, 6th block, 6th Block, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085",
+    "area": "6th block, 6th Block, Banashankari 3rd Stage, Banashankari",
+    "latitude": 12.924247699999999,
+    "longitude": 77.55370099999999,
+    "place_id": "ChIJ____Pyg-rjsRNz8-Tn8fJLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____Pyg-rjsRNz8-Tn8fJLU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:10:55"
+  },
+  {
+    "business_name": "Lakshmi Pet & Vet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "515411",
+    "phone_number": "+91 87904 52909",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Unnamed Road, Venkataramana Colony, SVR Colony, Kurnool, Andhra Pradesh 518003",
+    "area": "Venkataramana Colony, SVR Colony",
+    "latitude": 15.8356205,
+    "longitude": 78.0203117,
+    "place_id": "ChIJd3VRT2fntTsRnPIav2u-he0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3VRT2fntTsRnPIav2u-he0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:10:55"
+  }
+]

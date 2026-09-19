@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vasavi mega pet mart",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "515405",
+    "phone_number": "+91 70322 89878",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 72,
+    "address": "main road, beside max show room, New Nagole Colony, Nagendra Nagar, Habsiguda, Hyderabad, Telangana 500047",
+    "area": "New Nagole Colony, Nagendra Nagar, Habsiguda",
+    "latitude": 17.4185427,
+    "longitude": 78.5423612,
+    "place_id": "ChIJke0DvR2ZyzsRgAcN96Qsjms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJke0DvR2ZyzsRgAcN96Qsjms",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:07:05"
+  },
+  {
+    "business_name": "Noble Pet & Veterinary medical hall",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "515405",
+    "phone_number": "+91 90002 12552",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 585,
+    "address": "Shop No.G5 & G6,, Quthbullapur, Hyderabad, Telangana 500055",
+    "area": "Bhagyalaxmi Nagar, Quthbullapur",
+    "latitude": 17.5019371,
+    "longitude": 78.4590461,
+    "place_id": "ChIJJdhv_xOQyzsRu7cIie8ocHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdhv_xOQyzsRu7cIie8ocHg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:07:05"
+  }
+]

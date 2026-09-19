@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amogh Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "515556",
+    "phone_number": "+91 86863 71800",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 135,
+    "address": "7/311, Holmes Pet Rd, near Bank of Baroda, Ward 20, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Ward 20, Holmus Pet",
+    "latitude": 14.7520943,
+    "longitude": 78.5526043,
+    "place_id": "ChIJDXfMgoaHszsRm7dA6IhJUMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXfMgoaHszsRm7dA6IhJUMg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:37:30"
+  },
+  {
+    "business_name": "Ganesh Dance Gallery (G Square)",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "515556",
+    "phone_number": "+91 89781 68257",
+    "website": "https://gsquare.dance/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nukalamma Temple St, opp. Ganapathi Towers, Rama Rao Peta, Kakinada, Andhra Pradesh 533001",
+    "area": "Rama Rao Peta",
+    "latitude": 16.964726,
+    "longitude": 82.2346779,
+    "place_id": "ChIJJ6t6KugpODoR073ritU5M0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6t6KugpODoR073ritU5M0g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:37:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poola dandalu",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Bridal shop, Flower delivery, Flower designer, Flower market, Wedding planner, Wedding service, Wholesale florist",
+    "pincode": "515445",
+    "phone_number": "+91 63001 03313",
+    "website": "https://www.pooladandalu.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5-2-112/A, Phool Mandy, Jam Bagh, Hyderabad, Telangana 500012",
+    "area": "Phool Mandy, Jam Bagh",
+    "latitude": 17.382401299999998,
+    "longitude": 78.47765179999999,
+    "place_id": "ChIJgZgAYXmZyzsRKncoUqDPfzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZgAYXmZyzsRKncoUqDPfzE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:39"
+  },
+  {
+    "business_name": "A K Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "515445",
+    "phone_number": "+91 99855 97344",
+    "website": "https://a-k-flower.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 419,
+    "address": "Police Station, beside Vanasthalipuram, opposite Lot showroom, Hastina Puram Colony, TV Colony, Vanasthalipuram, Hyderabad, Telangana 500070",
+    "area": "Hastina Puram Colony, TV Colony",
+    "latitude": 17.3318008,
+    "longitude": 78.5692037,
+    "place_id": "ChIJa_MfxgehyzsR6mZ8jr_Q-4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_MfxgehyzsR6mZ8jr_Q-4w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:40"
+  }
+]

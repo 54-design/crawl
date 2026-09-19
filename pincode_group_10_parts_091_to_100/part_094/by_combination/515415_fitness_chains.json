@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "515415",
+    "phone_number": "+91 82975 33444",
+    "website": "https://goldenfitnessgym.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4th floor, 15-130, Door number 32, Chandra Rajeswara Rao Raod, opp. metro store, Mogalrajapuram, Christurajupuram, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Christurajupuram",
+    "latitude": 16.510280899999998,
+    "longitude": 80.6418731,
+    "place_id": "ChIJC7jxsq77NToReU0SC1qC-A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7jxsq77NToReU0SC1qC-A4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:07"
+  },
+  {
+    "business_name": "Veenas Miracle Aerobics & Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "515415",
+    "phone_number": "+91 80740 86181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-142, Road No. 1, Azad Nagar, Rangaswamy Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Azad Nagar, Rangaswamy Nagar",
+    "latitude": 14.686594699999999,
+    "longitude": 77.59603349999999,
+    "place_id": "ChIJgdCw5s9KsTsRklkwgY8Q4xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdCw5s9KsTsRklkwgY8Q4xM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:07"
+  }
+]

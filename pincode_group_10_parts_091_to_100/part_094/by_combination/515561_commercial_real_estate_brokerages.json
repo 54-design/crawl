@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Momly Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company, Commercial real estate agency, Real Estate Builders & Construction Company, Industrial real estate agency, Property investment company, Real estate agent, Real estate consultant, Real estate developer",
+    "pincode": "515561",
+    "phone_number": "+91 80744 96997",
+    "website": "https://momlyrealtors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No: 11A, 12-1-28/A, Bandlaguda Rd, Vijaya Gardens, Nagole, Hyderabad, Telangana 500068",
+    "area": "Vijaya Gardens, Nagole",
+    "latitude": 17.3716376,
+    "longitude": 78.56713429999999,
+    "place_id": "ChIJTa8xfaufyzsR3xlGPh1vTTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTa8xfaufyzsR3xlGPh1vTTs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:27"
+  },
+  {
+    "business_name": "1trec.com Propertyadviser.in",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Information services, Magazine store, Market, Market researcher, Property administration service, Real estate consultant, Real estate school",
+    "pincode": "515561",
+    "phone_number": "+91 80084 21000",
+    "website": "https://propertyadviser.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "iKeva, Level 3, Nsl Centrum Mall, Rd Number 1, Kukatpally Housing Board Colony, KPHB Phase 2, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, KPHB Phase 2, Kukatpally",
+    "latitude": 17.4832795,
+    "longitude": 78.3935546,
+    "place_id": "ChIJX2Zu6_GRyzsRFARBcDavDPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2Zu6_GRyzsRFARBcDavDPQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:28"
+  }
+]

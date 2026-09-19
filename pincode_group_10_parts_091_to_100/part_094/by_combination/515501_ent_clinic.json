@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhir Ent Head & Neck hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital",
+    "pincode": "515501",
+    "phone_number": "+91 86391 92012",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Door number: 1, 1162/2, BYPASS ROAD, opposite to Siri, Kadiri, Andhra Pradesh 515591",
+    "area": "YSR Nagar",
+    "latitude": 14.1166717,
+    "longitude": 78.1579345,
+    "place_id": "ChIJq4m535fPszsRSsDR6LT8WOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4m535fPszsRSsDR6LT8WOI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:26:17"
+  },
+  {
+    "business_name": "Dr. Suneetha' s ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "515501",
+    "phone_number": "+91 86882 03004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Dr. Suneetha 's ENT Clinic, beside MK Gold Coast, Yendada, Endada, Andhra Pradesh 530045",
+    "area": "Yendada",
+    "latitude": 17.780794699999998,
+    "longitude": 83.3650925,
+    "place_id": "ChIJ-eIbaaxbOToRA1-pcE3uBKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eIbaaxbOToRA1-pcE3uBKs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:26:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Wild Gunman",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "515402",
+    "phone_number": "+91 78923 80752",
+    "website": "http://wildgunmanforce.in/",
+    "rating": 5,
+    "reviews_count": 503,
+    "address": "418 1st Floor, 6th B Cross Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "6th Block, Koramangala",
+    "latitude": 12.942037,
+    "longitude": 77.62270629999999,
+    "place_id": "ChIJT5PdLyAVrjsRAZYWLutM2yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5PdLyAVrjsRAZYWLutM2yw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:06:35"
+  },
+  {
+    "business_name": "GISS Security Services (P) Ltd",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "515402",
+    "phone_number": "+91 80930 14313",
+    "website": "https://www.gisssecurity.com/",
+    "rating": 4.6,
+    "reviews_count": 231,
+    "address": "At-1754, near R.I. Office, Gopalpur, Kataka, Odisha 753011",
+    "area": "515402",
+    "latitude": 20.4289174,
+    "longitude": 85.8799153,
+    "place_id": "ChIJVVVVFW0NGToRb3vppxlbsT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFW0NGToRb3vppxlbsT8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:06:35"
+  }
+]

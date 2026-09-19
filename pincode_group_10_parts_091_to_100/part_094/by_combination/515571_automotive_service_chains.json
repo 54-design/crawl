@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAR-O-MAN",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "515571",
+    "phone_number": "+91 92480 43499",
+    "website": "https://car-o-man.com/",
+    "rating": 4.2,
+    "reviews_count": 668,
+    "address": "Sadguru Nagar, Raghavendra Nagar Colony, L. B. Nagar, Hyderabad, Telangana 500074",
+    "area": "Sadguru Nagar, Raghavendra Nagar Colony, L. B. Nagar",
+    "latitude": 17.3438916,
+    "longitude": 78.5534048,
+    "place_id": "ChIJJ7-knHeZyzsRJg4uJKgoXsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7-knHeZyzsRJg4uJKgoXsQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:29"
+  },
+  {
+    "business_name": "Sadeel Auto Workshop",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "515571",
+    "phone_number": "0309 7040417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Automobile Market, near Shell Petrol Station, F-10 Markaz F 10/4 F-10, Islamabad, 44000, Pakistan",
+    "area": "F-10 Markaz F 10/4 F-10",
+    "latitude": 33.692813,
+    "longitude": 73.014455,
+    "place_id": "ChIJ0Vya1RRM6yQR7b2tDuOnefs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Vya1RRM6yQR7b2tDuOnefs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:30"
+  }
+]

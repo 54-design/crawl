@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Physiotherapy",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "515521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near round building, Shivaji Nagar, Adapala Street, Kadiri, Andhra Pradesh 515591",
+    "area": "Shivaji Nagar, Adapala Street",
+    "latitude": 14.1211471,
+    "longitude": 78.157906,
+    "place_id": "ChIJv0iHY-DPszsRc92t45NU11Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0iHY-DPszsRc92t45NU11Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:30:16"
+  },
+  {
+    "business_name": "SNEHA COUNSELLING & MIND THERAPY CENTRE",
+    "search_category": "Therapy Center",
+    "primary_category": "Psychologist",
+    "all_categories": "Psychologist",
+    "pincode": "515521",
+    "phone_number": "+91 93466 07090",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 838,
+    "address": "Hotel Abhiram Street, opposite of Krishna Chaitanya Junior College, Wahabpet, Nellore, Andhra Pradesh 524003",
+    "area": "Wahabpet",
+    "latitude": 14.445003,
+    "longitude": 79.97949,
+    "place_id": "ChIJd6_C9uLyTDoROx6XM5bjimU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6_C9uLyTDoROx6XM5bjimU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:30:18"
+  }
+]

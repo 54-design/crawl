@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanna Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515408",
+    "phone_number": "+91 85582 21122",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "W256+893, SH 30, Main bazar, Gandhi Katta, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Main bazar, Gandhi Katta",
+    "latitude": 14.908256999999999,
+    "longitude": 78.0109334,
+    "place_id": "ChIJId2F0Z0dtDsRw3bLgEqVyF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJId2F0Z0dtDsRw3bLgEqVyF8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:09:09"
+  },
+  {
+    "business_name": "ELR polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515408",
+    "phone_number": "+91 96496 47944",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10-68, Prasadampadu, currency nagar, Ramavarappadu, Andhra Pradesh 521108",
+    "area": "Prasadampadu, currency nagar",
+    "latitude": 16.5204998,
+    "longitude": 80.6852838,
+    "place_id": "ChIJEyNbs6zlNToRkeZyyULiUaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyNbs6zlNToRkeZyyULiUaE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:09:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Hut Aquarists",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium",
+    "pincode": "515435",
+    "phone_number": "+91 88857 77570",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 375,
+    "address": "Opp:parade ground, Rahamath nagar, main gate, Anantapur, Andhra Pradesh 515001",
+    "area": "main gate",
+    "latitude": 14.6745977,
+    "longitude": 77.5930269,
+    "place_id": "ChIJiUHHfsJKsTsRxcKmqv-suvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUHHfsJKsTsRxcKmqv-suvU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:19:00"
+  },
+  {
+    "business_name": "Fish Paradise Aquatics",
+    "search_category": "Fish Market",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "515435",
+    "phone_number": "+91 70130 50334",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "D.no:- 11, iifl gold loan office, Obuladeva Nagar, 550, obuladeva Nagar, backside, Anantapur, Andhra Pradesh 515001",
+    "area": "obuladeva Nagar, backside",
+    "latitude": 14.668091299999999,
+    "longitude": 77.59655,
+    "place_id": "ChIJDT5lfchLsTsRYpUZgN_GmKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDT5lfchLsTsRYpUZgN_GmKc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:19:01"
+  }
+]

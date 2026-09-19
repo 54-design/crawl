@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alankaar beauty parlour (ladys &childrens)",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5th Cross, Prasanth Nagar, A.V.Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Prasanth Nagar, A.V.Naidu Colony",
+    "latitude": 13.560622299999999,
+    "longitude": 78.50221379999999,
+    "place_id": "ChIJMSiEC4hnsjsR3lubu0EDmMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSiEC4hnsjsR3lubu0EDmMI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:32"
+  },
+  {
+    "business_name": "Roopam Hair Style",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser, Massage spa",
+    "pincode": "515445",
+    "phone_number": "+91 98665 91111",
+    "website": "https://roopamhairstyles.com/",
+    "rating": 4.2,
+    "reviews_count": 926,
+    "address": "Singareni Regional Hospital Down, Dwaraka Nagar, Godavarikhani, Ramagundam, Telangana 505209",
+    "area": "Godavarikhani",
+    "latitude": 18.7398928,
+    "longitude": 79.5094304,
+    "place_id": "ChIJGwbehVHOMjoR6ZOReBVENuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwbehVHOMjoR6ZOReBVENuo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:33"
+  }
+]

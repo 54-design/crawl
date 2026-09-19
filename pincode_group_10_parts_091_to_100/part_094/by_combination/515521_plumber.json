@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electric and plumbing works in Talupula",
+    "search_category": "Plumber",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "515521",
+    "phone_number": "+91 99082 59833",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House no-1/ 79, Talupula, Andhra Pradesh 515581",
+    "area": "515521",
+    "latitude": 14.241086699999999,
+    "longitude": 78.2592629,
+    "place_id": "ChIJ8QiPN1vHszsRc6SK26TNPDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QiPN1vHszsRc6SK26TNPDw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:30:02"
+  },
+  {
+    "business_name": "Nallacheruvu 14",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "515521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X5PP+Q35, Nallacheruvu, Andhra Pradesh 515551",
+    "area": "515521",
+    "latitude": 13.9868933,
+    "longitude": 78.1852281,
+    "place_id": "ChIJPzsrUAAzsjsRXoL9FjAFx-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzsrUAAzsjsRXoL9FjAFx-w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:30:02"
+  }
+]

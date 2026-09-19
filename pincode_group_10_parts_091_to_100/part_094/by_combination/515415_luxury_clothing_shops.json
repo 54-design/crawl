@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amber Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "515415",
+    "phone_number": "+91 86609 33172",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1 st floor, Itagi Complex, Solapur bypass road, behind Itagi Petrol Pump, Vijayapura, Karnataka 586108",
+    "area": "515415",
+    "latitude": 16.8295548,
+    "longitude": 75.68601579999999,
+    "place_id": "ChIJ40-YOQT_xjsRYmG9yB03eao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40-YOQT_xjsRYmG9yB03eao",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:15:56"
+  },
+  {
+    "business_name": "Authentic Vibe",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515415",
+    "phone_number": "+91 89776 75223",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 76,
+    "address": "3rd phase, Bhashyam High School, near by temple bus stop, beside of, Kukatpally Housing Board Colony, KPHB Phase 2, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, KPHB Phase 2, Kukatpally",
+    "latitude": 17.4861064,
+    "longitude": 78.3948752,
+    "place_id": "ChIJgZ4ReVGRyzsRXW72xaZIrS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ4ReVGRyzsRXW72xaZIrS0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:15:57"
+  }
+]

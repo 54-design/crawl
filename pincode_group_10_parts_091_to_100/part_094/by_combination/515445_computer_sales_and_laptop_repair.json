@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun Shine Technology",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "515445",
+    "phone_number": "+91 90590 47806",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 3,
+    "address": "First Floor, Shop No.5 Barracks Masjid, near Collector Office, Andhra Pradesh 524001",
+    "area": "VRC Centre",
+    "latitude": 14.449386599999999,
+    "longitude": 79.9805099,
+    "place_id": "ChIJMy9GCcyMTDoRLdJTRcP98Q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMy9GCcyMTDoRLdJTRcP98Q4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:54"
+  },
+  {
+    "business_name": "Manasa Technologies",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Security system installation service",
+    "pincode": "515445",
+    "phone_number": "+91 88855 47180",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "circle, Shop No.82,New municipal complex, Ground floor, near Clock Tower, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.681173,
+    "longitude": 77.5973623,
+    "place_id": "ChIJlUoDBttKsTsRDUFjeGecu2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUoDBttKsTsRDUFjeGecu2c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:58"
+  }
+]

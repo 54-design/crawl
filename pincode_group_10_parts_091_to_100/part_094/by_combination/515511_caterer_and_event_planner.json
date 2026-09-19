@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nisham Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "515511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 77,
+    "address": "11/A, Pulavar Govindan St, Gandhi Nagar, Avadi, Tamil Nadu 600054",
+    "area": "Gandhi Nagar",
+    "latitude": 13.1199402,
+    "longitude": 80.0921254,
+    "place_id": "ChIJj1CyLzOJUjoRxmBn7HW-1Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1CyLzOJUjoRxmBn7HW-1Ok",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:35"
+  },
+  {
+    "business_name": "Vivahaa Catering Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "515511",
+    "phone_number": "+91 93806 16622",
+    "website": "https://www.vivahaacateringservices.com/",
+    "rating": 4.8,
+    "reviews_count": 113,
+    "address": "62, Nalla Thambi St, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+    "area": "Narayana Krishnaraja Puram, Triplicane",
+    "latitude": 13.0562627,
+    "longitude": 80.277716,
+    "place_id": "ChIJ4R_9FaFoUjoRY1jLYGx_Uec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4R_9FaFoUjoRY1jLYGx_Uec",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:35"
+  }
+]

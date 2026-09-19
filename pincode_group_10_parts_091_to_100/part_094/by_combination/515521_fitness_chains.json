@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit World Penukonda gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "515521",
+    "phone_number": "+91 90309 44471",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "NH7chenekotapalli road, Main Rd, Penukonda, Andhra Pradesh 515110",
+    "area": "515521",
+    "latitude": 14.0855888,
+    "longitude": 77.596476,
+    "place_id": "ChIJIRGZHA5zsTsR-dF8DCK89PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRGZHA5zsTsR-dF8DCK89PI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:47"
+  },
+  {
+    "business_name": "B fit Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515521",
+    "phone_number": "+91 99668 16716",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3HRR+8M7, Penukonda, Andhra Pradesh 515110",
+    "area": "515521",
+    "latitude": 14.090484,
+    "longitude": 77.59206499999999,
+    "place_id": "ChIJyezfEgBzsTsR9nNEN2jEy-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyezfEgBzsTsR9nNEN2jEy-k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopi Laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "515521",
+    "phone_number": "+91 98482 05757",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "8 - 20, Panza Center Road, Vinchipeta, Vijayawada, Andhra Pradesh 520001",
+    "area": "Vinchipeta",
+    "latitude": 16.522367,
+    "longitude": 80.617215,
+    "place_id": "ChIJs7BS6uXvNToR97RioTGPfvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7BS6uXvNToR97RioTGPfvY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:46"
+  },
+  {
+    "business_name": "Annoor Test Labs & Engineering Services",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Civil engineering company",
+    "all_categories": "Civil engineering company, Soil testing service, Water Testing Laboratory",
+    "pincode": "515521",
+    "phone_number": "+91 99080 56677",
+    "website": "https://www.annoorlabs.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2-90 Venus Bazar Opp. Union Bank, Srinagar Colony, Gannavaram, Andhra Pradesh 521101",
+    "area": "Srinagar Colony",
+    "latitude": 16.539965199999997,
+    "longitude": 80.8026486,
+    "place_id": "ChIJoaCrrh8INjoRfImaLDzxh9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaCrrh8INjoRfImaLDzxh9A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:46"
+  }
+]

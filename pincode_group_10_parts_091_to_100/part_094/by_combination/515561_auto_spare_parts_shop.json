@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdalpur Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Auto repair shop",
+    "pincode": "515561",
+    "phone_number": "+91 87701 03224",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "By Pass Road, Adawal, Jagdalpur, Chhattisgarh 494001",
+    "area": "515561",
+    "latitude": 19.0697862,
+    "longitude": 82.0634394,
+    "place_id": "ChIJLdB0wfENMDoRAkrfA-u0OMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdB0wfENMDoRAkrfA-u0OMs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:38"
+  },
+  {
+    "business_name": "Veenne",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "515561",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XXR5+WMX Sai Surya, Sunnampalle, Andhra Pradesh 515561",
+    "area": "515561",
+    "latitude": 13.9923375,
+    "longitude": 77.9595023,
+    "place_id": "ChIJsZh2VADVszsRZg5dV7rM008",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZh2VADVszsRZg5dV7rM008",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:39"
+  }
+]

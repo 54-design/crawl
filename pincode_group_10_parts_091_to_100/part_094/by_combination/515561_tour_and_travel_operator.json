@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Travel Agency Inc",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515561",
+    "phone_number": "+91 89858 16481",
+    "website": "https://www.anandtravelagency.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "50-6-23, vishnalayam Street, Jagannaickpur, Kakinada, Andhra Pradesh 533002",
+    "area": "Jagannaickpur",
+    "latitude": 16.9387832,
+    "longitude": 82.2330478,
+    "place_id": "ChIJvbplvuwnODoREXcBQRdO7N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbplvuwnODoREXcBQRdO7N0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:40"
+  },
+  {
+    "business_name": "Fazal Tours And Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515561",
+    "phone_number": "+91 94402 88923",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "First Floor, Balaji Complex, MM Rd, Havanapet, Shakthi Gudi, Adoni, Andhra Pradesh 518301",
+    "area": "Havanapet, Shakthi Gudi",
+    "latitude": 15.622343899999999,
+    "longitude": 77.27490089999999,
+    "place_id": "ChIJzR6wM91NtjsRRAkLXyVf45E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzR6wM91NtjsRRAkLXyVf45E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:40"
+  }
+]

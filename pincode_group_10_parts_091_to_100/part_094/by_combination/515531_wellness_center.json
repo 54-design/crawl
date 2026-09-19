@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS wellness centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "515531",
+    "phone_number": "+91 89785 34010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "18-13/8/N/130/1/A, Noorinagar A Road, Jahangirabad, Bandlaguda, Chandrayangutta, Hyderabad, Telangana 500005",
+    "area": "Jahangirabad, Bandlaguda, Chandrayangutta",
+    "latitude": 17.310999499999998,
+    "longitude": 78.46158989999999,
+    "place_id": "ChIJFwDEJQC9yzsRCTrK8zUFvtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwDEJQC9yzsRCTrK8zUFvtA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:00"
+  },
+  {
+    "business_name": "S S Wellness Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "515531",
+    "phone_number": "+91 81427 12592",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "near Modern Bawarchi, Naseeb Nagar, Phool Bagh, Baba Nagar, Hyderabad, Telangana 500005",
+    "area": "Naseeb Nagar, Phool Bagh, Baba Nagar",
+    "latitude": 17.330542599999998,
+    "longitude": 78.4858,
+    "place_id": "ChIJvcT65nCjyzsRssyFm4a6t1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcT65nCjyzsRssyFm4a6t1Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:00"
+  }
+]

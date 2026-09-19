@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govardhan Traders",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "515571",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-28, neelamma building, kokantiroad, Kokantikross, Balasamudram, Andhra Pradesh 515571",
+    "area": "kokantiroad, Kokantikross",
+    "latitude": 13.883339399999999,
+    "longitude": 78.21772109999999,
+    "place_id": "ChIJ89DF6RQ3sjsRqdRB7ohbP4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89DF6RQ3sjsRqdRB7ohbP4o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:41:19"
+  },
+  {
+    "business_name": "Sri Ratna Agri Care",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "515571",
+    "phone_number": "+91 94902 33777",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kadiyapulanka, Kadiam, Andhra Pradesh 533126",
+    "area": "Kadiyapulanka",
+    "latitude": 16.8912375,
+    "longitude": 81.8070316,
+    "place_id": "ChIJ8dipbxq9NzoRpUfRU8n5z0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dipbxq9NzoRpUfRU8n5z0o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:41:21"
+  }
+]

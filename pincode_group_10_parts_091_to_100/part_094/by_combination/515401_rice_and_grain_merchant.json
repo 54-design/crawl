@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja rice traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop, Rice wholesaler",
+    "pincode": "515401",
+    "phone_number": "+91 99859 57666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "in front of padmavathi parinaya vedhika, near penamaluru, Poranki, Gangur, Andhra Pradesh 521137",
+    "area": "Poranki",
+    "latitude": 16.4723471,
+    "longitude": 80.7180692,
+    "place_id": "ChIJi3asMGb7NToRUhGTxuZ4o-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3asMGb7NToRUhGTxuZ4o-s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:03:33"
+  },
+  {
+    "business_name": "Gopi rice traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "515401",
+    "phone_number": "+91 63010 31717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9-42-50, KT Rd, Islampet, Vijayawada, Andhra Pradesh 520001",
+    "area": "Islampet",
+    "latitude": 16.524879,
+    "longitude": 80.6113359,
+    "place_id": "ChIJj6mZfQDvNToRqns26Ol_7-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6mZfQDvNToRqns26Ol_7-M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:03:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veman dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Razak Nagar, Vempalli, Andhra Pradesh 516329",
+    "area": "Razak Nagar",
+    "latitude": 14.3638695,
+    "longitude": 78.45600979999999,
+    "place_id": "ChIJK3sd0Fy9szsR1sQpdjDlESQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3sd0Fy9szsR1sQpdjDlESQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:41:58"
+  },
+  {
+    "business_name": "Sri Venkateswara dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "515581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C6CG+MC2, Main Bazar, opp. to majid, Pulivendula, Andhra Pradesh 516390",
+    "area": "515581",
+    "latitude": 14.421631699999999,
+    "longitude": 78.22601689999999,
+    "place_id": "ChIJrW3wJfnrszsROLmZFw2uXpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrW3wJfnrszsROLmZFw2uXpE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:41:58"
+  }
+]

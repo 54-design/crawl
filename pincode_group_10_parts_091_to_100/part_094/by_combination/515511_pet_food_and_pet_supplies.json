@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree tirumalagro",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "515511",
+    "phone_number": "+91 94903 61473",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dorigallu Rd, Mudigubba, Gunjepalle, Andhra Pradesh 515511",
+    "area": "Mudigubba",
+    "latitude": 14.351996999999999,
+    "longitude": 77.9980418,
+    "place_id": "ChIJOemBVvThszsRUyWLtNGelSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOemBVvThszsRUyWLtNGelSg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:27:38"
+  },
+  {
+    "business_name": "PETS MART",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "515511",
+    "phone_number": "+91 88070 97797",
+    "website": "https://petsmartchennai.com/",
+    "rating": 4.9,
+    "reviews_count": 193,
+    "address": "16, 36th St, near Thillai Ganga Nagar Subway, Nanganallur, Thillaiganga Nagar, Nanganallur, Chennai, Tamil Nadu 600061",
+    "area": "Nanganallur, Thillaiganga Nagar, Nanganallur",
+    "latitude": 12.9910388,
+    "longitude": 80.1949997,
+    "place_id": "ChIJDcb7GchnUjoRkU9nhm4zEW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcb7GchnUjoRkU9nhm4zEW0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:27:40"
+  }
+]

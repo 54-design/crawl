@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haritam Restaurant, Mylapore",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "515445",
+    "phone_number": "+91 80158 70354",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 485,
+    "address": "13/7, PS Siva Swamy Rd, Sullivan Garden, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Sullivan Garden, Mylapore",
+    "latitude": 13.0437561,
+    "longitude": 80.2638915,
+    "place_id": "ChIJNe-ueNJnUjoRFTVL4KrgiXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNe-ueNJnUjoRFTVL4KrgiXc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:50"
+  },
+  {
+    "business_name": "Grand Madhuvan NX",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "515445",
+    "phone_number": "+91 824 286 2400",
+    "website": "https://www.ajgrand.com/dining/",
+    "rating": 4.6,
+    "reviews_count": 2197,
+    "address": "Ground Floor, AJ Grand Hotel, Near, Bunts Hostel Rd, Boloor, Hampankatta, Mangaluru, Karnataka 575003",
+    "area": "Boloor, Hampankatta",
+    "latitude": 12.8756048,
+    "longitude": 74.8463476,
+    "place_id": "ChIJo8QwjLhbozsRb0SlnTut3xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8QwjLhbozsRb0SlnTut3xM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandana Shopping Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 417,
+    "address": "ICICI BANK, 3-153-6-2,CTM ROAD,REVENUE WARD 1, OPPOSIT, Madanapalle, Andhra Pradesh 517325",
+    "area": "RRN Colony",
+    "latitude": 13.5594694,
+    "longitude": 78.5095429,
+    "place_id": "ChIJhzdgoP1nsjsRK2144hj4EKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzdgoP1nsjsRK2144hj4EKg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:08:38"
+  },
+  {
+    "business_name": "పామిడి",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515405",
+    "phone_number": "+91 94413 51119",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "11/341, Main Bazaar, Qilla Jamiya Masjid Area, Bodrair, Pamidi, Andhra Pradesh 515775",
+    "area": "Qilla Jamiya Masjid Area, Bodrair",
+    "latitude": 14.943980799999999,
+    "longitude": 77.5924884,
+    "place_id": "ChIJbya_O-m4tjsRZBPj8V0_KbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbya_O-m4tjsRZBPj8V0_KbI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:08:39"
+  }
+]

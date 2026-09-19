@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.Sekhar Leather Goods",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Wholesaler",
+    "pincode": "515413",
+    "phone_number": "+91 94416 90284",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "R2MX+VJC, Police Shopping Complex, Saibaba Talkies Road, Old Bus Stand, Kurnool, Andhra Pradesh 518001",
+    "area": "Kothapeta",
+    "latitude": 15.834676,
+    "longitude": 78.0490097,
+    "place_id": "ChIJcQSOzmXntTsR8VX033GEvgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQSOzmXntTsR8VX033GEvgQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:12:27"
+  },
+  {
+    "business_name": "Bags'n'Belts Dilsukhnagar",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage repair service, Luggage store",
+    "pincode": "515413",
+    "phone_number": "+91 72728 58535",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 412,
+    "address": "Dilsukh Nagar,Shop No.9-36,Sri Jayalaxmi Complex,Beside Megha Theatre, Dilsukh Nagar Main Rd, Gaddiannaram, Anamangal Kumari kunta, Lalitha Nagar, Hyderabad, Telangana 500060",
+    "area": "Gaddiannaram, Anamangal Kumari kunta, Lalitha Nagar, Dilsukhnagar",
+    "latitude": 17.36825,
+    "longitude": 78.526657,
+    "place_id": "ChIJgynXM_GYyzsRvyolTrLvAqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgynXM_GYyzsRvyolTrLvAqg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:12:27"
+  }
+]

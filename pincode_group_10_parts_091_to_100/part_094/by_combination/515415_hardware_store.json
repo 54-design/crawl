@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indusmeno",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "515415",
+    "phone_number": "+91 79817 52642",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Katta, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Gandhi Katta",
+    "latitude": 14.9128072,
+    "longitude": 78.0104348,
+    "place_id": "ChIJzWpeknwdtDsRtik5litc2lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWpeknwdtDsRtik5litc2lQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:16"
+  },
+  {
+    "business_name": "Parameswara Hardwares",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "515415",
+    "phone_number": "+91 96762 66863",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kadapa - Pulivendula Rd, Vempalli, Andhra Pradesh 516329",
+    "area": "515415",
+    "latitude": 14.3657188,
+    "longitude": 78.4500655,
+    "place_id": "ChIJq9tbJO29szsRYpwQdOWs7xE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9tbJO29szsRYpwQdOWs7xE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital",
+    "pincode": "515402",
+    "phone_number": "+91 866 243 2501",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 47,
+    "address": "Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Governor Peta",
+    "latitude": 16.5126094,
+    "longitude": 80.63481519999999,
+    "place_id": "ChIJZ-Y9QLH6NToR49FeaEtNt24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToR49FeaEtNt24",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:44"
+  },
+  {
+    "business_name": "Dr. Surgicals",
+    "search_category": "ENT Clinic",
+    "primary_category": "Dental supply store",
+    "all_categories": "Dental supply store",
+    "pincode": "515402",
+    "phone_number": "+91 94945 84984",
+    "website": "https://drsurgicals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kusuma Gajapathi Nagar, Plot no 49, behind Ashok bungalow, Alakananda Colony, Vizianagaram Cantonment, Vizianagaram, Andhra Pradesh 535003",
+    "area": "Alakananda Colony, Vizianagaram Cantonment",
+    "latitude": 18.1063328,
+    "longitude": 83.3913504,
+    "place_id": "ChIJ3UmoTwDlOzoR13s10xpjZYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UmoTwDlOzoR13s10xpjZYw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:44"
+  }
+]

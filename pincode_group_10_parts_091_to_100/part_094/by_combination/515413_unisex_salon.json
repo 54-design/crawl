@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STUDIO11 Salon & Spa Guntur",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Facial spa, Make-up artist, Nail salon, Spa, Hairdresser, Waxing hair removal service",
+    "pincode": "515413",
+    "phone_number": "+91 94918 88288",
+    "website": "https://www.studio11.co/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1st Floor, D.No.2/7/22, Stambalagaruvu Rd, beside Reliance Smart, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Pattabhipuram",
+    "latitude": 16.312089399999998,
+    "longitude": 80.41475319999999,
+    "place_id": "ChIJ4aXeWRh1SjoRGvguEQElt6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aXeWRh1SjoRGvguEQElt6I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:13:01"
+  },
+  {
+    "business_name": "JWALA BEAUTY CENTER",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler, Cosmetics store",
+    "pincode": "515413",
+    "phone_number": "+91 95512 22201",
+    "website": "http://jwalabeauty.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NO.146, 162, NSC Bose Rd, Sowcarpet, Rattan Bazaar, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Sowcarpet, Rattan Bazaar, George Town",
+    "latitude": 13.0888653,
+    "longitude": 80.28082719999999,
+    "place_id": "ChIJ_874se5mUjoRcTWlq_FiiA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_874se5mUjoRcTWlq_FiiA0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:13:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JV Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry manufacturer",
+    "all_categories": "Jewelry manufacturer, Gold dealer, Jewelry buyer, Pawn shop, Silversmith",
+    "pincode": "515551",
+    "phone_number": "+91 99411 87400",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4/270, 37, Dudhiya, Pari Salai, Mogappair East, Chennai, Tamil Nadu 600037",
+    "area": "Dudhiya, Pari Salai, Mogappair East",
+    "latitude": 13.081312299999999,
+    "longitude": 80.18563189999999,
+    "place_id": "ChIJMZjhnABkUjoRJa1bvMMDBbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZjhnABkUjoRJa1bvMMDBbo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:34:51"
+  },
+  {
+    "business_name": "Repair Gold Jewellery Beads",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry designer, Jewelry manufacturer, Jewelry repair service",
+    "pincode": "515551",
+    "phone_number": "+91 82838 87199",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "60 Ghara Mohalla, Victoria School rd, near Books Market Road, Patiala, Punjab 147001",
+    "area": "Old Lal Bagh Mohalla",
+    "latitude": 30.3303966,
+    "longitude": 76.4018242,
+    "place_id": "ChIJfRGOwvgpEDkRZLmWrwgFl4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRGOwvgpEDkRZLmWrwgFl4g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:34:51"
+  }
+]

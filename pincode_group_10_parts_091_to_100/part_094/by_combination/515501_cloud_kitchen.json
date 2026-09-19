@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Athamma cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "515501",
+    "phone_number": "+91 95424 51236",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4-39, Mallemudi Vari St, Ramavarapadu, vijayawada, Ramavarappadu, Andhra Pradesh 521108",
+    "area": "Ramavarapadu",
+    "latitude": 16.5240257,
+    "longitude": 80.6829352,
+    "place_id": "ChIJO4PfS-vlNToRq0jWssOuQPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4PfS-vlNToRq0jWssOuQPM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:25:59"
+  },
+  {
+    "business_name": "SEED CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "515501",
+    "phone_number": "+91 73823 31113",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "COMMUNITY HALL ROAD STRAIGHT, OASIS WATER PLANT, STREET ENDING, Vaddeswaram, VADDESWARAM, Kolanukonda, Andhra Pradesh 522502",
+    "area": "Vaddeswaram",
+    "latitude": 16.443242899999998,
+    "longitude": 80.6086443,
+    "place_id": "ChIJ-XHDQnzxNToR1kdqO7cEbVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XHDQnzxNToR1kdqO7cEbVs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:26:00"
+  }
+]

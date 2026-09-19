@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasu Net Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "515402",
+    "phone_number": "+91 94403 69329",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "H.no :- 9, Madhura Bhasthi, 3-6/1, opp. childrens park, Sri Ramanjaneya Nagar Colony, Kothagudem, Telangana 507101",
+    "area": "Sri Ramanjaneya Nagar Colony",
+    "latitude": 17.539641,
+    "longitude": 80.6119611,
+    "place_id": "ChIJyfVycUYRNDoRWi36EukPNFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfVycUYRNDoRWi36EukPNFk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:06:28"
+  },
+  {
+    "business_name": "Venkateswara Internet",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "515402",
+    "phone_number": "+91 99490 06065",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dwaraka Nagar",
+    "latitude": 17.728495799999997,
+    "longitude": 83.30610759999999,
+    "place_id": "ChIJX_96EjtDOToRmWif42EnaOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_96EjtDOToRmWif42EnaOg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:06:29"
+  }
+]

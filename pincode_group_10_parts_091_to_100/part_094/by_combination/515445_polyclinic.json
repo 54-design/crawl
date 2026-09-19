@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pallipadi Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515445",
+    "phone_number": "+91 95397 10203",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 38,
+    "address": "VX53+665, Alathiyoor - Kodakkal Rd, Thirunavaya, Triprangode, Keralam 676108",
+    "area": "515445",
+    "latitude": 10.8580588,
+    "longitude": 75.95352009999999,
+    "place_id": "ChIJ7Y1YbgCxpzsRU6QS5wb4aH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Y1YbgCxpzsRU6QS5wb4aH8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:09"
+  },
+  {
+    "business_name": "New Super Specialty Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515445",
+    "phone_number": "+91 85542 30107",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "6-5-563-1, 80 Feet Rd, Andhra Bank Colony, Srinagar Colony, Anantapur, Andhra Pradesh 515004",
+    "area": "Andhra Bank Colony, Srinagar Colony",
+    "latitude": 14.6680035,
+    "longitude": 77.5843103,
+    "place_id": "ChIJAdPXrZRKsTsRJbCguOQOJdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdPXrZRKsTsRJbCguOQOJdI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VCR hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WX5F+VQ2, Railway Station Rd, Nandala Padu, Tadipatri, Nandalapadu Rural, Andhra Pradesh 515411",
+    "area": "Nandala Padu",
+    "latitude": 14.9096426,
+    "longitude": 77.9744003,
+    "place_id": "ChIJe4v_-6sdtDsRKzr5vXknn2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4v_-6sdtDsRKzr5vXknn2g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:02"
+  },
+  {
+    "business_name": "Vyshnavi Medical And General Stores",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna Puram, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Krishna Puram",
+    "latitude": 14.903723099999999,
+    "longitude": 78.01168539999999,
+    "place_id": "ChIJwaMq3awctDsRJlMjIR4wnCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaMq3awctDsRJlMjIR4wnCY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:03"
+  }
+]

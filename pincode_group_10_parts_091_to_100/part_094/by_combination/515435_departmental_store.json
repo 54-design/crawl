@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MALLI GENERAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "515435",
+    "phone_number": "+91 98857 15750",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 43,
+    "address": "Priyanka Nagar, Papampeta, Andhra Pradesh 515004",
+    "area": "Priyanka Nagar",
+    "latitude": 14.702848,
+    "longitude": 77.596245,
+    "place_id": "ChIJc-8U_jG1tjsRH-eONfUQI14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-8U_jG1tjsRH-eONfUQI14",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:18:56"
+  },
+  {
+    "business_name": "Kamal Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "515435",
+    "phone_number": "+91 94401 81350",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 50,
+    "address": "15, Subash Rd, Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "area": "Adimurthy Nagar, Gulzarpet",
+    "latitude": 14.680434499999999,
+    "longitude": 77.5982172,
+    "place_id": "ChIJ-XmebttKsTsR0cJjBpaP540",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XmebttKsTsR0cJjBpaP540",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:18:58"
+  }
+]

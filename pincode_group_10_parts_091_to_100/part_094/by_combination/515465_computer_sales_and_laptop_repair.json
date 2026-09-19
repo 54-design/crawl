@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "515465",
+    "phone_number": "+91 99485 12379",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 182,
+    "address": "Opp:, MORE, beside pavan mess, Ramarao Peta, Kadakatla, Andhra Pradesh 534101",
+    "area": "Ramarao Peta",
+    "latitude": 16.8160964,
+    "longitude": 81.5242691,
+    "place_id": "ChIJ0-uH47C0NzoRRxuSA2EMGEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-uH47C0NzoRRxuSA2EMGEw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:25:19"
+  },
+  {
+    "business_name": "LN LAPTOPS & COMPUTRES Repair shop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "515465",
+    "phone_number": "+91 89771 32516",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "1ST FLOOR SHOP NO-1, RELAINCE MART STREET, BUSSTAND, beside PTC, Shanthi Nagar, Patancheruvu, Hyderabad, Telangana 502319",
+    "area": "Shanthi Nagar",
+    "latitude": 17.5290238,
+    "longitude": 78.2636241,
+    "place_id": "ChIJQ4S2Au_zyzsRw1-Jj61FW2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4S2Au_zyzsRw1-Jj61FW2s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:25:19"
+  }
+]

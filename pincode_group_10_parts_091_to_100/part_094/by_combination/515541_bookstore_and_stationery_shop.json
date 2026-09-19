@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Books & Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store, Computer store",
+    "pincode": "515541",
+    "phone_number": "+91 94485 22440",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1056,
+    "address": "7th Cross Rd, below Bank Of Baroda, KGH Layout, Ganganagar, Bengaluru, Karnataka 560032",
+    "area": "KGH Layout, Ganganagar",
+    "latitude": 13.025409199999999,
+    "longitude": 77.5859244,
+    "place_id": "ChIJHyjsQLAXrjsR_QoiTAy83rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyjsQLAXrjsR_QoiTAy83rw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:59"
+  },
+  {
+    "business_name": "Sapna Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Multimedia and electronic book publisher, Pen store, Book store",
+    "pincode": "515541",
+    "phone_number": "+91 80 4011 4455",
+    "website": "http://www.sapnaretail.com/",
+    "rating": 4.3,
+    "reviews_count": 20685,
+    "address": "3rd Main Rd, Gandhi Nagar, Bengaluru, Karnataka 560009",
+    "area": "Gandhi Nagar",
+    "latitude": 12.9764492,
+    "longitude": 77.578347,
+    "place_id": "ChIJUVaYUiUSrjsRofUMppGxhZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVaYUiUSrjsRofUMppGxhZ4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:34:00"
+  }
+]

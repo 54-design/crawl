@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RMS Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "515581",
+    "phone_number": "+91 94900 97694",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 37,
+    "address": "4, Roads Junction, Razak Nagar, Vempalli, Andhra Pradesh 516329",
+    "area": "Razak Nagar",
+    "latitude": 14.364125999999999,
+    "longitude": 78.456076,
+    "place_id": "ChIJKSS0W1u9szsR12McSdTIfBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSS0W1u9szsR12McSdTIfBw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:41:48"
+  },
+  {
+    "business_name": "SIDDIQ JWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "515581",
+    "phone_number": "+91 95156 48948",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gandhi Rd, near Vempalli, Vempalli, Andhra Pradesh 516329",
+    "area": "515581",
+    "latitude": 14.3643057,
+    "longitude": 78.4562401,
+    "place_id": "ChIJzcIrRXS9szsRNi4O7HrMjBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcIrRXS9szsRNi4O7HrMjBM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:41:48"
+  }
+]

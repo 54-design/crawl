@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aswartha Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "515401",
+    "phone_number": "+91 80 4801 9472",
+    "website": "http://aswarthatraders.com/",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "2/185, Main Bazar, Gooty, Andhra Pradesh 515401",
+    "area": "Main Bazar",
+    "latitude": 15.1229874,
+    "longitude": 77.63251149999999,
+    "place_id": "ChIJbXWeiTeUtjsRMznQdaOhKvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXWeiTeUtjsRMznQdaOhKvg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:03:36"
+  },
+  {
+    "business_name": "ECOVALE INDIA PRIVATE LIMITED",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Grocery delivery service, Indian grocery store, Manufacturer, Oil refinery, Olive oil bottling company, Organic food store, Organic shop, Wholesale grocer, Wholesaler",
+    "pincode": "515401",
+    "phone_number": "+91 63642 41314",
+    "website": "https://www.ecovaleindia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SITE NO 04, SRI VINAYAKA ESTATE, 15/2, Hegganahalli Main Rd, Srigandha Nagar, Sunkadakatte, Bengaluru, Karnataka 560091",
+    "area": "Srigandha Nagar, Sunkadakatte",
+    "latitude": 12.9965871,
+    "longitude": 77.5032378,
+    "place_id": "ChIJX3KjJGc9rjsRANdD8sGdAHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3KjJGc9rjsRANdD8sGdAHg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:03:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bawarchi Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515465",
+    "phone_number": "+91 83413 73722",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "main Bazar, near Union Bank, Pulivendula, Andhra Pradesh 516391",
+    "area": "515465",
+    "latitude": 14.4187847,
+    "longitude": 78.22583829999999,
+    "place_id": "ChIJiQGe_23rszsRD-lywb0ayuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQGe_23rszsRD-lywb0ayuw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:17"
+  },
+  {
+    "business_name": "The Indian Restaurant & Cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "515465",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "Gangashahar, Bikaner City, Rajasthan 334401",
+    "area": "Gangashahar",
+    "latitude": 27.9937635,
+    "longitude": 73.3064254,
+    "place_id": "ChIJv3yjrJbnPzkRKRtSY5_rBqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3yjrJbnPzkRKRtSY5_rBqk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:18"
+  }
+]

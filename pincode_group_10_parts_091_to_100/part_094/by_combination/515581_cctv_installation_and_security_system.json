@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BK enterprises",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Security system installation service",
+    "all_categories": "Security system installation service",
+    "pincode": "515581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C6JJ+2PF, Muddanur road, Pulivendula, Andhra Pradesh 516390",
+    "area": "515581",
+    "latitude": 14.430052499999999,
+    "longitude": 78.23180909999999,
+    "place_id": "ChIJoRIK5W7rszsRFF4qNlPiF0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRIK5W7rszsRFF4qNlPiF0M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:42:47"
+  },
+  {
+    "business_name": "SECURE TECHNOLOGY",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Security system installation service",
+    "all_categories": "Security system installation service, Computer security service",
+    "pincode": "515581",
+    "phone_number": "+91 77103 00366",
+    "website": "http://securetechnology.co.in/",
+    "rating": 4.9,
+    "reviews_count": 455,
+    "address": "NO:6, Srinivasa Pillai St, Chinnaiyan Colony, Perambur, Chennai, Tamil Nadu 600011",
+    "area": "Chinnaiyan Colony, Perambur",
+    "latitude": 13.1117682,
+    "longitude": 80.2494753,
+    "place_id": "ChIJPwlr8btlUjoRxBuIEEoERV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwlr8btlUjoRxBuIEEoERV8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:42:48"
+  }
+]

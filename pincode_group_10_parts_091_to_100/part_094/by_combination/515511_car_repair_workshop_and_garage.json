@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yagos Bolero garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "515511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9X4Q+9PW, Gunjepalle, Andhra Pradesh 515511",
+    "area": "515511",
+    "latitude": 14.3555402,
+    "longitude": 77.9900143,
+    "place_id": "ChIJZ7TiUQDhszsRXORAhzynAus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7TiUQDhszsRXORAhzynAus",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:06"
+  },
+  {
+    "business_name": "Munna garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "515511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9X3R+RV7, Mudigubba, Gunjepalle, Andhra Pradesh 515511",
+    "area": "Mudigubba",
+    "latitude": 14.354542799999999,
+    "longitude": 77.9921864,
+    "place_id": "ChIJYYUtcADhszsRLvQB7w-M4vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYUtcADhszsRLvQB7w-M4vw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:06"
+  }
+]

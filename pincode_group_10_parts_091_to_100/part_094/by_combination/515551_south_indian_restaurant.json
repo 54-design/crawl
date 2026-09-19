@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zamindar Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fusion restaurant",
+    "pincode": "515551",
+    "phone_number": "+91 96428 88994",
+    "website": "https://zamindar-menu.netlify.app/",
+    "rating": 4.4,
+    "reviews_count": 2263,
+    "address": "1st Floor, KSR Towers, Pillar no 1731, 1-98/90/24, Hitech city Main Road, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Phase 2, Kavuri Hills, Madhapur",
+    "latitude": 17.4409266,
+    "longitude": 78.3912679,
+    "place_id": "ChIJl-2Z9b2RyzsRox9jCGJvgq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-2Z9b2RyzsRox9jCGJvgq0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:34:42"
+  },
+  {
+    "business_name": "Davangiri Loni Dosa Center",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Fast food restaurant, Restaurant, South Indian restaurant, Tiffin center",
+    "pincode": "515551",
+    "phone_number": "+91 99229 21331",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ardha Shivaji Putala, Shivaji Peth A Ward, C Ward, Kolhapur, Maharashtra 416012",
+    "area": "Shivaji Peth A Ward, C Ward",
+    "latitude": 16.6922309,
+    "longitude": 74.22029599999999,
+    "place_id": "ChIJfdsjhAkAwTsRXfgwFi_A6Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdsjhAkAwTsRXfgwFi_A6Wk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:34:43"
+  }
+]

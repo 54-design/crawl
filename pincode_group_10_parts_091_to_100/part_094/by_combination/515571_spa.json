@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavani Herbal Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Facial spa",
+    "all_categories": "Facial spa",
+    "pincode": "515571",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Q7RF+6HQ, Kadiri Hwy, Kadirinathunikota, Andhra Pradesh 517390",
+    "area": "515571",
+    "latitude": 13.790584899999999,
+    "longitude": 78.2739778,
+    "place_id": "ChIJSURoSYs5sjsRltmJnjx23VY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSURoSYs5sjsRltmJnjx23VY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:41"
+  },
+  {
+    "business_name": "K.somusekhar house",
+    "search_category": "Spa",
+    "primary_category": "Hammam",
+    "all_categories": "Hammam, House sitter",
+    "pincode": "515571",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eguva thotlipalli Kokkanti cross, Tavalam, Balasamudram, Andhra Pradesh 515571",
+    "area": "515571",
+    "latitude": 13.8822812,
+    "longitude": 78.216809,
+    "place_id": "ChIJQx0RHwAxsjsRs2tk58WBeKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQx0RHwAxsjsRs2tk58WBeKQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:41"
+  }
+]

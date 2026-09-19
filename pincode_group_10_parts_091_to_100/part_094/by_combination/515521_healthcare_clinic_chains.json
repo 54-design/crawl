@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Health Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Diagnostic center",
+    "pincode": "515521",
+    "phone_number": "+91 93911 12092",
+    "website": "http://ashokahealthcare.in/",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Ashoka Health care, Vaibhav Enclave Grace Ln, Road from Vijetha to Sankethika college, Pothinamallayya Palem, Potinamallayyapalem, Andhra Pradesh 530041",
+    "area": "Ratnagiri Housing Board Colony, Pothinamallayya Palem",
+    "latitude": 17.8007413,
+    "longitude": 83.34911629999999,
+    "place_id": "ChIJlwPJN8pbOToRtHEo9p46xMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwPJN8pbOToRtHEo9p46xMc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:48"
+  },
+  {
+    "business_name": "Murali krishna care&cure hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "515521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "Ratnamamba St, Praja Shakti Nagar, Christurajupuram, Vijayawada, Andhra Pradesh 520010",
+    "area": "Praja Shakti Nagar, Christurajupuram",
+    "latitude": 16.509279799999998,
+    "longitude": 80.6422802,
+    "place_id": "ChIJ2zirTIz7NToRmLtwryOPgP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zirTIz7NToRmLtwryOPgP8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:49"
+  }
+]

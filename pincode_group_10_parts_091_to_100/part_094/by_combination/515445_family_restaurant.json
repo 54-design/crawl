@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chicken Gallery",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515445",
+    "phone_number": "+91 82476 10513",
+    "website": "https://www.instagram.com/the_chicken_gallery/",
+    "rating": 4.8,
+    "reviews_count": 40,
+    "address": "209/1, Bramhanandapuram, near KVR petrol bunk, behind Tanishq Jewellery, Ambedkar Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Ambedkar Nagar",
+    "latitude": 14.437252599999999,
+    "longitude": 79.9697904,
+    "place_id": "ChIJb53Bjd_zTDoR-_keL0YW7LY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb53Bjd_zTDoR-_keL0YW7LY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:54"
+  },
+  {
+    "business_name": "DWARAKA Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515445",
+    "phone_number": "+91 97019 65691",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "above Anantapur - Nayanapalli Road, Peravali, Anantapur, Andhra Pradesh 515701",
+    "area": "515445",
+    "latitude": 14.7965102,
+    "longitude": 77.7991071,
+    "place_id": "ChIJ_0shVxqttjsRxUr6q2SmVeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0shVxqttjsRxUr6q2SmVeI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:54"
+  }
+]

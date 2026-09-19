@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avula pullanna milk house",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "515445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MJH4+R79, Old Town, Anantapur, Andhra Pradesh 515001",
+    "area": "Old Town",
+    "latitude": 14.679526,
+    "longitude": 77.6057253,
+    "place_id": "ChIJPU-BGqlLsTsRcOXQ1XAxxiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPU-BGqlLsTsRcOXQ1XAxxiY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:43"
+  },
+  {
+    "business_name": "Chagallu, Andhra Pradesh 515445",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "515445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chagallu, Andhra Pradesh",
+    "area": "515445",
+    "latitude": 14.8714414,
+    "longitude": 77.85959629999999,
+    "place_id": "ChIJ2aAplo2otjsRGPn3o0VIw9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aAplo2otjsRGPn3o0VIw9o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:44"
+  }
+]

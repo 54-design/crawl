@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haritha Restaurant & Bar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bar, Breakfast restaurant",
+    "pincode": "515571",
+    "phone_number": "+91 99516 11050",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Horsley Hills, Andhra Pradesh 517326",
+    "area": "515571",
+    "latitude": 13.6502618,
+    "longitude": 78.3986494,
+    "place_id": "ChIJpU1hTQ5CsjsR2o4dleuH1g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpU1hTQ5CsjsR2o4dleuH1g8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:54"
+  },
+  {
+    "business_name": "Jeevan Family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515571",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Tanakallu, Andhra Pradesh 515571",
+    "area": "515571",
+    "latitude": 13.9043125,
+    "longitude": 78.20231249999999,
+    "place_id": "ChIJC98iQn03sjsR9uq2SqaCQLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC98iQn03sjsR9uq2SqaCQLo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:54"
+  }
+]

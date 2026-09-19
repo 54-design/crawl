@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital marketing agency",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "515413",
+    "phone_number": "+91 84294 80015",
+    "website": "https://digitalanandverma.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Digital marketing agency, 515413, India",
+    "area": "515413",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJyZGuyE9lpQMRWzNEEWtxFeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZGuyE9lpQMRWzNEEWtxFeg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:13:47"
+  },
+  {
+    "business_name": "E-Digital Technologies",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Graphic designer, Web hosting company, Website designer",
+    "pincode": "515413",
+    "phone_number": "+91 96429 32222",
+    "website": "https://edigitaltechnologies.com/digital-marketing-services-in-guntur/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "#3-4-297, Saraswati Complex, Main Rd, near bus stop, SVN Colony, Guntur, Andhra Pradesh 522006",
+    "area": "SVN Colony",
+    "latitude": 16.3267259,
+    "longitude": 80.4153568,
+    "place_id": "ChIJgTRmjYiLNToR4G5dIpVdBg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTRmjYiLNToR4G5dIpVdBg0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:13:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varun Ganesh Traders & Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "515341",
+    "phone_number": "+91 87928 94345",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gantamvarapalli Panchayat Bagepalli, taluk, Chikkaballapur District, Karnataka 561207",
+    "area": "T B Cross",
+    "latitude": 13.786162899999999,
+    "longitude": 77.7756521,
+    "place_id": "ChIJ1Rjp7OePsTsRR9dTFNujiIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Rjp7OePsTsRR9dTFNujiIc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:03:18"
+  },
+  {
+    "business_name": "Prudhviswara Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "515341",
+    "phone_number": "+91 86867 48821",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Yarlagadda, Andhra Pradesh 521126",
+    "area": "515341",
+    "latitude": 16.1368445,
+    "longitude": 80.8936622,
+    "place_id": "ChIJ8Q5P0k33SToRQQilPi-o5vM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Q5P0k33SToRQQilPi-o5vM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:03:20"
+  }
+]

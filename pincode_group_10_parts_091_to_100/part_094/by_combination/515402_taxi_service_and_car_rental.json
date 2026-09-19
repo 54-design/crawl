@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Max cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "515402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FG23+2H4, W Marredpally Rd, Suman Housing Colony, West Marredpally, Secunderabad, Telangana 500026",
+    "area": "Suman Housing Colony, West Marredpally",
+    "latitude": 17.4500056,
+    "longitude": 78.50393989999999,
+    "place_id": "ChIJbSCFFQCbyzsRzJo_s2DaqGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSCFFQCbyzsRzJo_s2DaqGk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:51"
+  },
+  {
+    "business_name": "Greens Rent A Cab – Airport & Outstation Cabs Bangalore",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Sightseeing Tour Operator, Tour agency, Tour operator, Travel agency",
+    "pincode": "515402",
+    "phone_number": "+91 96860 25999",
+    "website": "https://www.greensrentacab.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "304, Manganahalli Rd, Nanda Gokula Layout, Bengaluru, Manganahalli, Karnataka 560060",
+    "area": "Nanda Gokula Layout",
+    "latitude": 12.9549183,
+    "longitude": 77.467733,
+    "place_id": "ChIJFUQeZgA5rjsRhLEcMZ9It4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUQeZgA5rjsRhLEcMZ9It4E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:52"
+  }
+]

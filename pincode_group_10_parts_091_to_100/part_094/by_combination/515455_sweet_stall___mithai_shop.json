@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahendra Mithaiwala",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "515455",
+    "phone_number": "+91 95427 99111",
+    "website": "https://www.mahendramithaiwala.com/",
+    "rating": 4.9,
+    "reviews_count": 748,
+    "address": "Mahendra Mithaiwala Pvt Ltd, 45-56-1/5, KUN BMW LANE, beside INDIAN OIL PETROL PUMP, Narasimha Nagar, Port Quarters, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530024",
+    "area": "Narasimha Nagar, Port Quarters, Akkayyapalem",
+    "latitude": 17.7397618,
+    "longitude": 83.29587579999999,
+    "place_id": "ChIJq0hIrgFDOToRKZ61kutajFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0hIrgFDOToRKZ61kutajFQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:28"
+  },
+  {
+    "business_name": "Gruhapriya",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "515455",
+    "phone_number": "+91 91001 15555",
+    "website": "http://www.gruhapriya.co/",
+    "rating": 4.3,
+    "reviews_count": 2417,
+    "address": "4th Ln, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dwaraka Nagar",
+    "latitude": 17.728116,
+    "longitude": 83.3056137,
+    "place_id": "ChIJbQGbNTtDOToRug-cCqTSQt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQGbNTtDOToRug-cCqTSQt0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:31"
+  }
+]

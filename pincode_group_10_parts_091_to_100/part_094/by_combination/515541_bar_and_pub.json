@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkateshwara cafe",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "515541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "444F+F2C, Mutyala Cheruvu, Andhra Pradesh 515591",
+    "area": "515541",
+    "latitude": 14.1061912,
+    "longitude": 78.1225207,
+    "place_id": "ChIJbUCeVgDPszsRPR_j8afuWLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUCeVgDPszsRPR_j8afuWLM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:58"
+  },
+  {
+    "business_name": "Ironhill Vijayawada",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewery",
+    "all_categories": "Brewery, Beer store",
+    "pincode": "515541",
+    "phone_number": "+91 93931 45678",
+    "website": "https://ironhillindia.com/vijayawada/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "40-7-6 Gowriah Street, Mogalrajapuram, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Sidhartha Nagar, Labbipet",
+    "latitude": 16.5055151,
+    "longitude": 80.64454479999999,
+    "place_id": "ChIJuRCCz7H6NToR3pLnejQ9bA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRCCz7H6NToR3pLnejQ9bA8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:59"
+  }
+]

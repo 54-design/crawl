@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Services Bristol",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "515445",
+    "phone_number": "07855 023268",
+    "website": "http://www.hrservicesbristol.co.uk/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR Services Bristol, 515445, India",
+    "area": "515445",
+    "latitude": 51.468489,
+    "longitude": -2.5907175,
+    "place_id": "ChIJ_WmWyh-bcUgRl5qN1xTF18k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WmWyh-bcUgRl5qN1xTF18k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:04"
+  },
+  {
+    "business_name": "Grownow HR- Job Consultancy Mumbai",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant",
+    "pincode": "515445",
+    "phone_number": "+91 70397 32516",
+    "website": "http://www.grownowhr.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "303, Nuptan Apartment, near MCC College, above Shubham Hotel, Ashok Nagar, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Ashok Nagar, Mulund West",
+    "latitude": 19.1749202,
+    "longitude": 72.9579378,
+    "place_id": "ChIJc2O1DDi55zsR1yUcAc4eF9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2O1DDi55zsR1yUcAc4eF9A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:04"
+  }
+]

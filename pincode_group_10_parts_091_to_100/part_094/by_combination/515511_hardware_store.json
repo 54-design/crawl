@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gowthami Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Construction equipment supplier, Construction Material Wholesaler, Drum store, Electrical products wholesaler, Cement Supplier, Pipes Wholesaler",
+    "pincode": "515511",
+    "phone_number": "+91 99663 38688",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "beside Main road, Ramapuram, Bathalapalli Mandal, Ananthapur, Obulapuram, Andhra Pradesh 515672",
+    "area": "Ramapuram, Bathalapalli Mandal",
+    "latitude": 14.469568899999999,
+    "longitude": 77.8541786,
+    "place_id": "ChIJjXDl9vNZsTsROkWz-oloylg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXDl9vNZsTsROkWz-oloylg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:16"
+  },
+  {
+    "business_name": "SRI TIRUMALA TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "515511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mudigubba, Gunjepalle, Andhra Pradesh 515511",
+    "area": "Mudigubba",
+    "latitude": 14.350717399999999,
+    "longitude": 77.9964059,
+    "place_id": "ChIJU11kHCDeszsRLu_HJPuwVG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU11kHCDeszsRLu_HJPuwVG0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:16"
+  }
+]

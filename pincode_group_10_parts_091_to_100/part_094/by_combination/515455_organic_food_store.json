@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BNK Farm Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "515455",
+    "phone_number": "+91 91223 34449",
+    "website": "https://bnkfarmfoods.com/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "V, M),Krishna(D, 1-104, Opp Bhavanarushi Temple, Gosala, Penamaluru, Vijayawada, Andhra Pradesh 521151",
+    "area": "515455",
+    "latitude": 16.4419269,
+    "longitude": 80.74184129999999,
+    "place_id": "ChIJNX9h7NP9NToRxx8zpjtGoY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX9h7NP9NToRxx8zpjtGoY0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:23"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Dairy store, Dairy Products Supplier, Food products supplier, Dairy, Ice cream shop, Milk delivery service",
+    "pincode": "515455",
+    "phone_number": "+91 95029 79291",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. 1/32, SH 57, Rayalacheruvu, Andhra Pradesh 515001",
+    "area": "515455",
+    "latitude": 15.0534891,
+    "longitude": 77.8187619,
+    "place_id": "ChIJN3eFRPijtjsRZYhwt0qcpGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3eFRPijtjsRZYhwt0qcpGg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:22:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Balaji automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Tractor parts store",
+    "all_categories": "Tractor parts store",
+    "pincode": "515531",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "22J3+892, Obuladevaracheruvu, Andhra Pradesh 515561",
+    "area": "515531",
+    "latitude": 14.030875,
+    "longitude": 78.003658,
+    "place_id": "ChIJ89VlVQDVszsR_i1XPHEEKvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89VlVQDVszsR_i1XPHEEKvo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:31:36"
+  },
+  {
+    "business_name": "Reddys Auto Mobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "515531",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Kadiri Hindupur Rd, Obuladevaracheruvu, Andhra Pradesh 515561",
+    "area": "515531",
+    "latitude": 14.0276237,
+    "longitude": 78.0021793,
+    "place_id": "ChIJx5yQWvLVszsROnRdEFSvfBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5yQWvLVszsROnRdEFSvfBI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:31:38"
+  }
+]

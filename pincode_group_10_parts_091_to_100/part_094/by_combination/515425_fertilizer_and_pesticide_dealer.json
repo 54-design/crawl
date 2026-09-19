@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pesticide Dealers",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "515425",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "16-1-120, Netaji Rd, Vesyalamma Gudivadhi, Tiruchanur, Tirupati, Andhra Pradesh 517501",
+    "area": "Vesyalamma Gudivadhi, Tiruchanur",
+    "latitude": 13.630464,
+    "longitude": 79.414816,
+    "place_id": "ChIJuajAaA9LTToRkf3h0pQFS2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuajAaA9LTToRkf3h0pQFS2w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:18:46"
+  },
+  {
+    "business_name": "Manikanta Fertilizers-Parnapalli",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515425",
+    "phone_number": "+91 96764 68836",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Bus Stand, Parnapalli Village, Lingala Mandal. Ysr, Andhra Pradesh 516396",
+    "area": "515425",
+    "latitude": 14.568109399999999,
+    "longitude": 77.9713867,
+    "place_id": "ChIJGS3lFvH9szsR3MzSIEEcU6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGS3lFvH9szsR3MzSIEEcU6Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:18:46"
+  }
+]

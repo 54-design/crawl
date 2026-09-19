@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Glow & Grace Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tadipatri - Nandyal Hwy, Tadipatri, Sajjaladinne, Andhra Pradesh 515411",
+    "area": "515411",
+    "latitude": 14.9332724,
+    "longitude": 78.01702569999999,
+    "place_id": "ChIJS9TEcvkdtDsRMd8Ps6_Fd-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9TEcvkdtDsRMd8Ps6_Fd-8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:11:18"
+  },
+  {
+    "business_name": "FM Beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515411",
+    "phone_number": "+91 83328 44381",
+    "website": "https://www.fmbeautyparlor.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D.No. 3/517, 1st Rd, Krishna Puram, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Krishna Puram",
+    "latitude": 14.9050041,
+    "longitude": 77.9960504,
+    "place_id": "ChIJTYZYH30dtDsRfd_KGWBOLNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYZYH30dtDsRfd_KGWBOLNU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:11:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Essentials",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "515413",
+    "phone_number": "+91 63642 50714",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 295,
+    "address": "Lower Ground Floor, Plot no. 123 Mansoor Estate, Road No. 12, Banjara Hills, Hyderabad, Telangana 500028",
+    "area": "Amudi Nagar, Bhola Nagar, Banjara Hills",
+    "latitude": 17.4075188,
+    "longitude": 78.4423612,
+    "place_id": "ChIJbd1JojyXyzsRVmLRN6yQOP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbd1JojyXyzsRVmLRN6yQOP8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:12:14"
+  },
+  {
+    "business_name": "HARSHITH PETS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium shop, Bird shop, Pet groomer, Pet store",
+    "pincode": "515413",
+    "phone_number": "+91 77990 72229",
+    "website": "https://vaahispetworld.com/",
+    "rating": 4.2,
+    "reviews_count": 609,
+    "address": "8-3-676/1/B, Srinagar Colony, Yella Reddy Guda, Hyderabad, Telangana 500073",
+    "area": "Srinagar Colony, Yella Reddy Guda",
+    "latitude": 17.4349307,
+    "longitude": 78.43547029999999,
+    "place_id": "ChIJ3ZaoYr6RyzsRunTWlyuZIsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZaoYr6RyzsRunTWlyuZIsc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:12:14"
+  }
+]

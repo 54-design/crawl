@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Next Level Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Corporate office, Event management company, Event planner, Party planner",
+    "pincode": "515321",
+    "phone_number": "+91 79031 33317",
+    "website": "https://nextlevelevents.in/",
+    "rating": 4.5,
+    "reviews_count": 111,
+    "address": "Kanke Rd, Jhirga Toli, Gandhi Nagar, Ranchi, Jharkhand 834002",
+    "area": "Jhirga Toli, Gandhi Nagar",
+    "latitude": 23.4178271,
+    "longitude": 85.3166754,
+    "place_id": "ChIJR_3h7mTh9DkRHcFadLx_clM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_3h7mTh9DkRHcFadLx_clM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 05:59:18"
+  },
+  {
+    "business_name": "Guru Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "515321",
+    "phone_number": "+91 73865 74633",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "my home apartments, Boyapati vari street, 32-22-25, Chandra Rajeswara Rao Raod, near BJP party office, Mogalrajapuram, Vijayawada, Andhra Pradesh 520004",
+    "area": "Mogalrajapuram, Sitharamapuram",
+    "latitude": 16.5127797,
+    "longitude": 80.6414782,
+    "place_id": "ChIJMyO_DqX7NToRmvYtAC1f9Oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyO_DqX7NToRmvYtAC1f9Oo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 05:59:19"
+  }
+]

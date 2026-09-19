@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RukRams Era",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue, Party planner",
+    "pincode": "515561",
+    "phone_number": "+91 95427 22999",
+    "website": "https://rukramsera.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd floor, Opp: Time Hospital & Eagle Furniture Gallery, Sree Plaza, Ashok Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Ashok Nagar",
+    "latitude": 16.4872354,
+    "longitude": 80.6770499,
+    "place_id": "ChIJn0YfvAz7NToRuPSlA7B0wHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0YfvAz7NToRuPSlA7B0wHE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:07"
+  },
+  {
+    "business_name": "Sinny Royal's",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "515561",
+    "phone_number": "+91 95421 93785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CRW2+W99, Kurnool - Chittoor Nat'l Hwy, Chinthakommadinne, Andhra Pradesh 516003",
+    "area": "515561",
+    "latitude": 14.447138299999999,
+    "longitude": 78.8010686,
+    "place_id": "ChIJL9G-CgBzszsRIfLQ4aZ4lpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9G-CgBzszsRIfLQ4aZ4lpI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:09"
+  }
+]

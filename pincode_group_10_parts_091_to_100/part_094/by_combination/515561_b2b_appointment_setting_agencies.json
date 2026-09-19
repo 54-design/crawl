@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Playbook Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "515561",
+    "phone_number": "07590 291303",
+    "website": "https://www.theplaybook.agency/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Playbook Agency, 515561, India",
+    "area": "515561",
+    "latitude": 26.4109716,
+    "longitude": -9.5191572,
+    "place_id": "ChIJE9G4TN0_c2ARzw2cUd8S6Rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9G4TN0_c2ARzw2cUd8S6Rk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:40"
+  },
+  {
+    "business_name": "Global services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "515561",
+    "phone_number": "+91 99494 13771",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Global services, 515561, India",
+    "area": "515561",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:40"
+  }
+]

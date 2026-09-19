@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taste of kerala- cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515402",
+    "phone_number": "+91 86396 71198",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Al-Amin Residency, Sri Sai Janachithanya Colony, Golden Heights Colony, Upperpally, Hyderabad, Telangana 500048",
+    "area": "Sri Sai Janachithanya Colony, Golden Heights Colony",
+    "latitude": 17.3590862,
+    "longitude": 78.4138984,
+    "place_id": "ChIJW6tnQh2XyzsRjjozEKTL18A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6tnQh2XyzsRjjozEKTL18A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:24"
+  },
+  {
+    "business_name": "bestcloudkitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3rd floor, SATTI SOMI REDDY COMPLEX, Ravulapalem, Andhra Pradesh 533238",
+    "area": "515402",
+    "latitude": 16.7624985,
+    "longitude": 81.8419351,
+    "place_id": "ChIJuZnr-wu_NzoRRE5NAXGjtk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZnr-wu_NzoRRE5NAXGjtk4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhoomi hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "515445",
+    "phone_number": "+91 70220 72430",
+    "website": "http://bhoomihardware.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandhi Sons Building, Azizuddin Cross Rd, Azizuddin, Bunder, Mangaluru, Karnataka 575001",
+    "area": "Azizuddin, Bunder",
+    "latitude": 12.8669582,
+    "longitude": 74.8332929,
+    "place_id": "ChIJ5yHeVENbozsRp7V3PJBriHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yHeVENbozsRp7V3PJBriHg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:23"
+  },
+  {
+    "business_name": "Swaroop marketing",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "515445",
+    "phone_number": "+91 97434 88322",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "24-5 328/6, 6th Cross Rd, Attavar, Mangaluru, Karnataka 575001",
+    "area": "Attavar",
+    "latitude": 12.8564247,
+    "longitude": 74.8472247,
+    "place_id": "ChIJkYqvhIlbozsRPTb-pWU4h6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYqvhIlbozsRPTb-pWU4h6Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:23"
+  }
+]

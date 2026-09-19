@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hi Gree Cafe & Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "515465",
+    "phone_number": "+91 73308 63759",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Hi Gree Cafe & Restaurant, Bramhanapalli Road, opposite TDP Party Office, Pulivendula, Andhra Pradesh 516390",
+    "area": "515465",
+    "latitude": 14.4195104,
+    "longitude": 78.2131982,
+    "place_id": "ChIJ2w-b9Y_rszsRs3qXuuaacrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2w-b9Y_rszsRs3qXuuaacrU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:15"
+  },
+  {
+    "business_name": "Akshya Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "515465",
+    "phone_number": "+91 74162 39725",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suzuki show room, opposit, Venkatapuram, Andhra Pradesh 516391",
+    "area": "515465",
+    "latitude": 14.410572499999999,
+    "longitude": 78.2288153,
+    "place_id": "ChIJgWdewXzrszsRAn_OhP5tO8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWdewXzrszsRAn_OhP5tO8s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:15"
+  }
+]

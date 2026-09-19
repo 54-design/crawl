@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS POLYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pulivendula, Andhra Pradesh 516390",
+    "area": "515541",
+    "latitude": 14.4248999,
+    "longitude": 78.2309724,
+    "place_id": "ChIJ_wG43bvrszsRAgHJcLBWTbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wG43bvrszsRAgHJcLBWTbk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:15"
+  },
+  {
+    "business_name": "Dr Lath Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Diabetologist",
+    "all_categories": "Diabetologist, Blood testing service, Dentist, General practitioner, Pathologist",
+    "pincode": "515541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 2176,
+    "address": "Sarbahal Rd, Sarbahal, Jharsuguda, Odisha 768201",
+    "area": "Sarbahal",
+    "latitude": 21.846479199999997,
+    "longitude": 84.0129236,
+    "place_id": "ChIJVQ10C6vmIDoR8X1pbN1W84c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQ10C6vmIDoR8X1pbN1W84c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:16"
+  }
+]

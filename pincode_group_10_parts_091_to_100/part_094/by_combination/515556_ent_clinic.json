@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT Dr. Rammohan S.",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515556",
+    "phone_number": "+91 82512 34238",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 89,
+    "address": "Q656+P7J, Kallare, Darbe, Puttur, Karnataka 574202",
+    "area": "Kallare, Darbe",
+    "latitude": 12.759326999999999,
+    "longitude": 75.21063339999999,
+    "place_id": "ChIJkfknqji9pDsRvZRAJ-6qLrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfknqji9pDsRvZRAJ-6qLrg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:50"
+  },
+  {
+    "business_name": "SOWMYA ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "515556",
+    "phone_number": "+91 82771 99777",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 32,
+    "address": "Dr. Vishnuprasad K P, Krishna Arcade, opp. Dhanvanthari Hospital, Kallare, Darbe, Puttur, Karnataka 574202",
+    "area": "Kallare, Darbe",
+    "latitude": 12.7587905,
+    "longitude": 75.2101299,
+    "place_id": "ChIJdQDTy4W9pDsRSsPmQeZ5Akg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQDTy4W9pDsRSsPmQeZ5Akg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:50"
+  }
+]

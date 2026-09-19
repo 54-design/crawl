@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ULLAPPA Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "515541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 44,
+    "address": "Jai Maa Colony, Pulivendula, Venkatapuram, Andhra Pradesh 516391",
+    "area": "515541",
+    "latitude": 14.4085752,
+    "longitude": 78.2383662,
+    "place_id": "ChIJtytS21LqszsRXCqvece60EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtytS21LqszsRXCqvece60EI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:53"
+  },
+  {
+    "business_name": "Tea Hunt",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "515541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Muddanuru, Pulivendula Ring Rd, Pulivendula, Pedda ranga puram, Andhra Pradesh 516390",
+    "area": "515541",
+    "latitude": 14.4374767,
+    "longitude": 78.2313254,
+    "place_id": "ChIJt-WO4PPrszsRRjH195SLRYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-WO4PPrszsRRjH195SLRYc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:56"
+  }
+]

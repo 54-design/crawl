@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMMON SERVICE CENTRE (CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center, Central Government Office",
+    "pincode": "515531",
+    "phone_number": "+91 98490 11015",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "under cell tower, 3 cross, JNTU Rd, Chinmaya Nagar, Prasannaya Palli, Anantapur, Rapthadu, Andhra Pradesh 515002",
+    "area": "Chinmaya Nagar, Prasannaya Palli",
+    "latitude": 14.6409202,
+    "longitude": 77.6086893,
+    "place_id": "ChIJA7kcYK1LsTsRnHpO-vPESHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7kcYK1LsTsRnHpO-vPESHU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:16"
+  },
+  {
+    "business_name": "MeeSeva Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center",
+    "pincode": "515531",
+    "phone_number": "+91 94416 68975",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "area": "Adimurthy Nagar, Gulzarpet",
+    "latitude": 14.6790948,
+    "longitude": 77.5986257,
+    "place_id": "ChIJ6YygZdxKsTsR2Etroas1Ca4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YygZdxKsTsR2Etroas1Ca4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:32:16"
+  }
+]

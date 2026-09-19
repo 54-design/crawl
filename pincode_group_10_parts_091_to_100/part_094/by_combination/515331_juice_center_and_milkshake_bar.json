@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sugar cane juice centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "515331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Gorantla- Hindupur - Banglore Rd, Mallapalle, Andhra Pradesh 515231",
+    "area": "515331",
+    "latitude": 13.9700172,
+    "longitude": 77.732841,
+    "place_id": "ChIJbWawaBp5sTsRPdoYcDhpcyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWawaBp5sTsRPdoYcDhpcyk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:00:11"
+  },
+  {
+    "business_name": "Juice Factory",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "515331",
+    "phone_number": "+91 62625 20200",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5, Kachna Pahuch Marg, Fafadih, Sector 1, Indravati Colony, Raipur, Chhattisgarh 492004",
+    "area": "Fafadih, Sector 1, Indravati Colony",
+    "latitude": 21.250087,
+    "longitude": 81.66247489999999,
+    "place_id": "ChIJr7PGF2zdKDoRzi1KMqht5i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7PGF2zdKDoRzi1KMqht5i4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:00:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Antique Luggage & Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Luggage store",
+    "pincode": "515445",
+    "phone_number": "+91 40 6574 5255",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "Street Number 7, Hill Colony, Veer Nagar, Chintal, Hyderabad, Telangana 500004",
+    "area": "Hill Colony, Veer Nagar, Chintal",
+    "latitude": 17.4090417,
+    "longitude": 78.45826459999999,
+    "place_id": "ChIJ61tDAESXyzsRhLkNqCnLyVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61tDAESXyzsRhLkNqCnLyVI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:01"
+  },
+  {
+    "business_name": "Royal Luggage World",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Shopping mall",
+    "pincode": "515445",
+    "phone_number": "+91 90006 11574",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 321,
+    "address": "Peshawari Plaza, Abids South, Nampally, Hyderabad, Telangana 500001",
+    "area": "Abids South, Nampally",
+    "latitude": 17.3881153,
+    "longitude": 78.473475,
+    "place_id": "ChIJRW4sYX2XyzsRLqyjKloo2XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRW4sYX2XyzsRLqyjKloo2XE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:01"
+  }
+]

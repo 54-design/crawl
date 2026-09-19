@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash Parbat",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, North Indian restaurant",
+    "pincode": "515414",
+    "phone_number": "+91 74491 12244",
+    "website": "http://www.kailashparbatgroup.com/",
+    "rating": 4.7,
+    "reviews_count": 5715,
+    "address": "C8 & C9 Phase 1, Arcot Rd, TNHB, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "area": "TNHB, Sathuvachari",
+    "latitude": 12.9378655,
+    "longitude": 79.16534949999999,
+    "place_id": "ChIJBZ9Zn4s5rTsRqamTHguKEnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZ9Zn4s5rTsRqamTHguKEnE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:14:04"
+  },
+  {
+    "business_name": "Vasista's Dark World Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Restaurant",
+    "pincode": "515414",
+    "phone_number": "+91 90102 94441",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 337,
+    "address": "New Venkat Reddy Complex, Kadapa - Tirupati Rd, beside Sivalayam, Sainagar, Rajampet, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.1959466,
+    "longitude": 79.16226739999999,
+    "place_id": "ChIJvUGvejclszsR84FmdiRWmqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUGvejclszsR84FmdiRWmqw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:14:04"
+  }
+]

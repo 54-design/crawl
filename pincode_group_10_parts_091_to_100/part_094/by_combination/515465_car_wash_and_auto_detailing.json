@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa car service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515465",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thimmapuram - Yellanur Rd, Tadipatri, Venkaiah Kalva, Andhra Pradesh 516464",
+    "area": "515465",
+    "latitude": 14.7242176,
+    "longitude": 78.1050206,
+    "place_id": "ChIJ6bt2koUHtDsRWkBAiR1iu44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bt2koUHtDsRWkBAiR1iu44",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:39"
+  },
+  {
+    "business_name": "Kaveri water wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515465",
+    "phone_number": "+91 73309 20222",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 20,
+    "address": "Lakshmi Nagar Main Rd, beside Ravi petrol pump, opp. to National Highway 44, Lakshmi Nagar, Anantapur, Andhra Pradesh 515004",
+    "area": "Lakshmi Nagar",
+    "latitude": 14.678789,
+    "longitude": 77.5826664,
+    "place_id": "ChIJD6CT_UJLsTsRcvnEQSzl6_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6CT_UJLsTsRcvnEQSzl6_Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:41"
+  }
+]

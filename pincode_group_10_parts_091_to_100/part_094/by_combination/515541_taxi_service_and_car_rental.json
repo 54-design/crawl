@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andaman Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Cruise agency, SCUBA tour agency, Travel agency, Water sports equipment rental service",
+    "pincode": "515541",
+    "phone_number": "+91 99332 63867",
+    "website": "http://www.andamancab.in/",
+    "rating": 4.9,
+    "reviews_count": 549,
+    "address": "Shop No. 01, Pulikeezu Bhavan, Bargat Line, near juvenile home, DRDO TRANSIST, Nayagaon, Sri Vijaya Puram, Andaman and Nicobar Islands 744112",
+    "area": "DRDO TRANSIST, Nayagaon",
+    "latitude": 11.647823899999999,
+    "longitude": 92.74363679999999,
+    "place_id": "ChIJhYdy99KViDAR0DSZITxYI4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYdy99KViDAR0DSZITxYI4s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:27"
+  },
+  {
+    "business_name": "Monisha Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "515541",
+    "phone_number": "+91 99007 79933",
+    "website": "http://www.monishacab.com/",
+    "rating": 4.9,
+    "reviews_count": 368,
+    "address": "post office, 19, 1st Cross Rd, near Coffee board layout, Sandyagappa Reddy Layout, Sandhyagappa layout, Coffee Board Layout, Hebbal Kempapura, Bengaluru, Karnataka 560064",
+    "area": "Sandyagappa Reddy Layout, Sandhyagappa layout, Coffee Board Layout, Hebbal Kempapura",
+    "latitude": 13.0489055,
+    "longitude": 77.6075671,
+    "place_id": "ChIJgTg_uWgZrjsRWrM7qQvcwUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTg_uWgZrjsRWrM7qQvcwUI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:27"
+  }
+]

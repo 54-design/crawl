@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Party Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Catering equipment rental service, Event management company, Magician, Party planner",
+    "pincode": "515413",
+    "phone_number": "+91 95324 57598",
+    "website": "http://thepartydecor.digitalintouch.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Baba Ki Mazar, Copar Hospital Sayad, Naval Kishore Rd, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.8493265,
+    "longitude": 80.9459761,
+    "place_id": "ChIJk2HIzmD9mzkRV6y1aF9qJC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2HIzmD9mzkRV6y1aF9qJC0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:13:07"
+  },
+  {
+    "business_name": "MY Balloons MAHATHI EVENTS",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Balloon store, Party store",
+    "pincode": "515413",
+    "phone_number": "+91 90006 10972",
+    "website": "https://instagram.com/myballoonskukatpally?igshid=OGQ5ZDc2ODk2ZA==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st floor, Pragathi Nagar Rd, opp. MedPlus, HMT Hills, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "HMT Hills, Kukatpally",
+    "latitude": 17.5036305,
+    "longitude": 78.3956147,
+    "place_id": "ChIJBXP-O9CRyzsRzg3EmwUTCGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXP-O9CRyzsRzg3EmwUTCGo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:13:09"
+  }
+]

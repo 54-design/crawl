@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ECCHO Overseas",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "515455",
+    "phone_number": "+91 70936 03056",
+    "website": "https://ecchouk.co.uk/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sri Mannem Residency Building, Door No: 9-2-42, 2nd floor, Old Bustand Center, opposite to TDP office, Sattenapalle, Andhra Pradesh 522403",
+    "area": "515455",
+    "latitude": 16.3934674,
+    "longitude": 80.150335,
+    "place_id": "ChIJQ0kwPpiBNToRV17Dz4_Lqww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0kwPpiBNToRV17Dz4_Lqww",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:23:33"
+  },
+  {
+    "business_name": "Heshritha Education services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "515455",
+    "phone_number": "N/A",
+    "website": "https://www.heshrithaeducational.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "CXQC+2XF, Somasekara Puram, Nellore, Andhra Pradesh 524003",
+    "area": "Somasekara Puram",
+    "latitude": 14.4375641,
+    "longitude": 79.9724325,
+    "place_id": "ChIJ43PASADzTDoRAbVvjV5dReI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43PASADzTDoRAbVvjV5dReI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:23:36"
+  }
+]

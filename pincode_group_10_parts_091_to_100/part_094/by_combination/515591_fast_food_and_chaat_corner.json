@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kwaja fast foods",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "515591",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Kadiri Hindupur Rd, Revenue Colony, Kadiri, Andhra Pradesh 515591",
+    "area": "Revenue Colony",
+    "latitude": 14.116637599999999,
+    "longitude": 78.15614049999999,
+    "place_id": "ChIJFz5S36LPszsRZR13e11aDWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFz5S36LPszsRZR13e11aDWI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:43:28"
+  },
+  {
+    "business_name": "Sri vani Home Foods",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515591",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FP9F+JX9, Vijayawada - Gudivada Rd, Gangur, Andhra Pradesh 521137",
+    "area": "515591",
+    "latitude": 16.469038599999998,
+    "longitude": 80.7249733,
+    "place_id": "ChIJoR4vs4b9NToRV1blzDsEHHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR4vs4b9NToRV1blzDsEHHk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:43:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M K Enterprises",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "515561",
+    "phone_number": "+91 86396 38069",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Medicover Hospital, beside CMR function Hall, MVP Sector 3, Sector 4, MVP Colony, Visakhapatnam, Andhra Pradesh 531017",
+    "area": "MVP Sector 3, Sector 4, MVP Colony",
+    "latitude": 17.7413117,
+    "longitude": 83.3345037,
+    "place_id": "ChIJBTDnXeBDOToRtODYGllF4ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTDnXeBDOToRtODYGllF4ss",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:33"
+  },
+  {
+    "business_name": "Re life Home Healthcare | Medical Equipment Services",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Diabetes equipment supplier, Nursing agency, Oxygen equipment supplier, Wheelchair rental service",
+    "pincode": "515561",
+    "phone_number": "+91 94937 67680",
+    "website": "https://relifemedicalequipments.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.No: 18-186/1, opp. Apollo Hospital, Arilova Chinnagadili, Health City, Visakhapatnam, Andhra Pradesh 530040",
+    "area": "Arilova Chinnagadili, Health City",
+    "latitude": 17.7602106,
+    "longitude": 83.3156929,
+    "place_id": "ChIJeWsKW3ldOToRD02dqALt0hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWsKW3ldOToRD02dqALt0hk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:35"
+  }
+]

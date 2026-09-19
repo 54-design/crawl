@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Central md fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515425",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "M756+2WH, B.Kothakota, Andhra Pradesh 517370",
+    "area": "515425",
+    "latitude": 13.657564299999999,
+    "longitude": 78.2623539,
+    "place_id": "ChIJG6mFRAA_sjsRLJRXEJDS1wM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6mFRAA_sjsRLJRXEJDS1wM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:17:49"
+  },
+  {
+    "business_name": "Smart Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515425",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "MJC2+G3M, near Dena Bank, Ashok Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Ashok Nagar",
+    "latitude": 14.671346199999999,
+    "longitude": 77.6001749,
+    "place_id": "ChIJGymTHedKsTsRq-xZ75rvPbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGymTHedKsTsRq-xZ75rvPbg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:17:50"
+  }
+]

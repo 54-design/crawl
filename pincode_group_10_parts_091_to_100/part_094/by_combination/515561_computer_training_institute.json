@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Equator Computers",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "515561",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "T.P, Gudem Rd, near Union Bank, Maruteru, Andhra Pradesh 534122",
+    "area": "515561",
+    "latitude": 16.6251922,
+    "longitude": 81.7388455,
+    "place_id": "ChIJjxV1BFDFNzoRcKk9rN3B_B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxV1BFDFNzoRcKk9rN3B_B0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:12"
+  },
+  {
+    "business_name": "CT&T Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center, School",
+    "pincode": "515561",
+    "phone_number": "+91 88142 26660",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RANGAMANNAR PET GODAVARI COMPLEX, behind Rama Studio, Palakollu, Andhra Pradesh 534260",
+    "area": "515561",
+    "latitude": 16.5178421,
+    "longitude": 81.7271655,
+    "place_id": "ChIJxQOxMOPaNzoReryk9EQp400",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQOxMOPaNzoReryk9EQp400",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:39:12"
+  }
+]

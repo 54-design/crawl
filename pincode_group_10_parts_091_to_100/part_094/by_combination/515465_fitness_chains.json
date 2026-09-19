@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hills fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515465",
+    "phone_number": "+91 74188 66575",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "S.M.T. Complex, Yellanalli - Kethorai Rd, opposite to mosque, Yellanalli, Ketti, Tamil Nadu 643243",
+    "area": "515465",
+    "latitude": 11.3784061,
+    "longitude": 76.7424178,
+    "place_id": "ChIJbdE2BSKVqDsRj9GEkOB0fLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdE2BSKVqDsRj9GEkOB0fLI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:37"
+  },
+  {
+    "business_name": "PULSE FITNESS STUDIO 1.0",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515465",
+    "phone_number": "+91 94916 67700",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "opp. cement godown, Vidyuth Nagar, Sharada Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Vidyuth Nagar, Sharada Nagar",
+    "latitude": 14.6642897,
+    "longitude": 77.5955355,
+    "place_id": "ChIJ02vREC1LsTsRPDDciwcHxc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02vREC1LsTsRPDDciwcHxc4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:24:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali bike point and bike electrical works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop, Mechanic",
+    "pincode": "515521",
+    "phone_number": "+91 63057 55719",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kadiri Hwy, Old City, Kadiri, Andhra Pradesh 515591",
+    "area": "Old City",
+    "latitude": 14.105101699999999,
+    "longitude": 78.161501,
+    "place_id": "ChIJLRE4lZjPszsRwPSTa6yTcCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRE4lZjPszsRwPSTa6yTcCI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:53"
+  },
+  {
+    "business_name": "Sri santhosi mata bike mechanic shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "515521",
+    "phone_number": "+91 98854 28774",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2-1-11-2, Ramnagar, Mindi, Gajuwaka, Andhra Pradesh 530012",
+    "area": "Ramnagar, Mindi",
+    "latitude": 17.7023243,
+    "longitude": 83.2062911,
+    "place_id": "ChIJlW9oWv5pOToRGPiD0_2iYSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlW9oWv5pOToRGPiD0_2iYSs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:54"
+  }
+]

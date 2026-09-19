@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayush ayurveda wellness centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "515571",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V67F+CPP, Kokkanti, Tavalam, Andhra Pradesh 515571",
+    "area": "515571",
+    "latitude": 13.8635934,
+    "longitude": 78.2243417,
+    "place_id": "ChIJhScHSwA3sjsRuPIgi8X41Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhScHSwA3sjsRuPIgi8X41Ys",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:44"
+  },
+  {
+    "business_name": "Thamballapalle 2 Health center",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515571",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RCGP+897, Thamballapalle, Andhra Pradesh 517418",
+    "area": "515571",
+    "latitude": 13.8255699,
+    "longitude": 78.4358379,
+    "place_id": "ChIJEV7tEwBPsjsRjCH_mlxZ2eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEV7tEwBPsjsRjCH_mlxZ2eo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:47"
+  }
+]

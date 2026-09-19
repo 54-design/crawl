@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sowmya's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "515435",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MJX2+JFP, Somaladoddi, Andhra Pradesh 515001",
+    "area": "515435",
+    "latitude": 14.699086399999999,
+    "longitude": 77.6011927,
+    "place_id": "ChIJ8WHbUTO1tjsRdMdt8PI1h8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WHbUTO1tjsRdMdt8PI1h8I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:19:07"
+  },
+  {
+    "business_name": "Nellore Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515435",
+    "phone_number": "N/A",
+    "website": "https://www.zomato.com/nellore/nellore-cloud-kitchen-nellore-locality/order",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Door No : 26-16-62/3, Shop No-4 Vardhan Reddy College Buiding, Kaveri Nagar, ISKCON City, Nellore, Andhra Pradesh 524004",
+    "area": "ISKCON City, Kondayapalem",
+    "latitude": 14.419484299999999,
+    "longitude": 79.9773366,
+    "place_id": "ChIJF3Av8y7zTDoRiwthVKxsCbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3Av8y7zTDoRiwthVKxsCbg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:19:07"
+  }
+]

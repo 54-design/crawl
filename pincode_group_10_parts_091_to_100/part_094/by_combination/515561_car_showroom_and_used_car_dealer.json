@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CS CARS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "515561",
+    "phone_number": "+91 90309 67770",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "X7H4+R37, Gandhiji Rd, Gudari Gunta, Vakalapudi, Andhra Pradesh 533003",
+    "area": "Gudari Gunta",
+    "latitude": 16.979628299999998,
+    "longitude": 82.2548231,
+    "place_id": "ChIJXdY-cgMpODoRcWGgglT83_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdY-cgMpODoRcWGgglT83_M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:37"
+  },
+  {
+    "business_name": "PREMIUM HONDA",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Honda dealer",
+    "all_categories": "Honda dealer",
+    "pincode": "515561",
+    "phone_number": "+91 91212 12008",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Gorantla, Andhra Pradesh 515231",
+    "area": "515561",
+    "latitude": 13.9826377,
+    "longitude": 77.76399669999999,
+    "place_id": "ChIJO9uckQh5sTsR9Q-lNnvk3zU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9uckQh5sTsR9Q-lNnvk3zU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:38:39"
+  }
+]

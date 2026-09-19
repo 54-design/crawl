@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DSC WAREHOUSE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "515311",
+    "phone_number": "N/A",
+    "website": "http://gw.godsc.co.kr/",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "XM7J+CMC, Palasamudram, Andhra Pradesh 515241",
+    "area": "515311",
+    "latitude": 13.9635567,
+    "longitude": 77.681669,
+    "place_id": "ChIJT0a7tc2dsTsRqJZ8G18XLPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0a7tc2dsTsRqJZ8G18XLPI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 05:57:24"
+  },
+  {
+    "business_name": "SHRI AUTO REPAIRING & SERVICING CENTER",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "515311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chhattisgarh 491221",
+    "area": "515311",
+    "latitude": 21.0929787,
+    "longitude": 81.27066459999999,
+    "place_id": "ChIJX4rOsTk6KToRvMilJ61PNp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4rOsTk6KToRvMilJ61PNp4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 05:57:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Empire Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515551",
+    "phone_number": "+91 77670 15741",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 123,
+    "address": "Shahupuri 5th Ln, Shahupuri, Kolhapur, Maharashtra 416001",
+    "area": "Shahupuri",
+    "latitude": 16.7007878,
+    "longitude": 74.2318597,
+    "place_id": "ChIJbc1MXV8BwTsRhjZS1Ptg9Yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbc1MXV8BwTsRhjZS1Ptg9Yc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:35:32"
+  },
+  {
+    "business_name": "Grace SPA Consultant",
+    "search_category": "Spa Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "515551",
+    "phone_number": "+91 70301 04037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unit No 126, Kamlesh Apartment, Sher E Punjab Colony, Andheri East, Mumbai, Maharashtra 400069",
+    "area": "Sher E Punjab Colony, Andheri East",
+    "latitude": 19.1244782,
+    "longitude": 72.85324589999999,
+    "place_id": "ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:35:32"
+  }
+]

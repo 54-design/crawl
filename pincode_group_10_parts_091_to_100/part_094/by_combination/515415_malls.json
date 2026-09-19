@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Granite",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W2H3+W7G, Tadipatri - Gooty Rd, Padamatigeri, Chukkalur, Sajjaladinne, Andhra Pradesh 515415",
+    "area": "Padamatigeri",
+    "latitude": 14.9298004,
+    "longitude": 78.0032033,
+    "place_id": "ChIJ55eXU3AdtDsRf34htGv7kaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55eXU3AdtDsRf34htGv7kaM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:17:14"
+  },
+  {
+    "business_name": "Gayatri Book Stall",
+    "search_category": "Malls",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515415",
+    "phone_number": "+91 90100 02349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Tadipatri Road Yellnoor Road., near Target School, Andhra Pradesh 515411",
+    "area": "Krishna Puram",
+    "latitude": 14.9058491,
+    "longitude": 78.0109688,
+    "place_id": "ChIJ2RYtUqwctDsRAjAzDopU6Yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RYtUqwctDsRAjAzDopU6Yk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:17:15"
+  }
+]

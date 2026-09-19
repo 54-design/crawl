@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R & B Bungalow (Guest House)",
+    "search_category": "Guesthouse",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "515541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vema Reddy Circle, beside poola angallu, YSR Nagar, Kadiri, Andhra Pradesh 515591",
+    "area": "YSR Nagar",
+    "latitude": 14.118526999999998,
+    "longitude": 78.156894,
+    "place_id": "ChIJozW6DADPszsRprAaXdw0V_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozW6DADPszsRprAaXdw0V_8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:50"
+  },
+  {
+    "business_name": "THE GRAND INN",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "515541",
+    "phone_number": "+91 99669 88786",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 196,
+    "address": "old icici bank building, 15/822, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.681855299999999,
+    "longitude": 77.6015044,
+    "place_id": "ChIJ2bqcJyxLsTsRHgL8KvrhvYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bqcJyxLsTsRHgL8KvrhvYE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:51"
+  }
+]

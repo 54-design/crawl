@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prestige Sanctuary",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "515551",
+    "phone_number": "+91 72598 86212",
+    "website": "https://www.prestigeconstructions.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nandi Hills Road, Karahalli Post, Kundana Hobli, Devanahalli, Taluk, Bengaluru, Karnataka 562164",
+    "area": "515551",
+    "latitude": 13.3138264,
+    "longitude": 77.6969201,
+    "place_id": "ChIJ3wziWj7jsTsR7I7Jxxm5G4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wziWj7jsTsR7I7Jxxm5G4I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:00"
+  },
+  {
+    "business_name": "Sobha Atlantis",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex, Apartment building, Apartment complex",
+    "pincode": "515551",
+    "phone_number": "+91 80 4646 4500",
+    "website": "https://www.sobha.com/kochi/sobha-atlantis/?utm_source=GMB&utm_medium=Listing&utm_campaign=Sobha_Atlantis",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Silversand Island, Thykoodam, Vyttila Ernakulum, Kochi, Keralam 682019",
+    "area": "Eroor South, Eroor",
+    "latitude": 9.962816199999999,
+    "longitude": 76.3243794,
+    "place_id": "ChIJuYZUbBxzCDsRJW_GhtNJwxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYZUbBxzCDsRJW_GhtNJwxc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:01"
+  }
+]

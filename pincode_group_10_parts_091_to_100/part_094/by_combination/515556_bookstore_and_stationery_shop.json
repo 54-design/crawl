@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Books and Stationary",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "515556",
+    "phone_number": "+91 99898 56444",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 626,
+    "address": "Station Rd, Near Clock Tower, Srirampuram, center, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Near Clock Tower, Srirampuram, center",
+    "latitude": 16.235812,
+    "longitude": 80.04982629999999,
+    "place_id": "ChIJg1QyJByBSjoRnWfpmhYngrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1QyJByBSjoRnWfpmhYngrY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:37:31"
+  },
+  {
+    "business_name": "Sri Raghava Graphics",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "515556",
+    "phone_number": "+91 96664 02005",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 23,
+    "address": "62HW+CVQ, Bustand - Railway Station Road, Prakash Nagar, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Prakash Nagar",
+    "latitude": 16.2285797,
+    "longitude": 80.0472289,
+    "place_id": "ChIJGW-QECKBSjoRdxmOg_Mwjh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGW-QECKBSjoRdxmOg_Mwjh8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:37:34"
+  }
+]

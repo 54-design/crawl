@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness zone",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515571",
+    "phone_number": "+91 99897 80581",
+    "website": "http://www.fitnesszone.pro/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st floor Honda showroom kalahastri road tada, Tada, Andhra Pradesh 524401",
+    "area": "515571",
+    "latitude": 13.583920099999998,
+    "longitude": 80.0377843,
+    "place_id": "ChIJuQXI0Xx3TToRrY-YkSPub28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQXI0Xx3TToRrY-YkSPub28",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:17"
+  },
+  {
+    "business_name": "Contours Women's Fitness Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Aero dance class, Aerobics Class, Dietitian, Fitness center, Personal trainer, Weight loss service, Women's personal trainer, Yoga studio",
+    "pincode": "515571",
+    "phone_number": "+91 95538 48484",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, Ladies gym, NH 16 Service Rd, beside nexa showroom, Veterinary Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Veterinary Colony",
+    "latitude": 16.5119632,
+    "longitude": 80.66677659999999,
+    "place_id": "ChIJ018Q0876NToRyNtAmBgrONQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ018Q0876NToRyNtAmBgrONQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:40:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SLV Banglore Ayyangar Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515521",
+    "phone_number": "+91 73534 77415",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "Bus Stand, Peddamandem, Andhra Pradesh 517297",
+    "area": "515521",
+    "latitude": 13.9282975,
+    "longitude": 78.5377405,
+    "place_id": "ChIJn_1sRwBTsjsRfgZicoUvyoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_1sRwBTsjsRfgZicoUvyoI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:23"
+  },
+  {
+    "business_name": "Aleti Sravankumar",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "515521",
+    "phone_number": "+91 81429 74029",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4, Main road, opp. water Tank, Kutagulla, Kadiri, Tirupati, Andhra Pradesh 515541",
+    "area": "Kutagulla",
+    "latitude": 14.1335904,
+    "longitude": 78.1530583,
+    "place_id": "ChIJYQu5ICjPszsR0jCTO3luZOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQu5ICjPszsR0jCTO3luZOI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:25"
+  }
+]

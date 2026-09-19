@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BEST PHYSIOTHERAPY CENTER",
+    "search_category": "Therapy Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515445",
+    "phone_number": "+91 98604 88713",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paratwada, Mughalai, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Mughalai",
+    "latitude": 21.3090935,
+    "longitude": 77.5221313,
+    "place_id": "ChIJO73c04701jsRBLYGCTaJBUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO73c04701jsRBLYGCTaJBUI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:38"
+  },
+  {
+    "business_name": "Vcare Rehabilitation Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center",
+    "pincode": "515445",
+    "phone_number": "+91 99632 14130",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "FR9F+F7X, Maria Puram, Nagarajupeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Nagarajupeta",
+    "latitude": 14.468748199999999,
+    "longitude": 78.823234,
+    "place_id": "ChIJIe4Q6xByszsRFz8z4sshj_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIe4Q6xByszsRFz8z4sshj_E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:21:39"
+  }
+]

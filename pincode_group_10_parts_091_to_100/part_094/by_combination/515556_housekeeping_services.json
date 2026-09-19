@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sophie Home Cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "515556",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sophie Home Cleaning, 515556, India",
+    "area": "515556",
+    "latitude": 47.1611554,
+    "longitude": 19.5051839,
+    "place_id": "ChIJ8eGeswPLQUcRY7T1Ak9ErJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eGeswPLQUcRY7T1Ak9ErJ0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:37:42"
+  },
+  {
+    "business_name": "CSK Group",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "515556",
+    "phone_number": "+91 70931 08220",
+    "website": "https://parentingkin.ueniweb.com/",
+    "rating": 4.7,
+    "reviews_count": 231,
+    "address": "3-259/1, opp. Saibaba Temple Street, RTC Colony, Ramanayapeta, Ramanayyapeta, Andhra Pradesh 533005",
+    "area": "RTC Colony, Ramanayapeta",
+    "latitude": 16.9922215,
+    "longitude": 82.2474055,
+    "place_id": "ChIJV4cz6QgpODoRswguMZ9gxCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4cz6QgpODoRswguMZ9gxCg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:37:43"
+  }
+]

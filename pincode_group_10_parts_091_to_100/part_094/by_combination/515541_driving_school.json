@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "515541",
+    "phone_number": "+91 90326 43637",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 62,
+    "address": "Ln 5, near Andhra Bank, opp. Pulivendula, Pulivendula, Andhra Pradesh 516390",
+    "area": "515541",
+    "latitude": 14.4196197,
+    "longitude": 78.2256354,
+    "place_id": "ChIJg771AnnrszsRdm0Rfk8bh4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg771AnnrszsRdm0Rfk8bh4Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:28"
+  },
+  {
+    "business_name": "Gafoor Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, School",
+    "pincode": "515541",
+    "phone_number": "+91 94402 10893",
+    "website": "https://www.instagram.com/gafoordrivingschool/",
+    "rating": 4.2,
+    "reviews_count": 82,
+    "address": "Royals Rd, Pulivendula, Andhra Pradesh 516391",
+    "area": "515541",
+    "latitude": 14.4192143,
+    "longitude": 78.2274463,
+    "place_id": "ChIJkxltn7frszsRsVeME-ti1QE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxltn7frszsRsVeME-ti1QE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:33:28"
+  }
+]

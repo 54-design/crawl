@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagan Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515511",
+    "phone_number": "+91 81251 55334",
+    "website": "http://www.jagantravels.com/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Police Dormitory Complex, Next to Mamatha Hotel, Old Bus Stand Road, Eluru Rd, Vijayawada, Andhra Pradesh 520002",
+    "area": "Opposite Old Bus Stand, Governor Peta",
+    "latitude": 16.5120398,
+    "longitude": 80.6205598,
+    "place_id": "ChIJhQk9UibxNToRTA_SPSjXkW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQk9UibxNToRTA_SPSjXkW4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:12"
+  },
+  {
+    "business_name": "MG Brothers Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus ticket agency",
+    "pincode": "515511",
+    "phone_number": "+91 89516 66812",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "MJH2+GFP, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.678834199999999,
+    "longitude": 77.6011884,
+    "place_id": "ChIJSYzq4ttKsTsRTwJVBM5LRqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYzq4ttKsTsRTwJVBM5LRqM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:28:13"
+  }
+]

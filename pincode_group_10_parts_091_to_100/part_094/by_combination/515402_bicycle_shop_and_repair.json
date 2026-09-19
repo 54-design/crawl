@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiresh Bike Garage",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "515402",
+    "phone_number": "+91 81256 35156",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main, Dho E, Anantapur, Andhra Pradesh 515401",
+    "area": "515402",
+    "latitude": 15.121682199999999,
+    "longitude": 77.638578,
+    "place_id": "ChIJM5II9uaVtjsRx5c4p0ESn6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5II9uaVtjsRx5c4p0ESn6M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:50"
+  },
+  {
+    "business_name": "Manohar Bike Point",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "515402",
+    "phone_number": "+91 87122 97612",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Gooty, Anantapur, Andhra Pradesh 515401",
+    "area": "515402",
+    "latitude": 15.113728799999999,
+    "longitude": 77.6368947,
+    "place_id": "ChIJS8QpwPCVtjsR3DRYdNONAio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8QpwPCVtjsR3DRYdNONAio",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:05:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "InstaNOW",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "515411",
+    "phone_number": "N/A",
+    "website": "https://www.instanow.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1st Rd, Vijayanagar Colony, Krishna Puram, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Vijayanagar Colony, Krishna Puram",
+    "latitude": 14.9047901,
+    "longitude": 78.0048226,
+    "place_id": "ChIJGXK2eAqVkW8RL21TMa-7SXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXK2eAqVkW8RL21TMa-7SXA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:11:46"
+  },
+  {
+    "business_name": "World First Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "515411",
+    "phone_number": "+91 73865 22810",
+    "website": "https://www.worldfirst.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "old sbi road, beside samsungShowroom, KTPS, Palwancha, Telangana 507115",
+    "area": "KTPS",
+    "latitude": 17.602697499999998,
+    "longitude": 80.7033703,
+    "place_id": "ChIJB5-3v2MbNDoRiCD3PzdNv2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5-3v2MbNDoRiCD3PzdNv2s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:11:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Burger and original milkshakes",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Food court",
+    "pincode": "515591",
+    "phone_number": "+91 90667 93500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arabiq restaurant, opposite Kadiri, Revenue Colony, Kadiri, Andhra Pradesh 515592",
+    "area": "Revenue Colony",
+    "latitude": 14.1099201,
+    "longitude": 78.1618574,
+    "place_id": "ChIJ4VHhHwDPszsR343hBQEBf-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VHhHwDPszsR343hBQEBf-Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:43:28"
+  },
+  {
+    "business_name": "Juice House",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "515591",
+    "phone_number": "+91 77803 31069",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4576+3FF, Chennai - Anantapur Hwy, Revenue Colony, Kadiri, Andhra Pradesh 515591",
+    "area": "Revenue Colony",
+    "latitude": 14.112684,
+    "longitude": 78.16118759999999,
+    "place_id": "ChIJq339RwDPszsRAZ9YezljGno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq339RwDPszsRAZ9YezljGno",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:43:28"
+  }
+]

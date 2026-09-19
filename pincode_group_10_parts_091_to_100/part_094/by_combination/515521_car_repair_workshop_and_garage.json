@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR janatha car garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "515521",
+    "phone_number": "+91 95509 89224",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kadiri rode, Galiveedu, Andhra Pradesh 516267",
+    "area": "515521",
+    "latitude": 14.0230535,
+    "longitude": 78.5020169,
+    "place_id": "ChIJhRu_yLKtszsR0cQT305sQiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRu_yLKtszsR0cQT305sQiU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:49"
+  },
+  {
+    "business_name": "Bismillah car garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "515521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "38V7+9WP, Rekkamani, Kurumamidi, Andhra Pradesh 515521",
+    "area": "Rekkamani",
+    "latitude": 14.0934748,
+    "longitude": 78.3148355,
+    "place_id": "ChIJPzXwNQC3szsR643nPgsC8FQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzXwNQC3szsR643nPgsC8FQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:29:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thunder fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515556",
+    "phone_number": "+91 99967 77619",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 140,
+    "address": "TVS showroom upstairs, Gautam Buddha Road, Mangalagiri, Andhra Pradesh 522503",
+    "area": "515556",
+    "latitude": 16.4208276,
+    "longitude": 80.56375539999999,
+    "place_id": "ChIJ8y5GMlnxNToRqsxjHODJNlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y5GMlnxNToRqsxjHODJNlQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:52"
+  },
+  {
+    "business_name": "Gravity Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "515556",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D.No, Parimi's Pearl Plaza, 27-1-15, JP Road, opp. Ayyappa Swamy Temple, Raayalam, Bhimavaram, Andhra Pradesh 534202",
+    "area": "Raayalam",
+    "latitude": 16.542545099999998,
+    "longitude": 81.5099103,
+    "place_id": "ChIJFarlINktNjoRDGRJo0EqShY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFarlINktNjoRDGRJo0EqShY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:36:53"
+  }
+]

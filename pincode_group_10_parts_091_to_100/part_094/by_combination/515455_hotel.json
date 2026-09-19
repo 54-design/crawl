@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basha Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "3R48+2W6, Rayalacheruvu, Andhra Pradesh 515455",
+    "area": "515455",
+    "latitude": 15.0550383,
+    "longitude": 77.8172578,
+    "place_id": "ChIJtczhrhWitjsRWI8LtDrCbyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtczhrhWitjsRWI8LtDrCbyg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:23:26"
+  },
+  {
+    "business_name": "Ashwini hotel",
+    "search_category": "Hotel",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "515455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3R48+3RC, Rayalacheruvu, Andhra Pradesh 515455",
+    "area": "515455",
+    "latitude": 15.055213,
+    "longitude": 77.816974,
+    "place_id": "ChIJZ2I_DgCjtjsRfnbvGhXNP4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2I_DgCjtjsRfnbvGhXNP4w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:23:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Niyaz Kirana Shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "515445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VWJM+XQC, Anantapur - Tadipatri - Guntur Hwy, Yerraguntapalli, Peddapolamada, Andhra Pradesh 515411",
+    "area": "Yerraguntapalli",
+    "latitude": 14.8823859,
+    "longitude": 77.9344057,
+    "place_id": "ChIJPaYvRAADtDsRgXZ2UtPO1k4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPaYvRAADtDsRgXZ2UtPO1k4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:42"
+  },
+  {
+    "business_name": "Visishta Organics Shop",
+    "search_category": "Provision Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "515445",
+    "phone_number": "+91 90527 33294",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "6-8-1185, KT Rd, Srinivasa Nagar, Ramchandra Nagar, Tirupati, Andhra Pradesh 517507",
+    "area": "Srinivasa Nagar, Ramchandra Nagar",
+    "latitude": 13.6499294,
+    "longitude": 79.4199561,
+    "place_id": "ChIJw6VnlVdLTToRVwgAA0-kJow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6VnlVdLTToRVwgAA0-kJow",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:20:42"
+  }
+]

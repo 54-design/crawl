@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Country club Vedic Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515415",
+    "phone_number": "+91 79888 96765",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": null,
+    "address": "Pandiparthi, Puttaparthi, Pandii, Andhra Pradesh 515122",
+    "area": "Pandiparthi",
+    "latitude": 13.9696552,
+    "longitude": 77.57730939999999,
+    "place_id": "ChIJhS7Xbll1sTsRg65lAnOu3IQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhS7Xbll1sTsRg65lAnOu3IQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:26"
+  },
+  {
+    "business_name": "Romi Vip Spa Day Night Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515415",
+    "phone_number": "+91 93349 45212",
+    "website": "https://romi.vipspa.in/",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "SN45, Municipal Employees Colony, Acharya Ranga Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Municipal Employees Colony, Acharya Ranga Nagar, Benz Circle",
+    "latitude": 16.5011819,
+    "longitude": 80.6514444,
+    "place_id": "ChIJ37KOLBv7NToRUbi-OdqlMsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37KOLBv7NToRUbi-OdqlMsw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:16:27"
+  }
+]

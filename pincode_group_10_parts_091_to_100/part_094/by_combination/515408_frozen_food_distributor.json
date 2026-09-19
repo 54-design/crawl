@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAADHANA FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515408",
+    "phone_number": "+91 98411 25626",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "No. 26/1 E, 18/1, Deenadayalan Street, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Pondy Bazaar, T. Nagar",
+    "latitude": 13.040317799999999,
+    "longitude": 80.23685689999999,
+    "place_id": "ChIJD3zY749nUjoRKL3qsP4SdmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3zY749nUjoRKL3qsP4SdmU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:08:47"
+  },
+  {
+    "business_name": "Chennai Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Food products supplier, Gourmet grocery store",
+    "pincode": "515408",
+    "phone_number": "+91 93828 05213",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "150 / Old No. 85, New, Jani Jhan Khan Rd, opp. SS Hyderabad Biriyani, Royapettah, Chennai, Tamil Nadu 600014",
+    "area": "Royapettah",
+    "latitude": 13.0542945,
+    "longitude": 80.2698862,
+    "place_id": "ChIJtySohTZnUjoRyoC8_f54n1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtySohTZnUjoRyoC8_f54n1Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:08:48"
+  }
+]
