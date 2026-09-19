@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruthi Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "506391",
+    "phone_number": "+91 93901 08640",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XJRF+M5V, Deshaipet - Enumamula Rd, New Grain Market, Enumamula, Warangal, Telangana 506006",
+    "area": "New Grain Market, Enumamula",
+    "latitude": 17.9917353,
+    "longitude": 79.6229178,
+    "place_id": "ChIJuTdCxe1EMzoRGhk7DAkO1co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTdCxe1EMzoRGhk7DAkO1co",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:29"
+  },
+  {
+    "business_name": "AF Rice Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Rice shop",
+    "pincode": "506391",
+    "phone_number": "+91 96188 79219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 1, Mandi Bazar, Sherpura, Warangal, Telangana 506002",
+    "area": "Mandi Bazar, Sherpura",
+    "latitude": 17.9867234,
+    "longitude": 79.60103579999999,
+    "place_id": "ChIJVT29l7VFMzoR84HdHvqoT4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVT29l7VFMzoR84HdHvqoT4o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:29"
+  }
+]

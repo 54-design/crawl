@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sage Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor, Service establishment",
+    "pincode": "506367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sage Yoga, 506367, India",
+    "area": "506367",
+    "latitude": -32.205414999999995,
+    "longitude": 136.1073692,
+    "place_id": "ChIJvVJuM167MioRBBcDf1reVhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVJuM167MioRBBcDf1reVhE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:42"
+  },
+  {
+    "business_name": "KHR Sports Academy",
+    "search_category": "Yoga Center",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "506367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 78,
+    "address": "C4GG+P9P, Shanthinagar, Bhagatnagar, Katta Rampur, Karimnagar, Telangana 505001",
+    "area": "Shanthinagar, Bhagatnagar, Katta Rampur",
+    "latitude": 18.4268356,
+    "longitude": 79.12596119999999,
+    "place_id": "ChIJZbYrMQDZzDsRN86UIYhBKWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbYrMQDZzDsRN86UIYhBKWk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:45"
+  }
+]

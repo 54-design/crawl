@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Supermarket - Palvoncha",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507101",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.9,
+    "reviews_count": 1544,
+    "address": "HPW2+QQM, KSP Rd, Gandhi Nagar, KTPS, Palwancha, Telangana 507115",
+    "area": "Gandhi Nagar, KTPS",
+    "latitude": 17.596621199999998,
+    "longitude": 80.7020531,
+    "place_id": "ChIJo8JLfXQbNDoRnTUiQjSs-v0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8JLfXQbNDoRnTUiQjSs-v0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:04:56"
+  },
+  {
+    "business_name": "Akshaya Supermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507101",
+    "phone_number": "+91 87442 52627",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 95,
+    "address": "8-1-217, KSP Rd, Ganapathi Nagar, KTPS, Palwancha, Telangana 507115",
+    "area": "Ganapathi Nagar, KTPS",
+    "latitude": 17.601813699999997,
+    "longitude": 80.699792,
+    "place_id": "ChIJi1O1tnIbNDoRi7DkbrS5ZA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1O1tnIbNDoRi7DkbrS5ZA4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:04:56"
+  }
+]

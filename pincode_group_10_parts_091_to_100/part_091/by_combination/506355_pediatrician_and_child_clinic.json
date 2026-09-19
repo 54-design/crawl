@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avani Children's Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Doctor, Hospital, Neonatal physician, Pediatric clinic, Children's hospital",
+    "pincode": "506355",
+    "phone_number": "+91 87362 95104",
+    "website": "https://avanihospital.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bellampally Rd, opp. Nandhini Hospital, Chowrastha, Islampura, Mancherial, Telangana 504208",
+    "area": "Chowrastha, Islampura",
+    "latitude": 18.8814073,
+    "longitude": 79.4417078,
+    "place_id": "ChIJ-x_mY2vLMjoRNl-ap9Ul6K4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-x_mY2vLMjoRNl-ap9Ul6K4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:37:02"
+  },
+  {
+    "business_name": "Riddhira Sunrise Hospital (Children & General Medicine)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506355",
+    "phone_number": "+91 90303 45231",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "WXG7+J64, Opp: New Bustand, Jangaon - Siddipet Rd, Cherial, Telangana 506223",
+    "area": "506355",
+    "latitude": 17.926517099999998,
+    "longitude": 78.9630774,
+    "place_id": "ChIJmRUuc_CXzDsRX93az2Zz7kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRUuc_CXzDsRX93az2Zz7kE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:37:04"
+  }
+]

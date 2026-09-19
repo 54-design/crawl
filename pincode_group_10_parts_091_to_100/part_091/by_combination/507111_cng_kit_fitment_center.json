@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meghagas CNG Station",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "Compressed natural gas station",
+    "all_categories": "Compressed natural gas station",
+    "pincode": "507111",
+    "phone_number": "+91 1800 123 1803",
+    "website": "https://www.meghagas.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 65, Krishnalanka, Vijayawada, Andhra Pradesh 520001",
+    "area": "Krishnalanka",
+    "latitude": 16.5077411,
+    "longitude": 80.6122826,
+    "place_id": "ChIJMzpLgELxNToRiL-gnhXX8KI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzpLgELxNToRiL-gnhXX8KI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:36"
+  },
+  {
+    "business_name": "BhagyaNagar Gas Limited",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump",
+    "pincode": "507111",
+    "phone_number": "+91 79936 88751",
+    "website": "https://www.bglgas.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "8-3-279/A, Sri Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",
+    "area": "Sri Krishna Nagar, Yousufguda",
+    "latitude": 17.4360995,
+    "longitude": 78.4290015,
+    "place_id": "ChIJiXkgcNKRyzsRL8aKjoKIuD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXkgcNKRyzsRL8aKjoKIuD0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:36"
+  }
+]

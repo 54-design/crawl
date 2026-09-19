@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Bhavani Tiffin and Chat Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "507136",
+    "phone_number": "+91 88853 08785",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 390,
+    "address": "opposite to old Venkat Giri restaurant, Maka Layout, Kalaburagi, Karnataka 585102",
+    "area": "Maka Layout",
+    "latitude": 17.3145512,
+    "longitude": 76.8150627,
+    "place_id": "ChIJfXhPity_yDsRIhbzsTRIb44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXhPity_yDsRIhbzsTRIb44",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:01"
+  },
+  {
+    "business_name": "Royal Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Breakfast restaurant",
+    "pincode": "507136",
+    "phone_number": "+91 99592 43482",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Upparpally Rd, Yadavareddy Nagar, Upperpally, Telangana 500048",
+    "area": "Yadavareddy Nagar",
+    "latitude": 17.3560466,
+    "longitude": 78.4221258,
+    "place_id": "ChIJu4bZuEmWyzsRjqMDr-RKRFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4bZuEmWyzsRjqMDr-RKRFg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:03"
+  }
+]

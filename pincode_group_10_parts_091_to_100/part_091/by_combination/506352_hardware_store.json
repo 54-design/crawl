@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi Tyre Works",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506352",
+    "phone_number": "+91 98667 56958",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "54, Jangalapally, Telangana 506352",
+    "area": "506352",
+    "latitude": 18.2061323,
+    "longitude": 79.98214879999999,
+    "place_id": "ChIJDa48aLcNMzoRSz5mRZV-UXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa48aLcNMzoRSz5mRZV-UXw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:35:23"
+  },
+  {
+    "business_name": "Srikanth Bick Mechanic",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506352",
+    "phone_number": "+91 77020 66585",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No, 3-22, Mulugu Rd, Peddammagadda, Warangal, Telangana 506352",
+    "area": "Peddammagadda",
+    "latitude": 18.2075855,
+    "longitude": 79.9851564,
+    "place_id": "ChIJm1iG-ooNMzoRZMUUlbdrSqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1iG-ooNMzoRZMUUlbdrSqo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:35:23"
+  }
+]

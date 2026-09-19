@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puri Auto Gas",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center, Auto repair shop",
+    "pincode": "506348",
+    "phone_number": "+91 93122 12593",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "45/8, Jail Rd, Block 45, Ashok Nagar, New Delhi, Delhi, 110018",
+    "area": "Block 45, Ashok Nagar",
+    "latitude": 28.6344915,
+    "longitude": 77.10031769999999,
+    "place_id": "ChIJm2ENJaAEDTkR-doyMcgq52Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2ENJaAEDTkR-doyMcgq52Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:29:39"
+  },
+  {
+    "business_name": "Tara Dutt Automobiles",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center",
+    "pincode": "506348",
+    "phone_number": "+91 98913 11148",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Sukhdev Market, 301/5, Bhishma Pitamah Marg, Sukhdev Nagar, Arjun Nagar, Kotla Mubarakpur, New Delhi, Delhi 110003",
+    "area": "Sukhdev Nagar, Arjun Nagar, Kotla Mubarakpur",
+    "latitude": 28.574629599999998,
+    "longitude": 77.2279144,
+    "place_id": "ChIJF30b7FniDDkRMWrRNQEhztE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF30b7FniDDkRMWrRNQEhztE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:29:39"
+  }
+]

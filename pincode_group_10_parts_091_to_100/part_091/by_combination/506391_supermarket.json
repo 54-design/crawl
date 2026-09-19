@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "శ్రీమాన్య వెజిటేబుల్స్",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506391",
+    "phone_number": "+91 76748 32386",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5HQV+2QM, Shanigaram, Telangana 505102",
+    "area": "506391",
+    "latitude": 18.1875955,
+    "longitude": 79.59441489999999,
+    "place_id": "ChIJg7ffQQA5MzoRNIsOMJaamI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7ffQQA5MzoRNIsOMJaamI4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:55:37"
+  },
+  {
+    "business_name": "MallaReddypally",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "506391",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "4JG3+PX3, Unnamed Road, MallaReddyPalli, Telangana 506006",
+    "area": "506391",
+    "latitude": 18.1267641,
+    "longitude": 79.604872,
+    "place_id": "ChIJ7QMqkBFHMzoRAU58HQlILOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QMqkBFHMzoRAU58HQlILOI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:55:38"
+  }
+]

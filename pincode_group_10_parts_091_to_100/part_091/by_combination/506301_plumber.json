@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ray Plumbers - Best Plumber In Bhopal",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "506301",
+    "phone_number": "+91 91112 22499",
+    "website": "https://rayplumbers.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "C/8, HN 69, Main Rd No. 3, Patrakar Colony, Panchsheel Nagar, Bhopal, Madhya Pradesh 462016",
+    "area": "Patrakar Colony, Panchsheel Nagar",
+    "latitude": 23.2193251,
+    "longitude": 77.41404589999999,
+    "place_id": "ChIJJZvnBQtDfDkRvJ5kyBzN2GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZvnBQtDfDkRvJ5kyBzN2GY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:48:44"
+  },
+  {
+    "business_name": "Gouri Sanitary Wares",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "506301",
+    "phone_number": "+91 4734 225 065",
+    "website": "https://gourisanitarywares.webs.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "M.C.Road, near Corporation Bank, Adoor, Keralam 691523",
+    "area": "506301",
+    "latitude": 9.1580429,
+    "longitude": 76.72685129999999,
+    "place_id": "ChIJoaKAFoQRBjsRVDqGts0xFDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaKAFoQRBjsRVDqGts0xFDM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:48:45"
+  }
+]

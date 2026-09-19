@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thimmapur haveli",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "506310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "Thimmapur, Telangana 506005",
+    "area": "506310",
+    "latitude": 17.9267289,
+    "longitude": 79.5730878,
+    "place_id": "ChIJ3-VpeIBbMzoREW3gLmdutnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-VpeIBbMzoREW3gLmdutnM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:17"
+  },
+  {
+    "business_name": "Duppelli Ashok S/O Yakaiah",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "506310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RJ34+W4M, Katrial, Telangana 506313",
+    "area": "506310",
+    "latitude": 17.804847499999997,
+    "longitude": 79.6053068,
+    "place_id": "ChIJPXx0KwBZMzoRQUI89Z6ziuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXx0KwBZMzoRQUI89Z6ziuI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:17"
+  }
+]

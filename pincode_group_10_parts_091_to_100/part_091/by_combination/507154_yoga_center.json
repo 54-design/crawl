@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeevan unique yoga centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "507154",
+    "phone_number": "+91 99404 35757",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "6/3, 4th St, TSR Nagar Extension, Tiruvottiyur, Chennai, Tamil Nadu 600019",
+    "area": "TSR Nagar Extension, Tiruvottiyur",
+    "latitude": 13.166894,
+    "longitude": 80.306468,
+    "place_id": "ChIJOdvzdABvUjoRzQ6K8DAC6-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdvzdABvUjoRzQ6K8DAC6-0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:41:02"
+  },
+  {
+    "business_name": "Ace Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Fitness center, Meditation center, Meditation Class, Personal trainer, Retreat center, Wellness center, Yoga instructor, Yoga Retreat Center",
+    "pincode": "507154",
+    "phone_number": "+91 99977 37990",
+    "website": "https://aceyogastudio.lovable.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2/42, Thirumalai Pillai Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "T. Nagar",
+    "latitude": 13.046176299999999,
+    "longitude": 80.239423,
+    "place_id": "ChIJM3q9_6RnUjoRF_NiYF9_4y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3q9_6RnUjoRF_NiYF9_4y4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:41:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "First skin leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "507124",
+    "phone_number": "+91 89394 17576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "ground floor phase 2, Spencer Plaza Mall, No G-57, Anna Salai, chennai=600-002, Chennai, Tamil Nadu 600002",
+    "area": "Anna Salai, chennai=600-002",
+    "latitude": 13.0613,
+    "longitude": 80.2611,
+    "place_id": "ChIJ2wHvXz5nUjoRBcz6AawNfMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wHvXz5nUjoRBcz6AawNfMw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:46"
+  },
+  {
+    "business_name": "RVV Leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "507124",
+    "phone_number": "+91 93116 41212",
+    "website": "http://rvvleather.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "71/7A 3rd Floor, Rama Rd, New Delhi, Delhi 110015",
+    "area": "Block C, Najafgarh Road Industrial Area",
+    "latitude": 28.6596832,
+    "longitude": 77.1517741,
+    "place_id": "ChIJC1bj-_4CDTkR3FKP0KKYK24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1bj-_4CDTkR3FKP0KKYK24",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:47"
+  }
+]

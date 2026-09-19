@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwanadh Architects",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer, Interior designer, Landscape architect",
+    "pincode": "507128",
+    "phone_number": "+91 82976 67878",
+    "website": "https://vishwanadharchitects.in/",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "Pent house, Chandrodaya towers, Akkayyapalem Main Rd, Narasimhanagar, Kailasapuram, Visakhapatnam, Andhra Pradesh 530024",
+    "area": "Narasimhanagar, Kailasapuram",
+    "latitude": 17.7432346,
+    "longitude": 83.2998705,
+    "place_id": "ChIJl_85OdVDOToR-fu6rf2GC0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_85OdVDOToR-fu6rf2GC0U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:30:00"
+  },
+  {
+    "business_name": "serene architecture plus design",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "507128",
+    "phone_number": "+91 81430 85951",
+    "website": "https://wap.justdial.com/el?source=77&user_type=&docid=0891PX891.X891.201117105009.F7M6",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "PL Chambers, 90, MVP Double Rd, Sector 1, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Sector 1, MVP Colony",
+    "latitude": 17.7427688,
+    "longitude": 83.32919629999999,
+    "place_id": "ChIJUVakOgBDOToRrsqih9epQLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVakOgBDOToRrsqih9epQLU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:30:00"
+  }
+]

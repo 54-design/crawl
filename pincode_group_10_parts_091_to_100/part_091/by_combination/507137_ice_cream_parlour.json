@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR. CHERRY",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "507137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VWR8+G5X, K, Kasinagaram, Suravaram, Telangana 507137",
+    "area": "507137",
+    "latitude": 17.891356,
+    "longitude": 80.9154325,
+    "place_id": "ChIJ58RzPwBTMToRES_XQ4r7aUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58RzPwBTMToRES_XQ4r7aUM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:34:55"
+  },
+  {
+    "business_name": "CH.CHARAN",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "507137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VWR8+G5F, K, Kasinagaram, Suravaram, Telangana 507137",
+    "area": "507137",
+    "latitude": 17.891322499999998,
+    "longitude": 80.9154243,
+    "place_id": "ChIJH-20eQBTMToReX_n84HIRus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-20eQBTMToReX_n84HIRus",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:34:55"
+  }
+]

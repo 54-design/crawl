@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sv Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "506391",
+    "phone_number": "+91 90302 31631",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Adarsh Nagar Colony, Saipuram Colony, Peerzadiguda, Hyderabad, Telangana 500098",
+    "area": "Adarsh Nagar Colony, Saipuram Colony, Peerzadiguda",
+    "latitude": 17.3897496,
+    "longitude": 78.5982872,
+    "place_id": "ChIJiWCwas6fyzsRZflaI9S1pCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWCwas6fyzsRZflaI9S1pCA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:07"
+  },
+  {
+    "business_name": "NAS CLEAN AND CLEAR SERVICES",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Air conditioning repair service, Electrical repair shop",
+    "pincode": "506391",
+    "phone_number": "+91 72074 00250",
+    "website": "http://www.nasservices.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Y Junction, amabativalasa, VT Agraharam, Sarika, Andhra Pradesh 535004",
+    "area": "amabativalasa, VT Agraharam",
+    "latitude": 18.0748465,
+    "longitude": 83.38741999999999,
+    "place_id": "ChIJgZ9FjexslGgRzjdKjEAdnFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ9FjexslGgRzjdKjEAdnFA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:07"
+  }
+]

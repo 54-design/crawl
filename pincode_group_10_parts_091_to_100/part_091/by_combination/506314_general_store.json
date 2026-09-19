@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasri General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MPG7+VCC, Jamasthanpur, Telangana 506314",
+    "area": "506314",
+    "latitude": 17.6766419,
+    "longitude": 79.7136067,
+    "place_id": "ChIJRS0fqyijNDoRpaiCWfFojKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRS0fqyijNDoRpaiCWfFojKo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:57:21"
+  },
+  {
+    "business_name": "Sri manikanta medical general stores perikaid",
+    "search_category": "General Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bus Stop, Perukavedu, Rayaparthi, Telangana 506314",
+    "area": "506314",
+    "latitude": 17.7030994,
+    "longitude": 79.6605666,
+    "place_id": "ChIJo2iZC1OhNDoR_E4sgx7e290",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2iZC1OhNDoR_E4sgx7e290",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:57:21"
+  }
+]

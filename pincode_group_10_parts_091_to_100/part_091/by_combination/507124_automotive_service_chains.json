@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LG Motors Car Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507124",
+    "phone_number": "+91 91774 37163",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4HWW+47C, NH 65, Suryapet, Telangana 508213",
+    "area": "507124",
+    "latitude": 17.1453113,
+    "longitude": 79.59565289999999,
+    "place_id": "ChIJjc2ovlPbNDoRpqhOAKiNP58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjc2ovlPbNDoRpqhOAKiNP58",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:26:11"
+  },
+  {
+    "business_name": "Sri Vengamamba Oils and Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store",
+    "pincode": "507124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No 4, 123, Kodad - Khammam Rd, Khammam, Telangana 507160",
+    "area": "507124",
+    "latitude": 17.1098024,
+    "longitude": 80.04393139999999,
+    "place_id": "ChIJhau8c-b-NDoRMARpuQD968E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhau8c-b-NDoRMARpuQD968E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:26:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Full A Plus Tuition Center",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "506368",
+    "phone_number": "+91 79949 78855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mythri Nagar-22, Higher Secondary School, Kazhakuttom, Kazhakkoottam, Keralam 695582",
+    "area": "506368",
+    "latitude": 8.5636976,
+    "longitude": 76.87311079999999,
+    "place_id": "ChIJ8TtrejO_BTsRBnLTKoyxV0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TtrejO_BTsRBnLTKoyxV0c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:47:18"
+  },
+  {
+    "business_name": "Doubtbox",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "506368",
+    "phone_number": "+91 90723 95544",
+    "website": "http://doubtbox.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "First Floor, Nila Building, Technopark Rd, Technopark Campus, Thiruvananthapuram, Keralam 695581",
+    "area": "Technopark Campus",
+    "latitude": 8.5601819,
+    "longitude": 76.8799619,
+    "place_id": "ChIJkwFMlPq-BTsRIF-OA6aNbxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwFMlPq-BTsRIF-OA6aNbxw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:47:18"
+  }
+]

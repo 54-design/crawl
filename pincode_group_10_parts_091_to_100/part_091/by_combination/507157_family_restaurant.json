@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADITYA FAMILY RESTAURANT S2K",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507157",
+    "phone_number": "+91 95535 55551",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "HIGH WAY, Nayakulagudem, Telangana 507157",
+    "area": "507157",
+    "latitude": 17.197185299999997,
+    "longitude": 79.8900482,
+    "place_id": "ChIJQX060UjlNDoRSJQ-i-U4Qjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQX060UjlNDoRSJQ-i-U4Qjg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:34"
+  },
+  {
+    "business_name": "Sri Charan Family Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "6X42+94, Gurvaigudem, Telangana 507159",
+    "area": "507157",
+    "latitude": 17.2059375,
+    "longitude": 79.9503125,
+    "place_id": "ChIJ5ekyfAD7NDoRobvuFJZYy7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ekyfAD7NDoRobvuFJZYy7c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:34"
+  }
+]

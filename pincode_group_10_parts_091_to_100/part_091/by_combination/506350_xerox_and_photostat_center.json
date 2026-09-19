@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop, Lamination service, Print shop",
+    "pincode": "506350",
+    "phone_number": "+91 89393 25244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "112, Nehru St, Alwartirunagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+    "area": "Alwartirunagar, Valasaravakkam",
+    "latitude": 13.0445885,
+    "longitude": 80.1848953,
+    "place_id": "ChIJYZ51fy1hUjoR-8kDhUPMMy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZ51fy1hUjoR-8kDhUPMMy4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:34:01"
+  },
+  {
+    "business_name": "Excel Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "506350",
+    "phone_number": "+91 97476 04845",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 103,
+    "address": "TB Road, Anas, Manjeri, Keralam 676121",
+    "area": "Anas",
+    "latitude": 11.1159077,
+    "longitude": 76.1201687,
+    "place_id": "ChIJK533nHA2pjsRBJ74kjevNX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK533nHA2pjsRBJ74kjevNX8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:34:01"
+  }
+]

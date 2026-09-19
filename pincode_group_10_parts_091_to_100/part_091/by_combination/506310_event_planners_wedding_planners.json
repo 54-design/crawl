@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BUCHI EVENTS",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "506310",
+    "phone_number": "+91 63050 43793",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Konayamakula, Warangal, Geesugonda, Telangana 506330",
+    "area": "Konayamakula",
+    "latitude": 17.9591462,
+    "longitude": 79.6954042,
+    "place_id": "ChIJ84glATJdMzoRjRDl8tqMeHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84glATJdMzoRjRDl8tqMeHU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:29"
+  },
+  {
+    "business_name": "Sri Bhadrakali decoration",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "506310",
+    "phone_number": "+91 62811 51688",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Punnel, Telangana 506310",
+    "area": "506310",
+    "latitude": 17.8716526,
+    "longitude": 79.5868309,
+    "place_id": "ChIJYTicVFlbMzoRWANQ71Hty6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTicVFlbMzoRWANQ71Hty6Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW HERO CYCLE STORE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Motorcycle shop",
+    "pincode": "507136",
+    "phone_number": "+91 63023 11874",
+    "website": "https://www.herocycles.com/",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "Gajularamaram Rd, Prakasham Panthulu Nagar, Jeedimetla, Hyderabad, Telangana 500055",
+    "area": "Prakasham Panthulu Nagar, Jeedimetla",
+    "latitude": 17.522989,
+    "longitude": 78.4275644,
+    "place_id": "ChIJhSDMeiuOyzsR3sAtZgPHYRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSDMeiuOyzsR3sAtZgPHYRU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:31"
+  },
+  {
+    "business_name": "Kishan Cycle And General Store, Awapalli",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "507136",
+    "phone_number": "+91 97708 88129",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Road, Awapalli, Chhattisgarh 494447",
+    "area": "507136",
+    "latitude": 18.585786,
+    "longitude": 80.7653364,
+    "place_id": "ChIJkaLbeAsrMjoRX6AY8G959cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkaLbeAsrMjoRX6AY8G959cg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:33"
+  }
+]

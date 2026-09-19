@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhana laxmi hotel",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "507136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "86GM+M3G, Medaram, Telangana 506347",
+    "area": "507136",
+    "latitude": 18.3265858,
+    "longitude": 80.2329243,
+    "place_id": "ChIJEUIR2LylMzoRGsZAlEjR-ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUIR2LylMzoRGsZAlEjR-ls",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:02"
+  },
+  {
+    "business_name": "Hotal srinu",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "507136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HC33+J3G, Wazeedu, Chandrupatla, Tekulagudem Z, Telangana 507136",
+    "area": "Wazeedu",
+    "latitude": 18.554053,
+    "longitude": 80.4027184,
+    "place_id": "ChIJoWMRFQC1MzoRB7A2JFfgtlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWMRFQC1MzoRB7A2JFfgtlI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:05"
+  }
+]

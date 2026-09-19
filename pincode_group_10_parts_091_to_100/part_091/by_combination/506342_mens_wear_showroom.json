@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rock Star Stores",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "506342",
+    "phone_number": "+91 79931 63634",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "11-15-77, Kashibugga Road, Kashibugga, Junction, Warangal, Telangana 506002",
+    "area": "Kashibugga, Junction",
+    "latitude": 17.981108499999998,
+    "longitude": 79.6082522,
+    "place_id": "ChIJR6X5pjxFMzoRdtndwcSTX1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6X5pjxFMzoRdtndwcSTX1k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:59"
+  },
+  {
+    "business_name": "Sri Manikanta Tailors",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing alteration service",
+    "pincode": "506342",
+    "phone_number": "+91 93901 00538",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "11-15-77, opp. Siddayya Hotel, Kashibugga, Chaurasta, Warangal, Telangana 506002",
+    "area": "Kashibugga, Chaurasta",
+    "latitude": 17.98103,
+    "longitude": 79.60848229999999,
+    "place_id": "ChIJ7-sp_-BEMzoRkD78Ve7Mq9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-sp_-BEMzoRkD78Ve7Mq9I",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:02"
+  }
+]

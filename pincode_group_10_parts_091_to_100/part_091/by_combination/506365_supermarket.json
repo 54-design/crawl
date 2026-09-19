@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruthi Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "506365",
+    "phone_number": "+91 96662 43727",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "0-1-180/1, Mamatha Theatre Road, Bhagatnagar, Mukarampura, Karimnagar, Telangana 505001",
+    "area": "Bhagatnagar, Mukarampura",
+    "latitude": 18.4284314,
+    "longitude": 79.1241289,
+    "place_id": "ChIJ33h_fjnZzDsRTmpboGupdV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33h_fjnZzDsRTmpboGupdV8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:21"
+  },
+  {
+    "business_name": "SHARON ONLINE CENTER",
+    "search_category": "Supermarket",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop, Shop supermarket furniture store",
+    "pincode": "506365",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "PPQG+66V, Main Rd, Parvathagiri, Telangana 506365",
+    "area": "506365",
+    "latitude": 17.7381025,
+    "longitude": 79.7255562,
+    "place_id": "ChIJ_cYuanOhNDoRKjRQByAti1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cYuanOhNDoRKjRQByAti1g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:22"
+  }
+]

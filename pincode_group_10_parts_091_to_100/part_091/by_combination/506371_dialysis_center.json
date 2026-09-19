@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BYRAM HOSPITAL",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506371",
+    "phone_number": "+91 70937 26867",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 27,
+    "address": "opposite post office, near thousand pillars temple Amrutha theatre main road, junction, Raganna Darwaza, Hanamkonda, Telangana 506011",
+    "area": "Chowrasta, Raganna Darwaja, New Raipura, Brahmanawada",
+    "latitude": 18.0050337,
+    "longitude": 79.57343709999999,
+    "place_id": "ChIJBbjnBOxFMzoRSZQmdmI3j9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbjnBOxFMzoRSZQmdmI3j9w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:19"
+  },
+  {
+    "business_name": "Care Diabetes Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Diabetes center",
+    "all_categories": "Diabetes center",
+    "pincode": "506371",
+    "phone_number": "+91 870 254 4547",
+    "website": "https://www.carediabetescentre.com/",
+    "rating": 4.9,
+    "reviews_count": 401,
+    "address": "Vijaya Theater Road, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "area": "Kakaji Nagar Colony",
+    "latitude": 18.0030511,
+    "longitude": 79.5697816,
+    "place_id": "ChIJe6kInIJFMzoR6iFyY0yiuR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6kInIJFMzoR6iFyY0yiuR0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:21"
+  }
+]

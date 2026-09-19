@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanumakonda Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel lounge",
+    "all_categories": "Travel lounge",
+    "pincode": "506371",
+    "phone_number": "+91 90322 02511",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambedkar statue, nearby Bus Stand, Ramnagar, Hanamkonda, Telangana 506001",
+    "area": "Ramnagar",
+    "latitude": 18.006828799999997,
+    "longitude": 79.556207,
+    "place_id": "ChIJbwJBn0tPMzoRsRyJnYxRIwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwJBn0tPMzoRsRyJnYxRIwM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:29"
+  },
+  {
+    "business_name": "Kandala Travel & Holidays",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Sightseeing Tour Operator, Tour operator",
+    "pincode": "506371",
+    "phone_number": "+91 870 297 1516",
+    "website": "http://www.kandalatravel.com/in",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "12, First Floor, G.M.R&G.S. Complex, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Opposite Police Head Quarters, Kishanpura",
+    "latitude": 18.0111991,
+    "longitude": 79.5589784,
+    "place_id": "ChIJiUOK-4pPMzoR_fcLfieY7tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUOK-4pPMzoR_fcLfieY7tg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Balloon artist",
+    "pincode": "507115",
+    "phone_number": "+91 83094 90527",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NTR road, market area, Palwancha, Telangana 507115",
+    "area": "market area",
+    "latitude": 17.6018847,
+    "longitude": 80.70476,
+    "place_id": "ChIJvyMSUTwbNDoRZ4mMKcJN_y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyMSUTwbNDoRZ4mMKcJN_y4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:40"
+  },
+  {
+    "business_name": "Balloons Unlimited Store and Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Event planner",
+    "pincode": "507115",
+    "phone_number": "+91 77993 33199",
+    "website": "http://balloonsunlimitedpalwancha.in/?utm_source=gmb&utm_medium=referral",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Shanthi Theatre Complex, BCM road, near Ambedkar Centre, Bapuji Nagar Phase I, Bapuji Nagar, Palwancha, Telangana 507115",
+    "area": "Bapuji Nagar Phase I, Bapuji Nagar",
+    "latitude": 17.5961057,
+    "longitude": 80.7027085,
+    "place_id": "ChIJ3TbLoQUbNDoR_HefcC84SZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TbLoQUbNDoR_HefcC84SZM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:40"
+  }
+]

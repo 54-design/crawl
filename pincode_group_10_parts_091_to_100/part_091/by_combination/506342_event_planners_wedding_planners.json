@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Bhadrakali Event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "506342",
+    "phone_number": "+91 90528 42026",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-269, 47, Paidipally, Paidi Pally, Telangana 506006",
+    "area": "Paidi Pally",
+    "latitude": 18.013989199999997,
+    "longitude": 79.6143392,
+    "place_id": "ChIJ-2YMKABFMzoRmHVcVwBunzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2YMKABFMzoRmHVcVwBunzs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:44"
+  },
+  {
+    "business_name": "Relax events organisers",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "506342",
+    "phone_number": "+91 99638 55991",
+    "website": "https://www.facebook.com/RELAX-EVENT-Organisation-508274449357849/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Relax events organisers, 506342, India",
+    "area": "506342",
+    "latitude": 33.7543358,
+    "longitude": 40.4855865,
+    "place_id": "ChIJ9____-ZEMzoRePozV1D7z7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9____-ZEMzoRePozV1D7z7c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:44"
+  }
+]

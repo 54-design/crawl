@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uniform Manufacturers",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Corporate office",
+    "pincode": "506368",
+    "phone_number": "+91 98921 21205",
+    "website": "http://www.uniformmanufacturers.in/",
+    "rating": 3.6,
+    "reviews_count": 18,
+    "address": "35/275, Near Ganesh Mandir, Vakola Police Station, Anand Nagar, Santacruz East, Mumbai, Maharashtra 400055",
+    "area": "Anand Nagar, Vakola, Santacruz East",
+    "latitude": 19.0821379,
+    "longitude": 72.8473252,
+    "place_id": "ChIJa63kbgbJ5zsRJylc5GnF8o8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa63kbgbJ5zsRJylc5GnF8o8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:46:21"
+  },
+  {
+    "business_name": "Premium Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "506368",
+    "phone_number": "+91 99636 77784",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "1/A, 505/PG, post office, 1-8-506/25, beside prakash nagar, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Prakash Nagar, Begumpet",
+    "latitude": 17.4414437,
+    "longitude": 78.46908959999999,
+    "place_id": "ChIJ8S188nKRyzsRVCgpmkha3SA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8S188nKRyzsRVCgpmkha3SA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:46:21"
+  }
+]

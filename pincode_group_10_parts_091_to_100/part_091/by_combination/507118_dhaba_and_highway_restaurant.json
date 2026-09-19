@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orissa Shankar Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 108,
+    "address": "SH 42, Rejerla, Telangana 507167",
+    "area": "507118",
+    "latitude": 17.2103064,
+    "longitude": 80.4695725,
+    "place_id": "ChIJOc8dFgc3NDoR7QDnAhAiKMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOc8dFgc3NDoR7QDnAhAiKMs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:16:20"
+  },
+  {
+    "business_name": "Panjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "HMP8+9RQ, NH 30, Old Paloncha, Telangana 507154",
+    "area": "507118",
+    "latitude": 17.5859529,
+    "longitude": 80.66711839999999,
+    "place_id": "ChIJ3TrKbVcaNDoRGdObFD87NdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TrKbVcaNDoRGdObFD87NdU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:16:22"
+  }
+]

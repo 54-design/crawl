@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manasa Clinic (Dr. Mohan Rao)",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507117",
+    "phone_number": "+91 87422 37396",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "-3-145, Braman Nizampet, 9, Old Club Rd, Mominaan Bazar, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Mominaan Bazar, Braman Bazar, Nizampet",
+    "latitude": 17.2510768,
+    "longitude": 80.1398909,
+    "place_id": "ChIJubxSVDJYNDoRfKB4oAavw3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubxSVDJYNDoRfKB4oAavw3s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:20"
+  },
+  {
+    "business_name": "Psychologyhub",
+    "search_category": "Therapy Center",
+    "primary_category": "Counselor",
+    "all_categories": "Counselor",
+    "pincode": "507117",
+    "phone_number": "+91 88975 17537",
+    "website": "https://psychologyhub.co.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Maruthi Nagar, Road no 3, Edulapuram, Warangal Cross Rd, Khammam, Telangana 507003",
+    "area": "Jintal",
+    "latitude": 17.2473754,
+    "longitude": 80.10756789999999,
+    "place_id": "ChIJMfAQVL5ZNDoRYe11ZSRhEp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfAQVL5ZNDoRYe11ZSRhEp8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:22"
+  }
+]

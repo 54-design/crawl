@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkateshwara Seeds",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "506343",
+    "phone_number": "+91 95738 25503",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "77, Narsapur, Mulugu, Telangana 506343",
+    "area": "506343",
+    "latitude": 18.2469276,
+    "longitude": 79.8949552,
+    "place_id": "ChIJiQKSniQTMzoR_0nj6lrONw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQKSniQTMzoR_0nj6lrONw8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:40"
+  },
+  {
+    "business_name": "Harilaxmi Fertilizer",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "506343",
+    "phone_number": "+91 91827 93125",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67, Rampur, Mulugu, Telangana 506343",
+    "area": "506343",
+    "latitude": 18.193244,
+    "longitude": 79.9413675,
+    "place_id": "ChIJAz7el68NMzoRIhPQn_DEQmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAz7el68NMzoRIhPQn_DEQmE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:40"
+  }
+]

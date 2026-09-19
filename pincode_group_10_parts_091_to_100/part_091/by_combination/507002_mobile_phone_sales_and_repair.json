@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lot Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "507002",
+    "phone_number": "+91 1800 123 3567",
+    "website": "https://www.lotmobiles.com/",
+    "rating": 4.8,
+    "reviews_count": 91,
+    "address": "3, Wyra Rd, Indira Nagar, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Indira Nagar, Kaviraj Nagar",
+    "latitude": 17.2503532,
+    "longitude": 80.16770869999999,
+    "place_id": "ChIJqS1zms1ZNDoRpHF7G1RMJzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqS1zms1ZNDoRpHF7G1RMJzY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:44"
+  },
+  {
+    "business_name": "Samsung Experience Store Kaviraj Nagar",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Electronics store, Mobile phone repair shop, Phone repair service",
+    "pincode": "507002",
+    "phone_number": "+91 91779 26738",
+    "website": "https://www.samsungexclusivestores.in/samsung-experience-store-kaviraj-nagar-mobile-phone-shop-kaviraj-nagar-khammam-531272/Home",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ground Floor, opposite District Court, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.251635099999998,
+    "longitude": 80.16405499999999,
+    "place_id": "ChIJETcVFutZNDoROhuRwuBQXTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETcVFutZNDoROhuRwuBQXTk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:44"
+  }
+]

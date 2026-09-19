@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivas Milk Center",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Dairy store",
+    "pincode": "506252",
+    "phone_number": "+91 90003 01871",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-17, Zaffergadh, Ghanpur, Telangana 506316",
+    "area": "506252",
+    "latitude": 17.7686155,
+    "longitude": 79.48430069999999,
+    "place_id": "ChIJ5QuglXBXMzoRbeCGd3JUIZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QuglXBXMzoRbeCGd3JUIZM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:46:09"
+  },
+  {
+    "business_name": "Nayeem enterprises",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery equipment",
+    "all_categories": "Bakery equipment",
+    "pincode": "506252",
+    "phone_number": "+91 91107 32011",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Iqbal Ahmed Nagar, Mancherial, Telangana 504208",
+    "area": "Iqbal Ahmed Nagar",
+    "latitude": 18.87682,
+    "longitude": 79.4449681,
+    "place_id": "ChIJs79j_qvLMjoRBL5Tb3CXtl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs79j_qvLMjoRBL5Tb3CXtl0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:46:11"
+  }
+]

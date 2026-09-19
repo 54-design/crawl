@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Travel Being",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "506365",
+    "phone_number": "+91 183 356 5109",
+    "website": "http://www.thetravelbeing.com/",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "The Travel Being, 506365, India",
+    "area": "506365",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJewoaihWI1wMR8kHfd2qPKnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewoaihWI1wMR8kHfd2qPKnY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:41:03"
+  },
+  {
+    "business_name": "Turner Travel Services",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "506365",
+    "phone_number": "N/A",
+    "website": "https://www.evotravelagent.com/turnertravelservices",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Turner Travel Services, 506365, India",
+    "area": "506365",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJAbgAQsz_k4ARWNNGuKz4F_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbgAQsz_k4ARWNNGuKz4F_4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:41:03"
+  }
+]

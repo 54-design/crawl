@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SLV CAR WASH",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "507115",
+    "phone_number": "+91 91821 42441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "GJHH+PW5 NH 30, Panjabgadda, Ramavaram, Kothagudem, Telangana 507118",
+    "area": "Panjabgadda",
+    "latitude": 17.529341199999998,
+    "longitude": 80.62984929999999,
+    "place_id": "ChIJn919ZgAXNDoRJm6dXyWe9yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn919ZgAXNDoRJm6dXyWe9yo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:13"
+  },
+  {
+    "business_name": "Magic Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "507115",
+    "phone_number": "+91 90145 44831",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 19,
+    "address": "GJM6+M9F, Tallada - Kothagudem Rd, Vidyanagar Colony, Babucamp, Kothagudem, Telangana 507101",
+    "area": "Vidyanagar Colony, Babucamp",
+    "latitude": 17.5341803,
+    "longitude": 80.61092959999999,
+    "place_id": "ChIJEyu2R50XNDoRUPyqCJTJx8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyu2R50XNDoRUPyqCJTJx8g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:13"
+  }
+]

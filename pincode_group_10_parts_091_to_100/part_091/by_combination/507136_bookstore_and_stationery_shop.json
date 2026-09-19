@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANDHYA Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "507136",
+    "phone_number": "+91 88853 40200",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1-85, Medak Road, near High School, Azam Pura, Siddipet, Telangana 502103",
+    "area": "Azam Pura",
+    "latitude": 18.1035622,
+    "longitude": 78.8454819,
+    "place_id": "ChIJcX1byx3tzDsRcwLrRSIAay0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcX1byx3tzDsRcwLrRSIAay0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:34:06"
+  },
+  {
+    "business_name": "A to Z old & new Book stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "507136",
+    "phone_number": "+91 75694 49140",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7-30-36, Main Rd, opp. manikanta Book Stall, Tyagaraja Nagar, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Tyagaraja Nagar",
+    "latitude": 16.9971551,
+    "longitude": 81.77338979999999,
+    "place_id": "ChIJtbfFaGClNzoRXliTW0AtrjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbfFaGClNzoRXliTW0AtrjI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:34:06"
+  }
+]

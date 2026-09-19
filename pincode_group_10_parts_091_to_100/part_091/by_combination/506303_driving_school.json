@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malar Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Car dealer, Car leasing service, Drivers license training school, Driver's license office, Driving test center, Two Wheeler Dealer, Truck driving school",
+    "pincode": "506303",
+    "phone_number": "+91 89031 91222",
+    "website": "https://www.malardrivingschool.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Neyveli Arch Gate Neyveli, 82, M.R.K Salai, Indira Nagar, Neyveli, Vadakkumelur, Tamil Nadu 607801",
+    "area": "Indira Nagar",
+    "latitude": 11.6179626,
+    "longitude": 79.5428062,
+    "place_id": "ChIJl9ysgPmxVDoRc_Az-LfAImU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9ysgPmxVDoRc_Az-LfAImU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:52:20"
+  },
+  {
+    "business_name": "Saket Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "506303",
+    "phone_number": "+91 96500 88902",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "703, Mohyal Colony, Sector 40, Gurugram, Haryana 122003",
+    "area": "Mohyal Colony, Sector 40",
+    "latitude": 28.4491318,
+    "longitude": 77.0556888,
+    "place_id": "ChIJrQhIM6UZDTkRt47JagCx7_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQhIM6UZDTkRt47JagCx7_k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:52:20"
+  }
+]

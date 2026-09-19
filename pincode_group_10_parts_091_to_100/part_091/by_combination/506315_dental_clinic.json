@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mj multi speciality dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "506315",
+    "phone_number": "+91 91823 92996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramlal complex, near Maripeda Bunglow, Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.3851417,
+    "longitude": 79.8940806,
+    "place_id": "ChIJWfvW34_tNDoR0-FZplqWIEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfvW34_tNDoR0-FZplqWIEo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:33"
+  },
+  {
+    "business_name": "sri padmavathi dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506315",
+    "phone_number": "+91 97038 01119",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Near shanthi theater Bunglow, Telangana, Maripeda, Maripeda Bunglow, Telangana 506315",
+    "area": "Maripeda, Maripeda Bunglow",
+    "latitude": 17.3842355,
+    "longitude": 79.8947822,
+    "place_id": "ChIJAaPQ7xTtNDoRs6uVwwOp7zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaPQ7xTtNDoRs6uVwwOp7zs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:33"
+  }
+]

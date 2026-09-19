@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srikanth Sun Glasses",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "506302",
+    "phone_number": "+91 99891 35751",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 8, 1, Main Road, Devaruppula, Telangana 506302",
+    "area": "506302",
+    "latitude": 17.534021,
+    "longitude": 79.3512306,
+    "place_id": "ChIJU2V2XQBNyzsREJWEfX0bW6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2V2XQBNyzsREJWEfX0bW6E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:07"
+  },
+  {
+    "business_name": "T/20 Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center, Fiber Optic Products Supplier, Optical Wholesaler, Repair service, Sunglasses store",
+    "pincode": "506302",
+    "phone_number": "+91 98456 97222",
+    "website": "https://t20opticals.in/",
+    "rating": 4.9,
+    "reviews_count": 487,
+    "address": "No.41/1, Castle St, beside Fathima Bakery, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Ashok Nagar",
+    "latitude": 12.9669309,
+    "longitude": 77.60930739999999,
+    "place_id": "ChIJM0eT-X8WrjsRSC5fY9MK-Zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0eT-X8WrjsRSC5fY9MK-Zw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:08"
+  }
+]

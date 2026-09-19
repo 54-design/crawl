@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Pravalika Auto Consultency",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service",
+    "pincode": "507133",
+    "phone_number": "+91 99636 60928",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12-1 Bus Stand Center Bhadradri Kothagudem, Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9468723,
+    "longitude": 80.8123785,
+    "place_id": "ChIJVzdxj6BXMToRNk1Q_8ngF2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzdxj6BXMToRNk1Q_8ngF2k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:12"
+  },
+  {
+    "business_name": "VAMSHI'S PAINITE",
+    "search_category": "Tuition Center",
+    "primary_category": "Children's camp",
+    "all_categories": "Children's camp",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "above KAMALAPURAM, KAMALAPURAM, Manuguru (PT), Telangana 507117",
+    "area": "507133",
+    "latitude": 17.946141,
+    "longitude": 80.8537623,
+    "place_id": "ChIJJRRU1YlXMToR2Ge26NpMBHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRRU1YlXMToR2Ge26NpMBHA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:12"
+  }
+]

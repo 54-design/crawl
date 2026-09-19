@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Appliance Doctor",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eastbourne BN22 7NE, United Kingdom",
+    "area": "507118",
+    "latitude": 50.7715446,
+    "longitude": 0.2951406,
+    "place_id": "ChIJ9R7tifJz30cRw3LPwmL-L3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9R7tifJz30cRw3LPwmL-L3o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:02"
+  },
+  {
+    "business_name": "RC RIFRIGIRATION & A C WORKS",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suryodaya, School Rd, near Nagaraju Hospital, near Old Depot, Coolie Lane, Hanuman Basthi, Palwancha, Kothagudem, Telangana 507101",
+    "area": "Coolie Lane, Hanuman Basthi",
+    "latitude": 17.557542899999998,
+    "longitude": 80.6193425,
+    "place_id": "ChIJrQPdpp4RNDoRQTL4xAwce5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQPdpp4RNDoRQTL4xAwce5U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:04"
+  }
+]

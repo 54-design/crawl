@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bupalpally Shop One",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506347",
+    "phone_number": "+91 91210 34675",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Road, Medaram, Telangana 506347",
+    "area": "506347",
+    "latitude": 18.3275203,
+    "longitude": 80.22512139999999,
+    "place_id": "ChIJgZvoXamlMzoR0JzK7lu6wR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZvoXamlMzoR0JzK7lu6wR8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:27:07"
+  },
+  {
+    "business_name": "Shivani Cool Drinks",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506347",
+    "phone_number": "+91 73828 50155",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 21,
+    "address": "Shop No 3, Pasra Near Sri Sammakka Sara laka Wine, 11, Jayashankar, Bhupalpally, Telangana 506347",
+    "area": "506347",
+    "latitude": 18.195029599999998,
+    "longitude": 80.1669296,
+    "place_id": "ChIJeSIOzhihMzoRD2a8Xl5_kAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSIOzhihMzoRD2a8Xl5_kAo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:27:07"
+  }
+]

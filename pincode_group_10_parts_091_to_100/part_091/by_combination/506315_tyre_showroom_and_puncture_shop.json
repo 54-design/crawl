@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Usman Home",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "506315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House No 2-23, Ayyagari Veedi, Water Tank Road, Chillamcherla, Telangana 506325",
+    "area": "506315",
+    "latitude": 17.4297439,
+    "longitude": 79.79262419999999,
+    "place_id": "ChIJUfIhHACVNDoR_OmT1fFgXnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfIhHACVNDoR_OmT1fFgXnI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:43"
+  },
+  {
+    "business_name": "SS Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "506315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, near Old Shantiniketan School, Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.3851417,
+    "longitude": 79.8940806,
+    "place_id": "ChIJJ3WzDhLtNDoRSb-XjkeB7f8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3WzDhLtNDoRSb-XjkeB7f8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:43"
+  }
+]

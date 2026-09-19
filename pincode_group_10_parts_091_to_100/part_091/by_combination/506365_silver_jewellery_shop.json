@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crazy Silver Shine",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "506365",
+    "phone_number": "+91 63630 70419",
+    "website": "http://www.crazysilvershine.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Plot no:265,Road, no 11, Vasavi Colony Rd, beside TNR Apartments, Kothapet, Hyderabad, Telangana 500035",
+    "area": "Kothapet",
+    "latitude": 17.3646243,
+    "longitude": 78.5502022,
+    "place_id": "ChIJaTDmwtSZyzsRr3mIqTtmrU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTDmwtSZyzsRr3mIqTtmrU0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:40"
+  },
+  {
+    "business_name": "Deepak's Silver Emporio",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Silversmith",
+    "all_categories": "Silversmith",
+    "pincode": "506365",
+    "phone_number": "+91 95644 95644",
+    "website": "https://www.deepaksilver.com/",
+    "rating": 4.3,
+    "reviews_count": 1259,
+    "address": "40-26/1/9/1, Sreeram St, Brindavan Colony, Sriram Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Brindavan Colony, Sriram Nagar, Benz Circle",
+    "latitude": 16.497899099999998,
+    "longitude": 80.64920049999999,
+    "place_id": "ChIJodcifB37NToRd6vGNuGgQ90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodcifB37NToRd6vGNuGgQ90",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:41"
+  }
+]

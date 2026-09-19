@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Airtel Cell Tower, Atmakur, Ladella, Telangana 506006",
+    "area": "Atmakur",
+    "latitude": 18.0882343,
+    "longitude": 79.6364669,
+    "place_id": "ChIJDV4p-BNHMzoR-HgTg8WZrYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDV4p-BNHMzoR-HgTg8WZrYM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:09"
+  },
+  {
+    "business_name": "Apollo Diagnostics - Arepally",
+    "search_category": "Clinics",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical Center, Medical clinic, Medical diagnostic imaging center, Paternity testing service, Pathologist, STD testing service",
+    "pincode": "506342",
+    "phone_number": "+91 85199 21986",
+    "website": "https://apollodiagnostics.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H, Bharath's house, Arepally - Paidipally Rd, opp. Veera Brahmendra Swamy Temple, Warangal, Arepally, Telangana 506006",
+    "area": "506342",
+    "latitude": 18.027925,
+    "longitude": 79.61744,
+    "place_id": "ChIJX56GMgBFMzoRYH2ZwgKOxDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX56GMgBFMzoRYH2ZwgKOxDE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:11"
+  }
+]

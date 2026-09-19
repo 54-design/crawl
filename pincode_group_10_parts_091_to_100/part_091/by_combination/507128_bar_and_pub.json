@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sHIJAA",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "507128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MWF9+34G, Yatapaka, Andhra Pradesh 533352",
+    "area": "507128",
+    "latitude": 17.672679,
+    "longitude": 80.9178244,
+    "place_id": "ChIJlyTXdACvNjoRZLf8fuLH2X0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyTXdACvNjoRZLf8fuLH2X0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:29:20"
+  },
+  {
+    "business_name": "Eat&drink restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "507128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "65H2+F2X, Sambhani Nagar, Mustafa Nagar, Khammam, Telangana 507001",
+    "area": "Sambhani Nagar, Mustafa Nagar",
+    "latitude": 17.2287495,
+    "longitude": 80.150117,
+    "place_id": "ChIJF3t1CgBXNDoRkX5D0ZGNAmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3t1CgBXNDoRkX5D0ZGNAmQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:29:22"
+  }
+]

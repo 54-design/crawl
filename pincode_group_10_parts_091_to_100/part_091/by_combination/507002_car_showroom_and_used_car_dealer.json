@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vamsi used cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "507002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wyra Rd, near vvc circle, Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Rotary Nagar",
+    "latitude": 17.245262999999998,
+    "longitude": 80.1775535,
+    "place_id": "ChIJGVCFqvtZNDoRJUr3RpI6u-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVCFqvtZNDoRJUr3RpI6u-E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:00"
+  },
+  {
+    "business_name": "Vamsi used cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Parking lot",
+    "all_categories": "Parking lot",
+    "pincode": "507002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13, Wyra Rd, Sri Nagar Colony, Khammam, Telangana 507002",
+    "area": "Sri Nagar Colony",
+    "latitude": 17.2452662,
+    "longitude": 80.1775407,
+    "place_id": "ChIJYeODWQBZNDoRWdcRbsJ4zLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeODWQBZNDoRWdcRbsJ4zLY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:00"
+  }
+]

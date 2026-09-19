@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fathima Kiranam",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "507122",
+    "phone_number": "+91 99599 33839",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Repallewada, Khammam, Perupalle, Telangana 507122",
+    "area": "Repallewada",
+    "latitude": 17.564862299999998,
+    "longitude": 80.2711588,
+    "place_id": "ChIJ4Ywks_xlNDoRDh3P4J9jUWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Ywks_xlNDoRDh3P4J9jUWc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:41"
+  },
+  {
+    "business_name": "MedPlus Franchise - Ada Medicals",
+    "search_category": "Provision Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, General store, Medical supply store, Sports nutrition store, Vitamin & supplements store",
+    "pincode": "507122",
+    "phone_number": "+91 89833 33896",
+    "website": "https://www.medplusmart.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door Number:5-10/5, near Brs Party Office, Karepalli, Telangana 507122",
+    "area": "507122",
+    "latitude": 17.5089242,
+    "longitude": 80.2737947,
+    "place_id": "ChIJRXX0ME9nNDoRhz2GlxITY44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXX0ME9nNDoRhz2GlxITY44",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:41"
+  }
+]

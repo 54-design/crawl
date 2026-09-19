@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SM Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506329",
+    "phone_number": "+91 87122 28830",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "Aparajita Arcade, 3-5-900/1, road market, opp. Ratnadeep super, Old MLA Quarters, Venkata swamy Nagar, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Old MLA Quarters, Venkata swamy Nagar, Himayatnagar",
+    "latitude": 17.3992801,
+    "longitude": 78.4867034,
+    "place_id": "ChIJLzGgNGuZyzsR_wJtkRSQrSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzGgNGuZyzsR_wJtkRSQrSA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:10:54"
+  },
+  {
+    "business_name": "FITPRO FITNESS GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506329",
+    "phone_number": "+91 78678 61367",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "5-7-236, Aghapura Rd, Darus Salam, Aghapura, Nampally, Hyderabad, Telangana 500001",
+    "area": "Darus Salam, Aghapura, Nampally",
+    "latitude": 17.3856716,
+    "longitude": 78.4638588,
+    "place_id": "ChIJ015_lmKXyzsRP1AXJS6q5MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ015_lmKXyzsRP1AXJS6q5MY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:10:54"
+  }
+]

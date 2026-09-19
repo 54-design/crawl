@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Story Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "506343",
+    "phone_number": "+91 97397 56129",
+    "website": "https://chai-story-cafe.jimdosite.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Anand Shanti Nilaya, 45, 26th Main Rd, BTB Area, 4th T Block East, Tilak Nagar, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "BTB Area, 4th T Block East, Tilak Nagar, Jayanagar",
+    "latitude": 12.928368899999999,
+    "longitude": 77.5954119,
+    "place_id": "ChIJIRwEPAAVrjsR1iS399Y6tZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRwEPAAVrjsR1iS399Y6tZs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:43"
+  },
+  {
+    "business_name": "Prem Pyali Amruttulya",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "506343",
+    "phone_number": "+91 81204 63076",
+    "website": "http://prempyali.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop no, Prabhatam Plaza, 1, Raisen Rd, beside Oriental College, Patel Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Patel Nagar",
+    "latitude": 23.2489812,
+    "longitude": 77.5004563,
+    "place_id": "ChIJ3TiS8klBfDkRhiXU56byrMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TiS8klBfDkRhiXU56byrMc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:44"
+  }
+]

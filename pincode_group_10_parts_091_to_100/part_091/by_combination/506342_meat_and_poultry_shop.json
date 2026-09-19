@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kadaknath poultry farming",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Rd Number 2, Reddy Colony, Hanamkonda, Telangana 506001",
+    "area": "Reddy Colony",
+    "latitude": 18.0127119,
+    "longitude": 79.5698505,
+    "place_id": "ChIJVWdjtU9FMzoRerm7nTdZlJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWdjtU9FMzoRerm7nTdZlJU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:46"
+  },
+  {
+    "business_name": "Tirumala poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Brahmanapally, rural, Atmakur, Telangana 506342",
+    "area": "506342",
+    "latitude": 18.071901699999998,
+    "longitude": 79.7528198,
+    "place_id": "ChIJ27f8Ms1rMzoR52YB_X-rPR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27f8Ms1rMzoR52YB_X-rPR4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:46"
+  }
+]

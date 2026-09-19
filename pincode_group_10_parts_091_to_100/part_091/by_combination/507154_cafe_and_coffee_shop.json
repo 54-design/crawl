@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEA BAR",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "507154",
+    "phone_number": "+91 99636 77967",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "HMP9, GG7 Main Road, Gandhi Nagar, Palwancha, Old Paloncha, Telangana 507154",
+    "area": "Gandhi Nagar",
+    "latitude": 17.5863417,
+    "longitude": 80.66892,
+    "place_id": "ChIJtzhM_VYaNDoRGE-Rkw9ju4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzhM_VYaNDoRGE-Rkw9ju4c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:42"
+  },
+  {
+    "business_name": "High Line Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "507154",
+    "phone_number": "+91 95502 42045",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 152,
+    "address": "2-22/12, opp. Nayara Petrol Pump, Dwaraka Nagar, Ravindra Nagar Colony, Adilabad, Telangana 504001",
+    "area": "Dwaraka Nagar, Ravindra Nagar Colony",
+    "latitude": 19.6673805,
+    "longitude": 78.5302292,
+    "place_id": "ChIJc4e3Q2Nd0jsR4iANQrTh7W8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4e3Q2Nd0jsR4iANQrTh7W8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:42"
+  }
+]

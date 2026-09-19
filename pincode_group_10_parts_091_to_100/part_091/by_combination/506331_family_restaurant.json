@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Athdhi family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Food court, Hotel, Tiffin center",
+    "pincode": "506331",
+    "phone_number": "+91 90004 16913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arepally - Oorugonda, road, near Prathima Cancer Institute, Damera, Warangal, Telangana 506006",
+    "area": "506331",
+    "latitude": 18.0369576,
+    "longitude": 79.64061699999999,
+    "place_id": "ChIJ44wscgBFMzoRYwv-OGJuJDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44wscgBFMzoRYwv-OGJuJDU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:14:16"
+  },
+  {
+    "business_name": "Sharath hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506331",
+    "phone_number": "+91 99496 38955",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sangem, Telangana 506329",
+    "area": "506331",
+    "latitude": 17.8854929,
+    "longitude": 79.7110999,
+    "place_id": "ChIJe3dhbsRdMzoRNfudQXN7_O8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3dhbsRdMzoRNfudQXN7_O8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:14:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyaratnam travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Bus tour agency, Car leasing service, Taxi service, Truck rental agency, Van rental agency",
+    "pincode": "507116",
+    "phone_number": "+91 94409 16392",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-1-454/1, beside 220 Kv Substation, Ashok Nagar, Manuguru (PT), Telangana 507117",
+    "area": "Ashok Nagar",
+    "latitude": 17.930800599999998,
+    "longitude": 80.82627649999999,
+    "place_id": "ChIJsUmhRz5XMToRB1liSy5MEqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUmhRz5XMToRB1liSy5MEqc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:13:10"
+  },
+  {
+    "business_name": "Manuguru car travels aaami",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "507116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gm office, Vippala singaram, Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Vippala singaram, Pilot Colony",
+    "latitude": 17.9385138,
+    "longitude": 80.81785889999999,
+    "place_id": "ChIJi0AacJhXMToRAE_K9jiALgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0AacJhXMToRAE_K9jiALgU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:13:12"
+  }
+]

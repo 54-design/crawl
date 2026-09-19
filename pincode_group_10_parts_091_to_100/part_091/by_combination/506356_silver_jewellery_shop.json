@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Jewellery Works",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "506356",
+    "phone_number": "+91 97048 75470",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tekumatla,Chityala Road, 66, Tekumatla, Ramakistapur V, Telangana 506356",
+    "area": "Tekumatla",
+    "latitude": 18.384476,
+    "longitude": 79.6363899,
+    "place_id": "ChIJpQfDE1clMzoRq-cVld_YVtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQfDE1clMzoRq-cVld_YVtc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:43"
+  },
+  {
+    "business_name": "Sagar Jewellers Works",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "506356",
+    "phone_number": "N/A",
+    "website": "https://pin.it/2NyKMxC",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Jammikunta, Telangana 505122",
+    "area": "506356",
+    "latitude": 18.2904336,
+    "longitude": 79.4743479,
+    "place_id": "ChIJWwLpSx0xMzoRIAzQkFhEZfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwLpSx0xMzoRIAzQkFhEZfQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:43"
+  }
+]

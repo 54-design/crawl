@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "506332",
+    "phone_number": "+91 94918 80879",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PALLAVI KANGAL HALL, Pakhal Rd, beside KOTAK BANK, Narsampet, Telangana 506132",
+    "area": "506332",
+    "latitude": 17.9305019,
+    "longitude": 79.89495699999999,
+    "place_id": "ChIJgW6obCdlMzoREQq5IpQLXWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW6obCdlMzoREQq5IpQLXWc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:17:15"
+  },
+  {
+    "business_name": "Sri Ram DTH",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Corporate office",
+    "pincode": "506332",
+    "phone_number": "+91 98660 05181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 2, Nakkala Gutta, Warangal, Hanamkonda, Telangana 506001",
+    "area": "Nakkala Gutta",
+    "latitude": 17.9957976,
+    "longitude": 79.5491339,
+    "place_id": "ChIJSzFY1Z5PMzoRNCOagjgRXmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzFY1Z5PMzoRNCOagjgRXmU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:17:18"
+  }
+]

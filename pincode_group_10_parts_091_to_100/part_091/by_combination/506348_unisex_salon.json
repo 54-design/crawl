@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "506348",
+    "phone_number": "+91 81060 68230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4V72+6FF, 2-24, Warangal - Eturnagaram Rd, near Busstand, Mallampalle, Telangana 506349",
+    "area": "506348",
+    "latitude": 18.1130832,
+    "longitude": 79.8512038,
+    "place_id": "ChIJf3kl0OttMzoRU91OlcoOawI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3kl0OttMzoRU91OlcoOawI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:29:56"
+  },
+  {
+    "business_name": "Amjad Habib Hair & Beauty Premium Salon, Miyapur.",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Facial spa, Make-up artist, Nail salon, Hairdresser, Waxing hair removal service",
+    "pincode": "506348",
+    "phone_number": "+91 99515 64444",
+    "website": "https://amjadhabib.net/best-salons-in-miyapur/",
+    "rating": 4.8,
+    "reviews_count": 659,
+    "address": "2nd Floor, Plot no 10, Miyapur Rd, beside D-Mart, opp. Candeur 40 apts, Sri Rangapuram colony, Rangapuram, Madeenaguda, Hyderabad, Telangana 500049",
+    "area": "Sri Rangapuram colony, Rangapuram",
+    "latitude": 17.5045576,
+    "longitude": 78.36197609999999,
+    "place_id": "ChIJRb-gxdeTyzsR3bCqEzldU4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRb-gxdeTyzsR3bCqEzldU4o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:29:57"
+  }
+]

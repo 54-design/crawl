@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saini Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "507138",
+    "phone_number": "+91 98100 24587",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-Block, Lohia Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "B-Block, Lohia Nagar",
+    "latitude": 28.6735458,
+    "longitude": 77.4319076,
+    "place_id": "ChIJpfgEMLHxDDkRqZqCFeCiuwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfgEMLHxDDkRqZqCFeCiuwM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:37:05"
+  },
+  {
+    "business_name": "NIWARAN",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Physiotherapist",
+    "pincode": "507138",
+    "phone_number": "+91 98390 50966",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "118/258, Hanuman Park Rd, Gumti No.5, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Gumti No.5, Kaushalpuri, Darshan Purwa",
+    "latitude": 26.46879,
+    "longitude": 80.31195799999999,
+    "place_id": "ChIJkQx9gXg4nDkRGTaU_mPJdFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQx9gXg4nDkRGTaU_mPJdFc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:37:07"
+  }
+]

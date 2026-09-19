@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Tailors",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "507125",
+    "phone_number": "+91 97050 56576",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-2, Bombay Colony, Bhadradri, Kothagudem, Manuguru (PT), Telangana 507125",
+    "area": "Bombay Colony, Bhadradri",
+    "latitude": 17.9176806,
+    "longitude": 80.79637389999999,
+    "place_id": "ChIJQRlHC4n_MzoReyRY-lgBKfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRlHC4n_MzoReyRY-lgBKfw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:27:33"
+  },
+  {
+    "business_name": "Trendz men's wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507125",
+    "phone_number": "+91 81794 37197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Allapalli, Telangana 507124",
+    "area": "507125",
+    "latitude": 17.829915,
+    "longitude": 80.47992699999999,
+    "place_id": "ChIJbboYeTj1MzoRQuF-jjRpuHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbboYeTj1MzoRQuF-jjRpuHo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:27:35"
+  }
+]

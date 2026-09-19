@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW S S FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506315",
+    "phone_number": "+91 95055 73135",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.No. 3-4, Rural, Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.3862305,
+    "longitude": 79.8934649,
+    "place_id": "ChIJpZ4RMk_tNDoRIRHhYiyaau4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZ4RMk_tNDoRIRHhYiyaau4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:26"
+  },
+  {
+    "business_name": "Nagaraju Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CWF5+6X5, Beecharajpalle, Telangana 506315",
+    "area": "506315",
+    "latitude": 17.4230116,
+    "longitude": 79.90992949999999,
+    "place_id": "ChIJgaAqy1GTNDoR3U7aKQWoSR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaAqy1GTNDoR3U7aKQWoSR0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thirumala Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store",
+    "pincode": "506310",
+    "phone_number": "+91 99597 15859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 3, BUSTOP COMPLEX, Main Road, Vardhanapeta, Telangana 506313",
+    "area": "Vardhanapeta",
+    "latitude": 17.7761972,
+    "longitude": 79.5792422,
+    "place_id": "ChIJqYNgJwBZMzoR37_EXz0qX10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYNgJwBZMzoR37_EXz0qX10",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:47"
+  },
+  {
+    "business_name": "శ్రీ మొబైల్స్",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "506310",
+    "phone_number": "+91 81869 38091",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Chittimallacomplex, Shop No G-10, beside Bakeries, opposite bustand, Katrial, Telangana 506313",
+    "area": "Vardhanapeta",
+    "latitude": 17.776033599999998,
+    "longitude": 79.57953499999999,
+    "place_id": "ChIJjXAC5ShZMzoRe_qx8Gk2v88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXAC5ShZMzoRe_qx8Gk2v88",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:47"
+  }
+]

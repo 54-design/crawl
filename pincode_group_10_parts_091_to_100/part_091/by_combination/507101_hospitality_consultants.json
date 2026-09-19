@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modepu’s Residency",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "507101",
+    "phone_number": "+91 99496 41990",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Modepu’s residency, Srinagar, Kothagudem, Laxmidevipally, Telangana 507101",
+    "area": "Srinagar",
+    "latitude": 17.5548535,
+    "longitude": 80.6051499,
+    "place_id": "ChIJe7P1qHYRNDoRm7DaEj-7MrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7P1qHYRNDoRm7DaEj-7MrM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:04:18"
+  },
+  {
+    "business_name": "Gourmet Sage Hospitality Solutions",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Food and beverage consultant",
+    "all_categories": "Food and beverage consultant",
+    "pincode": "507101",
+    "phone_number": "+91 98403 60066",
+    "website": "http://www.gourmetsage.com/",
+    "rating": 4.7,
+    "reviews_count": 42,
+    "address": "A3, Green Inns Apartment, 104, Mahatma Gandhi Rd, Anna Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+    "area": "Anna Colony, Besant Nagar",
+    "latitude": 12.9960984,
+    "longitude": 80.2630537,
+    "place_id": "ChIJRQjcK_dnUjoRLZDK5e0S2P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQjcK_dnUjoRLZDK5e0S2P4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:04:19"
+  }
+]

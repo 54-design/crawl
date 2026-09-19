@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AP Group of Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "506333",
+    "phone_number": "+91 89188 96598",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 345,
+    "address": "Malda, Ganramari, West Bengal 732121",
+    "area": "506333",
+    "latitude": 24.9298961,
+    "longitude": 88.2753144,
+    "place_id": "ChIJO3raMHMH-zkRE9Bz2R07qew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3raMHMH-zkRE9Bz2R07qew",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:18:34"
+  },
+  {
+    "business_name": "Rahul Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "506333",
+    "phone_number": "+91 84838 70104",
+    "website": "https://id.vyaparify.com/rahul-towing-services",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lane No.1, Samrat Ashok Rd, Mahindra Society, Kalyani Nagar, Pune, Maharashtra 411006",
+    "area": "Mahindra Society, Kalyani Nagar",
+    "latitude": 18.5516474,
+    "longitude": 73.89533949999999,
+    "place_id": "ChIJKVoXDajBwjsRv15mdTLyyLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVoXDajBwjsRv15mdTLyyLE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:18:34"
+  }
+]

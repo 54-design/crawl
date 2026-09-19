@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Taj Palace",
+    "search_category": "Hotel",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "507136",
+    "phone_number": "+91 93997 91295",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 258,
+    "address": "Bijli office ke samne, main road, Raut Para, Bijapur, Chhattisgarh 494444",
+    "area": "Raut Para",
+    "latitude": 18.790782999999998,
+    "longitude": 80.8170839,
+    "place_id": "ChIJte8LbwCJMToR26U6eu1PdLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJte8LbwCJMToR26U6eu1PdLY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:56"
+  },
+  {
+    "business_name": "Hotel GR PALACE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507136",
+    "phone_number": "+91 75871 36007",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 412,
+    "address": "QRX7+445, Bijapur, Chhattisgarh 494444",
+    "area": "507136",
+    "latitude": 18.8014174,
+    "longitude": 80.8115807,
+    "place_id": "ChIJ-f__7oknMjoRS--F_-IOxAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-f__7oknMjoRS--F_-IOxAo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:56"
+  }
+]

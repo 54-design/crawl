@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilip Auto Electrical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Electric motor repair shop",
+    "pincode": "506313",
+    "phone_number": "+91 86864 27544",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop No 12, Auto Nagar, Vardhanapeta, Warangal, Telangana 506313",
+    "area": "Auto Nagar, Vardhanapeta",
+    "latitude": 17.7772981,
+    "longitude": 79.580894,
+    "place_id": "ChIJ10bgyBtZMzoRXS04dKqnGhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10bgyBtZMzoRXS04dKqnGhY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:00"
+  },
+  {
+    "business_name": "New Jaya Sai Electricals",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electric motor store",
+    "all_categories": "Electric motor store, Copper Supplier, Electrical engineer, Electrical supply store, Cooler Supplier",
+    "pincode": "506313",
+    "phone_number": "+91 77029 83553",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bandelli St, Girmajipet, Warangal, Telangana 506002",
+    "area": "Girmajipet",
+    "latitude": 17.978548399999998,
+    "longitude": 79.6000912,
+    "place_id": "ChIJLZZ4hiFFMzoR8Nz6m674aWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZZ4hiFFMzoR8Nz6m674aWU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:03"
+  }
+]

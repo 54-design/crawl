@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crystal View Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Optometrist",
+    "pincode": "507125",
+    "phone_number": "+91 96777 52202",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "High Road, 2/299, Mambakkam - Medavakkam Main Rd, Kanchipuram, Mambakkam, Tamil Nadu 600127",
+    "area": "507125",
+    "latitude": 12.836826,
+    "longitude": 80.168646,
+    "place_id": "ChIJxVb4b3xZUjoR6v9OPhP8mVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVb4b3xZUjoR6v9OPhP8mVs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:27:40"
+  },
+  {
+    "business_name": "Divya Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center",
+    "pincode": "507125",
+    "phone_number": "+91 98420 35113",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "19 D, Gandhi Rd, Vandavasi, Tamil Nadu 604408",
+    "area": "507125",
+    "latitude": 12.505293,
+    "longitude": 79.6026765,
+    "place_id": "ChIJzb5QedMlUzoRZG9CL4LuENQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzb5QedMlUzoRZG9CL4LuENQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:27:43"
+  }
+]

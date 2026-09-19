@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srirama Tiffin Center",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507111",
+    "phone_number": "+91 95730 77794",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 37,
+    "address": "H No 4-1-82, Kalyanamandapam Road, opposite Om Shanti Satram, Bhadrachalam, Telangana 507111",
+    "area": "507111",
+    "latitude": 17.6678532,
+    "longitude": 80.883965,
+    "place_id": "ChIJT1wDXCGpNjoRtp-XYenNrNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1wDXCGpNjoRtp-XYenNrNA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:07"
+  },
+  {
+    "business_name": "Sri Balaji Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "507111",
+    "phone_number": "+91 93905 20621",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 10,
+    "address": "RTC Bus Stand Complex, Rama Sethu, Bhadrachalam, Telangana 507111",
+    "area": "507111",
+    "latitude": 17.6718241,
+    "longitude": 80.8907511,
+    "place_id": "ChIJYeA7GgepNjoRTajocAQCMmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeA7GgepNjoRTajocAQCMmM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:07"
+  }
+]

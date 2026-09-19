@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAAZ HOTEL CONSULTANTS PVT.LTD.",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "506350",
+    "phone_number": "+91 11 2641 2180",
+    "website": "http://www.naazconsultants.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "515, Fifth Foor, 38 Ansal Tower, Nehru Place, New Delhi, Delhi 110019",
+    "area": "Nehru Place",
+    "latitude": 28.5486898,
+    "longitude": 77.25061819999999,
+    "place_id": "ChIJ3T0qn8_jDDkRNsf8UiGV8O8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T0qn8_jDDkRNsf8UiGV8O8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:33:54"
+  },
+  {
+    "business_name": "Divine Hotel Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Business management consultant",
+    "pincode": "506350",
+    "phone_number": "+91 96577 35566",
+    "website": "https://www.divinehotelconsultants.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Prabhat Rd, Apex Colony, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "area": "Apex Colony, Deccan Gymkhana",
+    "latitude": 18.511549,
+    "longitude": 73.8313901,
+    "place_id": "ChIJ8YNYFI6_wjsRt7Wj8-q3fpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YNYFI6_wjsRt7Wj8-q3fpU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:33:55"
+  }
+]

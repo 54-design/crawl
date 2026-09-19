@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srikanth Mechanic Works",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "506370",
+    "phone_number": "+91 97006 79727",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 6, Gopalpur Rd, Lashkar Singaram, Vidya Nagar, Hanamkonda, Telangana 506009",
+    "area": "Lashkar Singaram, Vidya Nagar",
+    "latitude": 18.019038,
+    "longitude": 79.5499911,
+    "place_id": "ChIJe7_dtKxPMzoRCRlY5bPUHzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7_dtKxPMzoRCRlY5bPUHzE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:50:23"
+  },
+  {
+    "business_name": "Rasheed Car Mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "506370",
+    "phone_number": "+91 85238 86627",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "XGPG+H36, Fatima Nagar, Prashanthnagar Colony, Kazipet, Hanamkonda, Telangana 506004",
+    "area": "Fatima Nagar, Prashanthnagar Colony",
+    "latitude": 17.9864004,
+    "longitude": 79.5251299,
+    "place_id": "ChIJ_YxKXbBPMzoRAAAAMK0dBjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YxKXbBPMzoRAAAAMK0dBjw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:50:24"
+  }
+]

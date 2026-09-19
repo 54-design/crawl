@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDIA ENTERPRISES",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Plastic Bags Wholesaler, Sunglasses store, Watch store",
+    "pincode": "506310",
+    "phone_number": "+91 88856 00584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "State Highway 240, Bus Stop, Gavicherla Cross Road, Adarsha Colony, Rangashaipet, Warangal, Telangana 506005",
+    "area": "Adarsha Colony, Rangashaipet",
+    "latitude": 17.9460828,
+    "longitude": 79.5993165,
+    "place_id": "ChIJZ2k8wb9bMzoRIn279Mmyt3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2k8wb9bMzoRIn279Mmyt3Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:53:44"
+  },
+  {
+    "business_name": "Druv",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "T-shirt store",
+    "all_categories": "T-shirt store",
+    "pincode": "506310",
+    "phone_number": "N/A",
+    "website": "http://druv.shop/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PSR Plaza, 19-6-272, Shamanpet, Shambunipet, Warangal, Telangana 506005",
+    "area": "Shamanpet, Shambunipet",
+    "latitude": 17.9475588,
+    "longitude": 79.59909259999999,
+    "place_id": "ChIJ8dawqCxbMzoRr7qORCvNiqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dawqCxbMzoRr7qORCvNiqA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:53:44"
+  }
+]

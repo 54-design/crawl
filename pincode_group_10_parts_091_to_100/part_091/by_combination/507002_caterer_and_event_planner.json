@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Meda's",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "507002",
+    "phone_number": "+91 96422 29797",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "court Near district, Wyra Rd, Indira Nagar Colony, Khammam, Telangana 507002",
+    "area": "Indira Nagar Colony",
+    "latitude": 17.2516502,
+    "longitude": 80.16535189999999,
+    "place_id": "ChIJV3x-NolZNDoROIoi5J7wTOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3x-NolZNDoROIoi5J7wTOM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:28"
+  },
+  {
+    "business_name": "Kamal catering services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Catering food and drink supplier",
+    "all_categories": "Catering food and drink supplier",
+    "pincode": "507002",
+    "phone_number": "+91 91105 81904",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "FCR9+5F2, Vivekananda Nagar Extension, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vivekananda Nagar Extension, Kukatpally",
+    "latitude": 17.490437999999997,
+    "longitude": 78.418688,
+    "place_id": "ChIJvyESCR2RyzsRawFJMP-SGL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyESCR2RyzsRawFJMP-SGL4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:30"
+  }
+]

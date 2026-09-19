@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy pickles and home made foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "507003",
+    "phone_number": "+91 81258 81035",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nandanavanam Venture Main Rd, near moulana petrol bunk, Khammam, Telangana 507163",
+    "area": "507003",
+    "latitude": 17.2649871,
+    "longitude": 80.1121977,
+    "place_id": "ChIJlcA5FrlZNDoR3TX2fuCRUhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcA5FrlZNDoR3TX2fuCRUhA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:15"
+  },
+  {
+    "business_name": "ARR HOME FOODS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "507003",
+    "phone_number": "+91 86395 54520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sunder Nagar, Gandhi Nagar, Praksh Nagar, Khammam, Telangana 507003",
+    "area": "Sunder Nagar, Gandhi Nagar, Praksh Nagar",
+    "latitude": 17.239112,
+    "longitude": 80.1289334,
+    "place_id": "ChIJjd07rtBZNDoRZlKX5w12cas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjd07rtBZNDoRZlKX5w12cas",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Think Adverts",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "507154",
+    "phone_number": "+91 76000 45756",
+    "website": "http://thinkadverts.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "131, Golden Tred Centre, near Zanzerda, Chowkdi, Junagadh, Gujarat 362015",
+    "area": "Chowkdi",
+    "latitude": 21.523128699999997,
+    "longitude": 70.4283143,
+    "place_id": "ChIJq6qqqlX_VzkRlOgaFWRqAdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqlX_VzkRlOgaFWRqAdE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:14"
+  },
+  {
+    "business_name": "Chiguru Creations",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "507154",
+    "phone_number": "+91 89047 48047",
+    "website": "http://www.chigurucreations.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Thyagaraja Rd, Agrahara, KR Mohalla, Mysuru, Karnataka 570004",
+    "area": "Agrahara, KR Mohalla",
+    "latitude": 12.3000797,
+    "longitude": 76.6518061,
+    "place_id": "ChIJ4Rx__YtxrzsReYzP9NXfwGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Rx__YtxrzsReYzP9NXfwGk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:14"
+  }
+]

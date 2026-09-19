@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh gold jewellery works",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "507114",
+    "phone_number": "+91 90004 31239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Av Complax, Gandhi Chowk, Gandhi Nagar, Praksh Nagar, Khammam, Telangana 507003",
+    "area": "Gandhi Nagar, Praksh Nagar",
+    "latitude": 17.245616599999998,
+    "longitude": 80.1382466,
+    "place_id": "ChIJu0xmzC1YNDoRAAAA0KXWxQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0xmzC1YNDoRAAAA0KXWxQA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:05"
+  },
+  {
+    "business_name": "Keerthi jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Jewelry store",
+    "pincode": "507114",
+    "phone_number": "+91 98484 64683",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Gandhi Chowk, beside Kamal watch ko, Ramachandra Nagar Colony, Moti Nagar, Khammam, Telangana 507003",
+    "area": "Ramachandra Nagar Colony, Moti Nagar",
+    "latitude": 17.2463871,
+    "longitude": 80.1381105,
+    "place_id": "ChIJGwCwBjJYNDoROfGNjrPUKb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwCwBjJYNDoROfGNjrPUKb8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:07"
+  }
+]

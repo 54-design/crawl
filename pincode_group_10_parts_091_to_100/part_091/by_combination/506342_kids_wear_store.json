@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "506342",
+    "phone_number": "+91 93948 61902",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11-22-180, Kashibugga, LB Nagar, Warangal, Telangana 506002",
+    "area": "Kashibugga, LB Nagar",
+    "latitude": 17.9826364,
+    "longitude": 79.6104455,
+    "place_id": "ChIJf0_cQutFMzoRCZyO37UX2c4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0_cQutFMzoRCZyO37UX2c4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:59"
+  },
+  {
+    "business_name": "Fathima Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "506342",
+    "phone_number": "+91 98497 88392",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XJQ4+2Q4, LB Nagar Rd, LB Nagar, Warangal, Telangana 506002",
+    "area": "LB Nagar",
+    "latitude": 17.987518599999998,
+    "longitude": 79.6069444,
+    "place_id": "ChIJMV12JOJEMzoRhi4YXGiK5qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV12JOJEMzoRhi4YXGiK5qk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:59"
+  }
+]

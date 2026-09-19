@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivas Machanic",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506313",
+    "phone_number": "+91 94413 50305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 25/4, main road, Vardhanapeta, Warangal, Telangana 506313",
+    "area": "Vardhanapeta",
+    "latitude": 17.7763961,
+    "longitude": 79.57936409999999,
+    "place_id": "ChIJjSsNm0hZMzoRUvnWTsSXYPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSsNm0hZMzoRUvnWTsSXYPA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:06"
+  },
+  {
+    "business_name": "Vinayaka Agencies",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506313",
+    "phone_number": "+91 91773 58017",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6-185/1, Inavolu, Telangana 506310",
+    "area": "506313",
+    "latitude": 17.8668558,
+    "longitude": 79.5516221,
+    "place_id": "ChIJJwc2N91RMzoR6giAaxFNBzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwc2N91RMzoR6giAaxFNBzw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:08"
+  }
+]

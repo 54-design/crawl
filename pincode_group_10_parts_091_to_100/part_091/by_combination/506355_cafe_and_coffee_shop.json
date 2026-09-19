@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrimans Amruttulya",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506355",
+    "phone_number": "+91 98666 11413",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XVVP+X89, cross road, Duddeda, Telangana 502277",
+    "area": "506355",
+    "latitude": 17.994923,
+    "longitude": 78.88585429999999,
+    "place_id": "ChIJE7oabwCRzDsRlW4N5iU_jPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7oabwCRzDsRlW4N5iU_jPI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:36:45"
+  },
+  {
+    "business_name": "Tea World",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "506355",
+    "phone_number": "+91 79894 42378",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1-78, Lakudaram Main Rd, near Swadisht Restaurant, Lakudaram, Telangana 502301",
+    "area": "506355",
+    "latitude": 17.9117984,
+    "longitude": 78.820476,
+    "place_id": "ChIJA3FUaxOFzDsR3A1GJcWm00g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3FUaxOFzDsR3A1GJcWm00g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:36:45"
+  }
+]

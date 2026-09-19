@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy xerox center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "507157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5VQ3+473, Mamillagudem, Telangana 508212",
+    "area": "507157",
+    "latitude": 17.1877714,
+    "longitude": 79.853178,
+    "place_id": "ChIJKzSSTgDlNDoRcydKaxneEus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzSSTgDlNDoRcydKaxneEus",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:43:37"
+  },
+  {
+    "business_name": "Xerox Center Kattakuru",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "507157",
+    "phone_number": "+91 85550 81733",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 9,
+    "address": "52FQ+FPG, Venkatapuram to Kusumanchi road, Kattakuru, Telangana 507170",
+    "area": "507157",
+    "latitude": 17.1736954,
+    "longitude": 80.0393337,
+    "place_id": "ChIJk0WgKw75NDoRsGDYInucwss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0WgKw75NDoRsGDYInucwss",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:43:40"
+  }
+]

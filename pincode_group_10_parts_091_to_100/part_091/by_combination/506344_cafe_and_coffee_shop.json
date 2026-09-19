@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj Tea Point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "626H+VJ9, Jawarharnagar, Telangana 506344",
+    "area": "506344",
+    "latitude": 18.211688,
+    "longitude": 80.03007699999999,
+    "place_id": "ChIJ7yKYPgALMzoRuNs-aBW4Cpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yKYPgALMzoRuNs-aBW4Cpg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:23:37"
+  },
+  {
+    "business_name": "Gopi cool drinks",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "506344",
+    "phone_number": "+91 94930 24851",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "HNo:3-273/1/A, pasra main road, opposite substation, Pasara, Telangana 506347",
+    "area": "506344",
+    "latitude": 18.1927918,
+    "longitude": 80.1767824,
+    "place_id": "ChIJ_XBJj-mhMzoRWf1b-SasdVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XBJj-mhMzoRWf1b-SasdVE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:23:41"
+  }
+]

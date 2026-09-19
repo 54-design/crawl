@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.A.SAJID",
+    "search_category": "Architects",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "http://sajidassociates.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XJV4+WPQ, Desaipet Rd, Bank colony 2, Kothawada, Warangal, Telangana 506006",
+    "area": "Bank colony 2, Kothawada",
+    "latitude": 17.9948339,
+    "longitude": 79.60686059999999,
+    "place_id": "ChIJ89AhKQBFMzoRKhYiKkG9p_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89AhKQBFMzoRKhYiKkG9p_g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:35"
+  },
+  {
+    "business_name": "Rekine Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/rekinearchitects/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3PCJ+RQ6, Main Road, Atmakur, Telangana 506342",
+    "area": "506342",
+    "latitude": 18.0719387,
+    "longitude": 79.73182369999999,
+    "place_id": "ChIJT9r6ZWdBMzoRqF7ZKcv7hI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9r6ZWdBMzoRqF7ZKcv7hI0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:35"
+  }
+]

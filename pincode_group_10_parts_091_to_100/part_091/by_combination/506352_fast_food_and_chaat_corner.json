@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHATKARA-SWAD KA PITARA",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506352",
+    "phone_number": "+91 85273 39533",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pradeep pintu, Tyagi marg, RDC, Sector 15, Sector 10, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Sector 15, Sector 10, Raj Nagar",
+    "latitude": 28.676260199999998,
+    "longitude": 77.4437069,
+    "place_id": "ChIJuWBXtc3xDDkRRSUvcL-VLy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWBXtc3xDDkRRSUvcL-VLy0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:34:51"
+  },
+  {
+    "business_name": "Madan Sweets & Restaurant in Ghaziabad",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Dessert restaurant",
+    "all_categories": "Dessert restaurant",
+    "pincode": "506352",
+    "phone_number": "+91 88100 10101",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3rd, K-23, Rakesh Marg, Pocket K, Nehru Nagar III, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Pocket K, Nehru Nagar III, Nehru Nagar",
+    "latitude": 28.6537574,
+    "longitude": 77.4449365,
+    "place_id": "ChIJD34EBN3xDDkR3qAGK5XUQ0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD34EBN3xDDkR3qAGK5XUQ0w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:34:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wings Enterprises",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "507122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taraka Rama Autonagar, Plot no.43, near FCI godown, Sarathi Nagar, Khammam, Telangana 507003",
+    "area": "Sarathi Nagar",
+    "latitude": 17.263939,
+    "longitude": 80.13382849999999,
+    "place_id": "ChIJS2JKNjdYNDoRSsTBf5j5Jtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2JKNjdYNDoRSsTBf5j5Jtk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:22:28"
+  },
+  {
+    "business_name": "Sai Sri Sri Sri Autoworks",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507122",
+    "phone_number": "+91 98481 58525",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jublee Club, 1-7, Sarathi Nagar, Khammam, Telangana 507003",
+    "area": "Sarathi Nagar",
+    "latitude": 17.252144599999998,
+    "longitude": 80.13398049999999,
+    "place_id": "ChIJZadiz6VZNDoRIDmGPKL4pR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZadiz6VZNDoRIDmGPKL4pR0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:22:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good food good health",
+    "search_category": "Organic Food Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "506347",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "544X+QRR, Unnamed Road, Rampur, Laxmipuram, Telangana 506347",
+    "area": "506347",
+    "latitude": 18.1569896,
+    "longitude": 80.1495063,
+    "place_id": "ChIJowvL96efMzoRolHuo33iI74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowvL96efMzoRolHuo33iI74",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:27:07"
+  },
+  {
+    "business_name": "BSR organic nattu kollu and jathi kollu sale",
+    "search_category": "Organic Food Store",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "506347",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8663+6QQ, Narlapur, Telangana 506347",
+    "area": "506347",
+    "latitude": 18.3105847,
+    "longitude": 80.2044921,
+    "place_id": "ChIJmzUZOZSlMzoRXz_Fcr_lcJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzUZOZSlMzoRXz_Fcr_lcJo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:27:07"
+  }
+]

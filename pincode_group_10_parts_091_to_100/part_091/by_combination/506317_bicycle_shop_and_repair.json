@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "506317",
+    "phone_number": "+91 99481 28668",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2-9-70/A, Vikas Nagar, Srinagar Colony, Hanamkonda, Telangana 506001",
+    "area": "Vikas Nagar, Srinagar Colony",
+    "latitude": 18.0099822,
+    "longitude": 79.5441828,
+    "place_id": "ChIJy47yY8RPMzoRbrcF6Sez9ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy47yY8RPMzoRbrcF6Sez9ws",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:03:30"
+  },
+  {
+    "business_name": "Cycle Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "506317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "PTS NTPC, Main Shopping Complex, Jyothi Nagar, Ramagundam, Telangana 505215",
+    "area": "Jyothi Nagar",
+    "latitude": 18.756507199999998,
+    "longitude": 79.4897936,
+    "place_id": "ChIJFUzqGLDPMjoRZM1heYtEGrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUzqGLDPMjoRZM1heYtEGrY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:03:32"
+  }
+]

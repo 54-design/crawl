@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ice cream factory",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GJ8G+RWJ, Nagaiah Gadda, Panjabgadda, Kothagudem, Telangana 507118",
+    "area": "Nagaiah Gadda, Panjabgadda",
+    "latitude": 17.5170755,
+    "longitude": 80.6272741,
+    "place_id": "ChIJMXBbKAAXNDoRe5kybRyof0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXBbKAAXNDoRe5kybRyof0s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:16:24"
+  },
+  {
+    "business_name": "MAK ICE MAGIC (Sweet N Spicy Food Court)",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Bakery and Cake Shop, Juice shop",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 19,
+    "address": "SBI Branch Kinnerasani, Palwancha, Telangana 507115",
+    "area": "507118",
+    "latitude": 17.5934174,
+    "longitude": 80.6995203,
+    "place_id": "ChIJkYzkJzobNDoRS8Fjul3bUQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYzkJzobNDoRS8Fjul3bUQ0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:16:26"
+  }
+]

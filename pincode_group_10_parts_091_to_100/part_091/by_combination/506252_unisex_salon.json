@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vanity Beauty Palace",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store",
+    "pincode": "506252",
+    "phone_number": "+91 90291 34100",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1, Building - NL-1A, 6, Station Road, Sector 10, Nerul West, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Sector 10, Nerul West, Nerul",
+    "latitude": 19.039054,
+    "longitude": 73.0175989,
+    "place_id": "ChIJCSqSkMLD5zsRlYOkR446Wm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSqSkMLD5zsRlYOkR446Wm0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:47:00"
+  },
+  {
+    "business_name": "Hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "506252",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q8RX+MC8, Kuruchapalle, Telangana 506252",
+    "area": "506252",
+    "latitude": 17.791667699999998,
+    "longitude": 79.3485725,
+    "place_id": "ChIJeQVLFoKrzDsRqhRwU9Rp2BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQVLFoKrzDsRqhRwU9Rp2BU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:47:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palamuru Grill, Khammam",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "506381",
+    "phone_number": "+91 91001 88188",
+    "website": "https://www.palamurugrill.com/best-restaurant-in-khammam/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "H:NO:15-9-543, 65X3+9QH, 1, Wyra Rd, Yedulapuram, Khammam, Telangana 507001",
+    "area": "Yedulapuram",
+    "latitude": 17.2500403,
+    "longitude": 80.154814,
+    "place_id": "ChIJEQF_0aBZNDoR5QgHV6MXarM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQF_0aBZNDoR5QgHV6MXarM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:54"
+  },
+  {
+    "business_name": "BTS Train Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Biryani restaurant, Indian restaurant",
+    "pincode": "506381",
+    "phone_number": "+91 90634 28756",
+    "website": "https://btstrainrestaurant.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Opp: Baburao Petrol bunk, 8-2-172/a, 8-2-173 to 189, Wyra Rd, above Bhima Jewels, B K Bazar Colony, Khammam, Telangana 507001",
+    "area": "B K Bazar Colony, Nizampet",
+    "latitude": 17.249948099999997,
+    "longitude": 80.1447614,
+    "place_id": "ChIJi38SKABZNDoRicPij4-VPWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi38SKABZNDoRicPij4-VPWI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:54"
+  }
+]

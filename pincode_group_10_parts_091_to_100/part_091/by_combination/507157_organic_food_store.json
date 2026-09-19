@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MedPlus Franchise - Sree Balaji Medicals",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, General store, Medical supply store, Sports nutrition store, Vitamin & supplements store",
+    "pincode": "507157",
+    "phone_number": "+91 97050 96571",
+    "website": "https://www.medplusmart.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Door Number:1-120, near Grama Panchayat Office, Paleru, Telangana 507157",
+    "area": "507157",
+    "latitude": 17.207238399999998,
+    "longitude": 79.9228,
+    "place_id": "ChIJsaY_imD7NDoR2T7VUKX3T-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaY_imD7NDoR2T7VUKX3T-c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:21"
+  },
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Kusumanchi",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "507157",
+    "phone_number": "+91 97016 01764",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No: 2-183/3 & 4, Kusumanchi - Nelakondapally Rd, Kusumanchi, Telangana 507159",
+    "area": "507157",
+    "latitude": 17.223687899999998,
+    "longitude": 79.9566155,
+    "place_id": "ChIJNaxN3Ar7NDoRWQRSRrjwU9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaxN3Ar7NDoRWQRSRrjwU9Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:21"
+  }
+]

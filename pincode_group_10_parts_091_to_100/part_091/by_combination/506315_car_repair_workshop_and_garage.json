@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TopTech car work shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "506315",
+    "phone_number": "+91 96456 80268",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "near hero showroom, Sankaramangalam, Pattambi, Keralam 679303",
+    "area": "506315",
+    "latitude": 10.816176299999999,
+    "longitude": 76.18466099999999,
+    "place_id": "ChIJBThMkZvFpzsRzlUEh9ztGT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBThMkZvFpzsRzlUEh9ztGT0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:42"
+  },
+  {
+    "business_name": "Hkgn Car Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "506315",
+    "phone_number": "+91 88619 17054",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Devanahalli, Karnataka 562110",
+    "area": "Devanahalli",
+    "latitude": 13.257003,
+    "longitude": 77.7161627,
+    "place_id": "ChIJg5JGsZDisTsRfq4fTQOZvPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5JGsZDisTsRfq4fTQOZvPs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopal_Nyathani house",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XJP9+682, Vivekananda Colony, Kashibugga, LB Nagar, Warangal, Telangana 506002",
+    "area": "Vivekananda Colony, Kashibugga, LB Nagar",
+    "latitude": 17.9855007,
+    "longitude": 79.61826769999999,
+    "place_id": "ChIJT8LfEABFMzoRbAO0jRGMAoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8LfEABFMzoRbAO0jRGMAoE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:14"
+  },
+  {
+    "business_name": "Mythrigroup",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "506342",
+    "phone_number": "+91 63094 55670",
+    "website": "http://mythrigroup.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6-1, Reddy Palem, Telangana 506006",
+    "area": "506342",
+    "latitude": 17.9941513,
+    "longitude": 79.64490239999999,
+    "place_id": "ChIJ__9jppxEMzoRVJyI2deQQt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__9jppxEMzoRVJyI2deQQt8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:16"
+  }
+]

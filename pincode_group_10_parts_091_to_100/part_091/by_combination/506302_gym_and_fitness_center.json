@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aerofit Fitness - The Complete Fitness Equipment Store.",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Exercise equipment store",
+    "all_categories": "Exercise equipment store, Fitness Equipment Wholesaler, Sporting goods store",
+    "pincode": "506302",
+    "phone_number": "+91 94594 50666",
+    "website": "https://aerofit.co/",
+    "rating": 4.7,
+    "reviews_count": 125,
+    "address": "Hardy Complex, Mahatma Gandhi Rd, opp. to chermas, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4395031,
+    "longitude": 78.48847049999999,
+    "place_id": "ChIJyRnGG8GbyzsRKkXABLPgoRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRnGG8GbyzsRKkXABLPgoRs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:21"
+  },
+  {
+    "business_name": "Raw Gym And Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506302",
+    "phone_number": "+91 75697 26095",
+    "website": "https://www.instagram.com/raw_gym_and_fitness?igsh=eWh0N282ejVxM3F6",
+    "rating": 5,
+    "reviews_count": 93,
+    "address": "2nd Floor, Ms Convention hall, beside N.S.P Canal, Khanapuram Industrial Area, Khanapuram, Khammam, Telangana 507002",
+    "area": "Khanapuram Industrial Area, Khanapuram",
+    "latitude": 17.2582634,
+    "longitude": 80.16472139999999,
+    "place_id": "ChIJv0bsKTdZNDoRvtt3SbLNCUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0bsKTdZNDoRvtt3SbLNCUI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:21"
+  }
+]

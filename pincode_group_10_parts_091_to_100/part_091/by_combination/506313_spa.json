@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "506313",
+    "phone_number": "+91 63005 81549",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2-4-244, 3-13, Nanditarenagar Colony, Nanditanagar, Ramnagar, Hanamkonda, Telangana 506001",
+    "area": "Nanditarenagar Colony, Nanditanagar, Ramnagar",
+    "latitude": 18.011749599999998,
+    "longitude": 79.55400639999999,
+    "place_id": "ChIJN6o9v0VPMzoROvXH92WT12E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6o9v0VPMzoROvXH92WT12E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:21"
+  },
+  {
+    "business_name": "Sri Laxmi Hair Crafts",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "506313",
+    "phone_number": "+91 99122 89215",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-1-65, Nayeem Nagar, Saraswathinagar, Warangal, Hanamkonda, Telangana 506009",
+    "area": "Nayeem Nagar, Saraswathinagar",
+    "latitude": 18.019842399999998,
+    "longitude": 79.5456872,
+    "place_id": "ChIJQWvMI2lPMzoRAAAAMIn5fUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWvMI2lPMzoRAAAAMIn5fUA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:21"
+  }
+]

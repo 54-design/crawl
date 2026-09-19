@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Real-estate's",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Back Office",
+    "all_categories": "Back Office",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Airport Colony, Ring town, Hyderabad, Telangana 501218",
+    "area": "Huda Colony",
+    "latitude": 17.2790706,
+    "longitude": 78.38147239999999,
+    "place_id": "ChIJX3vAXr6_yzsRj2gA733bGt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3vAXr6_yzsRj2gA733bGt0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:30"
+  },
+  {
+    "business_name": "Open Plots & Villas",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "507133",
+    "phone_number": "+91 99593 54255",
+    "website": "https://www.openplotsandvillas.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaya kesav avenue, 101, Rd Number 10, Kakatiya Hills, Guttala_Begumpet, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Kakatiya Hills, Guttala_Begumpet, Kavuri Hills, Madhapur",
+    "latitude": 17.4439112,
+    "longitude": 78.39718479999999,
+    "place_id": "ChIJd5_llGaRyzsR_1UVQUxZ0Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5_llGaRyzsR_1UVQUxZ0Xg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:30"
+  }
+]

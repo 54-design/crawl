@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eeshan Multi Brand Chicken Store",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop, Chicken restaurant",
+    "pincode": "506313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "XJ32+R46, Shambunipet, Warangal, Telangana 506005",
+    "area": "Shambunipet",
+    "latitude": 17.954534799999998,
+    "longitude": 79.6002693,
+    "place_id": "ChIJ79N3YtRaMzoRs7qhNq4RJ68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79N3YtRaMzoRs7qhNq4RJ68",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:55:21"
+  },
+  {
+    "business_name": "Burgumalla",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "506313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "PP2P+854, Kachikal Cross Rd - Parvathagiri Rd, Burugamadla, Telangana 506369",
+    "area": "506313",
+    "latitude": 17.700766599999998,
+    "longitude": 79.73543769999999,
+    "place_id": "ChIJXahKcP-hNDoRMB8sFdN4InE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXahKcP-hNDoRMB8sFdN4InE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:55:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayaka wines damera",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 46,
+    "address": "2JVW+95J, NH202 to Damera Road, Damera, Telangana 506006",
+    "area": "506342",
+    "latitude": 18.043473,
+    "longitude": 79.6453871,
+    "place_id": "ChIJC4hAimJFMzoRf0wbsE7nOzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4hAimJFMzoRf0wbsE7nOzc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:56"
+  },
+  {
+    "business_name": "Ashoka Restaurant And Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "506342",
+    "phone_number": "+91 99084 65904",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Narsampet Rd, A J Mills Colony, Kashibugga, LB Nagar, Warangal, Telangana 506002",
+    "area": "A J Mills Colony, Kashibugga, LB Nagar",
+    "latitude": 17.9820813,
+    "longitude": 79.60608979999999,
+    "place_id": "ChIJfSYKEOBEMzoRr8-07MYi65U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSYKEOBEMzoRr8-07MYi65U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:57"
+  }
+]

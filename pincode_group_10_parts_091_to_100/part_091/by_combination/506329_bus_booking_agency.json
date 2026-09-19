@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INET TOURS AND TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "506329",
+    "phone_number": "+91 94000 01169",
+    "website": "https://inettravels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SHALIMAR BUILDING VETTUROAD KANIYAPURAM, Thiruvananthapuram, Keralam 695301",
+    "area": "506329",
+    "latitude": 8.584428599999999,
+    "longitude": 76.8609779,
+    "place_id": "ChIJx4F6E6O_BTsRyJzu4YMEcS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4F6E6O_BTsRyJzu4YMEcS4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:11:01"
+  },
+  {
+    "business_name": "Geeth International Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Insurance agency, Visa Agent",
+    "pincode": "506329",
+    "phone_number": "+91 93877 20322",
+    "website": "https://www.geethtravels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mavadinada, R.K Complex, Ulloor - Akkulam Rd, Ulloor, Thiruvananthapuram, Keralam 695011",
+    "area": "Ulloor",
+    "latitude": 8.526933099999999,
+    "longitude": 76.9250339,
+    "place_id": "ChIJl_sOv8i9BTsRYQj0iZzdVCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_sOv8i9BTsRYQj0iZzdVCA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:11:01"
+  }
+]

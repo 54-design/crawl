@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yeerni Complex",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "1-2, Cherla (Z), Telangana 507133",
+    "area": "507133",
+    "latitude": 18.080320999999998,
+    "longitude": 80.8254477,
+    "place_id": "ChIJs55NlpFYMToR8SFMlOESTNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs55NlpFYMToR8SFMlOESTNk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:45"
+  },
+  {
+    "business_name": "Laxmi fertilizers and pestisides",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "3RHF+XG9, road, Cherla (Z), Telangana 507133",
+    "area": "507133",
+    "latitude": 18.0799224,
+    "longitude": 80.8238606,
+    "place_id": "ChIJlVtGS5BYMToRkWlLB9JtNis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVtGS5BYMToRkWlLB9JtNis",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:46"
+  }
+]

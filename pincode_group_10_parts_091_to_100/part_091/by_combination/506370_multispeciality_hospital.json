@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sasya mother and children's hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506370",
+    "phone_number": "+91 870 350 0347",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 113,
+    "address": "5-11-220, opp. reliance trends, Jagruti Colony, Naim Nagar, Hanamkonda, Telangana 506009",
+    "area": "Jagruti Colony, Naim Nagar",
+    "latitude": 18.0168479,
+    "longitude": 79.55401069999999,
+    "place_id": "ChIJiaHsXwhPMzoRI6o84aBz4L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaHsXwhPMzoRI6o84aBz4L8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:50:12"
+  },
+  {
+    "business_name": "Sree Laxmi Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "2H45+H86, Balasamudram, Hanamkonda, Telangana 506001",
+    "area": "Balasamudram",
+    "latitude": 18.0064049,
+    "longitude": 79.5582749,
+    "place_id": "ChIJx_0OaH5PMzoRsStz0AwPe80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_0OaH5PMzoRsStz0AwPe80",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:50:12"
+  }
+]

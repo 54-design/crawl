@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "thewrightbike",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Service establishment",
+    "pincode": "506369",
+    "phone_number": "07751 207832",
+    "website": "http://www.thewrightbike.co.uk/",
+    "rating": 4.9,
+    "reviews_count": 62,
+    "address": "thewrightbike, 506369, India",
+    "area": "506369",
+    "latitude": 50.948510299999995,
+    "longitude": -1.8454690999999999,
+    "place_id": "ChIJdSWgw5aDc0gRwJLsgB7oz9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSWgw5aDc0gRwJLsgB7oz9E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:48:36"
+  },
+  {
+    "business_name": "The Bike Man",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Service establishment",
+    "pincode": "506369",
+    "phone_number": "07927 181979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Bike Man, 506369, India",
+    "area": "506369",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJYYsvwY9VdEgR_OxYxzmrXNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYsvwY9VdEgR_OxYxzmrXNM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:48:37"
+  }
+]

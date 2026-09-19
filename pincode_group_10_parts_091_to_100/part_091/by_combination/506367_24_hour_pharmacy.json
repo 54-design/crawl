@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDICINE MART PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "F42C+C8W, Jagtial - Karimnagar Rd, Chaitanyapuri, Karimnagar, Telangana 505001",
+    "area": "Chaitanyapuri",
+    "latitude": 18.4510988,
+    "longitude": 79.1208475,
+    "place_id": "ChIJdWLPVgDZzDsRet3kSLOCBDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWLPVgDZzDsRet3kSLOCBDs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:32"
+  },
+  {
+    "business_name": "Pavani Medical Shop",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506367",
+    "phone_number": "+91 99481 74398",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 33,
+    "address": "92JW+5QW, Ganneruvaram, Telangana 505530",
+    "area": "506367",
+    "latitude": 18.3804896,
+    "longitude": 79.04694429999999,
+    "place_id": "ChIJhUvpecPdzDsR96gAZDLbqUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUvpecPdzDsR96gAZDLbqUw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:34"
+  }
+]

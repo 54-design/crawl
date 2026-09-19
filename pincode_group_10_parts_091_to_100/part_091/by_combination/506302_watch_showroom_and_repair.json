@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R Anthony’s watch co",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "506302",
+    "phone_number": "+91 99510 51612",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7-160/a, Mothkur - Bhuvanagiri Rd, Tirumalagiri, Telangana 508223",
+    "area": "506302",
+    "latitude": 17.4674334,
+    "longitude": 79.4496727,
+    "place_id": "ChIJ1V8dQqdDyzsRStmCJ_hOVnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1V8dQqdDyzsRStmCJ_hOVnw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:06"
+  },
+  {
+    "business_name": "Kalyani watches",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "506302",
+    "phone_number": "+91 95000 43231",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "162, Chennai - Tiruvallur High Rd, Thiruninravur, Thiruvenkada Nagar, Chennai, Thirunindravur, Tamil Nadu 602024",
+    "area": "Thiruninravur, Thiruvenkada Nagar",
+    "latitude": 13.124577799999999,
+    "longitude": 80.03026369999999,
+    "place_id": "ChIJN5kj59-IUjoRkV09A5yKiGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5kj59-IUjoRkV09A5yKiGE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:06"
+  }
+]

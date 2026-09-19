@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6-9, Gollagudem Rd, NEW, Kothagudem, Khammam, Telangana 507101",
+    "area": "NEW",
+    "latitude": 17.558101,
+    "longitude": 80.60413,
+    "place_id": "ChIJ7frJ46ARNDoRKqFbYniGi7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7frJ46ARNDoRKqFbYniGi7I",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:32"
+  },
+  {
+    "business_name": "SRI SAI INTERNET & CABLE TV SERVICES",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider, Cable company",
+    "pincode": "507118",
+    "phone_number": "+91 63025 99113",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "HMQ8+6F, Gandhi Nagar, Old Paloncha, Palwancha, Telangana 507154",
+    "area": "Gandhi Nagar",
+    "latitude": 17.5879867,
+    "longitude": 80.666322,
+    "place_id": "ChIJi1rqt5kbNDoRv9i37MdrguA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1rqt5kbNDoRv9i37MdrguA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:33"
+  }
+]

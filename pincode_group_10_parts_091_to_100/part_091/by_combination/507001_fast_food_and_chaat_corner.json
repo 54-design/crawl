@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chat Bhndar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507001",
+    "phone_number": "+91 99283 83402",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "64XX+72W, Wyra Rd, Nehru Nagar, Khammam, Telangana 507002",
+    "area": "Nehru Nagar",
+    "latitude": 17.248247199999998,
+    "longitude": 80.14758979999999,
+    "place_id": "ChIJG60AD9JZNDoRtRfl9rdkxTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG60AD9JZNDoRtRfl9rdkxTM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:40"
+  },
+  {
+    "business_name": "Chickpet Donne Biryani House Since - 1975 Khammam",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507001",
+    "phone_number": "+91 81064 01220",
+    "website": "http://www.chickpetdonnebiryanihouse.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1st Floor, Sai Ram Arcade, opposite to Palakedram, near Petrol Bunk, Netaji Nagar, Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Netaji Nagar, Rotary Nagar",
+    "latitude": 17.245802299999998,
+    "longitude": 80.169883,
+    "place_id": "ChIJjV_U5PNZNDoRbAR5S1dF5Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjV_U5PNZNDoRbAR5S1dF5Do",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:40"
+  }
+]

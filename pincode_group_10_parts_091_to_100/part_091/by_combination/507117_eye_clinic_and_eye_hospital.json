@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LV Prasad Eye Institute",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507117",
+    "phone_number": "N/A",
+    "website": "http://www.lvpei.org/",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "3R9C+PR2, Cherla (Z), Telangana 507133",
+    "area": "507117",
+    "latitude": 18.0692584,
+    "longitude": 80.8220279,
+    "place_id": "ChIJJ8SKYohYMToRngq2Tj5J1Ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8SKYohYMToRngq2Tj5J1Ao",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:49"
+  },
+  {
+    "business_name": "PULLURI EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507117",
+    "phone_number": "+91 84669 59624",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "Huzurnagar Road, beside Aurutha Hospital, Kodad, Telangana 508206",
+    "area": "507117",
+    "latitude": 17.000195599999998,
+    "longitude": 79.9602567,
+    "place_id": "ChIJqYlpfR0DNToRSL8DW0bnOlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYlpfR0DNToRSL8DW0bnOlY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:49"
+  }
+]

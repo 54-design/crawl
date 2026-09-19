@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aura X Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506302",
+    "phone_number": "+91 70938 25214",
+    "website": "https://www.instagram.com/aura_x_gym_kukatpally?igsh=MWFhbTU2cHk3Y3A0bQ==&utm_source=qr",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prashanti Nagar, IDA Kukatpally, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Prashanti Nagar, IDA Kukatpally, Kukatpally",
+    "latitude": 17.4789063,
+    "longitude": 78.4246673,
+    "place_id": "ChIJKX8dXoqRyzsRAL1YDvvBvt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKX8dXoqRyzsRAL1YDvvBvt4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:19"
+  },
+  {
+    "business_name": "R Fitness - Gym and Fitness Center",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "506302",
+    "phone_number": "+91 73961 30212",
+    "website": "https://instagram.com/rfitness_gym?utm_medium=copy_link",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd Floor, Uppal Rd, near Gandhi statue, Vijayapuri Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Vijayapuri Colony, Uppal",
+    "latitude": 17.4012539,
+    "longitude": 78.5645686,
+    "place_id": "ChIJxRXzcnKZyzsRYUVyygN0gPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRXzcnKZyzsRYUVyygN0gPw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:19"
+  }
+]

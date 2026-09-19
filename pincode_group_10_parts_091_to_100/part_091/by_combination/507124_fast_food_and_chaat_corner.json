@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eden Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "507124",
+    "phone_number": "+91 99209 52940",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 24,
+    "address": "Eden II, Central Ave, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+    "area": "Hiranandani Gardens, Powai",
+    "latitude": 19.1154348,
+    "longitude": 72.9074444,
+    "place_id": "ChIJVVXFhubH5zsR66k36BVhIfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXFhubH5zsR66k36BVhIfM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:38"
+  },
+  {
+    "business_name": "Shobha Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "507124",
+    "phone_number": "+91 76270 66040",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 34,
+    "address": "8JVM+XG9, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "area": "Bhopal Ganj",
+    "latitude": 25.344907799999998,
+    "longitude": 74.6338485,
+    "place_id": "ChIJhQyrjEnCaDkREo08k5O9DMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQyrjEnCaDkREo08k5O9DMA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:39"
+  }
+]

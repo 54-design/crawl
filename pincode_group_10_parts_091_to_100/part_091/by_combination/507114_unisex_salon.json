@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venues Hairstyle Shop",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "507114",
+    "phone_number": "+91 90005 31254",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "11-9-14, Bus Depot Rd, Bhuranpuram, Khammam, Telangana 507001",
+    "area": "507114",
+    "latitude": 17.258053,
+    "longitude": 80.14245369999999,
+    "place_id": "ChIJV0-H_hdZNDoRcIeYH4tEPbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0-H_hdZNDoRcIeYH4tEPbY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:45"
+  },
+  {
+    "business_name": "Praveen Hair Style",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "507114",
+    "phone_number": "+91 96404 58459",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sc No 60833, beside Agriculture Market, Rajendra Nagar, Jalagam Nagar, Khammam, Telangana 507003",
+    "area": "Rajendra Nagar, Jalagam Nagar",
+    "latitude": 17.2379693,
+    "longitude": 80.1346233,
+    "place_id": "ChIJsxLwwORZNDoRzXq_u3IbUus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxLwwORZNDoRzXq_u3IbUus",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:45"
+  }
+]

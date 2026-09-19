@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandurangapuram Ration shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Government ration shop",
+    "all_categories": "Government ration shop",
+    "pincode": "507122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "14-8-70, Pandurangapuram, Khammam, Ballepally, Telangana 507002",
+    "area": "Pandurangapuram",
+    "latitude": 17.2762864,
+    "longitude": 80.1781846,
+    "place_id": "ChIJ-aVuBABZNDoR-IFQe6TGSx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aVuBABZNDoR-IFQe6TGSx8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:49"
+  },
+  {
+    "business_name": "Pavan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "507122",
+    "phone_number": "+91 89780 69237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "86, Trunk Road, Nayudupet, Khammam, Telangana 507003",
+    "area": "Nayudupet",
+    "latitude": 17.2536554,
+    "longitude": 80.1207009,
+    "place_id": "ChIJ2772_YZZNDoROBp0MX_Vo0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2772_YZZNDoROBp0MX_Vo0k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:49"
+  }
+]

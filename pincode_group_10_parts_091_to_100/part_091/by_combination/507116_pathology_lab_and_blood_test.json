@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satya Scans & Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "507116",
+    "phone_number": "+91 94910 69686",
+    "website": "http://www.satyascan.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2-4-12, Murali street, Bhanugudi Junction, Srinagar, Kakinada, Andhra Pradesh 533003",
+    "area": "Bhanugudi Junction, Srinagar",
+    "latitude": 16.9710075,
+    "longitude": 82.2386396,
+    "place_id": "ChIJJ3V6fWsoODoRIg8AXEXs_NI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3V6fWsoODoRIg8AXEXs_NI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:13:00"
+  },
+  {
+    "business_name": "Balaji Pathology Laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "507116",
+    "phone_number": "+91 84622 22840",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 58,
+    "address": "M4F2+3WW, Pochammagalli, Khaleelwadi, Nizamabad, Telangana 503003",
+    "area": "Pochammagalli, Khaleelwadi",
+    "latitude": 18.672729099999998,
+    "longitude": 78.1023367,
+    "place_id": "ChIJNzKV4i7bzTsRHxiwMvbnQOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzKV4i7bzTsRHxiwMvbnQOo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:13:01"
+  }
+]

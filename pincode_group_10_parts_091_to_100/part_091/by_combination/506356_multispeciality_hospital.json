@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506356",
+    "phone_number": "+91 98660 78934",
+    "website": "https://adityahospitaljammikunta.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Konduri Complex, Shivanagar, Jammikunta, Telangana 505122",
+    "area": "Shivanagar",
+    "latitude": 18.2894057,
+    "longitude": 79.47327589999999,
+    "place_id": "ChIJz3NvWnAxMzoRWE_n9H0KciI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3NvWnAxMzoRWE_n9H0KciI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:54"
+  },
+  {
+    "business_name": "Sri Rama Multispeciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506356",
+    "phone_number": "N/A",
+    "website": "https://sriramahospital.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Durga Colony, Jammikunta, Telangana 505122",
+    "area": "Durga Colony",
+    "latitude": 18.2831588,
+    "longitude": 79.4734051,
+    "place_id": "ChIJ-yYnIYExMzoRaV0dgL5mTRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yYnIYExMzoRaV0dgL5mTRs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:54"
+  }
+]

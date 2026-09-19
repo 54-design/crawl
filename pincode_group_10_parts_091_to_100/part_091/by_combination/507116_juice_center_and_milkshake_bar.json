@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice World",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream equipment supplier",
+    "all_categories": "Ice cream equipment supplier",
+    "pincode": "507116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot 127 SBI, opp. Raghavendra ColonySuchitra, Suchitra, Hyderabad, Telangana 500067",
+    "area": "Suchitra, Sri Durga Estates, Quthbullapur",
+    "latitude": 17.5001796,
+    "longitude": 78.467972,
+    "place_id": "ChIJ9c48dzyRyzsRdLAskyVqVCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9c48dzyRyzsRdLAskyVqVCc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:41"
+  },
+  {
+    "business_name": "JK Cool Drinks",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "507116",
+    "phone_number": "+91 99127 16306",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-6, Samatha Nagar, Madhira, Didugupadu, Telangana 507203",
+    "area": "Samatha Nagar",
+    "latitude": 16.9372921,
+    "longitude": 80.36690569999999,
+    "place_id": "ChIJl_LeJ9a3NToRFwKFpbpymWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_LeJ9a3NToRFwKFpbpymWo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:41"
+  }
+]

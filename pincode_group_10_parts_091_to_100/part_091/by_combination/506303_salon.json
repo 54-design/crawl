@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sathish Marri",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "506303",
+    "phone_number": "+91 81069 22320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2-3, near Bus Stop, Nelapogula, Vanaparthy, Telangana 506303",
+    "area": "506303",
+    "latitude": 17.6329702,
+    "longitude": 79.2689343,
+    "place_id": "ChIJ99iGZOtRyzsRqlrbjJISqMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99iGZOtRyzsRqlrbjJISqMI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:52:30"
+  },
+  {
+    "business_name": "Raju Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "506303",
+    "phone_number": "+91 79894 28653",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanchanpalli Raghunathapally, Jangaon, Telangana 506244",
+    "area": "Peddamma Gadda",
+    "latitude": 17.7451307,
+    "longitude": 79.308717,
+    "place_id": "ChIJ3_-v_vVVyzsRetiAkcvNVCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_-v_vVVyzsRetiAkcvNVCo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:52:32"
+  }
+]

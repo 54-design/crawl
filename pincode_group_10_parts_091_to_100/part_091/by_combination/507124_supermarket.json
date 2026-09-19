@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI MADHU MEGA MART",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507124",
+    "phone_number": "+91 79952 70030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Komararam, Yellandu, Telangana 507124",
+    "area": "507124",
+    "latitude": 17.7117127,
+    "longitude": 80.3189707,
+    "place_id": "ChIJcZHOjOtxNDoRhON-sG5pD9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZHOjOtxNDoRhON-sG5pD9M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:25"
+  },
+  {
+    "business_name": "Vijay Kiranam",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "507124",
+    "phone_number": "+91 80740 45962",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lachagudem 33, 11kv substation, Yellandhu, Rompedu, Telangana 507123",
+    "area": "507124",
+    "latitude": 17.6001187,
+    "longitude": 80.2482752,
+    "place_id": "ChIJlQEBHg1lNDoRIwHyKlyZvyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQEBHg1lNDoRIwHyKlyZvyg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:27"
+  }
+]

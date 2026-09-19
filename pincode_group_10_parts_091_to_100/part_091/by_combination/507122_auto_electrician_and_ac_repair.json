@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basheer Car Mechanical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507122",
+    "phone_number": "+91 98494 24578",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Yellandu_kothagudem Rd, Sudimalla, Telangana 507123",
+    "area": "507122",
+    "latitude": 17.582027099999998,
+    "longitude": 80.3436615,
+    "place_id": "ChIJN_uZJL1vNDoRbU-9NmVfCKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_uZJL1vNDoRbU-9NmVfCKU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:22:22"
+  },
+  {
+    "business_name": "M. R. Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Yellandu, Sudimalla, Telangana 507123",
+    "area": "507122",
+    "latitude": 17.5819136,
+    "longitude": 80.349678,
+    "place_id": "ChIJX6YtSB9vNDoRuIF5_o6cjAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6YtSB9vNDoRuIF5_o6cjAU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:22:22"
+  }
+]

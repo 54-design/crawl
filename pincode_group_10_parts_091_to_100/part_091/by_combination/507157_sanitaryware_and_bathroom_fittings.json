@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Ceramics",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Bathroom remodeler, Construction equipment supplier, Hardware store, Pipe supplier, Tile store",
+    "pincode": "507157",
+    "phone_number": "+91 80 4142 6260",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "10, 80 Feet Rd, Prakash Nagar, Rajajinagar, Bengaluru, Karnataka 560021",
+    "area": "Prakash Nagar, Rajajinagar",
+    "latitude": 12.992134,
+    "longitude": 77.55729099999999,
+    "place_id": "ChIJh7A5k4s9rjsRm-iRCPvEx-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7A5k4s9rjsRm-iRCPvEx-s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:43:07"
+  },
+  {
+    "business_name": "CivilLane.com",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior architect office, Interior construction contractor",
+    "pincode": "507157",
+    "phone_number": "+91 91720 73720",
+    "website": "https://www.civillane.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Jaswanti Allied Business Centre, A-501-J, Ramchandra Ln, Malad, Extn, Kanchpada, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Extn, Kanchpada, Malad West",
+    "latitude": 19.1894292,
+    "longitude": 72.8380849,
+    "place_id": "ChIJtyAaO-O25zsRQqRe9zdvmH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyAaO-O25zsRQqRe9zdvmH8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:43:07"
+  }
+]

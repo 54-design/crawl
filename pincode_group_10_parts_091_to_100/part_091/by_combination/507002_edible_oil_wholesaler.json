@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSV Polymers",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Plastic Products Supplier",
+    "all_categories": "Plastic Products Supplier",
+    "pincode": "507002",
+    "phone_number": "+91 80082 78979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khanapuram Industrial Area, Khanapuram, Khammam, Telangana 507002",
+    "area": "Khanapuram Industrial Area, Khanapuram",
+    "latitude": 17.2645669,
+    "longitude": 80.1672589,
+    "place_id": "ChIJK2ulp9BZNDoRr4tJqYqhfho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2ulp9BZNDoRr4tJqYqhfho",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:26"
+  },
+  {
+    "business_name": "IndianOil",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Compressed natural gas station, Diesel fuel supplier, Fuel supplier",
+    "pincode": "507002",
+    "phone_number": "+91 95812 60530",
+    "website": "https://locator.iocl.com/indianoil-raghavendra-filling-station-petrol-pump-ballepalli-khammam-233687/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.9,
+    "reviews_count": 439,
+    "address": "Lock No IG4106, opposite Dist, Kaviraj Nagar, Ballepally, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.251392799999998,
+    "longitude": 80.1649053,
+    "place_id": "ChIJGSFmnsJZNDoRkcb0448wNe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSFmnsJZNDoRkcb0448wNe4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:30"
+  }
+]

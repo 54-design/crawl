@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sravan Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "506371",
+    "phone_number": "+91 86869 88889",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "5-6-72, above Kalyani Ghee Sweets, opposite Govt. Girls High School, Lashkar Bazar, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Lashkar Bazar, Kishanpura",
+    "latitude": 18.0104292,
+    "longitude": 79.5636605,
+    "place_id": "ChIJV62jNfdFMzoRRGpxKaXoCTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV62jNfdFMzoRRGpxKaXoCTg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:09"
+  },
+  {
+    "business_name": "BHAVANI COMPUTERS & PRINTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer desk store",
+    "all_categories": "Computer desk store",
+    "pincode": "506371",
+    "phone_number": "+91 95157 34587",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2 - 2 - 429, near Aditya Hospital, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Kishanpura",
+    "latitude": 18.0115505,
+    "longitude": 79.5580507,
+    "place_id": "ChIJ4-v5ip1PMzoR7rjyoHMZdVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-v5ip1PMzoR7rjyoHMZdVo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:10"
+  }
+]

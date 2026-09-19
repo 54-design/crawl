@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamata General Hospital",
+    "search_category": "Business and Audit Services",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital, Hospital",
+    "pincode": "507002",
+    "phone_number": "+91 80089 04501",
+    "website": "https://mamatamedicalcollege.com/mamata-general-hospital/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "65Q6+G76, Manikya Nagar Basti, Khammam, Telangana 507002",
+    "area": "Manikya Nagar Basti",
+    "latitude": 17.2387986,
+    "longitude": 80.1606364,
+    "place_id": "ChIJX5wy32FXNDoRcYSIdSiiPqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5wy32FXNDoRcYSIdSiiPqo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:56"
+  },
+  {
+    "business_name": "sri balaji enterprises",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Electronics store",
+    "pincode": "507002",
+    "phone_number": "+91 74164 85773",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-5-189/2, opp. hp gas agency, Sambhani Nagar, Mustafa Nagar, Khammam, Telangana 507001",
+    "area": "Sambhani Nagar, Mustafa Nagar",
+    "latitude": 17.231284,
+    "longitude": 80.1495,
+    "place_id": "ChIJ701hM-tZNDoRdJhkuk8jujc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ701hM-tZNDoRdJhkuk8jujc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:00:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello Social Media",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "506303",
+    "phone_number": "07899 890866",
+    "website": "http://www.hellosocialmediauk.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Hello Social Media, 506303, India",
+    "area": "506303",
+    "latitude": 51.0531917,
+    "longitude": -0.9330704999999999,
+    "place_id": "ChIJ4ZQJyN82dEgREWOOX9bzEH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZQJyN82dEgREWOOX9bzEH0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:53:18"
+  },
+  {
+    "business_name": "Branding Marketing Agency",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, Service establishment, Graphic designer, Website designer",
+    "pincode": "506303",
+    "phone_number": "N/A",
+    "website": "https://www.brandingmarketingagency.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Branding Marketing Agency, 506303, India",
+    "area": "506303",
+    "latitude": 38.460285,
+    "longitude": -98.07997139999999,
+    "place_id": "ChIJ49qFg-lV2YARdB7zOYMXrck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49qFg-lV2YARdB7zOYMXrck",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:53:19"
+  }
+]

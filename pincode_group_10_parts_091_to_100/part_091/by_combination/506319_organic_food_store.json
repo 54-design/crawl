@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deva Natural Farm",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic farm",
+    "pincode": "506319",
+    "phone_number": "+91 83310 00818",
+    "website": "https://www.facebook.com/marketplace/profile/100013673015712/?ref=permalink",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8-125, Nizampally, Regonda, Kothapallegori, Telangana 506348",
+    "area": "Nizampally",
+    "latitude": 18.164348399999998,
+    "longitude": 79.814099,
+    "place_id": "ChIJLfghCIAVMzoR0ueOFpFNWhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfghCIAVMzoR0ueOFpFNWhQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:06:38"
+  },
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Regonda",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "506319",
+    "phone_number": "+91 90631 65835",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No: 6, 118/1, SY No: 470/B, Regonda, Telangana 506348",
+    "area": "506319",
+    "latitude": 18.2411,
+    "longitude": 79.7688,
+    "place_id": "ChIJX8V4s5UVMzoRu2OKrryzC94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8V4s5UVMzoRu2OKrryzC94",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:06:38"
+  }
+]

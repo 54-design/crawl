@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srikanth tours and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "507117",
+    "phone_number": "+91 88855 48580",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mittagudem, Mainroad, Bayyaram, Telangana 507116",
+    "area": "507117",
+    "latitude": 17.8900146,
+    "longitude": 80.8297025,
+    "place_id": "ChIJef4al9dVMToROgVV-iRb7gI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJef4al9dVMToROgVV-iRb7gI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:00"
+  },
+  {
+    "business_name": "Leo Travel Hub | Professional Tour Operator From Hyderabad",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Airline ticket agency, Currency exchange service, Foreign Exchange Students Organization, Insurance agency, Money transfer service, Tour agency, Tourist information center, Travel agency, Visa Agent",
+    "pincode": "507117",
+    "phone_number": "+91 77990 06591",
+    "website": "http://www.leotravelhub.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Flat no 303, JG`S Aishwarya, SHILPA HILLS, Road No.1, Ramakrishnapur, Weaker Section Colony, Silpa Park, HITEC City, Khanammet, Hyderabad, Telangana 500084",
+    "area": "Ramakrishnapur, Weaker Section Colony, Silpa Park, HITEC City",
+    "latitude": 17.4658648,
+    "longitude": 78.376297,
+    "place_id": "ChIJOZ-GrIKTyzsRLBhJN1b7C9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ-GrIKTyzsRLBhJN1b7C9g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:02"
+  }
+]

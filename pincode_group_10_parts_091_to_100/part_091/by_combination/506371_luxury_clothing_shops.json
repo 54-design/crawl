@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Arvind Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "506371",
+    "phone_number": "+91 870 255 5477",
+    "website": "https://stores.thearvindstore.com/",
+    "rating": 4,
+    "reviews_count": 73,
+    "address": "House No 5, 11-245, Hanamkonda - Pegadapally Rd, opposite Keerthi Children Hospital, Jagruti Colony, Naim Nagar, Hanamkonda, Telangana 506001",
+    "area": "Jagruti Colony, Naim Nagar",
+    "latitude": 18.017684499999998,
+    "longitude": 79.5534995,
+    "place_id": "ChIJ93Hl1oNPMzoRe8-OQnUCauc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93Hl1oNPMzoRe8-OQnUCauc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:12"
+  },
+  {
+    "business_name": "RS Boutique Women's Designer World",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "506371",
+    "phone_number": "+91 77024 08080",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C P Reddy Complex, 4-10-147/1, Deshini Complex Back Side of, Chowrastha, Hanamkonda, Telangana 506011",
+    "area": "Chowrastha, Gandhi Nagar, Reddy Colony",
+    "latitude": 18.0069821,
+    "longitude": 79.56989659999999,
+    "place_id": "ChIJq8tjRQtFMzoRy_bG9zBItkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8tjRQtFMzoRy_bG9zBItkU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:12"
+  }
+]

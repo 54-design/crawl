@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Furniture World",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "507154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6-147, Kothagudem - Manuguru Rd, Old Paloncha, Telangana 507154",
+    "area": "507154",
+    "latitude": 17.583668199999998,
+    "longitude": 80.6554537,
+    "place_id": "ChIJA7g357sQNDoRFboeP-B9Zh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7g357sQNDoRFboeP-B9Zh0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:41:22"
+  },
+  {
+    "business_name": "Sri Sai Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "507154",
+    "phone_number": "+91 86865 65610",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 22,
+    "address": "VSR Complex, Azad Rd, Madhira, Telangana 507203",
+    "area": "507154",
+    "latitude": 16.9205898,
+    "longitude": 80.36241179999999,
+    "place_id": "ChIJn3w8-iqxNToRb2RNztDHHpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3w8-iqxNToRb2RNztDHHpg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:41:24"
+  }
+]

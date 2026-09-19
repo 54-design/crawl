@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MM Reddy Kiranam and General Store",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "507101",
+    "phone_number": "+91 93471 26632",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Gowthampur, Colony, Rudrampur, Kothagudem, Telangana 507119",
+    "area": "Colony, Rudrampur",
+    "latitude": 17.4870441,
+    "longitude": 80.6439422,
+    "place_id": "ChIJnYdyzzEYNDoRzqoYIBawOPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYdyzzEYNDoRzqoYIBawOPc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:15"
+  },
+  {
+    "business_name": "Sri dharamchand sunil kumar wholesale dryfruits & spices",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "507101",
+    "phone_number": "+91 96666 66675",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 87,
+    "address": "Phalli Market Wholesale, Fish Market, Begum Bazar, Afzal Gunj, Hyderabad, Telangana 500012",
+    "area": "Fish Market, Begum Bazar, Afzal Gunj",
+    "latitude": 17.3751937,
+    "longitude": 78.472039,
+    "place_id": "ChIJ2ZJUK4GXyzsRXmH0wr_M6po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZJUK4GXyzsRXmH0wr_M6po",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:15"
+  }
+]

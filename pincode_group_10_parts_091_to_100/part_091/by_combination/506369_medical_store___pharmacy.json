@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanvika medical shop",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "PRW5+3FX, Venkatapur, Telangana 506369",
+    "area": "506369",
+    "latitude": 17.745241699999998,
+    "longitude": 79.8087449,
+    "place_id": "ChIJ94J9tY6fNDoRfClzRPXFsBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94J9tY6fNDoRfClzRPXFsBQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:48:19"
+  },
+  {
+    "business_name": "Krishna Medical Stores",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "506369",
+    "phone_number": "+91 70132 58715",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No 1, Gopanapalli, 118, Main Road, Konkapaka, Telangana 506369",
+    "area": "506369",
+    "latitude": 17.808558599999998,
+    "longitude": 79.66984719999999,
+    "place_id": "ChIJDW5AE0dfMzoRBpJAYWzejBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDW5AE0dfMzoRBpJAYWzejBQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:48:19"
+  }
+]

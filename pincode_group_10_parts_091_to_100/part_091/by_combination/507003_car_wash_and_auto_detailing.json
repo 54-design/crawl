@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MM water wash and car mechanic works",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "507003",
+    "phone_number": "+91 85010 60996",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 41,
+    "address": "Bypass Rd, Sarathi Nagar, Khammam, Telangana 507003",
+    "area": "Sarathi Nagar",
+    "latitude": 17.2533936,
+    "longitude": 80.13314609999999,
+    "place_id": "ChIJ0dtHPoBZNDoRBPDFbfPV6-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dtHPoBZNDoRBPDFbfPV6-g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:57"
+  },
+  {
+    "business_name": "Speed Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "507003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Khanapuram Industrial Area, Khanapuram, Khammam, Telangana 507002",
+    "area": "Khanapuram Industrial Area, Khanapuram",
+    "latitude": 17.2626514,
+    "longitude": 80.1687469,
+    "place_id": "ChIJ8f64g0JZNDoRhiczhi_YCIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8f64g0JZNDoRhiczhi_YCIs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:57"
+  }
+]

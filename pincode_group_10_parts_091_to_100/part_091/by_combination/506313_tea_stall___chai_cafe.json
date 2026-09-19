@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAI CLUB ANNARAM",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506313",
+    "phone_number": "+91 94946 77456",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Annaram Shareef, Telangana 506369",
+    "area": "506313",
+    "latitude": 17.6934129,
+    "longitude": 79.6994632,
+    "place_id": "ChIJg21s0UihNDoRvrHn4VpKQf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg21s0UihNDoRvrHn4VpKQf0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:55:27"
+  },
+  {
+    "business_name": "Royal Tea Stal",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "506313",
+    "phone_number": "+91 63020 49327",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No-11, 23-1674, Desaipet Rd, Krishna Nagar, Doctors Colony, Warangal, Telangana 506006",
+    "area": "Krishna Nagar, Doctors Colony",
+    "latitude": 17.9907363,
+    "longitude": 79.6037525,
+    "place_id": "ChIJY5OylaRFMzoRMkMhjO0OUnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5OylaRFMzoRMkMhjO0OUnc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:55:30"
+  }
+]

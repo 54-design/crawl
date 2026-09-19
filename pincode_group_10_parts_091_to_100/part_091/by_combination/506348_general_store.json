@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJAY KIRANAM",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506348",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagurlapally, Madthapally, Repaka, Telangana 506348",
+    "area": "Nagurlapally",
+    "latitude": 18.260842399999998,
+    "longitude": 79.711004,
+    "place_id": "ChIJWz0wejw9MzoRbAx4IvW6Bvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWz0wejw9MzoRbAx4IvW6Bvw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:29:03"
+  },
+  {
+    "business_name": "A-1 KIRANAM AND GENERAL STORES",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506348",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "6QRG+422, Main Rd, Regonda, Telangana 506348",
+    "area": "506348",
+    "latitude": 18.240268999999998,
+    "longitude": 79.7750286,
+    "place_id": "ChIJn_O9udkVMzoR5DE7XYuX58E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_O9udkVMzoR5DE7XYuX58E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:29:03"
+  }
+]

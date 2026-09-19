@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JB Autos",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Service establishment",
+    "pincode": "506342",
+    "phone_number": "07837 849403",
+    "website": "https://www.jbautosmobilemechanic.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JB Autos, 506342, India",
+    "area": "506342",
+    "latitude": 50.8689828,
+    "longitude": -3.3649831999999997,
+    "place_id": "ChIJOSzJp5HrfGERWq1pJQE4dTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSzJp5HrfGERWq1pJQE4dTk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:18"
+  },
+  {
+    "business_name": "Multi car care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "506342",
+    "phone_number": "+91 95151 18094",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Auto Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "Auto Nagar",
+    "latitude": 14.4071693,
+    "longitude": 79.9463956,
+    "place_id": "ChIJHxJoFADzTDoR6CnmTpDvUOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxJoFADzTDoR6CnmTpDvUOU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:20"
+  }
+]

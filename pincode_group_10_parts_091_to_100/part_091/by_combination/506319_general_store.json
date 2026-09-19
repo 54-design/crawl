@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay kiranam and general stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4QXM+9F2, Vasanthapur, Koppula, Telangana 506348",
+    "area": "506319",
+    "latitude": 18.1483848,
+    "longitude": 79.7836542,
+    "place_id": "ChIJX-M2cQBrMzoRZEE6RWwZJSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-M2cQBrMzoRZEE6RWwZJSE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:06:43"
+  },
+  {
+    "business_name": "Lakshmi general merchant",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506319",
+    "phone_number": "+91 91772 52251",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D.no-16-7-123, near vegetable&fruit market, Girmajipet, Warangal, Telangana 506002",
+    "area": "Girmajipet",
+    "latitude": 17.9779911,
+    "longitude": 79.6063886,
+    "place_id": "ChIJncM1vwlFMzoRODsJe09uWUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncM1vwlFMzoRODsJe09uWUQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:06:44"
+  }
+]

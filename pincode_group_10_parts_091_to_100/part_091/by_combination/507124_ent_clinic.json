@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaigai ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital",
+    "pincode": "507124",
+    "phone_number": "+91 44 4861 4521",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 54,
+    "address": "247, Thiruvottiyur High Rd, New Washermenpet, Tondiarpet, Chennai, Tamil Nadu 600021",
+    "area": "New Washermenpet, Tondiarpet",
+    "latitude": 13.137013999999999,
+    "longitude": 80.2940361,
+    "place_id": "ChIJT3UK6plvUjoRhsQVF3q3-Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3UK6plvUjoRhsQVF3q3-Zo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:59"
+  },
+  {
+    "business_name": "Dr T A Amudhan",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "507124",
+    "phone_number": "+91 44 2591 4521",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "52/189, Thiruvottiyur High Rd, near Surya Hotel, Thangal, New Washermenpet, Tondiarpet, Chennai, Tamil Nadu 600081",
+    "area": "Thangal, New Washermenpet, Tondiarpet",
+    "latitude": 13.139136599999999,
+    "longitude": 80.29484579999999,
+    "place_id": "ChIJS7t46plvUjoRSfc2JDBDZUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7t46plvUjoRSfc2JDBDZUg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:59"
+  }
+]

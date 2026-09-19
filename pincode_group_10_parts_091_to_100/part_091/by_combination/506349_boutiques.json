@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharun ladies tailors",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "506349",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "4-76/47/a, Mallampalle, Telangana 506349",
+    "area": "506349",
+    "latitude": 18.1149459,
+    "longitude": 79.8525646,
+    "place_id": "ChIJxTxBAQBtMzoRh18aoqIASSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTxBAQBtMzoRh18aoqIASSA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:31:13"
+  },
+  {
+    "business_name": "Sri Vinayaka Mobiles & Electronics",
+    "search_category": "Boutiques",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "506349",
+    "phone_number": "+91 97009 37153",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Mallampalle, Telangana 506349",
+    "area": "506349",
+    "latitude": 18.1129164,
+    "longitude": 79.8511363,
+    "place_id": "ChIJ65JPL1xsMzoRAAAAsMhz_Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65JPL1xsMzoRAAAAsMhz_Xs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:31:13"
+  }
+]

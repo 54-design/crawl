@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Rainbow Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507157",
+    "phone_number": "+91 90321 27571",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "By Pass Road, opp. Athmaram Function Hall, Krishnanagar, Jagtial, Telangana 505327",
+    "area": "Krishnanagar",
+    "latitude": 18.7894128,
+    "longitude": 78.9213694,
+    "place_id": "ChIJPf08EWQTzTsREEh04HLahps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPf08EWQTzTsREEh04HLahps",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:37"
+  },
+  {
+    "business_name": "Nageswararao Pan Show",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "507157",
+    "phone_number": "+91 62811 07039",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5WWP+CMW, Main Rd, Kusumanchi, Jujjularaopeta, Telangana 507157",
+    "area": "507157",
+    "latitude": 17.1961157,
+    "longitude": 79.9366994,
+    "place_id": "ChIJydoqJXz7NDoRcNbXHp8rLrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydoqJXz7NDoRcNbXHp8rLrA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjamma kiranam and general stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "507003",
+    "phone_number": "+91 96667 36536",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-9, RTC Colony, Jalagam Nagar, Khammam, Telangana 507003",
+    "area": "RTC Colony, Jalagam Nagar",
+    "latitude": 17.2476034,
+    "longitude": 80.1205399,
+    "place_id": "ChIJozqb2MxZNDoRY8UFc072DV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozqb2MxZNDoRY8UFc072DV8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:15"
+  },
+  {
+    "business_name": "Manhitha Sri General Store & Xerox Center మన్హిత శ్రీ (కిరాణం & ఫ్యాన్సీ స్టోర్ & జిరాక్స్ సెంటర్)",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "507003",
+    "phone_number": "+91 63011 83448",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "85H4+VX4, Khammam, Daredu, Telangana 507003",
+    "area": "507003",
+    "latitude": 17.329396799999998,
+    "longitude": 80.1567922,
+    "place_id": "ChIJnZiJZ4RZNDoRNgmMjsloVrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZiJZ4RZNDoRNgmMjsloVrE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:15"
+  }
+]

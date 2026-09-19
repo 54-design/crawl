@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Talkies",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue, Outdoor movie theater, Theater company, Theater production",
+    "pincode": "507117",
+    "phone_number": "+91 84658 89889",
+    "website": "https://www.dreamtalkies.in/",
+    "rating": 4.9,
+    "reviews_count": 244,
+    "address": "3rd phase, Vrindhavan bhavan, HIG 128, Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally",
+    "latitude": 17.4896675,
+    "longitude": 78.3943723,
+    "place_id": "ChIJvf1gm2-RyzsR7eA72UUioiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvf1gm2-RyzsR7eA72UUioiE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:28"
+  },
+  {
+    "business_name": "RK Cinenest",
+    "search_category": "Media and Event",
+    "primary_category": "Entertainment agency",
+    "all_categories": "Entertainment agency",
+    "pincode": "507117",
+    "phone_number": "+91 94904 39955",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "1st floor, R G Road, Pathi Srinatham complex, Vikarabad, Telangana 501101",
+    "area": "Pathi Srinatham complex",
+    "latitude": 17.3365877,
+    "longitude": 77.9042099,
+    "place_id": "ChIJVzqdIItfyTsR6Ay3lbfDGRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzqdIItfyTsR6Ay3lbfDGRw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:28"
+  }
+]

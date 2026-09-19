@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPICE BLOSSOM",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant",
+    "pincode": "507003",
+    "phone_number": "+91 76600 66517",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5-7-199/4, Mamatha Hospital Rd, near mamatha hospital old gate, Manikya Nagar Basti, Khammam, Telangana 507002",
+    "area": "Manikya Nagar Basti",
+    "latitude": 17.2392197,
+    "longitude": 80.1600189,
+    "place_id": "ChIJZ5sqYgBZNDoR0jlFvbBQuuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5sqYgBZNDoR0jlFvbBQuuo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:23"
+  },
+  {
+    "business_name": "Grand Krishna Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant, Fast food restaurant",
+    "pincode": "507003",
+    "phone_number": "+91 94941 72444",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1803,
+    "address": "Aswaraopeta - Jangareddygudem Rd, Beside State bank of India, Jangareddygudem, Andhra Pradesh 534455",
+    "area": "507003",
+    "latitude": 17.1226394,
+    "longitude": 81.2891799,
+    "place_id": "ChIJrwOujTb2NjoRzLlVezwf5w4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwOujTb2NjoRzLlVezwf5w4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alacer Consulting Services Pvt Ltd",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Industrial consultant, Recruiter, Software company",
+    "pincode": "506302",
+    "phone_number": "+91 40 4021 3107",
+    "website": "http://www.alacer.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "SAI ENCLAVE LANE, Street No. 3, Raghavendra Nagar, Habsiguda, Hyderabad, Telangana 500007",
+    "area": "Raghavendra Nagar, Habsiguda",
+    "latitude": 17.423541399999998,
+    "longitude": 78.5534242,
+    "place_id": "ChIJkxw3PUCZyzsRkalUfBLR3Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxw3PUCZyzsRkalUfBLR3Ng",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:51:28"
+  },
+  {
+    "business_name": "Sneha Synergy Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Payroll Service Provider, Human resource consulting",
+    "pincode": "506302",
+    "phone_number": "+91 40 6641 5777",
+    "website": "http://snehasynergy.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Diamond House, 403, near Amrutha Hills, Punjagutta Officers Colony, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Punjagutta Officers Colony, Punjagutta",
+    "latitude": 17.4296871,
+    "longitude": 78.4531466,
+    "place_id": "ChIJqyFpCrWQyzsRqJ8dWOeXVV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyFpCrWQyzsRqJ8dWOeXVV4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:51:28"
+  }
+]

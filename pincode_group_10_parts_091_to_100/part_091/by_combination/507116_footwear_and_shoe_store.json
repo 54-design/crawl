@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suja Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "507116",
+    "phone_number": "+91 99087 57459",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8-2-292, Main Road, Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9437405,
+    "longitude": 80.8145741,
+    "place_id": "ChIJZ2wqjxpXMToRfCSuBKo3L4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2wqjxpXMToRfCSuBKo3L4o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:49"
+  },
+  {
+    "business_name": "Sri Dhanalakshmi Tex Tailes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "507116",
+    "phone_number": "+91 94402 87226",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12-1, Aswapuram, Telangana 507116",
+    "area": "507116",
+    "latitude": 17.830479099999998,
+    "longitude": 80.83172379999999,
+    "place_id": "ChIJ6XS-lxKrNjoRFi0dsEnf5JE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XS-lxKrNjoRFi0dsEnf5JE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:49"
+  }
+]

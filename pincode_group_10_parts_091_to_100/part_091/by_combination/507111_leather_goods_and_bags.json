@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amazing Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Handbags shop",
+    "all_categories": "Handbags shop, Bag shop, Gift shop, Wedding service, Wedding store",
+    "pincode": "507111",
+    "phone_number": "+91 77026 16030",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "GROUND FLOOR, MAHAVEER PLAZA, 15-1-92/1, SHOP NO. G-18, 12, Feel khana Begum Bazar Rd, Hyderabad, Telangana 500012",
+    "area": "Feelkhana",
+    "latitude": 17.3786715,
+    "longitude": 78.47441669999999,
+    "place_id": "ChIJ5Us4hTWZyzsRVN163GkyOJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Us4hTWZyzsRVN163GkyOJk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:17"
+  },
+  {
+    "business_name": "Variety Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "507111",
+    "phone_number": "+91 98495 23717",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop no: C-3, near Rajiv Chowk, below new peacock restaurant, Ashoknagar, Karimnagar, Telangana 505001",
+    "area": "Ashoknagar",
+    "latitude": 18.435414299999998,
+    "longitude": 79.1354459,
+    "place_id": "ChIJaSgH7BfZzDsRmo-5POaO460",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSgH7BfZzDsRmo-5POaO460",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:18"
+  }
+]

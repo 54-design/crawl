@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "506317",
+    "phone_number": "+91 89855 21559",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sagar mobile shop, suryapet, Telangana 508213",
+    "area": "506317",
+    "latitude": 17.613937999999997,
+    "longitude": 79.641632,
+    "place_id": "ChIJPV_M7wWlNDoRn2rVgp_emjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPV_M7wWlNDoRn2rVgp_emjM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:04:13"
+  },
+  {
+    "business_name": "MK all in one services",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "506317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JH4C+2CR, Authapur, Patelagudem, Telangana 506317",
+    "area": "506317",
+    "latitude": 17.605039599999998,
+    "longitude": 79.57106879999999,
+    "place_id": "ChIJZeH9SAClNDoRE0yoTIzSXUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeH9SAClNDoRE0yoTIzSXUg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:04:16"
+  }
+]

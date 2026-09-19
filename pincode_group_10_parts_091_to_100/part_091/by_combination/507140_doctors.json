@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok gummala",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "507140",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-13, Chinnaravigudem, Telangana 507117",
+    "area": "507140",
+    "latitude": 17.946804999999998,
+    "longitude": 80.8543167,
+    "place_id": "ChIJdQnoJQBXMToRW-cFMd5cbZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQnoJQBXMToRW-cFMd5cbZE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:39:02"
+  },
+  {
+    "business_name": "Seetharama medical",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "507140",
+    "phone_number": "+91 83095 80832",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2V4F+755, R.Kothagudem(G), Telangana 507140",
+    "area": "507140",
+    "latitude": 18.0056316,
+    "longitude": 80.87298059999999,
+    "place_id": "ChIJ5-uyGgBXMToRS7A__FL_T8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-uyGgBXMToRS7A__FL_T8Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:39:05"
+  }
+]

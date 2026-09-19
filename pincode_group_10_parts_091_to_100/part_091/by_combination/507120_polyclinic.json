@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surabhi Neuro Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507120",
+    "phone_number": "+91 89777 81888",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "11-5-7/5, Wyra Rd, VDO's Colony, Khammam, Telangana 507002",
+    "area": "VDO's Colony",
+    "latitude": 17.247882099999998,
+    "longitude": 80.14967349999999,
+    "place_id": "ChIJp_xC6dFZNDoRO1-0fI44v74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_xC6dFZNDoRO1-0fI44v74",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:20:19"
+  },
+  {
+    "business_name": "Kidz care Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507120",
+    "phone_number": "+91 76759 35035",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6R6R+HH4, Sathupally, Telangana 507303",
+    "area": "507120",
+    "latitude": 17.2135146,
+    "longitude": 80.8406119,
+    "place_id": "ChIJX8sP5kSCNjoRTRcGTa5hEPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8sP5kSCNjoRTRcGTa5hEPQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:20:19"
+  }
+]

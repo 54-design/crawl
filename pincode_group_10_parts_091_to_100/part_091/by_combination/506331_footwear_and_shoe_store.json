@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506331",
+    "phone_number": "+91 99482 26298",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "XQ4V+4VP, Warangal Rd, Girnibavi, Telangana 506331",
+    "area": "506331",
+    "latitude": 17.9553281,
+    "longitude": 79.79471459999999,
+    "place_id": "ChIJY2_TeQBnMzoR49OfC7O-s_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2_TeQBnMzoR49OfC7O-s_M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:14:23"
+  },
+  {
+    "business_name": "Mahendra Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506331",
+    "phone_number": "+91 88012 24186",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mandapally X Rd, Rural, Girnibavi, Telangana 506331",
+    "area": "506331",
+    "latitude": 17.9556203,
+    "longitude": 79.7954336,
+    "place_id": "ChIJIwvDijtnMzoRRag1hBM7XBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwvDijtnMzoRRag1hBM7XBg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:14:23"
+  }
+]

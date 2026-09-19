@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paris World",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Bridal shop, Designer Clothing Store, Men's clothing store, Saree Shop, Store, Tuxedo shop, Wedding store, Women's clothing store",
+    "pincode": "507140",
+    "phone_number": "+91 95123 00900",
+    "website": "https://www.parisworld.in/",
+    "rating": 4,
+    "reviews_count": 994,
+    "address": "Lalgate Main Road, Rajmarg, Surat, Gujarat 395003",
+    "area": "Kanpith Bazar, Gopipura",
+    "latitude": 21.1986794,
+    "longitude": 72.8267876,
+    "place_id": "ChIJgd9J0mFO4DsRNZRmgo6eioQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgd9J0mFO4DsRNZRmgo6eioQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:38:58"
+  },
+  {
+    "business_name": "Luxe Clothing's Co",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "507140",
+    "phone_number": "+91 63825 49272",
+    "website": "https://luxeclothingsco.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Aishwarya Colony, Venkata Rathnam Nagar Extension, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+    "area": "Aishwarya Colony, Venkata Rathnam Nagar Extension, Indira Nagar, Adyar",
+    "latitude": 12.9997359,
+    "longitude": 80.2515229,
+    "place_id": "ChIJKXEnzWhSw0sRiiWiYwD6n8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXEnzWhSw0sRiiWiYwD6n8A",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:39:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratibha's boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "507116",
+    "phone_number": "+91 82195 47841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Samithisingaram, Ashok Nagar, Manuguru (PT), Telangana 507117",
+    "area": "Samithisingaram, Ashok Nagar",
+    "latitude": 17.9299301,
+    "longitude": 80.8120749,
+    "place_id": "ChIJQUWSKVVXMToR5UJtGHi5hQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUWSKVVXMToR5UJtGHi5hQA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:52"
+  },
+  {
+    "business_name": "Picks by sankeerthana boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "507116",
+    "phone_number": "+91 94923 09704",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sundariah nagar, Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Sundariah nagar, Pilot Colony",
+    "latitude": 17.9385138,
+    "longitude": 80.81785889999999,
+    "place_id": "ChIJUUaGUwBXMToRHxS0Ilacy1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUaGUwBXMToRHxS0Ilacy1E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:52"
+  }
+]

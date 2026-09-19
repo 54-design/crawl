@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HairAnd Hair Saloon Shop",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "506366",
+    "phone_number": "+91 81422 45108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-22, Sirsed, Telangana 505122",
+    "area": "506366",
+    "latitude": 18.2911741,
+    "longitude": 79.5395461,
+    "place_id": "ChIJa0xR_NsxMzoR2KSMKzb11fA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0xR_NsxMzoR2KSMKzb11fA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:43:13"
+  },
+  {
+    "business_name": "JSK BEAUTY CONCEPTS",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Beauty product supplier, Beauty Products Wholesaler, Exporter, Interior designer, Manufacturer",
+    "pincode": "506366",
+    "phone_number": "+91 98226 15597",
+    "website": "http://jskbeautyconcepts.com/",
+    "rating": 4.7,
+    "reviews_count": 152,
+    "address": "1st Floor, Mavlankar Industrial Estate, Sangam Bridge, opp. Business Bay, beside Dr. Batra Lane, Sangamvadi, Pune, Maharashtra 411001",
+    "area": "Sangamvadi",
+    "latitude": 18.5307091,
+    "longitude": 73.86233519999999,
+    "place_id": "ChIJLxL1d3HAwjsRmePiOHNOfGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxL1d3HAwjsRmePiOHNOfGA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:43:15"
+  }
+]

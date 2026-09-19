@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sequel Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "506381",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "65W4+C79, Wyra Rd, Yedulapuram, Khammam, Telangana 507002",
+    "area": "Yedulapuram",
+    "latitude": 17.2460454,
+    "longitude": 80.1557282,
+    "place_id": "ChIJSejabtpZNDoR1Wy4zjHuilQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSejabtpZNDoR1Wy4zjHuilQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:54:53"
+  },
+  {
+    "business_name": "ERR Resorts (Oasis )",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "506381",
+    "phone_number": "+91 88054 56999",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "65X7+6R6, Mamatha Hospital Rd, Dwaraka Nagar, Raheem bagh, Khammam, Telangana 507002",
+    "area": "Dwaraka Nagar, Raheem bagh",
+    "latitude": 17.2480413,
+    "longitude": 80.1645132,
+    "place_id": "ChIJhfJylt1ZNDoRuaZpFeq2XLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfJylt1ZNDoRuaZpFeq2XLE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:54:53"
+  }
+]

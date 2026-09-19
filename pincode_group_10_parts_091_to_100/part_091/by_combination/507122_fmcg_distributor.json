@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arjun traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Aerated Drinks Supplier",
+    "all_categories": "Aerated Drinks Supplier",
+    "pincode": "507122",
+    "phone_number": "+91 63053 43338",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-7-182/3/53A, Mamatha Hospital Rd, near sri chaitanya school, Manikya Nagar Basti, Khammam, Papakabanda, Telangana 507002",
+    "area": "Manikya Nagar Basti",
+    "latitude": 17.2365407,
+    "longitude": 80.1562606,
+    "place_id": "ChIJtbEmNg1XNDoRisejgWlAkck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbEmNg1XNDoRisejgWlAkck",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:47"
+  },
+  {
+    "business_name": "Ganis Brand Factory Khammam",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall, Shoe store",
+    "pincode": "507122",
+    "phone_number": "N/A",
+    "website": "http://brandfactorykhammam.com/",
+    "rating": 3.4,
+    "reviews_count": 7,
+    "address": "Lakshmi Venkanna Nilayam, beside RTO Office Road, Bangaraiah Nagar, Bank Colony, Khmmam, Khammam, Telangana 507002",
+    "area": "Bangaraiah Nagar, Bank Colony",
+    "latitude": 17.260175999999998,
+    "longitude": 80.15361949999999,
+    "place_id": "ChIJC4J_86JZNDoR_TvSFy4_N_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4J_86JZNDoR_TvSFy4_N_Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JS Aqua Enterprises",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing pond",
+    "all_categories": "Fishing pond",
+    "pincode": "507157",
+    "phone_number": "+91 95058 16175",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Andhra Bank, Paleru, Telangana 507157",
+    "area": "507157",
+    "latitude": 17.206456199999998,
+    "longitude": 79.9227781,
+    "place_id": "ChIJ3d7gD2_7NDoRiwH6vWFylEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3d7gD2_7NDoRiwH6vWFylEQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:24"
+  },
+  {
+    "business_name": "Parsuramulu fish nets",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nayakulagudem, Telangana 507157",
+    "area": "507157",
+    "latitude": 17.1992659,
+    "longitude": 79.89325819999999,
+    "place_id": "ChIJuS1_-STlNDoR4up2p2RIrQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuS1_-STlNDoR4up2p2RIrQY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:24"
+  }
+]

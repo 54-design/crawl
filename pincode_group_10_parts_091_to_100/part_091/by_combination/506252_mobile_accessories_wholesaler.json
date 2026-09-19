@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Electronics Accessories Wholesaler",
+    "all_categories": "Electronics Accessories Wholesaler",
+    "pincode": "506252",
+    "phone_number": "+91 97398 08188",
+    "website": "https://mobile-shop-16.ueniweb.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "17th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 4, HSR Layout",
+    "latitude": 12.9122045,
+    "longitude": 77.6420251,
+    "place_id": "ChIJn-Edj_cVrjsR63N_Wo6nM90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-Edj_cVrjsR63N_Wo6nM90",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:47:20"
+  },
+  {
+    "business_name": "Kolors Mobile Services",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "506252",
+    "phone_number": "+91 90323 39944",
+    "website": "http://www.kolorsmobileservices.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nizampet Rd, Block 1, Nagarjuna Homes, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Block 1, Nagarjuna Homes, Kukatpally",
+    "latitude": 17.5048928,
+    "longitude": 78.3873371,
+    "place_id": "ChIJW42Xy_mRyzsRZQkTvII-Knc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW42Xy_mRyzsRZQkTvII-Knc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:47:23"
+  }
+]

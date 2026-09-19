@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "507140",
+    "phone_number": "+91 95606 44247",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No. 22, Commercial Complex, Kailash Hills, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Kailash Hills, East of Kailash",
+    "latitude": 28.557454699999997,
+    "longitude": 77.2589927,
+    "place_id": "ChIJSXKevsDjDDkRbbVL0d-wOnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXKevsDjDDkRbbVL0d-wOnk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:08"
+  },
+  {
+    "business_name": "FELIXA SKY MILANO",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "507140",
+    "phone_number": "+91 78451 60333",
+    "website": "https://www.felixa.in/",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "DLF-Karanai Road, Karanai, Navalur, Chennai, Tamil Nadu 600130",
+    "area": "507140",
+    "latitude": 12.859646399999999,
+    "longitude": 80.2059684,
+    "place_id": "ChIJc-wiOrdbUjoRG9pW4SbZNeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-wiOrdbUjoRG9pW4SbZNeU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:08"
+  }
+]

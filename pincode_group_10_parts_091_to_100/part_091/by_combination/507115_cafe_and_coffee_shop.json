@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anshitha tee & cool drinks",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "507115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HMMX+RPR, Eluru Rd, Palwancha, Telangana 507115",
+    "area": "507115",
+    "latitude": 17.5850158,
+    "longitude": 80.6991177,
+    "place_id": "ChIJ158gNgAbNDoR65ZCrD4aOj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ158gNgAbNDoR65ZCrD4aOj0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:10:52"
+  },
+  {
+    "business_name": "Indian coffee house ktps canteen",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "507115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "JPC3+Q6X, KTPS, Palwancha, Telangana 507115",
+    "area": "KTPS",
+    "latitude": 17.6219853,
+    "longitude": 80.7031106,
+    "place_id": "ChIJn2F0rAobNDoRBLCsyOE29Mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2F0rAobNDoRBLCsyOE29Mo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:10:53"
+  }
+]

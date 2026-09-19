@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkatapuram",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "507136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 12, Venkatapuram, Telangana 507136",
+    "area": "507136",
+    "latitude": 18.3029296,
+    "longitude": 80.5515989,
+    "place_id": "ChIJBXZrBgDFMzoR8EN69IZCx6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXZrBgDFMzoR8EN69IZCx6w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:57"
+  },
+  {
+    "business_name": "Royal bakes",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "507136",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/royalbakes_spl?igsh=MWFlYTEwa25nZ2gyZw==&utm_source=qr",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sathupally main road, road, Aswaraopeta, Sathupally, Telangana 507303",
+    "area": "Aswaraopeta",
+    "latitude": 17.207553,
+    "longitude": 80.841737,
+    "place_id": "ChIJt77t5neDNjoRFLxAHrqas70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt77t5neDNjoRFLxAHrqas70",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:57"
+  }
+]

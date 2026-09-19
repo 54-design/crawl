@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Vatsalya",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "506310",
+    "phone_number": "+91 97000 78157",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 15,
+    "address": "Road No 2 Ganesh Nagar Gavicherla, Cross, Warangal, Telangana 506005",
+    "area": "Shambunipet",
+    "latitude": 17.941258599999998,
+    "longitude": 79.6044593,
+    "place_id": "ChIJWy9UD6JbMzoRIyFntAUyOOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWy9UD6JbMzoRIyFntAUyOOA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:34"
+  },
+  {
+    "business_name": "Sharanya Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506310",
+    "phone_number": "+91 70975 70694",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "8-6-30, Station Rd, near Devi Theatre, Girmajipet, Warangal, Telangana 506002",
+    "area": "Girmajipet",
+    "latitude": 17.975048299999997,
+    "longitude": 79.6037108,
+    "place_id": "ChIJB2y3NCdFMzoRcuyz5LUHO6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2y3NCdFMzoRcuyz5LUHO6s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:36"
+  }
+]

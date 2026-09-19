@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS COMMUNICATION (Xerox and Online Services)",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "506371",
+    "phone_number": "+91 81212 84532",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Main Road, Gandhi nagar, Hasanparthy, Telangana 506371",
+    "area": "Gandhi nagar",
+    "latitude": 18.0702549,
+    "longitude": 79.5203985,
+    "place_id": "ChIJ2c791sBJMzoR9rjcCUgvzkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2c791sBJMzoR9rjcCUgvzkU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:09"
+  },
+  {
+    "business_name": "SR COMMUNICATIONS JAYAGIRI",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "506371",
+    "phone_number": "+91 81870 23236",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "1-139/2 JAYAGIRI, Hasanparthy, Telangana 506371",
+    "area": "Hasanparthy",
+    "latitude": 18.064770799999998,
+    "longitude": 79.4785582,
+    "place_id": "ChIJmfOzmoZJMzoRHfO5f8A59As",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfOzmoZJMzoRHfO5f8A59As",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:09"
+  }
+]

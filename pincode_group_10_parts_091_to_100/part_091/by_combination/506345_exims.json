@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BALAJI EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter, Spice store",
+    "pincode": "506345",
+    "phone_number": "+91 99090 02101",
+    "website": "http://balajiexim.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "412- R K EMPIRE 150 FEET RING ROAD, CIRCLE, nr. MAVDI, Rajkot, Gujarat 360004",
+    "area": "Vinayak Nagar",
+    "latitude": 22.2626706,
+    "longitude": 70.7868486,
+    "place_id": "ChIJi9tTpRzKWTkRDFMHsO2In2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9tTpRzKWTkRDFMHsO2In2Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:26:57"
+  },
+  {
+    "business_name": "Exim Express Bhutan",
+    "search_category": "EXIMS",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "506345",
+    "phone_number": "N/A",
+    "website": "https://eximexpress.bt/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "At CSI Market campus, Gongphel Lam, Thimphu 11001, Bhutan",
+    "area": "Chang Zamtok",
+    "latitude": 27.460755199999998,
+    "longitude": 89.6442019,
+    "place_id": "ChIJB2AZauSV4TkRqmPdtrDtCC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2AZauSV4TkRqmPdtrDtCC8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:26:57"
+  }
+]

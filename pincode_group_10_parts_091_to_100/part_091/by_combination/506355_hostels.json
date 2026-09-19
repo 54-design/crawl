@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Governament hostel for girls",
+    "search_category": "Hostels",
+    "primary_category": "Indoor lodging",
+    "all_categories": "Indoor lodging",
+    "pincode": "506355",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "XVG6+7RR, Kondapak, Telangana 502372",
+    "area": "506355",
+    "latitude": 17.9757414,
+    "longitude": 78.86203119999999,
+    "place_id": "ChIJxTwlvXiRzDsRbSmCWhi2sKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTwlvXiRzDsRbSmCWhi2sKo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:37:39"
+  },
+  {
+    "business_name": "Mcet Boys Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "506355",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "XV9H+H3P, Viswanathapalle, Telangana 502372",
+    "area": "506355",
+    "latitude": 17.9689638,
+    "longitude": 78.8776929,
+    "place_id": "ChIJsziQnluRzDsRZllxQA5vGFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsziQnluRzDsRZllxQA5vGFQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:37:41"
+  }
+]

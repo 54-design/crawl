@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amigos Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "507001",
+    "phone_number": "+91 78423 79419",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "65H3+R5R, Allipuram Rd, Sambhani Nagar, Mustafa Nagar, Khammam, Telangana 507001",
+    "area": "Sambhani Nagar, Mustafa Nagar",
+    "latitude": 17.2295956,
+    "longitude": 80.1528999,
+    "place_id": "ChIJ1WZLNwBXNDoRX2b2kd61Uvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WZLNwBXNDoRX2b2kd61Uvw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:40"
+  },
+  {
+    "business_name": "Sri kamakshi spices khammam",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler, Spice store",
+    "pincode": "507001",
+    "phone_number": "+91 91770 68859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "అర్బన్ మండలం, Pandurangapuram, Ballepally, Khammam, Telangana 507002",
+    "area": "Pandurangapuram",
+    "latitude": 17.2753199,
+    "longitude": 80.18057759999999,
+    "place_id": "ChIJtemH6UNZNDoR51p1o88lDFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtemH6UNZNDoR51p1o88lDFc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:57:42"
+  }
+]

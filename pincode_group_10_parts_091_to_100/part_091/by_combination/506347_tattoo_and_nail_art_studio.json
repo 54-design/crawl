@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil's TATTOO STUDIO",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop",
+    "pincode": "506347",
+    "phone_number": "+91 80735 82337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Bellandur, Bengaluru, Karnataka 560102",
+    "area": "Bellandur",
+    "latitude": 12.917992,
+    "longitude": 77.6715821,
+    "place_id": "ChIJ0ZZAxXMTrjsRruFSIFzLCjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZZAxXMTrjsRruFSIFzLCjk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:28:05"
+  },
+  {
+    "business_name": "Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "506347",
+    "phone_number": "+91 83174 33200",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Radha Krishna Layout 1st Stage, Banashankari 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560061",
+    "area": "Radha Krishna Layout 1st Stage, Banashankari 2nd Stage, Padmanabhanagar",
+    "latitude": 12.9134744,
+    "longitude": 77.5564261,
+    "place_id": "ChIJ52iGs9Y_rjsR2la9osIhar0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52iGs9Y_rjsR2la9osIhar0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:28:08"
+  }
+]

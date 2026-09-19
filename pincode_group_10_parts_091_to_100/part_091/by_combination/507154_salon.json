@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VAMSHI HAIR STYLE",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "507154",
+    "phone_number": "+91 99122 77003",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11 Navbharat Main Road, Bhadradri, Kothagudem, Telangana 507154",
+    "area": "Bhadradri",
+    "latitude": 17.5867214,
+    "longitude": 80.6694528,
+    "place_id": "ChIJw2RqCZkbNDoR9TCJzCEwb6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2RqCZkbNDoR9TCJzCEwb6s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:41:23"
+  },
+  {
+    "business_name": "Green Trends Unisex Salon, Thiruvottiyur, Chennai",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Bridal shop, Eyelash salon, Facial spa, Make-up artist, Spa, Stylist, Hairdresser, Waxing hair removal service",
+    "pincode": "507154",
+    "phone_number": "+91 44 2573 7858",
+    "website": "https://salons.mygreentrends.in/green-trends/salon-in-chennai/salon-in-thiruvottiyur/green-trends-salon-in-thiruvottiyur-chennai--65f38fde-1460-491b-902c-4f64e98d1df1/home",
+    "rating": 4.8,
+    "reviews_count": 2981,
+    "address": "52, S Mada St, near MSM Theatre, Tiruvottiyur, Chennai, Tamil Nadu 600019",
+    "area": "Tiruvottiyur",
+    "latitude": 13.1586301,
+    "longitude": 80.29944929999999,
+    "place_id": "ChIJheuRDMJvUjoRE-XwdAAk2os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJheuRDMJvUjoRE-XwdAAk2os",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:41:24"
+  }
+]

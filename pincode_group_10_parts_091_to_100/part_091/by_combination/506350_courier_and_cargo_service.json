@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Express Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "506350",
+    "phone_number": "+91 94427 40301",
+    "website": "http://www.dtdc.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "594 Obli Towers DB Road, D.B Road, Coimbatore, Tamil Nadu 641002",
+    "area": "R.S. Puram",
+    "latitude": 11.014922,
+    "longitude": 76.9494077,
+    "place_id": "ChIJkxy8XuJYqDsRcig8sBTFD7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxy8XuJYqDsRcig8sBTFD7g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:34:13"
+  },
+  {
+    "business_name": "APPLE EXPRESS - Pardesh Parcel Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "506350",
+    "phone_number": "+91 93275 55544",
+    "website": "https://www.appleexpress.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "8-First Floor, Dhananjay Tower,Above Vijya Bank, 100 Feet Ring Road, 100 Feet Anand Nagar Rd, Satellite, Shyamal, Ahmedabad, Gujarat 380015",
+    "area": "Satellite, Shyamal",
+    "latitude": 23.0132764,
+    "longitude": 72.5256643,
+    "place_id": "ChIJrx_vd9aEXjkRYcdgO39KTn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrx_vd9aEXjkRYcdgO39KTn0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:34:13"
+  }
+]

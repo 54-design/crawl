@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Microtech Computer Training Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "507115",
+    "phone_number": "+91 97058 60346",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "13-1-181, KSP Rd, Gandhi Nagar, ramnagar, KTPS, Palwancha, Telangana 507115",
+    "area": "Gandhi Nagar, ramnagar, KTPS",
+    "latitude": 17.5975942,
+    "longitude": 80.7019376,
+    "place_id": "ChIJuyZ-fnMbNDoRFPM0bIZw3a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyZ-fnMbNDoRFPM0bIZw3a8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:51"
+  },
+  {
+    "business_name": "Technology",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school, Service establishment",
+    "pincode": "507115",
+    "phone_number": "+91 62815 99406",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Technology, 507115, India",
+    "area": "507115",
+    "latitude": 17.5987647,
+    "longitude": 80.7020916,
+    "place_id": "ChIJyz0eaZgbNDoR5C1jkb_qysY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyz0eaZgbNDoR5C1jkb_qysY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:54"
+  }
+]

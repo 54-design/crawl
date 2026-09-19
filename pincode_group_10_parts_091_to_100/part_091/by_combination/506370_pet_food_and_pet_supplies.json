@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ask Rabbit Farm Warangal",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Farm shop",
+    "all_categories": "Farm shop",
+    "pincode": "506370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "XHH5+42R, road, Shyampet, Hanamkonda, Telangana 506001",
+    "area": "Shyampet",
+    "latitude": 17.9778612,
+    "longitude": 79.5575289,
+    "place_id": "ChIJcdmK-35PMzoRe-qNKOq73Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdmK-35PMzoRe-qNKOq73Tg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:51"
+  },
+  {
+    "business_name": "Ammu Sri Dog Kennel",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Pet boarding service",
+    "pincode": "506370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Unnamed Road, Hanamkonda, Telangana 506371",
+    "area": "506370",
+    "latitude": 18.0616725,
+    "longitude": 79.5321379,
+    "place_id": "ChIJ-4aqQ_lJMzoRQqVqn1S8Geo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4aqQ_lJMzoRQqVqn1S8Geo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:53"
+  }
+]

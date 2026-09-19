@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "507133",
+    "phone_number": "+91 99224 82258",
+    "website": "http://goalasik.com/",
+    "rating": 4.9,
+    "reviews_count": 871,
+    "address": "Along NH-66, old NH-17, Gounlloy, Nuvem, Verna, Goa 403601",
+    "area": "Gounlloy",
+    "latitude": 15.3241362,
+    "longitude": 73.9382911,
+    "place_id": "ChIJz_8Sqy63vzsR6WGvIMiJ-rA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_8Sqy63vzsR6WGvIMiJ-rA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:27"
+  },
+  {
+    "business_name": "Dr. Nagabhushanam Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12,
+    "address": "65X2+24R, Wyra Rd, Nehru Nagar, Khammam, Telangana 507002",
+    "area": "Nehru Nagar",
+    "latitude": 17.2476059,
+    "longitude": 80.1502663,
+    "place_id": "ChIJYWDB8dFZNDoRhVjiP94HhNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWDB8dFZNDoRhVjiP94HhNo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:29"
+  }
+]

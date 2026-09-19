@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthan Sweet House And Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Dessert shop, Snack bar",
+    "pincode": "506370",
+    "phone_number": "+91 99495 67767",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 93,
+    "address": "Somidi Rd, Vishnupuri, Rahamatnagar, Kazipet, Telangana 506003",
+    "area": "Vishnupuri, Rahamatnagar",
+    "latitude": 17.9775748,
+    "longitude": 79.5086534,
+    "place_id": "ChIJMx2blElOMzoRv7SmXarN0AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMx2blElOMzoRv7SmXarN0AM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:57"
+  },
+  {
+    "business_name": "The Lassi Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "506370",
+    "phone_number": "+91 74068 04000",
+    "website": "http://www.lassicorner.com/",
+    "rating": 4.5,
+    "reviews_count": 32,
+    "address": "H No 2-5-735, Subedari Main Road, Opp DIG Bungalow, Hanamkonda, Telangana 506001",
+    "area": "Subedari",
+    "latitude": 17.9951234,
+    "longitude": 79.54723039999999,
+    "place_id": "ChIJUyH-lLVPMzoRKeVNR8l8GmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyH-lLVPMzoRKeVNR8l8GmY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:57"
+  }
+]

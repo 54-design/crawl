@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divyansh Traders",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "507140",
+    "phone_number": "+91 95484 69465",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rishikul, pul, Haridwar, Uttarakhand 249408",
+    "area": "Rishikul, pul",
+    "latitude": 29.9350536,
+    "longitude": 78.14764339999999,
+    "place_id": "ChIJ26hWo6xHCTkRmFi205QuktI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26hWo6xHCTkRmFi205QuktI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:39:34"
+  },
+  {
+    "business_name": "Maintain beauty",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "507140",
+    "phone_number": "N/A",
+    "website": "https://maintainbeauty.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "871 MAHIGRAN, near Umar binkhattab masjid, Bharat Nagar, Roorkee, Uttarakhand 247667",
+    "area": "Bharat Nagar",
+    "latitude": 29.8823524,
+    "longitude": 77.8853742,
+    "place_id": "ChIJ4d-iKf21DjkRxEdRJqXIxqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4d-iKf21DjkRxEdRJqXIxqY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:39:34"
+  }
+]

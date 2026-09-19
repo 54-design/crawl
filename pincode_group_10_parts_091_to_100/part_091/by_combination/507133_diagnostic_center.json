@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-38, Unnamed Road, Cherla (Z), Telangana 507133",
+    "area": "507133",
+    "latitude": 18.0794429,
+    "longitude": 80.824092,
+    "place_id": "ChIJPf6GI9pZMToRqTt7L7BZVjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPf6GI9pZMToRqTt7L7BZVjY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:28"
+  },
+  {
+    "business_name": "Apex Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "64XW+7W7, Wyra Rd, Nizampet, Khammam, Telangana 507001",
+    "area": "Nizampet",
+    "latitude": 17.248171,
+    "longitude": 80.1472867,
+    "place_id": "ChIJF97bEdJZNDoRnLrZxmGqNKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF97bEdJZNDoRnLrZxmGqNKs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:29"
+  }
+]

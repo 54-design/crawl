@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOMENTS BAKERY AND HOTEL",
+    "search_category": "Patisserie",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "506330",
+    "phone_number": "+91 97016 37340",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Arepally Dargah, Telangana 506006",
+    "area": "506330",
+    "latitude": 18.0436419,
+    "longitude": 79.653255,
+    "place_id": "ChIJa49ShbtDMzoR0krpCcj8TGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa49ShbtDMzoR0krpCcj8TGU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:12:16"
+  },
+  {
+    "business_name": "Bakewell Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Eatery",
+    "all_categories": "Eatery",
+    "pincode": "506330",
+    "phone_number": "+91 97003 09066",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Warangal Fort, Kila Warangal, Mathwada, Warangal, Telangana 506008",
+    "area": "Kila Warangal, Mathwada",
+    "latitude": 17.9556532,
+    "longitude": 79.6147799,
+    "place_id": "ChIJo9LsDi1bMzoRv7DlCq7L3RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9LsDi1bMzoRv7DlCq7L3RU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:12:17"
+  }
+]

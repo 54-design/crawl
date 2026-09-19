@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big C",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "507118",
+    "phone_number": "N/A",
+    "website": "https://www.bigcmobiles.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15-1141, Sastry Road, New, 15-1-142, Shastri Rd, Market Area, Palwancha, Telangana 507115",
+    "area": "Market Area, KTPS",
+    "latitude": 17.6025156,
+    "longitude": 80.70381789999999,
+    "place_id": "ChIJ9bs8cA4bNDoRqnMgyVsJLwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bs8cA4bNDoRqnMgyVsJLwM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:33"
+  },
+  {
+    "business_name": "KAPALI FRIENDS CELL POINT",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507118",
+    "phone_number": "+91 99485 74567",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "6R6J+W33, Sathupally, Telangana 507303",
+    "area": "507118",
+    "latitude": 17.2122565,
+    "longitude": 80.83017099999999,
+    "place_id": "ChIJM4PWx2eCNjoRTjaVvKDCeVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4PWx2eCNjoRTjaVvKDCeVk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:33"
+  }
+]

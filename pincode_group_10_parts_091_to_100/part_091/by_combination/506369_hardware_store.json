@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivas Enterprices",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506369",
+    "phone_number": "+91 99515 35045",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-35, Kothur, Warangal, Telangana 506369",
+    "area": "506369",
+    "latitude": 17.7394993,
+    "longitude": 79.66400229999999,
+    "place_id": "ChIJOUZnVqChNDoRl1ff-J7Dqe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUZnVqChNDoRl1ff-J7Dqe8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:48:40"
+  },
+  {
+    "business_name": "Chatrapathi Dc",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506369",
+    "phone_number": "+91 95427 33973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narayanapuram, 3-44/A, Narayanapuram, Warangal Rural, Telangana 506369",
+    "area": "Narayanapuram",
+    "latitude": 17.762874,
+    "longitude": 79.6907265,
+    "place_id": "ChIJM5_bUCWhNDoRFKBYUwyFppI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5_bUCWhNDoRFKBYUwyFppI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:48:40"
+  }
+]

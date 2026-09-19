@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seed and pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "506333",
+    "phone_number": "+91 79746 56662",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kodatharai Marg, Patelpali, Chhattisgarh 496100",
+    "area": "506333",
+    "latitude": 21.8523179,
+    "longitude": 83.36898479999999,
+    "place_id": "ChIJdVk7DjQlJzoRAZmHphVKo3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVk7DjQlJzoRAZmHphVKo3M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:29"
+  },
+  {
+    "business_name": "Karipot Agro Traders (KAT)",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "506333",
+    "phone_number": "+91 94470 28708",
+    "website": "https://karipotagrotraders.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kanimangalam, Thrissur, Keralam 680027",
+    "area": "Kanimangalam",
+    "latitude": 10.481313,
+    "longitude": 76.21496719999999,
+    "place_id": "ChIJZe7WhYjxpzsRbXQfktKgOak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZe7WhYjxpzsRbXQfktKgOak",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VINAYAKA CLINICAL LABORATORY",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "506367",
+    "phone_number": "+91 96760 73108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 8, 24/32, Nanganoor, Siddipet, Telangana 502280",
+    "area": "506367",
+    "latitude": 18.0638884,
+    "longitude": 79.03908,
+    "place_id": "ChIJsaxPJ2W_zDsRToLBG41428s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaxPJ2W_zDsRToLBG41428s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:38"
+  },
+  {
+    "business_name": "Sri Balaji Medical & General Stores",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "506367",
+    "phone_number": "+91 99085 76002",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2329+3WW, Dhoolmitta, Telangana 506367",
+    "area": "506367",
+    "latitude": 18.000249999999998,
+    "longitude": 79.06982599999999,
+    "place_id": "ChIJkXnP-TC9zDsR6fgaNDAzIDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXnP-TC9zDsR6fgaNDAzIDg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:41"
+  }
+]

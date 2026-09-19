@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Viveka Mobile Accessories",
+    "search_category": "EXIMS",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "506356",
+    "phone_number": "+91 91330 90444",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D. No. 2-9, 14/2, Vemulawada Rd, Mukarampura, Karimnagar, Telangana 505001",
+    "area": "Mukarampura",
+    "latitude": 18.437121899999998,
+    "longitude": 79.1230471,
+    "place_id": "ChIJwRZ9CCXZzDsREttqAmni94Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRZ9CCXZzDsREttqAmni94Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:11"
+  },
+  {
+    "business_name": "sushils Access Dental hospital",
+    "search_category": "EXIMS",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dentist",
+    "pincode": "506356",
+    "phone_number": "+91 80991 02525",
+    "website": "http://www.accessdentalhospital.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MRK Rd, Golnaka, Alwal, Secunderabad, Telangana 500010",
+    "area": "Golnaka, Alwal",
+    "latitude": 17.4994087,
+    "longitude": 78.51318409999999,
+    "place_id": "ChIJJ3giYueayzsR0brCD35Kdv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3giYueayzsR0brCD35Kdv0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:11"
+  }
+]

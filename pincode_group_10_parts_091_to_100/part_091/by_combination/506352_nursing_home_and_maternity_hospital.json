@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506352",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "5WRQ+4VF, Mulugu, Telangana 506343",
+    "area": "506352",
+    "latitude": 18.1903227,
+    "longitude": 79.9396569,
+    "place_id": "ChIJWzXUEWsNMzoR8SSGD3srWug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzXUEWsNMzoR8SSGD3srWug",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:35:04"
+  },
+  {
+    "business_name": "Sri Sravanthi Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506352",
+    "phone_number": "+91 81422 60602",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "beside Government Area Hospital, Mulugu, Telangana 506343",
+    "area": "506352",
+    "latitude": 18.190948499999998,
+    "longitude": 79.9428073,
+    "place_id": "ChIJ39X0Z74NMzoR-fODb6qKKSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39X0Z74NMzoR-fODb6qKKSc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:35:04"
+  }
+]

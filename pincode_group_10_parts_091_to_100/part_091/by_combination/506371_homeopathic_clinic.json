@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr VCP Homoeo clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "506371",
+    "phone_number": "+91 76759 81949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Lashkar Bazar, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Lashkar Bazar, Kishanpura",
+    "latitude": 18.0103592,
+    "longitude": 79.5640135,
+    "place_id": "ChIJQaHhYQBFMzoRwCJj7g5pOUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaHhYQBFMzoRwCJj7g5pOUE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:11"
+  },
+  {
+    "business_name": "Dr. Manus Homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506371",
+    "phone_number": "+91 92481 41030",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "6-2-286, Kakaji Colony, opp Joy Alukas, Vijaya Talkies Road., Hanamkonda, Telangana 506011",
+    "area": "Kakaji Nagar Colony",
+    "latitude": 18.0032516,
+    "longitude": 79.56982119999999,
+    "place_id": "ChIJTdsKl4JFMzoRm3BpCRJKOXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdsKl4JFMzoRm3BpCRJKOXc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:15"
+  }
+]

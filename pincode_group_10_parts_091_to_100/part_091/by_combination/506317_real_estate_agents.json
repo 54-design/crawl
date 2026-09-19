@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "506317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JFVR+25M, Mallampalle, Telangana 506317",
+    "area": "506317",
+    "latitude": 17.6425753,
+    "longitude": 79.4904359,
+    "place_id": "ChIJrQzfHACvNDoR6nDGbBTbaSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQzfHACvNDoR6nDGbBTbaSU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:04:22"
+  },
+  {
+    "business_name": "KRISHANA REAL ESTATE SERVICES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "506317",
+    "phone_number": "+91 96186 66861",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Warangal, Thorrur, Telangana 506163",
+    "area": "506317",
+    "latitude": 17.585693799999998,
+    "longitude": 79.6552217,
+    "place_id": "ChIJGd6PmSO9NDoRd22gIGpgkfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGd6PmSO9NDoRd22gIGpgkfU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:04:24"
+  }
+]

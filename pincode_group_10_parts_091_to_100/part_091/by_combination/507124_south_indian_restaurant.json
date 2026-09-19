@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathemari Kerala Restaurant (Hyderabad)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "507124",
+    "phone_number": "+91 80080 99100",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ground floor, Hotel Asian inn, 11-6-210,Pillar No:1273, Public garden Road Nampally, MetroStation, Nampally, Hyderabad, Telangana 500001",
+    "area": "Red Hills, Nampally",
+    "latitude": 17.393057199999998,
+    "longitude": 78.4699296,
+    "place_id": "ChIJqXiJtNCXyzsRj9hfRyMjAG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXiJtNCXyzsRj9hfRyMjAG8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:37"
+  },
+  {
+    "business_name": "TREAT RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fast food restaurant, Food court, Vegetarian restaurant",
+    "pincode": "507124",
+    "phone_number": "+91 83419 69333",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Swagath Hotel Rd, Sathupally, Telangana 507303",
+    "area": "507124",
+    "latitude": 17.2111491,
+    "longitude": 80.8317684,
+    "place_id": "ChIJ7d-9_WeCNjoRaB0DTCEHLY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7d-9_WeCNjoRaB0DTCEHLY8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:25:38"
+  }
+]

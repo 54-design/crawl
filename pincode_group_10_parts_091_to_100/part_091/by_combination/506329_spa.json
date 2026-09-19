@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honey Beauty Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Health spa",
+    "pincode": "506329",
+    "phone_number": "+91 63000 34369",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "H.No.48-469/1, 2nd Floor, Near Mee seva, Ganesh Nagar, Qutbullapur, Jeedimetla Main Road, Vimana Puri, Jeedimetla, Hyderabad, Telangana 500015",
+    "area": "Vimana Puri, Jeedimetla",
+    "latitude": 17.5076452,
+    "longitude": 78.4602396,
+    "place_id": "ChIJdz5LMACRyzsRvPU99XtwM6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdz5LMACRyzsRvPU99XtwM6E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:11:15"
+  },
+  {
+    "business_name": "Srinidhi beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Spa",
+    "pincode": "506329",
+    "phone_number": "+91 73864 63815",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Keerthi Nagar Colony, Keerthi Colony, Warangal, Telangana 506013",
+    "area": "Keerthi Nagar Colony, Keerthi Colony",
+    "latitude": 17.9758106,
+    "longitude": 79.6292831,
+    "place_id": "ChIJxca5x7hEMzoRx_K-Vp2rEBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxca5x7hEMzoRx_K-Vp2rEBw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:11:15"
+  }
+]

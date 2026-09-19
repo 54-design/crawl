@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Pratap Cooldrinks Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "507111",
+    "phone_number": "+91 99487 07431",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "MV8R+8Q3, Govt Hospital Area Bhadrachalam Bhadradri Kothagudem, Telangana 507111",
+    "area": "Shantinagar",
+    "latitude": 17.6657664,
+    "longitude": 80.89191339999999,
+    "place_id": "ChIJMSQL9U-pNjoRcLW7eRMKwWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSQL9U-pNjoRcLW7eRMKwWc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:06:57"
+  },
+  {
+    "business_name": "Lakshmi Ganapathi Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "507111",
+    "phone_number": "N/A",
+    "website": "https://www.lakshmiganapathistores.in/",
+    "rating": 4.1,
+    "reviews_count": 20,
+    "address": "MVQ9+P5V, Kothagudem-Bhadrachalam Rd, Sarapaka, Telangana 507128",
+    "area": "507111",
+    "latitude": 17.6893724,
+    "longitude": 80.8679252,
+    "place_id": "ChIJU1XMB-OoNjoRA64r9u_4BL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1XMB-OoNjoRA64r9u_4BL4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:06:59"
+  }
+]

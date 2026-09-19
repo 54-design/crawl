@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Meeseva Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "506371",
+    "phone_number": "+91 98662 28900",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "18-8-450/B/35/1, Moin Bagh Rd, Raza Nagar, Jai Khanna Colony, Fateh Shah Nagar, Edi Bazaar, Hyderabad, Telangana 500023",
+    "area": "Raza Nagar, Jai Khanna Colony, Fateh Shah Nagar, Edi Bazaar",
+    "latitude": 17.3476605,
+    "longitude": 78.4939158,
+    "place_id": "ChIJE-10FRKYyzsRuZXbN7leFRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-10FRKYyzsRuZXbN7leFRY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:10"
+  },
+  {
+    "business_name": "CSC COMMUNICATIONS",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "506371",
+    "phone_number": "+91 95152 39194",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8-1-44/1/A, Harijana basthi, Sathya Colony, Shaikpet, Hyderabad, Telangana 500104",
+    "area": "Harijana basthi, Sathya Colony, Shaikpet",
+    "latitude": 17.4019054,
+    "longitude": 78.3990874,
+    "place_id": "ChIJy2QyEr6XyzsRThZynb82Nd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2QyEr6XyzsRThZynb82Nd8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:53:10"
+  }
+]

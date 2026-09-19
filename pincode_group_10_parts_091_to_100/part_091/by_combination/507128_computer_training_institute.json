@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavan ITI",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College, Association / Organization",
+    "pincode": "507128",
+    "phone_number": "+91 98666 84961",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "MVWF+QVQ, Sarapaka, Telangana 507128",
+    "area": "507128",
+    "latitude": 17.69696,
+    "longitude": 80.8747479,
+    "place_id": "ChIJYYXJCB-pNjoR5IGLVu0EL5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYXJCB-pNjoR5IGLVu0EL5Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:30:21"
+  },
+  {
+    "business_name": "Inspire IT Training solutions",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "507128",
+    "phone_number": "+91 93935 18383",
+    "website": "http://www.assistive.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajahmundry - Bhadrachalam Hwy, Shantinagar, Bhadrachalam, Telangana 507111",
+    "area": "Shantinagar",
+    "latitude": 17.669425399999998,
+    "longitude": 80.8932469,
+    "place_id": "ChIJWypl4LWoNjoRdvaL0icCy0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWypl4LWoNjoRdvaL0icCy0E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:30:22"
+  }
+]

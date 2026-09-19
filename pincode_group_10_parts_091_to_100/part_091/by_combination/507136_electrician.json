@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "electrical SUB station",
+    "search_category": "Electrician",
+    "primary_category": "Power station",
+    "all_categories": "Power station",
+    "pincode": "507136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8H52+3F8, Venkatapuram, Telangana 507136",
+    "area": "507136",
+    "latitude": 18.3076576,
+    "longitude": 80.5512036,
+    "place_id": "ChIJB2iYFhnEMzoRozWraLWqwUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2iYFhnEMzoRozWraLWqwUY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:41"
+  },
+  {
+    "business_name": "Kamapalpuram Substation",
+    "search_category": "Electrician",
+    "primary_category": "Electrical substation",
+    "all_categories": "Electrical substation",
+    "pincode": "507136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7FH9+48X, Burgampadu Eturnagaram Road, Telangana 506172",
+    "area": "507136",
+    "latitude": 18.2778711,
+    "longitude": 80.4683518,
+    "place_id": "ChIJQwLmhrHAMzoRJ1MFe6eHhQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwLmhrHAMzoRJ1MFe6eHhQ0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:41"
+  }
+]

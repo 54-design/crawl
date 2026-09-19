@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Metro Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "507002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15-11-117/2, Wyra Rd, behind Bharat Gas Agency, VDO'sColony, Khammam, Telangana 507002",
+    "area": "VDO'sColony",
+    "latitude": 17.251315599999998,
+    "longitude": 80.15691729999999,
+    "place_id": "ChIJUbkJE5RZNDoR58xe4MzLduA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbkJE5RZNDoR58xe4MzLduA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:46"
+  },
+  {
+    "business_name": "LENS LOUNGES OPTICALS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Wholesaler",
+    "all_categories": "Optical Wholesaler",
+    "pincode": "507002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "65W2+689, Jammi Banda Rd, opp. Mythri KPS (Aditya) Theatre, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2455422,
+    "longitude": 80.15085499999999,
+    "place_id": "ChIJo4wGMABZNDoRApciItlKx_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4wGMABZNDoRApciItlKx_Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:46"
+  }
+]

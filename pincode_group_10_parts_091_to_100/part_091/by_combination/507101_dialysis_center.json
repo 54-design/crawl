@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care - Kothagudem",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "507101",
+    "phone_number": "+91 78276 79792",
+    "website": "https://dcdc.co.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Dialysis Unit, Government Area Hospital, Gajula Rajam Basthi Rd, Gajularajam Bhasthi, Hanuman Basthi, Kothagudem, Telangana 507101",
+    "area": "Gajularajam Bhasthi, Hanuman Basthi",
+    "latitude": 17.5507834,
+    "longitude": 80.6221171,
+    "place_id": "ChIJOSESXgQRNDoRDDoRqqXPQ78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSESXgQRNDoRDDoRqqXPQ78",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:41"
+  },
+  {
+    "business_name": "NephroPlus Dialysis & Kidney Care Clinic Kothagudem",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Cardiologist, Diabetologist, Doctor, Hospital, Nephrologist, Urologist",
+    "pincode": "507101",
+    "phone_number": "+91 87442 49336",
+    "website": "https://www.nephroplus.com/",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "Rudrampur, Kothagudem, Telangana 507119",
+    "area": "Rudrampur",
+    "latitude": 17.481139,
+    "longitude": 80.661985,
+    "place_id": "ChIJJ3ThSkQYNDoRQT93ULcUgVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3ThSkQYNDoRQT93ULcUgVU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:41"
+  }
+]

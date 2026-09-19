@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRINIVASA CHILDRENS HOSPITAL",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital",
+    "pincode": "507122",
+    "phone_number": "+91 98497 07500",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "Jagadamba Center, Indira Nagar, Yellandu, Telangana 507123",
+    "area": "Indira Nagar",
+    "latitude": 17.585832399999997,
+    "longitude": 80.3253707,
+    "place_id": "ChIJp8FM8U1uNDoRX3D5qD-YFhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8FM8U1uNDoRX3D5qD-YFhE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:22:10"
+  },
+  {
+    "business_name": "Brinda CHILDREN HOSPITAL",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "507122",
+    "phone_number": "+91 97828 22345",
+    "website": "http://brindahospital.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. Bhaktha Ramadasu Kalakshetram, behind Pavilion Ground, Jalagam Nagar, Khammam, Telangana 507003",
+    "area": "Jalagam Nagar",
+    "latitude": 17.2483543,
+    "longitude": 80.1240285,
+    "place_id": "ChIJq6qq2jxYNDoRUJEv4Q0G980",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2jxYNDoRUJEv4Q0G980",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:22:10"
+  }
+]

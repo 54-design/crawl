@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anu Golden Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "506356",
+    "phone_number": "+91 95732 11408",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 257,
+    "address": "H.No. 1-75, Near Flyover Down,Kothapally, Jammikunta, Telangana 505122",
+    "area": "506356",
+    "latitude": 18.2897659,
+    "longitude": 79.4794003,
+    "place_id": "ChIJqZ1oGJ4xMzoRlrIO8F9_0Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ1oGJ4xMzoRlrIO8F9_0Xc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:32"
+  },
+  {
+    "business_name": "Ruchi Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "506356",
+    "phone_number": "+91 90631 98494",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 28,
+    "address": "13-45, Jammikunta, Telangana 505122",
+    "area": "506356",
+    "latitude": 18.2854569,
+    "longitude": 79.4737581,
+    "place_id": "ChIJl66OtmAxMzoRPMAZGKQv0yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl66OtmAxMzoRPMAZGKQv0yY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:32"
+  }
+]

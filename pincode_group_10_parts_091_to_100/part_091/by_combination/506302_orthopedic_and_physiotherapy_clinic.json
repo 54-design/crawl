@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bone and joint physiotherapy centre",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "506302",
+    "phone_number": "+91 95002 12772",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Denkanikottai Rd, Hosur, Tamil Nadu 635109",
+    "area": "506302",
+    "latitude": 12.7198485,
+    "longitude": 77.82200619999999,
+    "place_id": "ChIJ6YBik1hxrjsR_889d_gF1V0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YBik1hxrjsR_889d_gF1V0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:17"
+  },
+  {
+    "business_name": "Alexa Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "506302",
+    "phone_number": "+91 62894 32824",
+    "website": "https://www.alexahealthcare.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Snehodiya, Street No 165, BC Block, Newtown, Action Area I, Kolkata, West Bengal 700156",
+    "area": "Action Area I, Newtown",
+    "latitude": 22.5821252,
+    "longitude": 88.4666182,
+    "place_id": "ChIJF0wn56B1AjoRHCWtt1HZ788",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0wn56B1AjoRHCWtt1HZ788",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:50:17"
+  }
+]

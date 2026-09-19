@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Kubera family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "506366",
+    "phone_number": "+91 89198 25547",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 313,
+    "address": "Karimnagar Rd, Huzurabad, Telangana 505498",
+    "area": "506366",
+    "latitude": 18.211173499999997,
+    "longitude": 79.3862812,
+    "place_id": "ChIJy0-eQB01MzoR9iqjprQkdaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0-eQB01MzoR9iqjprQkdaM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:42:26"
+  },
+  {
+    "business_name": "Vinayaka family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "506366",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "Warangal Rd, beside devi silks, Vivekananda Nagar, Huzurabad, Telangana 505468",
+    "area": "Vivekananda Nagar",
+    "latitude": 18.1981333,
+    "longitude": 79.3980479,
+    "place_id": "ChIJs6KBZxc1MzoRq1q4TMd3Wcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6KBZxc1MzoRq1q4TMd3Wcc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:42:26"
+  }
+]

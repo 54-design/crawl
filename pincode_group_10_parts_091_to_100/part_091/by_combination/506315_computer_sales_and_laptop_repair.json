@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Niranjan",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "506315",
+    "phone_number": "N/A",
+    "website": "https://neeranjan-store.myshopify.com/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Bakkrupala Thanda, Maripeda, Telangana 506315",
+    "area": "506315",
+    "latitude": 17.41169,
+    "longitude": 79.8721162,
+    "place_id": "ChIJ8USVK92TNDoRitSztpoKX-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8USVK92TNDoRitSztpoKX-0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:00:27"
+  },
+  {
+    "business_name": "B.A Electronics",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "506315",
+    "phone_number": "+91 96764 11921",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "9VPV+PC4, Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.3867564,
+    "longitude": 79.8935765,
+    "place_id": "ChIJwwj-mBXtNDoRbGec6knGats",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwj-mBXtNDoRbGec6knGats",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:00:28"
+  }
+]

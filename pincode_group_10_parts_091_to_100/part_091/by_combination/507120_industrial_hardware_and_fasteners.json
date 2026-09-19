@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh iron hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works",
+    "pincode": "507120",
+    "phone_number": "+91 99512 73386",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khammam X Road, Nayanagar Main Rd, Kodad, Telangana 508206",
+    "area": "Nayanagar",
+    "latitude": 16.9950011,
+    "longitude": 79.9740958,
+    "place_id": "ChIJ27mutdUDNToRL99Uk7ZSaME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27mutdUDNToRL99Uk7ZSaME",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:27"
+  },
+  {
+    "business_name": "Jk Enterprise's",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "507120",
+    "phone_number": "+91 91105 92472",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NST Rd, Balaji Nagar, Khammam, Telangana 507001",
+    "area": "Balaji Nagar",
+    "latitude": 17.253778699999998,
+    "longitude": 80.1466708,
+    "place_id": "ChIJ9fiZccxZNDoRAAAAMDX0zQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fiZccxZNDoRAAAAMDX0zQw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:27"
+  }
+]

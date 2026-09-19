@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMMA AMRUTULYA TEA STALL",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "507002",
+    "phone_number": "+91 94419 10773",
+    "website": "https://amma-amruthulya.preview.emergentagent.com/#about",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "BY PASS ROAD, Khammam, Telangana 507001",
+    "area": "507002",
+    "latitude": 17.241580799999998,
+    "longitude": 80.1946834,
+    "place_id": "ChIJI6NP-VZbNDoRk98jhCu2G9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6NP-VZbNDoRk98jhCu2G9A",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:31"
+  },
+  {
+    "business_name": "Metro Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "507002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "65WH+6PF, opposite to Kinnera Bar, Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Rotary Nagar",
+    "latitude": 17.245186399999998,
+    "longitude": 80.1794689,
+    "place_id": "ChIJR-5KRgBZNDoRBqd8hDWKpwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-5KRgBZNDoRBqd8hDWKpwo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:31"
+  }
+]

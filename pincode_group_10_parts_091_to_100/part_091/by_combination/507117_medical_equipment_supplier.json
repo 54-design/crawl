@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "507117",
+    "phone_number": "+91 98499 58026",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Venkatapuram road, Charla, Ramanujapuram (G), Gommupuliboinapalli (Z), Telangana 507133",
+    "area": "Charla",
+    "latitude": 18.063504299999998,
+    "longitude": 80.80070789999999,
+    "place_id": "ChIJM4j-FL3jMzoRSah8YqLjYtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4j-FL3jMzoRSah8YqLjYtU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:52"
+  },
+  {
+    "business_name": "Gayatri medical stores",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "507117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3RFF+22C, panchayiti office Road, Cherla (Z), Telangana 507133",
+    "area": "507117",
+    "latitude": 18.0725676,
+    "longitude": 80.822502,
+    "place_id": "ChIJRahtSo9YMToROVicLVHA3XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRahtSo9YMToROVicLVHA3XE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:52"
+  }
+]

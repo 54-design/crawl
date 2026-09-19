@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kothagudem car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Airport Shuttle Service Provider, Minibus taxi service, Taxi service, Tour operator, Wedding service",
+    "pincode": "507101",
+    "phone_number": "+91 97046 62144",
+    "website": "https://kothagudemcarrental.in.net/",
+    "rating": 4.3,
+    "reviews_count": 96,
+    "address": "HJ58+9P6 Bus Stand, Road, Srinagar, Kothagudem, Laxmidevipally, Telangana 507101",
+    "area": "Srinagar",
+    "latitude": 17.5584375,
+    "longitude": 80.6168125,
+    "place_id": "ChIJHdh9ziMRNDoRh5mABUYqdSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdh9ziMRNDoRh5mABUYqdSE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:50"
+  },
+  {
+    "business_name": "VARUN TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "507101",
+    "phone_number": "+91 96664 50055",
+    "website": "http://varuntravel.in.net/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "GJW8+WFP, N.K.Nagar, Writer Basti, Bangaru Chelaka, Kothagudem, Telangana 507101",
+    "area": "N.K.Nagar, Writer Basti",
+    "latitude": 17.5473569,
+    "longitude": 80.61623809999999,
+    "place_id": "ChIJP__pcz0RNDoRABO2V-tdm3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP__pcz0RNDoRABO2V-tdm3E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:50"
+  }
+]

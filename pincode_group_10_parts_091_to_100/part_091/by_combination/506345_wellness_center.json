@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5VHP+4F3, Mulugu, Jakaram, Telangana 506343",
+    "area": "506345",
+    "latitude": 18.177770199999998,
+    "longitude": 79.8861864,
+    "place_id": "ChIJXRwqVsMSMzoRgiRloH856MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRwqVsMSMzoRgiRloH856MY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:26:17"
+  },
+  {
+    "business_name": "polam Laxmaiah Ayurvedic Katla Dhavakhana",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506345",
+    "phone_number": "+91 99891 50415",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "8X28+44R, Laxmidevipeta, Telangana 506345",
+    "area": "506345",
+    "latitude": 18.300350599999998,
+    "longitude": 79.9652771,
+    "place_id": "ChIJdzWUGAgPMzoRgdE-UukX_kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzWUGAgPMzoRgdE-UukX_kg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:26:17"
+  }
+]

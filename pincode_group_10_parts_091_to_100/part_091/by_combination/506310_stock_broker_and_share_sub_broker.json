@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PehlaSubbroker",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial advisor",
+    "all_categories": "Financial advisor, Service establishment",
+    "pincode": "506310",
+    "phone_number": "+91 97739 84066",
+    "website": "https://www.pehlasubbroker.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PehlaSubbroker, 506310, India",
+    "area": "506310",
+    "latitude": 28.577679399999997,
+    "longitude": 77.3149005,
+    "place_id": "ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR1gRIEEhycRT33sMX5hI-8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:55"
+  },
+  {
+    "business_name": "The Trading Institute",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Educational institution",
+    "pincode": "506310",
+    "phone_number": "+91 91092 75374",
+    "website": "https://ttiindore.com/",
+    "rating": 4.9,
+    "reviews_count": 852,
+    "address": "Office G-8-9, Apollo, apollo trade centre, Gita Bhawan Rd, Trade Centre, Rajgarh Kothi, Manorama Ganj, Indore, Madhya Pradesh 452001",
+    "area": "Trade Centre, Rajgarh Kothi, Manorama Ganj",
+    "latitude": 22.717958,
+    "longitude": 75.8845448,
+    "place_id": "ChIJ8frOo4n9YjkROUwijMGuoU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8frOo4n9YjkROUwijMGuoU8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:57"
+  }
+]

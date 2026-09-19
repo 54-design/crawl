@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cricket And Football Ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "506370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Huzurabad, Telangana 505468",
+    "area": "506370",
+    "latitude": 18.2025282,
+    "longitude": 79.3999422,
+    "place_id": "ChIJAwgS9cA0MzoR07pAGZW3bkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwgS9cA0MzoR07pAGZW3bkQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:51:09"
+  },
+  {
+    "business_name": "Jawaharlal Nehru Stadium",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Stadium",
+    "all_categories": "Stadium",
+    "pincode": "506370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1973,
+    "address": "Sai Nagar, Hanamkonda, Telangana 506001",
+    "area": "Sai Nagar",
+    "latitude": 18.004672199999998,
+    "longitude": 79.5652413,
+    "place_id": "ChIJSSAfkIFFMzoRRASKRI-Hl6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSAfkIFFMzoRRASKRI-Hl6s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:51:10"
+  }
+]

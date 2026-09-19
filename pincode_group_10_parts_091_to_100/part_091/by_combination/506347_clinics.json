@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Sai clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "506347",
+    "phone_number": "+91 85005 48547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main road, near kadari laxmaiah house, Medaram, Kothur, Telangana 506347",
+    "area": "506347",
+    "latitude": 18.3227683,
+    "longitude": 80.2180927,
+    "place_id": "ChIJySPUJ5elMzoRBnOUbdZp7ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySPUJ5elMzoRBnOUbdZp7ek",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:27:33"
+  },
+  {
+    "business_name": "Reddygudem Medical Camp at Medaramjathara",
+    "search_category": "Clinics",
+    "primary_category": "Public medical center",
+    "all_categories": "Public medical center",
+    "pincode": "506347",
+    "phone_number": "+91 93909 07611",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "86CP+G23, Tadvai - Medaram Rd, Reddygudem, Medaram, Telangana 506347",
+    "area": "506347",
+    "latitude": 18.321264499999998,
+    "longitude": 80.2350427,
+    "place_id": "ChIJe-OasgGlMzoRK3lPNAFpvDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-OasgGlMzoRK3lPNAFpvDg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:27:33"
+  }
+]

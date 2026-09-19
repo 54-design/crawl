@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "506314",
+    "phone_number": "+91 73824 80041",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ravi retailer book shop, thunkathurthi, Nalgonda, Telangana 508280",
+    "area": "thunkathurthi",
+    "latitude": 17.693984999999998,
+    "longitude": 79.675161,
+    "place_id": "ChIJWadtWhWhNDoRi1qXyd1pqcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWadtWhWhNDoRi1qXyd1pqcQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:58:36"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "506314",
+    "phone_number": "+91 73826 46485",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CHANDU Mobiles, Parvathagiri, Telangana 506365",
+    "area": "506314",
+    "latitude": 17.7424084,
+    "longitude": 79.72630339999999,
+    "place_id": "ChIJTaT4_6GhNDoRORiGfmyqkx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaT4_6GhNDoRORiGfmyqkx8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:58:36"
+  }
+]

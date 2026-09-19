@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507136",
+    "phone_number": "+91 77991 80115",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Venkatapuram, 1-2, Chandrupatla, Telangana 507136",
+    "area": "507136",
+    "latitude": 18.3019762,
+    "longitude": 80.5526089,
+    "place_id": "ChIJl0AToyjFMzoRVUqT0tp-9qU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0AToyjFMzoRVUqT0tp-9qU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:57"
+  },
+  {
+    "business_name": "SHRI BALAJI MITHAI WALA",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "507136",
+    "phone_number": "+91 83283 53256",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 65,
+    "address": "HC5P+MQ7, Sundar Rao Nagar Rd, Sundar Rao Nagar, Bahadurpally, Hyderabad, Telangana 500043",
+    "area": "Sundar Rao Nagar, Bahadurpally",
+    "latitude": 17.559173599999998,
+    "longitude": 78.4368641,
+    "place_id": "ChIJTcewVbyPyzsRYvomnJP6fcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcewVbyPyzsRYvomnJP6fcs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:32:59"
+  }
+]

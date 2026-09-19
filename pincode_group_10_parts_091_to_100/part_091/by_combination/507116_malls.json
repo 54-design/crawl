@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhruvtej's baby mall",
+    "search_category": "Malls",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507116",
+    "phone_number": "+91 99891 72588",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. ravali cell point, beside seetharama cinema theatre, Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9443491,
+    "longitude": 80.814103,
+    "place_id": "ChIJlcJCOnNXMToREKIdGTQXF3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcJCOnNXMToREKIdGTQXF3Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:17"
+  },
+  {
+    "business_name": "GV Mall Manuguru",
+    "search_category": "Malls",
+    "primary_category": "Malls",
+    "all_categories": "Malls",
+    "pincode": "507116",
+    "phone_number": "N/A",
+    "website": "https://gvmall.com/",
+    "rating": 3.3,
+    "reviews_count": 31,
+    "address": "Samithisingaram, Ashok Nagar, Manuguru (PT), Telangana 507117",
+    "area": "Samithisingaram, Ashok Nagar",
+    "latitude": 17.9343359,
+    "longitude": 80.8204722,
+    "place_id": "ChIJxUP0fQFWMToR5vhjR_Vqgqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUP0fQFWMToR5vhjR_Vqgqo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARCHANA HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "506317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "GHRG+R78, Gundal - Yellandu Rd, Telangana 506318",
+    "area": "506317",
+    "latitude": 17.542039199999998,
+    "longitude": 79.57570299999999,
+    "place_id": "ChIJqz9pdt27NDoRWhXFwWlTrK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz9pdt27NDoRWhXFwWlTrK8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:03:58"
+  },
+  {
+    "business_name": "Gugulothu yakaiah",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "506317",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HGX8+QQV, Unnamed Road, Mallampalle, Telangana 506317",
+    "area": "506317",
+    "latitude": 17.599498099999998,
+    "longitude": 79.5169202,
+    "place_id": "ChIJPbHbmmyvNDoRYKiwhuMRKQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbHbmmyvNDoRYKiwhuMRKQI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:03:58"
+  }
+]

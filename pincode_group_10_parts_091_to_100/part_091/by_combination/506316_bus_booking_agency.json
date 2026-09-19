@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagasai kirana gali",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "506316",
+    "phone_number": "+91 87904 16718",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stop, Dammannapet, Rayaparthi, Telangana 506316",
+    "area": "506316",
+    "latitude": 17.7597011,
+    "longitude": 79.5229724,
+    "place_id": "ChIJZXE8dwCpNDoROGEDfXgVmyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXE8dwCpNDoROGEDfXgVmyQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:01:38"
+  },
+  {
+    "business_name": "Warangal District Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "506316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "XJF4+Q5J, Station Rd, Girmajipet, Warangal, Telangana 506002",
+    "area": "Girmajipet",
+    "latitude": 17.9744667,
+    "longitude": 79.6053866,
+    "place_id": "ChIJqReVPjJFMzoRHPGPKr9h6GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqReVPjJFMzoRHPGPKr9h6GI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:01:40"
+  }
+]

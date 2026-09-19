@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Motors MSZ",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto repair shop",
+    "pincode": "507138",
+    "phone_number": "+91 74000 00093",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 1029,
+    "address": "136, near vayda overseas, Part 1, Sector 25, Huda, Panipat, Haryana 132103",
+    "area": "Part 1, Sector 25, Huda",
+    "latitude": 29.368603699999998,
+    "longitude": 76.978526,
+    "place_id": "ChIJSQUzTPfaDTkR7rtOwMaE3Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQUzTPfaDTkR7rtOwMaE3Aw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:37:15"
+  },
+  {
+    "business_name": "CAR SONICS - Minister Road",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store, Auto parts store, Car stereo store",
+    "pincode": "507138",
+    "phone_number": "+91 95500 10888",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 5007,
+    "address": "Shop No 14, 15, 16, 17 & 18, Bharani Complex, Minister Rd, Secunderabad, Telangana 500003",
+    "area": "Sindhi Colony, Begumpet",
+    "latitude": 17.442711,
+    "longitude": 78.478053,
+    "place_id": "ChIJG4Lch82ZyzsRT-xhtSFMuFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4Lch82ZyzsRT-xhtSFMuFw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:37:16"
+  }
+]

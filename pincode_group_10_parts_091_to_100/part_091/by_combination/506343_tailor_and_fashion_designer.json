@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Custom tailor",
+    "all_categories": "Custom tailor",
+    "pincode": "506343",
+    "phone_number": "+91 87908 42828",
+    "website": "https://urbantailor.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "beside kothari jewellers, near hanuman temple, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Ameerpet",
+    "latitude": 17.4350217,
+    "longitude": 78.4471918,
+    "place_id": "ChIJn5BGjUGRyzsRGUMP2cJO4OE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5BGjUGRyzsRGUMP2cJO4OE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:54"
+  },
+  {
+    "business_name": "Call Darji - Online Tailoring Services for Women",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "506343",
+    "phone_number": "+91 79901 23763",
+    "website": "https://www.calldarji.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Plot No. 68/A, Vinayak Nagar, Chanda Nagar, Ramachandrapuram, Hyderabad, Telangana 502032",
+    "area": "Vinayak Nagar, Chanda Nagar",
+    "latitude": 17.5025895,
+    "longitude": 78.3138337,
+    "place_id": "ChIJwZNqUyGTyzsRDbgg21lUj4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZNqUyGTyzsRDbgg21lUj4c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:54"
+  }
+]

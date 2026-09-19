@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUGUNA HOSPITAL",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5-3-82, Pakabanda Bazar, Shanti Nagar, Mustafa Nagar, Khammam, Telangana 507001",
+    "area": "Pakabanda Bazar, Shanti Nagar, Mustafa Nagar",
+    "latitude": 17.2401958,
+    "longitude": 80.14670269999999,
+    "place_id": "ChIJtQ1UNc9ZNDoRVKTTheJj7mI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQ1UNc9ZNDoRVKTTheJj7mI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:46"
+  },
+  {
+    "business_name": "Geetha Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "6R4Q+RHQ, Sathupally Bypass Rd, Aswaraopeta, Sathupally, Telangana 507303",
+    "area": "Aswaraopeta",
+    "latitude": 17.2070917,
+    "longitude": 80.83898429999999,
+    "place_id": "ChIJe63dakSCNjoRm9aCJGGO4f8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe63dakSCNjoRm9aCJGGO4f8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:49"
+  }
+]

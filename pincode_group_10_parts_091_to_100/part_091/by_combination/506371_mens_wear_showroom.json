@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Hub To Z Boutique",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "506371",
+    "phone_number": "+91 96530 26584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "3, Ashok Colony Road, Ashoka Colony, Hanamkonda, Telangana 506001",
+    "area": "Ashoka Colony",
+    "latitude": 18.004899899999998,
+    "longitude": 79.5465239,
+    "place_id": "ChIJ76qqA3dPMzoRAAAAMIvhDSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76qqA3dPMzoRAAAAMIvhDSI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:02"
+  },
+  {
+    "business_name": "killer jeans",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "506371",
+    "phone_number": "+91 92812 76335",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "KUC X ROAD GROUND FLOOR,SHOP NO -06, Hanamkonda, Telangana 506009",
+    "area": "Hanuman Nagar",
+    "latitude": 18.0202038,
+    "longitude": 79.5512799,
+    "place_id": "ChIJLeMLSURPMzoR6tUj1OrxjKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeMLSURPMzoR6tUj1OrxjKE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:02"
+  }
+]

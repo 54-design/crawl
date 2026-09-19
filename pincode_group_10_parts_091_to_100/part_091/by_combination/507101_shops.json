@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAVARANG STORES",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507101",
+    "phone_number": "+91 99636 59659",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 21,
+    "address": "6-2-101, 2 101 507101, Chinna Bazar Rd, Srinagar, Kothagudem, Laxmidevipally, Telangana 507101",
+    "area": "Srinagar",
+    "latitude": 17.5544402,
+    "longitude": 80.6156089,
+    "place_id": "ChIJCU9PjrkQNDoRlQmhrG6dF6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCU9PjrkQNDoRlQmhrG6dF6E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:04:57"
+  },
+  {
+    "business_name": "Epson Service Center",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "507101",
+    "phone_number": "+91 92477 39527",
+    "website": "https://www.epson.co.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Madhurabasthi, Bhadradri, Kothagudem, Telangana 507101",
+    "area": "Bhadradri",
+    "latitude": 17.5449177,
+    "longitude": 80.6183394,
+    "place_id": "ChIJdWol7EARNDoR6yDgLEG68MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWol7EARNDoR6yDgLEG68MU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:05:00"
+  }
+]

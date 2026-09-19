@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejaswi Kiranam And Fancy Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506318",
+    "phone_number": "+91 96035 15695",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "19, Uppal Gadda, Peddamupparam, Warangal, Telangana 506324",
+    "area": "Uppal Gadda",
+    "latitude": 17.4796606,
+    "longitude": 79.6782794,
+    "place_id": "ChIJM_lqJo6_NDoR7-K9HrlN49o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_lqJo6_NDoR7-K9HrlN49o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:04:47"
+  },
+  {
+    "business_name": "Shekhar kiranam and general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506318",
+    "phone_number": "+91 96404 73949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CHVW+89H, Vempaty Main Rd, Thungathurthi, Telangana 508280",
+    "area": "506318",
+    "latitude": 17.4433117,
+    "longitude": 79.5959701,
+    "place_id": "ChIJY33tLQC5NDoROVW_cjv4HzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY33tLQC5NDoROVW_cjv4HzU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:04:49"
+  }
+]

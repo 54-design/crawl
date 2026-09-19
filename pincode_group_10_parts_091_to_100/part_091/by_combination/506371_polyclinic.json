@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asra Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "506371",
+    "phone_number": "+91 99489 36848",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "2H3G+JRH, Hyderabad - Warangal Hwy, Raganna Darwaja, New Raipura, Brahmanawada, Hanamkonda, Telangana 506011",
+    "area": "Raganna Darwaja, New Raipura, Brahmanawada",
+    "latitude": 18.0040643,
+    "longitude": 79.57710809999999,
+    "place_id": "ChIJSb5U4p1FMzoRydig5Gn2M1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSb5U4p1FMzoRydig5Gn2M1M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:18"
+  },
+  {
+    "business_name": "SRI AYODHYA POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "506371",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2H39+JJJ, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "area": "Kakaji Colony, Kakaji Nagar Colony",
+    "latitude": 18.0040899,
+    "longitude": 79.5690176,
+    "place_id": "ChIJxdBROgBFMzoRiIKolDlfi14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdBROgBFMzoRiIKolDlfi14",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:18"
+  }
+]

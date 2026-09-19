@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grinder and flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "507122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-2-10/a, Khanapuram, Khammam, Ballepally, Telangana 507002",
+    "area": "Khanapuram",
+    "latitude": 17.269708299999998,
+    "longitude": 80.17937049999999,
+    "place_id": "ChIJM0ksaCZZNDoROQlG51yKO6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0ksaCZZNDoROQlG51yKO6c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:23:20"
+  },
+  {
+    "business_name": "Sai Ram Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "507122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "746V+595, Raparthi Nagar, Bhuranpuram, Khammam, Telangana 507001",
+    "area": "Raparthi Nagar",
+    "latitude": 17.260378199999998,
+    "longitude": 80.1434728,
+    "place_id": "ChIJd7uiV7VZNDoRcAGeUwKBqcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7uiV7VZNDoRcAGeUwKBqcQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:23:20"
+  }
+]

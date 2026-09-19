@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bavesta Hospitality Services Private Limited",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "506381",
+    "phone_number": "N/A",
+    "website": "https://www.bavesta.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sai Prabhat Nagar Rd, Saiprabhath Nagar, Khammam, Telangana 507003",
+    "area": "Saiprabhath Nagar",
+    "latitude": 17.2452366,
+    "longitude": 80.1197885,
+    "place_id": "ChIJn6Ru2QFZNDoROA93JAizCn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6Ru2QFZNDoROA93JAizCn0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:54:56"
+  },
+  {
+    "business_name": "TradeMark Khammam Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Patent attorney",
+    "all_categories": "Patent attorney",
+    "pincode": "506381",
+    "phone_number": "+91 95531 30070",
+    "website": "http://www.dealintax.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "64XQ+9WG, Hotel Venus Rd, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.248426,
+    "longitude": 80.1398208,
+    "place_id": "ChIJ2fGegC1YNDoRCulqNIoIs0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fGegC1YNDoRCulqNIoIs0E",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:54:56"
+  }
+]

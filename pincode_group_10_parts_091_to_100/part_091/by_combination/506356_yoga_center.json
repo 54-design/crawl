@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga park",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "506356",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "7FMF+2JG, Housing Board Colony, Jammikunta, Telangana 505122",
+    "area": "Housing Board Colony",
+    "latitude": 18.2825643,
+    "longitude": 79.4740891,
+    "place_id": "ChIJge4jYAAxMzoRjtPhhV6zGbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJge4jYAAxMzoRjtPhhV6zGbQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:39:00"
+  },
+  {
+    "business_name": "S Fitness Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "506356",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Huzurabad - Jammikunta Rd, Jammikunta, Telangana 505122",
+    "area": "506356",
+    "latitude": 18.2781746,
+    "longitude": 79.471057,
+    "place_id": "ChIJieLXH0YxMzoR_zNApBzJuxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJieLXH0YxMzoR_zNApBzJuxE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:39:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reshmas beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "507114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Usha fast food line, H:no 11-57, Sarapaka, Telangana 507128",
+    "area": "507114",
+    "latitude": 17.694303299999998,
+    "longitude": 80.8628439,
+    "place_id": "ChIJZZuP1fSpNjoRwKUKSjrxdcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZuP1fSpNjoRwKUKSjrxdcE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:41"
+  },
+  {
+    "business_name": "Narasimha Hairstyles",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "507114",
+    "phone_number": "+91 96183 25735",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10-42/1,Iravendi Road Sarapaka, Bhadradri, Kothagudem, Telangana 507128",
+    "area": "Bhadradri",
+    "latitude": 17.6915791,
+    "longitude": 80.86951499999999,
+    "place_id": "ChIJq1BGlWOpNjoRnv5KuU4F_sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1BGlWOpNjoRnv5KuU4F_sk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:43"
+  }
+]

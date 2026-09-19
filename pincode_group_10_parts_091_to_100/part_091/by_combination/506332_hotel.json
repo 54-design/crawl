@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai ZonE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "506332",
+    "phone_number": "+91 91774 23156",
+    "website": "https://www.instagram.com/awesome_cherry_01?igsh=MTZuZmppaTllbjdrcA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Reddypalem Rudaramadevi Circle, Mogilicherla road, Pallaruguda, Telangana 506330",
+    "area": "506332",
+    "latitude": 17.9254766,
+    "longitude": 79.736931,
+    "place_id": "ChIJRXHflfNdMzoREe-UjBv3_tE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXHflfNdMzoREe-UjBv3_tE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:17:01"
+  },
+  {
+    "business_name": "HOTEL TELANGANA",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "506332",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XV9P+46C, Madannapet, Telangana 506132",
+    "area": "506332",
+    "latitude": 17.9678155,
+    "longitude": 79.88552109999999,
+    "place_id": "ChIJmUVQSABlMzoRgeL_vq71Dlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUVQSABlMzoRgeL_vq71Dlc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:17:01"
+  }
+]

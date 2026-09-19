@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri venkateswara Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "506349",
+    "phone_number": "+91 97013 06095",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Relakunta Mainroad, Relakunta, Telangana 506350",
+    "area": "506349",
+    "latitude": 18.0781074,
+    "longitude": 79.8209365,
+    "place_id": "ChIJnU6UULxrMzoRoLka95CZrVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnU6UULxrMzoRoLka95CZrVI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:31:44"
+  },
+  {
+    "business_name": "Shiva Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "506349",
+    "phone_number": "+91 99087 56717",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No 10-36, Nallabelly, Road, near Bus Stand, Mallampalle, Telangana 506350",
+    "area": "506349",
+    "latitude": 18.0423686,
+    "longitude": 79.8631711,
+    "place_id": "ChIJM_wGGAVvMzoRES-hbyostwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_wGGAVvMzoRES-hbyostwk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:31:44"
+  }
+]

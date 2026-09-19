@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PASHA FLOWER SHOP",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "507117",
+    "phone_number": "+91 96660 67776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6-1-121/32, Court Rd, Mahabubabad, Telangana 506101",
+    "area": "507117",
+    "latitude": 17.597174199999998,
+    "longitude": 79.99894499999999,
+    "place_id": "ChIJyfNe9M6PNDoRH7o7AkmoqsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfNe9M6PNDoRH7o7AkmoqsU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:22"
+  },
+  {
+    "business_name": "gunturEshop.com",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery, Bakery and Cake Shop, Florist, Gift shop",
+    "pincode": "507117",
+    "phone_number": "+91 98481 29143",
+    "website": "https://www.guntureshop.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2/2, 5-87-112/2, beside union bank, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram",
+    "latitude": 16.3091811,
+    "longitude": 80.43327889999999,
+    "place_id": "ChIJTbe-lUR1SjoRieoWG2aOQVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbe-lUR1SjoRieoWG2aOQVM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:24"
+  }
+]

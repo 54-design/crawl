@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani Bhojana",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Brunch restaurant, Diner, Kebab shop, Lunch restaurant, Takeout restaurant",
+    "pincode": "507140",
+    "phone_number": "+91 98451 23646",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 667,
+    "address": "1648/2, 10th Main, Jeevan Bima Nagar Main Rd, opp. Miranda College, HAL 3rd Stage, Bengaluru, Karnataka 560008",
+    "area": "HAL 3rd Stage, Kodihalli",
+    "latitude": 12.9682581,
+    "longitude": 77.6501567,
+    "place_id": "ChIJLcv-TycVrjsRHa8fP8Vf8z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcv-TycVrjsRHa8fP8Vf8z8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:38:44"
+  },
+  {
+    "business_name": "Aziz Biryani & Catering",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Catering food and drink supplier, Caterer, Children's party buffet, Restaurant supply store, Wedding buffet",
+    "pincode": "507140",
+    "phone_number": "+91 96884 31210",
+    "website": "https://www.instagram.com/azizbiryani_catering?igsh=MXg1ZGpzZHFodnplaA==",
+    "rating": 4.8,
+    "reviews_count": 227,
+    "address": "256, Cherry Rd, Salem (M.Corp.), Tamil Nadu 636001",
+    "area": "507140",
+    "latitude": 11.6582932,
+    "longitude": 78.15895979999999,
+    "place_id": "ChIJdfpC64bxqzsRLMWpqNkA5Kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfpC64bxqzsRLMWpqNkA5Kk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:38:48"
+  }
+]

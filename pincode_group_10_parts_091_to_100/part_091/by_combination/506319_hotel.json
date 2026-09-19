@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasudeva Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "506319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 29,
+    "address": "3P95+J8C, nh 163 హైవే, Warangal, Guduppad, Telangana 506342",
+    "area": "506319",
+    "latitude": 18.0690647,
+    "longitude": 79.70825669999999,
+    "place_id": "ChIJH-EszmpBMzoRBPeZCjO9e4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-EszmpBMzoRBPeZCjO9e4o",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:07:45"
+  },
+  {
+    "business_name": "ruchi hotel",
+    "search_category": "Hotel",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "506319",
+    "phone_number": "+91 98854 40971",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "4-57, Neerukulla Rd, Warangal Rural, Brahamanpally, Telangana 506342",
+    "area": "506319",
+    "latitude": 18.0820144,
+    "longitude": 79.773984,
+    "place_id": "ChIJsTq1jjdqMzoRAAAAsPQCWDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTq1jjdqMzoRAAAAsPQCWDI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:07:45"
+  }
+]

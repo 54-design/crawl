@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uma Santhoshi Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Home builder",
+    "pincode": "506302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Adarsha Nagar, Tirumalagiri, Telangana 508223",
+    "area": "Adarsha Nagar",
+    "latitude": 17.4729375,
+    "longitude": 79.4483125,
+    "place_id": "ChIJydXOaAC1NDoRy8_NFJabX9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydXOaAC1NDoRy8_NFJabX9c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:49:47"
+  },
+  {
+    "business_name": "Flour Mill Laxmi Ganesh Karrmu Passpu Pinndi mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "506302",
+    "phone_number": "+91 94949 68956",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vikas Nagar, Rama Veedhi, Tirumalagiri, Telangana 508223",
+    "area": "506302",
+    "latitude": 17.4665127,
+    "longitude": 79.4492137,
+    "place_id": "ChIJKckumQa1NDoRP0E_W9-1ib0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKckumQa1NDoRP0E_W9-1ib0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:49:47"
+  }
+]

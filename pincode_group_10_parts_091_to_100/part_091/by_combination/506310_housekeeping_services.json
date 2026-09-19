@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BRKY home care services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "506310",
+    "phone_number": "N/A",
+    "website": "https://brky-home-care-services.grexa.site/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kareemabad Rd, kashikunta, Shambunipet, Warangal, Telangana 506002",
+    "area": "kashikunta, Shambunipet",
+    "latitude": 17.9564061,
+    "longitude": 79.6007886,
+    "place_id": "ChIJz9cg-SFbMzoRzL1wauQpOBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9cg-SFbMzoRzL1wauQpOBk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:55"
+  },
+  {
+    "business_name": "Sri Lalitha Saree Rolling and Dry Cleaning | Best Dry Cleaning Centre in Warangal | Laundry Equipments & iron services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "506310",
+    "phone_number": "+91 93967 68850",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ursu Rd, near Mahankali Temple, Telangana Nagar, Rangashaipet, Warangal, Telangana 506005",
+    "area": "Telangana Nagar, Rangashaipet",
+    "latitude": 17.948691,
+    "longitude": 79.597511,
+    "place_id": "ChIJF00X1C9bMzoRxE8zbd5yRJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF00X1C9bMzoRxE8zbd5yRJY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:54:55"
+  }
+]

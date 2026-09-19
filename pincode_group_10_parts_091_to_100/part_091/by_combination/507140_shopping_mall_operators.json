@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSR Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "507140",
+    "phone_number": "+91 74181 00313",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10592,
+    "address": "IT CORRIDOR, EXPRESS WAY, 1/609, OMR Service Rd, Seevaram, Thoraipakkam, Tamil Nadu 600097",
+    "area": "Seevaram",
+    "latitude": 12.949485399999999,
+    "longitude": 80.2404066,
+    "place_id": "ChIJuyW5fgNdUjoRzRai8lYs2Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyW5fgNdUjoRzRai8lYs2Bw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:24"
+  },
+  {
+    "business_name": "SR Shopping Mall - Madanapalle",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store, Saree Shop",
+    "pincode": "507140",
+    "phone_number": "N/A",
+    "website": "https://www.youtube.com/@srshoppingmallofficial",
+    "rating": 4.9,
+    "reviews_count": 1442,
+    "address": "CTM Rd, next to Chandra Mohan Hospital, Rama Gopal Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Rama Gopal Naidu Colony",
+    "latitude": 13.554561,
+    "longitude": 78.50754049999999,
+    "place_id": "ChIJ2cYiBABlsjsRiyDzY7ErcLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cYiBABlsjsRiyDzY7ErcLU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "microchip computer education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "506343",
+    "phone_number": "+91 97038 06317",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Mulugu, Telangana 506343",
+    "area": "506343",
+    "latitude": 18.1918255,
+    "longitude": 79.94466179999999,
+    "place_id": "ChIJe_0zYxQNMzoRdkcF6eRkg-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_0zYxQNMzoRdkcF6eRkg-4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:22:47"
+  },
+  {
+    "business_name": "Comptron India",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "506343",
+    "phone_number": "+91 98390 07113",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Viraj Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viraj Khand, Gomti Nagar",
+    "latitude": 26.860034499999998,
+    "longitude": 81.0231948,
+    "place_id": "ChIJ17kWtfPimzkRPUzgRw03mIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17kWtfPimzkRPUzgRw03mIM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:22:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Automotives",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "506349",
+    "phone_number": "+91 88866 96011",
+    "website": "https://www.happyautomotives.co.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "H. No. 15, Industrial Estate, 1-428, Mulugu Road, beside City Central Mall, Tadkamalla Village, Warangal, Telangana 506007",
+    "area": "Tadkamalla Village",
+    "latitude": 17.9995592,
+    "longitude": 79.58409759999999,
+    "place_id": "ChIJy6Bm6UhFMzoRITDMQ4T1YPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6Bm6UhFMzoRITDMQ4T1YPw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:31:29"
+  },
+  {
+    "business_name": "Bharadwaj Autotech Pvt Ltd",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "506349",
+    "phone_number": "+91 99668 62233",
+    "website": "https://bharadwajhero.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "8-6-173,Sy no 608 Beside HP Petrol Pump,Ramagundam Bypass, road, Telangana 505001",
+    "area": "Kothirampur",
+    "latitude": 18.421886699999998,
+    "longitude": 79.1488522,
+    "place_id": "ChIJhWjUChfZzDsRMj72weryHDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWjUChfZzDsRMj72weryHDQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:31:29"
+  }
+]

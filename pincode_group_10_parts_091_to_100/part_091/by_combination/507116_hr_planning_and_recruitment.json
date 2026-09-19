@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home of HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "507116",
+    "phone_number": "N/A",
+    "website": "http://www.homeofhr.co.uk/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Home of HR, 507116, India",
+    "area": "507116",
+    "latitude": 51.0449522,
+    "longitude": -1.3433104,
+    "place_id": "ChIJH2mduc1ddEgRs0uJUFybFbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2mduc1ddEgRs0uJUFybFbo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:13:58"
+  },
+  {
+    "business_name": "CEO HR Consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "507116",
+    "phone_number": "+91 44 4900 6000",
+    "website": "http://www.ceohrconsultancy.com/",
+    "rating": 4.3,
+    "reviews_count": 101,
+    "address": "#9, Pe Vee Plaza, 2nd Floor, Arcot Rd, Lakshmi Nagar, Porur, Chennai, Tamil Nadu 600116",
+    "area": "Sai Nagar, Lakshmi Nagar, Porur",
+    "latitude": 13.0381208,
+    "longitude": 80.1658799,
+    "place_id": "ChIJs86luUNhUjoRrJ-ivaAQAFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs86luUNhUjoRrJ-ivaAQAFM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:13:59"
+  }
+]

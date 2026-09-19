@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Telangana SERP",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "507136",
+    "phone_number": "+91 40 2329 8991",
+    "website": "https://www.serp.telangana.gov.in/",
+    "rating": 4,
+    "reviews_count": 60,
+    "address": "Huda Building, 5-10-192, 3rd & 4th Floor Hermitage Office Complex, Hill Fort Rd, Nampally, Hyderabad, Telangana 500004",
+    "area": "Ambedkar Colony, Nampally",
+    "latitude": 17.4065403,
+    "longitude": 78.4722266,
+    "place_id": "ChIJK_FVx2CXyzsRXWo_RILeNLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_FVx2CXyzsRXWo_RILeNLQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:34:17"
+  },
+  {
+    "business_name": "Hr Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service",
+    "pincode": "507136",
+    "phone_number": "+91 99855 93011",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Floor, Swathi Avenue, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Swathi Avenue, Ameerpet",
+    "latitude": 17.4373309,
+    "longitude": 78.44836719999999,
+    "place_id": "ChIJwaaQ1BGRyzsRcSKb6oieKOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaaQ1BGRyzsRcSKb6oieKOQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:34:20"
+  }
+]

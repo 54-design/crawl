@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Growth Agency",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, Marketing agency",
+    "pincode": "507101",
+    "phone_number": "+91 95338 03131",
+    "website": "https://www.digitalgrowthagency.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd Floor, URHOM Building, Srinagar, Morampudi, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Srinagar, Morampudi",
+    "latitude": 16.99872,
+    "longitude": 81.803175,
+    "place_id": "ChIJ2VdOu8KjNzoRzqwBOFQf-Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VdOu8KjNzoRzqwBOFQf-Rc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:04:51"
+  },
+  {
+    "business_name": "Digital Growthmates",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, E - Commerce Agency, E-commerce service, Internet marketing service, Media company, Media Consultant, Training center, Website designer",
+    "pincode": "507101",
+    "phone_number": "+91 70938 57571",
+    "website": "https://skills.digitalgrowthmates.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Flr, 9-7-220, Santosh Nagar Main Rd, opp. to KFC, Maruthi Nagar, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059",
+    "area": "Maruthi Nagar, New Santoshnagar, Santosh Nagar",
+    "latitude": 17.3452518,
+    "longitude": 78.5080943,
+    "place_id": "ChIJK2_995uZyzsRany4y_P_yTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2_995uZyzsRany4y_P_yTo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:04:51"
+  }
+]

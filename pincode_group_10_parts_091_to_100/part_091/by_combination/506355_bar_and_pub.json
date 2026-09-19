@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mallikarjuna Wines Kukunoorpally",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "506355",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 102,
+    "address": "VQVV+PXP, Kuknurpalle, Telangana 502301",
+    "area": "506355",
+    "latitude": 17.8943586,
+    "longitude": 78.7949744,
+    "place_id": "ChIJfdSq3rWFzDsRzwb_nOqqZOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdSq3rWFzDsRzwb_nOqqZOg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:36:45"
+  },
+  {
+    "business_name": "Baar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "506355",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sadguru Complex 8-1-78, 8, Siddipet, Telangana 502103",
+    "area": "Shivaji Nagar",
+    "latitude": 18.1004283,
+    "longitude": 78.8521964,
+    "place_id": "ChIJt8mLC2yTzDsRpbUKtujJm4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8mLC2yTzDsRpbUKtujJm4Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:36:45"
+  }
+]

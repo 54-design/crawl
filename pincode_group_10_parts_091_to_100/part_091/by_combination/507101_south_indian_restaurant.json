@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South India Shopping Mall Kothagudem",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "507101",
+    "phone_number": "+91 77999 65656",
+    "website": "https://www.southindiaeshop.com/",
+    "rating": 4.8,
+    "reviews_count": 5011,
+    "address": "H.No.3, 2-231, Vidyanagar Colony, Babucamp, Chunchupalle (U), Kothagudem, Telangana 507101",
+    "area": "Vidyanagar Colony, Babucamp",
+    "latitude": 17.537589699999998,
+    "longitude": 80.6158225,
+    "place_id": "ChIJWy0A0DwXNDoRjVMWe-Bjc-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWy0A0DwXNDoRjVMWe-Bjc-4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:22"
+  },
+  {
+    "business_name": "Hotel Swagat Dosa Point",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "near Market yard, Lakshmidevipally, Kothagudem, Laxmidevipally, Telangana 507101",
+    "area": "Lakshmidevipally",
+    "latitude": 17.563149199999998,
+    "longitude": 80.6233929,
+    "place_id": "ChIJbd6x6dERNDoRRkQtq-mPe7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbd6x6dERNDoRRkQtq-mPe7Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:03:23"
+  }
+]

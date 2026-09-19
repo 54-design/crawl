@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRISHAN fancy & cool drinks",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Flag store",
+    "pincode": "507114",
+    "phone_number": "+91 95531 10438",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 6, Bcm Road, Palwancha, Jagannadhapuram, Telangana 507115",
+    "area": "Palwancha",
+    "latitude": 17.605888399999998,
+    "longitude": 80.74713659999999,
+    "place_id": "ChIJvwRDXeIdNDoRGHvZWpaEZqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwRDXeIdNDoRGHvZWpaEZqQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:56"
+  },
+  {
+    "business_name": "Gift Factory",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "507114",
+    "phone_number": "+91 99633 57595",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2-2, SBI Rd, KTPS, Palwancha, Telangana 507115",
+    "area": "KTPS",
+    "latitude": 17.6003901,
+    "longitude": 80.701334,
+    "place_id": "ChIJudOkXpIbNDoRwubJxC7A6no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudOkXpIbNDoRwubJxC7A6no",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:57"
+  }
+]

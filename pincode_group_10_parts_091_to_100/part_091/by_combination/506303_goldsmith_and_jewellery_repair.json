@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Strand Jewellery Workshop",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Furniture repair shop, Jewelry designer, Jewelry repair service, Jewelry store",
+    "pincode": "506303",
+    "phone_number": "01726 813018",
+    "website": "http://www.jewelleryrepairsonline.co.uk/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4, 10 Eastcliffe Rd, Par PL24 2AH, United Kingdom",
+    "area": "506303",
+    "latitude": 50.3519175,
+    "longitude": -4.6992921999999995,
+    "place_id": "ChIJeeBfj8Fla0gRHo3XnJ9BfXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeBfj8Fla0gRHo3XnJ9BfXc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:51:55"
+  },
+  {
+    "business_name": "Devi Krishna Gold & Silver Works",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry designer",
+    "all_categories": "Jewelry designer",
+    "pincode": "506303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Avanavanchery, Keralam 695103",
+    "area": "506303",
+    "latitude": 8.6882058,
+    "longitude": 76.8366715,
+    "place_id": "ChIJU7UUHfrBBTsRSHvyruigEIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7UUHfrBBTsRSHvyruigEIY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:51:57"
+  }
+]

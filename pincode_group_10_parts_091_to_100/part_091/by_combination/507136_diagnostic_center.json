@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangeetha Digital Studio",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Photography studio",
+    "pincode": "507136",
+    "phone_number": "+91 77992 29449",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anbethkar Center, 12-9, Venkatapuram, Telangana 507136",
+    "area": "507136",
+    "latitude": 18.303115599999998,
+    "longitude": 80.5515526,
+    "place_id": "ChIJUdV4Z53FMzoRMTC79bmWooU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdV4Z53FMzoRMTC79bmWooU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:20"
+  },
+  {
+    "business_name": "Deepthi Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "507136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JM3X+46F, Gattaigudem, Palwancha, Telangana 507115",
+    "area": "Gattaigudem",
+    "latitude": 17.6028,
+    "longitude": 80.6980359,
+    "place_id": "ChIJyZZdXg0bNDoRPlUImKDrwGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZZdXg0bNDoRPlUImKDrwGI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:20"
+  }
+]

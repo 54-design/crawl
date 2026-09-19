@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "507115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WQ8V+7C5, Bombay Colony, P V Colony, Manuguru (PT), Telangana 507125",
+    "area": "Bombay Colony, P V Colony",
+    "latitude": 17.9156338,
+    "longitude": 80.79361159999999,
+    "place_id": "ChIJ4cV4YwD_MzoRIqUzTC6zcHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cV4YwD_MzoRIqUzTC6zcHg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:10:40"
+  },
+  {
+    "business_name": "Country Chicken Co Manikonda",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store, Chicken shop, Meat wholesaler",
+    "pincode": "507115",
+    "phone_number": "N/A",
+    "website": "https://www.countrychickenco.in/",
+    "rating": 4,
+    "reviews_count": 631,
+    "address": "H.No :2, 3-1, Shivapuri Colony, Muppas Panchavati Colony, Jaggir, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Shivapuri Colony, Muppas Panchavati Colony, Jaggir",
+    "latitude": 17.4079548,
+    "longitude": 78.3809143,
+    "place_id": "ChIJQYzoMjGVyzsR07KBTZiDhVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYzoMjGVyzsR07KBTZiDhVg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:10:41"
+  }
+]

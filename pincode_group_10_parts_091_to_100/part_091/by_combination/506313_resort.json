@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Macha resort, shapur",
+    "search_category": "Resort",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "506313",
+    "phone_number": "+91 79933 90347",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shapur, Telangana 506310",
+    "area": "506313",
+    "latitude": 17.8355835,
+    "longitude": 79.6730579,
+    "place_id": "ChIJ6Qcfu_FfMzoR165FiFIJrWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Qcfu_FfMzoR165FiFIJrWo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:28"
+  },
+  {
+    "business_name": "Kadari Naresh resort",
+    "search_category": "Resort",
+    "primary_category": "Park",
+    "all_categories": "Park",
+    "pincode": "506313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RG63+X33, Thidugu, Telangana 506313",
+    "area": "506313",
+    "latitude": 17.8123818,
+    "longitude": 79.5026724,
+    "place_id": "ChIJKSKF-pNXMzoR-w_DzT2F9-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSKF-pNXMzoR-w_DzT2F9-4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:56:30"
+  }
+]

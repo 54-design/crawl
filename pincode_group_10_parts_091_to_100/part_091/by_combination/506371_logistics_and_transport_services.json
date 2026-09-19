@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K K Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "506371",
+    "phone_number": "+91 97000 08862",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XJH5+976, Kashibugga, LB Nagar, Warangal, Telangana 506002",
+    "area": "Kashibugga, LB Nagar",
+    "latitude": 17.978409,
+    "longitude": 79.6081279,
+    "place_id": "ChIJG1VXVd5EMzoRy_zBKTw0iiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1VXVd5EMzoRy_zBKTw0iiQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:31"
+  },
+  {
+    "business_name": "Blue Dart Express Limited",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "506371",
+    "phone_number": "N/A",
+    "website": "https://www.bluedart.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "H.No 55, 1-161, near Svs College, Ramaram, Elkathurthy, Telangana 505476",
+    "area": "Ramaram",
+    "latitude": 18.1000215,
+    "longitude": 79.4492927,
+    "place_id": "ChIJbZQzeQ7ZzDsRZQ1E6Uw_Gv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZQzeQ7ZzDsRZQ1E6Uw_Gv0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:52:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AYAN ENTERPRISES",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506343",
+    "phone_number": "+91 99890 05122",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "H.no:1-251/9,main road mallampally, Mulugu, Telangana 506349",
+    "area": "506343",
+    "latitude": 18.1117606,
+    "longitude": 79.8498604,
+    "place_id": "ChIJ91IhdldtMzoRUyI_P_xqIVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91IhdldtMzoRUyI_P_xqIVk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:22:24"
+  },
+  {
+    "business_name": "Srinivasa Cement Shop",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "506343",
+    "phone_number": "+91 93472 92948",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5-224 Venkatapoor, Mulugu, Telangana 506352",
+    "area": "Gollawada",
+    "latitude": 18.2453641,
+    "longitude": 79.9963379,
+    "place_id": "ChIJfQFw38QNMzoRpFl-4094BIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQFw38QNMzoRpFl-4094BIw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:22:26"
+  }
+]

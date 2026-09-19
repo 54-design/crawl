@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New nano fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507157",
+    "phone_number": "+91 93981 15335",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "64WR+H4F, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2464366,
+    "longitude": 80.1402967,
+    "place_id": "ChIJlfltFwBZNDoRxIkT18mB5VE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfltFwBZNDoRxIkT18mB5VE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:43"
+  },
+  {
+    "business_name": "SixthHabit",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507157",
+    "phone_number": "+91 81258 06650",
+    "website": "https://sixthhabit.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "2-172, Kusumanchi - Nelakondapally Rd, opp. Police Station, Kusumanchi, Telangana 507159",
+    "area": "507157",
+    "latitude": 17.2237325,
+    "longitude": 79.95795629999999,
+    "place_id": "ChIJS1ktdAD7NDoRkL5_F4L_d3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1ktdAD7NDoRkL5_F4L_d3I",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:46"
+  }
+]

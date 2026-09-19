@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Adda",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "507123",
+    "phone_number": "+91 96768 69693",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-7, New Bus Stand Road, Yellandu, Telangana 507123",
+    "area": "507123",
+    "latitude": 17.594881,
+    "longitude": 80.3219352,
+    "place_id": "ChIJ2V8o9IdvNDoRpkBAG_MzjF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2V8o9IdvNDoRpkBAG_MzjF4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:23:43"
+  },
+  {
+    "business_name": "Lucky Cafe hot caffee and tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "507123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "747W+9WP, Raparthi Nagar, Khammam, Telangana 507002",
+    "area": "Raparthi Nagar",
+    "latitude": 17.2634632,
+    "longitude": 80.1473202,
+    "place_id": "ChIJ87P_UYtZNDoRYox0oIYQCKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87P_UYtZNDoRYox0oIYQCKo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:23:45"
+  }
+]

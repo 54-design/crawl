@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hareen Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506313",
+    "phone_number": "+91 99636 87956",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-467, Main Rd, Thorrur, Parvathagiri, Telangana 506365",
+    "area": "506313",
+    "latitude": 17.7422674,
+    "longitude": 79.7260879,
+    "place_id": "ChIJF6HsSEehNDoRes2ZyQLYYK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6HsSEehNDoRes2ZyQLYYK8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:55:40"
+  },
+  {
+    "business_name": "KARTHIKEYA FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "506313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vardhanapeta, Telangana 506313",
+    "area": "Vardhanapeta",
+    "latitude": 17.7754914,
+    "longitude": 79.5789887,
+    "place_id": "ChIJVQhncQxYMzoRhdu-KWTUoJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQhncQxYMzoRhdu-KWTUoJU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:55:42"
+  }
+]

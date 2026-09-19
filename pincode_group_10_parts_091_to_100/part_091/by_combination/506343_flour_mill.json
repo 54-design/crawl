@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajitha flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "506343",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4WXV+9CH, Jaggannapet, Telangana 506343",
+    "area": "506343",
+    "latitude": 18.1484391,
+    "longitude": 79.9436162,
+    "place_id": "ChIJ_-PxliFzMzoREWvX_lN9QfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-PxliFzMzoREWvX_lN9QfE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:37"
+  },
+  {
+    "business_name": "Sri Lakshmi Rice Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "506343",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "4QMV+C3Q, Singram Katrapalli Road, Telangana 506349",
+    "area": "506343",
+    "latitude": 18.1335987,
+    "longitude": 79.7927464,
+    "place_id": "ChIJWbGaXCJrMzoRPyXpxM-vgfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbGaXCJrMzoRPyXpxM-vgfw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:37"
+  }
+]

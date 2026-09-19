@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hafeez Flour Mill",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "507115",
+    "phone_number": "+91 90593 15819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gudipadu Rd, Sathupally, Telangana 507303",
+    "area": "507115",
+    "latitude": 17.2146567,
+    "longitude": 80.82603999999999,
+    "place_id": "ChIJyaKdOaODNjoRhlGlURS75Bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaKdOaODNjoRhlGlURS75Bo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:25"
+  },
+  {
+    "business_name": "Srinu Vegetable Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "507115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "JP22+36C, KSP Rd, Gattaigudem, Palwancha, Telangana 507115",
+    "area": "Gattaigudem",
+    "latitude": 17.6001859,
+    "longitude": 80.7005211,
+    "place_id": "ChIJeXNwIHMbNDoRLvx_zLGl6Wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXNwIHMbNDoRLvx_zLGl6Wo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:26"
+  }
+]

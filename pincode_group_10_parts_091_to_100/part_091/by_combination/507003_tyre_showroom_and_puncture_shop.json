@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Car wheels",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "507003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "shop no. 5&6, Church complex, H No 15-17-309/1, Bypass Rd, karunagiri, Khammam, Telangana 507003",
+    "area": "karunagiri",
+    "latitude": 17.2673029,
+    "longitude": 80.1268405,
+    "place_id": "ChIJneaaDMdZNDoRVtpc4uet8r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneaaDMdZNDoRVtpc4uet8r0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:56"
+  },
+  {
+    "business_name": "Michelin Tyre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "507003",
+    "phone_number": "+91 87909 96434",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "64V6+FF6, Suryapeta Khammam Road (SH-240), Jintal, Khammam, Telangana 507003",
+    "area": "Jintal",
+    "latitude": 17.243654,
+    "longitude": 80.11115099999999,
+    "place_id": "ChIJd5_vGxtYNDoRsSfHc4tZn0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5_vGxtYNDoRsSfHc4tZn0c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:56"
+  }
+]

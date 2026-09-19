@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Komali Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Restaurant",
+    "pincode": "507120",
+    "phone_number": "+91 99894 60315",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "6M55+5FJ, Kothagudam, Penuballi, Telangana 507302",
+    "area": "507120",
+    "latitude": 17.208784299999998,
+    "longitude": 80.6602107,
+    "place_id": "ChIJT66mSEkuNDoRLy2sNIRJkPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT66mSEkuNDoRLy2sNIRJkPY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:19:55"
+  },
+  {
+    "business_name": "Sujatha Home Foods, Khammam",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "507120",
+    "phone_number": "+91 90598 19779",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dabal Bazar, 2-4-74, near 3 Town Police Station Road, Gandhi Nagar, Praksh Nagar, Khammam, Telangana 507003",
+    "area": "Gandhi Nagar, Praksh Nagar",
+    "latitude": 17.245071499999998,
+    "longitude": 80.1366542,
+    "place_id": "ChIJ_5J6xd9ZNDoRLGPD7frHKK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5J6xd9ZNDoRLGPD7frHKK4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:19:58"
+  }
+]

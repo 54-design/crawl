@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri VINAYAKA BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "506371",
+    "phone_number": "N/A",
+    "website": "https://sweet-prompt-ai.lovable.app/#home",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3CWX+4QP, Narayana Nagar, Elkathurthy, Telangana 505476",
+    "area": "Narayana Nagar",
+    "latitude": 18.095304,
+    "longitude": 79.44934909999999,
+    "place_id": "ChIJUfPbaABLMzoRToqUvraApWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfPbaABLMzoRToqUvraApWI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:51:53"
+  },
+  {
+    "business_name": "Relax Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "506371",
+    "phone_number": "+91 99128 76821",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "53-1-178,Bavupeta, Cross, Hanamkonda, Telangana 506371",
+    "area": "506371",
+    "latitude": 18.0914188,
+    "longitude": 79.4869764,
+    "place_id": "ChIJUb46GP5JMzoRlrcLy27v3iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUb46GP5JMzoRlrcLy27v3iE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:51:53"
+  }
+]

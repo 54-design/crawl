@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doli Dresses",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "507154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Vishnu Colony, Junagadh, Gujarat 362002",
+    "area": "Vishnu Colony",
+    "latitude": 21.5257351,
+    "longitude": 70.4452396,
+    "place_id": "ChIJOYR4ypABWDkRJOGs0IvnLok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYR4ypABWDkRJOGs0IvnLok",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:52"
+  },
+  {
+    "business_name": "Rachana Designer Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Boutique, Children's clothing store",
+    "pincode": "507154",
+    "phone_number": "+91 80747 92739",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "M4M6+C7F, Based Indoor High School Dic Office Road, Subhash Nagar, Nizamabad, Telangana 503002",
+    "area": "Subhash Nagar",
+    "latitude": 18.6835703,
+    "longitude": 78.11066199999999,
+    "place_id": "ChIJE8V8rTTbzTsRfPGvof3MtII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8V8rTTbzTsRfPGvof3MtII",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:52"
+  }
+]

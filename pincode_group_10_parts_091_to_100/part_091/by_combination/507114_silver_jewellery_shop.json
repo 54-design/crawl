@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAXMI VENKATESHWARA JEWELRY",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Shopping mall",
+    "pincode": "507114",
+    "phone_number": "+91 98854 43574",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 16,
+    "address": "Kaman Bazar Rd, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2458653,
+    "longitude": 80.1401118,
+    "place_id": "ChIJ2f0FBy1YNDoRmG712mVj7Tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f0FBy1YNDoRmG712mVj7Tc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:05"
+  },
+  {
+    "business_name": "Geethika Jewellary Shop",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "507114",
+    "phone_number": "+91 96030 49014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DCCB BANK, Mulakalapally, Main road, Palwancha, Telangana 507112",
+    "area": "507114",
+    "latitude": 17.506902699999998,
+    "longitude": 80.83501079999999,
+    "place_id": "ChIJv49OMgKhNjoReSrhLbRrVh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv49OMgKhNjoReSrhLbRrVh0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:09:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI RAMA BAKERY AND SWEETS",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "506315",
+    "phone_number": "+91 99125 92819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Masjid Complex, Main Road, Maripeda Bunglow, Warangal Rural, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.386735299999998,
+    "longitude": 79.89275549999999,
+    "place_id": "ChIJWU4GGDntNDoRnMt8MBaX_LU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWU4GGDntNDoRnMt8MBaX_LU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:12"
+  },
+  {
+    "business_name": "Rr Sweets & Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "506315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Apollo pharmacy, Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.385318899999998,
+    "longitude": 79.89454049999999,
+    "place_id": "ChIJGUSrAxXtNDoR7NeLMrD0jOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUSrAxXtNDoR7NeLMrD0jOk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:12"
+  }
+]

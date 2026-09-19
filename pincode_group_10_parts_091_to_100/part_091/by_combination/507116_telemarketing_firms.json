@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Recharge",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "507116",
+    "phone_number": "+91 80965 22108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9-1-389/3, Ashok Nagar, Manuguru (PT), Telangana 507117",
+    "area": "Ashok Nagar",
+    "latitude": 17.9324817,
+    "longitude": 80.8126989,
+    "place_id": "ChIJdfqXSgJWMToRAAAA0H37xjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfqXSgJWMToRAAAA0H37xjE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:14"
+  },
+  {
+    "business_name": "ANJANYA FERTILIZER PESTICIDES AND SEEDS",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "507116",
+    "phone_number": "+91 91773 39267",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Jaggaram X, 4-439, Raod, Telangana 507116",
+    "area": "507116",
+    "latitude": 17.871467199999998,
+    "longitude": 80.8299937,
+    "place_id": "ChIJiaTNSm5VMToRpbO4QnANLiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaTNSm5VMToRpbO4QnANLiE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:14:14"
+  }
+]

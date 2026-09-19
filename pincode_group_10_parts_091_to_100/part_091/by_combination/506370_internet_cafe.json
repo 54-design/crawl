@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR COMPUTERS",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "506370",
+    "phone_number": "+91 99898 42039",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Adalath Cir, near D Mart, Subedari, Hanamkonda, Telangana 506001",
+    "area": "Subedari",
+    "latitude": 17.997957,
+    "longitude": 79.5544312,
+    "place_id": "ChIJLc0GXW1PMzoRYXGVxyk2C1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLc0GXW1PMzoRYXGVxyk2C1Q",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:51:13"
+  },
+  {
+    "business_name": "SRI TEAM COMPUTERS",
+    "search_category": "Internet Cafe",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Computer networking service, Computer service, Computer store, Printer repair service",
+    "pincode": "506370",
+    "phone_number": "+91 98662 26240",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "4, Ambedkhar, Telangana 506001",
+    "area": "Ramnagar",
+    "latitude": 18.006478299999998,
+    "longitude": 79.5560546,
+    "place_id": "ChIJw-eclX5PMzoROPgGD-RAFP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-eclX5PMzoROPgGD-RAFP0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:51:14"
+  }
+]

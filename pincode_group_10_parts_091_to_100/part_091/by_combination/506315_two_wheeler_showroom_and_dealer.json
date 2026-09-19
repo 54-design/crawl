@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN TYRES",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "506315",
+    "phone_number": "+91 98711 26165",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop Number 3, Pedhanagaram Stage, Warangal Rural, Telangana 506325",
+    "area": "506315",
+    "latitude": 17.446443,
+    "longitude": 79.82419689999999,
+    "place_id": "ChIJSSgws3aVNDoRRKOPfxY8qNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSgws3aVNDoRRKOPfxY8qNs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:42"
+  },
+  {
+    "business_name": "Bajaj Auto Limited",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "506315",
+    "phone_number": "+91 99082 43623",
+    "website": "https://www.bajajauto.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Main Road, Suryapet Road, Maripeda, Telangana 506315",
+    "area": "Seva Nagar, Maripeda Bunglow",
+    "latitude": 17.3874313,
+    "longitude": 79.8874957,
+    "place_id": "ChIJfU38WWvtNDoRmkASfyX8eJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfU38WWvtNDoRmkASfyX8eJQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:43"
+  }
+]

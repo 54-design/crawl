@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vali Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "506355",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Kondapak, Telangana 502372",
+    "area": "506355",
+    "latitude": 17.972556,
+    "longitude": 78.85716409999999,
+    "place_id": "ChIJCXP-E06RzDsRftLasPma5Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXP-E06RzDsRftLasPma5Nc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:37:14"
+  },
+  {
+    "business_name": "Kukunoorpally Bus stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "506355",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "VQQW+F9Q, Hyderabad - Ramagundam Rd, Kuknurpalle, Telangana 502301",
+    "area": "506355",
+    "latitude": 17.888711699999998,
+    "longitude": 78.7959848,
+    "place_id": "ChIJoV5LBxmFzDsRmzNqLiLb4MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoV5LBxmFzDsRmzNqLiLb4MU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:37:17"
+  }
+]

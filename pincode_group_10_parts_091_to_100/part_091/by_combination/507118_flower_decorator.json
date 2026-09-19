@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veera Venkata Flower Stores",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "507118",
+    "phone_number": "+91 95531 09559",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dno1, Jampet Market, Lakshmivarapu Pet, Seshayya Metta, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Lakshmivarapu Pet, Seshayya Metta",
+    "latitude": 17.0062721,
+    "longitude": 81.7753638,
+    "place_id": "ChIJrW3KLwukNzoRAAAAMOXPVnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrW3KLwukNzoRAAAAMOXPVnE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:14"
+  },
+  {
+    "business_name": "Flower studio",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "507118",
+    "phone_number": "+91 86394 29664",
+    "website": "http://flowerstudio.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Flower studio, back side, JRC convention, nearby Mehfil restaurant, Ambedkar Nagar, Shaikpet, Hyderabad, Telangana 500008",
+    "area": "Ambedkar Nagar, Shaikpet",
+    "latitude": 17.414472699999997,
+    "longitude": 78.39412759999999,
+    "place_id": "ChIJ3xmgvVmXyzsRJagmgjllrII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xmgvVmXyzsRJagmgjllrII",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:15"
+  }
+]

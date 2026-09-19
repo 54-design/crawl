@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arabian Knights",
+    "search_category": "Family Restaurant",
+    "primary_category": "Middle Eastern restaurant",
+    "all_categories": "Middle Eastern restaurant",
+    "pincode": "506367",
+    "phone_number": "+91 85019 20492",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "11-25-27/1 ground, Jakotia Complex, Pochamma Maidan, Vasavi Colony, Kothawada, Warangal, Telangana 506002",
+    "area": "Pochamma Maidan, Vasavi Colony, Kothawada",
+    "latitude": 17.989410799999998,
+    "longitude": 79.5997235,
+    "place_id": "ChIJTazgiBtFMzoRpRCmJhWRsjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTazgiBtFMzoRpRCmJhWRsjo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:21"
+  },
+  {
+    "business_name": "Sri Kanakadurga Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "506367",
+    "phone_number": "+91 96522 17369",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1-98/3/B Near Green Park Abdul Nagaram Rd Tharigoppula, Jangaon, Telangana 506224",
+    "area": "506367",
+    "latitude": 17.9409627,
+    "longitude": 79.178609,
+    "place_id": "ChIJjT3wCUW7zDsR6rxhXtdifvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjT3wCUW7zDsR6rxhXtdifvA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:44:23"
+  }
+]

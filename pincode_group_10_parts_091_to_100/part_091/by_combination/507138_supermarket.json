@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhakar Voodugu Kiranam",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507138",
+    "phone_number": "+91 98660 05973",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7X7R+VWJ, Khammam, Telangana 507170",
+    "area": "507138",
+    "latitude": 17.2647139,
+    "longitude": 79.992265,
+    "place_id": "ChIJl0tzVNvwNDoRjGdUAyveBHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0tzVNvwNDoRjGdUAyveBHs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:36:34"
+  },
+  {
+    "business_name": "Siva Kiranam",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507138",
+    "phone_number": "+91 99482 49848",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Busstand, Ingate, Sathupally, Telangana 507303",
+    "area": "Ingate",
+    "latitude": 17.215171299999998,
+    "longitude": 80.83006619999999,
+    "place_id": "ChIJRbCVmZyDNjoR0u7x3YkieDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbCVmZyDNjoR0u7x3YkieDA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:36:34"
+  }
+]

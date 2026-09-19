@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta Kiranm General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506329",
+    "phone_number": "+91 98663 35227",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dharmaram, Telangana 506330",
+    "area": "506329",
+    "latitude": 17.9565141,
+    "longitude": 79.6536603,
+    "place_id": "ChIJ86XYhrNdMzoRqlxS1UdAMKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86XYhrNdMzoRqlxS1UdAMKg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:10:23"
+  },
+  {
+    "business_name": "Lakshmi Kiranam & General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506329",
+    "phone_number": "+91 96661 41181",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "XM42+XCG, Dharmaram, Narsampet Rd, Dharmaram, Telangana 506330",
+    "area": "506329",
+    "latitude": 17.9574456,
+    "longitude": 79.6510727,
+    "place_id": "ChIJUydKiKpcMzoR7AwTVHr-bhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUydKiKpcMzoR7AwTVHr-bhM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:10:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Raghavendra Vet and Pet Mart @ Neradmet X Road",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet boarding service, Pet groomer, Pet store, Pet trainer, Poultry store, Veterinary pharmacy",
+    "pincode": "507133",
+    "phone_number": "+91 77949 77989",
+    "website": "http://www.sriraghavendrapetmart.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "37-126/A, Neredmet X Rd, Sri colony, AS Rao Nagar, Secunderabad, Telangana 500056",
+    "area": "Sri colony, AS Rao Nagar",
+    "latitude": 17.481423799999998,
+    "longitude": 78.5365806,
+    "place_id": "ChIJPTfg_xubyzsR64Nx0RxLYPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTfg_xubyzsR64Nx0RxLYPE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:06"
+  },
+  {
+    "business_name": "Paws & Co.",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "507133",
+    "phone_number": "+91 73374 54406",
+    "website": "https://www.pawsandco.pet/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2-22-99/A, Allwyn Colony Rd, Allwyn Colony, Allwyn Colony Rd, beside Santosh Dhaba, opposite Aditya Pharmacy, Vijaya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vijaya Nagar Colony, Kukatpally",
+    "latitude": 17.4987753,
+    "longitude": 78.4117754,
+    "place_id": "ChIJu05plZWRyzsR_Igy_uS0OuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu05plZWRyzsR_Igy_uS0OuM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:06"
+  }
+]

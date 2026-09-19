@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aruna Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store, Rice wholesaler",
+    "pincode": "507122",
+    "phone_number": "+91 98664 05119",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Adinarayana complex, Venkatagiri Cross Road, beside ajantha medical shop, Khammam, Telangana 507003",
+    "area": "507122",
+    "latitude": 17.213863099999998,
+    "longitude": 80.1145918,
+    "place_id": "ChIJQcrTxntXNDoRAEMiycOM7As",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcrTxntXNDoRAEMiycOM7As",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:46"
+  },
+  {
+    "business_name": "Mahindra Tractors - Venkata Ramana Automobiles Pvt Ltd",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Farm equipment supplier, Tractor repair shop",
+    "pincode": "507122",
+    "phone_number": "+91 91007 75895",
+    "website": "https://www.mahindratractor.com/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "NH 15, Khammam - Yellandu Rd, nearby Upender Family Restaurant, Sudimalla, Yellandu, Telangana 507123",
+    "area": "507122",
+    "latitude": 17.5762633,
+    "longitude": 80.3402023,
+    "place_id": "ChIJf5gl7TRvNDoRShiWeRTS1do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5gl7TRvNDoRShiWeRTS1do",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekar's Car Spa & Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Car wash, Mechanic, RV repair shop",
+    "pincode": "507137",
+    "phone_number": "+91 95350 22161",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Bagalur Cross, 5 1st main 4th cross, IAF, Vinayaka Nagar, Bengaluru, Karnataka 560063",
+    "area": "Vinayaka Nagar, Kattigenahalli",
+    "latitude": 13.1194428,
+    "longitude": 77.6136867,
+    "place_id": "ChIJ5_G_F-8ZrjsRToZvWPR3F98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_G_F-8ZrjsRToZvWPR3F98",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:35:17"
+  },
+  {
+    "business_name": "TOP GEAR car mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "507137",
+    "phone_number": "+91 96038 07461",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Reddipally, Telangana 501504",
+    "area": "507137",
+    "latitude": 17.373416799999998,
+    "longitude": 78.2444567,
+    "place_id": "ChIJD2EJ-PnryzsRDluuly7-Kfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2EJ-PnryzsRDluuly7-Kfw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:35:19"
+  }
+]

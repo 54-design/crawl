@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Spa & Home Massage Service",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "506316",
+    "phone_number": "+91 87891 88256",
+    "website": "http://blue.spa-center.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SN43, Swamy Shivanandapuram, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "area": "Swamy Shivanandapuram, Shivaji Nagar",
+    "latitude": 12.9861211,
+    "longitude": 77.6004765,
+    "place_id": "ChIJ56UAzf4XrjsRAkPbiogY7TM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56UAzf4XrjsRAkPbiogY7TM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:01:57"
+  },
+  {
+    "business_name": "Neha Outcall Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club, Beauty Parlour",
+    "pincode": "506316",
+    "phone_number": "+91 92636 50588",
+    "website": "http://nehaoutcall.spa-center.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No.111, near Lancelot Garden, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560006",
+    "area": "Abshot Layout, Vasanth Nagar",
+    "latitude": 12.999241999999999,
+    "longitude": 77.59983799999999,
+    "place_id": "ChIJW4N9awAXrjsRKa8cKvVg9E4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4N9awAXrjsRKa8cKvVg9E4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:01:57"
+  }
+]

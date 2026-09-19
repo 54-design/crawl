@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Piaggio Motors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "507157",
+    "phone_number": "N/A",
+    "website": "http://www.piaggio.co.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "65WJ+6VR, Tekulapalli, Khammam, Telangana 507002",
+    "area": "Tekulapalli",
+    "latitude": 17.245603499999998,
+    "longitude": 80.1821447,
+    "place_id": "ChIJuVQJWflZNDoRiNt2CDceOMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVQJWflZNDoRiNt2CDceOMQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:59"
+  },
+  {
+    "business_name": "SIVANAGA.SONALIKA.TRACTORS",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "507157",
+    "phone_number": "+91 96667 22004",
+    "website": "http://sonalika.com/",
+    "rating": 4.1,
+    "reviews_count": 38,
+    "address": "RGM4+7WF, Tadepalligudem - Nallajerla Rd, beside Reliance Bunk, Subbaraopet, Pedatadepalli, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Subbaraopet",
+    "latitude": 16.8331838,
+    "longitude": 81.5073068,
+    "place_id": "ChIJWzqWALq0NzoRWvjU5TgWaUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzqWALq0NzoRWvjU5TgWaUE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:43:00"
+  }
+]

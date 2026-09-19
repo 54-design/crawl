@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Buthala",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "506342",
+    "phone_number": "+91 99591 72129",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop No 32 Laxmipuram, Vegetable Market, Warangal, Telangana 506002",
+    "area": "Girmajipet",
+    "latitude": 17.9774377,
+    "longitude": 79.6061661,
+    "place_id": "ChIJ35NhT8xFMzoRW_W6wy7FHso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35NhT8xFMzoRW_W6wy7FHso",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:44"
+  },
+  {
+    "business_name": "SRI LAKSHMI NURSERY",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Wholesale plant nursery",
+    "all_categories": "Wholesale plant nursery",
+    "pincode": "506342",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@shrilakshminursery-b2s?si=5l_smAb_nB351ef4",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "beside Vasudeva hotel, Gudupad, Atmakur, Guduppad, Telangana 506342",
+    "area": "Gudupad",
+    "latitude": 18.069114199999998,
+    "longitude": 79.7082889,
+    "place_id": "ChIJmz0RaCtBMzoR2rv4wlXeGtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmz0RaCtBMzoR2rv4wlXeGtw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:44"
+  }
+]

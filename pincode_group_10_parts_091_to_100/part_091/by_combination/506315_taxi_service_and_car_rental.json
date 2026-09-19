@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kerala Cab Rental Cochin",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Travel agency",
+    "pincode": "506315",
+    "phone_number": "+91 75608 97400",
+    "website": "http://www.keralacabrental.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "13/173 Ground Floor , Maliyekal Building , Mattoor Cochin International Airport Junction , Mattor, Kalady, Kochi, Keralam 683574",
+    "area": "Mattoor",
+    "latitude": 10.1718464,
+    "longitude": 76.4272659,
+    "place_id": "ChIJD9TVjLMHCDsRSu8wF2uaAs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9TVjLMHCDsRSu8wF2uaAs8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:47"
+  },
+  {
+    "business_name": "Kamath Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Minibus taxi service, Tour agency, Tour operator",
+    "pincode": "506315",
+    "phone_number": "+91 95628 26662",
+    "website": "http://kamathcabs.com/",
+    "rating": 4.8,
+    "reviews_count": 1783,
+    "address": "PPRA No. 7, FACT Kalamassery Rd, North Kalamassery, Kochi, Keralam 683104",
+    "area": "North Kalamassery, Kalamassery",
+    "latitude": 10.063805,
+    "longitude": 76.3213954,
+    "place_id": "ChIJpWozv4EOCDsRmWDg8iL17EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpWozv4EOCDsRmWDg8iL17EU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:59:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anam Sleep Care",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "506365",
+    "phone_number": "+91 99127 68683",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raganna Darwaja, New Raipura, Kakatiya Colony, Hanamkonda, Telangana 506011",
+    "area": "Raganna Darwaja, New Raipura, Kakatiya Colony",
+    "latitude": 18.0048119,
+    "longitude": 79.5778344,
+    "place_id": "ChIJBVFBgoZFMzoRLTL8mcvVqFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVFBgoZFMzoRLTL8mcvVqFo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:55"
+  },
+  {
+    "business_name": "Curapod by Litemed",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical Equipment Manufacturer",
+    "pincode": "506365",
+    "phone_number": "+91 92400 31070",
+    "website": "https://litemed.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Plot No: 4/44, Survey No 519, IP Nadergul, Mandal, Hyderabad, Telangana 501510",
+    "area": "506365",
+    "latitude": 17.2498634,
+    "longitude": 78.5537059,
+    "place_id": "ChIJ6_YuUcGjyzsR8d2WqzJBru4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_YuUcGjyzsR8d2WqzJBru4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:40:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Biryanis",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant",
+    "pincode": "506368",
+    "phone_number": "+91 79757 63972",
+    "website": "https://www.zomato.com/bangalore/the-biryanis-electronic-city-bangalore",
+    "rating": 4.4,
+    "reviews_count": 254,
+    "address": "Gate 3, 13/4, near TECH MAHINDRA, Shanthipura, Phase II, Electronic City, Doddanagamangala Village, Bengaluru, Karnataka 560100",
+    "area": "Shanthipura, Phase II, Electronic City",
+    "latitude": 12.8498474,
+    "longitude": 77.680269,
+    "place_id": "ChIJQ8-AIGFtrjsRLNtuS3r4NsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8-AIGFtrjsRLNtuS3r4NsU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:46:10"
+  },
+  {
+    "business_name": "The Biryani Resto",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "506368",
+    "phone_number": "+91 98502 00650",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 154,
+    "address": "near MIMER hospital, beside Umang medical, Samson Nagar, Yashwant Nagar, Talegaon Dabhade R, Maharashtra 410507",
+    "area": "Samson Nagar, Yashwant Nagar",
+    "latitude": 18.7371786,
+    "longitude": 73.674975,
+    "place_id": "ChIJy91OBQGxwjsRN2thaQUW-M0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy91OBQGxwjsRN2thaQUW-M0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:46:10"
+  }
+]

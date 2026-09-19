@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Centre Regonda",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506348",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6QM8+F6G, Regonda, Telangana 506348",
+    "area": "506348",
+    "latitude": 18.233689599999998,
+    "longitude": 79.7655703,
+    "place_id": "ChIJheFRfwAVMzoR9s1xcHHKU6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJheFRfwAVMzoR9s1xcHHKU6A",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:30:00"
+  },
+  {
+    "business_name": "Sub centre Kaniparthy",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "506348",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7P37+CVQ, main road, Kanaparthy, Repaka, Telangana 506348",
+    "area": "506348",
+    "latitude": 18.2535752,
+    "longitude": 79.7147353,
+    "place_id": "ChIJbXUBGjo9MzoRqCEEBqynAXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXUBGjo9MzoRqCEEBqynAXA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:30:00"
+  }
+]

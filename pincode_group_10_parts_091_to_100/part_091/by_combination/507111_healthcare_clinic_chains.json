@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grace General Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507111",
+    "phone_number": "+91 83674 66466",
+    "website": "https://www.gracegeneralhospitals.com/",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "address": "Opposite HP petrol bunk , Wyra, road, Thanikella, Konijerla, Telangana 507305",
+    "area": "507111",
+    "latitude": 17.229439499999998,
+    "longitude": 80.2605116,
+    "place_id": "ChIJ3eo2dIVRNDoRG7jJGCFfiz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eo2dIVRNDoRG7jJGCFfiz0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:30"
+  },
+  {
+    "business_name": "Nikhila Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507111",
+    "phone_number": "+91 92469 00780",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 67,
+    "address": "Balaji Nagar, Khammam, Telangana 507001",
+    "area": "Balaji Nagar",
+    "latitude": 17.2520582,
+    "longitude": 80.14455219999999,
+    "place_id": "ChIJZ8Au58xZNDoRnJwmVjRzW-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8Au58xZNDoRnJwmVjRzW-4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:07:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitanya Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "506344",
+    "phone_number": "+91 89854 38269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, Padmapuram, Anantharam, Telangana 507117",
+    "area": "506344",
+    "latitude": 18.0424458,
+    "longitude": 80.5144025,
+    "place_id": "ChIJqZts4bDtMzoRG8VBFoZyLhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZts4bDtMzoRG8VBFoZyLhI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:25:03"
+  },
+  {
+    "business_name": "Shri Ramanjaneya Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "506344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3F3H+78M, Karakagudem, Anantharam, Telangana 507117",
+    "area": "506344",
+    "latitude": 18.0532155,
+    "longitude": 80.4783005,
+    "place_id": "ChIJCYUeT1LtMzoR_hray6wx014",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYUeT1LtMzoR_hray6wx014",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:25:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Srinivasa tiffins( pure veg)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "507116",
+    "phone_number": "+91 91771 73202",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Kothagudem - Manuguru Rd, Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9441503,
+    "longitude": 80.8142803,
+    "place_id": "ChIJQSp0QQBXMToRMpmQAOStino",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSp0QQBXMToRMpmQAOStino",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:38"
+  },
+  {
+    "business_name": "Laxmi Mounika Family Restaurant & lodge",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant",
+    "pincode": "507116",
+    "phone_number": "+91 99484 20136",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1590,
+    "address": "WRQ8+QHX, Burgampadu Eturnagaram Road, behind AndhraBank, Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9394921,
+    "longitude": 80.8164997,
+    "place_id": "ChIJaWaRcBtWMToRg30btNL6cSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWaRcBtWMToRg30btNL6cSU",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRN Silk House (Sri Ranganatha Silk House)",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler, Clothing store",
+    "pincode": "506368",
+    "phone_number": "+91 99807 38011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "28, 1st 'E' Main, Javgal Siddeshwara Nagar (JS Nagar), JS Nagar, Nandini Layout, Bengaluru, Karnataka 560096",
+    "area": "Javgal Siddeshwara Nagar (JS Nagar), JS Nagar, Nandini Layout",
+    "latitude": 13.009081799999999,
+    "longitude": 77.53533019999999,
+    "place_id": "ChIJF0LUUV09rjsRaJIgYp89N4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0LUUV09rjsRaJIgYp89N4M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:46:16"
+  },
+  {
+    "business_name": "Sagar Silks",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing store",
+    "pincode": "506368",
+    "phone_number": "+91 91410 50000",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 25,
+    "address": "Market Road, Bhavathi, Bunder, Mangaluru, Karnataka 575001",
+    "area": "Bhavathi, Bunder",
+    "latitude": 12.8668908,
+    "longitude": 74.8399523,
+    "place_id": "ChIJrc8Ub01aozsRLIxCdTLis4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrc8Ub01aozsRLIxCdTLis4c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:46:17"
+  }
+]

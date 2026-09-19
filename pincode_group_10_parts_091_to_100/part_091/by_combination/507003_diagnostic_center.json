@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhruva Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "507003",
+    "phone_number": "+91 90590 03006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-86, Nayudupet, Edulapuram Rural, Khammam, Telangana 507003",
+    "area": "Nayudupet",
+    "latitude": 17.2517359,
+    "longitude": 80.1217351,
+    "place_id": "ChIJPWGPyM5ZNDoRYNsqRTgVbvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWGPyM5ZNDoRYNsqRTgVbvc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:46"
+  },
+  {
+    "business_name": "Sunitha first aid",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "507003",
+    "phone_number": "+91 76618 85462",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "opp. Praveena fertility center, Mamillagudaem, Khammam, Telangana 507001",
+    "area": "Mamillagudaem",
+    "latitude": 17.2532749,
+    "longitude": 80.139766,
+    "place_id": "ChIJUzhEep5ZNDoRywWjmn_fBEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzhEep5ZNDoRywWjmn_fBEg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:01:48"
+  }
+]

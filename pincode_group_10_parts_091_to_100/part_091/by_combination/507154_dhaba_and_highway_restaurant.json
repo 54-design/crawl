@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manpasand Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "507154",
+    "phone_number": "+91 99910 04478",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "NH-19, Dholagarh, Haryana 121102",
+    "area": "507154",
+    "latitude": 28.113766599999998,
+    "longitude": 77.3320777,
+    "place_id": "ChIJOfXYhR3TDDkRZ-ichYJdn3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfXYhR3TDDkRZ-ichYJdn3c",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:37"
+  },
+  {
+    "business_name": "Krishna Dhaba (Malai da Dhaba)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "507154",
+    "phone_number": "+91 98873 79465",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "PVM9+9M8, Rd, Rajas than Tonk Road Beelwa Sitapur Manpur Nagalya, Jaipur, Rajasthan 302022",
+    "area": "Beelwa, Sukhdeopura Nohara",
+    "latitude": 26.733424199999998,
+    "longitude": 75.8691978,
+    "place_id": "ChIJg0woHzHPbTkRiZm52D5urx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0woHzHPbTkRiZm52D5urx0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:40:40"
+  }
+]

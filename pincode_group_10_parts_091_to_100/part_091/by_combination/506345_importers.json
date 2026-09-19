@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivasa Fertilizers and pesticides",
+    "search_category": "Importers",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "506345",
+    "phone_number": "+91 99637 26610",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-193, Ramanujapur, venkatapur, Telangana 506345",
+    "area": "Ramanujapur",
+    "latitude": 18.282519699999998,
+    "longitude": 79.91852349999999,
+    "place_id": "ChIJmf2qNZkRMzoRUOMgZwp4Ntw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmf2qNZkRMzoRUOMgZwp4Ntw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:26:55"
+  },
+  {
+    "business_name": "Sai Sree Bharatgas office",
+    "search_category": "Importers",
+    "primary_category": "Gas Agency",
+    "all_categories": "Gas Agency",
+    "pincode": "506345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Mulug, Ghanpur, Telangana 506345",
+    "area": "Mulug",
+    "latitude": 18.3049747,
+    "longitude": 79.8803835,
+    "place_id": "ChIJl9tyIQARMzoRwEeQyNRw9PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9tyIQARMzoRwEeQyNRw9PA",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:26:55"
+  }
+]

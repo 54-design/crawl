@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAHASRA MULTI SPECIALTY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Neurologist",
+    "all_categories": "Neurologist",
+    "pincode": "507133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 38,
+    "address": "NST Rd, Balaji Nagar, Khammam, Telangana 507001",
+    "area": "Balaji Nagar",
+    "latitude": 17.252492699999998,
+    "longitude": 80.14423839999999,
+    "place_id": "ChIJG0dqFlJZNDoRaXoFgNN7Jek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0dqFlJZNDoRaXoFgNN7Jek",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:25"
+  },
+  {
+    "business_name": "Medha Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507133",
+    "phone_number": "+91 88863 60088",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "742V+HH9, Balaji Nagar, Khammam, Telangana 507001",
+    "area": "Balaji Nagar",
+    "latitude": 17.2515495,
+    "longitude": 80.14405409999999,
+    "place_id": "ChIJewbVVoNZNDoR4Q8j2tON_Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewbVVoNZNDoR4Q8j2tON_Zc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:31:28"
+  }
+]

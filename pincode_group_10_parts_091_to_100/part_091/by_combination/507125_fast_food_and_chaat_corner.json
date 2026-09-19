@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Palace",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "507125",
+    "phone_number": "+91 95666 29892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "POTHYS, 81, Madras Thiruvallur High Rd, TVS Industries, Padi, Chennai, Tamil Nadu 600050",
+    "area": "TVS Industries, Padi",
+    "latitude": 13.1012842,
+    "longitude": 80.1890789,
+    "place_id": "ChIJG2XsllxlUjoRcn7QMv0T_ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2XsllxlUjoRcn7QMv0T_ak",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:27:31"
+  },
+  {
+    "business_name": "Zesty Food Club",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "507125",
+    "phone_number": "+91 86528 68184",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 179,
+    "address": "Shop No. 2, Sai Vihar Apartment Ambika Mata Road, near Shirodkar Hospital, Gotheghar, Maharashtra 421601",
+    "area": "507125",
+    "latitude": 19.4567414,
+    "longitude": 73.3286261,
+    "place_id": "ChIJwW8hq_-D5zsRpMVze_42jUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwW8hq_-D5zsRpMVze_42jUs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:27:31"
+  }
+]

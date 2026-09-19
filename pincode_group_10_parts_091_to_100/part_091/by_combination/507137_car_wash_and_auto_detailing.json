@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CARRO CARE SERVICES",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Paint store",
+    "pincode": "507137",
+    "phone_number": "+91 90005 18881",
+    "website": "http://carrocare.in/",
+    "rating": 4.5,
+    "reviews_count": 136,
+    "address": "8-2-616/1/B & 8, 2-616, Rd Number 11, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Mithila Nagar, Banjara Hills",
+    "latitude": 17.413341799999998,
+    "longitude": 78.44554389999999,
+    "place_id": "ChIJHxDrlUCXyzsRjMA36r143PE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxDrlUCXyzsRjMA36r143PE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:35:20"
+  },
+  {
+    "business_name": "Deccan Motors",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "507137",
+    "phone_number": "+91 97030 61212",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 576,
+    "address": "CCWR+WXQ Deccan Motors, BK Guda, Sanjeeva Reddy Nagar, Hyderabad, Telangana 500038",
+    "area": "BK Guda, Sanjeeva Reddy Nagar",
+    "latitude": 17.443930299999998,
+    "longitude": 78.4462854,
+    "place_id": "ChIJVVVVhcOQyzsRmbsmh_-MHEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVhcOQyzsRmbsmh_-MHEY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:35:20"
+  }
+]

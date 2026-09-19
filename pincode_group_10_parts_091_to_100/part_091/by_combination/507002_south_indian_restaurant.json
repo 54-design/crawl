@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Tara",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507002",
+    "phone_number": "+91 97018 55989",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 132,
+    "address": "H.NO-11-10-268/4, beside new bus stand, above Pista house, NSP Quarters, Khammam, Telangana 507002",
+    "area": "NSP Quarters",
+    "latitude": 17.262029899999998,
+    "longitude": 80.14980159999999,
+    "place_id": "ChIJvzM5MwBZNDoRlm2jtfMkZUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzM5MwBZNDoRlm2jtfMkZUc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:35"
+  },
+  {
+    "business_name": "The London Shakes",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "507002",
+    "phone_number": "+91 874297355",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 188,
+    "address": "7546+RWR, Khammam Bypass Rd, Bank Colony, Khammam, Telangana 507002",
+    "area": "Bank Colony",
+    "latitude": 17.2571217,
+    "longitude": 80.1622783,
+    "place_id": "ChIJ45_FfNpZNDoRcML-g8ARuaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45_FfNpZNDoRcML-g8ARuaQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:35"
+  }
+]

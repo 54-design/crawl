@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R K Cool Point",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "507002",
+    "phone_number": "+91 99661 25144",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 1967,
+    "address": "10-4-7711/91, x road, Owaisi Pura, Masab Tank, Hyderabad, Telangana 500028",
+    "area": "Owaisi Pura, Masab Tank",
+    "latitude": 17.402595599999998,
+    "longitude": 78.44640509999999,
+    "place_id": "ChIJf5_f-D2XyzsRBmdDZdkhk_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5_f-D2XyzsRBmdDZdkhk_s",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:31"
+  },
+  {
+    "business_name": "Sri Ragava Juice Point",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "507002",
+    "phone_number": "+91 79893 20924",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "HJ38+WGQ, M G Rd, Coolie Lane, Bhadradri, Kothagudem, Telangana 507101",
+    "area": "Coolie Lane, Bhadradri",
+    "latitude": 17.5548358,
+    "longitude": 80.616372,
+    "place_id": "ChIJlzNRKboQNDoRAAAAcMa3bHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzNRKboQNDoRAAAAcMa3bHM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:59:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srija hospital & Diagnostic center",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gandhi Nagar, Ramnagar, Palwancha, Telangana 507115",
+    "area": "Gandhi Nagar, Ramnagar",
+    "latitude": 17.598776,
+    "longitude": 80.706402,
+    "place_id": "ChIJI7Z_YHQbNDoRwxHJhScsMmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7Z_YHQbNDoRwxHJhScsMmM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:08"
+  },
+  {
+    "business_name": "Sri Balaji labs and consultations",
+    "search_category": "ENT Clinic",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "507115",
+    "phone_number": "+91 79976 69926",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "opp:krishnaveni school, Masjid Rd, doctors circle, KTPS, Palwancha, Telangana 507115",
+    "area": "doctors circle, KTPS",
+    "latitude": 17.6004284,
+    "longitude": 80.7013099,
+    "place_id": "ChIJdxjbGHMbNDoR3X-3f35zGVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxjbGHMbNDoR3X-3f35zGVQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:09"
+  }
+]

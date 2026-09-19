@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri venkateswara Hair dressers",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "507118",
+    "phone_number": "+91 97044 82047",
+    "website": "http://www.svhd.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NMDC Rd, NMDC Industry, Nmdc, Palwancha, Old Paloncha, Telangana 507154",
+    "area": "NMDC Industry, Nmdc",
+    "latitude": 17.5865378,
+    "longitude": 80.6699309,
+    "place_id": "ChIJg_AD4rMbNDoRuFnWvwwy07g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_AD4rMbNDoRuFnWvwwy07g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:07"
+  },
+  {
+    "business_name": "Royal Beauty Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "507118",
+    "phone_number": "+91 83091 76705",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "D. 214, Nala area, Rudrampur Nalarea, Rudrampur, Kothagudem, Telangana 507119",
+    "area": "Rudrampur Nalarea, Rudrampur",
+    "latitude": 17.4792543,
+    "longitude": 80.6507268,
+    "place_id": "ChIJtXY3LAAZNDoRVTouhbPQRsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXY3LAAZNDoRVTouhbPQRsk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:17:08"
+  }
+]

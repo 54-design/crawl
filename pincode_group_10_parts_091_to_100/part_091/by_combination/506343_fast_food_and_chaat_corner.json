@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amritsari Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Indian restaurant, Restaurant",
+    "pincode": "506343",
+    "phone_number": "+91 22 2422 0066",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "shop no.4,Nutan JAI bahart bldg, Prabhadevi,behind Siddhivinayak temple,opp.silver apt., dadar, Mumbai, Maharashtra 400028",
+    "area": "Prabhadevi",
+    "latitude": 19.015294,
+    "longitude": 72.8321717,
+    "place_id": "ChIJkXZzDcHO5zsRCkNO8nWVJeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXZzDcHO5zsRCkNO8nWVJeM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:48"
+  },
+  {
+    "business_name": "MUMBAI FAST FOOD CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "506343",
+    "phone_number": "+91 70453 23664",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13 DR ANANDRAO NAIR MARG NACJEEVAN SOCIETY DALAL ESTATE, NAVJEENAN SOCIETY, Kamathipura, Mumbai, Maharashtra 400008",
+    "area": "NAVJEENAN SOCIETY, Kamathipura",
+    "latitude": 18.966162699999998,
+    "longitude": 72.8192979,
+    "place_id": "ChIJY7MJE8fP5zsRiHRzclxZ3as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7MJE8fP5zsRiHRzclxZ3as",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:21:48"
+  }
+]

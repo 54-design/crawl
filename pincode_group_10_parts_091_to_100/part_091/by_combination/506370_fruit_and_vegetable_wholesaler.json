@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarogya Mart",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "506370",
+    "phone_number": "+91 72073 97767",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sai puja varadarajan enclave, Kaloji Street, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "area": "Nakkala Gutta",
+    "latitude": 18.0003621,
+    "longitude": 79.5514986,
+    "place_id": "ChIJATWweeJPMzoRy4Hl4UhJeHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATWweeJPMzoRy4Hl4UhJeHY",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:48"
+  },
+  {
+    "business_name": "Fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "506370",
+    "phone_number": "+91 73963 93420",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9, Excise Colony, Warangal, Hanamkonda, Telangana 506001",
+    "area": "Excise Colony",
+    "latitude": 17.9972611,
+    "longitude": 79.5394194,
+    "place_id": "ChIJh0N4JP5PMzoRlgN_bLVJu6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0N4JP5PMzoRlgN_bLVJu6k",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:49"
+  }
+]

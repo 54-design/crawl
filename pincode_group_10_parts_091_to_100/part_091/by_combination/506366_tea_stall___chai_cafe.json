@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Telangana Bellamy chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506366",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 15, Rural, Parkal, Telangana 506164",
+    "area": "506366",
+    "latitude": 18.19838,
+    "longitude": 79.6980057,
+    "place_id": "ChIJ9bB0GgA_MzoR2w01D-pyuxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bB0GgA_MzoR2w01D-pyuxQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:42:19"
+  },
+  {
+    "business_name": "Tea Time",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "506366",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "VHRX+V9V, Arakere Gate, Panduranga Nagar, Bengaluru, Karnataka 560076",
+    "area": "Arakere Gate, Panduranga Nagar",
+    "latitude": 12.8922321,
+    "longitude": 77.5984118,
+    "place_id": "ChIJWyBi-1wVrjsRM9bxRhtlbAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyBi-1wVrjsRM9bxRhtlbAg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:42:21"
+  }
+]

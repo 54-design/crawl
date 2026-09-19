@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAKESH MUTTONSHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "506356",
+    "phone_number": "+91 99852 27150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jammikunta, Telangana 505122",
+    "area": "506356",
+    "latitude": 18.2908212,
+    "longitude": 79.4759679,
+    "place_id": "ChIJfWCLlXIxMzoRCcyFcQyWwQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWCLlXIxMzoRCcyFcQyWwQI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:29"
+  },
+  {
+    "business_name": "Reddy's naatu kolla farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Chicken shop",
+    "pincode": "506356",
+    "phone_number": "+91 98488 05616",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bogampadu, Ellanthakunta, Telangana 505122",
+    "area": "Bogampadu",
+    "latitude": 18.2963117,
+    "longitude": 79.55308219999999,
+    "place_id": "ChIJO3UiIwAxMzoRuQlFny20N4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3UiIwAxMzoRuQlFny20N4M",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:38:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Book My DSLR (Camera Rental in Bangalore)",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency, Camera repair shop, Camera store, Photographer",
+    "pincode": "506329",
+    "phone_number": "+91 99721 22462",
+    "website": "http://www.bookmydslr.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, No- 212/1, 33/3/3, Hennur Main Road, opposite to SBI, above Muthooth finance gold Loan, HBR Layout 4th Block, Post, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HBR Layout 4th Block, Post, Kalyan Nagar",
+    "latitude": 13.0311338,
+    "longitude": 77.6357204,
+    "place_id": "ChIJqzRa3-EWrjsREE1bdBtM1Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzRa3-EWrjsREE1bdBtM1Ng",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:11:26"
+  },
+  {
+    "business_name": "The Drone Agency",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service, Service establishment",
+    "pincode": "506329",
+    "phone_number": "N/A",
+    "website": "https://thedrone.agency/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Drone Agency, 506329, India",
+    "area": "506329",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ5ZUqVCu-CyIR41JknOiTIIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZUqVCu-CyIR41JknOiTIIc",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:11:26"
+  }
+]

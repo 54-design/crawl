@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kantemsairam",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507140",
+    "phone_number": "+91 95537 84321",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "WVHW+PQV, Parnasala, Gogubaka Z, Telangana 507137",
+    "area": "Parnasala",
+    "latitude": 17.9293607,
+    "longitude": 80.8969219,
+    "place_id": "ChIJ33-gnqpWMToRKoOKITuN7X0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33-gnqpWMToRKoOKITuN7X0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:39:42"
+  },
+  {
+    "business_name": "హోటల్ బాస్కర్",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507140",
+    "phone_number": "+91 98666 32569",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "3RFG+XW9, Cherla (Z), Telangana 507133",
+    "area": "507140",
+    "latitude": 18.0749073,
+    "longitude": 80.8273621,
+    "place_id": "ChIJ3S9ELoxYMToRlyeZqYoZBM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3S9ELoxYMToRlyeZqYoZBM4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:39:45"
+  }
+]

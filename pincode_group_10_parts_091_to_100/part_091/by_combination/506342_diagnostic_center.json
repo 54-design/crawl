@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Medical Stores",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "506342",
+    "phone_number": "+91 99086 61546",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "3J3R+W4H Atmakur Mandal, Damera, Telangana 506006",
+    "area": "506342",
+    "latitude": 18.054814,
+    "longitude": 79.6403491,
+    "place_id": "ChIJXZIuLaZGMzoRRCCX2ZddFU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZIuLaZGMzoRRCCX2ZddFU4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:12"
+  },
+  {
+    "business_name": "APOLLO DIAGNOSTICS WARANGAL",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "506342",
+    "phone_number": "+91 98484 14109",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11-23, HNO-11-23-2339 , SRINIVASA COLONY ,DESHAIPET ROAD, WARANGAL WHNO, 2339, Telangana 506006",
+    "area": "Doctors Colony",
+    "latitude": 17.9930616,
+    "longitude": 79.6092254,
+    "place_id": "ChIJAc7QF89FMzoRn5pcaVrk17g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAc7QF89FMzoRn5pcaVrk17g",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:20:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507115",
+    "phone_number": "+91 75698 02928",
+    "website": "https://skhkhammam.com/",
+    "rating": 3.8,
+    "reviews_count": 112,
+    "address": "Boppana Plaza, NST Rd, near kanakadurga temple, Lenin Nagar, Khammam, Telangana 507001",
+    "area": "Lenin Nagar",
+    "latitude": 17.2535429,
+    "longitude": 80.14642099999999,
+    "place_id": "ChIJY3kN6pZZNDoRYufxUQSMb6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3kN6pZZNDoRYufxUQSMb6w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:11"
+  },
+  {
+    "business_name": "Star home care services",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "507115",
+    "phone_number": "+91 83092 70991",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vijaynagar Colony 2, Raparthi Nagar, Bank Colony, Khammam, Telangana 507002",
+    "area": "Vijaynagar Colony 2, Raparthi Nagar, Bank Colony",
+    "latitude": 17.2455453,
+    "longitude": 80.14136069999999,
+    "place_id": "ChIJ76zPFwBZNDoR9xb0bels4o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76zPFwBZNDoR9xb0bels4o0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:11:14"
+  }
+]

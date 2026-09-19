@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mutton Market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "507116",
+    "phone_number": "+91 94403 22721",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Pilot Colony, Manuguru (PT), Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9466903,
+    "longitude": 80.8148575,
+    "place_id": "ChIJ38fvOh9WMToRD9vRQ7hr0D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38fvOh9WMToRD9vRQ7hr0D0",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:31"
+  },
+  {
+    "business_name": "Durga poultry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "507116",
+    "phone_number": "+91 94414 20566",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Durga Poultry, Pilot Colony, Bayyaram, Manuguru (PT), Telangana 507117",
+    "area": "Pilot Colony",
+    "latitude": 17.9469365,
+    "longitude": 80.8151,
+    "place_id": "ChIJ3ynk-E5XMToRqJRRX0ONA_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ynk-E5XMToRqJRRX0ONA_U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:12:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Venus International",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Hotel Venus Rd, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2490087,
+    "longitude": 80.1416413,
+    "place_id": "ChIJo2EY-EJZNDoRRcPKdBscY_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2EY-EJZNDoRRcPKdBscY_w",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:28"
+  },
+  {
+    "business_name": "Hotel Kaveri",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "507117",
+    "phone_number": "+91 87422 38565",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "no 11, 2-29, Wyra Rd, Balaji Nagar, Khammam, Telangana 507001",
+    "area": "Balaji Nagar",
+    "latitude": 17.2510256,
+    "longitude": 80.14423529999999,
+    "place_id": "ChIJea-J2sxZNDoRZsj0opz6DL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJea-J2sxZNDoRZsj0opz6DL4",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:28"
+  }
+]

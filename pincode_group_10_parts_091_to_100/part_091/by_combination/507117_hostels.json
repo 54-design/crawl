@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BC Boys Hostel Pinapaka",
+    "search_category": "Hostels",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "507117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2MHW+25Q, Pinapaka, Telangana 507117",
+    "area": "507117",
+    "latitude": 18.0275511,
+    "longitude": 80.6955198,
+    "place_id": "ChIJL4fmIwDlMzoRyuuu1Mi0jRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4fmIwDlMzoRyuuu1Mi0jRw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:26"
+  },
+  {
+    "business_name": "Manikanta boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "507117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NST Rd, Balaji Nagar, Khammam, Telangana 507001",
+    "area": "Balaji Nagar",
+    "latitude": 17.2533994,
+    "longitude": 80.14641999999999,
+    "place_id": "ChIJkVVUNcFZNDoR5abPZ3201bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVVUNcFZNDoR5abPZ3201bw",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:26"
+  }
+]

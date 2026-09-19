@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "chaturvedh books and stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "507117",
+    "phone_number": "+91 70365 71990",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashok Nagar, Manuguru (PT), Telangana 507117",
+    "area": "Ashok Nagar",
+    "latitude": 17.9363313,
+    "longitude": 80.81674249999999,
+    "place_id": "ChIJL60xjoRXMToRWqMvRkUGDWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL60xjoRXMToRWqMvRkUGDWo",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:34"
+  },
+  {
+    "business_name": "Janapriya Fancy & Stationery Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "507117",
+    "phone_number": "+91 98669 86614",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2PVJ+3F6, Tadvai - Bayyaram Rd, Bayyaram, Telangana 507117",
+    "area": "507117",
+    "latitude": 18.0426522,
+    "longitude": 80.73113029999999,
+    "place_id": "ChIJqwM5R2bjMzoRKpG5eF4pY4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwM5R2bjMzoRKpG5eF4pY4U",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:15:35"
+  }
+]

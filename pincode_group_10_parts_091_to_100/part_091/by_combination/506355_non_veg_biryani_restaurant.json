@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Bawarchi Dhum Chicken Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "506355",
+    "phone_number": "+91 90004 49987",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "# Opp; Gramapanchayath, Hyderabad Road, Kukunoorpally, Hyderabad, Telangana 502301",
+    "area": "506355",
+    "latitude": 17.889819499999998,
+    "longitude": 78.7966567,
+    "place_id": "ChIJC5CYMHGFzDsR-ryOYuhL2w8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5CYMHGFzDsR-ryOYuhL2w8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:36:45"
+  },
+  {
+    "business_name": "Sai Moksh Family Kitchen",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Biryani restaurant, Family restaurant, Hyderabadi restaurant, Restaurant",
+    "pincode": "506355",
+    "phone_number": "+91 99660 87377",
+    "website": "http://www.restoret.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "T.N.G, O building, Muncipal corporation office, NTR X- Road, Opp:, Nizamabad, Telangana 503001",
+    "area": "Opp:",
+    "latitude": 18.6766591,
+    "longitude": 78.1072299,
+    "place_id": "ChIJHbwVjwPbzTsRuWpYEQGuwu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbwVjwPbzTsRuWpYEQGuwu8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:36:45"
+  }
+]

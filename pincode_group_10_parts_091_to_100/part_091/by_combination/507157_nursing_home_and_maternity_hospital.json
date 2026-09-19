@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JE Nursing Home care services",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Service establishment",
+    "pincode": "507157",
+    "phone_number": "+91 99634 22072",
+    "website": "https://www.jenursinghomecareservices.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JE Nursing Home care services, 507157, India",
+    "area": "507157",
+    "latitude": 17.4360887,
+    "longitude": 78.4183788,
+    "place_id": "ChIJOQx1V_wTCEoRlfozp1ifPmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQx1V_wTCEoRlfozp1ifPmM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:51"
+  },
+  {
+    "business_name": "Susheela Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7/5, 507002, 11-5-7/5, Wyra Rd, VDO's Colony, Khammam, Telangana 507001",
+    "area": "VDO's Colony",
+    "latitude": 17.2493372,
+    "longitude": 80.1468247,
+    "place_id": "ChIJydKxjc1ZNDoRW9ntmDCl5mQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydKxjc1ZNDoRW9ntmDCl5mQ",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:42:51"
+  }
+]

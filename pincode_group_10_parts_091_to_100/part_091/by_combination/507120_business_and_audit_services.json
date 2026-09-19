@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavesh and Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "507120",
+    "phone_number": "+91 98489 83060",
+    "website": "http://www.prideca.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mathanagar, Kodad, Telangana 508206",
+    "area": "Mathanagar",
+    "latitude": 16.9998819,
+    "longitude": 79.95968529999999,
+    "place_id": "ChIJcdNMtP4CNToR8y7KrzazXzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdNMtP4CNToR8y7KrzazXzs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:20"
+  },
+  {
+    "business_name": "SRINIVAS SHARMA ACCOUNTANT",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "507120",
+    "phone_number": "+91 83096 88080",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Ravi Chettu Bazaar, Julurupad, Telangana 507166",
+    "area": "507120",
+    "latitude": 17.4054481,
+    "longitude": 80.5046571,
+    "place_id": "ChIJWfBLWkpHNDoRek-7xImDmzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfBLWkpHNDoRek-7xImDmzM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:21:23"
+  }
+]

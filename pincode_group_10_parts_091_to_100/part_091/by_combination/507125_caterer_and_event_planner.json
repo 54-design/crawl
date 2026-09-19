@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Events & Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "507125",
+    "phone_number": "+91 85300 06608",
+    "website": "https://poojacatering.com/",
+    "rating": 5,
+    "reviews_count": 67,
+    "address": "Pooja Events & Caterers, Girnar Rd, near Sej Tanki, Shreenath Nagar, Junagadh, Gujarat 362001",
+    "area": "Shreenath Nagar",
+    "latitude": 21.5191873,
+    "longitude": 70.467073,
+    "place_id": "ChIJC86VU-sBWDkRu96C8OfpBGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC86VU-sBWDkRu96C8OfpBGE",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:28:23"
+  },
+  {
+    "business_name": "Mahavir mandap service & caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "507125",
+    "phone_number": "+91 99256 46727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1, vada, near Vanzari chowk, Vanzari Chowk, new nagar, Talav Gate, Junagadh, Gujarat 362001",
+    "area": "Vanzari Chowk, new nagar, Talav Gate",
+    "latitude": 21.5171343,
+    "longitude": 70.461178,
+    "place_id": "ChIJtxBfFi8BWDkRDPRjlaXx6D8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxBfFi8BWDkRDPRjlaXx6D8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:28:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manyavar",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Designer Clothing Store, Clothing Accessories Store, Wedding store",
+    "pincode": "506252",
+    "phone_number": "+91 80 3700 2376",
+    "website": "https://www.manyavar.com/en-in/store-india/telangana/karim-nagar/manyavar-c-v-r-n-road-karim-nagar-VFPLLEKN",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No 3/1, 879 to 884, CVRN Rd, opposite Laxman Orthopedic Hospital, Christian Colony, Karimnagar, Telangana 505001",
+    "area": "Christian Colony",
+    "latitude": 18.4402828,
+    "longitude": 79.12742949999999,
+    "place_id": "ChIJ1WjzsCPZzDsRupF7rpxjlMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WjzsCPZzDsRupF7rpxjlMs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:46:17"
+  },
+  {
+    "business_name": "Bhaskar Tailors",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "506252",
+    "phone_number": "+91 91219 10237",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 5 Kanchanapalli, Raghunathpally, Jangaon, Telangana 506244",
+    "area": "506252",
+    "latitude": 17.744118099999998,
+    "longitude": 79.3109659,
+    "place_id": "ChIJAeAE-jJVyzsRnvxps9PxbfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeAE-jJVyzsRnvxps9PxbfM",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 09:46:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nvs enterprises",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Electronics Company",
+    "pincode": "507136",
+    "phone_number": "+91 93916 01312",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajupet, Telangana 506172",
+    "area": "507136",
+    "latitude": 18.165756299999998,
+    "longitude": 80.6224429,
+    "place_id": "ChIJvYXKIwzpMzoRVfVjUf4wKjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYXKIwzpMzoRVfVjUf4wKjk",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:45"
+  },
+  {
+    "business_name": "Srinivasa Triders",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "507136",
+    "phone_number": "+91 99086 84475",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road Cherukuru Main Road Cherukuru Jayashankar Bhupalpally, Telangana 507136",
+    "area": "Sriramnagar",
+    "latitude": 18.4855089,
+    "longitude": 80.449679,
+    "place_id": "ChIJG9Rsppy1MzoRgb7ZGNkMS6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9Rsppy1MzoRgb7ZGNkMS6Y",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 11:33:45"
+  }
+]

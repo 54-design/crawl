@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkataiah Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "506342",
+    "phone_number": "+91 99894 18365",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "47-2-101, Paidi Pally, Telangana 506006",
+    "area": "506342",
+    "latitude": 18.0148808,
+    "longitude": 79.6182844,
+    "place_id": "ChIJ1xt48lpEMzoRj3DZTKtEaTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xt48lpEMzoRj3DZTKtEaTs",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:43"
+  },
+  {
+    "business_name": "Bhargavi Kiranam & General Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "506342",
+    "phone_number": "+91 99498 08803",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "XHX5+46G, Kaloji Marg, Advocates Colony, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "area": "Advocates Colony, Nakkala Gutta",
+    "latitude": 17.9978052,
+    "longitude": 79.55807449999999,
+    "place_id": "ChIJl-Wm54BPMzoRpSf55yFNdQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-Wm54BPMzoRpSf55yFNdQ8",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:19:43"
+  }
+]

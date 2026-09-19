@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Post Office 506369, Enugallu",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "506369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "RPCW+84G, Enugal, Telangana 506369",
+    "area": "506369",
+    "latitude": 17.8208207,
+    "longitude": 79.7453342,
+    "place_id": "ChIJaV6oVwBhMzoRaIbmLiDysCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaV6oVwBhMzoRaIbmLiDysCg",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:24"
+  },
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "506369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chintanekkonda Road, near Post office, Parvathagiri, Chintha Nekkonda, Telangana 506369",
+    "area": "506369",
+    "latitude": 17.792590399999998,
+    "longitude": 79.7613521,
+    "place_id": "ChIJNYm9TABhMzoRQMUHvABr5PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYm9TABhMzoRQMUHvABr5PI",
+    "part_id": "part_091",
+    "crawled_at": "2026-09-19 10:49:24"
+  }
+]
