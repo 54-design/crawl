@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Medical & General Stores",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "518346",
+    "phone_number": "+91 98496 58505",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R23J+5WW, Beside Sree Prasannanjaneya Swami Temple, Sri Venkateshwara Nagar, Shareen Nagar, Kalluru, Andhra Pradesh 518003",
+    "area": "Sri Venkateshwara Nagar, Shareen Nagar",
+    "latitude": 15.802990399999999,
+    "longitude": 78.03234259999999,
+    "place_id": "ChIJOe5JFejdtTsRTAsdBTWR3-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOe5JFejdtTsRTAsdBTWR3-I",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:45:16"
+  },
+  {
+    "business_name": "Sri Ram Surgicals",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Drug store",
+    "pincode": "518346",
+    "phone_number": "+91 83922 77538",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 5 & 6, Vattam Buildings, Opp. Old KSRTC Bus Stand, Kolachalam Compound, Ballari, Karnataka 583101",
+    "area": "Satya Narayana Pet",
+    "latitude": 15.146067299999999,
+    "longitude": 76.9288907,
+    "place_id": "ChIJfatFCGYRtzsRRC92UgNQjZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfatFCGYRtzsRRC92UgNQjZQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:45:19"
+  }
+]

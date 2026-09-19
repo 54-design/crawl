@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahiman Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "518347",
+    "phone_number": "+91 95918 31262",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 7, Main, Road, Pattikonda, Andhra Pradesh 518380",
+    "area": "518347",
+    "latitude": 15.398919,
+    "longitude": 77.501058,
+    "place_id": "ChIJX84Drt_1tjsRXtoY2JhX1FE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX84Drt_1tjsRXtoY2JhX1FE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:47:05"
+  },
+  {
+    "business_name": "JK FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "518347",
+    "phone_number": "+91 80968 48280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GGQW+XJ4, Devanakonda, Andhra Pradesh 518465",
+    "area": "518347",
+    "latitude": 15.5398933,
+    "longitude": 77.5465692,
+    "place_id": "ChIJU3yIROxdtjsRxVjg8wYu4ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3yIROxdtjsRxVjg8wYu4ro",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:47:05"
+  }
+]

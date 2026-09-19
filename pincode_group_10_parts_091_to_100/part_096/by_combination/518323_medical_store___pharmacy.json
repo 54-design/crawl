@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavan Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "518323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "P9R2+RXV, Peddakadabur, Andhra Pradesh 518323",
+    "area": "518323",
+    "latitude": 15.7421224,
+    "longitude": 77.35240879999999,
+    "place_id": "ChIJ0eFUDwBJtjsR854OKlFiVZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0eFUDwBJtjsR854OKlFiVZE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:35:58"
+  },
+  {
+    "business_name": "K.S Medical & General Stores",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "518323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kotekal, Andhra Pradesh 518360",
+    "area": "518323",
+    "latitude": 15.686486599999999,
+    "longitude": 77.38929499999999,
+    "place_id": "ChIJmWgu0PpFtjsR3Hu3NYHXE0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWgu0PpFtjsR3Hu3NYHXE0w",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:35:58"
+  }
+]

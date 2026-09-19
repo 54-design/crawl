@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranganath Hearing Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "518346",
+    "phone_number": "+91 90522 73756",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SHOP NO. 49, 1A/55, opp. NARAYANA HIGH SCHOOL, beside FISH ANDHRA, LAXMINAGAR, Kurnool, Andhra Pradesh 518002",
+    "area": "LAXMINAGAR",
+    "latitude": 15.8130245,
+    "longitude": 78.0407096,
+    "place_id": "ChIJh0fmSyndtTsRi9um2sppA6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0fmSyndtTsRi9um2sppA6g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:45:24"
+  },
+  {
+    "business_name": "Pragathi ENT & Child Care",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital, Pediatrician",
+    "pincode": "518346",
+    "phone_number": "+91 83095 25440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Bank of india, near chandana brothers arch, Sanjeev Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Sanjeev Nagar",
+    "latitude": 15.4865082,
+    "longitude": 78.48158029999999,
+    "place_id": "ChIJK0cHpc-ttTsRJy2yTD2monc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0cHpc-ttTsRJy2yTD2monc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:45:24"
+  }
+]

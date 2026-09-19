@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hussain Banglore Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518346",
+    "phone_number": "+91 79953 28840",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "Old bustand, beside Reddy chicken center, Gadivemula, Andhra Pradesh 518508",
+    "area": "518346",
+    "latitude": 15.6790677,
+    "longitude": 78.4237072,
+    "place_id": "ChIJWQ2-zTS7tTsRKBueWufjGR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQ2-zTS7tTsRKBueWufjGR0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:45:01"
+  },
+  {
+    "business_name": "Bakes&Bites",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518346",
+    "phone_number": "+91 93473 13913",
+    "website": "https://www.instagram.com/_bakes_nd_bites?igsh=aXMxdnhmYXBoNDlh",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sri Lakshmi Varaha Nilayam, 44-141A, 2nd line, Prakash Nagar, Kurnool, Andhra Pradesh 518004",
+    "area": "Prakash Nagar",
+    "latitude": 15.8402443,
+    "longitude": 78.0399303,
+    "place_id": "ChIJ59v5ADjntTsRZZRtWwXWiIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59v5ADjntTsRZZRtWwXWiIU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:45:02"
+  }
+]

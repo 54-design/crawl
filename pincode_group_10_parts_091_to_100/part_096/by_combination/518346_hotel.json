@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddik Residential Ac and Non Ac Lodge",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "518346",
+    "phone_number": "+91 83932 00227",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vadatti, Kurugodu, Karnataka 583116",
+    "area": "Vadatti",
+    "latitude": 15.344328599999999,
+    "longitude": 76.8359998,
+    "place_id": "ChIJJR_4LQALtzsRP7ZjBtAl7Tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJR_4LQALtzsRP7ZjBtAl7Tk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:45:59"
+  },
+  {
+    "business_name": "BS taj hotel",
+    "search_category": "Hotel",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "518346",
+    "phone_number": "+91 77021 09590",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F2QV+37X, Holagunda, Andhra Pradesh 518346",
+    "area": "518346",
+    "latitude": 15.487800499999999,
+    "longitude": 77.0434193,
+    "place_id": "ChIJ-Vt8KXOptzsR1Ij-IuMtu-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Vt8KXOptzsR1Ij-IuMtu-I",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:46:01"
+  }
+]

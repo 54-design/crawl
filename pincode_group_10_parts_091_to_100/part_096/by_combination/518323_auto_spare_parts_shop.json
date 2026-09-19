@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kurnool Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "518323",
+    "phone_number": "+91 98853 04058",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Indira Nagar, Yemmiganur, Andhra Pradesh 518360",
+    "area": "Indira Nagar",
+    "latitude": 15.762714299999999,
+    "longitude": 77.4681816,
+    "place_id": "ChIJC_Q5TbVBtjsRjgaeGVryfEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_Q5TbVBtjsRjgaeGVryfEw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:36:13"
+  },
+  {
+    "business_name": "AP AUTOMOBILES ALL CAR PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "518323",
+    "phone_number": "+91 93924 90015",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bellary Road, Donimukkala, Guntakal, Andhra Pradesh 515803",
+    "area": "Donimukkala",
+    "latitude": 15.1526774,
+    "longitude": 77.3730176,
+    "place_id": "ChIJ5du_qMbltjsREgt4mmAZIYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5du_qMbltjsREgt4mmAZIYQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:36:13"
+  }
+]

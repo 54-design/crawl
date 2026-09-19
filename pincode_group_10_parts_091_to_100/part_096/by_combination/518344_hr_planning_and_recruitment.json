@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HRINPUTS Consulting Services Private Limited",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "518344",
+    "phone_number": "+91 90001 36767",
+    "website": "http://hrinputs.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ville Babuji Complex, 202, Chikoti Gardens, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Old Patigadda, Chikoti Gardens, Begumpet",
+    "latitude": 17.4437413,
+    "longitude": 78.463393,
+    "place_id": "ChIJSYRN0QSRyzsRIjQZpgDbfE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYRN0QSRyzsRIjQZpgDbfE0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:42:39"
+  },
+  {
+    "business_name": "HRM INFO",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "518344",
+    "phone_number": "N/A",
+    "website": "https://www.hrminfo.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HRM INFO, 518344, India",
+    "area": "518344",
+    "latitude": 20.8584951,
+    "longitude": 76.5545005,
+    "place_id": "ChIJG5Ww2fGyxWcRvSzKN3UtUUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5Ww2fGyxWcRvSzKN3UtUUc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:42:39"
+  }
+]

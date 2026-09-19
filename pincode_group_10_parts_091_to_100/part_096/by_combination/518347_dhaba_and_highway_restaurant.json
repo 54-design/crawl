@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOWMYA FAMILY RESTAURANT",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518347",
+    "phone_number": "+91 90002 99448",
+    "website": "https://play.google.com/store/apps/details?id=com.niotron.kkuruvavinod.Natykid",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "NEAR GUTTY HIGHWAY BYPASS, ROAD, Pattikonda, Andhra Pradesh 518380",
+    "area": "518347",
+    "latitude": 15.396395,
+    "longitude": 77.5008186,
+    "place_id": "ChIJjwJMcgn1tjsRhBahp1l1Xzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwJMcgn1tjsRhBahp1l1Xzk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:46:54"
+  },
+  {
+    "business_name": "Veerachary Dhaba and Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518347",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 422,
+    "address": "4HVX+P4J, Hyderabad - Vijayawada Hwy, Thallagadda, Suryapet, Telangana 508213",
+    "area": "Thallagadda",
+    "latitude": 17.144904,
+    "longitude": 79.598342,
+    "place_id": "ChIJB8BEAgDbNDoRz9P8gNGn1XU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8BEAgDbNDoRz9P8gNGn1XU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:46:56"
+  }
+]

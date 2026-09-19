@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Dart Express Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "518344",
+    "phone_number": "N/A",
+    "website": "https://www.bluedart.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M.K.School, Tmn Complex, H.No.15/428, Medari Street, opp. Y, Adoni, S.Kondapuram, Andhra Pradesh 518323",
+    "area": "518344",
+    "latitude": 15.6558937,
+    "longitude": 77.297978,
+    "place_id": "ChIJtUc-ACpPtjsRH1H3AnpMNRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUc-ACpPtjsRH1H3AnpMNRU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:42:37"
+  },
+  {
+    "business_name": "DTDC COURIER",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "518344",
+    "phone_number": "N/A",
+    "website": "http://dtdc.com/",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "BESIDE TRAFFIC POLICE STATION,RAJ CINE COMPLEX PARKING LINE SHOP NO,2, Adoni, Andhra Pradesh 518302",
+    "area": "Thirumala Nagar",
+    "latitude": 15.6293907,
+    "longitude": 77.2972377,
+    "place_id": "ChIJQ_INBX9PtjsRUV1Ml-MuGHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_INBX9PtjsRUV1Ml-MuGHw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:42:37"
+  }
+]

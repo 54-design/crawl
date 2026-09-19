@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annu Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "518344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q48R+G4M, Kowthalam, Andhra Pradesh 518344",
+    "area": "518344",
+    "latitude": 15.766340399999999,
+    "longitude": 77.14031039999999,
+    "place_id": "ChIJT5ivQQC1tzsRqsozpZ1cNN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5ivQQC1tzsRqsozpZ1cNN0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:41:34"
+  },
+  {
+    "business_name": "Thovi",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "518344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "P58W+VV7, Kowthalam, Thovi, Andhra Pradesh 518344",
+    "area": "518344",
+    "latitude": 15.717155,
+    "longitude": 77.1971799,
+    "place_id": "ChIJucvH9jJLtjsRRciVqnVI2sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucvH9jJLtjsRRciVqnVI2sc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:41:34"
+  }
+]

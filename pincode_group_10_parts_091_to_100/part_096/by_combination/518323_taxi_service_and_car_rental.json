@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy journey taxi service&travels, car rentals guntakal",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "518323",
+    "phone_number": "+91 99491 27729",
+    "website": "https://about.me/happyjourneytaxiserviceguntakal",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Busstop, Guntakal, Andhra Pradesh 515801",
+    "area": "Busstop",
+    "latitude": 15.161864399999999,
+    "longitude": 77.3807944,
+    "place_id": "ChIJbWxItmLvtjsRjeu1UQtYHfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWxItmLvtjsRjeu1UQtYHfI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:36:17"
+  },
+  {
+    "business_name": "Mokshitha cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "518323",
+    "phone_number": "+91 91820 28411",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mantralayam, Andhra Pradesh 518345",
+    "area": "518323",
+    "latitude": 15.9361503,
+    "longitude": 77.4245526,
+    "place_id": "ChIJ1VgwMJc7tjsRpp4jwXP-bns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VgwMJc7tjsRpp4jwXP-bns",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:36:18"
+  }
+]

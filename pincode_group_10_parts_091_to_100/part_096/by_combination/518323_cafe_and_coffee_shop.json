@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Coffee Depot",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee store",
+    "all_categories": "Coffee store",
+    "pincode": "518323",
+    "phone_number": "+91 97040 12334",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "R2MX+9WR, Ambedkar Circle, Old Bus Stand Rd, Kurnool, Andhra Pradesh 518001",
+    "area": "Marwari Street",
+    "latitude": 15.8334955,
+    "longitude": 78.049767,
+    "place_id": "ChIJnyM-RmTntTsRy1CXwio7NaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyM-RmTntTsRy1CXwio7NaM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:35:50"
+  },
+  {
+    "business_name": "Oye cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518323",
+    "phone_number": "+91 91006 07195",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "40/304-3, Bhagya Nagar, Bangar Pet, Dharma Pet, Kurnool, Andhra Pradesh 518004",
+    "area": "Bhagya Nagar, Bangar Pet, Dharma Pet",
+    "latitude": 15.828955599999999,
+    "longitude": 78.0359316,
+    "place_id": "ChIJrz4JLADntTsRX00i5iDafUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrz4JLADntTsRX00i5iDafUk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:35:50"
+  }
+]

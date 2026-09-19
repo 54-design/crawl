@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BookMyPlayer",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports school",
+    "all_categories": "Sports school, Service establishment",
+    "pincode": "518333",
+    "phone_number": "+91 98111 55939",
+    "website": "https://www.bookmyplayer.com/",
+    "rating": 4.6,
+    "reviews_count": 198,
+    "address": "BookMyPlayer, 518333, India",
+    "area": "518333",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJh2skio0uimsRyt1cLVPPh7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2skio0uimsRyt1cLVPPh7E",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:38:43"
+  },
+  {
+    "business_name": "The Game Field Tennis Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "518333",
+    "phone_number": "+91 83741 89406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "Apartments, The Game Field Tennis Academy, Sq.no 671, beside Janapriya Sitara Road, Shiridi Nagar, Yella Reddy Guda, Kapra, Hyderabad, Secunderabad, Telangana 500062",
+    "area": "Shiridi Nagar, Yella Reddy Guda, Kapra",
+    "latitude": 17.495715999999998,
+    "longitude": 78.561036,
+    "place_id": "ChIJEa2DQACbyzsRfbdTE6N6xbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa2DQACbyzsRfbdTE6N6xbc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:38:45"
+  }
+]

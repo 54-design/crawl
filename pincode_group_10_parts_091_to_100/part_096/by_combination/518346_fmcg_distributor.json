@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singam's Food Products",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "518346",
+    "phone_number": "+91 91825 15070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna Reddy Nagar, Abbas Nagar, Kallur, Kurnool, Kalluru, Andhra Pradesh 518002",
+    "area": "Krishna Reddy Nagar, Abbas Nagar, Kallur",
+    "latitude": 15.8046346,
+    "longitude": 78.03681879999999,
+    "place_id": "ChIJOeGwcxrdtTsRcnJUDGpzGKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeGwcxrdtTsRcnJUDGpzGKc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:44:58"
+  },
+  {
+    "business_name": "M.Venkateswara Reddy Commission Merchants",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse, Food products supplier",
+    "pincode": "518346",
+    "phone_number": "+91 94409 70627",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 15-A, Market Yard, Kurnool, Andhra Pradesh 518003",
+    "area": "Sita Rama Nagar",
+    "latitude": 15.8270694,
+    "longitude": 78.0288009,
+    "place_id": "ChIJPwShqFfntTsR0Hbv_EsmVJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwShqFfntTsR0Hbv_EsmVJU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:44:58"
+  }
+]

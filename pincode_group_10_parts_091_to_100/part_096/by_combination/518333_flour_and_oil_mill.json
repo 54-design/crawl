@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FLOUR MILL",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "518333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandra Nagar, Basheer Bagh, Hyderabad, Telangana 500029",
+    "area": "Chandra Nagar, Basheer Bagh",
+    "latitude": 17.4027115,
+    "longitude": 78.47860229999999,
+    "place_id": "ChIJJ0tISN6ZyzsRqnMXgige6Dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0tISN6ZyzsRqnMXgige6Dk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:39:06"
+  },
+  {
+    "business_name": "Veena Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "518333",
+    "phone_number": "+91 90528 71618",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "968F+66X, Hathi Belgal, Andhra Pradesh 518395",
+    "area": "518333",
+    "latitude": 15.365609999999998,
+    "longitude": 77.2231219,
+    "place_id": "ChIJ36mJn7T_tjsRLhxi2uYaRFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36mJn7T_tjsRLhxi2uYaRFE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:39:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIFA MEDICAL GENERAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "518323",
+    "phone_number": "+91 90520 40991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Sunkesula - Nagaladinne Rd, Nagaladinne, Andhra Pradesh 518343",
+    "area": "518323",
+    "latitude": 15.914680599999999,
+    "longitude": 77.5657147,
+    "place_id": "ChIJwfrDu4AXtjsRVh5ApVM25ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfrDu4AXtjsRVh5ApVM25ec",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:36:00"
+  },
+  {
+    "business_name": "Swathi Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmaceutical Products Wholesaler",
+    "pincode": "518323",
+    "phone_number": "+91 80199 71712",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "52/170, Ground Floor, Shop No.2, RCV Complex, Old Bus Stand, Andhra Pradesh 518001",
+    "area": "Marwari Street",
+    "latitude": 15.8335271,
+    "longitude": 78.0511393,
+    "place_id": "ChIJA_UO92TntTsRY_g1ur4uOk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_UO92TntTsRY_g1ur4uOk0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:36:01"
+  }
+]

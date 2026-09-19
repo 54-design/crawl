@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Colorful",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Craft store, Interior Decorator, Print shop",
+    "pincode": "518344",
+    "phone_number": "+91 99596 16867",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Near to Bangalore bakery ,Aspari road,Adoni 1153/5, Adoni, Andhra Pradesh 518301",
+    "area": "Indra Nagar",
+    "latitude": 15.6161672,
+    "longitude": 77.2907366,
+    "place_id": "ChIJG1MfIfNNtjsRu2wS1cHaxXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1MfIfNNtjsRu2wS1cHaxXw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:42:19"
+  },
+  {
+    "business_name": "vennela studio",
+    "search_category": "Gifting",
+    "primary_category": "Gift basket store",
+    "all_categories": "Gift basket store",
+    "pincode": "518344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Yemmiganur Cir, SKD Colony, Adoni, Andhra Pradesh 518301",
+    "area": "SKD Colony",
+    "latitude": 15.6235538,
+    "longitude": 77.2801058,
+    "place_id": "ChIJ04XlridNtjsR1wifAsbjAnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04XlridNtjsR1wifAsbjAnk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:42:19"
+  }
+]

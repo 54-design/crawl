@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Susaadhya Event Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Party planner, Wedding planner",
+    "pincode": "518345",
+    "phone_number": "+91 73867 77177",
+    "website": "https://susaadhyaevents.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "H No 203, Traffic Signal, above PR Grand Mens PG, opposite to Indra Nagar, Rajiv gandhi Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Rajiv gandhi Nagar, Gachibowli",
+    "latitude": 17.4410249,
+    "longitude": 78.3606219,
+    "place_id": "ChIJtfrUJfCTyzsRdVY_E0jezZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfrUJfCTyzsRdVY_E0jezZ4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:44:11"
+  },
+  {
+    "business_name": "Cloud9ine event management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "518345",
+    "phone_number": "+91 81293 41150",
+    "website": "https://cloud9ineevents.blogspot.com/?m=1",
+    "rating": 5,
+    "reviews_count": 405,
+    "address": "North thuravu, pudukad, Thrissur, Keralam 680301",
+    "area": "518345",
+    "latitude": 10.421601299999999,
+    "longitude": 76.2646209,
+    "place_id": "ChIJIb9N57zxpzsRBdJ0vmu0dlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIb9N57zxpzsRBdJ0vmu0dlM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:44:13"
+  }
+]
