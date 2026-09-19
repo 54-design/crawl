@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SnM Reddy Tax Consultancy Services",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "522235",
+    "phone_number": "+91 79813 38303",
+    "website": "http://snmreddytax.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-4-125, beside KFC, New Town, Mahbubnagar, Telangana 509001",
+    "area": "New Town",
+    "latitude": 16.7499716,
+    "longitude": 78.005078,
+    "place_id": "ChIJ8X0zeD4pyjsRfZWQEGARXRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8X0zeD4pyjsRfZWQEGARXRI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:36:03"
+  },
+  {
+    "business_name": "GST KALLUR MAIN BRANCH",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax collector's office",
+    "all_categories": "Tax collector's office",
+    "pincode": "522235",
+    "phone_number": "+91 95503 90303",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "shukuramtul manzil, Abbas Nagar, Kallur, Kalluru, Andhra Pradesh 518002",
+    "area": "Abbas Nagar, Kallur",
+    "latitude": 15.803645,
+    "longitude": 78.03472359999999,
+    "place_id": "ChIJkS8SxA7dtTsRfsqDnVX4FEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkS8SxA7dtTsRfsqDnVX4FEU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:36:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sv Saloon & spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522257",
+    "phone_number": "+91 99639 21465",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Chavali, vari street, Repalle, Andhra Pradesh 522265",
+    "area": "522257",
+    "latitude": 16.0174248,
+    "longitude": 80.82947469999999,
+    "place_id": "ChIJ0wuVyOL1SToRIxN4RjsApxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wuVyOL1SToRIxN4RjsApxM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:46:54"
+  },
+  {
+    "business_name": "Sai krishna",
+    "search_category": "Spa",
+    "primary_category": "Sauna",
+    "all_categories": "Sauna",
+    "pincode": "522257",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4VF2+CHX, Potharlanka, Andhra Pradesh 522257",
+    "area": "522257",
+    "latitude": 16.1239484,
+    "longitude": 80.85153989999999,
+    "place_id": "ChIJ8ZLgKfj3SToRiJGuC9zmiy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZLgKfj3SToRiJGuC9zmiy8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:46:54"
+  }
+]

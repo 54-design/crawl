@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "i World Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "522238",
+    "phone_number": "+91 474 279 9930",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 59,
+    "address": "Devaswom Buildings, Kollam, Keralam 691013",
+    "area": "Kaankathu Mukku",
+    "latitude": 8.8932877,
+    "longitude": 76.5739928,
+    "place_id": "ChIJoYF5l0n8BTsRz4UyxRCbVvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYF5l0n8BTsRz4UyxRCbVvA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:41"
+  },
+  {
+    "business_name": "Meeseva And Pan Center Mandadam",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "522238",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GG9G+687, Mandadam, Andhra Pradesh 522241",
+    "area": "Mandadam",
+    "latitude": 16.518039899999998,
+    "longitude": 80.5257834,
+    "place_id": "ChIJj0lYh6PtNToR-9ifhlcQ3xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0lYh6PtNToR-9ifhlcQ3xs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:42"
+  }
+]

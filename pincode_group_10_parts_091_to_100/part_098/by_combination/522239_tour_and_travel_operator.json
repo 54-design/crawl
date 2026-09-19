@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mahalaxmi Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "522239",
+    "phone_number": "+91 88845 45347",
+    "website": "https://www.smgbus.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shree Mahalaxmi Travels, 522239, India",
+    "area": "522239",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJgQ1jSeHadUQRpBOQexjDwqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQ1jSeHadUQRpBOQexjDwqY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:54"
+  },
+  {
+    "business_name": "SRI SHYAM BUS & CAR TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522239",
+    "phone_number": "+91 94401 44890",
+    "website": "http://business.google.com/website/sri-shyam-bus-car-travels",
+    "rating": 4.1,
+    "reviews_count": 114,
+    "address": "10-858/1, Khammam Bypass Rd, Raparthi Nagar, Khammam, Telangana 507002",
+    "area": "Raparthi Nagar",
+    "latitude": 17.263769399999997,
+    "longitude": 80.1473829,
+    "place_id": "ChIJ2-7iy7VZNDoR2YBzFdfvt2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-7iy7VZNDoR2YBzFdfvt2E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:56"
+  }
+]

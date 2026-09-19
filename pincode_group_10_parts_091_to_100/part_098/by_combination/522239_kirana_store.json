@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ramulu Kirana Stores",
+    "search_category": "Kirana Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522239",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CH9G+585, RATANALACHERUVU , SURYANA NAGAR , MANGALAGIRI MANDAL , GUNTUR DISTRICT , ANDHRA PRADESH PIN, CODDE, Andhra Pradesh 522302",
+    "area": "522239",
+    "latitude": 16.417893799999998,
+    "longitude": 80.57584589999999,
+    "place_id": "ChIJVTYWXDTxNToRugeHgkXx5nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTYWXDTxNToRugeHgkXx5nk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:15"
+  },
+  {
+    "business_name": "Vijaya Kumar Kirana",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522239",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mallikarjunpet, Guntur, Andhra Pradesh 522002",
+    "area": "Mallikarjunpet",
+    "latitude": 16.3098028,
+    "longitude": 80.4490666,
+    "place_id": "ChIJEbutg1F1SjoRll3R3OH_5Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbutg1F1SjoRll3R3OH_5Tw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:15"
+  }
+]

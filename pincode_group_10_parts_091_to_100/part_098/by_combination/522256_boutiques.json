@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NITHYA FASHIONS",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522256",
+    "phone_number": "+91 85007 20820",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.4, 31/2, Main Road, opposite Upandhra General Store, nearby Radham center, Bhattiprolu, Guntur, Andhra Pradesh 522256",
+    "area": "522256",
+    "latitude": 16.1030256,
+    "longitude": 80.7843714,
+    "place_id": "ChIJb3styjAdSjoRdZfuvRxdsQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3styjAdSjoRdZfuvRxdsQ8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:44:26"
+  },
+  {
+    "business_name": "Fabric Studio",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Designer Clothing Store, Saree Shop, Tailor",
+    "pincode": "522256",
+    "phone_number": "+91 72074 95538",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NMR Complex, 9-4-93, SVT Street, Chakali Veedhi, Sullurupeta, Andhra Pradesh 524121",
+    "area": "Chakali Veedhi",
+    "latitude": 13.6992356,
+    "longitude": 80.0154846,
+    "place_id": "ChIJ8XthBed1TToRQUUEgXREY7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XthBed1TToRQUUEgXREY7c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:44:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegetable Market",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "522257",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2RCP+QJ6, Station Rd, Repalle, Andhra Pradesh 522265",
+    "area": "522257",
+    "latitude": 16.021921799999998,
+    "longitude": 80.83651189999999,
+    "place_id": "ChIJo_umv7z1SToRVv5SSZHGI0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_umv7z1SToRVv5SSZHGI0g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:45:59"
+  },
+  {
+    "business_name": "ANJANEYA HOME FOODS AND VEGETABLES",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "522257",
+    "phone_number": "+91 95336 45325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Kollipara, Andhra Pradesh 522304",
+    "area": "522257",
+    "latitude": 16.287382,
+    "longitude": 80.74947999999999,
+    "place_id": "ChIJAX28hrkBSjoRb2BZREpb-Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAX28hrkBSjoRb2BZREpb-Jo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:45:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons Unlimited Nandyal",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "522235",
+    "phone_number": "+91 81251 45209",
+    "website": "https://www.balloonsunlimited.co.in/",
+    "rating": 4.7,
+    "reviews_count": 52,
+    "address": "beside Reliance Trends, Padmavathi Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Padmavathi Nagar",
+    "latitude": 15.482462199999999,
+    "longitude": 78.482407,
+    "place_id": "ChIJOZdKqTKttTsRjhZBSQevq8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZdKqTKttTsRjhZBSQevq8A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:35:42"
+  },
+  {
+    "business_name": "One Stop Party Store",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "522235",
+    "phone_number": "+91 95022 93098",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dharam Karan Rd, Swathi Avenue, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Swathi Avenue, Ameerpet",
+    "latitude": 17.4354986,
+    "longitude": 78.4501197,
+    "place_id": "ChIJrdjp20uRyzsRyk6m2zELAK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdjp20uRyzsRyk6m2zELAK8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:35:46"
+  }
+]

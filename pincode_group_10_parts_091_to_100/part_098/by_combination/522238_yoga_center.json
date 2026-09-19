@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANDARAKEE AAROGYAM",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Wellness center, Yoga instructor, Yoga Retreat Center",
+    "pincode": "522238",
+    "phone_number": "+91 96665 10666",
+    "website": "https://andarakeeaarogyam.com/",
+    "rating": 4.9,
+    "reviews_count": 341,
+    "address": "MIG-286, Road No. 4, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally",
+    "latitude": 17.4909794,
+    "longitude": 78.39700979999999,
+    "place_id": "ChIJg52qbaWRyzsRg-xTVSFRYoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg52qbaWRyzsRg-xTVSFRYoA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:40:52"
+  },
+  {
+    "business_name": "NITYA AROGYA YOGA ASHRAM",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "522238",
+    "phone_number": "+91 63095 27272",
+    "website": "https://www.nityaarogya.org/",
+    "rating": 5,
+    "reviews_count": 51,
+    "address": "opposite MALLA REDDY FUNCTION HALL, Peddakanjerla, Telangana 502319",
+    "area": "522238",
+    "latitude": 17.6067309,
+    "longitude": 78.2486291,
+    "place_id": "ChIJtc6mpZn1yzsRs6C1MmQTXYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtc6mpZn1yzsRs6C1MmQTXYw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:40:52"
+  }
+]

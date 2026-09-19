@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ak Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior Decorator",
+    "pincode": "522256",
+    "phone_number": "+91 98493 36644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Gullapalli AbhiRuchi Restaurant Be Side, Cherukupalli, Guntur, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.0501122,
+    "longitude": 80.68135699999999,
+    "place_id": "ChIJB_sopIcbSjoRiTpgWoFyrCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_sopIcbSjoRiTpgWoFyrCw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:44:55"
+  },
+  {
+    "business_name": "Dream Home Interior works",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "522256",
+    "phone_number": "+91 80749 66650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "SaiBaba Temple, Tenali, main road, near cherukupalli, Cherukupalli, Andhra Pradesh 522309",
+    "area": "Cherukupalli",
+    "latitude": 16.0512676,
+    "longitude": 80.6801378,
+    "place_id": "ChIJ-Xt3exAbSjoRhhIVTdVrnz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Xt3exAbSjoRhhIVTdVrnz8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:44:56"
+  }
+]

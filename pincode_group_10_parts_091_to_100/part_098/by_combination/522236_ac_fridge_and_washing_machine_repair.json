@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Appliance Service Center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Appliances customer service, Furnace repair service, Microwave oven repair service, Refrigerator repair service, Washer & dryer repair service, Wine cellar",
+    "pincode": "522236",
+    "phone_number": "N/A",
+    "website": "https://home-appliance-repair-san-diego.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11417 W Bernardo Ct Ste M, San Diego, CA 92127, United States",
+    "area": "Rancho Bernardo",
+    "latitude": 33.021285999999996,
+    "longitude": -117.08447199999999,
+    "place_id": "ChIJNTnp8lP324ARvC9cz3czEFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTnp8lP324ARvC9cz3czEFU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:37:23"
+  },
+  {
+    "business_name": "Vandana Home Appliances",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "522236",
+    "phone_number": "+91 96201 99997",
+    "website": "https://brand.site/vandannahomeappliances",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WV79+JH9, Airport Rd, opposite Koragajja Temple, Padavinangady, Mangaluru, Karnataka 575003",
+    "area": "Padavinangady",
+    "latitude": 12.9140403,
+    "longitude": 74.8689881,
+    "place_id": "ChIJL8ocu1xaozsRITIC-KVyuJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8ocu1xaozsRITIC-KVyuJc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:37:23"
+  }
+]

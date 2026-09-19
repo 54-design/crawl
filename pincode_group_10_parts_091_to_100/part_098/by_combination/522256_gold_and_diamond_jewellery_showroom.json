@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rama Krishna Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Jewelry repair service",
+    "pincode": "522256",
+    "phone_number": "+91 98661 14474",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main Road, near Shivalayam, Vellaturu, Andhra Pradesh 522257",
+    "area": "522256",
+    "latitude": 16.1158826,
+    "longitude": 80.8153689,
+    "place_id": "ChIJlwvGcHL3SToRCy3wUzSNkdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwvGcHL3SToRCy3wUzSNkdQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:44:20"
+  },
+  {
+    "business_name": "Vigneswara Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522256",
+    "phone_number": "+91 94905 73737",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Main Road, Kolluru, Andhra Pradesh 522324",
+    "area": "522256",
+    "latitude": 16.1829032,
+    "longitude": 80.7982554,
+    "place_id": "ChIJL-K2WuEDSjoRkFeRMyhNOzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-K2WuEDSjoRkFeRMyhNOzo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:44:20"
+  }
+]

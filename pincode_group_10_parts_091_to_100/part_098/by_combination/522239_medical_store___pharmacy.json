@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI VENKATESWARA MEDICAL AND FANCY STORES",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522239",
+    "phone_number": "+91 96186 22777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NEAR CENTER, Takkellapadu, Andhra Pradesh 522509",
+    "area": "522239",
+    "latitude": 16.3107762,
+    "longitude": 80.49203609999999,
+    "place_id": "ChIJTx0LLUYLSjoRxMk3Wpz6B30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTx0LLUYLSjoRxMk3Wpz6B30",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:37"
+  },
+  {
+    "business_name": "Realsun Medicals",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522239",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pedakakani, Andhra Pradesh 522509",
+    "area": "522239",
+    "latitude": 16.338097899999998,
+    "longitude": 80.4891445,
+    "place_id": "ChIJpQf_EHL1NToRo9K0hhEUfTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQf_EHL1NToRo9K0hhEUfTU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:38"
+  }
+]

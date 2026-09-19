@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Trading company",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "522237",
+    "phone_number": "+91 97990 47111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFF9+VCG, Thullur, Tulluru, Andhra Pradesh 522237",
+    "area": "Thullur",
+    "latitude": 16.5246828,
+    "longitude": 80.4685846,
+    "place_id": "ChIJdzI5PQDtNToRFHV4e1Xv3kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzI5PQDtNToRFHV4e1Xv3kQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:39:10"
+  },
+  {
+    "business_name": "Ambica Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "522237",
+    "phone_number": "+91 78423 51425",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, MainRoad, Thullur, Guntur, Tulluru, Andhra Pradesh 522237",
+    "area": "Thullur",
+    "latitude": 16.52833,
+    "longitude": 80.4697113,
+    "place_id": "ChIJR9iST4ftNToRysZvYX6muG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9iST4ftNToRysZvYX6muG4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:39:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "522238",
+    "phone_number": "+91 83174 33200",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Radha Krishna Layout 1st Stage, Banashankari 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560061",
+    "area": "Radha Krishna Layout 1st Stage, Banashankari 2nd Stage, Padmanabhanagar",
+    "latitude": 12.9134744,
+    "longitude": 77.5564261,
+    "place_id": "ChIJ52iGs9Y_rjsR2la9osIhar0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52iGs9Y_rjsR2la9osIhar0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:19"
+  },
+  {
+    "business_name": "Nail Art Sparkle - Nail Salon ( Home Services Available)",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon, Beauty Parlour",
+    "pincode": "522238",
+    "phone_number": "+91 83101 58051",
+    "website": "https://www.instagram.com/_nailartsparkle?igsh=OGppNGt4azNsMXdw",
+    "rating": 4.9,
+    "reviews_count": 264,
+    "address": "7th block , 5th cross, 20th Main Rd, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, Koramangala 8th Block, Koramangala",
+    "latitude": 12.9388569,
+    "longitude": 77.6190247,
+    "place_id": "ChIJXS6edcIVrjsRo22ldR7G4Uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXS6edcIVrjsRo22ldR7G4Uo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:19"
+  }
+]

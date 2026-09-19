@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eat N Treat",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522236",
+    "phone_number": "+91 81869 46385",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 61,
+    "address": "Srinagar 5th line, 4th Ln, opposite Donka road, Guntur, Andhra Pradesh 522002",
+    "area": "Old Pichikala Gunta, Postal Colony",
+    "latitude": 16.3083414,
+    "longitude": 80.4406515,
+    "place_id": "ChIJUblYqnF1SjoRL0Sf--Dh51M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUblYqnF1SjoRL0Sf--Dh51M",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:36:44"
+  },
+  {
+    "business_name": "Khaja Bhai Biryani 👉",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant",
+    "pincode": "522236",
+    "phone_number": "+91 88852 69991",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 396,
+    "address": "Old Bus Stand, Trunk Road, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522236",
+    "latitude": 16.4318019,
+    "longitude": 80.5662742,
+    "place_id": "ChIJUyMxITrxNToR8LAvwuMqPYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyMxITrxNToR8LAvwuMqPYY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:36:44"
+  }
+]

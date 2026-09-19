@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK GRAND ROOMS",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522238",
+    "phone_number": "+91 98497 24168",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 24,
+    "address": "Vaddeswaram, Kolanukonda, Andhra Pradesh 522302",
+    "area": "Vaddeswaram",
+    "latitude": 16.4483708,
+    "longitude": 80.60064679999999,
+    "place_id": "ChIJE35uGwHxNToRoRIlTYuyLgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE35uGwHxNToRoRIlTYuyLgE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:25"
+  },
+  {
+    "business_name": "Hotel Vihari Grand",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522238",
+    "phone_number": "+91 93471 66433",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 167,
+    "address": "Vijayawada - Guntur Hwy, Vaddeswaram, Kolanukonda, Andhra Pradesh 522502",
+    "area": "Vaddeswaram",
+    "latitude": 16.449071399999998,
+    "longitude": 80.5994437,
+    "place_id": "ChIJB_dztKQxtTsRvdwakoPYtFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_dztKQxtTsRvdwakoPYtFI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:25"
+  }
+]

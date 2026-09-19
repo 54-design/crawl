@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malabar Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Furniture accessories",
+    "pincode": "522238",
+    "phone_number": "+91 98804 01808",
+    "website": "https://malabar-furniture.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "395/1b, CK Rd, Channapattana, Karnataka 562160",
+    "area": "522238",
+    "latitude": 12.6573479,
+    "longitude": 77.2112425,
+    "place_id": "ChIJfdVRrDpTrjsR3mIiOVReJks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdVRrDpTrjsR3mIiOVReJks",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:16"
+  },
+  {
+    "business_name": "K B Furniture Mall",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Bedroom furniture store",
+    "all_categories": "Bedroom furniture store, Furniture Manufacturer, Garden Furniture Store, Office furniture store",
+    "pincode": "522238",
+    "phone_number": "+91 80100 60212",
+    "website": "https://kbfurnituremall.in/",
+    "rating": 4.9,
+    "reviews_count": 2065,
+    "address": "64, Akkalkot Rd, opp. Aakashwani Kendra, MIDC, Solapur, Maharashtra 413006",
+    "area": "MIDC",
+    "latitude": 17.6541379,
+    "longitude": 75.9338834,
+    "place_id": "ChIJxfyfYn3axTsRaAVz5JJ0ZdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfyfYn3axTsRaAVz5JJ0ZdU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:16"
+  }
+]

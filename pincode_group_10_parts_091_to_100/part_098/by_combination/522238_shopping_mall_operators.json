@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.V. Shopping Complex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522238",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8217,
+    "address": "Tirumala-Tirupati Rd, Tirumala, Tirupati Urban, Andhra Pradesh 517504",
+    "area": "Tirumala",
+    "latitude": 13.681430899999999,
+    "longitude": 79.3500742,
+    "place_id": "ChIJK3TgUWK1sjsRk3QEh4W_JBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3TgUWK1sjsRk3QEh4W_JBY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:11"
+  },
+  {
+    "business_name": "The Kanchipuram LLK Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522238",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 83,
+    "address": "9-1, 11/A, Theertha Katta St, opp. Apurva Textile, Varadaraja Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Varadaraja Nagar",
+    "latitude": 13.631825099999999,
+    "longitude": 79.4180832,
+    "place_id": "ChIJ4afEqj9LTToRzAFfjZjPHXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4afEqj9LTToRzAFfjZjPHXE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:11"
+  }
+]

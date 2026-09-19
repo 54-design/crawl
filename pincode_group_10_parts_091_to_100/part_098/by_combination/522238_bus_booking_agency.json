@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PSK TOURS AND TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522238",
+    "phone_number": "+91 84999 53332",
+    "website": "https://psktoursandtravels.in/",
+    "rating": 4.7,
+    "reviews_count": 108,
+    "address": "House no 1007, KPHB Road, near at. AlphonsA school Camity hall, Devender Nagar, Gajularamaram, Hyderabad, Telangana 500055",
+    "area": "Devender Nagar, Gajularamaram",
+    "latitude": 17.523671999999998,
+    "longitude": 78.4121814,
+    "place_id": "ChIJE1Hjym2PyzsRdEnajqNgs9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1Hjym2PyzsRdEnajqNgs9I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:01"
+  },
+  {
+    "business_name": "Amar travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "522238",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Amar travels, 522238, India",
+    "area": "522238",
+    "latitude": 18.5037789,
+    "longitude": 83.8835309,
+    "place_id": "ChIJJYiHyl4VPDoRDOa_v_Tc78I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYiHyl4VPDoRDOa_v_Tc78I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:41:01"
+  }
+]

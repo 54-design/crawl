@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jani Bhai Palav Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "522236",
+    "phone_number": "+91 97014 32620",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Thullur, Tulluru, Andhra Pradesh 522237",
+    "area": "Thullur",
+    "latitude": 16.5283703,
+    "longitude": 80.470017,
+    "place_id": "ChIJWaIC_GTtNToRTArxyJimLsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaIC_GTtNToRTArxyJimLsE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:36:40"
+  },
+  {
+    "business_name": "Hotel Navyandhra",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522236",
+    "phone_number": "+91 76800 48048",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 46,
+    "address": "GFG9+MM5, Thullur, Tulluru, Andhra Pradesh 522237",
+    "area": "Thullur",
+    "latitude": 16.5266326,
+    "longitude": 80.4692286,
+    "place_id": "ChIJSxzDDkftNToRKephcRd4EZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxzDDkftNToRKephcRd4EZ0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:36:40"
+  }
+]

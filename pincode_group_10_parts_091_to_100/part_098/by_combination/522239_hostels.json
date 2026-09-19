@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meghana girls hostel",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "522239",
+    "phone_number": "+91 70138 86533",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "nowluru down, opp. RMB Bangla, Navuluru, driverpeta, Andhra Pradesh 522503",
+    "area": "Navuluru, driverpeta",
+    "latitude": 16.4398831,
+    "longitude": 80.56659309999999,
+    "place_id": "ChIJ592O2hvxNToRA8ZPhWURGNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ592O2hvxNToRA8ZPhWURGNc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:43:18"
+  },
+  {
+    "business_name": "B.tech Boys Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "522239",
+    "phone_number": "+91 94900 49565",
+    "website": "http://anu.ac.in/",
+    "rating": 3.4,
+    "reviews_count": 305,
+    "address": "9GCG+GV5, Namburu, Andhra Pradesh 522508",
+    "area": "522239",
+    "latitude": 16.3712621,
+    "longitude": 80.52722729999999,
+    "place_id": "ChIJtaRriDP0NToRw037i_SpgFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaRriDP0NToRw037i_SpgFw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:43:20"
+  }
+]

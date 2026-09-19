@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LOHITH ENTERPRISES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Rice shop",
+    "pincode": "522237",
+    "phone_number": "+91 94938 24267",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "beside Lutaran charchi opposite, 5-94, 4th Ln, Thullur, Guntur, Andhra Pradesh 522237",
+    "area": "Thullur",
+    "latitude": 16.5303152,
+    "longitude": 80.47058299999999,
+    "place_id": "ChIJK1w3N9rtNToRvZhpcJzWXZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1w3N9rtNToRvZhpcJzWXZU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:39:03"
+  },
+  {
+    "business_name": "OM TRADERS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "522237",
+    "phone_number": "+91 88869 08840",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-39/1, MainRoad, near Tulasi Theater, Thullur, Tulluru, Andhra Pradesh 522237",
+    "area": "Thullur",
+    "latitude": 16.5273556,
+    "longitude": 80.4695368,
+    "place_id": "ChIJRa4dgy7tNToR2uPWhrgfrpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRa4dgy7tNToR2uPWhrgfrpc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:39:03"
+  }
+]

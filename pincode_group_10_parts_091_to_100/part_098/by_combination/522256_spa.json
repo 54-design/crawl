@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jesus First Aid Center",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "522256",
+    "phone_number": "+91 96187 82065",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.6-79, opposite Sivalayam Temple, nearby Bus Stop, Center, Karumuru, Andhra Pradesh 522265",
+    "area": "Center",
+    "latitude": 16.0610808,
+    "longitude": 80.8169533,
+    "place_id": "ChIJW_c-vmv3SToR0ovpTt82Wbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_c-vmv3SToR0ovpTt82Wbc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:45:00"
+  },
+  {
+    "business_name": "Dawn Leaf Signature Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "522256",
+    "phone_number": "+91 79722 96016",
+    "website": "https://sites.google.com/view/dawnleafsignaturespa/home",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "2nd Floor, H.No. 2, 1-87/NR, Inner Ring Rd, near Uppal, Uppal, Hyderabad, Telangana 500039",
+    "area": "Venkateswara Colony, Vijayapuri Colony, Uppal",
+    "latitude": 17.4012687,
+    "longitude": 78.5630717,
+    "place_id": "ChIJw11l0EaZyzsRWarhhmfJ73Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw11l0EaZyzsRWarhhmfJ73Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:45:02"
+  }
+]

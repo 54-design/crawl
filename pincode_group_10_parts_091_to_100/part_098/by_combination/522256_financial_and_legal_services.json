@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhir & Dhir Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "522256",
+    "phone_number": "+91 11 4241 0000",
+    "website": "http://www.dhirassociates.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "D-55, Block D, Defence Colony, New Delhi, Delhi 110024",
+    "area": "Block D, Defence Colony",
+    "latitude": 28.568324999999998,
+    "longitude": 77.234386,
+    "place_id": "ChIJnQjz9lHiDDkRblKG9zY8nrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQjz9lHiDDkRblKG9zY8nrY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:45:38"
+  },
+  {
+    "business_name": "Seth Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Legal services",
+    "pincode": "522256",
+    "phone_number": "+91 120 458 5437",
+    "website": "http://www.sethassociates.com/",
+    "rating": 4,
+    "reviews_count": 13,
+    "address": "7th floor, Tower-B, Unit No. 721, Plot no.7, Noida-Greater Noida Expy, Sector 142, Noida, Uttar Pradesh 201301",
+    "area": "Sector 142",
+    "latitude": 28.500935,
+    "longitude": 77.410078,
+    "place_id": "ChIJr-EOOsDlDDkR4uqo9RcXijo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-EOOsDlDDkR4uqo9RcXijo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:45:38"
+  }
+]

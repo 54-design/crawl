@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Bhima's",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "522239",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GF9P+G63, AP High Ct Rd, Nelapadu, Andhra Pradesh 522239",
+    "area": "522239",
+    "latitude": 16.5187545,
+    "longitude": 80.4855599,
+    "place_id": "ChIJQfLHaADtNToR121ee3a9g0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfLHaADtNToR121ee3a9g0g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:27"
+  },
+  {
+    "business_name": "ROYAL KITCHEN FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant, Fast food restaurant",
+    "pincode": "522239",
+    "phone_number": "+91 99668 81988",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 201,
+    "address": "Undavalli Centre, near Sai Baba Temple, Undavalli, Andhra Pradesh 522501",
+    "area": "Undavalli",
+    "latitude": 16.494002899999998,
+    "longitude": 80.5927105,
+    "place_id": "ChIJGUaZh63xNToRn3jKodkQ2rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUaZh63xNToRn3jKodkQ2rc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:42:29"
+  }
+]
