@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satya",
+    "search_category": "Media and Event",
+    "primary_category": "Electronics Accessories Wholesaler",
+    "all_categories": "Electronics Accessories Wholesaler",
+    "pincode": "521343",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "No.29-2406/4 Karampudi Road, Palnadu Rd, Vinukonda, Andhra Pradesh 522647",
+    "area": "521343",
+    "latitude": 16.0585132,
+    "longitude": 79.7400208,
+    "place_id": "ChIJ_zT4CQCXSjoRuKqPH87cwtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zT4CQCXSjoRuKqPH87cwtk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:21:07"
+  },
+  {
+    "business_name": "Eventokart",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "521343",
+    "phone_number": "N/A",
+    "website": "https://eventokart.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri, 8-6-234/2, Venkataramana Colony Rd, Hima Sai Enclave, RTC Colony, Hyderabad, Telangana 500070",
+    "area": "Hima Sai Enclave, RTC Colony",
+    "latitude": 17.3346278,
+    "longitude": 78.5552798,
+    "place_id": "ChIJEQ5gcf2jyzsRT0ZYKbQteSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQ5gcf2jyzsRT0ZYKbQteSk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:21:08"
+  }
+]

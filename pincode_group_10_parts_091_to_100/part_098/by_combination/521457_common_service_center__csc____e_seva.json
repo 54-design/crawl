@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC-COMMON SERVICE CENTRE(THE PRINT HUB)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "521457",
+    "phone_number": "+91 93125 77484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 52,
+    "address": "12, Gokul Path, near Kumar Brothers, North Patel Nagar, East Patel Nagar, Adarsh Colony, North Shastri Nagar, Patna, Bihar 800023",
+    "area": "North Patel Nagar, East Patel Nagar, Adarsh Colony, North Shastri Nagar",
+    "latitude": 25.617175099999997,
+    "longitude": 85.1016441,
+    "place_id": "ChIJWV8CzABX7TkRvaZIpuw1xd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWV8CzABX7TkRvaZIpuw1xd4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:49"
+  },
+  {
+    "business_name": "Sri Lakshmi Ganapathi Aditya CSC",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, General store",
+    "pincode": "521457",
+    "phone_number": "+91 93460 97824",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-147/1 Main Road Nemam, Kakinada, Andhra Pradesh 533005",
+    "area": "521457",
+    "latitude": 17.0403856,
+    "longitude": 82.2935783,
+    "place_id": "ChIJ0RW7KN8pODoR_cX4YcUwnkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RW7KN8pODoR_cX4YcUwnkY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:49"
+  }
+]

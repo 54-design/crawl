@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marshalls Pet Zone n Pet Grooming n Spa",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet groomer, Pet store",
+    "pincode": "521369",
+    "phone_number": "+91 92149 19786",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 657,
+    "address": "Arundelpet, opp Hotel Grand Nagarjuna Opp South India Shopping Mall, Guntur, Andhra Pradesh 522002",
+    "area": "Arundelpet",
+    "latitude": 16.3053935,
+    "longitude": 80.43731489999999,
+    "place_id": "ChIJi2TIQSR1SjoRORPrxGhjkYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2TIQSR1SjoRORPrxGhjkYE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:29"
+  },
+  {
+    "business_name": "Pet Paradise",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521369",
+    "phone_number": "+91 77998 77786",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 899,
+    "address": "7CVR+J28 Girls High School, Collector Office Rd, Opp Stall, Nagarampalem, Guntur, Andhra Pradesh 522004",
+    "area": "Nagarampalem",
+    "latitude": 16.294036,
+    "longitude": 80.4400735,
+    "place_id": "ChIJ0QGJ9md1SjoRPcGtPCqKARo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QGJ9md1SjoRPcGtPCqKARo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:29"
+  }
+]

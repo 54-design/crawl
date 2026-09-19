@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasad Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "522124",
+    "phone_number": "+91 77026 06559",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Road, Ponnur, Andhra Pradesh 522124",
+    "area": "522124",
+    "latitude": 16.0662227,
+    "longitude": 80.5509944,
+    "place_id": "ChIJV6UkZxIRSjoR-ygj_2syitw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6UkZxIRSjoR-ygj_2syitw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:20:20"
+  },
+  {
+    "business_name": "Kathi seinivas",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "522124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3G9X+MFH, SH 40, Ponnur, Andhra Pradesh 522124",
+    "area": "522124",
+    "latitude": 16.0691971,
+    "longitude": 80.5487301,
+    "place_id": "ChIJPavPPEYRSjoRvxvXokUP0iQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPavPPEYRSjoRvxvXokUP0iQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:20:22"
+  }
+]

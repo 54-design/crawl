@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KNC",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "522234",
+    "phone_number": "+91 99891 81750",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8539+3Q4, Gundalapadu, Andhra Pradesh 522549",
+    "area": "522234",
+    "latitude": 16.302644,
+    "longitude": 80.1694464,
+    "place_id": "ChIJ7WyAGF9_SjoRhQm7y6rQLJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WyAGF9_SjoRhQm7y6rQLJE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:33:56"
+  },
+  {
+    "business_name": "BIKSHALU HOTEL",
+    "search_category": "Guesthouse",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "522234",
+    "phone_number": "+91 80746 48616",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near VINAYAKA TEMPLE, near OLD CINEMA HALL CENTER, Nadendla, Andhra Pradesh 522234",
+    "area": "522234",
+    "latitude": 16.1787135,
+    "longitude": 80.1842992,
+    "place_id": "ChIJy_e_EZ99SjoRjaaPtPqoAc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_e_EZ99SjoRjaaPtPqoAc0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:33:58"
+  }
+]

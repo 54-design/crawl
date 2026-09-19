@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarakarama Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "521324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "97CC+CQJ, Bantumilli, Andhra Pradesh 521324",
+    "area": "521324",
+    "latitude": 16.3710773,
+    "longitude": 81.2718969,
+    "place_id": "ChIJDcZ6oGMnNjoRv2b_9MDe2Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcZ6oGMnNjoRv2b_9MDe2Qg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:59:30"
+  },
+  {
+    "business_name": "Ramakoti's Aravind Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "521324",
+    "phone_number": "+91 89770 07776",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Bomma Center, Gandhi Bomma Center, 1-52, beside Muthoot Fincorp, Bantumilli, Andhra Pradesh 521324",
+    "area": "521324",
+    "latitude": 16.3706606,
+    "longitude": 81.2723449,
+    "place_id": "ChIJY0tRCQQnNjoRFbyfpHimCGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0tRCQQnNjoRFbyfpHimCGg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:59:30"
+  }
+]

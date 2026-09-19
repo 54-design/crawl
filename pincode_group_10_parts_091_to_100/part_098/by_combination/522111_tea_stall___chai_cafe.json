@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna tea, snacks& cooldrinks",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "522111",
+    "phone_number": "+91 93477 48637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ANNAPURNA TEA COOLDRINKS and ICECREAMS, Karalapalem, Yazali, Andhra Pradesh 522111",
+    "area": "522111",
+    "latitude": 15.9685109,
+    "longitude": 80.57565029999999,
+    "place_id": "ChIJCe7OZaQXSjoRVRP80-7r2fE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCe7OZaQXSjoRVRP80-7r2fE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:14:04"
+  },
+  {
+    "business_name": "CHAI JOY BAPATLA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bridge down, pedanandipadu Auto stand, Old, sharaf bazar, Sharab Bazar, Besthapalem, Jammulapalem, Bapatla, Andhra Pradesh 522101",
+    "area": "Sharab Bazar, Besthapalem",
+    "latitude": 15.904178799999999,
+    "longitude": 80.46689649999999,
+    "place_id": "ChIJhZreaAA_SjoR4eGA2s_oqf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZreaAA_SjoR4eGA2s_oqf8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:14:04"
+  }
+]

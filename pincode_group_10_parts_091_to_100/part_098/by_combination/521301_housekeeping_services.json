@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEXA Service (Varun Motors)",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "521301",
+    "phone_number": "N/A",
+    "website": "https://www.nexaexperience.com/service-locator",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Sy.No:75/2 & 75/3, Bantumilli Rd, Satyanarayana Puram, Gudivada Rural, Andhra Pradesh 521323",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4295494,
+    "longitude": 81.0118562,
+    "place_id": "ChIJg1QXWVUbNjoRVU-LdrNx4wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1QXWVUbNjoRVU-LdrNx4wY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:49:20"
+  },
+  {
+    "business_name": "Sri venkateswara steel house Gudivada",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Steelwork design service",
+    "all_categories": "Steelwork design service",
+    "pincode": "521301",
+    "phone_number": "+91 98494 65863",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Market center, Bantumalli road, Road, opposite VV Jewellery, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.433874199999998,
+    "longitude": 80.99710759999999,
+    "place_id": "ChIJOSc6wrIdNjoRLp9dYD4rJAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSc6wrIdNjoRLp9dYD4rJAE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:49:21"
+  }
+]

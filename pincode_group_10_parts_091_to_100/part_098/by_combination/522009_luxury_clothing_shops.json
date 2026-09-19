@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR Fashion Box",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "522009",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/rrfashionbox?igshid=NTc4MTIwNjQ2YQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hari Nilayam , 6th Lane, SVN Colony, Venkateswara, Anjaneya Swamy Temple Rd, Guntur, Andhra Pradesh 522006",
+    "area": "Sri Vaishnavi Nagar, Srinivasa Nagar Colony",
+    "latitude": 16.3272556,
+    "longitude": 80.41247829999999,
+    "place_id": "ChIJeYALO7aLNToRIxs50bA-ODw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYALO7aLNToRIxs50bA-ODw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:05"
+  },
+  {
+    "business_name": "Samba Siva Textiles",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "522009",
+    "phone_number": "+91 97034 71592",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "# 12-17-10, Somuvari Street, Kothapet, Guntur, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.298447,
+    "longitude": 80.448563,
+    "place_id": "ChIJ_UBzb0l1SjoRTHOUhcA7u7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UBzb0l1SjoRTHOUhcA7u7E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:07"
+  }
+]

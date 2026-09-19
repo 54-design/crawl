@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Enterprises",
+    "search_category": "Importers",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Corporate gift supplier, Gift shop",
+    "pincode": "521332",
+    "phone_number": "+91 80 4604 6930",
+    "website": "http://www.saientp.in/",
+    "rating": 4.3,
+    "reviews_count": 48,
+    "address": "Ground Floor, DSIIDC, Office No. 6, Scheme 1, Pocket E, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Scheme 1, Pocket E, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5354626,
+    "longitude": 77.2807938,
+    "place_id": "ChIJyVxbHWThDDkRWMxKP3nyl34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVxbHWThDDkRWMxKP3nyl34",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:00"
+  },
+  {
+    "business_name": "R.K.Traders",
+    "search_category": "Importers",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "521332",
+    "phone_number": "+91 98100 24589",
+    "website": "https://qliqo.in/RKTRADERS",
+    "rating": 3.8,
+    "reviews_count": 136,
+    "address": "A-70, Jagatpuri, Main Road, Main Road, Krishna Nagar, Delhi, 110051",
+    "area": "Jagat Puri, Krishna Nagar",
+    "latitude": 28.6513407,
+    "longitude": 77.2928558,
+    "place_id": "ChIJVVVVBVz7DDkRie4yxw4g2JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBVz7DDkRie4yxw4g2JM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:00"
+  }
+]

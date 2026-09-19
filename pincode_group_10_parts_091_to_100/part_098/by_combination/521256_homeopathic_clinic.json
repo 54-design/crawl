@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Phani Krishna Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "521256",
+    "phone_number": "+91 97002 04062",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MIG-160, MVP Sector 4, Sector 2, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "MVP Sector 4, Sector 2, MVP Colony",
+    "latitude": 17.7406781,
+    "longitude": 83.3289885,
+    "place_id": "ChIJdXUq3GFDOToRVXYjA7V9qnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXUq3GFDOToRVXYjA7V9qnE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:38:45"
+  },
+  {
+    "business_name": "Dr Devika Patel’s Homeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Alternative Medicine Clinic, Alternative medicine practitioner, Holistic medicine practitioner",
+    "pincode": "521256",
+    "phone_number": "+91 90758 89114",
+    "website": "https://drdevikapatelclinic.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 9, Jai Ganesh Plaza, Above Poorvika Mobiles, Porwal Road, Dhanori-Lohegaon Rd, Pune, Maharashtra 411047",
+    "area": "Kutwal Colony, Lohegaon",
+    "latitude": 18.597220399999998,
+    "longitude": 73.9088384,
+    "place_id": "ChIJT3WOzlnHwjsRIL5lwVVAlLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3WOzlnHwjsRIL5lwVVAlLA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:38:47"
+  }
+]

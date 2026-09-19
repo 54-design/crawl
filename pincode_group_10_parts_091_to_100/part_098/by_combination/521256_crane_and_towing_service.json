@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "521256",
+    "phone_number": "+91 88811 12782",
+    "website": "https://www.sonucraneservice.shop/",
+    "rating": 5,
+    "reviews_count": 85,
+    "address": "Shop 10, Faizabad Rd, near Yadav Dhaba, Krishna Vihar, Hasangarden Colony, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Krishna Vihar, Hasangarden Colony, Chinhat",
+    "latitude": 26.876908,
+    "longitude": 81.03082839999999,
+    "place_id": "ChIJ2UwqmznjmzkRpxkDsTkcWUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UwqmznjmzkRpxkDsTkcWUA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:39:07"
+  },
+  {
+    "business_name": "Dream Team Roadside",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Car repair and maintenance service, Service establishment",
+    "pincode": "521256",
+    "phone_number": "N/A",
+    "website": "https://dreamteamroadside.com/",
+    "rating": 5,
+    "reviews_count": 155,
+    "address": "Dream Team Roadside, 521256, India",
+    "area": "521256",
+    "latitude": 33.6511645,
+    "longitude": -117.28585939999999,
+    "place_id": "ChIJc47CKDPAI2YR62Idr9ir8Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc47CKDPAI2YR62Idr9ir8Ng",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:39:07"
+  }
+]

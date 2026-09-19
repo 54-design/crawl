@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andhra interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker",
+    "pincode": "522212",
+    "phone_number": "+91 96420 55733",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "7FFC+CM4, Service Rd, Guntur, Andhra Pradesh 522017",
+    "area": "522212",
+    "latitude": 16.2718646,
+    "longitude": 80.47193829999999,
+    "place_id": "ChIJ0SpUYgALSjoR728BDolVHvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SpUYgALSjoR728BDolVHvo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:28:02"
+  },
+  {
+    "business_name": "A R INTERIORS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "522212",
+    "phone_number": "+91 80088 73377",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Ponnur Rd, beside Muslim College, Guntur, Andhra Pradesh 522003",
+    "area": "522212",
+    "latitude": 16.2792905,
+    "longitude": 80.4587237,
+    "place_id": "ChIJpeuqYC4LSjoRO4tBcj3cLQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeuqYC4LSjoRO4tBcj3cLQ0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:28:03"
+  }
+]

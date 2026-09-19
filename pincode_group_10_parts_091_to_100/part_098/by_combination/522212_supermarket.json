@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GANESH BABU SUPER MARKET సూపర్ మార్కెట్",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522212",
+    "phone_number": "+91 82979 78384",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "X, ROAD, Vadlamudi, Andhra Pradesh 522213",
+    "area": "522212",
+    "latitude": 16.2389152,
+    "longitude": 80.5628603,
+    "place_id": "ChIJGRhPu_wJSjoRBRRseGYg-hI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRhPu_wJSjoRBRRseGYg-hI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:08"
+  },
+  {
+    "business_name": "SrimanNarayana Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522212",
+    "phone_number": "+91 90305 33291",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "College, Tenali Road, Vignan's Lara Rd, beside Vignanan, Vadlamudi, Andhra Pradesh 522213",
+    "area": "522212",
+    "latitude": 16.2383956,
+    "longitude": 80.5616065,
+    "place_id": "ChIJ2-fr3ZQJSjoR9veD9d8j1mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-fr3ZQJSjoR9veD9d8j1mE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:08"
+  }
+]

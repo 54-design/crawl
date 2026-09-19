@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile world",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521321",
+    "phone_number": "+91 90004 69888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "35551, Bantumilli Rd, Mudinepalle, Andhra Pradesh 521325",
+    "area": "521321",
+    "latitude": 16.422894,
+    "longitude": 81.11413519999999,
+    "place_id": "ChIJpyBQQQAfNjoRwv_N_CiAgbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyBQQQAfNjoRwv_N_CiAgbk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:55"
+  },
+  {
+    "business_name": "Big C Mobiles Bhimavaram 2 - Best Mobile Phone Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store",
+    "pincode": "521321",
+    "phone_number": "+91 70329 87888",
+    "website": "https://www.bigcmobiles.com/",
+    "rating": 4.8,
+    "reviews_count": 228,
+    "address": "2, D. No 16-2-27/1, PP Rd, Somavaram, Gandhinagar, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Somavaram, Gandhinagar",
+    "latitude": 16.5457091,
+    "longitude": 81.5278254,
+    "place_id": "ChIJfRsDE9zTNzoReEY4HjkOLks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRsDE9zTNzoReEY4HjkOLks",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:56"
+  }
+]

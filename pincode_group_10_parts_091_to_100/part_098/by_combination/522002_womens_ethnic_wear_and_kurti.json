@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zoya Fashions & Boutique",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing alteration service, Clothing store, Designer Clothing Store, Dress store, Dressmaker, Embroidery shop, Saree Shop, Tailor",
+    "pincode": "522002",
+    "phone_number": "+91 99085 28353",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "Sai Baba Rd, beside Vineeta Motors, Venugopalnagar, Vinayak Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Venugopalnagar, Vinayak Nagar",
+    "latitude": 16.3182528,
+    "longitude": 80.4292585,
+    "place_id": "ChIJsbiti8CLNToR_H9VW1ZTP_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbiti8CLNToR_H9VW1ZTP_w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:37"
+  },
+  {
+    "business_name": "Sahitha Studio - Guntur",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "522002",
+    "phone_number": "N/A",
+    "website": "https://sahithastudio.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward 6, Revenue, 3-28-15, Brundavan Gardens, Landmark:, opp. Starbucks, Lakshmipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Lakshmipuram, Krishna Nagar",
+    "latitude": 16.3133511,
+    "longitude": 80.4216017,
+    "place_id": "ChIJi_T7Aad1SjoRbbn4YTlWem4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_T7Aad1SjoRbbn4YTlWem4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:40"
+  }
+]

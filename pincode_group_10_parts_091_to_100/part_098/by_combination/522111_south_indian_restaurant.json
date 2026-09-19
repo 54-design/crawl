@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajula chicken pakodi",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "522111",
+    "phone_number": "+91 87123 40757",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near NIJAMPATNAM AUTOSTAND, NIJAMPATNAM ROAD, opp. R & B BUNGALOW, near RAVI LODGE, Repalle, Andhra Pradesh 522265",
+    "area": "10th Ward",
+    "latitude": 16.0183485,
+    "longitude": 80.8276144,
+    "place_id": "ChIJue2xn4D1SToR_8_A6XTvHsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJue2xn4D1SToR_8_A6XTvHsU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:14:08"
+  },
+  {
+    "business_name": "Gowrishankar Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Andhra restaurant",
+    "pincode": "522111",
+    "phone_number": "+91 99593 46645",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 120,
+    "address": "16°14'36. 80°38'55, 3\"N, 2/7 Yadava St, Old Guntur, Guntur, Andhra Pradesh 522201",
+    "area": "Ganganamma Peta, Old Guntur",
+    "latitude": 16.2434142,
+    "longitude": 80.648811,
+    "place_id": "ChIJLWygcQ4GSjoRhJGwJKpAyOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWygcQ4GSjoRhJGwJKpAyOg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:14:10"
+  }
+]

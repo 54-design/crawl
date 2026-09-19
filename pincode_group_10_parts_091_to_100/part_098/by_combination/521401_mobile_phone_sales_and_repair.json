@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaffar Cell Point",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521401",
+    "phone_number": "+91 99498 08634",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "#22-137, Main Road, Pamarru, Vijayawada, Andhra Pradesh 521157",
+    "area": "Coastal Andhra Region",
+    "latitude": 16.323228,
+    "longitude": 80.960167,
+    "place_id": "ChIJIXTYWWn9SToRZ0CN_NF_zfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXTYWWn9SToRZ0CN_NF_zfA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:34:22"
+  },
+  {
+    "business_name": "Sri Sai Cell World",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521401",
+    "phone_number": "+91 98487 67580",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 20,
+    "address": "Main Rd, Madhira, Telangana 507203",
+    "area": "521401",
+    "latitude": 16.922108299999998,
+    "longitude": 80.36329099999999,
+    "place_id": "ChIJKxqW9iqxNToRcmLdZ4N1-Kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxqW9iqxNToRcmLdZ4N1-Kk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:34:25"
+  }
+]

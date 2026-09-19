@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gun soda",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Building materials store",
+    "pincode": "522020",
+    "phone_number": "+91 83091 31316",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Muttipalam sai baba temple, opposite Amaravathi, Amaravati, Dharanikota, Andhra Pradesh 522020",
+    "area": "522020",
+    "latitude": 16.5807015,
+    "longitude": 80.3237683,
+    "place_id": "ChIJJ9tleACRNToR0_udZELos9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9tleACRNToR0_udZELos9A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:16"
+  },
+  {
+    "business_name": "SRI VIGNESWARA ENTERPRISES",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Store",
+    "pincode": "522020",
+    "phone_number": "+91 96668 31458",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main Road, Bus Stand Center, Amaravathi, Amaravati, Andhra Pradesh 522020",
+    "area": "522020",
+    "latitude": 16.5721448,
+    "longitude": 80.35847249999999,
+    "place_id": "ChIJ0Z4cJ2uRNToRdiHuBtbnaVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Z4cJ2uRNToRdiHuBtbnaVw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:16"
+  }
+]

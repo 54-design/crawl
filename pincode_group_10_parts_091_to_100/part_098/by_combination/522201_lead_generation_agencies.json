@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meta leads",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Internet marketing service, Market researcher, Marketing consultant",
+    "pincode": "522201",
+    "phone_number": "+91 85500 77381",
+    "website": "https://metaleads.in/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "49, 4th Cross Rd, KHB Block Koramangala, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Block Koramangala, 5th Block, Koramangala",
+    "latitude": 12.934799199999999,
+    "longitude": 77.6228024,
+    "place_id": "ChIJh8luHskVrjsR5QQWGiU2BnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8luHskVrjsR5QQWGiU2BnQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:15"
+  },
+  {
+    "business_name": "Easyleadz",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "522201",
+    "phone_number": "N/A",
+    "website": "http://www.easyleadz.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Creators Gurukul, Main Road Opp pillar no 33-34, Rapid metro phase 2 station, DLF Phase 2, Gurugram, Haryana 122002",
+    "area": "DLF Phase 2, Sector 25",
+    "latitude": 28.485329399999998,
+    "longitude": 77.0948141,
+    "place_id": "ChIJDTavRGYZDTkRJ07fVM2Vet0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTavRGYZDTkRJ07fVM2Vet0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:15"
+  }
+]

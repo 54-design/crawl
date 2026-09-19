@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ark The Pride",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "521369",
+    "phone_number": "+91 79960 79666",
+    "website": "https://arkthepride.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "274 & 275/3A, BVG Marg, beside vishnu college, Bhimavaram, Andhra Pradesh 534202",
+    "area": "521369",
+    "latitude": 16.566925899999998,
+    "longitude": 81.5249078,
+    "place_id": "ChIJsd7tcIDNNzoRp40Jpafef-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsd7tcIDNNzoRp40Jpafef-w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:49"
+  },
+  {
+    "business_name": "Pune Premium Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "521369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Baner, Pune, Maharashtra 411069",
+    "area": "Baner",
+    "latitude": 18.5597227,
+    "longitude": 73.7798814,
+    "place_id": "ChIJsSECCc--wjsRtyZC8ofw8Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSECCc--wjsRtyZC8ofw8Nw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mani Agro Chemicals",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Laboratory",
+    "pincode": "521260",
+    "phone_number": "+91 98270 30171",
+    "website": "https://www.maniagrochemicals.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "No. 116, Empire House, 1st Floor, 17/1, Ushaganj, Chhawani, Jaora Compound Street, Indore, Madhya Pradesh 452001",
+    "area": "Jaora Compound",
+    "latitude": 22.7103191,
+    "longitude": 75.8781253,
+    "place_id": "ChIJq6qqFiL9YjkR1glOxYEun5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqFiL9YjkR1glOxYEun5Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:41:54"
+  },
+  {
+    "business_name": "Brindavan Agro Agencies",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service, Supplier",
+    "pincode": "521260",
+    "phone_number": "+91 40 2323 4096",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 53,
+    "address": "Hyderguda Main Rd, Old MLA Quarters, King Koti, Hyderguda, Hyderabad, Telangana 500029",
+    "area": "Old MLA Quarters, King Koti",
+    "latitude": 17.399329599999998,
+    "longitude": 78.4796906,
+    "place_id": "ChIJm_B5t96ZyzsRy5u11XfPKWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_B5t96ZyzsRy5u11XfPKWk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:41:56"
+  }
+]

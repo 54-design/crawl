@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer, Grocery store",
+    "pincode": "521323",
+    "phone_number": "+91 93000 05432",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gopi Kunj, Itwara Rd, Mangalwara, Momin Pura, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Mangalwara, Momin Pura, Peer Gate Area",
+    "latitude": 23.260212,
+    "longitude": 77.4050342,
+    "place_id": "ChIJ752auCNofDkR_nX34_uolK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ752auCNofDkR_nX34_uolK8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:24"
+  },
+  {
+    "business_name": "Moturu, Andhra Pradesh 521323",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "521323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moturu, Andhra Pradesh",
+    "area": "521323",
+    "latitude": 16.443394899999998,
+    "longitude": 81.0478643,
+    "place_id": "ChIJGZUW3YYbNjoR4N_pqGfa_4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZUW3YYbNjoR4N_pqGfa_4U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:26"
+  }
+]

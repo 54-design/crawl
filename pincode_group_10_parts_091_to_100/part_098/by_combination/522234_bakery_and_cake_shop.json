@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BENGULURU IYENGAR BAKERY",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522234",
+    "phone_number": "+91 95913 79971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nadendla, Andhra Pradesh 522234",
+    "area": "522234",
+    "latitude": 16.178551,
+    "longitude": 80.18417,
+    "place_id": "ChIJwy5ncHd8SjoRCva4NRjLpOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwy5ncHd8SjoRCva4NRjLpOg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:32:56"
+  },
+  {
+    "business_name": "The Bread Basket Arundelpet",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522234",
+    "phone_number": "+91 91679 45555",
+    "website": "http://www.thebreadbasket.in/",
+    "rating": 4.3,
+    "reviews_count": 115,
+    "address": "Arundelpet, 4th Ln, Main Road, Guntur, Andhra Pradesh 522002",
+    "area": "Sali Pet, Main Road",
+    "latitude": 16.304252299999998,
+    "longitude": 80.444017,
+    "place_id": "ChIJ5Uj0sVN1SjoRW6JrtIHBW6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Uj0sVN1SjoRW6JrtIHBW6s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:32:57"
+  }
+]

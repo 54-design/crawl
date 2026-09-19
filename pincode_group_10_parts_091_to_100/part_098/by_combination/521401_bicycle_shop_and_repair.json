@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharath Cycle Hub",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "521401",
+    "phone_number": "+91 98857 03325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "D. No. 13-3-744, Revenue Ward No 13, R.F Road, Anantapur Rd, near Sreekantam Circle, Khaja Nagar, Anantapur, Andhra Pradesh 515005",
+    "area": "Khaja Nagar, Old Town",
+    "latitude": 14.681590499999999,
+    "longitude": 77.6029776,
+    "place_id": "ChIJ_bDklCtLsTsR2fCRM8Re3II",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bDklCtLsTsR2fCRM8Re3II",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:46"
+  },
+  {
+    "business_name": "Sj, bike mechanical work",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "521401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2GJ8+W6F, Lingala, Andhra Pradesh 521403",
+    "area": "521401",
+    "latitude": 17.0322721,
+    "longitude": 80.5156705,
+    "place_id": "ChIJHViVBQXLNToRaKI0ncxIMOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHViVBQXLNToRaKI0ncxIMOI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:46"
+  }
+]

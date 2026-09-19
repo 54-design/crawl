@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521312",
+    "phone_number": "+91 99636 77784",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/A, 505/PG, post office, 1-8-506/25, beside prakash nagar, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Prakash Nagar, Begumpet",
+    "latitude": 17.4414437,
+    "longitude": 78.46908959999999,
+    "place_id": "ChIJ8S188nKRyzsRVCgpmkha3SA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8S188nKRyzsRVCgpmkha3SA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:52:03"
+  },
+  {
+    "business_name": "Unifab India",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing manufacturer, Clothing wholesale market place, Designer Clothing Store, Fashion designer, Manufacturer",
+    "pincode": "521312",
+    "phone_number": "+91 40 4993 7848",
+    "website": "https://www.unifabindia.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Plot No 99, Gun Rock Rd, Ward No 7 Secunderabad, Teachers Colony, Tirumalagiri, Secunderabad, Telangana 500015",
+    "area": "Ward No 7 Secunderabad, Teachers Colony, Tirumalagiri",
+    "latitude": 17.4815102,
+    "longitude": 78.4999778,
+    "place_id": "ChIJj-HPPuaZyzsRgDzdOuvzeE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-HPPuaZyzsRgDzdOuvzeE8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:52:03"
+  }
+]

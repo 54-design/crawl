@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nadia Maternity and Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "521329",
+    "phone_number": "+91 3472 251 554",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 38,
+    "address": "61, Kurchipota Ln, Krishnanagar, West Bengal 741101",
+    "area": "521329",
+    "latitude": 23.4062034,
+    "longitude": 88.4931177,
+    "place_id": "ChIJD8yBwjsg-TkR4R9Sizbf6rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8yBwjsg-TkR4R9Sizbf6rY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:08:59"
+  },
+  {
+    "business_name": "Kalyani Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521329",
+    "phone_number": "+91 89242 22989",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 20,
+    "address": "12-4-6, Rtc Colony, Sarada Colony, Anakapalli, Andhra Pradesh 531001",
+    "area": "Rtc Colony, Sarada Colony",
+    "latitude": 17.68773,
+    "longitude": 83.0018431,
+    "place_id": "ChIJGTqyyNdwOToRRrvhpZg_Ces",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTqyyNdwOToRRrvhpZg_Ces",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:08:59"
+  }
+]

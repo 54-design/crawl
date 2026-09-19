@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayanagar Autos",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "521356",
+    "phone_number": "+91 99452 29247",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 78,
+    "address": "No.32, 32nd Cross Rd, near Coffee Day, 7th Block, Jayanagar, Bengaluru, Karnataka 560070",
+    "area": "7th Block, Jayanagar",
+    "latitude": 12.9274135,
+    "longitude": 77.57885739999999,
+    "place_id": "ChIJAQAAITI8rjsRmX3qbo72T5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAITI8rjsRmX3qbo72T5E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:26:11"
+  },
+  {
+    "business_name": "CAR FOR SALE",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "521356",
+    "phone_number": "+91 95500 18522",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 1, Metro Chaitanya, opp. Chaitanya Puri, Janpriya Sauda Complex, Kamala Nagar, Kothapet, Hyderabad, Telangana 500060",
+    "area": "Janpriya Sauda Complex, Kamala Nagar, Kothapet",
+    "latitude": 17.3668285,
+    "longitude": 78.5331791,
+    "place_id": "ChIJ8RI35fqZyzsR8pn57KBAMDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RI35fqZyzsR8pn57KBAMDo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:26:11"
+  }
+]

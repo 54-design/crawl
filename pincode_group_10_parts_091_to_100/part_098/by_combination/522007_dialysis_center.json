@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Hospitals - Guntur",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cancer treatment center, Cardiologist, Dental clinic, General hospital, Nephrologist, Orthopedic clinic, Plastic surgeon, Pulmonologist",
+    "pincode": "522007",
+    "phone_number": "+91 863 233 3348",
+    "website": "https://www.shivahospitals.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Opp. RTC Bus Stand, Old Club Rd, Entrance, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Coastal Andhra Region, Entrance, Kothapeta",
+    "latitude": 16.2978882,
+    "longitude": 80.455874,
+    "place_id": "ChIJyzD9Og8LSjoRqrcGF3or7No",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzD9Og8LSjoRqrcGF3or7No",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:23"
+  },
+  {
+    "business_name": "Podila Prasad - GMCANA Super Specialty and Trauma Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "522007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 42,
+    "address": "7CXR+2VM, GGH Internal Rd, Sambasiva Pet, Guntur, Andhra Pradesh 522001",
+    "area": "Sambasiva Pet",
+    "latitude": 16.2975945,
+    "longitude": 80.44218289999999,
+    "place_id": "ChIJJU6DSUZ1SjoR3ITYguhQZVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJU6DSUZ1SjoR3ITYguhQZVg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:24"
+  }
+]

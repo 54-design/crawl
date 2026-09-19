@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Usman Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522020",
+    "phone_number": "+91 77028 48125",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gunter Road, near Bus Stand, Amaravati, Andhra Pradesh 522020",
+    "area": "522020",
+    "latitude": 16.568634,
+    "longitude": 80.3579075,
+    "place_id": "ChIJ1TRfwyKRNToRT44Dj50cpXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TRfwyKRNToRT44Dj50cpXk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:02"
+  },
+  {
+    "business_name": "THE GARAGE HYD",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522020",
+    "phone_number": "+91 80080 06663",
+    "website": "http://www.instagram.com/thegaragehyd",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1416, Uppal Bhagayath Rd, Raghavendra Nagar Colony, Shanti Nagar, Uppal, Hyderabad, Telangana 500039",
+    "area": "Raghavendra Nagar Colony, Shanti Nagar, Uppal",
+    "latitude": 17.3919355,
+    "longitude": 78.5708764,
+    "place_id": "ChIJj4i7JLmRyzsRUI48wbGu4dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4i7JLmRyzsRUI48wbGu4dQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian SEO Firm",
+    "search_category": "SEO Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "521345",
+    "phone_number": "+91 93039 58805",
+    "website": "https://indianseofirm.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Indian SEO Firm, 521345, India",
+    "area": "521345",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ9bL0aFU4SUMRZ3em_30A5os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bL0aFU4SUMRZ3em_30A5os",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:24"
+  },
+  {
+    "business_name": "Best Digital Marketing Services",
+    "search_category": "SEO Consultants",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "https://www.kaidenservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Best Digital Marketing Services, 521345, India",
+    "area": "521345",
+    "latitude": 40.266869,
+    "longitude": -179.3878585,
+    "place_id": "ChIJXf6Xp_V9fA0RcVuv5xRjv7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXf6Xp_V9fA0RcVuv5xRjv7w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rayeen Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521326",
+    "phone_number": "+91 93862 11281",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Guhibandh, Katras, Jharkhand 828113",
+    "area": "Guhibandh",
+    "latitude": 23.802487799999998,
+    "longitude": 86.29985099999999,
+    "place_id": "ChIJSdC0kSmh9jkRP0IAafUIE6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdC0kSmh9jkRP0IAafUIE6Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:03:35"
+  },
+  {
+    "business_name": "Bus agent",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "521326",
+    "phone_number": "+91 80929 58303",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "67F8+63W, Bihar 802212",
+    "area": "521326",
+    "latitude": 25.2231044,
+    "longitude": 84.2652145,
+    "place_id": "ChIJdZw3StmfjTkRwCEHd1oJm0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZw3StmfjTkRwCEHd1oJm0w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:03:35"
+  }
+]

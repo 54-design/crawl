@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "F7 Healthcare",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Oxygen equipment supplier",
+    "all_categories": "Oxygen equipment supplier, Hospital equipment and supplies, Medical equipment supplier, Wheelchair store",
+    "pincode": "521286",
+    "phone_number": "+91 94938 90123",
+    "website": "https://f7healthcare.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "59#A-16-13/11A Durga bhavani complex Pantakalava road RTC colony, Patamata, Vijayawada, Andhra Pradesh 520010",
+    "area": "Yadavula Bazar, Patamata",
+    "latitude": 16.4949621,
+    "longitude": 80.6617947,
+    "place_id": "ChIJd7lZCAX7NToR49yK8W-zZws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7lZCAX7NToR49yK8W-zZws",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:27"
+  },
+  {
+    "business_name": "Arbiter Life Sciences",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Surgical Products Wholesaler",
+    "pincode": "521286",
+    "phone_number": "+91 75695 62406",
+    "website": "https://www.arbiter.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Satnam Apartment, B-4, Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony",
+    "latitude": 16.5041324,
+    "longitude": 80.66703179999999,
+    "place_id": "ChIJGRs3wsX7NToRPD3fmLyKlsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRs3wsX7NToRPD3fmLyKlsY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:27"
+  }
+]

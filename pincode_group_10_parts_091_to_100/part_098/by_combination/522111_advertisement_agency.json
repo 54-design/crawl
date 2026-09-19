@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Enterprises",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "522111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8-158, Dundivaripalem, Karalapalem, Yazali, Andhra Pradesh 522111",
+    "area": "Dundivaripalem",
+    "latitude": 15.9789517,
+    "longitude": 80.57048259999999,
+    "place_id": "ChIJ2TBeBwAXSjoRxmhtZXZN9U4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TBeBwAXSjoRxmhtZXZN9U4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:15:41"
+  },
+  {
+    "business_name": "Kusuma Siri Agencies",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "522111",
+    "phone_number": "+91 99495 40625",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mantinavaanipalem, 5-59, Road, Nizampatnam, Andhra Pradesh 522329",
+    "area": "Mantanavaripalem",
+    "latitude": 15.9860508,
+    "longitude": 80.6515288,
+    "place_id": "ChIJSdj1wJEZSjoR_tF4Pki915Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdj1wJEZSjoR_tF4Pki915Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:15:41"
+  }
+]

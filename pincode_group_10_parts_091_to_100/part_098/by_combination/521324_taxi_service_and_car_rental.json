@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIHARI TRAVELS ( Car & Bus rentals )",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Airline ticket agency, Bus tour agency, Car rental agency, Taxi service, Tour operator, Travel agency",
+    "pincode": "521324",
+    "phone_number": "+91 81066 66295",
+    "website": "http://viharitravels.com/",
+    "rating": 4.8,
+    "reviews_count": 885,
+    "address": "STREET NO-200, HNo-326, Society Rd, Housing Board Colony, Tanuku, Andhra Pradesh 534211",
+    "area": "Housing Board Colony",
+    "latitude": 16.762302599999998,
+    "longitude": 81.6837564,
+    "place_id": "ChIJAQIa0vO3NzoRdnMAHhzqGjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQIa0vO3NzoRdnMAHhzqGjU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:59:54"
+  },
+  {
+    "business_name": "Surya Car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "521324",
+    "phone_number": "+91 94410 36555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Main road, near bus stand, Tanuku, Andhra Pradesh 534211",
+    "area": "521324",
+    "latitude": 16.7514188,
+    "longitude": 81.7075608,
+    "place_id": "ChIJuTgd4QG5NzoRN444ynN4RfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTgd4QG5NzoRN444ynN4RfY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:59:54"
+  }
+]

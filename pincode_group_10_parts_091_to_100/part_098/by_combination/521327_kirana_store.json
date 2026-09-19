@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARADWAJA KIRANA & GENERAL STORES",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521327",
+    "phone_number": "+91 73867 09777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambedkar Nagar, Lingavaram, Gudivada, Lingavaram, Andhra Pradesh 521327",
+    "area": "Ambedkar Nagar, Lingavaram",
+    "latitude": 16.461972199999998,
+    "longitude": 81.006288,
+    "place_id": "ChIJUcOiEBcbNjoRersLf2uEAM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcOiEBcbNjoRersLf2uEAM0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:04:45"
+  },
+  {
+    "business_name": "KELLA PUSHPAVATHI",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521327",
+    "phone_number": "+91 73867 46369",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6-33, To, pinamaneni Nagar, New bypass, Valivarthipadu Rural, Andhra Pradesh 521327",
+    "area": "pinamaneni Nagar, New bypass",
+    "latitude": 16.4424642,
+    "longitude": 81.0048905,
+    "place_id": "ChIJ_Q1-lQgbNjoRpmOLLVksGok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Q1-lQgbNjoRpmOLLVksGok",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:04:45"
+  }
+]

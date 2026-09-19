@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "521345",
+    "phone_number": "+91 99865 89491",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "bus stand, Mysore Rd, opposite ksrtc, Malavalli, Karnataka 571430",
+    "area": "521345",
+    "latitude": 12.385603099999999,
+    "longitude": 77.0562922,
+    "place_id": "ChIJR22FVCehrzsRAAAAMCeuuQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR22FVCehrzsRAAAAMCeuuQA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:54"
+  },
+  {
+    "business_name": "Manikanta Books Stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "WXM4+Q2X, Main Rd, Anaparthy, Anai, Andhra Pradesh 533342",
+    "area": "Anaparthy",
+    "latitude": 16.934481899999998,
+    "longitude": 81.9550943,
+    "place_id": "ChIJv4MY5qyQNzoRXSOOG8WMzC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4MY5qyQNzoRXSOOG8WMzC8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAYA BAKERY &TEA STALL",
+    "search_category": "Patisserie",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "521333",
+    "phone_number": "+91 91829 37168",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PP Rd, Akividu, Andhra Pradesh 534235",
+    "area": "521333",
+    "latitude": 16.5808835,
+    "longitude": 81.3738771,
+    "place_id": "ChIJE6m_b6MxNjoRIGJ8czgrA6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6m_b6MxNjoRIGJ8czgrA6w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:19"
+  },
+  {
+    "business_name": "PRASANNA ICE CREAM PARLOUR & FRUIT JUICE",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "521333",
+    "phone_number": "+91 99895 49411",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Ganganamma Center, Main Road, opp. Jio Office, Akividu, Andhra Pradesh 534235",
+    "area": "521333",
+    "latitude": 16.583208499999998,
+    "longitude": 81.3834528,
+    "place_id": "ChIJNZu6xEExNjoR8rkGZrOSuUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZu6xEExNjoR8rkGZrOSuUQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:19"
+  }
+]

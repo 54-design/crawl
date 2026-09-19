@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "521344",
+    "phone_number": "+91 99853 32176",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-24,Elurupadu Main Road,Elurupadu,Kalla Mandal,534236 Elurupadu, Kalla, Andhra Pradesh 534236",
+    "area": "Juvvalapalem",
+    "latitude": 16.5190332,
+    "longitude": 81.3700621,
+    "place_id": "ChIJqRrPwCYvNjoRgsh829aLQac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRrPwCYvNjoRgsh829aLQac",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:23:10"
+  },
+  {
+    "business_name": "Vijayalakshmi Mobile care",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "521344",
+    "phone_number": "+91 94415 36928",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bhimavaram road, opposite stya dentel claenic, Kalidindi, Andhra Pradesh 521344",
+    "area": "521344",
+    "latitude": 16.507486999999998,
+    "longitude": 81.2935838,
+    "place_id": "ChIJYRdmkrslNjoRF03K_g0s9KQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRdmkrslNjoRF03K_g0s9KQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:23:12"
+  }
+]

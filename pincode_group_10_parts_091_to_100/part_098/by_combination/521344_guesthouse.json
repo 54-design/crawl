@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Karthik Residency Sattenapalle",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521344",
+    "phone_number": "+91 86412 34366",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Tdp office back sideOld, Bus Stand Rd, Sattenapalle, Andhra Pradesh 522403",
+    "area": "521344",
+    "latitude": 16.393380399999998,
+    "longitude": 80.14945259999999,
+    "place_id": "ChIJ34YvOnyBNToR883FcUefwnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34YvOnyBNToR883FcUefwnE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:55"
+  },
+  {
+    "business_name": "KRISHNA LODGE",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "521344",
+    "phone_number": "+91 85162 22114",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kurnool Road, near Electrical Substation, Dhone at Dronachalam, Kothapeta, Dhone, Andhra Pradesh 518222",
+    "area": "Dhone at Dronachalam, Kothapeta",
+    "latitude": 15.4056248,
+    "longitude": 77.8770301,
+    "place_id": "ChIJBfMYaQOBtjsRmqwNDzzGKYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfMYaQOBtjsRmqwNDzzGKYA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:55"
+  }
+]

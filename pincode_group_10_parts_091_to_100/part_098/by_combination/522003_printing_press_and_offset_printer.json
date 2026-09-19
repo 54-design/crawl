@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prabhat Press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Offset Printer",
+    "pincode": "522003",
+    "phone_number": "+91 863 222 0814",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Door No: 12-21-31, Opp. Andhra Bank Main Branch, Gowrishankar Theatre, Kothapet, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.295041599999998,
+    "longitude": 80.4503052,
+    "place_id": "ChIJZVEKCUp1SjoRDk6bEmSdzdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVEKCUp1SjoRDk6bEmSdzdo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:34"
+  },
+  {
+    "business_name": "Navya offset printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "522003",
+    "phone_number": "+91 91007 64745",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.292239,
+    "longitude": 80.4481236,
+    "place_id": "ChIJFdRgwQN1SjoRIeO7tphw7xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdRgwQN1SjoRIeO7tphw7xg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:36"
+  }
+]

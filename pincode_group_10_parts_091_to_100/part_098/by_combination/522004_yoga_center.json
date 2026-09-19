@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga Dhamam",
+    "search_category": "Yoga Center",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "522004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "8C55+MF5, 7th Ln, Syamala Nagar, Guntur, Andhra Pradesh 522006",
+    "area": "Syamala Nagar",
+    "latitude": 16.3091465,
+    "longitude": 80.4087405,
+    "place_id": "ChIJJZYP0Zt1SjoRZiVMLaCRI_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZYP0Zt1SjoRZiVMLaCRI_w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:44"
+  },
+  {
+    "business_name": "Yoga Classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "522004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "2d, 1st Ln, Ravindra Nagar, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Ravindra Nagar, Pattabhipuram",
+    "latitude": 16.3092017,
+    "longitude": 80.4165514,
+    "place_id": "ChIJKzPnWHl1SjoRr2a4BRazs44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzPnWHl1SjoRr2a4BRazs44",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:46"
+  }
+]

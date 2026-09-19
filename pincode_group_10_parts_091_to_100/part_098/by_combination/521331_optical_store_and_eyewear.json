@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahuja Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "521331",
+    "phone_number": "+91 98100 88917",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. E, 165, Block G, Kamla Nagar, Delhi, 110007",
+    "area": "Block G, Kamla Nagar",
+    "latitude": 28.682323999999998,
+    "longitude": 77.20554489999999,
+    "place_id": "ChIJxcz90o_9DDkReOMnTtoIVSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxcz90o_9DDkReOMnTtoIVSs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:12:43"
+  },
+  {
+    "business_name": "Premwati Optical & Hearing Aid Solution",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optometrist",
+    "all_categories": "Optometrist",
+    "pincode": "521331",
+    "phone_number": "+91 88009 91300",
+    "website": "https://www.instagram.com/premwatiopticalsolution/profilecard/?igsh=eWtobGJhdXJ6b2c=",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "WZ-610, C Block, Rishi Nagar, near MCD Parking, Rani Bagh, New Delhi, Delhi 110034",
+    "area": "Rani Bagh, Pitampura",
+    "latitude": 28.688654699999997,
+    "longitude": 77.12934469999999,
+    "place_id": "ChIJe3nEecEDDTkRJqXVJWT1wyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3nEecEDDTkRJqXVJWT1wyI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:12:43"
+  }
+]

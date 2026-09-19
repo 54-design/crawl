@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S V Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521366",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "54RR+76V, Zilla Ct Rd, center, Machilipatnam, Andhra Pradesh 521001",
+    "area": "center",
+    "latitude": 16.190726299999998,
+    "longitude": 81.1405558,
+    "place_id": "ChIJD1Pv4b3nSToRqKCnMX5eV2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1Pv4b3nSToRqKCnMX5eV2w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:27:33"
+  },
+  {
+    "business_name": "Vani Hotels",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant, Breakfast restaurant, Sweet shop, Fast food restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "521366",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "54QQ+MMM, Near Reserve Police Quarters, NH 216, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Englishpalem, Reserve Police Quarters",
+    "latitude": 16.189214,
+    "longitude": 81.13916019999999,
+    "place_id": "ChIJeQVHXr7nSToRA6ONqR1duok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQVHXr7nSToRA6ONqR1duok",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:27:34"
+  }
+]

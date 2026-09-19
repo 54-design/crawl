@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "9th Mile Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Indian restaurant",
+    "pincode": "521331",
+    "phone_number": "+91 80 2856 0668",
+    "website": "http://www.royalorchidhotels.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Flying Club, Jakkur Flying Club, Bellary Road Near Jakkur, Near, Bellary Rd, Allalasandra, Yelahanka, Bengaluru, Karnataka 560065",
+    "area": "Allalasandra, Yelahanka",
+    "latitude": 13.086564899999999,
+    "longitude": 77.5913303,
+    "place_id": "ChIJlRofRVoYrjsR9sFVWBkhj7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRofRVoYrjsR9sFVWBkhj7s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:12:30"
+  },
+  {
+    "business_name": "AP Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521331",
+    "phone_number": "+91 75884 14181",
+    "website": "https://zomato.onelink.me/xqzv/yo7qk885",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Goregaon Rd, near Mazar, Fulchur Peth, Fulchur, Gondia, Maharashtra 441601",
+    "area": "Fulchur Peth",
+    "latitude": 21.4345552,
+    "longitude": 80.19626389999999,
+    "place_id": "ChIJ8WlFBZqvKzoRvhkiMqgbmKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WlFBZqvKzoRvhkiMqgbmKU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:12:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vega Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Home goods store",
+    "pincode": "521286",
+    "phone_number": "+91 70320 58888",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 22,
+    "address": "# 55, 9/9, 1st Cross Rd, Auto Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Auto Nagar",
+    "latitude": 16.4957214,
+    "longitude": 80.6720447,
+    "place_id": "ChIJ2wFSid76NToRbdNraqfvRsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wFSid76NToRbdNraqfvRsk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:41"
+  },
+  {
+    "business_name": "Sri Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "521286",
+    "phone_number": "+91 81212 22330",
+    "website": "http://www.sirimachines.blogspot.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "27/12/145 Alibaig Street Governorpet, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5097652,
+    "longitude": 80.6242245,
+    "place_id": "ChIJB80v-ALwNToRboJLZgE7dbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB80v-ALwNToRboJLZgE7dbk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:41"
+  }
+]

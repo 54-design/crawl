@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRR FLOWERS",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "521324",
+    "phone_number": "+91 94917 77568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3-53,Main Road ,Gandhi Bomma Center, Kaikalur, Andhra Pradesh 521333",
+    "area": "521324",
+    "latitude": 16.5516374,
+    "longitude": 81.211466,
+    "place_id": "ChIJHZiy7wU9NjoRO_z-FFdH_34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZiy7wU9NjoRO_z-FFdH_34",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:00:15"
+  },
+  {
+    "business_name": "SVR FLOWER STALL",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "521324",
+    "phone_number": "+91 94947 58875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside 3s foods Advinaidu centre, near DNR Complex, Kaikalur, Andhra Pradesh 521333",
+    "area": "521324",
+    "latitude": 16.551610999999998,
+    "longitude": 81.2114143,
+    "place_id": "ChIJnUFKkz49NjoR2FfZ7Sw4BVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUFKkz49NjoR2FfZ7Sw4BVk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:00:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DURGA Bike Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "522019",
+    "phone_number": "+91 76709 49494",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kantepudi - Phirangipuram Rd, Phirangipuram, Andhra Pradesh 522529",
+    "area": "522019",
+    "latitude": 16.2961502,
+    "longitude": 80.2528148,
+    "place_id": "ChIJmZu3cU95SjoRcVm00LSKqzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZu3cU95SjoRcVm00LSKqzI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:21"
+  },
+  {
+    "business_name": "Abdul Raheem bike mechanic work shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop",
+    "pincode": "522019",
+    "phone_number": "+91 81213 93443",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main center, opposite flyover, Vankayalapadu, Andhra Pradesh 522233",
+    "area": "522019",
+    "latitude": 16.1851353,
+    "longitude": 80.2506849,
+    "place_id": "ChIJhbc9xbF7SjoRiU1fNvYzTbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbc9xbF7SjoRiU1fNvYzTbk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:21"
+  }
+]

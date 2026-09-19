@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR CAR Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522019",
+    "phone_number": "+91 81063 58069",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vignanapuram, Phirangipuram, Repudi, Andhra Pradesh 522529",
+    "area": "Vignanapuram",
+    "latitude": 16.288987199999998,
+    "longitude": 80.262774,
+    "place_id": "ChIJHx8Q2Uh5SjoRw4MtjEW-Uzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHx8Q2Uh5SjoRw4MtjEW-Uzo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:23"
+  },
+  {
+    "business_name": "Sri lakshmi TIRUPATHAMMA tours and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522019",
+    "phone_number": "N/A",
+    "website": "https://about.me/srilakshmitirupathammatours.com",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Guntur - Prathipadu Rd, Prathipadu, Andhra Pradesh 522019",
+    "area": "522019",
+    "latitude": 16.1837566,
+    "longitude": 80.3383492,
+    "place_id": "ChIJree7g8txSjoRJGN4q49JW5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJree7g8txSjoRJGN4q49JW5o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:23"
+  }
+]

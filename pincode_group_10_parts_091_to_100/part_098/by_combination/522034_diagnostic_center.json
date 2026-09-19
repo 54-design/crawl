@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thyrocare",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "522034",
+    "phone_number": "+91 78159 84256",
+    "website": "https://www.thyrocare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Inner Ring Rd, behind Barista Road, opposite SNL Nest Appartment, Mallikarjuna Puram Colony, Gorantla, Andhra Pradesh 522034",
+    "area": "Mallikarjuna Puram Colony, Gorantla",
+    "latitude": 16.3301017,
+    "longitude": 80.4536208,
+    "place_id": "ChIJUzpZBwCLNToRIxg0iIOcApE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzpZBwCLNToRIxg0iIOcApE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:08:47"
+  },
+  {
+    "business_name": "KIRAN DIAGNOSTIC",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "522034",
+    "phone_number": "+91 63036 14109",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Inner Ring Road,Apparao Complex, Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.3336894,
+    "longitude": 80.4448067,
+    "place_id": "ChIJ44tZHv6LNToRfrMdMo1taZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44tZHv6LNToRfrMdMo1taZc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:08:47"
+  }
+]

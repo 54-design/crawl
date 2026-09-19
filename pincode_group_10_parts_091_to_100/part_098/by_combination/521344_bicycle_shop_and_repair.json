@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venu Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "521344",
+    "phone_number": "+91 83091 57955",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Trunk Rd, Gautham Budha Road, Beside Old Bus Stand, New Bank Colony, Mangalagiri, Andhra Pradesh 522503",
+    "area": "New Bank Colony",
+    "latitude": 16.4308711,
+    "longitude": 80.5659238,
+    "place_id": "ChIJI1VPgEfxNToRlWS-6TVE05o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1VPgEfxNToRlWS-6TVE05o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:32"
+  },
+  {
+    "business_name": "DNR Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "521344",
+    "phone_number": "+91 85722 28847",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 70,
+    "address": "D.NO: 17-295, TV NAIDU STREET, TV Naidu St, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2165401,
+    "longitude": 79.09744529999999,
+    "place_id": "ChIJj_4_8aderTsR7L17rgRGhE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_4_8aderTsR7L17rgRGhE8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:32"
+  }
+]

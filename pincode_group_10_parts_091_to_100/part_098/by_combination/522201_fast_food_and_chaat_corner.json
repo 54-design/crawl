@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spicy Box",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522201",
+    "phone_number": "+91 91438 44143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22-7-46, TB Rd, near Axis bank, Kothapet, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Ramalingeswara Pet",
+    "latitude": 16.2361158,
+    "longitude": 80.6508855,
+    "place_id": "ChIJ1SfKY5MHSjoRt-8KlQuCHJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SfKY5MHSjoRt-8KlQuCHJ8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:21:40"
+  },
+  {
+    "business_name": "RFC - Ruchi Fried Chicken",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522201",
+    "phone_number": "+91 92814 15353",
+    "website": "https://rfcfoods.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "RFC FOODS, kodhandaramayya Nagar 2nd line, Chuttugunta Cir, Guntur, Andhra Pradesh 522004",
+    "area": "522201",
+    "latitude": 16.2899094,
+    "longitude": 80.42686859999999,
+    "place_id": "ChIJGxi5yxd1SjoR6dfVomapHKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxi5yxd1SjoR6dfVomapHKM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:21:41"
+  }
+]

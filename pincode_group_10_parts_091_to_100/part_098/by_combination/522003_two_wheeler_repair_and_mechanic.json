@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Bike Point",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "522003",
+    "phone_number": "+91 93468 22454",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lalupuram road, 2, 4th Ln, KVP Colony, Guntur, Andhra Pradesh 522004",
+    "area": "KVP Colony",
+    "latitude": 16.2848585,
+    "longitude": 80.4267945,
+    "place_id": "ChIJfzwCI9Z1SjoRfhmuBXHZv84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzwCI9Z1SjoRfhmuBXHZv84",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:49"
+  },
+  {
+    "business_name": "Siva Automobiles&services",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Battery Wholesaler",
+    "pincode": "522003",
+    "phone_number": "+91 863 222 5554",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "24-2-111, Grand Trunk Rd, Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.291030199999998,
+    "longitude": 80.4429433,
+    "place_id": "ChIJQYRgzjl1SjoR_f51i4QnGl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYRgzjl1SjoR_f51i4QnGl0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Academy KOZHIKODE",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "521327",
+    "phone_number": "+91 79073 28392",
+    "website": "http://www.brightacademy.org/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bhaskar Buildings, Opp. Asoka Hospital, CH Fly Over Junction, Bank Road, Mananchira, Kozhikode, Keralam 673001",
+    "area": "521327",
+    "latitude": 11.2569895,
+    "longitude": 75.7804285,
+    "place_id": "ChIJG6DCzjlZpjsR6bjGmhIJeU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6DCzjlZpjsR6bjGmhIJeU4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:06:01"
+  },
+  {
+    "business_name": "DIVYA TUITION CENTRE",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "521327",
+    "phone_number": "+91 98660 30827",
+    "website": "https://sites.google.com/view/divyatuitioncentre/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "last stop, Sai Brundavan Residency, SBI Colony, Pothinamallayya Palem, Visakhapatnam, Potinamallayyapalem, Andhra Pradesh 530041",
+    "area": "SBI Colony, Pothinamallayya Palem",
+    "latitude": 17.8077103,
+    "longitude": 83.340019,
+    "place_id": "ChIJjzhDgt9bOToRCNZvb228e9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzhDgt9bOToRCNZvb228e9U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:06:02"
+  }
+]

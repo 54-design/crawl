@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Regalia Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522113",
+    "phone_number": "+91 94221 13789",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 99,
+    "address": "201, Second Floor, Shantiniketan Apartment The Scientific Society, Laxminagar, Nagpur, Maharashtra 440022",
+    "area": "Near Rani Laxmi Bai Hall, Laxminagar",
+    "latitude": 21.1243086,
+    "longitude": 79.0636668,
+    "place_id": "ChIJY20bFoHB1DsRcJkQmdBvzx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY20bFoHB1DsRcJkQmdBvzx4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:59"
+  },
+  {
+    "business_name": "Anvi Couture Kolkata",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Designer Clothing Store",
+    "pincode": "522113",
+    "phone_number": "+91 91470 84774",
+    "website": "https://anvicouture.com/",
+    "rating": 4.9,
+    "reviews_count": 226,
+    "address": "61, Rash Behari Ave, Manoharpukur, Kalighat, Kolkata, West Bengal 700026",
+    "area": "Manoharpukur, Kalighat",
+    "latitude": 22.517008999999998,
+    "longitude": 88.3487351,
+    "place_id": "ChIJBfXMMjB3AjoREcojpQMbcow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfXMMjB3AjoREcojpQMbcow",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karuna Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "522213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chenchupet Bridge, Sulthanabad, Tenali, Andhra Pradesh 522201",
+    "area": "Sulthanabad",
+    "latitude": 16.2447911,
+    "longitude": 80.63197,
+    "place_id": "ChIJ-cEErbIJSjoRrioaczAOzxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cEErbIJSjoRrioaczAOzxM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:43"
+  },
+  {
+    "business_name": "Maruthi Mini Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour agency",
+    "pincode": "522213",
+    "phone_number": "+91 98661 46177",
+    "website": "http://papihills.com/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "2Q29+77G, Near BPCL Petrol Bunk, Besides Shankara Mattam, Godavari Bund Road, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Mangalavaripeta",
+    "latitude": 17.0006911,
+    "longitude": 81.7682062,
+    "place_id": "ChIJRdE2gW2kNzoR2KSf-I2RtGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdE2gW2kNzoR2KSf-I2RtGM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:44"
+  }
+]

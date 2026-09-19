@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "522019",
+    "phone_number": "+91 95427 38015",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "77R7+8P2, Phirangipuram, Andhra Pradesh 522529",
+    "area": "522019",
+    "latitude": 16.2907548,
+    "longitude": 80.2642534,
+    "place_id": "ChIJlWiOQBd4SjoRg52ZqeMiXGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWiOQBd4SjoRg52ZqeMiXGw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:10"
+  },
+  {
+    "business_name": "Sujala Dental",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522019",
+    "phone_number": "+91 93933 21456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Rasoolpet, Phirangipuram, Andhra Pradesh 522529",
+    "area": "Rasoolpet",
+    "latitude": 16.2909853,
+    "longitude": 80.2603785,
+    "place_id": "ChIJQ9jP0op5SjoRhUvaLPLg_CM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9jP0op5SjoRhUvaLPLg_CM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:10"
+  }
+]

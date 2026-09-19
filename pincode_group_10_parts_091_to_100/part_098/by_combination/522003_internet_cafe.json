@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal net cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "522003",
+    "phone_number": "+91 74168 77955",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "KVP Colony Rd, KVP Colony, Guntur, Andhra Pradesh 522004",
+    "area": "KVP Colony",
+    "latitude": 16.290237599999998,
+    "longitude": 80.42492419999999,
+    "place_id": "ChIJaXjpKGR1SjoR--lmQ_5YIFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXjpKGR1SjoR--lmQ_5YIFg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:37"
+  },
+  {
+    "business_name": "SRI LAKSHMI INTERNET",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Advertising agency",
+    "pincode": "522003",
+    "phone_number": "+91 99598 43399",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SHOP NO3, KAVATI SANKARA RAO COMPLEX, RAMANAMAKSHETRAM MAIN ROAD, opp. SANGAM DAIRY, R Agraharam, Guntur, Andhra Pradesh 522004",
+    "area": "R Agraharam",
+    "latitude": 16.288957099999998,
+    "longitude": 80.4379529,
+    "place_id": "ChIJbV9v53l1SjoRc8yML8LgQaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbV9v53l1SjoRc8yML8LgQaY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:37"
+  }
+]

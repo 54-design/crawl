@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Trends",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "522003",
+    "phone_number": "+91 99667 79940",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ICICI Bank opp line, Ponnur Rd, near TCI Transport office, Gandhi Nagar, Guntur, Andhra Pradesh 522003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.279668,
+    "longitude": 80.4569829,
+    "place_id": "ChIJkQs3G3cLSjoR6pu4Wwsf9mI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQs3G3cLSjoR6pu4Wwsf9mI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:30"
+  },
+  {
+    "business_name": "Cherryfashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "522003",
+    "phone_number": "+91 88016 66777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "74/37/1, 4th Ln, opposite Nalla Cheruvu, Nallacheruvu, Guntur, Andhra Pradesh 522004",
+    "area": "Nallacheruvu",
+    "latitude": 16.2853694,
+    "longitude": 80.4410102,
+    "place_id": "ChIJ-8g5IDt1SjoRjwiQBU6j0oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8g5IDt1SjoRjwiQBU6j0oY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:30"
+  }
+]

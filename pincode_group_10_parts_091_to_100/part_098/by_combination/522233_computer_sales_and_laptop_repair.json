@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siri Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store, Computer service, Used computer store",
+    "pincode": "522233",
+    "phone_number": "N/A",
+    "website": "https://www.siricomputers.com/",
+    "rating": 4.5,
+    "reviews_count": 410,
+    "address": "434, opp. Aditya Pharamacy, near Prathiba School, Secretariat Colony, Sri Ram Nagar Colony, KPR Colony, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Secretariat Colony, Sri Ram Nagar Colony, KPR Colony",
+    "latitude": 17.4006363,
+    "longitude": 78.3779845,
+    "place_id": "ChIJl2RN0BiUyzsR5YzctNOratI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2RN0BiUyzsR5YzctNOratI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:32:16"
+  },
+  {
+    "business_name": "Al Software&Hardware",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store",
+    "pincode": "522233",
+    "phone_number": "+91 94904 02103",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "m.v.narayanapuram 1stlane, CHILAKALURIPETA, Andhra Pradesh 522616",
+    "area": "522233",
+    "latitude": 16.096063,
+    "longitude": 80.170125,
+    "place_id": "ChIJedSu_EFjSjoR42NwyE5Lak0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedSu_EFjSjoR42NwyE5Lak0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:32:16"
+  }
+]

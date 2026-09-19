@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "522234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "64X9+VVQ, Satulur, Andhra Pradesh 522549",
+    "area": "522234",
+    "latitude": 16.2497047,
+    "longitude": 80.1197368,
+    "place_id": "ChIJLxymDzZ-SjoRe-i1FmbDmN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxymDzZ-SjoRe-i1FmbDmN0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:34:17"
+  },
+  {
+    "business_name": "Nudurupadu Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "522234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "76J6+8HC, Nudurupadu, Andhra Pradesh 522529",
+    "area": "522234",
+    "latitude": 16.280818,
+    "longitude": 80.211376,
+    "place_id": "ChIJKcAaD-t4SjoRMgBYuRLOzg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcAaD-t4SjoRMgBYuRLOzg8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:34:19"
+  }
+]

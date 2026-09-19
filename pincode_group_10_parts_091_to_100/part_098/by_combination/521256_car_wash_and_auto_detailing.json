@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Detailing Edition",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Self service car wash",
+    "pincode": "521256",
+    "phone_number": "+91 83418 34183",
+    "website": "http://www.detailingedition.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mutta Gopalakrishna Varadhi, Flyover, opp. Main Road, Kondayya Palem, Suryaraopeta, Andhra Pradesh 533003",
+    "area": "Kondayya Palem",
+    "latitude": 16.979885499999998,
+    "longitude": 82.2355327,
+    "place_id": "ChIJn3FubzspODoRYYRf1GOX8i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3FubzspODoRYYRf1GOX8i8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:38:56"
+  },
+  {
+    "business_name": "KSR CAR SERVICES",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "521256",
+    "phone_number": "+91 95429 01010",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Childrens Park Rd, opp. KPN FRESH, opp. 10Th Street, Pinakini Avenue, Ramji Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Pinakini Avenue, Ramji Nagar",
+    "latitude": 14.439194899999999,
+    "longitude": 79.9946551,
+    "place_id": "ChIJQSYrBgDzTDoRqH9NU8Hfq_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSYrBgDzTDoRqH9NU8Hfq_o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:38:57"
+  }
+]

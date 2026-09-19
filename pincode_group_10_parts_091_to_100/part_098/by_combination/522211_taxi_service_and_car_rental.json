@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yunus cabs services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "Salipet, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Salipet, Ramalingeswara Pet",
+    "latitude": 16.2331914,
+    "longitude": 80.6464591,
+    "place_id": "ChIJa3GDXOoFSjoRixp7L9zGZnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3GDXOoFSjoRixp7L9zGZnk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:57"
+  },
+  {
+    "business_name": "Taxi Near Me India",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9-270, Opp Sangam Dairy, Chebrolu, Vadlamudi, Andhra Pradesh 522213",
+    "area": "522211",
+    "latitude": 16.2380396,
+    "longitude": 80.5606485,
+    "place_id": "ChIJaz52O6oJSjoR1mLv5-oMh00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaz52O6oJSjoR1mLv5-oMh00",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:57"
+  }
+]

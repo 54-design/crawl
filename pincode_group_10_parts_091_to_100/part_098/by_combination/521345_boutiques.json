@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nakshatra Star Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "521345",
+    "phone_number": "+91 94944 11977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mustafa Junction, Kurmannapalem, Gajuwaka, Andhra Pradesh 530046",
+    "area": "Kurmannapalem",
+    "latitude": 17.690840299999998,
+    "longitude": 83.1663214,
+    "place_id": "ChIJcaXvM_BpOToR71VBc7KTDRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaXvM_BpOToR71VBc7KTDRA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:01"
+  },
+  {
+    "business_name": "Shiva Shakti",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F5P4+958, near Devitalli temple, Perikegudem, Andhra Pradesh 521345",
+    "area": "521345",
+    "latitude": 16.4859059,
+    "longitude": 81.15545449999999,
+    "place_id": "ChIJKVghWQAZNjoRj21MHRzoE7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVghWQAZNjoRj21MHRzoE7I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gowthami Nursing Home",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521457",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "2Q5Q+653, Prakasam Nagar, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Prakasam Nagar",
+    "latitude": 17.0080125,
+    "longitude": 81.7879219,
+    "place_id": "ChIJ48G20vijNzoR0OZAKfSF-g4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48G20vijNzoR0OZAKfSF-g4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:03"
+  },
+  {
+    "business_name": "Good Health Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Home health care service",
+    "pincode": "521457",
+    "phone_number": "+91 98664 22534",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "D.No: 20-5, 180/A, Tirumala Bypass Rd, near SK Fast Foods, Sanjay Gandhi Colony, Akkarampalle, Tirupati, Andhra Pradesh 517501",
+    "area": "Sanjay Gandhi Colony, Akkarampalle",
+    "latitude": 13.639358,
+    "longitude": 79.42867199999999,
+    "place_id": "ChIJ6Tv8HK5LTToRLMPhORi_SvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tv8HK5LTToRLMPhORi_SvY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:04"
+  }
+]

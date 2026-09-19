@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riya Dhall",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Fashion designer",
+    "pincode": "521390",
+    "phone_number": "+91 91111 14677",
+    "website": "https://labelriyadhall.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor Shop No 2, 6/6, near City Union bank, New Palasia, Indore, Madhya Pradesh 452001",
+    "area": "New Palasia",
+    "latitude": 22.728001499999998,
+    "longitude": 75.8851512,
+    "place_id": "ChIJPyjdpkf9YjkRnXQyFmFwGR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyjdpkf9YjkRnXQyFmFwGR4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:32"
+  },
+  {
+    "business_name": "Apaara Collections",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Children's clothing store, Clothing store, Designer Clothing Store, Men's clothing store",
+    "pincode": "521390",
+    "phone_number": "+91 98408 61963",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 75,
+    "address": "No. 27, 8, Welcome Colony, Anna Nagar West Extension, Chennai, Tamil Nadu 600101",
+    "area": "Welcome Colony, Anna Nagar West Extension",
+    "latitude": 13.0880501,
+    "longitude": 80.19497439999999,
+    "place_id": "ChIJv___zAVkUjoRhlUMeDuCrAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv___zAVkUjoRhlUMeDuCrAw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:33"
+  }
+]

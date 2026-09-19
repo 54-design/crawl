@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darshana - Interior design studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "521340",
+    "phone_number": "+91 74167 45321",
+    "website": "https://darshanadesignstudio.wordpress.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Darshana - Interior design studio, 521340, India",
+    "area": "521340",
+    "latitude": 15.895461999999998,
+    "longitude": 80.7610164,
+    "place_id": "ChIJqbODKYn6e2YRDJsigcAmqEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbODKYn6e2YRDJsigcAmqEA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:58"
+  },
+  {
+    "business_name": "Sri Satyadeva Ambient Home Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "521340",
+    "phone_number": "+91 93903 27744",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 96,
+    "address": "Number 3, 3/161-5-2-A Sri Satyadeva Ambient Home Decor, SBI Colony Rd, Madanapalle, Andhra Pradesh 517326",
+    "area": "SBI Colony",
+    "latitude": 13.5622362,
+    "longitude": 78.5085486,
+    "place_id": "ChIJHWpeAzRnsjsRKpsPWHZ988g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWpeAzRnsjsRKpsPWHZ988g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:19:00"
+  }
+]

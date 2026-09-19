@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel Worldz",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "521286",
+    "phone_number": "+91 97043 41666",
+    "website": "https://www.travelworldz.in/",
+    "rating": 4.9,
+    "reviews_count": 117,
+    "address": "Kalyan Complex, 39-1-89, Sri Venkateswara Swamy Temple St, Beside Balaji Towers, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Beside Balaji Towers, Labbipet",
+    "latitude": 16.5027987,
+    "longitude": 80.6393902,
+    "place_id": "ChIJQ87SekL7NToRR5-6vt_RP7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ87SekL7NToRR5-6vt_RP7M",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:35"
+  },
+  {
+    "business_name": "Southern Travels Pvt. Ltd. - Vijayawada, Andhra Pradesh",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "521286",
+    "phone_number": "+91 90101 23236",
+    "website": "http://southerntravelsindia.com/",
+    "rating": 4.1,
+    "reviews_count": 90,
+    "address": "1/13, 39, MG Rd, near Gateway Hotel, beside Mochi Showroom, Beside Balaji Towers, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Beside Balaji Towers, Labbipet",
+    "latitude": 16.5029392,
+    "longitude": 80.6401451,
+    "place_id": "ChIJcaQOvED7NToR98sX0rzxsUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaQOvED7NToR98sX0rzxsUA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:35"
+  }
+]

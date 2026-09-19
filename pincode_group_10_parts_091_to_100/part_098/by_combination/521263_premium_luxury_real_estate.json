@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finest Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Real Estate Builders & Construction Company",
+    "pincode": "521263",
+    "phone_number": "+91 98459 54170",
+    "website": "https://finestpropertiesbengaluru.com/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "522, 20th Main Rd, T Block, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "T Block, 4th T Block East, Pattabhirama Nagar, Jayanagar",
+    "latitude": 12.9248815,
+    "longitude": 77.59055599999999,
+    "place_id": "ChIJRcI-taAVrjsRNEGLSUuVkg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcI-taAVrjsRNEGLSUuVkg0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:45:33"
+  },
+  {
+    "business_name": "SOBHA Elysia",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex, Apartment building, Real Estate Builders & Construction Company",
+    "pincode": "521263",
+    "phone_number": "+91 80 4646 4500",
+    "website": "https://www.sobha.com/city/gift-city-gujarat/",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "46 H & I, Shram Marg, Gujarat International Finance Tec-City, Gujarat 382050",
+    "area": "Gujarat International Finance Tec-City",
+    "latitude": 23.162275299999997,
+    "longitude": 72.69660569999999,
+    "place_id": "ChIJzbZfU6eBXjkR9NQzNFO4dOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbZfU6eBXjkR9NQzNFO4dOk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:45:33"
+  }
+]

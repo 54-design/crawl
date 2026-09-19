@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BONDAM CHICKEN",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "521325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 13,
+    "address": "Shop Number 1, Singarayapalem - Chevuru Rd, Chennuru, Singarayapalem, Andhra Pradesh 521329",
+    "area": "521325",
+    "latitude": 16.3994624,
+    "longitude": 81.14310329999999,
+    "place_id": "ChIJs50VlW4fNjoRBStFjNQeCOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs50VlW4fNjoRBStFjNQeCOw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:05"
+  },
+  {
+    "business_name": "krishna poultry farm 4",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "521325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9RHF+WVR, Ilavera, Andhra Pradesh 523271",
+    "area": "521325",
+    "latitude": 15.379874099999999,
+    "longitude": 79.8246532,
+    "place_id": "ChIJq_8l8toZSzoR2bd8kroKGGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_8l8toZSzoR2bd8kroKGGc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:06"
+  }
+]

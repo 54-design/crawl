@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swad Kitchen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Caterer",
+    "pincode": "521333",
+    "phone_number": "+91 90229 60071",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A Group, Bridge, 24 7, Shivaji Nagar, Shivaji nagar Vakola, Vakola, Santacruz East, Mumbai, Maharashtra 400055",
+    "area": "Shivaji nagar Vakola, Vakola, Santacruz East",
+    "latitude": 19.0759406,
+    "longitude": 72.8494535,
+    "place_id": "ChIJH7hcafXJ5zsR0fQGhnKJfCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7hcafXJ5zsR0fQGhnKJfCc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:21"
+  },
+  {
+    "business_name": "Swathi Tiffins",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "521333",
+    "phone_number": "+91 93477 72225",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Devi Chowk Circle, Jampet, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Jampet",
+    "latitude": 17.0096949,
+    "longitude": 81.7761457,
+    "place_id": "ChIJk_AWTAqkNzoRTI45dWKTnAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_AWTAqkNzoRTI45dWKTnAw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:24"
+  }
+]

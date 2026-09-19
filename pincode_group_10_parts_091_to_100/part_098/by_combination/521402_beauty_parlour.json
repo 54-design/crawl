@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBC BEAUTY CENTRE",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "521402",
+    "phone_number": "+91 73962 56926",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ESWAR NAGAR, Kurnool, Andhra Pradesh 518001",
+    "area": "ESWAR NAGAR",
+    "latitude": 15.8324737,
+    "longitude": 78.0409883,
+    "place_id": "ChIJF2AsRyHntTsR0rKGM2GPEJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2AsRyHntTsR0rKGM2GPEJ4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:35:49"
+  },
+  {
+    "business_name": "KRISHNA BEAUTY CENTRE",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "521402",
+    "phone_number": "+91 99511 36111",
+    "website": "https://www.instagram.com/kbc_kurnool?igsh=MWhzaDZtcTVhNmhmbA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "khan street, Gypson Colony, abdhula, Kurnool, Andhra Pradesh 518001",
+    "area": "Gypson Colony, abdhula",
+    "latitude": 15.8316311,
+    "longitude": 78.0394653,
+    "place_id": "ChIJ-YzzaqjntTsR7YLTen0wdVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YzzaqjntTsR7YLTen0wdVY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:35:49"
+  }
+]

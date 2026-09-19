@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Thulasi Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "28-7-160, Cobaldpet Main Rd, Pandaripuram, Ashok Nagar, Guntur, Andhra Pradesh 522002",
+    "area": "Pandaripuram, Ashok Nagar",
+    "latitude": 16.3085169,
+    "longitude": 80.4305885,
+    "place_id": "ChIJsX3FLAB1SjoRsHA4TmXClyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsX3FLAB1SjoRsHA4TmXClyk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:45"
+  },
+  {
+    "business_name": "Varahi Boutique Studio",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522002",
+    "phone_number": "+91 95058 62434",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "PVR RESIDENCY, 6/12, near LEM School, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3054108,
+    "longitude": 80.4348803,
+    "place_id": "ChIJQ6Kyczh1SjoRv3MM4rdB0Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6Kyczh1SjoRv3MM4rdB0Eo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:45"
+  }
+]

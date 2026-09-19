@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Guntur Gongura",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "522006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "3-28-64, 3rd Ln, opposite HDFC, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+    "area": "Brindavan Gardens",
+    "latitude": 16.314702,
+    "longitude": 80.41726539999999,
+    "place_id": "ChIJub0ljLJ1SjoRXnBlU6IzJOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJub0ljLJ1SjoRXnBlU6IzJOk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:06"
+  },
+  {
+    "business_name": "Paradise Biryani | Guntur",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Biryani restaurant, Hyderabadi restaurant, Restaurant",
+    "pincode": "522006",
+    "phone_number": "+91 90142 06723",
+    "website": "http://www.paradisefoodcourt.in/",
+    "rating": 3.7,
+    "reviews_count": 3466,
+    "address": "6th Ln, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+    "area": "Krishna Nagar",
+    "latitude": 16.3126952,
+    "longitude": 80.422353,
+    "place_id": "ChIJHfVdOWN1SjoRtO7uJG-r7U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfVdOWN1SjoRtO7uJG-r7U0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:08"
+  }
+]

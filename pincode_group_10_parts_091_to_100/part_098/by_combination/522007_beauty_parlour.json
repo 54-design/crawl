@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nessa Skin and Hair Beauty Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522007",
+    "phone_number": "+91 93813 23199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd Line, Lakshmipuram Main Rd, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.3117955,
+    "longitude": 80.4273958,
+    "place_id": "ChIJIRKbg-x1SjoRFtDX_6bNPec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRKbg-x1SjoRFtDX_6bNPec",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:47"
+  },
+  {
+    "business_name": "Haven Beauty world",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522007",
+    "phone_number": "+91 94939 91362",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "gandhi bomma center, guntur-2, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Koritepadu",
+    "latitude": 16.313337699999998,
+    "longitude": 80.43372269999999,
+    "place_id": "ChIJqwQIbct1SjoRBfOcjadWho8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwQIbct1SjoRBfOcjadWho8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:49"
+  }
+]

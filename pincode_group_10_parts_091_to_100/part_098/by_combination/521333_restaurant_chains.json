@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna Grand(Pure Vegetarian Restaurant)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "521333",
+    "phone_number": "+91 98490 42626",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1687,
+    "address": "15/181, Raju Rd, opp. VYSHA HOSTEL, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6785397,
+    "longitude": 77.6020831,
+    "place_id": "ChIJ7TcfwS9LsTsRQx1cVsbnOcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TcfwS9LsTsRQx1cVsbnOcg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:26"
+  },
+  {
+    "business_name": "Emerald Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Maharashtrian Restaurant, North Indian restaurant",
+    "pincode": "521333",
+    "phone_number": "+91 85542 74874",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 2023,
+    "address": "Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6790535,
+    "longitude": 77.60116049999999,
+    "place_id": "ChIJp1B-GtxKsTsRBN5J2Axhpx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1B-GtxKsTsRBN5J2Axhpx4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:26"
+  }
+]

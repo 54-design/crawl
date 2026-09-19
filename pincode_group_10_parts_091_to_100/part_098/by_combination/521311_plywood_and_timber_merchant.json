@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nilesh Timber Traders",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "521311",
+    "phone_number": "+91 44 2669 1745",
+    "website": "http://www.nileshtimber.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "New no 471, ( Old no 253 ), Sydenham's road, Apparao Gardens, Choolai, Chennai, Tamil Nadu 600007",
+    "area": "Thattankulam, Choolai",
+    "latitude": 13.091657099999999,
+    "longitude": 80.268114,
+    "place_id": "ChIJMRbHtPtlUjoRmA6PzeQN77w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRbHtPtlUjoRmA6PzeQN77w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:36"
+  },
+  {
+    "business_name": "Laxmi Timber Merchants",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Door supplier, Furniture maker, Lumber store, Wood and laminate flooring supplier, Woodworking supply store",
+    "pincode": "521311",
+    "phone_number": "+91 97172 57153",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Timber Market, A-35, Shivaji Marg, opp. Pillar No. 539, Ganesh Nagar, Tilak Nagar, New Delhi, Delhi, 110018",
+    "area": "Ganesh Nagar, Tilak Nagar",
+    "latitude": 28.6347041,
+    "longitude": 77.09027689999999,
+    "place_id": "ChIJHbIa5ZcEDTkRvPx5XmSSzXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbIa5ZcEDTkRvPx5XmSSzXE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:36"
+  }
+]

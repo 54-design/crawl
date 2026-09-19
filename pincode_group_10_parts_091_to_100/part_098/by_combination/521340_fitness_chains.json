@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beats Fitness Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "521340",
+    "phone_number": "+91 77996 67801",
+    "website": "https://www.beatsfitness.in/",
+    "rating": 4.8,
+    "reviews_count": 164,
+    "address": "3rd Floor, TJ Shopping Mall, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.8332999,
+    "longitude": 78.040359,
+    "place_id": "ChIJ9Z26pV3ntTsRbrrUa7i2-oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Z26pV3ntTsRbrrUa7i2-oY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:41"
+  },
+  {
+    "business_name": "Reborn Fitness Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "521340",
+    "phone_number": "+91 77025 50477",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 151,
+    "address": "National flag park, Ameen Abbas Nagar Park Rd, above Indiramma community hall, beside skandanshi cloud 9, Ameen Abbas Nagar, Kurnool, Andhra Pradesh 518006",
+    "area": "Ameen Abbas Nagar",
+    "latitude": 15.8371392,
+    "longitude": 78.01721049999999,
+    "place_id": "ChIJIxWhfrThtTsRqPWKH2yRYkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxWhfrThtTsRqPWKH2yRYkQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:41"
+  }
+]

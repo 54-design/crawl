@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M vision eye hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521456",
+    "phone_number": "+91 89770 27720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 69,
+    "address": "7-78 manchal road, x roads, near Ibrahim patnam, beside Bus stand, Ibrahimpatnam, Telangana 501506",
+    "area": "521456",
+    "latitude": 17.1928379,
+    "longitude": 78.6473244,
+    "place_id": "ChIJg9x0SvmnyzsRb8w6bpdC2M0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9x0SvmnyzsRb8w6bpdC2M0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:39:02"
+  },
+  {
+    "business_name": "Dr. Swarna Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "521456",
+    "phone_number": "+91 86399 21655",
+    "website": "https://www.drswarnaeyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": 227,
+    "address": "Stambalagaruvu Rd, Stambalagaruvu, Guntur, Andhra Pradesh 522006",
+    "area": "Stambalagaruvu",
+    "latitude": 16.3117852,
+    "longitude": 80.4151028,
+    "place_id": "ChIJZ8RVy_p1SjoRlSRN5gomNho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8RVy_p1SjoRlSRN5gomNho",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:39:06"
+  }
+]

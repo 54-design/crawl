@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree anjaneya tours and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Bus company, Tour agency",
+    "pincode": "522202",
+    "phone_number": "+91 92920 07799",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chenchupet, Tenali, Andhra Pradesh 522202",
+    "area": "Chenchupet",
+    "latitude": 16.239860399999998,
+    "longitude": 80.6318895,
+    "place_id": "ChIJ87T2PWwJSjoR4ewv6zC7sbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87T2PWwJSjoR4ewv6zC7sbc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:24:04"
+  },
+  {
+    "business_name": "BEST TOURS & TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Raavi Towers, Raavi Hyma Rao Rd, Chenchupet, Tenali, Andhra Pradesh 522202",
+    "area": "Chenchupet",
+    "latitude": 16.238501799999998,
+    "longitude": 80.63893569999999,
+    "place_id": "ChIJ_0pKnZYHSjoR-4TfVcT7uCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0pKnZYHSjoR-4TfVcT7uCg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:24:05"
+  }
+]

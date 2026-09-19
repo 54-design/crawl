@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NICE TEA AND BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "522212",
+    "phone_number": "+91 77949 46500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "NTR BUSTAND, MAIN GATE ENTRANCE, beside Guntur, Coastal Andhra Region, Thamma Ranga Reddy Nagar, Guntur, Andhra Pradesh 522001",
+    "area": "Coastal Andhra Region, Thamma Ranga Reddy Nagar",
+    "latitude": 16.2962277,
+    "longitude": 80.4557542,
+    "place_id": "ChIJ64P_19gLSjoRqo51ggKo5Dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64P_19gLSjoRqo51ggKo5Dg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:17"
+  },
+  {
+    "business_name": "Lakshmi Pavani Tea & Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "522212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Mani Hotel Centre, Nandivelugu Rd, Balaji Nagar, Old Guntur, Guntur, Andhra Pradesh 522001",
+    "area": "Balaji Nagar, Old Guntur",
+    "latitude": 16.2938941,
+    "longitude": 80.4641032,
+    "place_id": "ChIJF6XZ_JULSjoRl0ffxnwdsV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6XZ_JULSjoRl0ffxnwdsV8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:17"
+  }
+]

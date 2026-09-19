@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K. S. Car Care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "521330",
+    "phone_number": "+91 99405 40797",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 31,
+    "address": "1,1-A, 49th Street, 7th Ave, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Sarvamangala Colony, Manthope Colony, Ashok Nagar",
+    "latitude": 13.036312899999999,
+    "longitude": 80.2163345,
+    "place_id": "ChIJR8jYCfRnUjoRGuT0PT_N4u4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8jYCfRnUjoRGuT0PT_N4u4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:58"
+  },
+  {
+    "business_name": "Unique Car care Maruti Authorised service station",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "521330",
+    "phone_number": "+91 95000 56658",
+    "website": "https://www.justdial.com/Chennai/Unique-Car-Care-Near-Suzuki-Bike-Showroom-Manikanda-Puram-Tirumullaivayal/044PXX44-XX44-100711141723-Q1X7_BZDET",
+    "rating": 4.7,
+    "reviews_count": 351,
+    "address": "1st Main Rd, Manikanda Puram, Thirumullaivoyal, Avadi, Tamil Nadu 600062",
+    "area": "Manikanda Puram, Thirumullaivoyal",
+    "latitude": 13.129771199999999,
+    "longitude": 80.1374422,
+    "place_id": "ChIJVZdnmABjUjoRGv5j1PfQIss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZdnmABjUjoRGv5j1PfQIss",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:58"
+  }
+]

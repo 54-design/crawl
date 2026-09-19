@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sairam car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "522212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vadlamudi, Andhra Pradesh 522213",
+    "area": "522212",
+    "latitude": 16.2380141,
+    "longitude": 80.5606695,
+    "place_id": "ChIJ9WHp9VEJSjoR7FZHs2uuc1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WHp9VEJSjoR7FZHs2uuc1I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:53"
+  },
+  {
+    "business_name": "H. Kgn car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "522212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. rtc bus stand, Coastal Andhra Region, Thamma Ranga Reddy Nagar, Guntur, Andhra Pradesh 522003",
+    "area": "Coastal Andhra Region, Thamma Ranga Reddy Nagar",
+    "latitude": 16.295504299999997,
+    "longitude": 80.4554368,
+    "place_id": "ChIJGTBRa2YLSjoRv5uOyYZgvJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTBRa2YLSjoRv5uOyYZgvJY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:53"
+  }
+]

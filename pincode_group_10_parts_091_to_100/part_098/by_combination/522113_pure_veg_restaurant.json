@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swaad Restaurant Temple View",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Hotel",
+    "pincode": "522113",
+    "phone_number": "+91 76767 63504",
+    "website": "https://sawariyadagallp.com/restaurant",
+    "rating": 4.5,
+    "reviews_count": 444,
+    "address": "Sawariya Tower, 33, Sannathi St, Tiruvennanallur, Tiruvannamalai, Tamil Nadu 606601",
+    "area": "Tiruvennanallur",
+    "latitude": 12.2306528,
+    "longitude": 79.07333419999999,
+    "place_id": "ChIJv5Z3qTzBrDsRZfLqch97YuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5Z3qTzBrDsRZfLqch97YuQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:51"
+  },
+  {
+    "business_name": "Nandan Sweets and Snacks | Pure Veg Restaurant | Marwari Patty",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Bakery and Cake Shop, Cake shop, Hotel, Indian restaurant, North Indian restaurant, Restaurant, South Indian restaurant, Sweet shop",
+    "pincode": "522113",
+    "phone_number": "+91 99544 40347",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 1568,
+    "address": "AT.Road, Marwari Patty, Dibrugarh, Assam 786001",
+    "area": "Marwari Patty",
+    "latitude": 27.484185,
+    "longitude": 94.9026087,
+    "place_id": "ChIJE5MdagCZQDcRgIhF17qfoqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5MdagCZQDcRgIhF17qfoqY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:51"
+  }
+]

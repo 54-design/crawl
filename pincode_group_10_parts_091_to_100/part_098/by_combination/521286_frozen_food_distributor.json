@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Konark Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Wholesaler",
+    "pincode": "521286",
+    "phone_number": "+91 866 255 1117",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Plot No Pd-2, Mogalrajapuram, Industrial Estate, Auto Nagar, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Industrial Estate, Auto Nagar",
+    "latitude": 16.5061945,
+    "longitude": 80.6480608,
+    "place_id": "ChIJZ-Y9QLH6NToR1BPjwwys1ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToR1BPjwwys1ts",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:45:58"
+  },
+  {
+    "business_name": "Pindi Bazaar (Idli/Dosa batter)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Breakfast restaurant, Fresh food market",
+    "pincode": "521286",
+    "phone_number": "N/A",
+    "website": "https://near.tl/pindibazaar/main.html",
+    "rating": 4.9,
+    "reviews_count": 193,
+    "address": "FMCW+JX, Tadigadapa Main Road, Tadigadapa, Poranki, Tadigadapa, Andhra Pradesh 521134",
+    "area": "Tadigadapa, Poranki",
+    "latitude": 16.4697216,
+    "longitude": 80.6966254,
+    "place_id": "ChIJifh45lH7NToRvTR4SQZAxBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifh45lH7NToRvTR4SQZAxBE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:45:58"
+  }
+]

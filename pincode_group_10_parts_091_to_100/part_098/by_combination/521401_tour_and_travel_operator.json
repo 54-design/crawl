@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surya travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagavarappadu(vi, Madhira, Telangana 507203",
+    "area": "521401",
+    "latitude": 16.9411377,
+    "longitude": 80.4327589,
+    "place_id": "ChIJJf62zgu3NToRUaQBYeFplvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJf62zgu3NToRUaQBYeFplvY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:43"
+  },
+  {
+    "business_name": "Siva car travels 24/7",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency",
+    "pincode": "521401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nemali, Andhra Pradesh 521401",
+    "area": "521401",
+    "latitude": 17.067933099999998,
+    "longitude": 80.3981692,
+    "place_id": "ChIJB9iGOQBLNDoRQo5aAF5bUiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9iGOQBLNDoRQo5aAF5bUiM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:43"
+  }
+]

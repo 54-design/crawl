@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VNR KIRANA AND GENERAL",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522211",
+    "phone_number": "+91 63036 42157",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Masid Center, Chebrolu, Andhra Pradesh 522212",
+    "area": "Masid Center",
+    "latitude": 16.1994228,
+    "longitude": 80.5257815,
+    "place_id": "ChIJHVXFJpYNSjoR0Kgf9qZLSIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVXFJpYNSjoR0Kgf9qZLSIU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:14"
+  },
+  {
+    "business_name": "Kirthna General Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522211",
+    "phone_number": "+91 98858 94827",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, near Sc Colony, Sangamjagarlamudi, Andhra Pradesh 522213",
+    "area": "522211",
+    "latitude": 16.2405157,
+    "longitude": 80.5832915,
+    "place_id": "ChIJiWXaSrAJSjoRaEUe6jJsHJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWXaSrAJSjoRaEUe6jJsHJk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:16"
+  }
+]

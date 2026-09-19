@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bra House",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store",
+    "pincode": "521327",
+    "phone_number": "+91 99103 09787",
+    "website": "http://www.brahouse.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "G 20, 1, Block G, Rajouri Garden, Delhi, 110027",
+    "area": "Block G, Rajouri Garden",
+    "latitude": 28.644284799999998,
+    "longitude": 77.12122099999999,
+    "place_id": "ChIJBc9-7m0DDTkRue_MLvFd7Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBc9-7m0DDTkRue_MLvFd7Js",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:05:07"
+  },
+  {
+    "business_name": "V K Rumal House",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie wholesaler",
+    "all_categories": "Lingerie wholesaler, Lingerie store, Clothing store, Underwear store",
+    "pincode": "521327",
+    "phone_number": "+91 93113 53069",
+    "website": "https://vkrumalhouse.com/",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "15, Ramanuj Dayal Market, Ramte Ram Rd, Naya Ganj, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Naya Ganj",
+    "latitude": 28.6606103,
+    "longitude": 77.4304896,
+    "place_id": "ChIJy9sro87xDDkRJnhutNufr7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9sro87xDDkRJnhutNufr7c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:05:08"
+  }
+]

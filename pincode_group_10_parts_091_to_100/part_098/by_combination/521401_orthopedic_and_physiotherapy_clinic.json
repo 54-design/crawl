@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ortho Spine physiotherapy clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "521401",
+    "phone_number": "+91 77019 44713",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G.no, A/10, 2nd, Bhagirathi Vihar, Gokalpur, New Delhi, Delhi, 110094",
+    "area": "Bhagirathi Vihar, Gokalpur",
+    "latitude": 28.7027273,
+    "longitude": 77.2752177,
+    "place_id": "ChIJofFGsDr9DDkRl7pv8SIzSNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofFGsDr9DDkRl7pv8SIzSNI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:32"
+  },
+  {
+    "business_name": "Sri Krishna Orthopaedic hospital",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521401",
+    "phone_number": "+91 98492 56092",
+    "website": "https://srikrishnaorthopaedichospital.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Chaitanya Nagar, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Chaitanya Nagar, Gajuwaka",
+    "latitude": 17.6844236,
+    "longitude": 83.1938563,
+    "place_id": "ChIJfaa2UxppOToRTSb5iT_bIsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaa2UxppOToRTSb5iT_bIsI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:33"
+  }
+]

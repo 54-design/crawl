@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKAR VEGETABLE MARKET",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "522015",
+    "phone_number": "+91 63006 32368",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baptla Road, Katrapadu, Andhra Pradesh 522235",
+    "area": "522015",
+    "latitude": 16.0700987,
+    "longitude": 80.33245079999999,
+    "place_id": "ChIJI9K2QNJvSjoRIbgJ37f3xzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9K2QNJvSjoRIbgJ37f3xzg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:25"
+  },
+  {
+    "business_name": "Natural Products",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "522015",
+    "phone_number": "+91 97058 58899",
+    "website": "http://www.rnpr.in/",
+    "rating": 4.4,
+    "reviews_count": 18,
+    "address": "Building no:3, 22-28/8, Krishna Nagar Main Rd, beside SBI Bank, Krishna Nagar, Guntur, Andhra Pradesh 522006",
+    "area": "Krishna Nagar",
+    "latitude": 16.3126592,
+    "longitude": 80.42241969999999,
+    "place_id": "ChIJhXEM_Pt1SjoRiZs5VBddEek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXEM_Pt1SjoRiZs5VBddEek",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:26"
+  }
+]

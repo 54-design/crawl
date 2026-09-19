@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragya VIP Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "521457",
+    "phone_number": "+91 96650 45272",
+    "website": "https://pragyavip.spa-center.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 89, Bandar Lakulu, MG Rd, near Bank of Baroda ATM, Chandra Mouli Puram, Sriram Nagar, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Chandra Mouli Puram, Sriram Nagar, Governor Peta",
+    "latitude": 16.4982734,
+    "longitude": 80.6526098,
+    "place_id": "ChIJ19BezfT7NToRONpYM0Ji5GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19BezfT7NToRONpYM0Ji5GI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:26"
+  },
+  {
+    "business_name": "Sri lakshmi Sai Medicals",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "521457",
+    "phone_number": "+91 70138 00252",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Chillakallu, Andhra Pradesh 521178",
+    "area": "521457",
+    "latitude": 16.893124999999998,
+    "longitude": 80.13949559999999,
+    "place_id": "ChIJkUGhximpNToRey9LJP4F17c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUGhximpNToRey9LJP4F17c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:26"
+  }
+]

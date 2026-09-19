@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mitra",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521323",
+    "phone_number": "+91 75693 69948",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "82XX+GQP, Machilipatnam Nuzvid Kalluru Rd, Gudlavalleru, Andhra Pradesh 521356",
+    "area": "521323",
+    "latitude": 16.348836,
+    "longitude": 81.0494618,
+    "place_id": "ChIJw17yXwAdNjoR6tT5W_dZcMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw17yXwAdNjoR6tT5W_dZcMk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:34"
+  },
+  {
+    "business_name": "Ayyapa daba & restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "521323",
+    "phone_number": "+91 70324 08994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "C2GP+99R, Moturu, Gudivada Rural, Andhra Pradesh 521323",
+    "area": "521323",
+    "latitude": 16.4259958,
+    "longitude": 81.03587979999999,
+    "place_id": "ChIJewyvdAAdNjoR2q3Qv1erT40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewyvdAAdNjoR2q3Qv1erT40",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:35"
+  }
+]

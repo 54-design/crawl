@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GANDHI PHYSIOTHERAPY CLINIC",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "521356",
+    "phone_number": "+91 99088 74324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "GAFFAR center, Pamarru, Andhra Pradesh 521157",
+    "area": "521356",
+    "latitude": 16.325601499999998,
+    "longitude": 80.96129289999999,
+    "place_id": "ChIJWcMyJ6L9SToReT44Endti3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcMyJ6L9SToReT44Endti3g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:26:32"
+  },
+  {
+    "business_name": "Krishnaveni Traders",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "521356",
+    "phone_number": "+91 94907 90845",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-43, Main Road, near Gaffer Center, Pamarru, Vijayawada, Andhra Pradesh 521157",
+    "area": "521356",
+    "latitude": 16.3249106,
+    "longitude": 80.9613214,
+    "place_id": "ChIJAdXnF_79SToRuIvMNB5zO70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdXnF_79SToRuIvMNB5zO70",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:26:32"
+  }
+]

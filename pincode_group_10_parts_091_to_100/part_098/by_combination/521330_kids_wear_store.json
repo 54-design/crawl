@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumz & Kidz",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521330",
+    "phone_number": "+91 98497 34290",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "Opp: BSK Jewellery, 15-1-338/2, Mulugu Road, Nizampura, Warangal, Telangana 506007",
+    "area": "Nizampura",
+    "latitude": 17.998693,
+    "longitude": 79.58613849999999,
+    "place_id": "ChIJeVzpm49FMzoRAlGnrlvVfaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVzpm49FMzoRAlGnrlvVfaE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:37"
+  },
+  {
+    "business_name": "Maheshwari Dresses",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Dress store",
+    "pincode": "521330",
+    "phone_number": "+91 94250 59158",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 126,
+    "address": "13-14-15/65 Moolchand Market Rajbada Yashoda Mata Mandir Road Opp Yashoda Mata Mandir Khajuri Bazar, Rajwada, Indore, Madhya Pradesh 452002",
+    "area": "Rajwada",
+    "latitude": 22.7186854,
+    "longitude": 75.85360709999999,
+    "place_id": "ChIJsVmtoaD9YjkRIxO9XBKBlb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVmtoaD9YjkRIxO9XBKBlb4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:40"
+  }
+]

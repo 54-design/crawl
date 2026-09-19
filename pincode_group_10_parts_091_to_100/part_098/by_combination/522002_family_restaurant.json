@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Signature Dine",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "522002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3rd Line, Brindavan Gardens, Guntur, Andhra Pradesh 522002",
+    "area": "Brindavan Gardens",
+    "latitude": 16.3142227,
+    "longitude": 80.4199122,
+    "place_id": "ChIJtT-9JgB1SjoRXeSK1XyMSxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtT-9JgB1SjoRXeSK1XyMSxI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:34"
+  },
+  {
+    "business_name": "Alhamdullilah family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "522002",
+    "phone_number": "+91 91215 08376",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pattaphipuram, opp. Honda showroom, Guntur, Andhra Pradesh 522006",
+    "area": "Pattabhipuram",
+    "latitude": 16.3110631,
+    "longitude": 80.4158281,
+    "place_id": "ChIJCTxZatx1SjoRSMzPmU1n5xU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTxZatx1SjoRSMzPmU1n5xU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:36"
+  }
+]

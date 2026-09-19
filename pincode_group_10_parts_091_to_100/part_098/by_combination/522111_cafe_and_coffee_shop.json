@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAM ZAM TEA STALL",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "522111",
+    "phone_number": "+91 88862 96872",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 140,
+    "address": "2 9, Bapatla Road, near Gameshon Mill, Karalapalem, Guntur, Andhra Pradesh 522111",
+    "area": "522111",
+    "latitude": 15.943574799999999,
+    "longitude": 80.542069,
+    "place_id": "ChIJT6wi_j8_SjoRKEtaf1wBP-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6wi_j8_SjoRKEtaf1wBP-Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:14:09"
+  },
+  {
+    "business_name": "INDIAN CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "522111",
+    "phone_number": "+91 94948 09191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Andhra Pravesh, 7-5, Bapatla Road, near Gameshon Mill, Karalapalem, Guntur, Andhra Pradesh 522111",
+    "area": "522111",
+    "latitude": 15.943411399999999,
+    "longitude": 80.54210049999999,
+    "place_id": "ChIJ3fc3APs_SjoR_6L2VH6SEBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fc3APs_SjoR_6L2VH6SEBE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:14:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Awesome Adda Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Continental restaurant",
+    "pincode": "522006",
+    "phone_number": "+91 84998 88819",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 106,
+    "address": "Amma Plaza, 2nd Floor, Beside Gayatri Nagar 1st lane arch, Mahatma Gandhi Inner Ring Rd, Phase-2, Gorantla, Andhra Pradesh 522034",
+    "area": "Phase-2",
+    "latitude": 16.3361464,
+    "longitude": 80.4316766,
+    "place_id": "ChIJX6ErK0V1SjoRI2efXe_PhtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6ErK0V1SjoRI2efXe_PhtI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:10"
+  },
+  {
+    "business_name": "FLASHcoffeeshop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "522006",
+    "phone_number": "+91 99667 79563",
+    "website": "https://m.facebook.com/flashcoffeeshop/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Guntur, Andhra Pradesh 522002",
+    "area": "522006",
+    "latitude": 16.311476,
+    "longitude": 80.42277,
+    "place_id": "ChIJxabl2151SjoRwchM-LI7La0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxabl2151SjoRwchM-LI7La0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:12"
+  }
+]

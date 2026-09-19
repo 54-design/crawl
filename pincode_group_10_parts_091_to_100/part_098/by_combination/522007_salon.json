@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yakshi’s Beauty Hub",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522007",
+    "phone_number": "+91 73825 73811",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 81,
+    "address": "Bhashyam Blooms Rd, Vinayak Nagar, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Vinayak Nagar, Koritepadu",
+    "latitude": 16.316157999999998,
+    "longitude": 80.42926109999999,
+    "place_id": "ChIJzX7ov4J1SjoRfBCMAjyDC-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzX7ov4J1SjoRfBCMAjyDC-Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:47"
+  },
+  {
+    "business_name": "AMBIANCE MENS BEAUTY SALON",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522007",
+    "phone_number": "+91 90598 20199",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "4th Ln, beside har har Mahal, beside Harihar Mahal, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram",
+    "latitude": 16.3099794,
+    "longitude": 80.43433519999999,
+    "place_id": "ChIJpwcruuN1SjoRGHcARhls8TA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwcruuN1SjoRGHcARhls8TA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:50"
+  }
+]

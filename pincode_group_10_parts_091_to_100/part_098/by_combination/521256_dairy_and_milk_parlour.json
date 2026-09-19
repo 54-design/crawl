@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri srinivasa super market",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Supermarket",
+    "pincode": "521256",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "c.t.m road , madanapalle, near r.t.c busstand, chittoor, Andhra Pradesh 517325",
+    "area": "RRN Colony",
+    "latitude": 13.5573233,
+    "longitude": 78.50864109999999,
+    "place_id": "ChIJ54mcDtllsjsRNNanZchagp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54mcDtllsjsRNNanZchagp4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:38:21"
+  },
+  {
+    "business_name": "Dairy Milk Ice Cream",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store, Ice cream shop",
+    "pincode": "521256",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5QRH+V92, Anpara, Uttar Pradesh 231225",
+    "area": "521256",
+    "latitude": 24.1921456,
+    "longitude": 82.77839639999999,
+    "place_id": "ChIJDXDIr6AljzkRYCJKThpLc-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXDIr6AljzkRYCJKThpLc-0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:38:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Digital printer",
+    "all_categories": "Digital printer, Mobile phone repair shop",
+    "pincode": "521250",
+    "phone_number": "+91 92192 06371",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 19,
+    "address": "near PARVEZ BOOK HOUSE, Vijay Khand, Ujariyaon, Vijay Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijay Khand, Ujariyaon, Vijay Khand 2, Gomti Nagar",
+    "latitude": 26.856367799999997,
+    "longitude": 80.9894494,
+    "place_id": "ChIJ8c9yUpvjmzkRgVaS36WaWJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8c9yUpvjmzkRgVaS36WaWJ0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:37:47"
+  },
+  {
+    "business_name": "Devbhoomi jan sewa kendra (CSC centre)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Public works department",
+    "all_categories": "Public works department, Cafe, Smog inspection station",
+    "pincode": "521250",
+    "phone_number": "+91 78303 26164",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "22 new cantt road, bridge, opp. modern high school, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Hathibarkala Salwala",
+    "latitude": 30.338810799999997,
+    "longitude": 78.0526364,
+    "place_id": "ChIJK3s-2VMpCTkRrWE1pry7OiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3s-2VMpCTkRrWE1pry7OiY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:37:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR. ACCOUNTANT",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accounting firm",
+    "pincode": "521331",
+    "phone_number": "+91 95151 96563",
+    "website": "https://mraccountant.my.canva.site/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Shop no. 2, near Paiidamma Talli Temple, Kothapet, Pedana, Andhra Pradesh 521366",
+    "area": "Kothapet",
+    "latitude": 16.2562075,
+    "longitude": 81.14005739999999,
+    "place_id": "ChIJ-YY3y6fhSToRV8rRDe2ro5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YY3y6fhSToRV8rRDe2ro5c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:13:45"
+  },
+  {
+    "business_name": "GST Consultant",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "521331",
+    "phone_number": "+91 88492 98430",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "19/9, near ishanpur, Samrat Nagar, Isanpur, Ahmedabad, Gujarat 382443",
+    "area": "Samrat Nagar, Isanpur",
+    "latitude": 22.976369,
+    "longitude": 72.6064737,
+    "place_id": "ChIJAwO2K-iPXjkROXMLxTAhr2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwO2K-iPXjkROXMLxTAhr2Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:13:47"
+  }
+]

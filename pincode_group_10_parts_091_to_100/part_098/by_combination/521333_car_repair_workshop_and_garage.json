@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A ONE CAR GARAGE (CAR WORKSHOP)",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "521333",
+    "phone_number": "+91 91549 76081",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Johnpet, Atapaka, Kaikaluru, Atapaka, Andhra Pradesh 521333",
+    "area": "Johnpet, Atapaka",
+    "latitude": 16.5588348,
+    "longitude": 81.22559679999999,
+    "place_id": "ChIJvX0ZUBo9NjoRUkfLjB9Yc0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvX0ZUBo9NjoRUkfLjB9Yc0w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:47"
+  },
+  {
+    "business_name": "TotalEnergies Quartz Auto Services - SS Motor Car Repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Garage, Truck repair shop",
+    "pincode": "521333",
+    "phone_number": "+91 89775 21830",
+    "website": "https://workshops.totalenergies.in/locations/eluru/Gurvaipalem/totalenergies-quartz-auto-services-ss-motor-in-Gurvaipalem-eluru--4zIHn7/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, opposite E Seva Center, Gurvaipalem, Kalidindi, Andhra Pradesh 521344",
+    "area": "Gurvaipalem",
+    "latitude": 16.5126207,
+    "longitude": 81.3172888,
+    "place_id": "ChIJgT4Crz4lNjoRJmSUgdm6Ksg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgT4Crz4lNjoRJmSUgdm6Ksg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:16:47"
+  }
+]

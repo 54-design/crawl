@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alisha Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "521343",
+    "phone_number": "+91 98477 01818",
+    "website": "https://alishatravels.in/",
+    "rating": 4.8,
+    "reviews_count": 534,
+    "address": "SBI Building, Ettumanoor, Kottayam, Keralam 686631",
+    "area": "521343",
+    "latitude": 9.6671576,
+    "longitude": 76.554318,
+    "place_id": "ChIJ4RqIlGHTBzsRCITq9wbVdik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RqIlGHTBzsRCITq9wbVdik",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:39"
+  },
+  {
+    "business_name": "Kesarinandan Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Bus ticket agency, Bus tour agency, Service establishment, Minibus taxi service, Taxi service, Tour agency, Tour operator, Train ticket office, Car rental agency",
+    "pincode": "521343",
+    "phone_number": "+91 96890 03393",
+    "website": "http://carhirepune.in/",
+    "rating": 4.8,
+    "reviews_count": 98,
+    "address": "Kesarinandan Travels, 521343, India",
+    "area": "521343",
+    "latitude": 18.4658125,
+    "longitude": 73.808914,
+    "place_id": "ChIJeYjnYAmVwjsRFb13L9K4eQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYjnYAmVwjsRFb13L9K4eQg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chevuru",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "521325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "94WR+VWP, Chevuru, Andhra Pradesh 521329",
+    "area": "521325",
+    "latitude": 16.3972102,
+    "longitude": 81.1423343,
+    "place_id": "ChIJSxcCgH0fNjoRkphesep-KHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxcCgH0fNjoRkphesep-KHQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:46"
+  },
+  {
+    "business_name": "PHANIBABU",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "521325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F46V+2FR, Allinagaram, Kanukollu, Andhra Pradesh 521325",
+    "area": "Allinagaram",
+    "latitude": 16.4601012,
+    "longitude": 81.143652,
+    "place_id": "ChIJI9PyFwAZNjoRbeGml7Ctkoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9PyFwAZNjoRbeGml7Ctkoc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karthika Designer Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522034",
+    "phone_number": "+91 80745 76634",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "126/2/124, Annapurnanagar 2/5,Inner ring Road, O office road, R.T, Gorantla, Andhra Pradesh 522034",
+    "area": "R.T, Gorantla",
+    "latitude": 16.3360148,
+    "longitude": 80.4356507,
+    "place_id": "ChIJpR1TJE2LNToRfDqhXMuIpuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR1TJE2LNToRfDqhXMuIpuA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:08:40"
+  },
+  {
+    "business_name": "SS Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522034",
+    "phone_number": "+91 79896 40736",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Siva Green Valley, 12-5-598, Annapurna Nagar, Gorantla, Andhra Pradesh 522034",
+    "area": "Annapurna Nagar, Gorantla",
+    "latitude": 16.341147,
+    "longitude": 80.436375,
+    "place_id": "ChIJ8x7QPwCLNToR0fA0mBV8Gh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8x7QPwCLNToR0fA0mBV8Gh4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:08:42"
+  }
+]

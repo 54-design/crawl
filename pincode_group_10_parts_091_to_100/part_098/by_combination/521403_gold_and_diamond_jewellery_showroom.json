@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sjs Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "521403",
+    "phone_number": "+91 98663 95429",
+    "website": "https://sjsjewellers.in/",
+    "rating": 4.4,
+    "reviews_count": 41,
+    "address": "Shop No 8, Jaihind Complex, Opposite Jaihind Theatre, 2 Town, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Opposite Jaihind Theatre, 2 Town, Governor Peta",
+    "latitude": 16.511624599999998,
+    "longitude": 80.62611,
+    "place_id": "ChIJE4ofVffxNToRM41JmFN3-IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4ofVffxNToRM41JmFN3-IU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:03"
+  },
+  {
+    "business_name": "Mahalaxmi Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "521403",
+    "phone_number": "+91 99662 25555",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop Nos-81, 82, 83, Swarnalok Complex, Rajagopalachari St, Near Swarnalokh Complex, Apsara Center, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near Swarnalokh Complex, Apsara Center, Governor Peta",
+    "latitude": 16.5130731,
+    "longitude": 80.6260468,
+    "place_id": "ChIJZ-Y9QLH6NToRdocfYOwr1RI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRdocfYOwr1RI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:04"
+  }
+]

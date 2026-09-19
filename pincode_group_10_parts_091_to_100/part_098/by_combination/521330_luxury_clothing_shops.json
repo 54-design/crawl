@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riwaaz",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "521330",
+    "phone_number": "+91 92305 83083",
+    "website": "http://www.riwaazclothing.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Riwaaz, Shantiniketan apartments, telephone exchange, 20, Round Tank Ln, opposite mullick fatak, Mullick Fatak, Choura Bustee, Shibpur, Howrah, West Bengal 711101",
+    "area": "Mullick Fatak, Choura Bustee, Shibpur",
+    "latitude": 22.576368,
+    "longitude": 88.3340875,
+    "place_id": "ChIJX2zWdTl3AjoRDvkRjE48lDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2zWdTl3AjoRDvkRjE48lDA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:45"
+  },
+  {
+    "business_name": "Fashion Park",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521330",
+    "phone_number": "+91 99119 80909",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "F25P+RJW, Street Number 1, Housing Board Colony, Patel Nagar, Gurugram, Haryana 122001",
+    "area": "Housing Board Colony, Patel Nagar",
+    "latitude": 28.4596056,
+    "longitude": 77.03659139999999,
+    "place_id": "ChIJ3cVg_kgYDTkRP5xHXXpmWAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cVg_kgYDTkRP5xHXXpmWAA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:45"
+  }
+]

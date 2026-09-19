@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mani medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "522015",
+    "phone_number": "+91 70134 64765",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "38CJ+C32, Pedanandipadu, Andhra Pradesh 522235",
+    "area": "522015",
+    "latitude": 16.071009399999998,
+    "longitude": 80.3301429,
+    "place_id": "ChIJy5GT-PpuSjoR60rTzNckCLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5GT-PpuSjoR60rTzNckCLQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:55"
+  },
+  {
+    "business_name": "TRIDENT BIO MEDICAL EQUIPMENTS (SALES & RENTAL)",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "522015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2b, 4th Ln, near Old RTO OFFICE, Sri Ram Nagar, Pattabhipuram, Guntur, Andhra Pradesh 522004",
+    "area": "Sri Ram Nagar, Pattabhipuram",
+    "latitude": 16.2975297,
+    "longitude": 80.4165211,
+    "place_id": "ChIJCd7P8nN1SjoRaAmPf-j_muk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCd7P8nN1SjoRaAmPf-j_muk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:55"
+  }
+]

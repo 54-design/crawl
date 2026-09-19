@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CMR Shopping Mall Eluru",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store",
+    "pincode": "521247",
+    "phone_number": "+91 76709 01431",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4478,
+    "address": "APSRTC Bus Station, 25-19-9, Vijayawada Road, Narasimharao Pet, Eluru, Andhra Pradesh 534006",
+    "area": "Narasimharao Pet",
+    "latitude": 16.7078584,
+    "longitude": 81.089856,
+    "place_id": "ChIJN0qZt04VNjoRlXkF1e3iIwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0qZt04VNjoRlXkF1e3iIwk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:36:18"
+  },
+  {
+    "business_name": "More Retail Private limited",
+    "search_category": "Malls",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "521247",
+    "phone_number": "N/A",
+    "website": "https://www.moreretail.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "FHCX+X7G, Tadepalle, Andhra Pradesh 522501",
+    "area": "Tadepalle",
+    "latitude": 16.4724315,
+    "longitude": 80.5981911,
+    "place_id": "ChIJK5i7jVDwNToRzzRpKMDJM4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5i7jVDwNToRzzRpKMDJM4g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:36:21"
+  }
+]

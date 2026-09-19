@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sulthanabad, Tenali",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 30,
+    "address": "6JVH+5CR, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sulthanabad",
+    "latitude": 16.2429778,
+    "longitude": 80.628529,
+    "place_id": "ChIJo3z32mMJSjoRWGx1YS30VbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3z32mMJSjoRWGx1YS30VbA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:30:09"
+  },
+  {
+    "business_name": "Hotel S.V.R Grand",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Inner Ring Rd, beside lotus hospital, near Railway gate M.G, Guntur, Agatavarappadu, Andhra Pradesh 522509",
+    "area": "522213",
+    "latitude": 16.3244065,
+    "longitude": 80.4659439,
+    "place_id": "ChIJfetFpKv1NToRrRaJNw50VOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfetFpKv1NToRrRaJNw50VOo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:30:10"
+  }
+]

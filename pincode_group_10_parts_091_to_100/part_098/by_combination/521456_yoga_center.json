@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaabili Beauty Parlor and Yoga Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Boutique",
+    "pincode": "521456",
+    "phone_number": "+91 79936 92108",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "Jaabili Beauty parlour & Yoga fitness centre, Opposite Total Fresh supermarket, Mandadam, Andhra Pradesh 522241",
+    "area": "Mandadam",
+    "latitude": 16.5189295,
+    "longitude": 80.5265561,
+    "place_id": "ChIJtXNj_2jtNToRjWuWA2kikNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXNj_2jtNToRjWuWA2kikNg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:39:09"
+  },
+  {
+    "business_name": "Leaf Yoga Academy",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "521456",
+    "phone_number": "N/A",
+    "website": "http://leafyogavillage.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FMW3+FF5, Patamatalanka, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamatalanka, Benz Circle",
+    "latitude": 16.496132199999998,
+    "longitude": 80.6537204,
+    "place_id": "ChIJ54ue_mv7NToRbGom0zDxRWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54ue_mv7NToRbGom0zDxRWg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:39:11"
+  }
+]

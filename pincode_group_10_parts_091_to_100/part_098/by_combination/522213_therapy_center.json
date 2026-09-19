@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yerukalapudi Hospital",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522213",
+    "phone_number": "+91 95421 19999",
+    "website": "https://yerukalapudihospital.co.in/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Door No 59, main Road, Yerukalapud, Tenali, Gudivada, Andhra Pradesh 522306",
+    "area": "Yerukalapud",
+    "latitude": 16.2899133,
+    "longitude": 80.6309067,
+    "place_id": "ChIJPdf18YsJSjoRVJ0rXF6LDA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdf18YsJSjoRVJ0rXF6LDA4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:30:03"
+  },
+  {
+    "business_name": "FLEX CURE PHYSIOTHERAPY AND REHABILITATION",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "522213",
+    "phone_number": "+91 90147 88400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pitta shivaya complex, Dubacherla Road, near panduranga swamy temple, Chebrolu, Chebrole Khandrika, Andhra Pradesh 534406",
+    "area": "522213",
+    "latitude": 16.8249459,
+    "longitude": 81.3949643,
+    "place_id": "ChIJb5kLkzNJNjoR4M1Grvq6eHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5kLkzNJNjoR4M1Grvq6eHw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:30:04"
+  }
+]

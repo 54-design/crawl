@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Auto Cool",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Car repair and maintenance service, Auto repair shop",
+    "pincode": "521343",
+    "phone_number": "+91 98252 71728",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 114,
+    "address": "27, GIDC Rd, below Hotel Rahat, Char Rasta, GIDC, Vapi, Gujarat 396195",
+    "area": "Char Rasta, GIDC",
+    "latitude": 20.3634114,
+    "longitude": 72.9212794,
+    "place_id": "ChIJi2wYlDjO4DsR4tSdG1IatFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2wYlDjO4DsR4tSdG1IatFs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:36"
+  },
+  {
+    "business_name": "Ramesh Ac Sales And Services",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning system supplier",
+    "all_categories": "Air conditioning system supplier",
+    "pincode": "521343",
+    "phone_number": "+91 90003 64325",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "siddartha nagar, vinukonda, Vinukonda, Andhra Pradesh 522647",
+    "area": "521343",
+    "latitude": 16.0594794,
+    "longitude": 79.74586839999999,
+    "place_id": "ChIJ83eZI0KXSjoRcD1dUVP1jYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83eZI0KXSjoRcD1dUVP1jYg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:38"
+  }
+]

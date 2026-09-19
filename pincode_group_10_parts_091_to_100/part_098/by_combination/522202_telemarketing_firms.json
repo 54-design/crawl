@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manamu Media",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Media house",
+    "all_categories": "Media house, Service establishment",
+    "pincode": "522202",
+    "phone_number": "+91 93475 37540",
+    "website": "https://manamumedia.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Manamu Media, 522202, India",
+    "area": "522202",
+    "latitude": 16.9143777,
+    "longitude": 79.4246962,
+    "place_id": "ChIJtYYPEHa1-28RBf4WvrnQPkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYYPEHa1-28RBf4WvrnQPkw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:08"
+  },
+  {
+    "business_name": "Sri Datta Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "522202",
+    "phone_number": "+91 79818 41188",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sulthanabad",
+    "latitude": 16.243434699999998,
+    "longitude": 80.6277222,
+    "place_id": "ChIJMRX7WAAJSjoRmOs1yhGks9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRX7WAAJSjoRmOs1yhGks9c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:08"
+  }
+]

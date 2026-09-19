@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AYYAPPA FRESH & NATURAL STORE",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7FQ5+XVX, Yadava High School Road, Old Guntur, Guntur, Andhra Pradesh 522001",
+    "area": "Old Guntur",
+    "latitude": 16.2899924,
+    "longitude": 80.4597452,
+    "place_id": "ChIJt9Qc8MsKSjoRlyenc5j4bmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9Qc8MsKSjoRlyenc5j4bmc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:09"
+  },
+  {
+    "business_name": "Lavender Natural Fruit juice",
+    "search_category": "Organic Food Store",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "522212",
+    "phone_number": "+91 99598 28678",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "Shop No 4, NTR Bus Station, Main Rd, Sitaram Nagar, Guntur, Andhra Pradesh 522001",
+    "area": "Sitaram Nagar",
+    "latitude": 16.3003125,
+    "longitude": 80.4671228,
+    "place_id": "ChIJHcNg3CULSjoRTURPlpJZQzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcNg3CULSjoRTURPlpJZQzY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:09"
+  }
+]

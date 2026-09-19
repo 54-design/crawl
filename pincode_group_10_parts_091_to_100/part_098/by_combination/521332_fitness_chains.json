@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym IT - Lifestyle & Fitness Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Wellness center",
+    "pincode": "521332",
+    "phone_number": "+91 73585 05505",
+    "website": "https://gymitfitness.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st Floor, 4, Khan Street, Choolaimedu High Rd, Choolaimedu, Chennai, Tamil Nadu 600094",
+    "area": "Thiruvenkatapuram, Choolaimedu",
+    "latitude": 13.0654545,
+    "longitude": 80.2306629,
+    "place_id": "ChIJH8eNuIlmUjoRsYotiG7M8_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8eNuIlmUjoRsYotiG7M8_I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:51"
+  },
+  {
+    "business_name": "The Fitness Factory",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "521332",
+    "phone_number": "+91 93802 89336",
+    "website": "https://www.instagram.com/_the_fitness_factory_?igsh=dWhzdDI5bW51cnY0",
+    "rating": 4.8,
+    "reviews_count": 550,
+    "address": "2nd floor, 9, Windtunnel Main, Road, above udupi cafe hotel, Murugeshpalya, Bengaluru, Karnataka 560017",
+    "area": "Murugeshpalya",
+    "latitude": 12.9566234,
+    "longitude": 77.6537108,
+    "place_id": "ChIJ2RxFrLcTrjsRY4PxRc5GK0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RxFrLcTrjsRY4PxRc5GK0g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:52"
+  }
+]

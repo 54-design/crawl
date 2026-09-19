@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect Tour And Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Tour operator, Transportation service",
+    "pincode": "521256",
+    "phone_number": "+91 97545 87690",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Higher secondary school, Madpal, Chhattisgarh 494001",
+    "area": "521256",
+    "latitude": 19.0910802,
+    "longitude": 82.1357302,
+    "place_id": "ChIJvy7GAUASMDoRMzp_rbALhvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvy7GAUASMDoRMzp_rbALhvw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:39:02"
+  },
+  {
+    "business_name": "BSH Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "521256",
+    "phone_number": "+91 88868 03322",
+    "website": "https://www.bshtaxiservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "44-66, Palnati Colony, Srinivasa Nagar, Kancharapalem, Visakhapatnam, Andhra Pradesh 530008",
+    "area": "Palnati Colony, Srinivasa Nagar, Kancharapalem",
+    "latitude": 17.7429329,
+    "longitude": 83.27549909999999,
+    "place_id": "ChIJpUbhbnd-omYRWRj_FIZFKUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUbhbnd-omYRWRj_FIZFKUg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:39:03"
+  }
+]

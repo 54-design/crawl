@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAYAWADA ENT HOSPITAL, PATAMATA",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "521286",
+    "phone_number": "+91 98854 36772",
+    "website": "http://www.vijayawadaenthospitals.in/",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "VIJAYASOWDHA APPARTMENTS, FIRST FLOOR, FLATNO-103, HIGH SCHOOL ROAD, ROAD, above Airtel office, Patamata, RUTHU BAZAR, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamata, RUTHU BAZAR",
+    "latitude": 16.4933803,
+    "longitude": 80.66536669999999,
+    "place_id": "ChIJ9XcsQQT7NToR3j6Av_q9bes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XcsQQT7NToR3j6Av_q9bes",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:25"
+  },
+  {
+    "business_name": "Radhika Rayudu Speciality Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521286",
+    "phone_number": "+91 94400 84400",
+    "website": "http://www.rayuduent.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "13-3-32, Gunturvari Thota, Gunturuvarithota, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Gunturuvarithota",
+    "latitude": 16.2964693,
+    "longitude": 80.45276299999999,
+    "place_id": "ChIJHwyS7Up1SjoRFAU8y7Hyiaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwyS7Up1SjoRFAU8y7Hyiaw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:27"
+  }
+]

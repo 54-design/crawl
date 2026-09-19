@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandanaz",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "521286",
+    "phone_number": "N/A",
+    "website": "https://www.chandanaz.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chandana grand, Mg road, Nandamuri Rd, Brindavan Colony, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Brindavan Colony, Sriram Nagar, Labbipet",
+    "latitude": 16.5002991,
+    "longitude": 80.6464683,
+    "place_id": "ChIJsYiVVwD7NToRQlmfDZnCwV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYiVVwD7NToRQlmfDZnCwV0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:11"
+  },
+  {
+    "business_name": "Emmadi Silver Jewellery - Vijayawada",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Jewelry designer",
+    "pincode": "521286",
+    "phone_number": "+91 92810 30578",
+    "website": "http://www.emmadisilverjewellery.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, Flat No: 40, PVR building, The Gold Oasis Mall, 1-155, MG Rd, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.5013198,
+    "longitude": 80.6435772,
+    "place_id": "ChIJK46DmSr7NToRSyyaiQF2LGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK46DmSr7NToRSyyaiQF2LGg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:11"
+  }
+]

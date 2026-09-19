@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMART CENTER",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "521250",
+    "phone_number": "+91 70132 70415",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/92, Indian Bank Rd, Movva, Andhra Pradesh 521135",
+    "area": "521250",
+    "latitude": 16.2262077,
+    "longitude": 80.9133639,
+    "place_id": "ChIJy9SnIYX7SToR4lRx2M9HPdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9SnIYX7SToR4lRx2M9HPdI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:37:47"
+  },
+  {
+    "business_name": "Kolaganti Navanepati",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Service establishment",
+    "pincode": "521250",
+    "phone_number": "N/A",
+    "website": "https://www.google.com/search?q=kolaganti+navanepati&sxsrf=AJOqlzX7wMSKfoD0hYVQVZsBWTCd09LnyA%3A1677891394932&source=hp&ei=QpcCZJy4Nv7e4-EPqP672AE&oq=&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECdQAFgAYOAHaAFwAHgAgAEAiAEAkgEAmAEAsAEP&sclient=mobile-gws-wiz-hp#sbfbu=1&pi=kolaganti%20navanepati",
+    "rating": 4.5,
+    "reviews_count": 45,
+    "address": "Kolaganti Navanepati, 521250, India",
+    "area": "521250",
+    "latitude": 15.408601399999998,
+    "longitude": 77.3710646,
+    "place_id": "ChIJgQbKyx33tjsRNNu5K5uKeWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQbKyx33tjsRNNu5K5uKeWo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:37:48"
+  }
+]

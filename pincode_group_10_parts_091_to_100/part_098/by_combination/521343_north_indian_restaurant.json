@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi Bytes – Bihari & North Indian Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, Fast food restaurant, Non Vegetarian Restaurant, Punjabi restaurant, Vegetarian restaurant",
+    "pincode": "521343",
+    "phone_number": "+91 77022 58971",
+    "website": "https://www.facebook.com/DesiBytesHyderabad",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Beside Bhima Jewellers, Whitefield, Gachibowli - Miyapur Rd, Kondapur, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Venkat Enclave, Whitefields, Kondapur",
+    "latitude": 17.4543958,
+    "longitude": 78.3645106,
+    "place_id": "ChIJEUlnsseTyzsROY7zQYHiEPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUlnsseTyzsROY7zQYHiEPU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:07"
+  },
+  {
+    "business_name": "United Kitchens of India",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bengali restaurant, Chinese restaurant, Continental restaurant, Kerala restaurant, North Indian restaurant, Punjabi restaurant, Rajasthani Restaurant, South Indian restaurant",
+    "pincode": "521343",
+    "phone_number": "+91 77024 46611",
+    "website": "http://unitedkitchensofindia.com/",
+    "rating": 4.5,
+    "reviews_count": 10890,
+    "address": "State Highway 1 The Purple Leaf Hotel Main, Shamirpet Rd, Karkhana, Secunderabad, Telangana 500009",
+    "area": "R & D Colony, Karkhana",
+    "latitude": 17.4589857,
+    "longitude": 78.5004573,
+    "place_id": "ChIJ0XnENUKayzsRkv3EYTEFRxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XnENUKayzsRkv3EYTEFRxM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:08"
+  }
+]

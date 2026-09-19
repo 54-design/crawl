@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Rahul Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522112",
+    "phone_number": "+91 80196 19696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "4/1 Brodipet Opp. To Sankar Vilas Raghumansion Complex, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3018449,
+    "longitude": 80.43859839999999,
+    "place_id": "ChIJxZ42FJN1SjoR4baov_rER94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ42FJN1SjoR4baov_rER94",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:16:09"
+  },
+  {
+    "business_name": "Sri Rajya Lakshmi Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "522112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3-274, Sharaf Bazar Rd, Shroff Bazar, Salivahanapeta, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Shroff Bazar, Salivahanapeta",
+    "latitude": 16.4306819,
+    "longitude": 80.5688366,
+    "place_id": "ChIJASbsAYTxNToRvtNM-_v3NvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASbsAYTxNToRvtNM-_v3NvQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:16:10"
+  }
+]

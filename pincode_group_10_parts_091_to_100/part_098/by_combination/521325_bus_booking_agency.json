@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Varahi car Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521325",
+    "phone_number": "+91 89785 36262",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-202-1, Gudlavalleru, Andhra Pradesh 521356",
+    "area": "521325",
+    "latitude": 16.3482801,
+    "longitude": 81.0500734,
+    "place_id": "ChIJ0fpqeuIdNjoR0lWDuP7n5xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fpqeuIdNjoR0lWDuP7n5xM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:43"
+  },
+  {
+    "business_name": "Bharat Gas",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Gas cylinders supplier",
+    "all_categories": "Gas cylinders supplier",
+    "pincode": "521325",
+    "phone_number": "+91 98855 19782",
+    "website": "https://ebharatgas.com/bharatgas/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "6 - 124 A, Gurajala Road, Eluru, Mudinepalle, Andhra Pradesh 521325",
+    "area": "521325",
+    "latitude": 16.421001,
+    "longitude": 81.1130019,
+    "place_id": "ChIJSXHJPtweNjoR3cxbrn3SUiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXHJPtweNjoR3cxbrn3SUiU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:45"
+  }
+]

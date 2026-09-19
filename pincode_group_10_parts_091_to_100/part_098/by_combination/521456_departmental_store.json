@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sreenu Genaral Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521456",
+    "phone_number": "+91 70361 85988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sreenu Genaral Stores, Ibrahimpatnam, Gudurupadu, Andhra Pradesh 521456",
+    "area": "521456",
+    "latitude": 16.597424999999998,
+    "longitude": 80.52664329999999,
+    "place_id": "ChIJa9HnrRLtNToRIqNYE5nHqb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9HnrRLtNToRIqNYE5nHqb4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:33"
+  },
+  {
+    "business_name": "Devi Bhavani Home Needs",
+    "search_category": "Departmental Store",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store, Home goods store",
+    "pincode": "521456",
+    "phone_number": "+91 92980 07768",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ratham Center, 11-49-213 A, Sivalayam St, 1 Town, Kaleswara Rao Market, Tarapet, Vijayawada, Andhra Pradesh 520001",
+    "area": "1 Town, Kaleswara Rao Market, Tarapet",
+    "latitude": 16.513358399999998,
+    "longitude": 80.6092791,
+    "place_id": "ChIJVavgwN_vNToRh9L8yELfVRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVavgwN_vNToRh9L8yELfVRs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:36"
+  }
+]

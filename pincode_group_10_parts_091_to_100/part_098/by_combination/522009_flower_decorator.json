@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh flowers n cake",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "522009",
+    "phone_number": "+91 83460 97074",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ashok Nagar, Guntur, Andhra Pradesh 522002",
+    "area": "Ashok Nagar",
+    "latitude": 16.311151499999998,
+    "longitude": 80.4269229,
+    "place_id": "ChIJa_gnTfR1SjoRyhRapW_T4VY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_gnTfR1SjoRyhRapW_T4VY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:40"
+  },
+  {
+    "business_name": "Harsh Decorator",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Service establishment",
+    "pincode": "522009",
+    "phone_number": "+91 98218 37913",
+    "website": "https://www.harshdecorator.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harsh Decorator, 522009, India",
+    "area": "522009",
+    "latitude": 28.627561999999998,
+    "longitude": 77.0731514,
+    "place_id": "ChIJ1_zldq-qgIQRwwS2QkDmV1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_zldq-qgIQRwwS2QkDmV1s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:43"
+  }
+]

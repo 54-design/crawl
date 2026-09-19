@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrutha Interior Designers",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "521247",
+    "phone_number": "+91 89774 51285",
+    "website": "https://amruthainteriors.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot 23A, Nagole Rd, Samathapuri Colony, Samathapuri, Nagole, Hyderabad, Telangana 500102",
+    "area": "Samathapuri Colony, Samathapuri, Nagole",
+    "latitude": 17.379617,
+    "longitude": 78.5572644,
+    "place_id": "ChIJTbXmQCiZyzsR1ZuNliD6SSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbXmQCiZyzsR1ZuNliD6SSo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:35:22"
+  },
+  {
+    "business_name": "M H Design Studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "521247",
+    "phone_number": "N/A",
+    "website": "https://www.mhdesigns.in/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Door No-1, 88-12, near Shuttle Court, MVP Sector 3, Sector 4, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "MVP Sector 3, Sector 4, MVP Colony",
+    "latitude": 17.7413108,
+    "longitude": 83.3346018,
+    "place_id": "ChIJ094_vFVDOToRdCTptQWChGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ094_vFVDOToRdCTptQWChGw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:35:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leelasri Car Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521321",
+    "phone_number": "+91 99489 69094",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mudinepalle, Andhra Pradesh 521325",
+    "area": "521321",
+    "latitude": 16.419521,
+    "longitude": 81.114038,
+    "place_id": "ChIJx_AG3qofNjoRpmPIbQVCUTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_AG3qofNjoRpmPIbQVCUTI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:15"
+  },
+  {
+    "business_name": "transco tours&vacations",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6-21,kothachowtapalli,gudivada,krishna dist,andhra pradesh,india 521321, Gudivada, Andhra Pradesh 521323",
+    "area": "Kotta Chavutapalle",
+    "latitude": 16.427048199999998,
+    "longitude": 81.0409036,
+    "place_id": "ChIJ-6VdzaodNjoRxyZ-Rnsrib0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6VdzaodNjoRxyZ-Rnsrib0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen & Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food & Beverage Exporter",
+    "all_categories": "Food & Beverage Exporter",
+    "pincode": "521332",
+    "phone_number": "+91 99000 93695",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th G Main Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar",
+    "latitude": 13.0240517,
+    "longitude": 77.6393525,
+    "place_id": "ChIJn_taJbUXrjsRfm2cKZlR5DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_taJbUXrjsRfm2cKZlR5DM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:28"
+  },
+  {
+    "business_name": "Rajyani's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "521332",
+    "phone_number": "+91 83284 75233",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "16-26-11/1A, near Port Railway Station Area, Venkateswara Nagar, Revenue Colony, Kakinada, Andhra Pradesh 533001",
+    "area": "Venkateswara Nagar, Revenue Colony",
+    "latitude": 16.9533384,
+    "longitude": 82.24290169999999,
+    "place_id": "ChIJj7tPY5gnODoRhQnwK11fDgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7tPY5gnODoRhQnwK11fDgw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:29"
+  }
+]

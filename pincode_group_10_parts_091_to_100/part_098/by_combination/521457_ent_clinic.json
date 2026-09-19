@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Rama Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521457",
+    "phone_number": "+91 86542 22331",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "V3WX+F6W, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "521457",
+    "latitude": 16.8962376,
+    "longitude": 80.09807889999999,
+    "place_id": "ChIJ_0K6HyioNToRrSa3lGOReWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0K6HyioNToRrSa3lGOReWY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:01"
+  },
+  {
+    "business_name": "Asma ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "521457",
+    "phone_number": "+91 83095 86288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Cross Rd, Central Exchange Colony, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Central Exchange Colony, Sai Nagar",
+    "latitude": 14.675217199999999,
+    "longitude": 77.6020202,
+    "place_id": "ChIJ9XpcHgBLsTsRRZJv5FTyJTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XpcHgBLsTsRRZJv5FTyJTg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:02"
+  }
+]

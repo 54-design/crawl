@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSA cars world",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "522212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Guntur -Tenali Rd, Narakoduru, Andhra Pradesh 522212",
+    "area": "522212",
+    "latitude": 16.2282397,
+    "longitude": 80.521481,
+    "place_id": "ChIJCQkhVAAJSjoRJ46yMaZ0XW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQkhVAAJSjoRJ46yMaZ0XW0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:51"
+  },
+  {
+    "business_name": "Afrina car garage",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "522212",
+    "phone_number": "+91 95424 92529",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vasavi Nagar, Guntur, Andhra Pradesh 522001",
+    "area": "Vasavi Nagar",
+    "latitude": 16.3113291,
+    "longitude": 80.4709156,
+    "place_id": "ChIJpTYZz2oLSjoRbG5SWW54RZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTYZz2oLSjoRbG5SWW54RZM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:27:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR CAR TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Bus tour agency, Car rental agency, Minibus taxi service, Taxi service, Tour operator, Travel agency",
+    "pincode": "522017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 123,
+    "address": "MDR155, Katrapadu, Andhra Pradesh 522017",
+    "area": "522017",
+    "latitude": 16.1947214,
+    "longitude": 80.4272216,
+    "place_id": "ChIJ1w5UsSRzSjoRP7GK3mw3aq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1w5UsSRzSjoRP7GK3mw3aq0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:01:39"
+  },
+  {
+    "business_name": "Apple car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour agency",
+    "pincode": "522017",
+    "phone_number": "+91 75692 99856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sulthanabad",
+    "latitude": 16.2406309,
+    "longitude": 80.62898059999999,
+    "place_id": "ChIJ0eK01jkJSjoR564RowBbviY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0eK01jkJSjoR564RowBbviY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:01:39"
+  }
+]

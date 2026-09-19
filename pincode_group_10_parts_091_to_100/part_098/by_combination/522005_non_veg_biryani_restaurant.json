@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Biryan",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fine dining restaurant, Indian takeaway, Meal delivery, Takeout restaurant, Restaurant",
+    "pincode": "522005",
+    "phone_number": "+91 77220 72274",
+    "website": "https://thebiryan.com/",
+    "rating": 4.3,
+    "reviews_count": 394,
+    "address": "Shop no. 06, Spirea Building, The Biryan, opp. Euro School, near New Poona Bakery, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "Bhagwan Nagar, Bhumkar Nagar, Wakad",
+    "latitude": 18.602691999999998,
+    "longitude": 73.7447504,
+    "place_id": "ChIJN1uhEHjlIDoRoPm3rKVYYB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1uhEHjlIDoRoPm3rKVYYB8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:12"
+  },
+  {
+    "business_name": "Vasim biryani point",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "522005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "88CR+MV7, Perecherla, Andhra Pradesh 522009",
+    "area": "522005",
+    "latitude": 16.321663,
+    "longitude": 80.34217439999999,
+    "place_id": "ChIJe0v06taJNToRwbpWkjDERa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0v06taJNToRwbpWkjDERa0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:15"
+  }
+]

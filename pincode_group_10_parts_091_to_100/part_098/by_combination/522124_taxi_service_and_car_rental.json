@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun Car Travels, Ponnur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522124",
+    "phone_number": "+91 98664 83715",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SPP Rd, Ponnur, Andhra Pradesh 522124",
+    "area": "522124",
+    "latitude": 16.067481,
+    "longitude": 80.54842099999999,
+    "place_id": "ChIJDYFMuWARSjoRyjm2oPvIqF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYFMuWARSjoRyjm2oPvIqF8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:20:17"
+  },
+  {
+    "business_name": "Venky car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "522124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramalayam, Telagapalem, Ponnur, Andhra Pradesh 522124",
+    "area": "Telagapalem",
+    "latitude": 16.0726588,
+    "longitude": 80.54919939999999,
+    "place_id": "ChIJp4oh1V8RSjoRLvtv89fVilg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4oh1V8RSjoRLvtv89fVilg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:20:20"
+  }
+]

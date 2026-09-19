@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vibha salon and Spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522006",
+    "phone_number": "+91 81436 49221",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gayathri Nagar, 2nd Ln, Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.3361441,
+    "longitude": 80.4316837,
+    "place_id": "ChIJyzopbwCLNToR1E4yrhbZzoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzopbwCLNToR1E4yrhbZzoI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:54"
+  },
+  {
+    "business_name": "Beauty Life Centre Unisex Salon & Spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Spa",
+    "pincode": "522006",
+    "phone_number": "+91 91001 68035",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Lakshmi Narasimha Nagar 1st line, RTA office road, Gorantla, Andhra Pradesh 522034",
+    "area": "522006",
+    "latitude": 16.3359131,
+    "longitude": 80.43426,
+    "place_id": "ChIJWd65HM2LNToR--jDcv9c-j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWd65HM2LNToR--jDcv9c-j4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:54"
+  }
+]

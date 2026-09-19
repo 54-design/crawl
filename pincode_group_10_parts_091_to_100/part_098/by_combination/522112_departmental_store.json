@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SYED KHARIMULLA GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522112",
+    "phone_number": "+91 63057 81326",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "5-11, near Water Tank, Itikampadu, Guntur, Upparapalem, Andhra Pradesh 522124",
+    "area": "Itikampadu",
+    "latitude": 16.0727337,
+    "longitude": 80.5264333,
+    "place_id": "ChIJu8DM54ITSjoRsPh6J4Hs9t4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8DM54ITSjoRsPh6J4Hs9t4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:15:49"
+  },
+  {
+    "business_name": "Sai Pan Shop And General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "522112",
+    "phone_number": "+91 95028 76840",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "3, 21main Road, near Bus Stand, Kakumanu, Andhra Pradesh 522112",
+    "area": "522112",
+    "latitude": 16.0568216,
+    "longitude": 80.39811069999999,
+    "place_id": "ChIJ3xQ-qzhtSjoR6I00l8kSEgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xQ-qzhtSjoR6I00l8kSEgY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:15:49"
+  }
+]

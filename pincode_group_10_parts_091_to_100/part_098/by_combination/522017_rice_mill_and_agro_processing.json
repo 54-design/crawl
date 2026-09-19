@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "522017",
+    "phone_number": "+91 94412 77101",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "8J22+5P, Guntur - Hanumanpalem Rd, Khazipet, Kolakaluru, Andhra Pradesh 522307",
+    "area": "Khazipet",
+    "latitude": 16.300413799999998,
+    "longitude": 80.6022916,
+    "place_id": "ChIJnXKV1BMJSjoRD3d7SP84j0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXKV1BMJSjoRD3d7SP84j0Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:02:35"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "522017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "6FM4+XJ7, Ananthavarappadu, Andhra Pradesh 522017",
+    "area": "522017",
+    "latitude": 16.234912599999998,
+    "longitude": 80.4565357,
+    "place_id": "ChIJQZph6VILSjoRhDpnF-2gU_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZph6VILSjoRhDpnF-2gU_o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:02:35"
+  }
+]

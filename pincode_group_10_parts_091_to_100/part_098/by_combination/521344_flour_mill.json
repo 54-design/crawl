@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "521344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G74R+WFJ, Kalidindi, Andhra Pradesh 521344",
+    "area": "521344",
+    "latitude": 16.507333499999998,
+    "longitude": 81.29112549999999,
+    "place_id": "ChIJQzVSQ-MkNjoRA1p4_RBf85E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzVSQ-MkNjoRA1p4_RBf85E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:21:51"
+  },
+  {
+    "business_name": "Fareed Basha",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "521344",
+    "phone_number": "+91 90101 42938",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G75R+H58, Kaikaluru - Kalidindi Rd, Kalidindi, Andhra Pradesh 521344",
+    "area": "521344",
+    "latitude": 16.508902499999998,
+    "longitude": 81.2904432,
+    "place_id": "ChIJmYEsfuMkNjoRmkigH53ErTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYEsfuMkNjoRmkigH53ErTE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:21:51"
+  }
+]

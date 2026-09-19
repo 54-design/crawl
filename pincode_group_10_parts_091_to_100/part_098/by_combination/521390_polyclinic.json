@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tropical Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "521390",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "58, JN Roy Bahadur Rd, Krishnanagar, West Bengal 741101",
+    "area": "521390",
+    "latitude": 23.3980027,
+    "longitude": 88.4944402,
+    "place_id": "ChIJeYO57xUg-TkR2n2CfULwjm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYO57xUg-TkR2n2CfULwjm8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:38"
+  },
+  {
+    "business_name": "STAR DOCTOR'S MULTY SPECIALITY POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521390",
+    "phone_number": "+91 85008 78333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-12-12/1 nageswarao street, maridamma temple road, beside gayathri gas agency, Peddapuram, Andhra Pradesh 533437",
+    "area": "521390",
+    "latitude": 17.076686,
+    "longitude": 82.14153999999999,
+    "place_id": "ChIJ0aiPMQCBNzoRjXrmqvLKpmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0aiPMQCBNzoRjXrmqvLKpmU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Microsoft Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "521457",
+    "phone_number": "+91 99122 88628",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Kodad - Khammam Rd, Y.Y. Colony, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "Y.Y. Colony",
+    "latitude": 16.8944588,
+    "longitude": 80.0981158,
+    "place_id": "ChIJHcSyIYgHNToRxRaQ6pHj2uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcSyIYgHNToRxRaQ6pHj2uE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:43"
+  },
+  {
+    "business_name": "ULEARN",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "521457",
+    "phone_number": "+91 92930 51375",
+    "website": "http://ulearn-edu.com/",
+    "rating": 4.5,
+    "reviews_count": 100,
+    "address": "RAMCO Cement Factory, 4-17, RCC ROOF BUILDING, VATSAVAI MANDAL, Dharmavarappadu, Andhra Pradesh 521178",
+    "area": "521457",
+    "latitude": 16.9209763,
+    "longitude": 80.1316927,
+    "place_id": "ChIJVVVVVaWpNToRVFDCzM5RiGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaWpNToRVFDCzM5RiGE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:43"
+  }
+]

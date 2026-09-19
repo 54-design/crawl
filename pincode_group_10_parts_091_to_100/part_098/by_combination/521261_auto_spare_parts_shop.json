@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjana Motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Two Wheeler Repair Shop",
+    "pincode": "521261",
+    "phone_number": "+91 93970 87399",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "ANDHRA BAPTISH CHERCH CENTER MUDUNURU ROAD RAVI BOOR WELL HOUSE, opp. KATURU, Andhra Pradesh 521164",
+    "area": "521261",
+    "latitude": 16.420670899999998,
+    "longitude": 80.8624126,
+    "place_id": "ChIJj1Fe4y4BNjoRqgfwTJF4r54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1Fe4y4BNjoRqgfwTJF4r54",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:42:45"
+  },
+  {
+    "business_name": "Mahavir Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "521261",
+    "phone_number": "+91 81810 27222",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Mahavir auto parts, Old Bypass Rd, Heavy Vehicles Repairing and Servicing Locality, Thottapalayam, Vellore, Tamil Nadu 632004",
+    "area": "Heavy Vehicles Repairing and Servicing Locality, Thottapalayam",
+    "latitude": 12.9292141,
+    "longitude": 79.1327171,
+    "place_id": "ChIJA999BpY4rTsRLTEZKPT01bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA999BpY4rTsRLTEZKPT01bw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:42:46"
+  }
+]

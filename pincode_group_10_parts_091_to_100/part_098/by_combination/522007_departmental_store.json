@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Sairam General & Fancy Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Gourmet grocery store, Religious goods store, Soft drinks shop",
+    "pincode": "522007",
+    "phone_number": "+91 95538 92639",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "7th Line, Amaravathi Road, Muthyala Reddy Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chaitanyapuri, Venugopalnagar, Gauthami Nagar",
+    "latitude": 16.3221816,
+    "longitude": 80.4337929,
+    "place_id": "ChIJKTO47aGKNToRHhXuWZLOeps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTO47aGKNToRHhXuWZLOeps",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:49"
+  },
+  {
+    "business_name": "SV General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522007",
+    "phone_number": "+91 77999 11166",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Aaditri Evoca, Guntur, Andhra Pradesh 522002",
+    "area": "522007",
+    "latitude": 16.3338882,
+    "longitude": 80.42744379999999,
+    "place_id": "ChIJR6ZoFXSLNToR2KIZbPoogGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6ZoFXSLNToR2KIZbPoogGE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:50"
+  }
+]

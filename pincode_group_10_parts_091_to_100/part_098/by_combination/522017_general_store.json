@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prameela general stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522017",
+    "phone_number": "+91 91215 14954",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Chamallamudi, Andhra Pradesh 522017",
+    "area": "522017",
+    "latitude": 16.2138125,
+    "longitude": 80.4285625,
+    "place_id": "ChIJL_1jlvxzSjoRx-mCv1tPF9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_1jlvxzSjoRx-mCv1tPF9M",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:01:00"
+  },
+  {
+    "business_name": "Krupa General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Line, KVP Colony, Guntur, Andhra Pradesh 522006",
+    "area": "KVP Colony",
+    "latitude": 16.2856909,
+    "longitude": 80.4277979,
+    "place_id": "ChIJ1ZSOLgB1SjoRnwamrCmnKlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZSOLgB1SjoRnwamrCmnKlo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:01:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Luxury Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Service establishment, Real estate agent, Real estate consultant",
+    "pincode": "521390",
+    "phone_number": "N/A",
+    "website": "https://fineluxuryproperty.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Fine Luxury Property, 521390, India",
+    "area": "521390",
+    "latitude": 34.3219421,
+    "longitude": 12.0498608,
+    "place_id": "ChIJ23amI8cdbkgRG2s8EnvS8mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23amI8cdbkgRG2s8EnvS8mk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:32:44"
+  },
+  {
+    "business_name": "Prime Realtors",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "521390",
+    "phone_number": "+91 93307 33333",
+    "website": "http://www.primerealtysuperstore.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1ST FLOOR, SIDDHA VILLA, 27, Marquis St, Esplanade, Janbazar, Taltala, Kolkata, West Bengal 700016",
+    "area": "Esplanade, Janbazar, Taltala",
+    "latitude": 22.557257,
+    "longitude": 88.355419,
+    "place_id": "ChIJV3O3FAZ3AjoROfs01IVFTDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3O3FAZ3AjoROfs01IVFTDE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:32:44"
+  }
+]

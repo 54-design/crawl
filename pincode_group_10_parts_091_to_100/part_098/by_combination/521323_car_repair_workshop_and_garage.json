@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohini Car Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting",
+    "pincode": "521323",
+    "phone_number": "+91 78697 59674",
+    "website": "https://cargarageindore.com/",
+    "rating": 4.6,
+    "reviews_count": 53,
+    "address": "Shop No 4, Chouhan Naar, Plot no 198 FB, near Papa Bakery, Pipliyahana Square, Brajeshwari Extension, Scheme 94, Indore, Madhya Pradesh 452006",
+    "area": "Pipliyahana Square, Brajeshwari Extension, Scheme 94",
+    "latitude": 22.7049755,
+    "longitude": 75.9067262,
+    "place_id": "ChIJX8dQuc7jYjkRr4b9j7_F-gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8dQuc7jYjkRr4b9j7_F-gs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:55"
+  },
+  {
+    "business_name": "Autotech Customs",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "521323",
+    "phone_number": "+91 95755 67660",
+    "website": "https://youtube.com/@autotechcustoms9214?si=wP7MDLXEcx6NrAOF",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sachin Tendulkar Extention Marg, near DB City, Thatipur, Gwalior, Madhya Pradesh 474006",
+    "area": "Thatipur",
+    "latitude": 26.201223499999998,
+    "longitude": 78.2124966,
+    "place_id": "ChIJr6SI7jDDdjkR-nzkMbuImu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6SI7jDDdjkR-nzkMbuImu0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:55"
+  }
+]

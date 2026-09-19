@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Le Posh Family Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "522113",
+    "phone_number": "+91 86086 39039",
+    "website": "https://www.leposhfamilyspa.com/",
+    "rating": 4.7,
+    "reviews_count": 110,
+    "address": "Sriharideep, 4/410, Venture Park, Rajiv Gandhi Salai, Chandrasekhar Avenue, Thoraipakkam, Chennai, Tamil Nadu 600097",
+    "area": "Chandrasekhar Avenue",
+    "latitude": 12.9342749,
+    "longitude": 80.2327189,
+    "place_id": "ChIJ74a_7yVdUjoR64tSTCCWbnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74a_7yVdUjoR64tSTCCWbnw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:18:39"
+  },
+  {
+    "business_name": "Green Day Spa Pallavaram",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Day spa, Foot massage parlor, Spa, Thai massage therapist",
+    "pincode": "522113",
+    "phone_number": "+91 99629 09076",
+    "website": "https://greendayspa.com/our-branch/massage-spa-in-chennai/massage-spa-in-pallavarm",
+    "rating": 4.1,
+    "reviews_count": 75,
+    "address": "3/2D Ponniamman Koil St C.Pallavaram, Mallika Nagar, Pallavaram, Chennai Tamil Nadu 600016, near Cantonment Park, Pallavaram (Contonment), Tamil Nadu 600043",
+    "area": "C.Pallavaram, Mallika Nagar, Pallavaram",
+    "latitude": 12.974377299999999,
+    "longitude": 80.1473504,
+    "place_id": "ChIJKV710oZfUjoRHgHtj8S9Lxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV710oZfUjoRHgHtj8S9Lxs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:18:39"
+  }
+]

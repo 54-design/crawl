@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dezign Shark",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Design agency, Graphic designer, Internet marketing service, Advertising agency, Media company, Software company, Video editing service, Website designer",
+    "pincode": "521261",
+    "phone_number": "+91 79979 92885",
+    "website": "https://dezignshark.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "68, Senore Colony, Aparna Senore Valley Villas, Ambedkar Nagar, Film Nagar, Hyderabad, Telangana 500096",
+    "area": "Senore Colony, Aparna Senore Valley Villas, Ambedkar Nagar, Film Nagar",
+    "latitude": 17.4113163,
+    "longitude": 78.4016699,
+    "place_id": "ChIJXVkdpWU3tAYRIQR_WeCSgYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVkdpWU3tAYRIQR_WeCSgYg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:43:55"
+  },
+  {
+    "business_name": "Digital Bora",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "521261",
+    "phone_number": "+91 85019 56901",
+    "website": "https://www.digitalbora.com/",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "Manjeera Trinity Corporate, Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally",
+    "latitude": 17.489557899999998,
+    "longitude": 78.3926552,
+    "place_id": "ChIJnXL3YreNyzsRFKqlIVuSdVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXL3YreNyzsRFKqlIVuSdVY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:43:57"
+  }
+]

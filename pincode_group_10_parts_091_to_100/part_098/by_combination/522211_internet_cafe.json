@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meeseva Office",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "522211",
+    "phone_number": "+91 90003 95950",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Guntur -Tenali Rd, near Ramalayam Temple, Sangamjagarlamudi, Andhra Pradesh 522213",
+    "area": "522211",
+    "latitude": 16.2407429,
+    "longitude": 80.5822384,
+    "place_id": "ChIJc1pNNxkJSjoRzkwnB-Q4AOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1pNNxkJSjoRzkwnB-Q4AOs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:26:35"
+  },
+  {
+    "business_name": "Rao Garu",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-43, Satram, Angalakuduru, Andhra Pradesh 522211",
+    "area": "522211",
+    "latitude": 16.2403558,
+    "longitude": 80.6039031,
+    "place_id": "ChIJKXnMCigJSjoRLSuVmV1Bahs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXnMCigJSjoRLSuVmV1Bahs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:26:38"
+  }
+]

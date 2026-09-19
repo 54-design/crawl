@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xpress Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "522202",
+    "phone_number": "N/A",
+    "website": "https://www.exppresscarwash.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Bus Stop, Guntur Road, Sultanabad, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sultanabad, Sulthanabad",
+    "latitude": 16.240278099999998,
+    "longitude": 80.6271024,
+    "place_id": "ChIJI81ZgYkJSjoRIindUctJKeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI81ZgYkJSjoRIindUctJKeE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:59"
+  },
+  {
+    "business_name": "SUNRISE CAR CARE & DECORS",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop",
+    "pincode": "522202",
+    "phone_number": "+91 99859 82838",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Guntur -Tenali Rd, Sulthanabad, Tenali, Andhra Pradesh 522201",
+    "area": "Sulthanabad",
+    "latitude": 16.2406801,
+    "longitude": 80.6211419,
+    "place_id": "ChIJG0zkOXkJSjoReAp7oaZZl-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0zkOXkJSjoReAp7oaZZl-M",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:24:00"
+  }
+]

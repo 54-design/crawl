@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Complex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Movie theater",
+    "all_categories": "Movie theater",
+    "pincode": "522201",
+    "phone_number": "+91 86442 28067",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 38, Gopal Reddy St, Ganganamma Peta, Ithanagar, Tenali, Andhra Pradesh 522201",
+    "area": "Ganganamma Peta, Ithanagar",
+    "latitude": 16.2434056,
+    "longitude": 80.6456961,
+    "place_id": "ChIJF2kVuQ8GSjoRRnxBfWGPVRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2kVuQ8GSjoRRnxBfWGPVRU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:17"
+  },
+  {
+    "business_name": "Jio Office",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Mobile network operator",
+    "all_categories": "Mobile network operator",
+    "pincode": "522201",
+    "phone_number": "+91 1860 893 3333",
+    "website": "https://www.jio.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Ramalingeswara Pet",
+    "latitude": 16.237274799999998,
+    "longitude": 80.6509726,
+    "place_id": "ChIJ31oYtwsGSjoR-osZ_EFSP-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31oYtwsGSjoR-osZ_EFSP-4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:18"
+  }
+]

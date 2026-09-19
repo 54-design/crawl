@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaron Pit Stop",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "521401",
+    "phone_number": "+91 94402 89214",
+    "website": "https://www.amaron.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6829331,
+    "longitude": 77.6002178,
+    "place_id": "ChIJQyRjTNpKsTsR0u3wSb1f91c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyRjTNpKsTsR0u3wSb1f91c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:43"
+  },
+  {
+    "business_name": "Battery Prasad (Parameswara Enterprises)",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "521401",
+    "phone_number": "+91 94416 84279",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "4-9-5 SREERAMA, Maruthi Hall Rd, Pulivendula, Andhra Pradesh 516390",
+    "area": "521401",
+    "latitude": 14.4195748,
+    "longitude": 78.2240267,
+    "place_id": "ChIJcc-JfnHrszsRWiDsBOaGILI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcc-JfnHrszsRWiDsBOaGILI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:45"
+  }
+]

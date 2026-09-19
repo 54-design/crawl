@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Inn Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522006",
+    "phone_number": "+91 91005 33383",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "JKC College Rd, near R.T.O Office, Guntur, Andhra Pradesh 522006",
+    "area": "522006",
+    "latitude": 16.3306873,
+    "longitude": 80.418915,
+    "place_id": "ChIJ26O4HZ6LNToRPY3w9eqQ7Rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26O4HZ6LNToRPY3w9eqQ7Rk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:09"
+  },
+  {
+    "business_name": "Hotel Sri Lakshmi Sai",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522006",
+    "phone_number": "+91 99122 22813",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nandivelugu Rd, Balaji Nagar, Old Guntur, Guntur, Andhra Pradesh 522001",
+    "area": "Balaji Nagar, Old Guntur",
+    "latitude": 16.2939227,
+    "longitude": 80.4640697,
+    "place_id": "ChIJV42xYGULSjoRVTVWQQanRtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV42xYGULSjoRVTVWQQanRtQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:09"
+  }
+]

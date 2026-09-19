@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jupudy Automotive",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Auto painting, Toyota dealer",
+    "pincode": "521340",
+    "phone_number": "+91 98494 32445",
+    "website": "http://jupudy-automotive.epizy.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Hosanna Mandir Rd, opp. Children park, Lalacheruvu, Rajamahendravaram, Andhra Pradesh 533106",
+    "area": "Lalacheruvu",
+    "latitude": 17.026467999999998,
+    "longitude": 81.8092246,
+    "place_id": "ChIJr08jzBOjNzoRe4fZVztnpIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr08jzBOjNzoRe4fZVztnpIU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:46"
+  },
+  {
+    "business_name": "Andhra Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "521340",
+    "phone_number": "+91 63027 91913",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 16,
+    "address": "Chalamuri Towers, near Petrol Bunk, Babametta, Vizianagaram, Andhra Pradesh 535002",
+    "area": "Babametta",
+    "latitude": 18.1134636,
+    "longitude": 83.4225582,
+    "place_id": "ChIJP2BGkIrlOzoRaSm0hWIYWDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2BGkIrlOzoRaSm0hWIYWDc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:46"
+  }
+]

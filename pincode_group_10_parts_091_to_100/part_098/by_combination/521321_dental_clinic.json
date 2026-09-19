@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surya dental care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "521321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mudinepalle, Andhra Pradesh 521325",
+    "area": "521321",
+    "latitude": 16.4215256,
+    "longitude": 81.1108919,
+    "place_id": "ChIJB1gTSAAfNjoRL3X7f9C2LDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1gTSAAfNjoRL3X7f9C2LDU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:02"
+  },
+  {
+    "business_name": "Apple Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "521321",
+    "phone_number": "+91 99121 01012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna, SH-46, Hanuman Junction Gudivada Road, Gudiwada, Gudiwada, Andhra Pradesh 521301",
+    "area": "Loyaada",
+    "latitude": 16.4357839,
+    "longitude": 80.9925837,
+    "place_id": "ChIJX7Vl_VUbNjoRtVGo3uS9VNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7Vl_VUbNjoRtVGo3uS9VNw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:04"
+  }
+]

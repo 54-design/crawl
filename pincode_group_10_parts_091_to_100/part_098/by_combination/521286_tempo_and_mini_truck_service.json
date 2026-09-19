@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta Transport",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "521286",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "41-1/7-13, 3rd line, Gowthami Nagar, Krishna Lanka, Vijayawada, Andhra Pradesh 520013",
+    "area": "Gowthami Nagar, Krishna Lanka",
+    "latitude": 16.502174,
+    "longitude": 80.630214,
+    "place_id": "ChIJibM-5d7xNToRZBXfo42c83g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibM-5d7xNToRZBXfo42c83g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:38"
+  },
+  {
+    "business_name": "Sri Sai Vikram Mini Transport",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "521286",
+    "phone_number": "+91 99082 03501",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "40-17-183, Brindavan Colony, Fakirgudem, Vijayawada, Andhra Pradesh 520010",
+    "area": "Brindavan Colony, Fakirgudem",
+    "latitude": 16.4966179,
+    "longitude": 80.6453274,
+    "place_id": "ChIJY7Gcr3r7NToR6tUcX6vNjn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7Gcr3r7NToR6tUcX6vNjn4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:38"
+  }
+]

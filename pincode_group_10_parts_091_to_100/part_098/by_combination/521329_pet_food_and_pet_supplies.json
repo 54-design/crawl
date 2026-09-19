@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Paws Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521329",
+    "phone_number": "+91 90644 18324",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 57,
+    "address": "47T Rail Gate, Bajar, Chanduria, Chakdaha, West Bengal 741248",
+    "area": "Bajar",
+    "latitude": 23.043459499999997,
+    "longitude": 88.5111615,
+    "place_id": "ChIJK5H4PhfB-DkR4Mt72l-U7cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5H4PhfB-DkR4Mt72l-U7cs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:08:38"
+  },
+  {
+    "business_name": "CHAKDAHA PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521329",
+    "phone_number": "+91 97327 23472",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 69,
+    "address": "0, Sampriti Monch, Chakdaha, West Bengal 741222",
+    "area": "Palpara",
+    "latitude": 23.0723102,
+    "longitude": 88.5250954,
+    "place_id": "ChIJST9zmwvB-DkREcLJsxpXOeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJST9zmwvB-DkREcLJsxpXOeA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:08:38"
+  }
+]

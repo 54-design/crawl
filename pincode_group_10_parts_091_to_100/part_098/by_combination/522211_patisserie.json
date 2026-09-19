@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SV Sweets and Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522211",
+    "phone_number": "+91 99663 38055",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "266 A10, Kothapeta Rd, Kothapet, Salivahanapeta, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Kothapet, Salivahanapeta",
+    "latitude": 16.4365521,
+    "longitude": 80.5665535,
+    "place_id": "ChIJGZNCTwDxNToRGjL5hfnK6X0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZNCTwDxNToRGjL5hfnK6X0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:22"
+  },
+  {
+    "business_name": "అన్నా క్యాంటిన్",
+    "search_category": "Patisserie",
+    "primary_category": "Rice cake shop",
+    "all_categories": "Rice cake shop",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 74,
+    "address": "6JVJ+GRQ, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sulthanabad",
+    "latitude": 16.2438806,
+    "longitude": 80.63210269999999,
+    "place_id": "ChIJ50dcfAAJSjoRh5WVOrsNWVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50dcfAAJSjoRh5WVOrsNWVU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:22"
+  }
+]

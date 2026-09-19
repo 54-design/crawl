@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gallymart Guntur",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "Amaravati Rd, Mallikarjunpet, Guntur, Andhra Pradesh 522002",
+    "area": "Mallikarjunpet",
+    "latitude": 16.3159903,
+    "longitude": 80.4373439,
+    "place_id": "ChIJh0_PSFp1SjoRMHc3ANHCkdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0_PSFp1SjoRMHc3ANHCkdM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:12"
+  },
+  {
+    "business_name": "Apple service center",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "522002",
+    "phone_number": "+91 98850 18937",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5-25-95 3/7, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3016692,
+    "longitude": 80.43651969999999,
+    "place_id": "ChIJM6QC7Ap1SjoRiFpW_ejcriY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6QC7Ap1SjoRiFpW_ejcriY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:14"
+  }
+]

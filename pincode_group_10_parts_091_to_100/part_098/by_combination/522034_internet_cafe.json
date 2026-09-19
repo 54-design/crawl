@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Internet",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "522034",
+    "phone_number": "+91 99900 98910",
+    "website": "https://superinternet.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8C7M+H2F, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Koritepadu",
+    "latitude": 16.313933,
+    "longitude": 80.4325463,
+    "place_id": "ChIJJeiagWB1SjoR__RNOn9_QGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeiagWB1SjoR__RNOn9_QGM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:09:40"
+  },
+  {
+    "business_name": "Dhanalakshmi Mesh Doors",
+    "search_category": "Internet Cafe",
+    "primary_category": "Door manufacturer",
+    "all_categories": "Door manufacturer",
+    "pincode": "522034",
+    "phone_number": "+91 95050 09677",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 60,
+    "address": "mainroad, Donka Rd, near Balaji tenthouse, opposite Ramulavari temple, Kakumanu Vari Thota, Donka Road, Arundelpet, Guntur, Andhra Pradesh 522002",
+    "area": "Kakumanu Vari Thota, Donka Road, Arundelpet",
+    "latitude": 16.3045109,
+    "longitude": 80.4462471,
+    "place_id": "ChIJrw9W5FV1SjoRCtsgj8qopMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrw9W5FV1SjoRCtsgj8qopMo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:09:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkat Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "521263",
+    "phone_number": "+91 99662 84553",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Main Rd, Near NTR Statue, Kurmannapalem, Gajuwaka, Andhra Pradesh 530046",
+    "area": "Near NTR Statue, Kurmannapalem",
+    "latitude": 17.6859571,
+    "longitude": 83.16659969999999,
+    "place_id": "ChIJMULTmyxpOToReXWHD8DCaYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMULTmyxpOToReXWHD8DCaYY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:44:00"
+  },
+  {
+    "business_name": "DP WHOLESALE AND RETAIL MART",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521263",
+    "phone_number": "+91 77805 53986",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Shop No, 1, Tadigadapa Donka Rd, Tadigadapa, Benz Circle, Pedapulipaka, Andhra Pradesh 521134",
+    "area": "Tadigadapa, Benz Circle",
+    "latitude": 16.475841,
+    "longitude": 80.68247459999999,
+    "place_id": "ChIJq3MXCIf7NToRll2UzUb4Sek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3MXCIf7NToRll2UzUb4Sek",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:44:01"
+  }
+]

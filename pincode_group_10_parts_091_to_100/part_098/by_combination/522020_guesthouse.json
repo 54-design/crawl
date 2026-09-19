@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RKS Rest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522020",
+    "phone_number": "+91 70367 55032",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Temple Street, Amaravathi, Guntur, Andhra Pradesh 522020",
+    "area": "522020",
+    "latitude": 16.5806371,
+    "longitude": 80.3584494,
+    "place_id": "ChIJH0nUalqRNToR_csyjoGZ3MM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0nUalqRNToR_csyjoGZ3MM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:32"
+  },
+  {
+    "business_name": "Amaravati lodging and boarding",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "522020",
+    "phone_number": "+91 80087 23370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amaravati, Andhra Pradesh 522020",
+    "area": "522020",
+    "latitude": 16.5699503,
+    "longitude": 80.358447,
+    "place_id": "ChIJAd50ycWRNToRqQLsspMiVOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAd50ycWRNToRqQLsspMiVOk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:32"
+  }
+]

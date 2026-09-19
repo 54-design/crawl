@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G5PH+28V, Bhyravapatnam, Andhra Pradesh 521345",
+    "area": "521345",
+    "latitude": 16.5351093,
+    "longitude": 81.17829329999999,
+    "place_id": "ChIJIXWUKBMjNjoRAasViQUBRUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXWUKBMjNjoRAasViQUBRUU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:40"
+  },
+  {
+    "business_name": "మహేశ్వరపురం",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J4FV+9HH, Kalakurru, Andhra Pradesh 534004",
+    "area": "521345",
+    "latitude": 16.6234462,
+    "longitude": 81.1439872,
+    "place_id": "ChIJq9QdTQAXNjoRjZ-4jlyWb-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9QdTQAXNjoRjZ-4jlyWb-U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Career Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, BPO Placement Agency, Career guidance service, Educational consultant, Service establishment, Recruiter, Training center, Unemployment office",
+    "pincode": "521345",
+    "phone_number": "+91 96420 95595",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "Career Services, 521345, India",
+    "area": "521345",
+    "latitude": 15.508585199999999,
+    "longitude": 80.0213472,
+    "place_id": "ChIJm-highdpOToRtNRP6303OAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-highdpOToRtNRP6303OAw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:24"
+  },
+  {
+    "business_name": "Call Virtual",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "https://call-virtual.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Call Virtual, 521345, India",
+    "area": "521345",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJQftCa4sHoDkRjpy4svQdJDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQftCa4sHoDkRjpy4svQdJDo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:26"
+  }
+]

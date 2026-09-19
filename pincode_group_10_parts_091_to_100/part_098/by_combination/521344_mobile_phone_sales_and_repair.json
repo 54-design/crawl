@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangeetha Mobile Doctor",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "521344",
+    "phone_number": "+91 90002 97091",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Abdulla khan estates, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.829485499999999,
+    "longitude": 78.0394343,
+    "place_id": "ChIJkd0ZQIfntTsRS_TsD5fGIDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkd0ZQIfntTsRS_TsD5fGIDM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:23:08"
+  },
+  {
+    "business_name": "SRI KRISHNA CELLPOINT",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521344",
+    "phone_number": "+91 70138 45764",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "State Bank, Kaikaluru - Kalidindi Rd, opposite Kalidindi, Kalidindi, Andhra Pradesh 521344",
+    "area": "521344",
+    "latitude": 16.5075592,
+    "longitude": 81.2912345,
+    "place_id": "ChIJDd_tQ-MkNjoR8Aq291LEAUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDd_tQ-MkNjoR8Aq291LEAUs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:23:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keertana travels guntur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service",
+    "pincode": "522009",
+    "phone_number": "+91 88856 77798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "D.no.6, 10.660, 2nd line, kalyaninagar, Andhra Pradesh 522006",
+    "area": "Nayi Brahmana Colony",
+    "latitude": 16.3211014,
+    "longitude": 80.403572,
+    "place_id": "ChIJo3EBGBmLNToR4hZAlC2upfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3EBGBmLNToR4hZAlC2upfw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:20"
+  },
+  {
+    "business_name": "SRINIVAS CAR TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "522009",
+    "phone_number": "+91 86868 68074",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8C63+MHM, 450, Syamala Nagar, Guntur, Andhra Pradesh 522006",
+    "area": "Syamala Nagar",
+    "latitude": 16.311314,
+    "longitude": 80.404015,
+    "place_id": "ChIJ9xy9dQB1SjoRQr5PSQ8gcmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xy9dQB1SjoRQr5PSQ8gcmA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L K Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "521328",
+    "phone_number": "+91 98488 75495",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "behind SBI ATM, Challapalli, Andhra Pradesh 521126",
+    "area": "521328",
+    "latitude": 16.117111899999998,
+    "longitude": 80.9321179,
+    "place_id": "ChIJIdkucTvxSToRablxWYe1c_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdkucTvxSToRablxWYe1c_U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:06:50"
+  },
+  {
+    "business_name": "Lakshimi Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "521328",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "WXCH+8GC, Kammanamolu, Andhra Pradesh 521120",
+    "area": "521328",
+    "latitude": 15.9208004,
+    "longitude": 80.9787514,
+    "place_id": "ChIJ-2UZioKNSToR5kqlXbQser4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2UZioKNSToR5kqlXbQser4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:06:50"
+  }
+]

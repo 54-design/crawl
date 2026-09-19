@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEA TIME",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521356",
+    "phone_number": "+91 85558 87362",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "NH 65, Vijayawada - Machilipatnam Rd, beside Maa Dhaba Restaurant, Pamarru, Pedamaddali, Andhra Pradesh 521157",
+    "area": "521356",
+    "latitude": 16.3364989,
+    "longitude": 80.9541019,
+    "place_id": "ChIJZWkgKzz9SToRWbVSuLctaJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWkgKzz9SToRWbVSuLctaJg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:38"
+  },
+  {
+    "business_name": "Desi Tea Master kunigal toll",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521356",
+    "phone_number": "+91 97406 06137",
+    "website": "https://www.desiteamaster.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "devihalli expressway, near Kunigal toll, Nelamangala Town, Hanchipura, Karnataka 562123",
+    "area": "521356",
+    "latitude": 13.0682871,
+    "longitude": 77.36112779999999,
+    "place_id": "ChIJnaR3cTMlrjsRmoSZgNpBbU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaR3cTMlrjsRmoSZgNpBbU4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:40"
+  }
+]

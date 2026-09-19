@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wheeler Dealer India",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "522020",
+    "phone_number": "+91 99992 22214",
+    "website": "https://wheelerdealerindia.in/",
+    "rating": 5,
+    "reviews_count": 57,
+    "address": "Ground Floor, Saini Enclave, 6, East, Delhi, 110092",
+    "area": "East, Anand Vihar",
+    "latitude": 28.6518822,
+    "longitude": 77.3042371,
+    "place_id": "ChIJW2tJjBf7DDkRA8lZjXrUNlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2tJjBf7DDkRA8lZjXrUNlI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:08"
+  },
+  {
+    "business_name": "Rudra Auto Distributor pvt Ltd",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "522020",
+    "phone_number": "+91 96747 45354",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 91,
+    "address": "46A, Sambhunath Pandit St, Madan Mohan Malaviya Sarani, Jadubabur Bazar, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Madan Mohan Malaviya Sarani, Jadubabur Bazar, Bhowanipore",
+    "latitude": 22.5328518,
+    "longitude": 88.3501138,
+    "place_id": "ChIJyTuDnjt3AjoRhTosMMr6uZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTuDnjt3AjoRhTosMMr6uZk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:07:08"
+  }
+]

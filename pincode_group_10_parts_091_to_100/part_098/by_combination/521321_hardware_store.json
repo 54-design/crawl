@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ss work",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Chamber of agriculture",
+    "pincode": "521321",
+    "phone_number": "+91 90305 11768",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-32 Main Road, Gruga Road, near Iti College, Peyyeru, Andhra Pradesh 521325",
+    "area": "521321",
+    "latitude": 16.4256356,
+    "longitude": 81.1159873,
+    "place_id": "ChIJDTDvFp4fNjoRbjOjDmMZgpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTDvFp4fNjoRbjOjDmMZgpo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:19"
+  },
+  {
+    "business_name": "J Naga Raju Welding Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "521321",
+    "phone_number": "+91 86887 84064",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3-97, main Road, near Bank Of Baroda, Sreenivasapuram, Andhra Pradesh 521321",
+    "area": "521321",
+    "latitude": 16.4974758,
+    "longitude": 80.9783005,
+    "place_id": "ChIJqbTHKtAFNjoRhZNwsgv4fW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbTHKtAFNjoRhZNwsgv4fW8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:54:19"
+  }
+]

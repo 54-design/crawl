@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manginapudi Beach",
+    "search_category": "Resort",
+    "primary_category": "Beach",
+    "all_categories": "Beach",
+    "pincode": "521369",
+    "phone_number": "N/A",
+    "website": "http://aptourisim.gov.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Machilipatnam, Andhra Pradesh 521002",
+    "area": "521369",
+    "latitude": 16.2430171,
+    "longitude": 81.2406859,
+    "place_id": "ChIJi_0G-xDcSToR_WyUGZ2vGb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_0G-xDcSToR_WyUGZ2vGb4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:26"
+  },
+  {
+    "business_name": "JON'S RIVORA",
+    "search_category": "Resort",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "521369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 18,
+    "address": "Jonnada Srinivas, Lawyer Gari Farm House, near Rjy Airport, opp. Srinidhi Farm Lands, Burugupudi, Korukonda, Andhra Pradesh 533292",
+    "area": "521369",
+    "latitude": 17.116738899999998,
+    "longitude": 81.822163,
+    "place_id": "ChIJi9QuSwChNzoRcPoUwb7Q-go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9QuSwChNzoRcPoUwb7Q-go",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:27"
+  }
+]

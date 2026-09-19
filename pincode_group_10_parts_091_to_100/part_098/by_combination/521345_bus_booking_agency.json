@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sri srinivasa travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "https://srisrinivasatravels.weebly.com/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "1 Floor, Natraj Nagar,MNCL 'X' ROAD beside Indian gas, behind nataraj theater, Nirmal, Telangana 504106",
+    "area": "Natraj Nagar, Eidgoan",
+    "latitude": 19.088521699999998,
+    "longitude": 78.34546979999999,
+    "place_id": "ChIJWV5-X2OMzTsR0EVMQQiP-as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWV5-X2OMzTsR0EVMQQiP-as",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:20"
+  },
+  {
+    "business_name": "ANNAPURNA TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521345",
+    "phone_number": "+91 78936 88188",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "CPHW+JR, Thimmapuram, Pedagummuluru, Andhra Pradesh 531083",
+    "area": "Thimmapuram",
+    "latitude": 17.4310281,
+    "longitude": 82.7447701,
+    "place_id": "ChIJLcGId6SlOToRjUyXW9byl6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcGId6SlOToRjUyXW9byl6k",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:21"
+  }
+]

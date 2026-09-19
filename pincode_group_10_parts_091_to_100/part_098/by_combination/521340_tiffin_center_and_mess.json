@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daman's Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "521340",
+    "phone_number": "+91 70213 52466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sion - Trombay Rd, nr. Priyadarshini Building, Amrit Nagar, Rahul Nagar, Chunabhatti, Chembur, Mumbai, Maharashtra 400022",
+    "area": "Amrit Nagar, Rahul Nagar, Chunabhatti, Chembur",
+    "latitude": 19.0522586,
+    "longitude": 72.8810045,
+    "place_id": "ChIJ9UWxt-LJ5zsRqbUMm1HT6x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UWxt-LJ5zsRqbUMm1HT6x8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:16"
+  },
+  {
+    "business_name": "Kerala Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "521340",
+    "phone_number": "+91 62812 83335",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 499,
+    "address": "10-5-23/1, Muslim Pet, Raghuram Nagar, Sattenapalle, Andhra Pradesh 522403",
+    "area": "Muslim Pet, Raghuram Nagar",
+    "latitude": 16.3929512,
+    "longitude": 80.1513258,
+    "place_id": "ChIJ12m2VUSBNToRGurftj3IfxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12m2VUSBNToRGurftj3IfxA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:17"
+  }
+]

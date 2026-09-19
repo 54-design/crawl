@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Manjula's Dermacare",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist",
+    "pincode": "521323",
+    "phone_number": "+91 99494 92894",
+    "website": "https://bojjamanojmanjula.com/home",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Besides Ashalatha Hospital, 10-3-206/W, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.636040099999999,
+    "longitude": 79.4202195,
+    "place_id": "ChIJVxH0CCtLTToRrg1m_Iz09q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxH0CCtLTToRrg1m_Iz09q4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:48"
+  },
+  {
+    "business_name": "V.V.Narasimha Rao Skin Hospital",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521323",
+    "phone_number": "+91 86722 22760",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Old LIC, Buttaipeta, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Buttaipeta, Ramanaidupet",
+    "latitude": 16.1798206,
+    "longitude": 81.1356107,
+    "place_id": "ChIJZ4T5sMbnSToRSwxrtKEMqbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4T5sMbnSToRSwxrtKEMqbc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Innovalley Services",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business development service, Business management consultant, Computer support and services, Marketing consultant",
+    "pincode": "521345",
+    "phone_number": "+91 98488 84897",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A2, 2nd Floor, Varanasi Majestic, 47-10-17, 2nd Line, Sagar Nagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Sagar Nagar, Dwaraka Nagar",
+    "latitude": 17.7267941,
+    "longitude": 83.3054447,
+    "place_id": "ChIJQ3f231FDOToRPLRewR2de0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3f231FDOToRPLRewR2de0I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:25"
+  },
+  {
+    "business_name": "Termscript Data Solution India Pvt Ltd.",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Accounting firm, Human resource consulting, Payroll Service Provider",
+    "pincode": "521345",
+    "phone_number": "+91 78210 99361",
+    "website": "https://termscript.co.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Global Business Hub, 4th Floor 08, opposite to Eon Free Zone Road, Kharadi, Pune, Maharashtra 411014",
+    "area": "EON Free Zone, Kharadi",
+    "latitude": 18.5510677,
+    "longitude": 73.95086289999999,
+    "place_id": "ChIJHyvnOgbDwjsRZtaGCHJGQlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyvnOgbDwjsRZtaGCHJGQlc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:25:28"
+  }
+]

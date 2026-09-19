@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rk repair labs",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Cell phone store",
+    "pincode": "522002",
+    "phone_number": "+91 96669 84949",
+    "website": "https://rkrepairlabs.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": 299,
+    "address": "14-13, Brindavan Gardens 1st Ln, Brindavan Gardens, Guntur, Andhra Pradesh 522004",
+    "area": "Brindavan Gardens",
+    "latitude": 16.3150446,
+    "longitude": 80.42213,
+    "place_id": "ChIJCYYrIqR1SjoR2HqgEdcxh1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYYrIqR1SjoR2HqgEdcxh1s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:45:42"
+  },
+  {
+    "business_name": "SRI TEJA TECHNOLOGIES -Lenovo Authorised Service Center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service",
+    "pincode": "522002",
+    "phone_number": "+91 99488 41515",
+    "website": "https://sritejatechnologies.com/",
+    "rating": 4.6,
+    "reviews_count": 206,
+    "address": "5-37-156/2ND FLOOR (LIFT NO :01 OPPOSITE BANK OF MAHARASTRA BRODIPET MAIN ROAD, 4, 14th Line, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3034632,
+    "longitude": 80.4313008,
+    "place_id": "ChIJm7_bU4R1SjoRtOl79yeyw1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7_bU4R1SjoRtOl79yeyw1I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:45:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE PROFESSIONAL COURIERS",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "522003",
+    "phone_number": "+91 88855 11214",
+    "website": "http://www.tpcglobe.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "7FW2+6RJ, Pothurivarithota 2nd Ln, Gunturvari Thota, Pottur Vari Thota, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Pottur Vari Thota",
+    "latitude": 16.2955901,
+    "longitude": 80.4520246,
+    "place_id": "ChIJm-iyYkp1SjoR2iOfhptg9qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-iyYkp1SjoR2iOfhptg9qo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:45"
+  },
+  {
+    "business_name": "Kubera International Courier Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "522003",
+    "phone_number": "+91 98661 21533",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ganga Bhavani Nillayam, 85-3-188, Kodandaramhaia Street, 1st Line, Chuttugutna, Guntur, Andhra Pradesh 522004",
+    "area": "1st Line, Chuttugutna",
+    "latitude": 16.2901791,
+    "longitude": 80.42627329999999,
+    "place_id": "ChIJZRi7MXB1SjoRCLx-9xm3Ddk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRi7MXB1SjoRCLx-9xm3Ddk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:45"
+  }
+]

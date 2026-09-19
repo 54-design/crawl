@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venky Creations Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522005",
+    "phone_number": "+91 83285 67557",
+    "website": "https://chat.whatsapp.com/JPQHfnUyLIALo3hhxnQgGb?mlu=4&s=cl&p=a",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "409, Janmabhuminagar, NRI College, 121-2, opp. Road, Guntur, Peda Palakaluru, Andhra Pradesh 522005",
+    "area": "522005",
+    "latitude": 16.3219127,
+    "longitude": 80.3923356,
+    "place_id": "ChIJt6X4bm6LNToRLPo8bGfp0uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6X4bm6LNToRLPo8bGfp0uA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:28"
+  },
+  {
+    "business_name": "Sri Agraganya Fashions",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "522005",
+    "phone_number": "+91 98485 72587",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4th Ln, opp. KFC, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram",
+    "latitude": 16.309922999999998,
+    "longitude": 80.430408,
+    "place_id": "ChIJEWD3Imd1SjoRX_DORjG0vaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWD3Imd1SjoRX_DORjG0vaQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:28"
+  }
+]

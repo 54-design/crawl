@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Brown Hide",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop, Belt shop, Gift shop, Handbags shop, Shoe store",
+    "pincode": "521345",
+    "phone_number": "+91 87885 10480",
+    "website": "https://www.thebrownhide.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.01, Vasant Vihar, opp. Inspire Showroom, Shankar Nagar, East Shankar Nagar, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar",
+    "latitude": 21.1338989,
+    "longitude": 79.0615571,
+    "place_id": "ChIJfdwsbofB1DsRjc7y-B1NUiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdwsbofB1DsRjc7y-B1NUiA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:23:59"
+  },
+  {
+    "business_name": "The Raw & Rugged Store",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "521345",
+    "phone_number": "+91 88854 75333",
+    "website": "https://rawandrugged.in/",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "6-68/15, Alkapur Rd, near Manikonda, CEO Enclave, Pasha Colony, Ibrahim Bagh, Manikonda, Hyderabad, Telangana 500089",
+    "area": "CEO Enclave, Pasha Colony, Ibrahim Bagh",
+    "latitude": 17.3943807,
+    "longitude": 78.3838462,
+    "place_id": "ChIJwwE4JACXyzsReZ3lTY9T4eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwE4JACXyzsReZ3lTY9T4eg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:00"
+  }
+]

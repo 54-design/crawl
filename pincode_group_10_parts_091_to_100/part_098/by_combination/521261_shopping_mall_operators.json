@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South India Shopping Mall Parvathipuram",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store",
+    "pincode": "521261",
+    "phone_number": "+91 77999 65656",
+    "website": "https://www.southindiaeshop.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "beside Rtc complex, Parvatipuram, Andhra Pradesh 535501",
+    "area": "521261",
+    "latitude": 18.774317999999997,
+    "longitude": 83.4232641,
+    "place_id": "ChIJvd04rWp5OzoRn49r5MOq-bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvd04rWp5OzoRn49r5MOq-bo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:43:56"
+  },
+  {
+    "business_name": "Kalinga Family Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "521261",
+    "phone_number": "+91 85542 48555",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "10/325, Subash Rd, Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "area": "Adimurthy Nagar, Gulzarpet",
+    "latitude": 14.6795475,
+    "longitude": 77.5977856,
+    "place_id": "ChIJ079Qn9xKsTsR1S-tTHu0v3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ079Qn9xKsTsR1S-tTHu0v3Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:43:56"
+  }
+]

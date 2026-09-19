@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LUCKY GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "522018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "18, Garikapadu, Guntur, Bandarupalle, Andhra Pradesh 522018",
+    "area": "Garikapadu",
+    "latitude": 16.3832107,
+    "longitude": 80.3778425,
+    "place_id": "ChIJd3l74PqLNToR-Lrc5LkK7PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3l74PqLNToR-Lrc5LkK7PY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:02:54"
+  },
+  {
+    "business_name": "Chinthalapudhi's Milk and Groceries",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C94X+9C3, Ponnekallu, Andhra Pradesh 522018",
+    "area": "522018",
+    "latitude": 16.405885599999998,
+    "longitude": 80.3985336,
+    "place_id": "ChIJKdmSBQCLNToRhWnLMnwBH4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdmSBQCLNToRhWnLMnwBH4s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:02:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doggy and cat care clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care, Dog cafe, Emergency veterinarian service, Pet cemetery, Pet groomer, Pet store, Pet supply store, Surgical center, Veterinarian",
+    "pincode": "521261",
+    "phone_number": "+91 96766 38850",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 116,
+    "address": "Plot no 116 shop no 4 laxminivas Water Tank, Secretariat Colony, Manikonda, Telangana 500089",
+    "area": "Secretariat Colony, Sri Ram Nagar Colony, Puppalguda",
+    "latitude": 17.401692999999998,
+    "longitude": 78.3841061,
+    "place_id": "ChIJH1Q-LZ6RyzsR17yb4DOLStM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1Q-LZ6RyzsR17yb4DOLStM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:42:44"
+  },
+  {
+    "business_name": "Indira Pet Clinic 24/7",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care, Pet store",
+    "pincode": "521261",
+    "phone_number": "+91 80 2525 9475",
+    "website": "https://www.indirapetclinic.com/",
+    "rating": 4.3,
+    "reviews_count": 1524,
+    "address": "39/6, 7th Main Rd, opp. Ambedkar College, HAL 2nd Stage, Motappapalya, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "HAL 2nd Stage, Motappapalya, Indiranagar",
+    "latitude": 12.972564499999999,
+    "longitude": 77.6377894,
+    "place_id": "ChIJVVVVhQIUrjsRH_eWqAX4oFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVhQIUrjsRH_eWqAX4oFQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:42:44"
+  }
+]

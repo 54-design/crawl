@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Traders",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "522006",
+    "phone_number": "+91 90009 75388",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4th Ln, Lakshmipuram, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram, Koritepadu",
+    "latitude": 16.3132342,
+    "longitude": 80.4323167,
+    "place_id": "ChIJeaRilCN1SjoR3JYe8Vv1PLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaRilCN1SjoR3JYe8Vv1PLI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:43"
+  },
+  {
+    "business_name": "SREE AGENCIES",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Newspaper distribution service, Cable company, Internet service provider",
+    "pincode": "522006",
+    "phone_number": "+91 98494 45215",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "9-2-95/1, 2nd Ln, Syamala Nagar, Guntur, Andhra Pradesh 522006",
+    "area": "Syamala Nagar",
+    "latitude": 16.306152,
+    "longitude": 80.4106199,
+    "place_id": "ChIJs3udEt91SjoRIWhoZuoSLx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3udEt91SjoRIWhoZuoSLx8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:44"
+  }
+]

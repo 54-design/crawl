@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHINNA ABBAI CHICKEN CENTER",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "521326",
+    "phone_number": "+91 90003 97235",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Shop No 1 Fire Station Road Y junction, Kaikalur, Andhra Pradesh 521333",
+    "area": "521326",
+    "latitude": 16.5468361,
+    "longitude": 81.2035336,
+    "place_id": "ChIJ99BqP5s9NjoRc3Oy3Z7sMEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99BqP5s9NjoRc3Oy3Z7sMEs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:02:55"
+  },
+  {
+    "business_name": "A1 Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "521326",
+    "phone_number": "+91 94404 88502",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Vemulawada Rd, Mankamma Thota, Karimnagar, Telangana 505001",
+    "area": "Mankamma Thota",
+    "latitude": 18.4399987,
+    "longitude": 79.1089906,
+    "place_id": "ChIJQdNdYivZzDsR16I0UI1Y4GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdNdYivZzDsR16I0UI1Y4GQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:02:57"
+  }
+]

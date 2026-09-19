@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FROTH - The Cafe Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "521323",
+    "phone_number": "+91 86989 60991",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 634,
+    "address": "Main Road, 2-4 639/88, Uppal Frontage Road, beside NEXA Showroom, Nagole, Hyderabad, Telangana 500068",
+    "area": "Nagole",
+    "latitude": 17.3733081,
+    "longitude": 78.55730779999999,
+    "place_id": "ChIJlfg2QWWZyzsRz0wrqKCCgKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfg2QWWZyzsRz0wrqKCCgKM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:35"
+  },
+  {
+    "business_name": "Jayathi Gardens",
+    "search_category": "Bar and Pub",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Fast food restaurant, Garden, Indian restaurant",
+    "pincode": "521323",
+    "phone_number": "+91 89772 41249",
+    "website": "http://www.facebook.com/jayathigardens",
+    "rating": 3.7,
+    "reviews_count": 264,
+    "address": "Bypass Road, near Dr.K.K.R’s Gowtham High(E.M) School, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4425496,
+    "longitude": 81.00024289999999,
+    "place_id": "ChIJralm3qkcNjoR4xnEnlV-4Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJralm3qkcNjoR4xnEnlV-4Ck",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:37"
+  }
+]

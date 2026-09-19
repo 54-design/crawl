@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MM FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522015",
+    "phone_number": "+91 94905 98409",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "at welcome board, Ponnur, Dandamudi, Andhra Pradesh 522316",
+    "area": "522015",
+    "latitude": 16.0902803,
+    "longitude": 80.5465439,
+    "place_id": "ChIJOxyOsZcRSjoRCOOFAjLcUWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxyOsZcRSjoRCOOFAjLcUWE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:36"
+  },
+  {
+    "business_name": "Muskan Mandi",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522015",
+    "phone_number": "+91 91605 55525",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 59,
+    "address": "Inner Ring Road, beside Vijay Digital, Reddypalem, Guntur, Andhra Pradesh 522006",
+    "area": "Reddypalem",
+    "latitude": 16.329231699999998,
+    "longitude": 80.44743629999999,
+    "place_id": "ChIJgb60BgCLNToR7wJwJjp3ifg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb60BgCLNToR7wJwJjp3ifg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:39"
+  }
+]

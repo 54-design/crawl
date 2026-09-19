@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GK GRAND INN",
+    "search_category": "Guesthouse",
+    "primary_category": "Motel",
+    "all_categories": "Motel",
+    "pincode": "521369",
+    "phone_number": "+91 63054 92273",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "743W+59C, Pedana, Andhra Pradesh 521366",
+    "area": "521369",
+    "latitude": 16.2528008,
+    "longitude": 81.14587949999999,
+    "place_id": "ChIJbU39BgDnSToRXOjGQrFWOy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbU39BgDnSToRXOjGQrFWOy0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:24"
+  },
+  {
+    "business_name": "BOMMARILLU HOME STAY",
+    "search_category": "Guesthouse",
+    "primary_category": "Service Apartment",
+    "all_categories": "Service Apartment",
+    "pincode": "521369",
+    "phone_number": "+91 88858 33778",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Savera Bar Street, D.No:54-07-14/2, Anala Venkatappa Rao Rd, Sheela Nagar, Prakasam Nagar, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Sheela Nagar, Prakasam Nagar",
+    "latitude": 17.011993999999998,
+    "longitude": 81.7957109,
+    "place_id": "ChIJLYy82EqjNzoR-rFEN_7n6ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYy82EqjNzoR-rFEN_7n6ik",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI GANAPATI SHOP",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522102",
+    "phone_number": "+91 90145 72535",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-35/1, Ramnagar, Guntur, Adivi, Andhra Pradesh 522101",
+    "area": "Ramnagar",
+    "latitude": 15.8702013,
+    "longitude": 80.4914981,
+    "place_id": "ChIJi7O0yTA_SjoRqjv96-Xdh5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7O0yTA_SjoRqjv96-Xdh5E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:12:07"
+  },
+  {
+    "business_name": "Sk Lala Saheb General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XFVR+446, MDR71, Poondla, Andhra Pradesh 522310",
+    "area": "522102",
+    "latitude": 15.99278,
+    "longitude": 80.4902568,
+    "place_id": "ChIJR6yFuNYVSjoRugd8JQKrVhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6yFuNYVSjoRugd8JQKrVhk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:12:08"
+  }
+]

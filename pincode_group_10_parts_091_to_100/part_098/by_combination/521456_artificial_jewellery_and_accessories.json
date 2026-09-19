@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEHAK FANCY",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Bangle Shop",
+    "pincode": "521456",
+    "phone_number": "+91 72071 83565",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2,ibm Ring Centre, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "Bhimaraju Gutta",
+    "latitude": 16.589512499999998,
+    "longitude": 80.5208337,
+    "place_id": "ChIJN2qeCtPtNToRBBE2eDx4JQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2qeCtPtNToRBBE2eDx4JQ8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:54"
+  },
+  {
+    "business_name": "SRIVANI FANCY AND BANGLES STORE",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Bangle Shop, Stationery store",
+    "pincode": "521456",
+    "phone_number": "+91 80963 87368",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 38,
+    "address": "Hotel center, near Central Bank of India, Mandadam, Velgapudi, Andhra Pradesh 522241",
+    "area": "Mandadam",
+    "latitude": 16.5210211,
+    "longitude": 80.5241473,
+    "place_id": "ChIJsRyVJ4_tNToRlYsHy0PZgoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRyVJ4_tNToRlYsHy0PZgoA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:55"
+  }
+]

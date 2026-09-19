@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V P S & ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "521311",
+    "phone_number": "N/A",
+    "website": "http://vpsandassociates.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8-3-988/11, SBH Colony Rd, SBH Colony, Yousufguda, Hyderabad, Telangana 500073",
+    "area": "SBH Colony, Yousufguda",
+    "latitude": 17.4317143,
+    "longitude": 78.4346712,
+    "place_id": "ChIJiZCAfwCRyzsRxmaJFR7SZ94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZCAfwCRyzsRxmaJFR7SZ94",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:51:18"
+  },
+  {
+    "business_name": "Mittal Palak & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "521311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "14, Vijay Nagar, Samar Park Colony, Nipania, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Samar Park Colony, Nipania",
+    "latitude": 22.762477399999998,
+    "longitude": 75.9219379,
+    "place_id": "ChIJYWXBa10dYzkRzVyZa50oeNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWXBa10dYzkRzVyZa50oeNc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:51:19"
+  }
+]

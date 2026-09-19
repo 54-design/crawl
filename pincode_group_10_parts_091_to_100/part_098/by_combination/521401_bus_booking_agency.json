@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vutukuru Bus Stop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "521401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "2C9M+932, Centre, Vutukuru, Andhra Pradesh 521401",
+    "area": "521401",
+    "latitude": 17.0183754,
+    "longitude": 80.43262779999999,
+    "place_id": "ChIJn9LidY61NToRvJUG06UFBg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9LidY61NToRvJUG06UFBg0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:44"
+  },
+  {
+    "business_name": "VRK Car Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521401",
+    "phone_number": "+91 95530 40009",
+    "website": "http://vrkcartravels.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "56-15-18/3, Water Tank Rd, opp. GS Ashramam, Praja Shakti Nagar, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Praja Shakti Nagar, Patamata, Benz Circle",
+    "latitude": 16.5082017,
+    "longitude": 80.6404977,
+    "place_id": "ChIJWwIgMaz6NToR-iwWbeldJfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwIgMaz6NToR-iwWbeldJfo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HARLEY'S Fine Baking - Kompally",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Coffee shop, Dessert shop, Restaurant",
+    "pincode": "521369",
+    "phone_number": "+91 79955 11223",
+    "website": "http://www.harleys.in/",
+    "rating": 4.4,
+    "reviews_count": 1087,
+    "address": "HARLEY'S Fine Baking, SPG Grand Building HT Lane Road, Petbasheerabad, Kompally, Hyderabad, Telangana 500067",
+    "area": "Petbasheerabad, Bashirabad, Kompally",
+    "latitude": 17.515617499999998,
+    "longitude": 78.4811708,
+    "place_id": "ChIJ7cGZ7XubyzsRGe5jkf72V9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cGZ7XubyzsRGe5jkf72V9U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:28"
+  },
+  {
+    "business_name": "Labonel - Banjara Hills",
+    "search_category": "Patisserie",
+    "primary_category": "Patisserie",
+    "all_categories": "Patisserie, Bakery and Cake Shop, Dessert shop",
+    "pincode": "521369",
+    "phone_number": "+91 95817 74709",
+    "website": "http://www.labonelfinebaking.shop/",
+    "rating": 4.5,
+    "reviews_count": 1087,
+    "address": "Ground Floor, NCC Ground, 6-3-249/5/1, Road No. 1, opposite City Centre, Naveen Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Naveen Nagar, Banjara Hills",
+    "latitude": 17.4150954,
+    "longitude": 78.45015959999999,
+    "place_id": "ChIJxR2nQjeXyzsRLEZGmoyx-RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxR2nQjeXyzsRLEZGmoyx-RU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:28"
+  }
+]

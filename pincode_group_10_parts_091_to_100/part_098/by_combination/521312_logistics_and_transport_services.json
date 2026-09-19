@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRIYA LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "521312",
+    "phone_number": "+91 98250 03157",
+    "website": "https://priyalogistics.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shrinath estate, 74/74A, VATVA CROCING ROAD, near KADMAWALA PROCESS HOUSE, Govindwadi, Narolgam, Ahmedabad, Gujarat 382415",
+    "area": "Govindwadi, Narolgam",
+    "latitude": 22.965391,
+    "longitude": 72.5960139,
+    "place_id": "ChIJPc8zwN-PXjkRyiFd_VVDDak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPc8zwN-PXjkRyiFd_VVDDak",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:52:25"
+  },
+  {
+    "business_name": "PACE ROADWAYS PRIVATE LIMITED",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "521312",
+    "phone_number": "N/A",
+    "website": "http://www.paceroadways.com/",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "240/1, near Gori Tiles, Nayapura, Indore, Madhya Pradesh 452001",
+    "area": "Nayapura",
+    "latitude": 22.725455399999998,
+    "longitude": 75.866154,
+    "place_id": "ChIJY0ELU179YjkR_6T4YWGwytY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0ELU179YjkR_6T4YWGwytY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:52:25"
+  }
+]

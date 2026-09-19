@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JM Automotives",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Vehicle inspection service",
+    "all_categories": "Vehicle inspection service, Auto painting, Car dealer, Car wash, Garage",
+    "pincode": "521260",
+    "phone_number": "+91 96764 83526",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NH65, near Value Zone Hypermart, opposite Novpan Industries, Patancheruvu, Telangana 502319",
+    "area": "Patancheru Industrial Area",
+    "latitude": 17.532304,
+    "longitude": 78.2547098,
+    "place_id": "ChIJJ4giKgDzyzsRge6XgMpmQaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4giKgDzyzsRge6XgMpmQaU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:40:51"
+  },
+  {
+    "business_name": "Ramesh Motors Multi Brand Car Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "521260",
+    "phone_number": "+91 96662 86021",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 51,
+    "address": "H, no 3-43/2, Main Road, Ameenpur, Kistareddypet, Mandal, Telangana 502319",
+    "area": "Ameenpur",
+    "latitude": 17.5497241,
+    "longitude": 78.2958116,
+    "place_id": "ChIJT_teBLGNyzsRGyNFpIz69MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_teBLGNyzsRGyNFpIz69MY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:40:52"
+  }
+]

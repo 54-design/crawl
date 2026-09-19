@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sekar Paradise",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "522113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 814,
+    "address": "Teen Khandil Rd, beside Icon Computer, Bangi Kunta, Raichur, Karnataka 584101",
+    "area": "Bangi Kunta",
+    "latitude": 16.2028377,
+    "longitude": 77.3574225,
+    "place_id": "ChIJleGHDXXXyTsR1v3qW9HVxpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleGHDXXXyTsR1v3qW9HVxpQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:42"
+  },
+  {
+    "business_name": "A-1 Traders",
+    "search_category": "Provision Store",
+    "primary_category": "Baking supply store",
+    "all_categories": "Baking supply store",
+    "pincode": "522113",
+    "phone_number": "+91 94489 73715",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 128,
+    "address": "Shop No. 11, Elluru Complex, 13-2, Patel Rd, beside Chowk Masjid, Bangi Kunta, Raichur, Karnataka 584101",
+    "area": "Bangi Kunta",
+    "latitude": 16.2032042,
+    "longitude": 77.3594458,
+    "place_id": "ChIJM-K1u3XXyTsRhLSnr72yVBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-K1u3XXyTsRhLSnr72yVBA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:42"
+  }
+]

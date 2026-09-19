@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.S. Refrigerators Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Washer & dryer store",
+    "pincode": "521343",
+    "phone_number": "+91 77993 09275",
+    "website": "https://ksrefrigeratorservice.in/",
+    "rating": 5,
+    "reviews_count": 91,
+    "address": "H.no: 5-74, Opposite Rose Bakery, Quba Masjid, road puppalagude, Narsingi, road manikonda, road, Gandipet, Hyderabad, Telangana 500089",
+    "area": "Narsingi",
+    "latitude": 17.3912393,
+    "longitude": 78.3577135,
+    "place_id": "ChIJnyovqNWVyzsRiAUGL_enXkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyovqNWVyzsRiAUGL_enXkE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:47"
+  },
+  {
+    "business_name": "Cool Zones",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Cold storage facility",
+    "pincode": "521343",
+    "phone_number": "+91 90000 25094",
+    "website": "https://www.coolzones.in/",
+    "rating": 4.7,
+    "reviews_count": 89,
+    "address": "3-76/7/N/P, Puppalaguda - Manikonda, Employees colony, Shirdi Sai Nagar, Hyderabad, Telangana 500089",
+    "area": "Employees colony, Shirdi Sai Nagar",
+    "latitude": 17.4025051,
+    "longitude": 78.3829177,
+    "place_id": "ChIJaxZiC752JGoRzerNtMyRWIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxZiC752JGoRzerNtMyRWIo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:20:47"
+  }
+]

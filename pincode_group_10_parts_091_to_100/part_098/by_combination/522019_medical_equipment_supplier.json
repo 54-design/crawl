@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Medical &fancy stores",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "522019",
+    "phone_number": "+91 96183 72171",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "783P+P92 center, Ravi Medical&fancy Stores, Dasaripalem, Andhra Pradesh 522019",
+    "area": "Dasaripalem",
+    "latitude": 16.2542723,
+    "longitude": 80.3358798,
+    "place_id": "ChIJZ_d9pxx3SjoRSE60kBB2K4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_d9pxx3SjoRSE60kBB2K4Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:14"
+  },
+  {
+    "business_name": "Ravi Medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "522019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "68HJ+H25, Main road, Yanamadala, Andhra Pradesh 522019",
+    "area": "522019",
+    "latitude": 16.2288841,
+    "longitude": 80.3301163,
+    "place_id": "ChIJt5CvUNB2SjoRpDRQIet284M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5CvUNB2SjoRpDRQIet284M",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:14"
+  }
+]

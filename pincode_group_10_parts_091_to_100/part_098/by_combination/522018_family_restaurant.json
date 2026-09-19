@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bee's Hive",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522018",
+    "phone_number": "+91 79813 78397",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ambedkar Centre, Amaravati Rd, Gorantla, Guntur, Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.343537299999998,
+    "longitude": 80.4389439,
+    "place_id": "ChIJ0bgRGcmLNToRYKGf2qvosdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bgRGcmLNToRYKGf2qvosdY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:03:03"
+  },
+  {
+    "business_name": "Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Saradha school, Gorantla, Guntur, Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.3403429,
+    "longitude": 80.4388378,
+    "place_id": "ChIJRWYQEdWLNToRG4M2OjVWpho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWYQEdWLNToRG4M2OjVWpho",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:03:03"
+  }
+]

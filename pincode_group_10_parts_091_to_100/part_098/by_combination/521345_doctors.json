@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr RaviTeja",
+    "search_category": "Doctors",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H522+F92, MDR122, Thakkellapadu, Andhra Pradesh 521345",
+    "area": "521345",
+    "latitude": 16.5511329,
+    "longitude": 81.1508771,
+    "place_id": "ChIJTWrIjNoXNjoRRtwhHNSckL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWrIjNoXNjoRRtwhHNSckL8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:05"
+  },
+  {
+    "business_name": "P DR street",
+    "search_category": "Doctors",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "521345",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G5MG+CXM, Bhyravapatnam, Andhra Pradesh 521345",
+    "area": "521345",
+    "latitude": 16.533417999999998,
+    "longitude": 81.1774421,
+    "place_id": "ChIJfRXsIQAjNjoRSoVfOHGVh_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRXsIQAjNjoRSoVfOHGVh_s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:05"
+  }
+]

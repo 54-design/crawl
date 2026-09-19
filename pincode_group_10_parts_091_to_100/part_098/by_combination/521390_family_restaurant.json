@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Meera's Kitchen",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521390",
+    "phone_number": "+91 99595 91839",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "M4M4+8WR 6/2, 6-2-241, Subhash Nagar, Nizamabad, Telangana 503002",
+    "area": "Subhash Nagar",
+    "latitude": 18.6835542,
+    "longitude": 78.1058742,
+    "place_id": "ChIJjVxFW7PbzTsRoZAEBvKZzss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVxFW7PbzTsRoZAEBvKZzss",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:23"
+  },
+  {
+    "business_name": "R S S SWAMY MESS",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "521390",
+    "phone_number": "+91 99499 00445",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "ZP Rd, Subhash Nagar, Nizamabad, Telangana 503002",
+    "area": "Subhash Nagar",
+    "latitude": 18.6835345,
+    "longitude": 78.1073108,
+    "place_id": "ChIJTQuohmDbzTsRaJV3zv8rn9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQuohmDbzTsRaJV3zv8rn9A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:23"
+  }
+]

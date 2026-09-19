@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhoomi Bharathi",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Natural goods store, Organic farm, Organic shop",
+    "pincode": "522202",
+    "phone_number": "+91 91003 07308",
+    "website": "http://bhoomibharathi.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Athota, Andhra Pradesh 522306",
+    "area": "522202",
+    "latitude": 16.2907278,
+    "longitude": 80.6863718,
+    "place_id": "ChIJRzpHalIHSjoRQsf4l3NngF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzpHalIHSjoRQsf4l3NngF4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:23"
+  },
+  {
+    "business_name": "Vishwas Naturals",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "522202",
+    "phone_number": "+91 62817 16522",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6JV8+HR4, Dharani Square, Guntur, Tenali, Angalakuduru, Andhra Pradesh 522211",
+    "area": "Guntur",
+    "latitude": 16.243935699999998,
+    "longitude": 80.6170765,
+    "place_id": "ChIJDWxydBYJSjoRUh35AFPjDjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWxydBYJSjoRUh35AFPjDjQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:23"
+  }
+]

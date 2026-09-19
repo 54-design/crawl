@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aruna Homeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "521323",
+    "phone_number": "+91 62818 38167",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Floor, Sri Eda Anjaiah Bhagyamma Nilayam, Santha Rd, Gudlavalleru, Andhra Pradesh 521356",
+    "area": "521323",
+    "latitude": 16.3468967,
+    "longitude": 81.0542432,
+    "place_id": "ChIJYQ75DSYdNjoRUk6dRSKJxyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQ75DSYdNjoRUk6dRSKJxyc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:44"
+  },
+  {
+    "business_name": "LIFE CARE",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Homeopath",
+    "pincode": "521323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near Jayathi Gardens, Prashanti Apartments, A - Block 3rd floor, Gudivada, Andhra Pradesh 521323",
+    "area": "521323",
+    "latitude": 16.4488,
+    "longitude": 81.0304,
+    "place_id": "ChIJHcag8aMbNjoR-qa0iZ4GTz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcag8aMbNjoR-qa0iZ4GTz8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:47"
+  }
+]

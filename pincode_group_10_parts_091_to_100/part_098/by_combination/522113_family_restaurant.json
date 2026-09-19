@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AHA Family Restaurant & Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522113",
+    "phone_number": "+91 84648 42771",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Post & Mandal, opposite Bharat Gas, near Sai baba Mandir, Karamchedu, Andhra Pradesh 523168",
+    "area": "522113",
+    "latitude": 15.8890301,
+    "longitude": 80.3161684,
+    "place_id": "ChIJYXy8U_tDSjoR0OEVugrEe6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXy8U_tDSjoR0OEVugrEe6A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:55"
+  },
+  {
+    "business_name": "Tulasi Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522113",
+    "phone_number": "+91 89197 55470",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "ISLAND CENTRE, AJS PLAZA, Ponnur, Andhra Pradesh 522124",
+    "area": "522113",
+    "latitude": 16.0663411,
+    "longitude": 80.55178289999999,
+    "place_id": "ChIJRczZc0URSjoRGwwEtV_azQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRczZc0URSjoRGwwEtV_azQY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:17:55"
+  }
+]

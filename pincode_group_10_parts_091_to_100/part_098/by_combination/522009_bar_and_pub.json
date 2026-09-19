@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAV JAY RESTAURANT AND BAR",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "522009",
+    "phone_number": "+91 81218 21623",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-80, Nethaji Nagar, Krishna Babu Nagar, Srinivasa Nagar Colony, Guntur, Andhra Pradesh 522006",
+    "area": "Nethaji Nagar, Krishna Babu Nagar, Srinivasa Nagar Colony",
+    "latitude": 16.3234557,
+    "longitude": 80.40677649999999,
+    "place_id": "ChIJNZ8AduaLNToRawr32qmN4FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZ8AduaLNToRawr32qmN4FU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:55:55"
+  },
+  {
+    "business_name": "Rage Rowdy wine shop",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "522009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "88FV+CWQ, Palakaluru Rd, Perecherla, Andhra Pradesh 522009",
+    "area": "522009",
+    "latitude": 16.32358,
+    "longitude": 80.34486,
+    "place_id": "ChIJ9fgJGzKJNToRkNxyneY4T6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fgJGzKJNToRkNxyneY4T6w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:55:55"
+  }
+]

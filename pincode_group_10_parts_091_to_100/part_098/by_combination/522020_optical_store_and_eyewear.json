@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sai Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "522020",
+    "phone_number": "+91 96032 57006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GFVQ+MH2, Devender Colony, Kompally, Hyderabad, Telangana 500100",
+    "area": "Devender Colony, Kompally",
+    "latitude": 17.5441468,
+    "longitude": 78.4888896,
+    "place_id": "ChIJeTU2h0eFyzsR0xwERkmVK0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTU2h0eFyzsR0xwERkmVK0s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:06:53"
+  },
+  {
+    "business_name": "Om Optician & Contact Lenses Clinic",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Products Manufacturer",
+    "all_categories": "Optical Products Manufacturer, Optician",
+    "pincode": "522020",
+    "phone_number": "+91 98229 99422",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shastri Nagar, Kasarwadi, Pimpri-Chinchwad, Maharashtra 411034",
+    "area": "Shastri Nagar, Kasarwadi",
+    "latitude": 18.6052388,
+    "longitude": 73.8234964,
+    "place_id": "ChIJRwnTMZK4wjsRqr2FA-gBPFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwnTMZK4wjsRqr2FA-gBPFM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:06:53"
+  }
+]

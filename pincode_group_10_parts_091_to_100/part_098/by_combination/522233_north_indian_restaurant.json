@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sravya Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "522233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-35, Main Rd, Outer, Thimmapuram, Nadendla, Andhra Pradesh 522234",
+    "area": "Outer",
+    "latitude": 16.170708899999997,
+    "longitude": 80.1902357,
+    "place_id": "ChIJ1afmoLF7SjoRks79m2hKLGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1afmoLF7SjoRks79m2hKLGY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:31:05"
+  },
+  {
+    "business_name": "hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "522233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "57V8+2MW, Factory Road, Boyapalem, Marripalem, Andhra Pradesh 522233",
+    "area": "Boyapalem",
+    "latitude": 16.1926064,
+    "longitude": 80.2666981,
+    "place_id": "ChIJx_xGTv57SjoR81oswwGRq-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_xGTv57SjoR81oswwGRq-8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:31:05"
+  }
+]

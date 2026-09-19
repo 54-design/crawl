@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marti gifts and fancy",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "521356",
+    "phone_number": "+91 63763 55220",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pamarru, Andhra Pradesh 521157",
+    "area": "521356",
+    "latitude": 16.3229167,
+    "longitude": 80.9610355,
+    "place_id": "ChIJy03QRUr9SToRrq8_nuz34K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy03QRUr9SToRrq8_nuz34K0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:26:40"
+  },
+  {
+    "business_name": "The Little Gesture",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "521356",
+    "phone_number": "+91 93462 20030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6-3, BDR towers ground floor, 1216/72, Rd Number 2, Methodist Colony, Hyderabad, Telangana 500016",
+    "area": "Methodist Colony, Begumpet",
+    "latitude": 17.4350018,
+    "longitude": 78.4638052,
+    "place_id": "ChIJS-La-8WRyzsRVMDz4fmKHAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-La-8WRyzsRVMDz4fmKHAc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:26:43"
+  }
+]

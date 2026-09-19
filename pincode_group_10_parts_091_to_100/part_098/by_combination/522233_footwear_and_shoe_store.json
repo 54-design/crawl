@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI GENERAL TRADERS",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "522233",
+    "phone_number": "+91 94911 26246",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Road, beside Jio Showroom, Edlapadu, Andhra Pradesh 522233",
+    "area": "522233",
+    "latitude": 16.1689757,
+    "longitude": 80.2247435,
+    "place_id": "ChIJ62eDL0N7SjoRShd3SkSMhc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62eDL0N7SjoRShd3SkSMhc8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:31:14"
+  },
+  {
+    "business_name": "VEERANJANEYA FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "522233",
+    "phone_number": "+91 90141 32298",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kotla Bazar, near Sbi Bank, Edlapadu, Andhra Pradesh 522233",
+    "area": "522233",
+    "latitude": 16.1695767,
+    "longitude": 80.2248889,
+    "place_id": "ChIJ7R-fh817SjoRR3eMRuJj98U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R-fh817SjoRR3eMRuJj98U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:31:14"
+  }
+]

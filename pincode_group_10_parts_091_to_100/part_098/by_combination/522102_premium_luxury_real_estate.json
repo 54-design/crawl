@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Sotheby's International Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "522102",
+    "phone_number": "+91 33 4604 8202",
+    "website": "https://www.sothebysrealty.com/india/eng",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1309, Godrej Genesis Building, BN Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "BN Block, Sector V, Bidhannagar",
+    "latitude": 22.5816962,
+    "longitude": 88.4304141,
+    "place_id": "ChIJD6b4Tbt1AjoRDtpZ-wbDXBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6b4Tbt1AjoRDtpZ-wbDXBk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:13:37"
+  },
+  {
+    "business_name": "Liyaans Properties (Liyans Commerce Pvt Ltd)",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "522102",
+    "phone_number": "+91 33 4084 4084",
+    "website": "https://www.liyaans.com/",
+    "rating": 4.9,
+    "reviews_count": 2376,
+    "address": "RDB BOULEVARD,Unit 4E 4th Floor, Plot - K1, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "EP Block, Sector V, Bidhannagar",
+    "latitude": 22.568704,
+    "longitude": 88.4331522,
+    "place_id": "ChIJ-YoCFP13AjoRFWyH-y4RylM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YoCFP13AjoRFWyH-y4RylM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:13:38"
+  }
+]

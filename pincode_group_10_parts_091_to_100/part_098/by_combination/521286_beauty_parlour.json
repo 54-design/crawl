@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jabilli beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521286",
+    "phone_number": "+91 98485 06690",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ground floor, police ramyyast, 41-20/6-25, Naidupet, Nehru Nagar, Vijayawada, Andhra Pradesh 520013",
+    "area": "Naidupet, Nehru Nagar",
+    "latitude": 16.5040352,
+    "longitude": 80.6257414,
+    "place_id": "ChIJu4EYwm_xNToRCZ8ME2bEE4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4EYwm_xNToRCZ8ME2bEE4E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:50"
+  },
+  {
+    "business_name": "Blush Beauty clinic & Training Institute",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "521286",
+    "phone_number": "+91 73311 42479",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 165,
+    "address": "23-2-19, near Durga Supermarket Bus Stop,, Mutyalampadu, Bhagathsingh Road,, Vijayawada, Andhra Pradesh 520011",
+    "area": "Mutyalammapadu, Satyaranayana Puram",
+    "latitude": 16.525115,
+    "longitude": 80.63840499999999,
+    "place_id": "ChIJuQhTAlrlNToRVeKNj4SsIYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQhTAlrlNToRVeKNj4SsIYI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:51"
+  }
+]

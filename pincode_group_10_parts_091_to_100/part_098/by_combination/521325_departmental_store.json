@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri naga Venkata general store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store, Supermarket",
+    "pincode": "521325",
+    "phone_number": "+91 85559 70405",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-49, main road, Srihanpuram, sriharipuram, Mudinepalle, Pedda Komarru, Andhra Pradesh 521329",
+    "area": "Srihanpuram, sriharipuram",
+    "latitude": 16.412900699999998,
+    "longitude": 81.1457434,
+    "place_id": "ChIJrV87JWEfNjoRVYNvUCg5a3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrV87JWEfNjoRVYNvUCg5a3U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:01"
+  },
+  {
+    "business_name": "Prasad Grocery",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "4-9, Pedapalaparru, Andhra Pradesh 521323",
+    "area": "521325",
+    "latitude": 16.4267331,
+    "longitude": 81.0578483,
+    "place_id": "ChIJBWMDbc4dNjoRkCJKiL4T_S8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWMDbc4dNjoRkCJKiL4T_S8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:01:01"
+  }
+]

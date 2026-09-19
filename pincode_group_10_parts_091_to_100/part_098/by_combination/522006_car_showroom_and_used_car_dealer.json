@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karmax Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto bodywork mechanic, Auto insurance agency, Auto painting, Car dealer, Car detailing service, Car finance and loan company, Car leasing service, Chauffeur service",
+    "pincode": "522006",
+    "phone_number": "+91 98200 53599",
+    "website": "http://www.karmaxcars.com/",
+    "rating": 4.8,
+    "reviews_count": 149,
+    "address": "G7 Mall, Shop No:31, 7 Bunglows, Andheri (West) Mumbai near 7 Bunglows Bus, depot or Versova Metro Station., Mumbai, Maharashtra 400053",
+    "area": "Model Town, Andheri West",
+    "latitude": 19.130989,
+    "longitude": 72.81997199999999,
+    "place_id": "ChIJcZwJxRy25zsRISG8QtAzDHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZwJxRy25zsRISG8QtAzDHY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:36"
+  },
+  {
+    "business_name": "VAARAHI CARS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto body shop, Auto broker, Auto painting, Auto repair shop, Car leasing service, Car wash",
+    "pincode": "522006",
+    "phone_number": "+91 70137 01404",
+    "website": "https://www.instagram.com/absolutedetailingstudio?igsh=MTBpejJvcWpwa2g0eQ==",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "8CMC+JGM, Guntur, Andhra Pradesh 522034",
+    "area": "522006",
+    "latitude": 16.3343265,
+    "longitude": 80.4216229,
+    "place_id": "ChIJc6WcCgCLNToRyxrkYKIhNow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6WcCgCLNToRyxrkYKIhNow",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:52:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Generator Co",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "521326",
+    "phone_number": "+91 93111 53376",
+    "website": "http://www.indiagenerator.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "162, Pocket C, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Pocket C, Okhla Phase I, Okhla Industrial Estate",
+    "latitude": 28.5248463,
+    "longitude": 77.27967919999999,
+    "place_id": "ChIJ_____3TkDDkRFl8obbgmJJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____3TkDDkRFl8obbgmJJc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:04:34"
+  },
+  {
+    "business_name": "Balaji Generator",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "521326",
+    "phone_number": "+91 98314 42085",
+    "website": "https://balajigenerator.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Nigam Center, 155, Lenin Sarani Rd, Kolkata, West Bengal 700072",
+    "area": "Esplanade, Chandni Chawk, Bowbazar",
+    "latitude": 22.5649871,
+    "longitude": 88.35336799999999,
+    "place_id": "ChIJOaPgCdN3AjoRDoTuPb-p8ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaPgCdN3AjoRDoTuPb-p8ng",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:04:34"
+  }
+]

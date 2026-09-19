@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "venkata sai fancy store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "2, 160, Endroyi, Andhra Pradesh 522016",
+    "area": "522016",
+    "latitude": 16.514252799999998,
+    "longitude": 80.3776335,
+    "place_id": "ChIJDbXfa6-TNToRhv5LrAgHf6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbXfa6-TNToRhv5LrAgHf6k",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:00:51"
+  },
+  {
+    "business_name": "VENKATAIAH GENERAL AND FANCY STORE'S",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "522016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nekkallu, Andhra Pradesh 522236",
+    "area": "Nekkallu",
+    "latitude": 16.4904048,
+    "longitude": 80.4394507,
+    "place_id": "ChIJZ4UHj6SNNToRX-ik0C_Wyh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4UHj6SNNToRX-ik0C_Wyh0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:00:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adithya Yoga Classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "521312",
+    "phone_number": "+91 99483 83446",
+    "website": "http://adithyayoga.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "T. Nagar",
+    "latitude": 13.0430843,
+    "longitude": 80.2327087,
+    "place_id": "ChIJd-FzJK9nUjoReoEGMFeDse8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-FzJK9nUjoReoEGMFeDse8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:52:15"
+  },
+  {
+    "business_name": "WISELIFE WELLNESS INDIA PRIVATE LIMITED",
+    "search_category": "Yoga Center",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "521312",
+    "phone_number": "N/A",
+    "website": "http://www.wiselife.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot No 3, Behrampur Rd, near Lodi Hotel, Block A, Sector 34, Gurugram, Haryana 122004",
+    "area": "Block A, Sector 34",
+    "latitude": 28.427343399999998,
+    "longitude": 77.0064493,
+    "place_id": "ChIJx4BrKx0ZDTkR8WSYcdAEVp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4BrKx0ZDTkR8WSYcdAEVp0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:52:16"
+  }
+]

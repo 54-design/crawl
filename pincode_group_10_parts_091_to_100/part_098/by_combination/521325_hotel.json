@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagaraju Coffee Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "521325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 54,
+    "address": "C4F6+5G2, Mudinepalle, Andhra Pradesh 521325",
+    "area": "521325",
+    "latitude": 16.4228768,
+    "longitude": 81.1112651,
+    "place_id": "ChIJJ0khgNseNjoRtjd0d5_XyLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0khgNseNjoRtjd0d5_XyLE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:02:09"
+  },
+  {
+    "business_name": "Varsha Lodge(Varsha Residency)",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521325",
+    "phone_number": "+91 70321 05553",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 284,
+    "address": "PP Rd, Kaikalur, Andhra Pradesh 521333",
+    "area": "521325",
+    "latitude": 16.555913699999998,
+    "longitude": 81.2193422,
+    "place_id": "ChIJkUcbqsQ8NjoRCUswVwWEbaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUcbqsQ8NjoRCUswVwWEbaQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:02:09"
+  }
+]

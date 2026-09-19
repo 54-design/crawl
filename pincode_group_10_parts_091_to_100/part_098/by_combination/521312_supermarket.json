@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KABEER SUPER MARKET",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "521312",
+    "phone_number": "+91 90593 18547",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "1-33, Ponnamanda, Andhra Pradesh 533248",
+    "area": "521312",
+    "latitude": 16.440947299999998,
+    "longitude": 81.9072671,
+    "place_id": "ChIJYxham57hNzoRMFDLBdIan7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxham57hNzoRMFDLBdIan7Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:51:38"
+  },
+  {
+    "business_name": "KADAPA SUPER MARKET",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521312",
+    "phone_number": "+91 98667 79669",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "42/23, opp. Srinivasa Residency, N.G.O Colony, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "N.G.O Colony",
+    "latitude": 14.4753004,
+    "longitude": 78.8390829,
+    "place_id": "ChIJe3YSbvhtszsRpG9XJNVmiVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3YSbvhtszsRpG9XJNVmiVU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:51:40"
+  }
+]

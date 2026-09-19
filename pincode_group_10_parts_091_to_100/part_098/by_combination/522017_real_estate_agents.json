@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kornepadu",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "522017",
+    "phone_number": "+91 99664 42333",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "69RM+7W9, Guntur, Kornepadu, Andhra Pradesh 522017",
+    "area": "522017",
+    "latitude": 16.240672699999998,
+    "longitude": 80.38485469999999,
+    "place_id": "ChIJz10EMzx0SjoR4_AeOoNn9_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz10EMzx0SjoR4_AeOoNn9_M",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:02:29"
+  },
+  {
+    "business_name": "New ploting",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "522017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7F8J+G5M, Budampadu, Andhra Pradesh 522017",
+    "area": "522017",
+    "latitude": 16.2663494,
+    "longitude": 80.4804308,
+    "place_id": "ChIJCQgkNgALSjoRQvGYrV8ZXug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQgkNgALSjoRQvGYrV8ZXug",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:02:29"
+  }
+]

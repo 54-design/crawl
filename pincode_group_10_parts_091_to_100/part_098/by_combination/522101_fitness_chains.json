@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "7Eleven Fitness Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "522101",
+    "phone_number": "+91 83749 49604",
+    "website": "http://effortless-beijinho-741df6.netlify.app/",
+    "rating": 4.7,
+    "reviews_count": 34,
+    "address": "bus stand, Gelli’s tower, 2nd floor Near Bapatla old, Bapatla, Andhra Pradesh 522101",
+    "area": "Srungarapuram",
+    "latitude": 15.904877899999999,
+    "longitude": 80.4719049,
+    "place_id": "ChIJ18kOiL8_SjoRdFAxpz7crbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18kOiL8_SjoRdFAxpz7crbY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:10:46"
+  },
+  {
+    "business_name": "Power gym JBS's Bapatla",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "522101",
+    "phone_number": "+91 81509 33624",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Kukkalavari palem, opp. sumanth rice mill, near Bapatla Engineering College, Malleswari, Bapatla, Bapatla West Rural, Andhra Pradesh 522101",
+    "area": "Malleswari",
+    "latitude": 15.891980499999999,
+    "longitude": 80.4411135,
+    "place_id": "ChIJ_xU89ltBSjoRglo7_4rNc0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xU89ltBSjoRglo7_4rNc0w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:10:46"
+  }
+]

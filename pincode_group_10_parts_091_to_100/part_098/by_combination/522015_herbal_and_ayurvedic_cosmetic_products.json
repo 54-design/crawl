@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuradha herbal beauty parlour",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "522015",
+    "phone_number": "+91 73826 37639",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Yadava street, 1, 3rd Line, Old Guntur, Guntur, Andhra Pradesh 522001",
+    "area": "Old Guntur",
+    "latitude": 16.2897479,
+    "longitude": 80.46085719999999,
+    "place_id": "ChIJkcq_O-MLSjoR5Ar5gF5oUBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcq_O-MLSjoR5Ar5gF5oUBI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:58:23"
+  },
+  {
+    "business_name": "Bhaskar Fancy Stores",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "522015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 461,
+    "address": "Chilakaluripet, Andhra Pradesh 522616",
+    "area": "522015",
+    "latitude": 16.0878363,
+    "longitude": 80.1682036,
+    "place_id": "ChIJV64BWWxjSjoRpY2yDga2ZFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV64BWWxjSjoRpY2yDga2ZFQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:58:23"
+  }
+]

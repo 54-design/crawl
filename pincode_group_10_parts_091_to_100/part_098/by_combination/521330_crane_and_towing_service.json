@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crane Engineers",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service, Auto parts store",
+    "pincode": "521330",
+    "phone_number": "+91 90603 91678",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No.13/29, Pratik Complex, Begur Rd, Maruthi Layout, Hongasandra, Bengaluru, Karnataka 560114",
+    "area": "Maruthi Layout, Hongasandra",
+    "latitude": 12.8919698,
+    "longitude": 77.6258271,
+    "place_id": "ChIJUW7yZMYUrjsROn0YFJbouJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW7yZMYUrjsROn0YFJbouJI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:11:09"
+  },
+  {
+    "business_name": "Ankur auto king",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto machine shop, Auto spring shop, Car battery store, Crane service, RV repair shop",
+    "pincode": "521330",
+    "phone_number": "+91 88490 02125",
+    "website": "https://www.mobil.co.in/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Ankur autoking, Dahod Rd, Godhra, Vavadi Bujarg Part, Gujarat 389001",
+    "area": "521330",
+    "latitude": 22.7844634,
+    "longitude": 73.6713232,
+    "place_id": "ChIJvW0Eq9ADYTkR_sVBC1aSWdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvW0Eq9ADYTkR_sVBC1aSWdM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:11:10"
+  }
+]

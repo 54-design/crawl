@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wedding Event Design",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "http://weddingeventdesign.net/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Wedding Event Design, 522211, India",
+    "area": "522211",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJa3V98857ToYR-KpqzTksVU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3V98857ToYR-KpqzTksVU0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:26:17"
+  },
+  {
+    "business_name": "Elvi Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "http://www.elvievents.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Elvi Events, 522211, India",
+    "area": "522211",
+    "latitude": 18.2432491,
+    "longitude": 75.7158726,
+    "place_id": "ChIJqcIfu-QGfkcRqtum5s4VguM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcIfu-QGfkcRqtum5s4VguM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:26:19"
+  }
+]

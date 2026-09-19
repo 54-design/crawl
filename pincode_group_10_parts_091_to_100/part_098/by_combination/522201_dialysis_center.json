@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Nursing Home",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522201",
+    "phone_number": "+91 86442 27191",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "16-2-71, Bose Rd, Kothapet, Nandulpet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Nandulpet",
+    "latitude": 16.2340856,
+    "longitude": 80.65090029999999,
+    "place_id": "ChIJD4JidAoGSjoREK2eIjDHPmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4JidAoGSjoREK2eIjDHPmg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:21:59"
+  },
+  {
+    "business_name": "SRC First Aid Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "First aid station",
+    "all_categories": "First aid station",
+    "pincode": "522201",
+    "phone_number": "+91 93922 35102",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D.No: 1-29-28, Lakshmi Narsimha Swamy Temple Road, beside Sangham Dairy, Nazerpeta, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Nazerpeta, Ramalingeswara Pet",
+    "latitude": 16.2345804,
+    "longitude": 80.6587066,
+    "place_id": "ChIJ02pvATIHSjoRHVilan97JFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02pvATIHSjoRHVilan97JFM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:21:59"
+  }
+]

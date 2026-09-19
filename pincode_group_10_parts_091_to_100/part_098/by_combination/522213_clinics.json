@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veera venketasai Clinic",
+    "search_category": "Clinics",
+    "primary_category": "First aid station",
+    "all_categories": "First aid station",
+    "pincode": "522213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "6GWP+7HQ, Suddapalli, Andhra Pradesh 522213",
+    "area": "522213",
+    "latitude": 16.245724799999998,
+    "longitude": 80.5364979,
+    "place_id": "ChIJ22IRJOQLSjoRA66K9t68C_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22IRJOQLSjoRA66K9t68C_c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:28"
+  },
+  {
+    "business_name": "Yerukalapudi Ayu hospital ashramam",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Ashram",
+    "pincode": "522213",
+    "phone_number": "+91 99494 86927",
+    "website": "http://www.yerukalapudihospitalashramam.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "chandu subba rao hospital ashram, Dr, 7-17, chandu vari street, Yerukalapud, Tenali, Andhra Pradesh 522306",
+    "area": "Yerukalapud",
+    "latitude": 16.2859594,
+    "longitude": 80.6323638,
+    "place_id": "ChIJNzJ1EeIHSjoRpsoP-ISEjKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzJ1EeIHSjoRpsoP-ISEjKs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:30"
+  }
+]

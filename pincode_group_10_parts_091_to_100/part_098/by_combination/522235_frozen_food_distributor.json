@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Enterprises(lakshmi frozen foods)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "522235",
+    "phone_number": "+91 94910 40099",
+    "website": "http://www.amul.com/",
+    "rating": 4.1,
+    "reviews_count": 139,
+    "address": "Shop no-01,ground floor, Ragi chettu road, near Jyoti mall, Gandhi Nagar, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.830502099999999,
+    "longitude": 78.04080309999999,
+    "place_id": "ChIJ2YwHvWDntTsRxY34NqDIRuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YwHvWDntTsRxY34NqDIRuE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:34:48"
+  },
+  {
+    "business_name": "SMQ FOOD PRODUCTS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "522235",
+    "phone_number": "+91 87905 24041",
+    "website": "https://www.drinkbasildelight.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4-126-7, Shilpa township road, Dinnedevarapadu, Kurnool, Andhra Pradesh 518002",
+    "area": "522235",
+    "latitude": 15.7788302,
+    "longitude": 78.05019329999999,
+    "place_id": "ChIJd2FlULHdtTsRVQyl1XPxum8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2FlULHdtTsRVQyl1XPxum8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:34:48"
+  }
+]

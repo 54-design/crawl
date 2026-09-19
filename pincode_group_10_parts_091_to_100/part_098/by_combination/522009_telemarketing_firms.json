@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala Marketing Agencies Pvt Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Service establishment",
+    "pincode": "522009",
+    "phone_number": "+91 92487 24777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bala Marketing Agencies Pvt Ltd, 522009, India",
+    "area": "522009",
+    "latitude": 15.895461999999998,
+    "longitude": 80.7610164,
+    "place_id": "ChIJB5m7ODPWD28R89F41MmvFbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5m7ODPWD28R89F41MmvFbY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:18"
+  },
+  {
+    "business_name": "Markigo",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "522009",
+    "phone_number": "+91 76808 91935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "202, Yaganti Sterling, Kalyani Nagar, Palakaluru Rd, Gujjanagundla, Guntur, Andhra Pradesh 522006",
+    "area": "Gujjanagundla",
+    "latitude": 16.32266,
+    "longitude": 80.4032215,
+    "place_id": "ChIJVTgkRBGKNToRdOmn25cGWD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTgkRBGKNToRdOmn25cGWD4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:19"
+  }
+]

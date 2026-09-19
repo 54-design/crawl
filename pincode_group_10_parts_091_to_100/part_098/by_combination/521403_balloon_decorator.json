@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "521403",
+    "phone_number": "+91 88169 02541",
+    "website": "https://www.divyaevents.com/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Divya Events, 521403, India",
+    "area": "521403",
+    "latitude": 28.422601099999998,
+    "longitude": 76.9900807,
+    "place_id": "ChIJs2OFmidFDocRfOO4mDDc4uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2OFmidFDocRfOO4mDDc4uc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:46"
+  },
+  {
+    "business_name": "Partywithballoons",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Party store, Balloon store, Helium gas supplier",
+    "pincode": "521403",
+    "phone_number": "+91 88205 93262",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 285,
+    "address": "11, 4B, Chakraberia Road N, Chakraberia, Road, Kolkata, West Bengal 700020",
+    "area": "Chakraberia, Road",
+    "latitude": 22.534453,
+    "longitude": 88.3556163,
+    "place_id": "ChIJ4XhycCN3AjoRPrAy05qBlvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XhycCN3AjoRPrAy05qBlvk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:49"
+  }
+]

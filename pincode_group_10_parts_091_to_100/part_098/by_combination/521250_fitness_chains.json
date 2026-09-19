@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plus Fitness 24/7 Mazgaon",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym, Personal trainer, Physical fitness program, Women's personal trainer",
+    "pincode": "521250",
+    "phone_number": "+91 99675 19577",
+    "website": "https://www.plusfitness.co.in/gyms/mazgaon/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot - 10B, Dr Mascarenhas Rd, Anjirwadi, Thakkar Estate, Mazgaon, Mumbai, Maharashtra 400010",
+    "area": "Anjirwadi, Thakkar Estate, Mazgaon",
+    "latitude": 18.9735755,
+    "longitude": 72.8416873,
+    "place_id": "ChIJM27-EA7P5zsRLXDTDzKun88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM27-EA7P5zsRLXDTDzKun88",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:36:59"
+  },
+  {
+    "business_name": "Fitness Life Gym - Nellore",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "521250",
+    "phone_number": "+91 95818 86603",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "above Tanishq Jewellery, Bramhanandapuram, Dargamitta, Nellore, Andhra Pradesh 524003",
+    "area": "Bramhanandapuram, Dargamitta",
+    "latitude": 14.436983699999999,
+    "longitude": 79.9700003,
+    "place_id": "ChIJtQtzYsvzTDoR4XM4MmjvfrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQtzYsvzTDoR4XM4MmjvfrA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:36:59"
+  }
+]

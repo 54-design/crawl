@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Vintage Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "522004",
+    "phone_number": "+91 863 234 5454",
+    "website": "http://capitalhotel.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "8C79+W66 Capital Hotel, 6th Ln, Nalanda Nagar, Brindavan Gardens, Guntur, Andhra Pradesh 522006",
+    "area": "Nalanda Nagar, Brindavan Gardens",
+    "latitude": 16.3147871,
+    "longitude": 80.4180061,
+    "place_id": "ChIJ4xVIDu91SjoREooK9GvVYv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xVIDu91SjoREooK9GvVYv4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:21"
+  },
+  {
+    "business_name": "Venkatadri Vantillu",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "522004",
+    "phone_number": "+91 93460 62266",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2992269,
+    "longitude": 80.449435,
+    "place_id": "ChIJf9siXvN1SjoRiksaCRMWgXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9siXvN1SjoRiksaCRMWgXk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:23"
+  }
+]

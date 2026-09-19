@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "521403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "HJ38+64H, M G Rd, Srinagar, Kothagudem, Laxmidevipally, Telangana 507101",
+    "area": "Srinagar",
+    "latitude": 17.5530532,
+    "longitude": 80.61534879999999,
+    "place_id": "ChIJj0Ab5VARNDoR-HJe0e6KA5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0Ab5VARNDoR-HJe0e6KA5A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:00"
+  },
+  {
+    "business_name": "Suma embroidery works",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "521403",
+    "phone_number": "+91 95053 59496",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajula colony, Srirama residency, Jangareddygudem, Andhra Pradesh 534447",
+    "area": "521403",
+    "latitude": 17.1296976,
+    "longitude": 81.3048259,
+    "place_id": "ChIJgdmyXp33NjoRYrSaX0NrvyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdmyXp33NjoRYrSaX0NrvyQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:02"
+  }
+]

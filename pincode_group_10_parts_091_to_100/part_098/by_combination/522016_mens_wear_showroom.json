@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BM MENS WEAR",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Youth clothing store",
+    "all_categories": "Youth clothing store",
+    "pincode": "522016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Society complex, 14mile, Lemalle, Unguturu, Andhra Pradesh 522016",
+    "area": "14mile",
+    "latitude": 16.4814404,
+    "longitude": 80.39670339999999,
+    "place_id": "ChIJGxpyqpeNNToRdJ3FXODgiDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxpyqpeNNToRdJ3FXODgiDA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:59:25"
+  },
+  {
+    "business_name": "CHICHA'S MEN'S WEAR",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522016",
+    "phone_number": "+91 84660 09463",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adda Road, Ponnekallu Rd, beside Flower Shop, Tadikonda, Andhra Pradesh 522018",
+    "area": "522016",
+    "latitude": 16.4099541,
+    "longitude": 80.4195767,
+    "place_id": "ChIJPRE3oWaNNToRQeEfcPHAJck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRE3oWaNNToRQeEfcPHAJck",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:59:25"
+  }
+]

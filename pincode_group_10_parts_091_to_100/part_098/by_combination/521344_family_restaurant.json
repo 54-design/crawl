@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teja Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521344",
+    "phone_number": "+91 99630 46671",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 40,
+    "address": "GCP5+X9F, Kalla, Andhra Pradesh 534237",
+    "area": "521344",
+    "latitude": 16.5374379,
+    "longitude": 81.4084275,
+    "place_id": "ChIJIQiZ-BguNjoRuNN8N1yfshg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQiZ-BguNjoRuNN8N1yfshg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:03"
+  },
+  {
+    "business_name": "Ruchi Restaurent",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 57,
+    "address": "G998+HRW, Juvvalapalem Rd, Juvvalapalem, Kalla, Elurupadu, Andhra Pradesh 534236",
+    "area": "Juvvalapalem",
+    "latitude": 16.5189824,
+    "longitude": 81.3670654,
+    "place_id": "ChIJsyaTMb8vNjoRv-XoysmNuZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyaTMb8vNjoRv-XoysmNuZM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:04"
+  }
+]

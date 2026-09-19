@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Shirdi Sai Flour Mill And General Stores",
+    "search_category": "Flour Mill",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-46A, Lalpuram, Guntur, Andhra Pradesh 522017",
+    "area": "Lalpuram",
+    "latitude": 16.275161,
+    "longitude": 80.4170948,
+    "place_id": "ChIJoYKfFgB1SjoRfvPFnWNgmfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYKfFgB1SjoRfvPFnWNgmfU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:16"
+  },
+  {
+    "business_name": "Devi Sri rice mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "522003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guntur, Etukur, Andhra Pradesh 522017",
+    "area": "522003",
+    "latitude": 16.2640928,
+    "longitude": 80.4360956,
+    "place_id": "ChIJAV3otoN1SjoR4CEFCthACZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAV3otoN1SjoR4CEFCthACZI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:16"
+  }
+]

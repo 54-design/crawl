@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kinder Pops",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "522211",
+    "phone_number": "+91 94454 49266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Alfa Food Court Gundur, Guntur -Tenali Rd, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sulthanabad",
+    "latitude": 16.2405066,
+    "longitude": 80.6258769,
+    "place_id": "ChIJ44ET_4cJSjoR1oBQ4XQFN9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44ET_4cJSjoR1oBQ4XQFN9g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:28"
+  },
+  {
+    "business_name": "Milk & ice craem parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NO.3DULTANABAD, SHOP, near KANAKA DURGA TEMPLE, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Sulthanabad",
+    "latitude": 16.240322,
+    "longitude": 80.627588,
+    "place_id": "ChIJTxc4MQAJSjoRSVrw9zieem4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxc4MQAJSjoRSVrw9zieem4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:28"
+  }
+]

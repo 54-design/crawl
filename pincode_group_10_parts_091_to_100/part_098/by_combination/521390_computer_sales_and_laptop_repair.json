@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop House",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "521390",
+    "phone_number": "+91 89571 97878",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "71/4 Block-8 In Front Allahabad Bank, Near Chawla Market, Canal Colony, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Near Chawla Market, Canal Colony, Govind Nagar",
+    "latitude": 26.449126,
+    "longitude": 80.30985799999999,
+    "place_id": "ChIJSa62EqFHnDkRURlx7HnjTp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSa62EqFHnDkRURlx7HnjTp8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:32:31"
+  },
+  {
+    "business_name": "IT Care Technology",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Camera store, Computer accessories store, Computer Hardware Company, Computer networking service, Computer service, Computer store, Computer support and services, Computer Wholesaler, Used computer store",
+    "pincode": "521390",
+    "phone_number": "+91 82995 59355",
+    "website": "https://youtube.com/@itcaretech?si=-KHkxADIBK-xwX66",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Somdutt Plaza, F.F.A -27, Third Ln, near hotel landmark, Civil Lines, Kanpur, Uttar Pradesh 208001",
+    "area": "Civil Lines",
+    "latitude": 26.474045699999998,
+    "longitude": 80.3477821,
+    "place_id": "ChIJu6tSQKE4nDkRjnJDeAY82kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6tSQKE4nDkRjnJDeAY82kM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:32:31"
+  }
+]

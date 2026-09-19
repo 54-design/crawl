@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GNR LAUNDRY",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "521457",
+    "phone_number": "+91 94949 38123",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "Shop 5, Sitha Ramapuram, New, Venkateswara Swamy Temple Rd, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "521457",
+    "latitude": 16.895378,
+    "longitude": 80.1002034,
+    "place_id": "ChIJK64TecqpNToRWcxfQYZpnT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK64TecqpNToRWcxfQYZpnT0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:58"
+  },
+  {
+    "business_name": "OM SAI DRY WASH CENTER",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "521457",
+    "phone_number": "+91 93985 28035",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No8, Maszid Back Side Rangu Bazar, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "Y.Y. Colony",
+    "latitude": 16.8922179,
+    "longitude": 80.0960843,
+    "place_id": "ChIJhbIZzJcHNToRIb8c2WnD74A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbIZzJcHNToRIb8c2WnD74A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:58"
+  }
+]

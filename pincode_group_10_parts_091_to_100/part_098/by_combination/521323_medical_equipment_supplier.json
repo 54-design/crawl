@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI MEDICAL STORES",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "521323",
+    "phone_number": "+91 93983 27230",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Janardhana Swamy temple, 3/56, Vinnakota, Andhra Pradesh 521325",
+    "area": "521323",
+    "latitude": 16.3705477,
+    "longitude": 81.0895565,
+    "place_id": "ChIJGfmxr2rjSToRUxsAghDPiCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfmxr2rjSToRUxsAghDPiCk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:53"
+  },
+  {
+    "business_name": "Pavan Vet Medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "521323",
+    "phone_number": "+91 63033 99139",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Santha Rd, beside Satyanarayana swami temple, Gudlavalleru, Andhra Pradesh 521356",
+    "area": "521323",
+    "latitude": 16.3464548,
+    "longitude": 81.0545672,
+    "place_id": "ChIJdYMwSyEdNjoRijfHQLW81HI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYMwSyEdNjoRijfHQLW81HI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:54"
+  }
+]

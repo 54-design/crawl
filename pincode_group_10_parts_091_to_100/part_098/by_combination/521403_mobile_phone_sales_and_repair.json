@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Mobile Store",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521403",
+    "phone_number": "+91 86887 30667",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "state pin code, Mohammadiya Complex, opp. prakasham stadium, Madhura basthi, Writer Basti, Kothagudem, Telangana 507101",
+    "area": "Madhura basthi, Writer Basti",
+    "latitude": 17.545952,
+    "longitude": 80.6175293,
+    "place_id": "ChIJJ9V8DCkRNDoRd_GuXqKNKBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9V8DCkRNDoRd_GuXqKNKBA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:03"
+  },
+  {
+    "business_name": "GAROODA MOBILES - MOBILE REPAIR & ACCESSORIES SHOP",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "521403",
+    "phone_number": "+91 94922 19015",
+    "website": "https://garoodamobiles.com/",
+    "rating": 5,
+    "reviews_count": 179,
+    "address": "GAROODA MOBILES, opposite CHENNAI SHOPPING MALL, Subbaraopet, Kadakatla, Andhra Pradesh 534101",
+    "area": "Subbaraopet",
+    "latitude": 16.8175009,
+    "longitude": 81.52412799999999,
+    "place_id": "ChIJBwEQ2Jy1NzoR5ozbRl8EX3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwEQ2Jy1NzoR5ozbRl8EX3Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:06"
+  }
+]

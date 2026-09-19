@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janata travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "522005",
+    "phone_number": "+91 75692 82292",
+    "website": "http://www.pmuralikrishna96.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Rajendra Nagar South, Stambalagaruvu, Guntur, Andhra Pradesh 522002",
+    "area": "Rajendra Nagar South, Stambalagaruvu",
+    "latitude": 16.3142532,
+    "longitude": 80.4135356,
+    "place_id": "ChIJeV_ssx91SjoRjjYxaLx_nrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeV_ssx91SjoRjjYxaLx_nrs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:44"
+  },
+  {
+    "business_name": "Auto service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Carriage ride service",
+    "pincode": "522005",
+    "phone_number": "+91 99496 52500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 69,
+    "address": "Sambi Reddy Buildings, JKC College Rd, beside Forque restaurant, SVN Colony, Guntur, Andhra Pradesh 522006",
+    "area": "SVN Colony",
+    "latitude": 16.3240411,
+    "longitude": 80.416795,
+    "place_id": "ChIJt3A_FzaLNToRo_4gM7TFVX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3A_FzaLNToRo_4gM7TFVX0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:46"
+  }
+]

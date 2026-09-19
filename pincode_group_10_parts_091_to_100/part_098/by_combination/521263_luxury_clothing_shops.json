@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjana Fashions",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "521263",
+    "phone_number": "+91 92912 35518",
+    "website": "https://www.instagram.com/sanjanafashions?igsh=MXdjZmc5aDVlNXNyZg==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No:2, PYDI, New Vasundhara Restaurant, MARRI COMPLEX, Rest House Rd, near Venugopal Swamy Temple, HO, Gandhinagar, Bhimavaram, Andhra Pradesh 534201",
+    "area": "HO, Gandhinagar",
+    "latitude": 16.5412991,
+    "longitude": 81.52590529999999,
+    "place_id": "ChIJIYqVyx3TNzoRgvwMjZDiSCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYqVyx3TNzoRgvwMjZDiSCk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:44:22"
+  },
+  {
+    "business_name": "Archers Lounge",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Bridal shop, Designer Clothing Store, Dress store, Fashion designer, Linens store, Men's clothing store, Women's clothing store",
+    "pincode": "521263",
+    "phone_number": "+91 97453 22151",
+    "website": "http://www.archerslounge.com/",
+    "rating": 4.8,
+    "reviews_count": 576,
+    "address": "Near Sunny Diamonds, Marappalam Rd, opposite Sree Balasubramanya Swami Temple, Pattom, Thiruvananthapuram, Keralam 695004",
+    "area": "Pattom",
+    "latitude": 8.519575999999999,
+    "longitude": 76.94322059999999,
+    "place_id": "ChIJBRVT1y26BTsRNFuyHrU7zkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRVT1y26BTsRNFuyHrU7zkg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:44:23"
+  }
+]

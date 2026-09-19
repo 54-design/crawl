@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simhadri enterprises",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "521390",
+    "phone_number": "+91 77804 10264",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Vijayawada Rd, Pamarru, Andhra Pradesh 521157",
+    "area": "521390",
+    "latitude": 16.322879999999998,
+    "longitude": 80.9600961,
+    "place_id": "ChIJhc7CQZT9SToRLeTImPH3Abk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhc7CQZT9SToRLeTImPH3Abk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:01"
+  },
+  {
+    "business_name": "Kameswari radio sales and services",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "521390",
+    "phone_number": "+91 99859 74548",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sree ram mohan vilas, Vijayawada Rd, Raparala, Pamarru, Andhra Pradesh 521157",
+    "area": "521390",
+    "latitude": 16.3231341,
+    "longitude": 80.96029159999999,
+    "place_id": "ChIJQ3E_6YT9SToRYrk8oJuTVoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3E_6YT9SToRYrk8oJuTVoA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai hanuman corporation",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "521390",
+    "phone_number": "+91 94823 05799",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "K. N. Extension, APMC Yard, Yeshwanthpur Industrial Suburb, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "K. N. Extension, APMC Yard, Yeshwanthpur Industrial Suburb, Yeswanthpur",
+    "latitude": 13.020889299999999,
+    "longitude": 77.5484685,
+    "place_id": "ChIJm4wPIRw9rjsRb9hGUVVXvg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4wPIRw9rjsRb9hGUVVXvg8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:12"
+  },
+  {
+    "business_name": "MRT Organic Green Products",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "521390",
+    "phone_number": "+91 484 263 2991",
+    "website": "http://www.mrtorganics.com/",
+    "rating": 3.9,
+    "reviews_count": 89,
+    "address": "Hameed Estate, Ashokapuram, Ashokapuram, Erumathala West, Aluva, Kochi, Keralam 683101",
+    "area": "Ashokapuram, Erumathala West",
+    "latitude": 10.0936,
+    "longitude": 76.3610873,
+    "place_id": "ChIJuWvOH9cOCDsRUnDlaOu9abk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWvOH9cOCDsRUnDlaOu9abk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:12"
+  }
+]

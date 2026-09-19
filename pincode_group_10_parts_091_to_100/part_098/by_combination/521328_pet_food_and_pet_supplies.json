@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swagath pet store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "521328",
+    "phone_number": "+91 73308 28806",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 62,
+    "address": "Mydukur Rd, Nadimpalli, Proddatur, Andhra Pradesh 516360",
+    "area": "Nadimpalli",
+    "latitude": 14.747187199999999,
+    "longitude": 78.5561319,
+    "place_id": "ChIJA79QU5l5tDsRCsIbJIhGb2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA79QU5l5tDsRCsIbJIhGb2I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:06:46"
+  },
+  {
+    "business_name": "S.R Pet World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Service establishment",
+    "pincode": "521328",
+    "phone_number": "+91 95426 62728",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 125,
+    "address": "S.R Pet World, 521328, India",
+    "area": "521328",
+    "latitude": 16.7124177,
+    "longitude": 81.0982354,
+    "place_id": "ChIJS2ACHLQUNjoR84EJKXJbuSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2ACHLQUNjoR84EJKXJbuSs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:06:46"
+  }
+]

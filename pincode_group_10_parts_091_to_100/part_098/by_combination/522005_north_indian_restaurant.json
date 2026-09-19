@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "1818 Vintage Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "522005",
+    "phone_number": "+91 88981 81818",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 407,
+    "address": "Gorantla, Andhra Pradesh 522034",
+    "area": "Gorantla",
+    "latitude": 16.3352397,
+    "longitude": 80.4387654,
+    "place_id": "ChIJG43uNACLNToRBGR2IBbIAsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG43uNACLNToRBGR2IBbIAsQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:13"
+  },
+  {
+    "business_name": "Skays Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522005",
+    "phone_number": "+91 95774 44442",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "beside V Platenos, Vidyanagar, Guntur, Andhra Pradesh 522007",
+    "area": "Vidyanagar",
+    "latitude": 16.3162651,
+    "longitude": 80.4239068,
+    "place_id": "ChIJMxLYQ0t1SjoRT1I5m8gl9mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxLYQ0t1SjoRT1I5m8gl9mE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:14"
+  }
+]

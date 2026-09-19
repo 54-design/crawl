@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leaf home yoga classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "521457",
+    "phone_number": "+91 98491 50590",
+    "website": "https://leafyogavillage.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "near Kamalanagar, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6810625,
+    "longitude": 77.5990625,
+    "place_id": "ChIJ_RJVu7lLsTsRVp3pX7Z5rho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RJVu7lLsTsRVp3pX7Z5rho",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:03"
+  },
+  {
+    "business_name": "SRI JYOTHISHALAYAM ASTRO RESEARCH CENTRE",
+    "search_category": "Yoga Center",
+    "primary_category": "Astrologer",
+    "all_categories": "Astrologer, Pujari, Vastu consultant",
+    "pincode": "521457",
+    "phone_number": "+91 88016 23456",
+    "website": "http://www.kbsastrology.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8-103/4d, near Little Angels School Road, Ayyappa Nagar, Line, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "Ayyappa Nagar, Line",
+    "latitude": 16.8982584,
+    "longitude": 80.09709459999999,
+    "place_id": "ChIJ-aERpGgHNToRva-0TORqEuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aERpGgHNToRva-0TORqEuI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:05"
+  }
+]

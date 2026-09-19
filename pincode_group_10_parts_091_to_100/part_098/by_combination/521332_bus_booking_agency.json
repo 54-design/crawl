@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Morning Star Travels Office",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "521332",
+    "phone_number": "+91 92465 50000",
+    "website": "https://www.morningstartravels.in/",
+    "rating": 3.4,
+    "reviews_count": 187,
+    "address": "8FFM+672, beside Morning Star Travels office, Autonagar, Agatavarappadu, Andhra Pradesh 522001",
+    "area": "Autonagar",
+    "latitude": 16.3234046,
+    "longitude": 80.48333269999999,
+    "place_id": "ChIJLfmxd0_1NToRWs602LR_Zno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfmxd0_1NToRWs602LR_Zno",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:58"
+  },
+  {
+    "business_name": "LUCKY TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency",
+    "pincode": "521332",
+    "phone_number": "+91 88019 64441",
+    "website": "http://alluckytravels.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Landmark. Netaji Statue, 16/2/650, Venkatramapuram, Srinivasa Agraharam, Ramamurthy Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "Venkatramapuram, Srinivasa Agraharam, Ramamurthy Nagar",
+    "latitude": 14.4500234,
+    "longitude": 79.9886952,
+    "place_id": "ChIJV_2L2LWMTDoRLaYbjMt6EaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_2L2LWMTDoRLaYbjMt6EaQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:15:01"
+  }
+]

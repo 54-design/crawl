@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Western(Sri Venkata Sai Durga Enterprises)",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Commercial refrigerator supplier",
+    "all_categories": "Commercial refrigerator supplier",
+    "pincode": "522006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4/14/221-A, Amaravati Rd, Koritepadu, Guntur, Andhra Pradesh 522007",
+    "area": "Koritepadu",
+    "latitude": 16.3169833,
+    "longitude": 80.4372278,
+    "place_id": "ChIJcR6wSQB1SjoRQvvz6u0M6Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcR6wSQB1SjoRQvvz6u0M6Tg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:38"
+  },
+  {
+    "business_name": "Nani Safety Services",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Safety equipment supplier",
+    "all_categories": "Safety equipment supplier",
+    "pincode": "522006",
+    "phone_number": "N/A",
+    "website": "https://nanisafetyservices.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3rd St, SVN Colony, Guntur, Andhra Pradesh 522006",
+    "area": "SVN Colony",
+    "latitude": 16.3208709,
+    "longitude": 80.42554609999999,
+    "place_id": "ChIJ32S9RJeLNToRvlRUdT9Qp6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32S9RJeLNToRvlRUdT9Qp6s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:38"
+  }
+]

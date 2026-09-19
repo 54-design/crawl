@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VANI WOMENS HOSTEL",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "521323",
+    "phone_number": "+91 94405 13801",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "road, near 5 roads centre, opposite Vishal mart, Ramanaidu peta, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Ramanaidu peta",
+    "latitude": 16.182906799999998,
+    "longitude": 81.1343261,
+    "place_id": "ChIJGUenfSjnSToRUh1QKf-6LMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUenfSjnSToRUh1QKf-6LMs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:58:28"
+  },
+  {
+    "business_name": "Sc boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "521323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C2XW+3HJ, Moturu, Andhra Pradesh 521323",
+    "area": "521323",
+    "latitude": 16.4477118,
+    "longitude": 81.04638369999999,
+    "place_id": "ChIJRScAe14bNjoRvgi07VTREUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRScAe14bNjoRvgi07VTREUk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:58:28"
+  }
+]

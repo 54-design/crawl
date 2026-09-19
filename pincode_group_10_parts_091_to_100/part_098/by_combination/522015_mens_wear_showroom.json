@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjana Fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522015",
+    "phone_number": "+91 90004 42528",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "58JP+F2R, Reddys Bazaar, Prathipadu, Andhra Pradesh 522019",
+    "area": "Reddys Bazaar",
+    "latitude": 16.1812363,
+    "longitude": 80.33500409999999,
+    "place_id": "ChIJqSILAw9xSjoRGZjH3jg8P6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSILAw9xSjoRGZjH3jg8P6w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:39"
+  },
+  {
+    "business_name": "Swarna fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "522015",
+    "phone_number": "+91 83338 58415",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 81,
+    "address": "road, Garlapadu, Kommuru, Andhra Pradesh 522235",
+    "area": "Garlapadu",
+    "latitude": 16.0649218,
+    "longitude": 80.3604294,
+    "place_id": "ChIJ4YAim_FvSjoRWuJ-V4PluEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YAim_FvSjoRWuJ-V4PluEQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:40"
+  }
+]

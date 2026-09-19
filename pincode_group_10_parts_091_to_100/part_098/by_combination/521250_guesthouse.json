@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanagala Mintu",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "521250",
+    "phone_number": "+91 90529 28266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opp. Old Panchayat Office Ln, Chinna Kallepalli Kodali Post, Ghantasala, vijayawada, Andhra Pradesh 521132",
+    "area": "521250",
+    "latitude": 16.1701524,
+    "longitude": 80.8833272,
+    "place_id": "ChIJtbmU_xv5SToRemMEnluxGL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbmU_xv5SToRemMEnluxGL8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:37:34"
+  },
+  {
+    "business_name": "Songthipai",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521250",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7RWX+7R6, Padikondalapalem, Andhra Pradesh 521250",
+    "area": "521250",
+    "latitude": 16.2956598,
+    "longitude": 80.8495102,
+    "place_id": "ChIJcTKeBwD_SToRi6sqQmqdUt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTKeBwD_SToRi6sqQmqdUt0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:37:35"
+  }
+]

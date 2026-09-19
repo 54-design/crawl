@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Srinivasa Vegetables",
+    "search_category": "Fish Market",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "521401",
+    "phone_number": "+91 86884 91994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madhira Rd, Peda Komira, Andhra Pradesh 521403",
+    "area": "521401",
+    "latitude": 16.988156999999998,
+    "longitude": 80.5176182,
+    "place_id": "ChIJGVKYgK_LNToR20zl8rhKy58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVKYgK_LNToR20zl8rhKy58",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:07"
+  },
+  {
+    "business_name": "Apuchand Fish Farm",
+    "search_category": "Fish Market",
+    "primary_category": "Pond fish supplier",
+    "all_categories": "Pond fish supplier",
+    "pincode": "521401",
+    "phone_number": "+91 80085 20524",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "3968+23G, Gannavaram, Telangana 507304",
+    "area": "521401",
+    "latitude": 17.060072599999998,
+    "longitude": 80.36520449999999,
+    "place_id": "ChIJm3flClxLNDoRS4BsRe5WPag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3flClxLNDoRS4BsRe5WPag",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:08"
+  }
+]

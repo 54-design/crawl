@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govinda Raju Kirana&cool Drinks",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522213",
+    "phone_number": "+91 98661 20344",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mainroad, near Meeseva, Selapadu, Sekuru, Andhra Pradesh 522213",
+    "area": "Selapadu",
+    "latitude": 16.2554816,
+    "longitude": 80.5658734,
+    "place_id": "ChIJK0YHBMQJSjoRD4WhZkIFJ0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0YHBMQJSjoRD4WhZkIFJ0c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:02"
+  },
+  {
+    "business_name": "SRINIVAS Vegetable Shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "522213",
+    "phone_number": "+91 95504 70478",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop 1, Divya Complex, X Road, Vadlamudi, Andhra Pradesh 522213",
+    "area": "522213",
+    "latitude": 16.2413954,
+    "longitude": 80.5613789,
+    "place_id": "ChIJEdWBQv4JSjoRrno5KpLyZfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdWBQv4JSjoRrno5KpLyZfI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:03"
+  }
+]

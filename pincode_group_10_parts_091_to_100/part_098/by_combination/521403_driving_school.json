@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "keerthana driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "521403",
+    "phone_number": "+91 73965 70057",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Aswaraopeta Rd, near Canarabank & HDFC Banks, Jangareddygudem, Andhra Pradesh 534447",
+    "area": "521403",
+    "latitude": 17.1224591,
+    "longitude": 81.2922248,
+    "place_id": "ChIJiczlG1P3NjoRCia5ERKCOVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiczlG1P3NjoRCia5ERKCOVI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:27"
+  },
+  {
+    "business_name": "Baba driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "521403",
+    "phone_number": "+91 98486 23937",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Indira Nagar, Narsampet, Telangana 506132",
+    "area": "Indira Nagar",
+    "latitude": 17.9310243,
+    "longitude": 79.89036469999999,
+    "place_id": "ChIJg0k4q15lMzoRNyjbo37Xg3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0k4q15lMzoRNyjbo37Xg3w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Motive Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "522006",
+    "phone_number": "+91 99080 92369",
+    "website": "http://motivecomputers.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sri Ram Nagar, 4th Ln, Gorantla, Guntur, Gorantla, Andhra Pradesh 522007",
+    "area": "Gorantla",
+    "latitude": 16.3341609,
+    "longitude": 80.43676239999999,
+    "place_id": "ChIJHc7DuOOLNToRP9W5we-ExF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHc7DuOOLNToRP9W5we-ExF0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:11"
+  },
+  {
+    "business_name": "Staz IT Solutions",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Institute of technology",
+    "all_categories": "Institute of technology, Software Training Institute, Website designer",
+    "pincode": "522006",
+    "phone_number": "+91 95536 13333",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "8C5J+RMG, Lakshmipuram Main Rd, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+    "area": "Lakshmipuram",
+    "latitude": 16.309573699999998,
+    "longitude": 80.4317183,
+    "place_id": "ChIJtQEWaWd1SjoRoxR2CzRz-go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQEWaWd1SjoRoxR2CzRz-go",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:53:15"
+  }
+]

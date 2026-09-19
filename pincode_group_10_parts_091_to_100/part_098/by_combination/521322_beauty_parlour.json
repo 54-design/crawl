@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon light beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521322",
+    "phone_number": "+91 90593 80639",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "renuka nilayam, 8-107, opposite Fish Market Road, near venu gopal swamy temple, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.435416,
+    "longitude": 80.99660759999999,
+    "place_id": "ChIJt1OjocUbNjoRdcuwRF212Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1OjocUbNjoRdcuwRF212Aw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:56:24"
+  },
+  {
+    "business_name": "New Look Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521322",
+    "phone_number": "+91 95056 48133",
+    "website": "https://new-look-beauty-parlour.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": 67,
+    "address": "Trends & Mubharak Biriyani Point, Kakarla Vari St, opp. Road, Akividu, Andhra Pradesh 534235",
+    "area": "521322",
+    "latitude": 16.5819872,
+    "longitude": 81.3786465,
+    "place_id": "ChIJkbUwLmkxNjoRtMQLk0AGzzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbUwLmkxNjoRtMQLk0AGzzs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:56:24"
+  }
+]

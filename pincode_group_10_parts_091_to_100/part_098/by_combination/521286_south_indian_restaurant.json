@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nalabheema Paakashala",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Andhra restaurant, Breakfast restaurant, Non Vegetarian Restaurant",
+    "pincode": "521286",
+    "phone_number": "+91 96409 97887",
+    "website": "http://www.nalabheemapaakashalafoods.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "66B, Road No.4, KDGO colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 530008",
+    "area": "KDGO colony, Guru Nanak Colony",
+    "latitude": 16.5039639,
+    "longitude": 80.6654423,
+    "place_id": "ChIJmbdQobH7NToRwm1teXOelWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbdQobH7NToRwm1teXOelWU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:03"
+  },
+  {
+    "business_name": "FOOD EXCHANGE",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521286",
+    "phone_number": "+91 77997 41022",
+    "website": "https://www.accorhotels.com/a0l1",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "D.No, 54-14/8-50, Bharathi Nagar, Vijayawada, Andhra Pradesh 520008",
+    "area": "Bharathi Nagar",
+    "latitude": 16.5090119,
+    "longitude": 80.66542,
+    "place_id": "ChIJXboGsgf7NToRHjsvEPquxaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXboGsgf7NToRHjsvEPquxaY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:04"
+  }
+]

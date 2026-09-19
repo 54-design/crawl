@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanakaiah",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "522015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "48QH+H3Q, A.B.Palem Main Road, Abbineniguntapalem, Gorijavoluguntapalem, Andhra Pradesh 522015",
+    "area": "Abbineniguntapalem",
+    "latitude": 16.138962,
+    "longitude": 80.32773519999999,
+    "place_id": "ChIJ50WgVvBxSjoR6EC1pU9CBL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50WgVvBxSjoR6EC1pU9CBL8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:36"
+  },
+  {
+    "business_name": "Sri Kalyani Restaurant & Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Wine bar",
+    "all_categories": "Wine bar, Indian restaurant",
+    "pincode": "522015",
+    "phone_number": "+91 863 234 5655",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "3/1, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3014038,
+    "longitude": 80.4384408,
+    "place_id": "ChIJ65fHDUR1SjoRyeWw6hIUDqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65fHDUR1SjoRyeWw6hIUDqc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:39"
+  }
+]

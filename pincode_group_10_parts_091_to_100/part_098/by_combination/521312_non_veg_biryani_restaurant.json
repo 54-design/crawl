@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhai Biryani Point",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "521312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR3V+M9M, Pedda Avutapalle, Andhra Pradesh 521286",
+    "area": "521312",
+    "latitude": 16.5542058,
+    "longitude": 80.8434247,
+    "place_id": "ChIJC4NTbQAJNjoRil_3l8nx2f8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4NTbQAJNjoRil_3l8nx2f8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:51:48"
+  },
+  {
+    "business_name": "Valima ki biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "521312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 521,
+    "address": "HKP Road, Swamy Shivanandapuram, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "area": "Swamy Shivanandapuram, Shivaji Nagar",
+    "latitude": 12.9863006,
+    "longitude": 77.6046971,
+    "place_id": "ChIJieRZonwXrjsRQTtuOFaCUDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJieRZonwXrjsRQTtuOFaCUDM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:51:49"
+  }
+]

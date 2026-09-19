@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandemkodi restaurant vijayawada",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521286",
+    "phone_number": "+91 73866 72772",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "A ,nts no: 447, Door no: 31, 16-4, MG Rd, beside lane to haian hotel, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Labbipet",
+    "latitude": 16.5030753,
+    "longitude": 80.64156009999999,
+    "place_id": "ChIJAbHI1NH7NToRXvKO7KL3he0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbHI1NH7NToRXvKO7KL3he0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:01"
+  },
+  {
+    "business_name": "RAMA SWAMY MILITARY HOTEL",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "521286",
+    "phone_number": "+91 76598 35555",
+    "website": "https://www.facebook.com/Rama-Swamy-Military-Hotel-146538360253509",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4th Rd, Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony",
+    "latitude": 16.5046833,
+    "longitude": 80.6657525,
+    "place_id": "ChIJs7tJeiH7NToRRIOzfMyAZNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7tJeiH7NToRRIOzfMyAZNc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:46:01"
+  }
+]

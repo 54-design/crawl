@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ClientsMaster",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "521263",
+    "phone_number": "+91 94495 46524",
+    "website": "http://clientsmaster.com/",
+    "rating": 5,
+    "reviews_count": 38,
+    "address": "ClientsMaster, 521263, India",
+    "area": "521263",
+    "latitude": 12.909238,
+    "longitude": 77.6458227,
+    "place_id": "ChIJhTkDxROLqGgRLXYMsS2LNPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhTkDxROLqGgRLXYMsS2LNPM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:45:32"
+  },
+  {
+    "business_name": "EFG TAX SERVICES PRIVATE LIMITED",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor, Chartered accountant, Consultant, Financial audit, Tax consultant, Tax preparation service",
+    "pincode": "521263",
+    "phone_number": "+91 98405 93459",
+    "website": "https://efgtaxservices.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/1, Ist Floor, EB SUBSTATION, F Type, 1st Main Rd, opposite SIDCO NAGAR, Sidco Nagar, Villivakkam, Chennai, Tamil Nadu 600049",
+    "area": "Sidco Nagar, Villivakkam",
+    "latitude": 13.104653599999999,
+    "longitude": 80.20084039999999,
+    "place_id": "ChIJv-UXGGRkUjoRUvIU8FTdMno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-UXGGRkUjoRUvIU8FTdMno",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:45:33"
+  }
+]

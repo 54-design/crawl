@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRASHANTH MUTTON SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "521369",
+    "phone_number": "+91 90005 26315",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 87,
+    "address": "11-12-65, 1, N Rd Number 11, Vasavi Colony, Margadarshi Colony, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Vasavi Colony, Margadarshi Colony, Kothapet",
+    "latitude": 17.367390699999998,
+    "longitude": 78.5480558,
+    "place_id": "ChIJEe6zt_aZyzsRZqjGvU0VdHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEe6zt_aZyzsRZqjGvU0VdHI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:24"
+  },
+  {
+    "business_name": "NAINIE Pork Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Meat products store",
+    "pincode": "521369",
+    "phone_number": "+91 99892 17132",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 253,
+    "address": "NAINIE Pork Shop, Nainie Pork Shop, Flyover, Sardar Patel Rd, beside MadhuKunj Apartment, near Parade Ground, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Regimental Bazaar, Shivaji Nagar",
+    "latitude": 17.4426813,
+    "longitude": 78.5003625,
+    "place_id": "ChIJTXnoBD2ayzsRaRgp06KYzLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXnoBD2ayzsRaRgp06KYzLU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:24"
+  }
+]

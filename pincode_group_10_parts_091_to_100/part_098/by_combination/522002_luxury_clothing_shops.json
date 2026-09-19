@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saumya Sree Clothing",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "522002",
+    "phone_number": "+91 86393 18120",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D.No : 5-51-1/1, 5/14, opposite Bakers Fun, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3035432,
+    "longitude": 80.43153339999999,
+    "place_id": "ChIJj8pEqTd1SjoRPf1ROj3OobA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8pEqTd1SjoRPf1ROj3OobA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:44"
+  },
+  {
+    "business_name": "Diligent boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522002",
+    "phone_number": "+91 73374 35367",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6th Ln, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.3142901,
+    "longitude": 80.4261102,
+    "place_id": "ChIJvzzOqvF1SjoRaGWqbkHOryU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzzOqvF1SjoRaGWqbkHOryU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:44:47"
+  }
+]

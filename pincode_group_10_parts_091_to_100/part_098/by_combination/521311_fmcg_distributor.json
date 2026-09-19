@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SG Trading Company",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "521311",
+    "phone_number": "+91 96677 31355",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "B577, near PRADHAN DAIRY, GD Colony, Block B, Mayur Vihar Phase III, East, Delhi, 110096",
+    "area": "GD Colony, Block B, Mayur Vihar Phase III, East",
+    "latitude": 28.6105089,
+    "longitude": 77.3313048,
+    "place_id": "ChIJbSDogKj9DDkRTfwLLrxTfjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSDogKj9DDkRTfwLLrxTfjo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:49:49"
+  },
+  {
+    "business_name": "P J ENTERPRISES",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "521311",
+    "phone_number": "+91 88615 29296",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Naguri Junction, opposite to Soumya Woods Works, Padil, Mangaluru, Karnataka 575002",
+    "area": "Padil",
+    "latitude": 12.8700706,
+    "longitude": 74.8757084,
+    "place_id": "ChIJmS9sDWlbozsRxNAv4DPo0Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmS9sDWlbozsRxNAv4DPo0Zs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:49:51"
+  }
+]

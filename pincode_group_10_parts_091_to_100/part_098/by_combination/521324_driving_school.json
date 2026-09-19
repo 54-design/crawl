@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gs Driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "521324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 3-154/4, First Floor, Ravoof Bulding, Vijayawada - Machilipatnam Rd, above Sbh, opp. Kommareddy School, Bantumilli, Andhra Pradesh 521324",
+    "area": "521324",
+    "latitude": 16.3706841,
+    "longitude": 81.2724817,
+    "place_id": "ChIJI-BEXnInNjoRKWwC6Hc-90o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-BEXnInNjoRKWwC6Hc-90o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:59:56"
+  },
+  {
+    "business_name": "Srinivasa Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "521324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "97C9+HJJ, Unnamed Road, Bantumilli, Andhra Pradesh 521324",
+    "area": "521324",
+    "latitude": 16.37147,
+    "longitude": 81.2690172,
+    "place_id": "ChIJtXMhx-8nNjoRkMN4eHA5dRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXMhx-8nNjoRkMN4eHA5dRU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:59:56"
+  }
+]

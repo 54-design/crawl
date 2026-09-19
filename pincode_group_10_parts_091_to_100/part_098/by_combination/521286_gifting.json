@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayuri fancy",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "521286",
+    "phone_number": "+91 94411 94126",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "68-1-12, MG Rd, Patamata, Center, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamata, Center",
+    "latitude": 16.4955529,
+    "longitude": 80.6599134,
+    "place_id": "ChIJVVVVxdz6NToRrzudK6DGEEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVxdz6NToRrzudK6DGEEE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:04"
+  },
+  {
+    "business_name": "V4 Smart World",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "521286",
+    "phone_number": "+91 63013 68609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Venkateswara degree college pakana, Vishnu pillala hospital, Opposit, near Rk college line, Batchupeta, Ramanaidupet, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Batchupeta, Ramanaidupet",
+    "latitude": 16.182877299999998,
+    "longitude": 81.1387172,
+    "place_id": "ChIJ74vYSqnnSToRhoMkE3KbMg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74vYSqnnSToRhoMkE3KbMg0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:06"
+  }
+]

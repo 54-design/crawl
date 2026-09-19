@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Safal Hospitality & Maintenance Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Property maintenance, Property management company, Security guard service, Window cleaning service",
+    "pincode": "521390",
+    "phone_number": "+91 99040 55779",
+    "website": "http://www.safalhospitality.com/",
+    "rating": 4.2,
+    "reviews_count": 256,
+    "address": "Iscon Elegance, 506, Sarkhej - Gandhinagar Hwy, nr. Honest Restaurant, next to hotel Crown Plaza, Prahlad Nagar, Ahmedabad, Gujarat 380055",
+    "area": "Prahlad Nagar",
+    "latitude": 23.012895099999998,
+    "longitude": 72.50407539999999,
+    "place_id": "ChIJqdUmsUubXjkR1Fuae6IcRns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdUmsUubXjkR1Fuae6IcRns",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:32:40"
+  },
+  {
+    "business_name": "Guntur Home Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "521390",
+    "phone_number": "+91 88866 63283",
+    "website": "https://gunturhomeservices.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "7CJF+RWP D.No: 3-1-35/5/1, Chuttugunta, Lakshmi Nagar, VIP Rd, beside Guntur, Pappula Mill, Lalpuram, Andhra Pradesh 522004",
+    "area": "Pappula Mill",
+    "latitude": 16.2798679,
+    "longitude": 80.4246323,
+    "place_id": "ChIJiyFm-ER1SjoRUtxeACSVJLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyFm-ER1SjoRUtxeACSVJLw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:32:40"
+  }
+]

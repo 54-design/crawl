@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanuman Car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "522016",
+    "phone_number": "+91 93964 14243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Yenuganti Estate, X Road, Tadikonda, Andhra Pradesh 522236",
+    "area": "522016",
+    "latitude": 16.409633799999998,
+    "longitude": 80.4184626,
+    "place_id": "ChIJrZ709OmNNToRrxs4r3Q-38s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ709OmNNToRrxs4r3Q-38s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:59:48"
+  },
+  {
+    "business_name": "Taxi In Tirupati",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Sightseeing Tour Operator, Taxi stand, Tour operator, Travel agency",
+    "pincode": "522016",
+    "phone_number": "+91 88014 69555",
+    "website": "https://www.taxiintirupati.com/",
+    "rating": 4.9,
+    "reviews_count": 1104,
+    "address": "Door No : 19-1-23, 1, Temple Town, Taxi In, Saamavaayi Rd, near Starlit Suiters, Chintala channu, Kothapalli, Tirupati, Adhara, Andhra Pradesh 517501",
+    "area": "Chintala channu, Kothapalli",
+    "latitude": 13.631606399999999,
+    "longitude": 79.4365935,
+    "place_id": "ChIJSWW55A5LTToRju1_LiqGnJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWW55A5LTToRju1_LiqGnJ4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:59:49"
+  }
+]

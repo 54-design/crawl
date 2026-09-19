@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dmart",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521369",
+    "phone_number": "N/A",
+    "website": "http://www.dmart.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "FP8H+JRJ, Penamaluru, Gangur, Andhra Pradesh 521139",
+    "area": "521369",
+    "latitude": 16.4659354,
+    "longitude": 80.72968209999999,
+    "place_id": "ChIJD3bnMgD9NToROJx14zze2Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3bnMgD9NToROJx14zze2Oc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:20"
+  },
+  {
+    "business_name": "Srinivasa General Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521369",
+    "phone_number": "+91 96184 88180",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 17,
+    "address": "D.no 1-106,Manginapudi Machilipatnam, Manginapudi, Andhra Pradesh 521002",
+    "area": "521369",
+    "latitude": 16.226995,
+    "longitude": 81.2051144,
+    "place_id": "ChIJG-lPdbPdSToRYTCTFjgsW8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-lPdbPdSToRYTCTFjgsW8A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:21"
+  }
+]

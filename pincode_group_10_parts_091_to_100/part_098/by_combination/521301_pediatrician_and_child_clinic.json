@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Childrens Hodpital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521301",
+    "phone_number": "+91 86742 47977",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Loyaada, Gudivada, Andhra Pradesh 521301",
+    "area": "Loyaada",
+    "latitude": 16.4369537,
+    "longitude": 80.9922168,
+    "place_id": "ChIJGcAnx1UbNjoRAbW5kegn4QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcAnx1UbNjoRAbW5kegn4QU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:48:19"
+  },
+  {
+    "business_name": "Pinnamaneni Children's Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521301",
+    "phone_number": "+91 86742 43655",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Eluru Road, Opp RCM Hospital District, 521301, Gudivada, Andhra Pradesh 521301",
+    "area": "Teacher Colony, Satyanarayana Puram",
+    "latitude": 16.4431087,
+    "longitude": 80.9920321,
+    "place_id": "ChIJZ-Y9QLH6NToRnH1lvxvvWe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRnH1lvxvvWe4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:48:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajanna fast food center",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521401",
+    "phone_number": "+91 94917 51676",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Opposit DNR Fancy, Main Road, Vutukuru, Andhra Pradesh 521401",
+    "area": "521401",
+    "latitude": 17.018815099999998,
+    "longitude": 80.4328702,
+    "place_id": "ChIJRRVONHW1NToRPrKkH1LqyGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRVONHW1NToRPrKkH1LqyGA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:10"
+  },
+  {
+    "business_name": "Paradise Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "521401",
+    "phone_number": "+91 40 6740 8400",
+    "website": "https://www.paradisefoodcourt.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "XGQ9+J7F, Gampalagudem - Kothapalli Rd, Peda Komira, Andhra Pradesh 521403",
+    "area": "521401",
+    "latitude": 16.9890619,
+    "longitude": 80.5181605,
+    "place_id": "ChIJ98ALqMPLNToRMOYvWtC1OAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98ALqMPLNToRMOYvWtC1OAo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:10"
+  }
+]

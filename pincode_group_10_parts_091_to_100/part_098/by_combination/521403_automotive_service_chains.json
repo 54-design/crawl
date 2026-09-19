@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seetha Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "521403",
+    "phone_number": "+91 96664 22448",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "776, 4-2-776, Mamatha Hospital Rd, Varadiah Nagar, Netaji Nagar, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Varadiah Nagar, Netaji Nagar, Kaviraj Nagar",
+    "latitude": 17.243805,
+    "longitude": 80.1623279,
+    "place_id": "ChIJX10Zyd1ZNDoRoperR_udqBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX10Zyd1ZNDoRoperR_udqBM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:29"
+  },
+  {
+    "business_name": "TATA.CARS Service Centre - Venkataramana Motors, Prasanthi Nagar",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store, Auto parts store, Car wash, Electric motor repair shop",
+    "pincode": "521403",
+    "phone_number": "+91 96662 01098",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-cars-service-centre-venkataramana-motors-prasanthi-nagar-auto-accessories-stores-prasanthi-nagar-kothagudem-130336/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Door No 9, 62/1, Prasanthi Nagar, Laxmidevipally, Kothagudem, Telangana 507101",
+    "area": "Prasanthi Nagar",
+    "latitude": 17.564417,
+    "longitude": 80.62344159999999,
+    "place_id": "ChIJRShHdpgQNDoRHgXd05IsEyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRShHdpgQNDoRHgXd05IsEyc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:37:29"
+  }
+]

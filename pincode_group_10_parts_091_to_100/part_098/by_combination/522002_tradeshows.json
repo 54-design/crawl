@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "king events",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "522002",
+    "phone_number": "+91 91606 64947",
+    "website": "https://kingevents.free.nf/?i=1",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "king events, 522002, India",
+    "area": "522002",
+    "latitude": 16.311314499999998,
+    "longitude": 80.431902,
+    "place_id": "ChIJH8_8vSj2C0ARxUoQGPY1GSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8_8vSj2C0ARxUoQGPY1GSA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:02"
+  },
+  {
+    "business_name": "Arsh events Guntur",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "522002",
+    "phone_number": "+91 99491 52248",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sai Baba Rd, Venugopalnagar, Gauthami Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Venugopalnagar, Gauthami Nagar",
+    "latitude": 16.3198233,
+    "longitude": 80.43000219999999,
+    "place_id": "ChIJEyxxGk6LNToRLY2UQNPENX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyxxGk6LNToRLY2UQNPENX8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:02"
+  }
+]

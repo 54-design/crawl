@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VASTRAKALA SHOPPING MALL",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522020",
+    "phone_number": "+91 90548 98889",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "CHJ9+F6X, Mangalagiri, Andhra Pradesh 522503",
+    "area": "522020",
+    "latitude": 16.4312261,
+    "longitude": 80.56811689999999,
+    "place_id": "ChIJ0z45okjxNToRGcjkq2JIhWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0z45okjxNToRGcjkq2JIhWc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:06:43"
+  },
+  {
+    "business_name": "Annapurna Dresses",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522020",
+    "phone_number": "+91 94411 15055",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "door no. 6-29-36, K Loj Centre, Potiepadu Road Opposite Andhra Lutheran College, Arundelpet, Guntur, Andhra Pradesh 522007",
+    "area": "Arundelpet",
+    "latitude": 16.307876999999998,
+    "longitude": 80.4359372,
+    "place_id": "ChIJq6qq2kR1SjoRzWgJjbjFSJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2kR1SjoRzWgJjbjFSJc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:06:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G V S Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "522015",
+    "phone_number": "+91 77309 35973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Guntur Parchoor Rd, opposite Someswara Swamy Temple, Pedanandipadu, Andhra Pradesh 522235",
+    "area": "522015",
+    "latitude": 16.0700082,
+    "longitude": 80.3300982,
+    "place_id": "ChIJ8Z5_BNtvSjoRAOVcbuuYpk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z5_BNtvSjoRAOVcbuuYpk4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:25"
+  },
+  {
+    "business_name": "SATYA SAI HERITAGE MILK PARLOUR",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Ice cream shop",
+    "pincode": "522015",
+    "phone_number": "+91 96408 14389",
+    "website": "http://www.heritagefoods.in/",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "2-5,VENKATA PALEM, GUNTUR, Andhra Pradesh 522241",
+    "area": "Venkata Palem",
+    "latitude": 16.5156442,
+    "longitude": 80.551656,
+    "place_id": "ChIJB1jJZATuNToRtFXJcPLIb3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1jJZATuNToRtFXJcPLIb3c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:27"
+  }
+]

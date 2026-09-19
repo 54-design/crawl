@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chitti",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "58JJ+4GM, Guntur - Prathipadu Rd, Prathipadu, Andhra Pradesh 522019",
+    "area": "522019",
+    "latitude": 16.1799706,
+    "longitude": 80.33050039999999,
+    "place_id": "ChIJr2OvYQBxSjoRTrRC1eLXE_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2OvYQBxSjoRTrRC1eLXE_s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:47"
+  },
+  {
+    "business_name": "Hotel Devi Luxury Rooms",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "522019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th Floor, HDFC Bank, Maind Road, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Pattabhipuram",
+    "latitude": 16.3092796,
+    "longitude": 80.4174981,
+    "place_id": "ChIJKQoDZZF1SjoRglOZQsMZYWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQoDZZF1SjoRglOZQsMZYWg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:47"
+  }
+]

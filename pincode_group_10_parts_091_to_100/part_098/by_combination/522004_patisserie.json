@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New City Bakery & Sweets",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8C3F+5WH, Kankaragunta Brg, Fathima Puram, Guntur, Andhra Pradesh 522006",
+    "area": "Fathima Puram",
+    "latitude": 16.302949599999998,
+    "longitude": 80.4248568,
+    "place_id": "ChIJvdxHAQB1SjoRi93oV2Daf50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdxHAQB1SjoRi93oV2Daf50",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:16"
+  },
+  {
+    "business_name": "Bangalore Ayyangari Bekary Cake Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "522004",
+    "phone_number": "+91 96321 04519",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "8C68+F78, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Pattabhipuram",
+    "latitude": 16.3111695,
+    "longitude": 80.4157068,
+    "place_id": "ChIJGQYjcIh1SjoR8AaAeHl5G4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQYjcIh1SjoR8AaAeHl5G4A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geetha's gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "521311",
+    "phone_number": "+91 73869 88813",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "anganvadi school, Kalivelamma temple Street, opp. Venkatagiri, Venkatagiri, Andhra Pradesh 524132",
+    "area": "521311",
+    "latitude": 13.956358199999999,
+    "longitude": 79.58317509999999,
+    "place_id": "ChIJ7SqhMyolTToRQxgM1RzBYis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SqhMyolTToRQxgM1RzBYis",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:20"
+  },
+  {
+    "business_name": "Fitness Beach Fitness Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "521311",
+    "phone_number": "+91 62355 88777",
+    "website": "https://fitnessbeach.in/",
+    "rating": 5,
+    "reviews_count": 130,
+    "address": "Civil Line Rd, Echamuku, Kakkanad, Kochi, Keralam 682030",
+    "area": "Echamuku",
+    "latitude": 10.0156572,
+    "longitude": 76.34260019999999,
+    "place_id": "ChIJN9TcqtQNCDsRa0XFOkZOhL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9TcqtQNCDsRa0XFOkZOhL8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:21"
+  }
+]

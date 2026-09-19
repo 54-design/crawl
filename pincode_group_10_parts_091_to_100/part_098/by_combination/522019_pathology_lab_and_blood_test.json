@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KS LABS",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service, Diagnostic center",
+    "pincode": "522019",
+    "phone_number": "+91 80196 48356",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Current office complex, Thaluru road, Phirangipuram, Andhra Pradesh 522529",
+    "area": "522019",
+    "latitude": 16.2925526,
+    "longitude": 80.2612796,
+    "place_id": "ChIJv-VFDQB5SjoR49wqORcD4X4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-VFDQB5SjoR49wqORcD4X4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:13"
+  },
+  {
+    "business_name": "SHO Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522019",
+    "phone_number": "+91 863 224 2995",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8C2Q+6P2, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3005249,
+    "longitude": 80.4392513,
+    "place_id": "ChIJx6yNHkR1SjoRmSI-c3xLnBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6yNHkR1SjoRmSI-c3xLnBY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:16"
+  }
+]

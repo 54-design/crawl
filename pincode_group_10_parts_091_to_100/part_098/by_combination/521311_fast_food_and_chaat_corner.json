@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Chaat Walk",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "521311",
+    "phone_number": "+91 99539 56543",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "SG-47, DLF Galleria Rd, Galleria Market, Sector 28, DLF Phase IV, Gurugram, Haryana 122009",
+    "area": "Galleria Market, Sector 28, DLF Phase IV",
+    "latitude": 28.4674597,
+    "longitude": 77.081603,
+    "place_id": "ChIJf9F4nLsZDTkRtC1ocqS8RLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9F4nLsZDTkRtC1ocqS8RLo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:49:55"
+  },
+  {
+    "business_name": "RCB CHATS ADDA",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521311",
+    "phone_number": "+91 98862 76442",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "772/30, 5th Main Rd, near Siddeshwara Convention Hall, Vijaynagar, Vijaya Nagar, Upparhalli, Tumakur, Karnataka 572103",
+    "area": "Vijaynagar, Vijaya Nagar, Upparhalli",
+    "latitude": 13.329276199999999,
+    "longitude": 77.1191765,
+    "place_id": "ChIJB416BAAtsDsRmjPll9BKg9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB416BAAtsDsRmjPll9BKg9s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:49:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dan & Dav",
+    "search_category": "SEO Consultants",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Advertising agency",
+    "pincode": "521366",
+    "phone_number": "+91 79972 70710",
+    "website": "https://dananddav.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21/315, Noble Colony, Janasakthi Nagar, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Noble Colony, Janasakthi Nagar",
+    "latitude": 16.1770855,
+    "longitude": 81.1448084,
+    "place_id": "ChIJBQTTo_7nSToRyHOk15k0xgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQTTo_7nSToRyHOk15k0xgw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:10"
+  },
+  {
+    "business_name": "Srean Infotech",
+    "search_category": "SEO Consultants",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, Website designer, Software company",
+    "pincode": "521366",
+    "phone_number": "+91 87900 85059",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door no 12, 23-25, Kothapet, Pedana, Andhra Pradesh 521366",
+    "area": "Kothapet",
+    "latitude": 16.2541887,
+    "longitude": 81.1398908,
+    "place_id": "ChIJsTlfjVTnSToRAqZL_WP3a0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTlfjVTnSToRAqZL_WP3a0c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:29:10"
+  }
+]

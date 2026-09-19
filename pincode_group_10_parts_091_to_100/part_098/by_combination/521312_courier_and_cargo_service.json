@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABT Parcel Service K R Puram",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency",
+    "pincode": "521312",
+    "phone_number": "N/A",
+    "website": "http://www.abtparcelservice.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Railway Station, Old Madras Rd, opposite K R Puram, ITI Employess Housing Colony, B Narayanapura, Dooravani Nagar, Bengaluru, Karnataka 560016",
+    "area": "ITI Employess Housing Colony, B Narayanapura, Dooravani Nagar",
+    "latitude": 12.9983118,
+    "longitude": 77.67633049999999,
+    "place_id": "ChIJpTZV4j0RrjsRpAvjx7ibJU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTZV4j0RrjsRpAvjx7ibJU8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:53:10"
+  },
+  {
+    "business_name": "International Courier and Cargo - Sagar Air Express",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Freight Forwarding Agency, Import export company, Logistics service, Shipping service, Transportation service",
+    "pincode": "521312",
+    "phone_number": "+91 99997 77651",
+    "website": "http://www.sagarairexpress.com/",
+    "rating": 4.9,
+    "reviews_count": 343,
+    "address": "Metro Pillar Number 126, 416/2, Ghitorni, New Delhi, Delhi 110030",
+    "area": "Ghitorni",
+    "latitude": 28.491574999999997,
+    "longitude": 77.1433607,
+    "place_id": "ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:53:12"
+  }
+]

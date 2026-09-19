@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Detailing Mafia Logix Mall",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto Dent Removal Service Station, Auto glass repair service, Auto window tinting service, Auto restoration service",
+    "pincode": "522015",
+    "phone_number": "+91 73036 18989",
+    "website": "https://www.thedetailingmafia.com/",
+    "rating": 4.4,
+    "reviews_count": 784,
+    "address": "Basement 2 Parking, Logix Mall, Road, adjoining Metro Station, Wave City Center, Sector 32, Noida, Uttar Pradesh 201307",
+    "area": "Wave City Center, Sector 32",
+    "latitude": 28.5742607,
+    "longitude": 77.3535562,
+    "place_id": "ChIJ1T2nxr3lDDkR6owc7uV59uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1T2nxr3lDDkR6owc7uV59uE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:59"
+  },
+  {
+    "business_name": "Manmachine Car Care , Sector 63, Noida",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "522015",
+    "phone_number": "+91 92894 44440",
+    "website": "https://www.thedetailingmafia.com/about-us",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "D-120, 2nd Floor, Hazratpur Wajidpur, D Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Hazratpur Wajidpur, D Block, Sector 63",
+    "latitude": 28.6204936,
+    "longitude": 77.38481089999999,
+    "place_id": "ChIJ7xeLxqjvDDkROoqSR-Qe788",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xeLxqjvDDkROoqSR-Qe788",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:58:00"
+  }
+]

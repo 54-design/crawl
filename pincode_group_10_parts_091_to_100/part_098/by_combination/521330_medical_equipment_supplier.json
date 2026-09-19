@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biorad Medisys Pvt Ltd",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer",
+    "pincode": "521330",
+    "phone_number": "+91 20 3500 0200",
+    "website": "https://www.bioradmedisys.com/",
+    "rating": 3.4,
+    "reviews_count": 12,
+    "address": "Eshwari Industrial Estate, 660, Bannerghatta Rd, Muneshwara Block, Pai Layout, Hulimavu, Bengaluru, Karnataka 560076",
+    "area": "Muneshwara Block, Pai Layout, Hulimavu",
+    "latitude": 12.8810823,
+    "longitude": 77.59913379999999,
+    "place_id": "ChIJbyArmP0VrjsRWTk_Hw2zgHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyArmP0VrjsRWTk_Hw2zgHY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:56"
+  },
+  {
+    "business_name": "Medical Equipments Co",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "521330",
+    "phone_number": "+91 44 2499 2636",
+    "website": "http://www.medicalequipmentsco.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "119, Royapettah High Rd, Dwarka Colony, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Dwarka Colony, Mylapore",
+    "latitude": 13.043132799999999,
+    "longitude": 80.2678206,
+    "place_id": "ChIJFVFmYTtmUjoRyILiNLgC87M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVFmYTtmUjoRyILiNLgC87M",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:10:58"
+  }
+]

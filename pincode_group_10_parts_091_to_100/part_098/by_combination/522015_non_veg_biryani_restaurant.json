@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivasa Family Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "522015",
+    "phone_number": "+91 77028 13832",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 187,
+    "address": "Door No 113-8, Nera Sbi Bank, Ramalayam Veedi, Kakumanu, Andhra Pradesh 522112",
+    "area": "522015",
+    "latitude": 16.053081199999998,
+    "longitude": 80.39783349999999,
+    "place_id": "ChIJUbUDSG9sSjoRGNrCo5eap9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbUDSG9sSjoRGNrCo5eap9c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:32"
+  },
+  {
+    "business_name": "Sri Naveena Fast Food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "522015",
+    "phone_number": "+91 78930 93549",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 141,
+    "address": "opp. Medplus Pharmacy, Sali Pet, Arundelpet, Guntur, Andhra Pradesh 522002",
+    "area": "Sali Pet, Arundelpet",
+    "latitude": 16.305838599999998,
+    "longitude": 80.4441235,
+    "place_id": "ChIJXWx7CU91SjoRS10i50aYQU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWx7CU91SjoRS10i50aYQU4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:33"
+  }
+]

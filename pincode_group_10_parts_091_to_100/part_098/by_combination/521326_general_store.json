@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi Srinivasa Rice & General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521326",
+    "phone_number": "+91 99484 72649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nidamanuru, Andhra Pradesh 521104",
+    "area": "Nidamanuru",
+    "latitude": 16.5097319,
+    "longitude": 80.72412159999999,
+    "place_id": "ChIJxSIOfjH9NToRZxHZYNp6x6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSIOfjH9NToRZxHZYNp6x6Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:03:00"
+  },
+  {
+    "business_name": "Bharath General Store",
+    "search_category": "General Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "521326",
+    "phone_number": "+91 94483 22278",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "93P6+CF3, Malavalli, Karnataka 571430",
+    "area": "521326",
+    "latitude": 12.3860064,
+    "longitude": 77.0611693,
+    "place_id": "ChIJUXnvxTMErzsRTbz81LeFx6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXnvxTMErzsRTbz81LeFx6U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:03:00"
+  }
+]

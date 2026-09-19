@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Aqua Feeds & Needs",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market, Aquaculture farm",
+    "pincode": "521321",
+    "phone_number": "+91 99517 69316",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eluru Rd, opp. Muncipal UP school, Nagavarappadu, Andhra Pradesh 521301",
+    "area": "Nagavarappadu",
+    "latitude": 16.4508479,
+    "longitude": 80.99006949999999,
+    "place_id": "ChIJsUQp2dobNjoROD74fu8-nHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUQp2dobNjoROD74fu8-nHs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:53:38"
+  },
+  {
+    "business_name": "Tatpl Rpm-Old",
+    "search_category": "Fish Market",
+    "primary_category": "Pond fish supplier",
+    "all_categories": "Pond fish supplier",
+    "pincode": "521321",
+    "phone_number": "+91 91333 33746",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 23,
+    "address": "Kudaravalli, Andhra Pradesh 521321",
+    "area": "521321",
+    "latitude": 16.540485399999998,
+    "longitude": 81.01550929999999,
+    "place_id": "ChIJq6qq-nEQNjoRS-lbsWx1ncQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq-nEQNjoRS-lbsWx1ncQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:53:38"
+  }
+]

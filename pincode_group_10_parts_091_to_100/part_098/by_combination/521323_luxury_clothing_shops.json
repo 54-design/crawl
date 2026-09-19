@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fuel The Fashion Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "521323",
+    "phone_number": "+91 93212 65741",
+    "website": "https://www.fuelthestore.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No. 539, Ground Floor, Chowpatty View Building Sandhurst Bridge, Road, opposite Sukh Sagar, Chowpatty, Mumbai, Maharashtra 400007",
+    "area": "Chowpatty, Girgaon",
+    "latitude": 18.9559325,
+    "longitude": 72.8135906,
+    "place_id": "ChIJa-FQg_rO5zsRo5fw5xhoxZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-FQg_rO5zsRo5fw5xhoxZU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:44"
+  },
+  {
+    "business_name": "MEZZO VENTURES",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "521323",
+    "phone_number": "+91 98442 61624",
+    "website": "http://martinsmith.in/",
+    "rating": 4.7,
+    "reviews_count": 118,
+    "address": "14, Fashion Street, 1st 'C' Cross, Lal Bagh Main Rd, Doddamavalli, Sudhama Nagar, Bengaluru, Karnataka 560027",
+    "area": "K.S. Garden, Doddamavalli, Sudhama Nagar",
+    "latitude": 12.958038799999999,
+    "longitude": 77.58863339999999,
+    "place_id": "ChIJW3cHM90VrjsRCcTjLdcdPzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3cHM90VrjsRCcTjLdcdPzI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:45"
+  }
+]

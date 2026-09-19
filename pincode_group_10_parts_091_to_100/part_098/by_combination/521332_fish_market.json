@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tenali Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "521332",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 116,
+    "address": "6JPW+V2F, Kothapet, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Ramalingeswara Pet",
+    "latitude": 16.2371943,
+    "longitude": 80.6450574,
+    "place_id": "ChIJndWGRggGSjoRBVPLXN-sGWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndWGRggGSjoRBVPLXN-sGWg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:22"
+  },
+  {
+    "business_name": "Guntur Fish Market(GSR)",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "521332",
+    "phone_number": "+91 94930 33331",
+    "website": "https://whatsapp.com/channel/0029VbCaFRJGOj9itbSDoM3i",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Lalapet, Guntur, Andhra Pradesh 522003",
+    "area": "Lalapet",
+    "latitude": 16.2913449,
+    "longitude": 80.4460551,
+    "place_id": "ChIJafjAWEx1SjoRHTDy7hoj-hY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafjAWEx1SjoRHTDy7hoj-hY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:23"
+  }
+]

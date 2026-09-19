@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Decor Bazaar Suppliers & Decorators",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Supplier, Event planner, Wedding planner, Wedding service",
+    "pincode": "521331",
+    "phone_number": "+91 77939 08987",
+    "website": "https://sites.google.com/view/decorbazaar-sd",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "PR GARDENS, 37-11-68, Kapparada NGGO Colony, Pattabhi Reddy Thota, Madhavadhara, Visakhapatnam, Andhra Pradesh 530007",
+    "area": "Kapparada NGGO Colony, Pattabhi Reddy Thota, Madhavadhara",
+    "latitude": 17.7440531,
+    "longitude": 83.2703445,
+    "place_id": "ChIJdQZGg-9dOToR5aoLDpgCG_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQZGg-9dOToR5aoLDpgCG_A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:13:30"
+  },
+  {
+    "business_name": "New Shop",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "521331",
+    "phone_number": "+91 81063 34466",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "45-45, 10/3, near saibaba temple, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Akkayyapalem",
+    "latitude": 17.7363029,
+    "longitude": 83.2998762,
+    "place_id": "ChIJC_rL2OBDOToR9BGv7J16txM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_rL2OBDOToR9BGv7J16txM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:13:30"
+  }
+]

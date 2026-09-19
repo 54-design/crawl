@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MYR Yoga Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "522019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "57XM+7X, Thummalpalem, Nadimpalem, Andhra Pradesh 522529",
+    "area": "Thummalpalem",
+    "latitude": 16.1981964,
+    "longitude": 80.2849,
+    "place_id": "ChIJbYRBXQBxSjoRSQ4EI0FqJyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYRBXQBxSjoRSQ4EI0FqJyM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:14"
+  },
+  {
+    "business_name": "Vemana Prakruthi Dhyanamandiram",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "522019",
+    "phone_number": "+91 94405 34994",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kondaveedu Rd, Guntur, Kondaveedu, Andhra Pradesh 522529",
+    "area": "522019",
+    "latitude": 16.2497255,
+    "longitude": 80.2511071,
+    "place_id": "ChIJ_wh7vFZ5SjoRNHo8VvL34yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wh7vFZ5SjoRNHo8VvL34yY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:05:14"
+  }
+]

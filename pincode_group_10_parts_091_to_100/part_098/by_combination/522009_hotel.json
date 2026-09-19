@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel ss park",
+    "search_category": "Hotel",
+    "primary_category": "Hotel Management Institute",
+    "all_categories": "Hotel Management Institute",
+    "pincode": "522009",
+    "phone_number": "+91 72220 12777",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd floor, Vishal mart building, Amaravati Rd, near by bandlamudi function hall, Venugopalnagar, Muthyala Reddy Nagar, Guntur, Andhra Pradesh 522034",
+    "area": "Venugopalnagar, Muthyala Reddy Nagar",
+    "latitude": 16.3235507,
+    "longitude": 80.4373494,
+    "place_id": "ChIJs3GlB4qLNToRTzw9Vke48xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3GlB4qLNToRTzw9Vke48xA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:46"
+  },
+  {
+    "business_name": "Hotel SS Grand",
+    "search_category": "Hotel",
+    "primary_category": "Hotel Management Institute",
+    "all_categories": "Hotel Management Institute",
+    "pincode": "522009",
+    "phone_number": "+91 91212 12396",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Etukuru Rd, near by vivaha function hall, Sampath Nagar, Guntur, Andhra Pradesh 522004",
+    "area": "Sampath Nagar",
+    "latitude": 16.2795542,
+    "longitude": 80.43991199999999,
+    "place_id": "ChIJGTty5jV1SjoRHN0ECEAZ6ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTty5jV1SjoRHN0ECEAZ6ZA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:56:46"
+  }
+]

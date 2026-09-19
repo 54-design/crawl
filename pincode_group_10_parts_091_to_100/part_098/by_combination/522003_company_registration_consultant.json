@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramsai registration and consulting",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "522003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8C7F+233, NTR Stadium Walking Track, Ashok Nagar, Guntur, Andhra Pradesh 522002",
+    "area": "Ashok Nagar",
+    "latitude": 16.3124948,
+    "longitude": 80.4226795,
+    "place_id": "ChIJ06pmTQB1SjoRXkpkhNkq4P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06pmTQB1SjoRXkpkhNkq4P4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:45"
+  },
+  {
+    "business_name": "Jonnalagadda & co",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "522003",
+    "phone_number": "+91 88864 11177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "4/17, 4th Ln, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3039409,
+    "longitude": 80.42949,
+    "place_id": "ChIJCxRjUAB1SjoRdfi7UwAHCp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxRjUAB1SjoRdfi7UwAHCp8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:47:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.R. Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Food products supplier",
+    "pincode": "521311",
+    "phone_number": "+91 70032 28989",
+    "website": "https://mrtourandtravels.com/",
+    "rating": 4.9,
+    "reviews_count": 821,
+    "address": "Sudhendu Abasan,1st Floor, Beside- Madhyamgram Boy's High School, Sodepur Rd, Madhyamgram, Kolkata, West Bengal 700129",
+    "area": "Basunagar, Madhyamgram",
+    "latitude": 22.6956071,
+    "longitude": 88.4550177,
+    "place_id": "ChIJRTZRMESf-DkRFYtHa2AfBxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTZRMESf-DkRFYtHa2AfBxI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:27"
+  },
+  {
+    "business_name": "Vikram",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": 3,
+    "address": "FVVW+92V, Unnamed Road, Indupalle, Lankapalle Agraharam, Andhra Pradesh 521311",
+    "area": "521311",
+    "latitude": 16.4934917,
+    "longitude": 80.8950393,
+    "place_id": "ChIJpXEn1F4HNjoRQH7yZvadYS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXEn1F4HNjoRQH7yZvadYS4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:28"
+  }
+]

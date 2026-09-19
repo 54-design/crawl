@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri sai traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "521340",
+    "phone_number": "+91 70136 33671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Agadalanka-kolleti kota road, agadala lanka, Gundugolanu, Andhra Pradesh 534427",
+    "area": "521340",
+    "latitude": 16.704238399999998,
+    "longitude": 81.2774283,
+    "place_id": "ChIJb0VwUhc5NjoRKtCprt0HvfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0VwUhc5NjoRKtCprt0HvfM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:54"
+  },
+  {
+    "business_name": "RATNASRI ENTERPRISES",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Electrical supply store, Pipe supplier",
+    "pincode": "521340",
+    "phone_number": "+91 77022 93886",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "satyam complex, main road, Kalidindi, Andhra Pradesh 521344",
+    "area": "521340",
+    "latitude": 16.5074909,
+    "longitude": 81.2939959,
+    "place_id": "ChIJUcEkOEIlNjoRtUyOXnSaZKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcEkOEIlNjoRtUyOXnSaZKk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:57"
+  }
+]

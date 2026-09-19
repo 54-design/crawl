@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsha Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521332",
+    "phone_number": "+91 96405 40475",
+    "website": "https://harshamultispecialityhospitals.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2/207, Chowtapalli, Dorasanipalli, Bollavaram Rural, Andhra Pradesh 516360",
+    "area": "Chowtapalli, Dorasanipalli",
+    "latitude": 14.7614358,
+    "longitude": 78.5329524,
+    "place_id": "ChIJj_bTOKR4tDsRVvmieWxlzBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_bTOKR4tDsRVvmieWxlzBs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:43"
+  },
+  {
+    "business_name": "Rithvika Super Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521332",
+    "phone_number": "+91 95363 97777",
+    "website": "https://www.rithvikasuperspecialityhospital.com/#contact",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main road, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Pattabhipuram",
+    "latitude": 16.3100187,
+    "longitude": 80.4165434,
+    "place_id": "ChIJm7huNjF1SjoRuISdYloU06o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7huNjF1SjoRuISdYloU06o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:14:44"
+  }
+]

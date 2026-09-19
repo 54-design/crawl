@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends meet Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MBTS College centre, Nallapadu Rural, Andhra Pradesh 522005",
+    "area": "522005",
+    "latitude": 16.304423099999998,
+    "longitude": 80.3765617,
+    "place_id": "ChIJFaLVjdR1SjoRMFtqRxWLFv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaLVjdR1SjoRMFtqRxWLFv8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:09"
+  },
+  {
+    "business_name": "TEA TIME",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "9W9V+9F8, Narketpally - Addanki - Medarmetla Rd, Nekarikallu, Andhra Pradesh 522615",
+    "area": "522005",
+    "latitude": 16.3684024,
+    "longitude": 79.94368829999999,
+    "place_id": "ChIJw7HKIAB9NToRQVVTqYb6KHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7HKIAB9NToRQVVTqYb6KHg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:50:11"
+  }
+]

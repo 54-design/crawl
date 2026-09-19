@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leadsforge",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "521246",
+    "phone_number": "N/A",
+    "website": "https://leadsforge.ai/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "335 Pioneer Way, Mountain View, CA 94041, United States",
+    "area": "521246",
+    "latitude": 37.3862643,
+    "longitude": -122.06689,
+    "place_id": "ChIJvScqXqe3j4ARZ2GSYEiEbb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvScqXqe3j4ARZ2GSYEiEbb4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:34:27"
+  },
+  {
+    "business_name": "Elevation Growth Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Automation company, Business management consultant, Service establishment, Marketing consultant, Business development service",
+    "pincode": "521246",
+    "phone_number": "N/A",
+    "website": "https://elevationgrowthsolutions.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Elevation Growth Solutions, 521246, India",
+    "area": "521246",
+    "latitude": 29.9689105,
+    "longitude": -98.15829199999999,
+    "place_id": "ChIJj8GKkCgfzksR7ifx4gh6ZXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8GKkCgfzksR7ifx4gh6ZXM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:34:27"
+  }
+]

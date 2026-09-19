@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRISHNA HOTAL",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "521402",
+    "phone_number": "+91 99636 58307",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-1, Krishanveni, Vatsavai, Andhra Pradesh 521402",
+    "area": "Krishanveni",
+    "latitude": 16.9789448,
+    "longitude": 80.24149779999999,
+    "place_id": "ChIJN1qogiWtNToR3aLJG4XWY34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1qogiWtNToR3aLJG4XWY34",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:35:06"
+  },
+  {
+    "business_name": "Coffee House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "521402",
+    "phone_number": "+91 98490 23236",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 28,
+    "address": "Bus Stop, Choppella, Andhra Pradesh 533234",
+    "area": "521402",
+    "latitude": 16.8387846,
+    "longitude": 81.8408249,
+    "place_id": "ChIJQ0zY2qq_NzoRcfQ9LMv-Ylk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0zY2qq_NzoRcfQ9LMv-Ylk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:35:07"
+  }
+]

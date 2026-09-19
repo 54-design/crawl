@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amarnath Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521311",
+    "phone_number": "+91 99439 70756",
+    "website": "http://www.amarnathtravels.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "10, Whannels Rd, Ansari Estate, Egmore, Chennai, Tamil Nadu 600008",
+    "area": "Ansari Estate, Egmore",
+    "latitude": 13.0770226,
+    "longitude": 80.2643725,
+    "place_id": "ChIJFxRrxwhmUjoRQdOOMYXHL5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxRrxwhmUjoRQdOOMYXHL5E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:28"
+  },
+  {
+    "business_name": "S.V.R Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "521311",
+    "phone_number": "+91 93944 88887",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "FCR5+C32, Vivekanandanagar Main Rd, Behind Swamy Vivekananda Statue, Gayatri Nagar, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Gayatri Nagar, Vivekananda Nagar, Kukatpally",
+    "latitude": 17.4910078,
+    "longitude": 78.4076351,
+    "place_id": "ChIJ3TLtzr-RyzsRkdtJ-8xgm50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TLtzr-RyzsRkdtJ-8xgm50",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:50:28"
+  }
+]

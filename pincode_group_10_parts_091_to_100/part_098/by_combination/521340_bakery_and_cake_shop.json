@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhees kitchen home made cakes",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "521340",
+    "phone_number": "+91 94418 32391",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8-91, Srinivasanagar Rd, Limra Colony Main Rd, Tadigadapa, Ashok Nagar, Pedapulipaka, Andhra Pradesh 521134",
+    "area": "Limra Colony, Tadigadapa, Ashok Nagar",
+    "latitude": 16.481825699999998,
+    "longitude": 80.6843849,
+    "place_id": "ChIJjTMRaAD7NToR5d2q2HNo5zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTMRaAD7NToR5d2q2HNo5zM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:13"
+  },
+  {
+    "business_name": "Manu Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "521340",
+    "phone_number": "+91 90908 95896",
+    "website": "http://www.manubakers.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "20B, Dr Mahal Rd, Dasarimatam, Royal Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Dasarimatam, Royal Nagar",
+    "latitude": 13.6245047,
+    "longitude": 79.4237313,
+    "place_id": "ChIJAyDJradLTToRFdeCvSOMwms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyDJradLTToRFdeCvSOMwms",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:18:15"
+  }
+]

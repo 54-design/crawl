@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bapatla Star Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521331",
+    "phone_number": "+91 73370 76658",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 50,
+    "address": "WF38+8X5, Shikaram Vari Street, Maddiboinavaripalem, Bapatla, Andhra Pradesh 522101",
+    "area": "Maddiboinavaripalem",
+    "latitude": 15.9032681,
+    "longitude": 80.46749249999999,
+    "place_id": "ChIJLWyQR_w_SjoR7OUce6a2IFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWyQR_w_SjoR7OUce6a2IFg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:12:45"
+  },
+  {
+    "business_name": "Aarif Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "521331",
+    "phone_number": "+91 89127 12711",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "LIG 1/IV, Ram Nagar Rd, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Ram Nagar",
+    "latitude": 17.7225653,
+    "longitude": 83.3096272,
+    "place_id": "ChIJwyfEdD5DOToR2f2ghWnckU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyfEdD5DOToR2f2ghWnckU8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:12:46"
+  }
+]

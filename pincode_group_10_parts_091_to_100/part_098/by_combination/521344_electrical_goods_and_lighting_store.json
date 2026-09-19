@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHanu Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "521344",
+    "phone_number": "+91 98482 48123",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "GNT Rd, Main Bazar, Agraharam, Eluru, Andhra Pradesh 534002",
+    "area": "Main Bazar, Agraharam",
+    "latitude": 16.7100419,
+    "longitude": 81.1082127,
+    "place_id": "ChIJX-wt588UNjoRB1-zRKfuYOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-wt588UNjoRB1-zRKfuYOk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:33"
+  },
+  {
+    "business_name": "Mallikarjuna Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Appliance store",
+    "pincode": "521344",
+    "phone_number": "+91 98493 50328",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "R24M+QW2, Abbas Nagar Main Rd, Krishna Reddy Nagar, New Krishna Nagar, Kalluru, Andhra Pradesh 518002",
+    "area": "Krishna Reddy Nagar, New Krishna Nagar",
+    "latitude": 15.806876299999999,
+    "longitude": 78.0347681,
+    "place_id": "ChIJhV_pMOndtTsRItqPVoZz1W0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhV_pMOndtTsRItqPVoZz1W0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:33"
+  }
+]

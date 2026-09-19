@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finvastra",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "521322",
+    "phone_number": "+91 92475 19004",
+    "website": "https://www.finvastra.com/",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "3rd Floor, Imperial Towers, metro station, 7-1-617/A unit 305, near ameerpet, Ameerpet, Hyderabad, Telangana 500038",
+    "area": "Ameerpet",
+    "latitude": 17.4355159,
+    "longitude": 78.4459802,
+    "place_id": "ChIJ9eBAkLmRyzsRm4WRuZkdTQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eBAkLmRyzsRm4WRuZkdTQI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:01"
+  },
+  {
+    "business_name": "Sumit Kumar & Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "521322",
+    "phone_number": "+91 81300 72794",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 104,
+    "address": "Street No. 7, District & Sessions Court, Chamber No 228, Greater Noida, Uttar Pradesh 201306",
+    "area": "Surajpur",
+    "latitude": 28.5054084,
+    "longitude": 77.48441869999999,
+    "place_id": "ChIJjbzz4_brDDkRy03qBZRXSHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbzz4_brDDkRy03qBZRXSHI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:57:02"
+  }
+]

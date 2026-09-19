@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lic Office",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "522234",
+    "phone_number": "+91 98854 63989",
+    "website": "https://www.licindia.in/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Satulur, Andhra Pradesh 522549",
+    "area": "522234",
+    "latitude": 16.2517295,
+    "longitude": 80.1188604,
+    "place_id": "ChIJvVyRwDV-SjoRmaSyLgYtl0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVyRwDV-SjoRmaSyLgYtl0I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:34:13"
+  },
+  {
+    "business_name": "HDFC ERGO Insurance Agent: Kypu Rajeswari",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Home insurance agency, Motorcycle insurance agency",
+    "pincode": "522234",
+    "phone_number": "+91 79 4746 5636",
+    "website": "https://agent.hdfcergo.com/hdfc-ergo-insurance-agent-kypu-rajeswari-insurance-broker-gundalapadu-guntur-468783/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No 1-174, Gundalapadu, Andhra Pradesh 522549",
+    "area": "522234",
+    "latitude": 16.3018072,
+    "longitude": 80.16805269999999,
+    "place_id": "ChIJo17H1WV_SjoRvYB4phljCcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo17H1WV_SjoRvYB4phljCcI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:34:13"
+  }
+]

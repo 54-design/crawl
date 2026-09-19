@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varun Bus",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "522016",
+    "phone_number": "+91 92472 88181",
+    "website": "http://varunbus.in/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "7FV3+XVP, Gunturvari Thota, Christian Pet, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Christian Pet, Kothapeta",
+    "latitude": 16.2949573,
+    "longitude": 80.4547121,
+    "place_id": "ChIJVVVVVckKSjoRGGIlExeAlig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVckKSjoRGGIlExeAlig",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:59:48"
+  },
+  {
+    "business_name": "ASHOK COMMUNICATIONS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Aadhaar center, Bank, Money transfer service, Passport Agent, Train ticket office",
+    "pincode": "522016",
+    "phone_number": "+91 81878 22019",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Sbi Bank, Ponekallu, Ponnekallu, Andhra Pradesh 522018",
+    "area": "Ponekallu",
+    "latitude": 16.4051904,
+    "longitude": 80.40123559999999,
+    "place_id": "ChIJtRJb2F-LNToRJ9VX0TSMAWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRJb2F-LNToRJ9VX0TSMAWo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:59:50"
+  }
+]

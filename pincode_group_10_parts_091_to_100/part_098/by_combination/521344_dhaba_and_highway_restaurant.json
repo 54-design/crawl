@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ma Bhavani Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "521344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Yarnagudem, West Godavari, NH-5, Eluru Rajamundry Road, Devarapalli, Devarapalle, Andhra Pradesh 534313",
+    "area": "521344",
+    "latitude": 16.9968,
+    "longitude": 81.4922,
+    "place_id": "ChIJOeRM9GpTNjoRGhDxN4iniiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeRM9GpTNjoRGhDxN4iniiM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:00"
+  },
+  {
+    "business_name": "R K Family Dhaba Vantillu",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Family restaurant",
+    "pincode": "521344",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 1208,
+    "address": "NH16, near, Sarvepalem rd, Kavali, Andhra Pradesh 524203",
+    "area": "521344",
+    "latitude": 14.9389715,
+    "longitude": 80.0020297,
+    "place_id": "ChIJZ-kRZ7Z7SzoRU8uwMpQZ7sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-kRZ7Z7SzoRU8uwMpQZ7sk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:22:00"
+  }
+]

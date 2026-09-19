@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siri Ganesh Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "521369",
+    "phone_number": "+91 83339 83462",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Satinapalem manginapudi, beach, Tallapalem, Andhra Pradesh 521002",
+    "area": "521369",
+    "latitude": 16.2564989,
+    "longitude": 81.2348067,
+    "place_id": "ChIJ65loP8TdSToR-b8Ju2bIYsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65loP8TdSToR-b8Ju2bIYsA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:07"
+  },
+  {
+    "business_name": "vijay",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "521369",
+    "phone_number": "+91 93814 98519",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Pedana, Andhra Pradesh 521366",
+    "area": "521369",
+    "latitude": 16.2577233,
+    "longitude": 81.146264,
+    "place_id": "ChIJK3WHz_vhSToRAdJLZB03O_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3WHz_vhSToRAdJLZB03O_4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:30:07"
+  }
+]

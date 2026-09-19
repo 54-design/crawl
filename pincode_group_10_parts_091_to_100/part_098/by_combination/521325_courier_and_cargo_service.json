@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub Post Office Mudinepalli",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "521325",
+    "phone_number": "+91 86742 33224",
+    "website": "https://www.indiapost.gov.in/vas/pages/LocatePostOffices.aspx",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "C4C5+GQC, Krishna, 구디바다 로드, NH216, Mudinepalle, Andhra Pradesh 521325",
+    "area": "521325",
+    "latitude": 16.4213233,
+    "longitude": 81.1094038,
+    "place_id": "ChIJSwUMm9weNjoRdqjI-h4zZdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwUMm9weNjoRdqjI-h4zZdo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:02:30"
+  },
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "521325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "G587+R5W, Mandavalli, Andhra Pradesh 521345",
+    "area": "521325",
+    "latitude": 16.517113,
+    "longitude": 81.16294979999999,
+    "place_id": "ChIJyXT9EgoYNjoRhLFe7bXoFg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXT9EgoYNjoRhLFe7bXoFg4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:02:31"
+  }
+]

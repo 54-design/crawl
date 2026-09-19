@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalitha Super Specialties Hospital - Lalitha Group Of Hospitals",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "522004",
+    "phone_number": "+91 94907 59378",
+    "website": "http://www.lalithahospitals.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "12-21-13, Kothapet Main Rd, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2954509,
+    "longitude": 80.4497135,
+    "place_id": "ChIJdY9kBDZ1SjoRiAZjMCXF-fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdY9kBDZ1SjoRiAZjMCXF-fw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:37"
+  },
+  {
+    "business_name": "Maruthi Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Cardiovascular and thoracic surgeon, Emergency care service, Heart hospital, Vascular surgeon",
+    "pincode": "522004",
+    "phone_number": "+91 95252 57575",
+    "website": "https://maruthimultispeciality.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd line Gunturivarithota, Old Club Rd, beside Tulasi Hospital, Guntur, Andhra Pradesh 522001",
+    "area": "Gunturvari Thota, Kothapeta",
+    "latitude": 16.2984817,
+    "longitude": 80.4540883,
+    "place_id": "ChIJNxBOoX11SjoR9rFywydfAjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxBOoX11SjoR9rFywydfAjQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:48:37"
+  }
+]

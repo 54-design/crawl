@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAMIYA chicken centre",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "522234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "759F+693, Merikapudi, Andhra Pradesh 522549",
+    "area": "522234",
+    "latitude": 16.26839,
+    "longitude": 80.1742,
+    "place_id": "ChIJa8ix19V_SjoRYkFHwWv2i7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8ix19V_SjoRYkFHwWv2i7g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:32:52"
+  },
+  {
+    "business_name": "Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "522234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "76J8+WQJ, Guntur, Vemavaram, Andhra Pradesh 522529",
+    "area": "522234",
+    "latitude": 16.2823375,
+    "longitude": 80.2168961,
+    "place_id": "ChIJ2djh6ux4SjoRAA2mIiYO0Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2djh6ux4SjoRAA2mIiYO0Yw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:32:52"
+  }
+]

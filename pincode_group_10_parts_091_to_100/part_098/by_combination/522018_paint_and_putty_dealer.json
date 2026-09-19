@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "surya colour products pvt ltd",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint Manufacturer",
+    "all_categories": "Paint Manufacturer, Corporate office, Service establishment",
+    "pincode": "522018",
+    "phone_number": "+91 81071 09288",
+    "website": "https://suryacolours.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "surya colour products pvt ltd, 522018, India",
+    "area": "522018",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJVTEORnxlNToRG-NzyQyWYMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTEORnxlNToRG-NzyQyWYMs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:03:37"
+  },
+  {
+    "business_name": "Neerudi painting works",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Painting",
+    "all_categories": "Painting",
+    "pincode": "522018",
+    "phone_number": "+91 96401 75221",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Ln, opposite water plant, Ananda Theertha Agraharam, Guntur, Andhra Pradesh 522004",
+    "area": "Ananda Theertha Agraharam",
+    "latitude": 16.3014767,
+    "longitude": 80.42481889999999,
+    "place_id": "ChIJtS19ohR1SjoR7NCO3vwD_C8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtS19ohR1SjoR7NCO3vwD_C8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:03:39"
+  }
+]

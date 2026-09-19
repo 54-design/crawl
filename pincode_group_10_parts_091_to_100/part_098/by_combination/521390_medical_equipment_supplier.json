@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Safe Medical Surgical & General Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "521390",
+    "phone_number": "+91 93814 55763",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, 41/105, near Old Nethaji Theatre, Prakash Nagar, Postal Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "Prakash Nagar, Postal Colony",
+    "latitude": 15.8402192,
+    "longitude": 78.0373948,
+    "place_id": "ChIJQQBd4HzntTsRhdtVK5tvw8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQBd4HzntTsRhdtVK5tvw8U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:42"
+  },
+  {
+    "business_name": "Ramesh Medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy",
+    "pincode": "521390",
+    "phone_number": "+91 98850 97841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "8XF5+5W7, Vijayawada Rd, Pamarru, Andhra Pradesh 521157",
+    "area": "521390",
+    "latitude": 16.3229057,
+    "longitude": 80.9598018,
+    "place_id": "ChIJ9bJe2af9SToR_b9bT_ykJK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bJe2af9SToR_b9bT_ykJK8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:31:44"
+  }
+]

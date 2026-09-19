@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PORUGINTI PULLAKURA RESTAURANT",
+    "search_category": "Patisserie",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "521301",
+    "phone_number": "+91 77300 27777",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 30,
+    "address": "Eluru Rd, opp. Gandhi Bomma statue, beside Gudivada Diagnostic Blood Centre, Loyaada, Gudivada, Andhra Pradesh 521301",
+    "area": "Loyaada",
+    "latitude": 16.4395228,
+    "longitude": 80.9922721,
+    "place_id": "ChIJoeSr_KwbNjoRwjaUpXMSiVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeSr_KwbNjoRwjaUpXMSiVA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:56"
+  },
+  {
+    "business_name": "Delicious waffle",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "521301",
+    "phone_number": "+91 97047 18123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "no: 3 Beside:, Happy daily shop, Rajendra Nagar Main Rd, Rajendra Nagar, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Rajendra Nagar, Satyanarayana Puram",
+    "latitude": 16.4402403,
+    "longitude": 80.99269269999999,
+    "place_id": "ChIJzwEHbAAbNjoR8PdrkaP7DTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwEHbAAbNjoR8PdrkaP7DTU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:58"
+  }
+]

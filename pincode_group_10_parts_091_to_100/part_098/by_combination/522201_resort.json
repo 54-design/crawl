@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vanam Resorts - The Nature's Nest",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "522201",
+    "phone_number": "+91 75699 39679",
+    "website": "https://vanamresorts.in/",
+    "rating": 4.1,
+    "reviews_count": 100,
+    "address": "SH 41, near Peddageddada, Maredumilli, Pedageddada, Andhra Pradesh 533288",
+    "area": "522201",
+    "latitude": 17.4646667,
+    "longitude": 81.72679219999999,
+    "place_id": "ChIJJSI9YIkXNzoR6LjdPlP0xHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSI9YIkXNzoR6LjdPlP0xHQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:22:36"
+  },
+  {
+    "business_name": "Naveena lodge",
+    "search_category": "Resort",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "522201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": null,
+    "address": "6JQV+8C6, Balajirao Pet, Tenali, Andhra Pradesh 522202",
+    "area": "Balajirao Pet",
+    "latitude": 16.2382764,
+    "longitude": 80.643526,
+    "place_id": "ChIJrSfV5QsHSjoRwxhyKnvp4BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSfV5QsHSjoRwxhyKnvp4BU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:22:38"
+  }
+]

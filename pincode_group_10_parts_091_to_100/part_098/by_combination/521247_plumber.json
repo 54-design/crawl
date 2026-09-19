@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen Plumbing Rajahmundry",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "521247",
+    "phone_number": "+91 94907 08934",
+    "website": "https://naveenplumbingrjy.com/",
+    "rating": 5,
+    "reviews_count": 106,
+    "address": "1-135, near High Tech Bus Stand, Kambala Cheruvu, Rajamahendravaram, Andhra Pradesh 533105",
+    "area": "Kambala Cheruvu",
+    "latitude": 17.0138689,
+    "longitude": 81.7780186,
+    "place_id": "ChIJXbJpcRClNzoRk2E6FJ0Z2WU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbJpcRClNzoRk2E6FJ0Z2WU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:35:20"
+  },
+  {
+    "business_name": "Carpenter Dasu Pamidimukkala",
+    "search_category": "Plumber",
+    "primary_category": "Carpenter",
+    "all_categories": "Carpenter",
+    "pincode": "521247",
+    "phone_number": "+91 95333 67437",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7VH9+2W, Pamidimukkala, Andhra Pradesh 521250",
+    "area": "521247",
+    "latitude": 16.2775638,
+    "longitude": 80.8698149,
+    "place_id": "ChIJd8gEQe3_SToRv9HgjkHK8HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8gEQe3_SToRv9HgjkHK8HA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:35:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health plus medicals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "522015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Srinagar Colony, Guntur, Andhra Pradesh 522002",
+    "area": "Srinagar Colony",
+    "latitude": 16.3089375,
+    "longitude": 80.4395625,
+    "place_id": "ChIJI3coTwB1SjoRAztU5Ceo22U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3coTwB1SjoRAztU5Ceo22U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:58:00"
+  },
+  {
+    "business_name": "Dr YSR Urban Primary Health Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "522015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "894F+H89 JMJ Memorial Park, Nallapadu Rural, Andhra Pradesh 522005",
+    "area": "522015",
+    "latitude": 16.3071978,
+    "longitude": 80.374156,
+    "place_id": "ChIJXfte53p1SjoRYgGx34jNUmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfte53p1SjoRYgGx34jNUmo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:58:00"
+  }
+]

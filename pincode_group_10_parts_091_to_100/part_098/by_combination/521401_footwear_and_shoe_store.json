@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friend Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521401",
+    "phone_number": "+91 95503 69833",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XGQ9 HCJ, Peda Komira, Andhra Pradesh 521403",
+    "area": "XGQ9 HCJ",
+    "latitude": 16.9887852,
+    "longitude": 80.5179558,
+    "place_id": "ChIJZafzsBnLNToRTLdfHoGelYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZafzsBnLNToRTLdfHoGelYo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:22"
+  },
+  {
+    "business_name": "VKC PRIDE MALL",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521401",
+    "phone_number": "+91 99632 27851",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 12,
+    "address": "Timminaidu Palem, 248.1B, Kadapa - Tirupati Rd, Tirumala Reddy Nagar, Mangalam, Tirupati, Andhra Pradesh 517507",
+    "area": "Tirumala Reddy Nagar, Mangalam",
+    "latitude": 13.647844899999999,
+    "longitude": 79.44602429999999,
+    "place_id": "ChIJ9c0S6C9LTToRffzxbmnr99c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9c0S6C9LTToRffzxbmnr99c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:23"
+  }
+]

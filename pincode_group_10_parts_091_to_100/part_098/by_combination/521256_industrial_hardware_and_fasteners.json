@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Bolts",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Fastener supplier",
+    "pincode": "521256",
+    "phone_number": "+91 74114 60151",
+    "website": "http://www.hindustanbolts.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop no 2 & 3, 103/15, Harohalli road, near Shanimahatma Temple, Medanahalli Village, Industrial Area, Banandur Dakhale, Bidadi, Karnataka 562109",
+    "area": "Medanahalli Village, Industrial Area",
+    "latitude": 12.785918599999999,
+    "longitude": 77.4005117,
+    "place_id": "ChIJU97ymb1FrjsRQhNQAspnV1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU97ymb1FrjsRQhNQAspnV1I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:39:56"
+  },
+  {
+    "business_name": "Krishna Industrial Hardware & Safety",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Adhesives & Glue Supplier, Construction equipment supplier, Fastener supplier, Industrial supermarket, Ladder supplier, Material handling equipment supplier, Safety equipment supplier, Tool store, Welding supply store",
+    "pincode": "521256",
+    "phone_number": "N/A",
+    "website": "http://www.krishnaindustrialhardware.com/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "LS No. 169/P20, Adani Port Road, near Zero Point Circle, Mundra, Nanakpaya, Gujarat 370421",
+    "area": "521256",
+    "latitude": 22.8367734,
+    "longitude": 69.6947837,
+    "place_id": "ChIJv8j1usfVUDkRT2LkWLok0EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8j1usfVUDkRT2LkWLok0EM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:39:59"
+  }
+]

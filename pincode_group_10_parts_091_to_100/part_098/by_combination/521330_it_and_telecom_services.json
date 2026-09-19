@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Telephone Exchange",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telephone exchange",
+    "all_categories": "Telephone exchange, Telecommunications",
+    "pincode": "521330",
+    "phone_number": "+91 86742 73320",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 30,
+    "address": "83R5+R8W, Kavutaram, Andhra Pradesh 521356",
+    "area": "521330",
+    "latitude": 16.342121,
+    "longitude": 81.05833,
+    "place_id": "ChIJfWh0LgriSToR32IiNHqQD4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWh0LgriSToR32IiNHqQD4Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:11:47"
+  },
+  {
+    "business_name": "BSNL Customer Centre",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "521330",
+    "phone_number": "+91 471 273 0000",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "HX47+75X, Kudappanakunnu, Thiruvananthapuram, Keralam 695043",
+    "area": "Kudappanakunnu",
+    "latitude": 8.555741099999999,
+    "longitude": 76.962993,
+    "place_id": "ChIJ-TqlNQi5BTsRt-nojGKA3O0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TqlNQi5BTsRt-nojGKA3O0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:11:49"
+  }
+]

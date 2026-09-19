@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Car Travels, guntur cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Bus charter, Car detailing service, Car leasing service, Tour agency, Travel agency",
+    "pincode": "522003",
+    "phone_number": "+91 79979 97474",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 93,
+    "address": "Brindavan Gardens 1st Ln, Chandramouli Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Chandramouli Nagar",
+    "latitude": 16.315132,
+    "longitude": 80.422125,
+    "place_id": "ChIJAyqBEISKNToRzuQZnOo4mes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyqBEISKNToRzuQZnOo4mes",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:56"
+  },
+  {
+    "business_name": "Car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "522003",
+    "phone_number": "+91 73308 48459",
+    "website": "http://mscartravels.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8C5F+CRM, Ntr stadium, Main Rd, Guntur, Andhra Pradesh 522002",
+    "area": "Devapuram",
+    "latitude": 16.3085987,
+    "longitude": 80.4245583,
+    "place_id": "ChIJjVku9vF1SjoRWtkasoG4Zpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVku9vF1SjoRWtkasoG4Zpc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:46:58"
+  }
+]

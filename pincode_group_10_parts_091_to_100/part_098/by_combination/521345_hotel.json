@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar cool drink shop & Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop, Restaurant, Tiffin center",
+    "pincode": "521345",
+    "phone_number": "+91 85558 05374",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 24,
+    "address": "PP Rd, Bhyravapatnam, Mandavalli, Andhra Pradesh 521345",
+    "area": "521345",
+    "latitude": 16.531726,
+    "longitude": 81.17930799999999,
+    "place_id": "ChIJA4DBl80jNjoR1iRSfj5eWF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4DBl80jNjoR1iRSfj5eWF8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:47"
+  },
+  {
+    "business_name": "ABRAHAM HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521345",
+    "phone_number": "+91 86883 93399",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, beside Bus Stand, Bhyravapatnam, Andhra Pradesh 521345",
+    "area": "521345",
+    "latitude": 16.5317045,
+    "longitude": 81.1791081,
+    "place_id": "ChIJMQB5bKMjNjoRbXBhFf7eiqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQB5bKMjNjoRbXBhFf7eiqk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:24:47"
+  }
+]

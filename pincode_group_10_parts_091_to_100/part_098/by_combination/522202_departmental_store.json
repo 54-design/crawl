@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishitha super market & Navajeevan lab",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "522202",
+    "phone_number": "+91 94932 44863",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Amaravathi yards, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "Amaravathi yards, Sulthanabad",
+    "latitude": 16.2461703,
+    "longitude": 80.6326449,
+    "place_id": "ChIJn0LSzg8JSjoRbM64-4b-sWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0LSzg8JSjoRbM64-4b-sWg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:21"
+  },
+  {
+    "business_name": "TENALI DOUBLE HORSE GROUP",
+    "search_category": "Departmental Store",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Food manufacturer, Food products supplier",
+    "pincode": "522202",
+    "phone_number": "+91 96663 89389",
+    "website": "https://www.tenalidoublehorse.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Survey no 212-B1, Bus Stop, Kunchavaram, Road, Nandivelugu, Athota, Andhra Pradesh 522306",
+    "area": "522202",
+    "latitude": 16.2900123,
+    "longitude": 80.6638785,
+    "place_id": "ChIJb1hjZi8GSjoRXYGL6lBG7kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1hjZi8GSjoRXYGL6lBG7kc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:23:23"
+  }
+]

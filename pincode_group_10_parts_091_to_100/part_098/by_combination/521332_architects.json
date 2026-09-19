@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Architect Annie",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architectural designer, Architecture firm, Interior designer",
+    "pincode": "521332",
+    "phone_number": "+91 94951 31801",
+    "website": "http://www.architectannie.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G6, Logic Square, VIP Rd, near JLN Metro Station, Kaloor, Kochi, Ernakulam, Kerala 682017",
+    "area": "Kaloor",
+    "latitude": 9.998774899999999,
+    "longitude": 76.2986737,
+    "place_id": "ChIJ9RCxMa0NCDsRQyAoY16KIF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RCxMa0NCDsRQyAoY16KIF0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:15:09"
+  },
+  {
+    "business_name": "Design Adobe - MCD Sanction Plans | Building Plan Approval | Completion Plans",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "521332",
+    "phone_number": "+91 96346 85933",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "51, Satnam Road, Block B, Krishna Nagar, Delhi, 110051",
+    "area": "Block B, Krishna Nagar",
+    "latitude": 28.658539899999997,
+    "longitude": 77.2783856,
+    "place_id": "ChIJLZnotb_9DDkRRvToLp7LNYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZnotb_9DDkRRvToLp7LNYI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:15:12"
+  }
+]

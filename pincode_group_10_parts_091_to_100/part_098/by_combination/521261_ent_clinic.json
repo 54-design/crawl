@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vallabhaa Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Dermatologist, Ear piercing service, Eye care center, General practitioner, Obstetrician-gynecologist, Oral surgeon, Hospital, Otolaryngology clinic, Pain management physician",
+    "pincode": "521261",
+    "phone_number": "+91 99493 80624",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 982,
+    "address": "Near SK Fast Foods Opp Sapthagiri Gramina Bank, Tirumala Bypass Rd, Tirupati, Andhra Pradesh 517501",
+    "area": "Korlagunta",
+    "latitude": 13.6389097,
+    "longitude": 79.4275892,
+    "place_id": "ChIJz_sA1VtDOToRwMl_8e4RNxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_sA1VtDOToRwMl_8e4RNxo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:42:40"
+  },
+  {
+    "business_name": "Get Well Surgical",
+    "search_category": "ENT Clinic",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "521261",
+    "phone_number": "+91 89199 61300",
+    "website": "https://getwellsurgical.in/",
+    "rating": 4.7,
+    "reviews_count": 28,
+    "address": "Plot No: 25, 15 &16, Babukhan Ln, Cyberhills Colony, P Janardhan Reddy Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Cyberhills Colony, P Janardhan Reddy Nagar, Gachibowli",
+    "latitude": 17.4371316,
+    "longitude": 78.3660981,
+    "place_id": "ChIJ05UUrJ2TyzsRKnoErV4Qfbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05UUrJ2TyzsRKnoErV4Qfbg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:42:42"
+  }
+]

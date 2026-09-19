@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V Show Entertainment",
+    "search_category": "Media and Event",
+    "primary_category": "Film Production Company",
+    "all_categories": "Film Production Company",
+    "pincode": "521260",
+    "phone_number": "+91 93218 74676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Panch Bhagini Sadan, 101, BP Rd, opp. Vijay Punjab Hotel, Bhayandar, Bhaurao Udyog Nagar, Chandan nagar, Bhayandar East, Bhayandar, Mira Bhayandar, Maharashtra 401105",
+    "area": "Bhayandar, Bhaurao Udyog Nagar, Chandan nagar, Bhayandar East",
+    "latitude": 19.3074855,
+    "longitude": 72.8557172,
+    "place_id": "ChIJAU6xbNyx5zsR5u5NuGExhmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAU6xbNyx5zsR5u5NuGExhmI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:41:26"
+  },
+  {
+    "business_name": "TANGENT OTT",
+    "search_category": "Media and Event",
+    "primary_category": "Film Production Company",
+    "all_categories": "Film Production Company",
+    "pincode": "521260",
+    "phone_number": "+91 93210 37230",
+    "website": "http://www.tangentweb.in/",
+    "rating": 4.9,
+    "reviews_count": 332,
+    "address": "1st Floor, A-3/104, Shanti Building Shanti Nagar, Station Rd, Sector 5, Mira Road East, Thane, Maharashtra 401107",
+    "area": "Sector 5, Shanti Nagar, Mira Road East",
+    "latitude": 19.2818517,
+    "longitude": 72.86162639999999,
+    "place_id": "ChIJ_aO321C35zsRqWdohfUZZlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aO321C35zsRqWdohfUZZlk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:41:26"
+  }
+]

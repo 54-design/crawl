@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PY Tax Consultancy",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "521250",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-37-11, Mandavari St, opp. RTC Complex Road, near Bhanugudi Junction, Bhanugudi Junction, Perraju Peta, Perrajupeta, Kakinada, Andhra Pradesh 533003",
+    "area": "Bhanugudi Junction, Perraju Peta, Perrajupeta",
+    "latitude": 16.9674898,
+    "longitude": 82.23755039999999,
+    "place_id": "ChIJL7goWq4pODoRLcaj2C1b7WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7goWq4pODoRLcaj2C1b7WQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:37:59"
+  },
+  {
+    "business_name": "JRS & ASSOCIATES, Chartered Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "521250",
+    "phone_number": "+91 96668 29333",
+    "website": "http://www.cajrs.in/",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "GVMC Back Side, Near Old Raghu College, Ram Nagar Rd, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Ram Nagar",
+    "latitude": 17.7221847,
+    "longitude": 83.30979719999999,
+    "place_id": "ChIJTRZ_DD5DOToRgGFwiJ5iZ-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRZ_DD5DOToRgGFwiJ5iZ-o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:38:00"
+  }
+]

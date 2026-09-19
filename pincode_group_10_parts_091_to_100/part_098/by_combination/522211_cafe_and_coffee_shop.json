@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nancharaiah Cooldrinks Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "522211",
+    "phone_number": "+91 94411 34376",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6HRM+463, Main Rd, Sangamjagarlamudi, Andhra Pradesh 522213",
+    "area": "522211",
+    "latitude": 16.2402615,
+    "longitude": 80.5830508,
+    "place_id": "ChIJiQQkzigJSjoRbH73CY_H0WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQQkzigJSjoRbH73CY_H0WE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:27"
+  },
+  {
+    "business_name": "Ludhiya kirana&Cooldrinks",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "522211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "12-263, Dundipallem Main Road, near YSR Status, Side, Edlapalli, Andhra Pradesh 522211",
+    "area": "Side",
+    "latitude": 16.219531099999998,
+    "longitude": 80.6092702,
+    "place_id": "ChIJf_cLGgAPSjoRLCdoftQWhqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_cLGgAPSjoRLCdoftQWhqg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:25:29"
+  }
+]

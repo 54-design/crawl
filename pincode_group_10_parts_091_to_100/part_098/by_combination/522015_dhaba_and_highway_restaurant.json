@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surya Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Punjabi restaurant",
+    "pincode": "522015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "X33P+9RV, Darsiagraharam, Andhra Pradesh 523301",
+    "area": "522015",
+    "latitude": 15.9534773,
+    "longitude": 80.08703679999999,
+    "place_id": "ChIJPYvoHZiKSjoR4_fqrTe5Mso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYvoHZiKSjoR4_fqrTe5Mso",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:33"
+  },
+  {
+    "business_name": "Highway Inn Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "522015",
+    "phone_number": "+91 79879 70541",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "3X87+9WX, Pandripan, Chhattisgarh 494001",
+    "area": "522015",
+    "latitude": 19.0659994,
+    "longitude": 81.9648555,
+    "place_id": "ChIJM6E6qZwTMDoRdJBrptvgv-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6E6qZwTMDoRdJBrptvgv-w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:57:33"
+  }
+]

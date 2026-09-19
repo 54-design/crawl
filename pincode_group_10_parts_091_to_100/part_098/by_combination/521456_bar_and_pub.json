@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chez Doriane",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "521456",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HGVF+449, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "521456",
+    "latitude": 16.5927872,
+    "longitude": 80.5228463,
+    "place_id": "ChIJO-vgGADtNToRzBbAH2vaUs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-vgGADtNToRzBbAH2vaUs4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:48"
+  },
+  {
+    "business_name": "Cherries Restaurant and Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "521456",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "room no 107, HGX5+6QQ Nandana Apartment, fastlore, Vijaywada, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "fastlore",
+    "latitude": 16.5979947,
+    "longitude": 80.5094716,
+    "place_id": "ChIJpTSMagXXSjoRFqk0be__1yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTSMagXXSjoRFqk0be__1yY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:38:48"
+  }
+]

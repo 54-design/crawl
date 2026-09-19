@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dorababu kitchen",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "521301",
+    "phone_number": "+91 99660 84466",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "busstand, opposite Gudivada, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4306344,
+    "longitude": 80.99719669999999,
+    "place_id": "ChIJi6T5F2AdNjoR-AZUoqy8FI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6T5F2AdNjoR-AZUoqy8FI4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:48:01"
+  },
+  {
+    "business_name": "Sai Fast Foods",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521301",
+    "phone_number": "+91 96760 26905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CXPW+27P, 1shop, Muggu Bazar Rd, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.435096599999998,
+    "longitude": 80.9957273,
+    "place_id": "ChIJmRhTL4wdNjoRCaDzzXhsJdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRhTL4wdNjoRCaDzzXhsJdA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:48:01"
+  }
+]

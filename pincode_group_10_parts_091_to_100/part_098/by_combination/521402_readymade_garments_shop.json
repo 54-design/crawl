@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIVA Cloth and Readymade Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521402",
+    "phone_number": "+91 96669 08023",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Gandhi park center, Vatsavai, Andhra Pradesh 521402",
+    "area": "521402",
+    "latitude": 16.9800027,
+    "longitude": 80.2402563,
+    "place_id": "ChIJU8qgFMatNToR92wNhJ2GeFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8qgFMatNToR92wNhJ2GeFg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:35:07"
+  },
+  {
+    "business_name": "Kumar Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521402",
+    "phone_number": "+91 95423 54705",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8, Main Road, near by Sivalayam Veedi, Vatsavai, Andhra Pradesh 521402",
+    "area": "521402",
+    "latitude": 16.9838664,
+    "longitude": 80.23818179999999,
+    "place_id": "ChIJky9_zjutNToRGtjXmuNBrlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJky9_zjutNToRGtjXmuNBrlE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:35:07"
+  }
+]

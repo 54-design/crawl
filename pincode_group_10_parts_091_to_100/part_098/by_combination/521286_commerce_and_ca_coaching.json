@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Master Minds Junior College",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, College, Educational institution",
+    "pincode": "521286",
+    "phone_number": "+91 92487 33360",
+    "website": "http://www.mastermindsindia.com/",
+    "rating": 4.4,
+    "reviews_count": 191,
+    "address": "D NO.32, A.S.GRANDE, 2/1 1/2, Ratnamamba St, Mogalrajapuram, Kasturibaipet, Christurajupuram, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Kasturibaipet, Christurajupuram",
+    "latitude": 16.509469799999998,
+    "longitude": 80.6422059,
+    "place_id": "ChIJz0Feik3lNToRNcKOMNJyIw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0Feik3lNToRNcKOMNJyIw0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:08"
+  },
+  {
+    "business_name": "Sri Chaitanya CA Academy",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "521286",
+    "phone_number": "N/A",
+    "website": "http://srichaitanya.net/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Venkateswara Nagar, Veterinary Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Venkateswara Nagar, Veterinary Colony",
+    "latitude": 16.5096178,
+    "longitude": 80.6627054,
+    "place_id": "ChIJWQNVka_6NToRIjmxHNS_qOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQNVka_6NToRIjmxHNS_qOo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:47:09"
+  }
+]

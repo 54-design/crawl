@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna VEG",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "521344",
+    "phone_number": "+91 91549 20326",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 41,
+    "address": "Seven Roads Cir, Maria Puram, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Ganagapeta",
+    "latitude": 14.476597,
+    "longitude": 78.8236012,
+    "place_id": "ChIJSZgnmDRzszsR9ZjPSMU0Zog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZgnmDRzszsR9ZjPSMU0Zog",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:21:57"
+  },
+  {
+    "business_name": "Panchavati Gardenia Veg restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "521344",
+    "phone_number": "+91 99452 30501",
+    "website": "https://panchavativegrestaurant.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Vedanta Hemmige Circle, New Kantharaj Urs Rd, next to Rasik Honda Showroom, Lakshmipuram, Mysuru, Karnataka 570004",
+    "area": "Lakshmipuram",
+    "latitude": 12.2946406,
+    "longitude": 76.6443536,
+    "place_id": "ChIJxyMAGxpxrzsRs9RjV9xDzSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyMAGxpxrzsRs9RjV9xDzSo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:21:59"
+  }
+]

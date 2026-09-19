@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asritha family restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ongole busstand, Kanigiri, Andhra Pradesh 523230",
+    "area": "521401",
+    "latitude": 15.4063564,
+    "longitude": 79.5013732,
+    "place_id": "ChIJR3aESx8vSzoRGG9Q7WmFxn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3aESx8vSzoRGG9Q7WmFxn8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:17"
+  },
+  {
+    "business_name": "Chandrika family restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Yerravaram, Andhra Pradesh 533435",
+    "area": "521401",
+    "latitude": 17.2301481,
+    "longitude": 82.1270148,
+    "place_id": "ChIJbT0i_-l5NzoRK9b-g0MHYls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT0i_-l5NzoRK9b-g0MHYls",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:33:17"
+  }
+]

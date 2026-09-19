@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji CSC centre",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "521324",
+    "phone_number": "+91 94949 29153",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pendurru-Bantumilli Rd, Pendurru, China Pandraka, Andhra Pradesh 521324",
+    "area": "521324",
+    "latitude": 16.3595702,
+    "longitude": 81.2787166,
+    "place_id": "ChIJ04B5HAAnNjoRfkyWJXzwMHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04B5HAAnNjoRfkyWJXzwMHQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:00:31"
+  },
+  {
+    "business_name": "Padmaja Travels",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "521324",
+    "phone_number": "+91 98660 34174",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Bomma Center, BANTUMILLI, 6/35, Nidamarru, Andhra Pradesh 521324",
+    "area": "521324",
+    "latitude": 16.3720562,
+    "longitude": 81.2718007,
+    "place_id": "ChIJjWMgezknNjoRgKOwvCOxn8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWMgezknNjoRgKOwvCOxn8Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:00:35"
+  }
+]

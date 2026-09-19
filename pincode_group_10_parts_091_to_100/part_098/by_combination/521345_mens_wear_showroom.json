@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H&F House of Fashion Vizag",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521345",
+    "phone_number": "+91 98665 14365",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 134,
+    "address": "54-11-37, Bhanu Nagar, Isukathota, H B Colony, Visakhapatnam, Andhra Pradesh 530022",
+    "area": "Bhanu Nagar, Isukathota, H B Colony",
+    "latitude": 17.7414544,
+    "longitude": 83.3233171,
+    "place_id": "ChIJ6xVNHGFDOToRJfUCwKTas_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xVNHGFDOToRJfUCwKTas_E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:23:55"
+  },
+  {
+    "business_name": "TRENDS",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Baby clothing store, Children's clothing store, Clothing Accessories Store, Formal Clothing Store, Clothing store, Western apparel store, Youth clothing store",
+    "pincode": "521345",
+    "phone_number": "+91 78159 60775",
+    "website": "https://trends.shop/page/trends-chebrolu-undi-circle-ganapavaram",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "DOOR NO 1078Gr, Chebrolu Undi Rd, near SBI, Chinaramachandrapuram, Ganapavaram, Andhra Pradesh 534198",
+    "area": "Chinaramachandrapuram",
+    "latitude": 16.7003472,
+    "longitude": 81.4606417,
+    "place_id": "ChIJFZOqui41NjoRprEJ-u1q5Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZOqui41NjoRprEJ-u1q5Vk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:23:56"
+  }
+]

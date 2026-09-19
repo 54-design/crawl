@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vaarahi Designer Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "522018",
+    "phone_number": "+91 98665 66650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yaganti Sai Sapphire Apartments Kommineni Nagar, Muthyala Reddy Nagar, Venugopalnagar, Andhra Pradesh 522034",
+    "area": "Kommineni Nagar, Muthyala Reddy Nagar, Venugopalnagar, Muthyala Reddy Nagar",
+    "latitude": 16.325008099999998,
+    "longitude": 80.4310005,
+    "place_id": "ChIJrX4UJwBLTToRkMPQJcI_cfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrX4UJwBLTToRkMPQJcI_cfs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:03:13"
+  },
+  {
+    "business_name": "GK Designers",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "522018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "11-334, 11-336, Amaravati Rd, opposite to Kaveri Hotel, Panduranga Nagar, Guntur, Andhra Pradesh 522034",
+    "area": "Panduranga Nagar",
+    "latitude": 16.3300005,
+    "longitude": 80.4372374,
+    "place_id": "ChIJq6qenaSKNToRuNV-h7xZZO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qenaSKNToRuNV-h7xZZO0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:03:15"
+  }
+]

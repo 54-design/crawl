@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UF Ceilings Ltd",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Ceiling supplier",
+    "all_categories": "Ceiling supplier, Service establishment",
+    "pincode": "522213",
+    "phone_number": "07972 452275",
+    "website": "http://ufceilingsltd.co.uk/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "UF Ceilings Ltd, 522213, India",
+    "area": "522213",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJbyIQfiPxeUgRDkyZRL_2vUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyIQfiPxeUgRDkyZRL_2vUA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:58"
+  },
+  {
+    "business_name": "New Ceilings& Partitions LTD",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Dry wall contractor",
+    "all_categories": "Dry wall contractor, Service establishment",
+    "pincode": "522213",
+    "phone_number": "01242 352126",
+    "website": "https://www.new-ceilings.co.uk/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Ceilings& Partitions LTD, 522213, India",
+    "area": "522213",
+    "latitude": 52.1282873,
+    "longitude": -2.6794398999999998,
+    "place_id": "ChIJr4LvvMe-PEIR6m6UIpIs5kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4LvvMe-PEIR6m6UIpIs5kk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 11:29:58"
+  }
+]

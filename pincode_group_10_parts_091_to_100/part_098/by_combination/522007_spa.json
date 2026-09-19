@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A9wellness sp",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "522007",
+    "phone_number": "N/A",
+    "website": "https://a9wellnessspa.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, Amaravati Rd, near chillies dhaba, Guntur, Andhra Pradesh 522007",
+    "area": "Gorantla",
+    "latitude": 16.3341688,
+    "longitude": 80.4382153,
+    "place_id": "ChIJLdTn3vCLNToR7gzp2VXUHE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdTn3vCLNToR7gzp2VXUHE8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:49"
+  },
+  {
+    "business_name": "Kiites",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Aerobics Class, Fitness center",
+    "pincode": "522007",
+    "phone_number": "+91 863 225 1226",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 7,
+    "address": "4th Floor, Upstairs Bata Showroom Manibhushan Complex, Lakshmipuram Main Road, Lakshmipuram, Guntur, Andhra Pradesh 522007",
+    "area": "Ashok Nagar",
+    "latitude": 16.310148899999998,
+    "longitude": 80.42989469999999,
+    "place_id": "ChIJW967ymZ1SjoRqtiZt1gwLmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW967ymZ1SjoRqtiZt1gwLmc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:54:51"
+  }
+]

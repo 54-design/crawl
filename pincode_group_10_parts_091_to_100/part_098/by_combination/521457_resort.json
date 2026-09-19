@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trupthi Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Restaurant, Sports complex, Swimming pool, Water park, Wedding venue",
+    "pincode": "521457",
+    "phone_number": "+91 96771 42168",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Trupthi resorts, Kondampeta, Andhra Pradesh 532127",
+    "area": "Trupthi resorts",
+    "latitude": 18.456692,
+    "longitude": 83.6265,
+    "place_id": "ChIJzwRxhFF2PDoRva_oXme1EI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwRxhFF2PDoRva_oXme1EI0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:36"
+  },
+  {
+    "business_name": "VZM RESORT AND FUNCTION HALL",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "521457",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "39WG+25, Duppada, Andhra Pradesh 535003",
+    "area": "521457",
+    "latitude": 18.095053399999998,
+    "longitude": 83.3754331,
+    "place_id": "ChIJ4fsDSADlOzoRT5RflsUC4w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fsDSADlOzoRT5RflsUC4w0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 10:41:36"
+  }
+]
