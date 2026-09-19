@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521170",
+    "phone_number": "+91 99351 26202",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 321,
+    "address": "2444, B Block, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "B Block, Indira Nagar",
+    "latitude": 26.880895,
+    "longitude": 80.984365,
+    "place_id": "ChIJy6sfa3D9mzkRZ5ThLhDL4gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6sfa3D9mzkRZ5ThLhDL4gE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:39:57"
+  },
+  {
+    "business_name": "Shukla Chaat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Panipuri shop",
+    "all_categories": "Panipuri shop",
+    "pincode": "521170",
+    "phone_number": "+91 98390 42164",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 5359,
+    "address": "Shop no.1, church building, 11, Shahnajaf Rd, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.8497919,
+    "longitude": 80.9428605,
+    "place_id": "ChIJZ1gMiKf9mzkRJB3VK1e2wvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1gMiKf9mzkRJB3VK1e2wvk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:39:57"
+  }
+]

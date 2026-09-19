@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkateswara Wholesale Coconut shop",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "521165",
+    "phone_number": "+91 73864 22579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4-44, Ravichettu Bazar Rd, Hebronnagar, Vuyyuru, Andhra Pradesh 521165",
+    "area": "Hebronnagar",
+    "latitude": 16.361804799999998,
+    "longitude": 80.8437096,
+    "place_id": "ChIJwVp0NgABNjoRGfxHWSW43tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVp0NgABNjoRGfxHWSW43tg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:39:42"
+  },
+  {
+    "business_name": "Srikrishna Dry fruits",
+    "search_category": "Shops",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "521165",
+    "phone_number": "+91 83417 92735",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Door no 8, Vuyyuru center, 106/1, Vuyyuru - Illuru Rd, beside apollo pharmacy, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.365313,
+    "longitude": 80.8423303,
+    "place_id": "ChIJ9YGazd0BNjoRJNXU_mxf-3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YGazd0BNjoRJNXU_mxf-3o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:39:43"
+  }
+]

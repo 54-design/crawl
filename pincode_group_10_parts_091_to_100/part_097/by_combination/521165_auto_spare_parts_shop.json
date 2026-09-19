@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Nadeem Car Care",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "521165",
+    "phone_number": "+91 73822 24443",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH 65, China Ogirala, Vuyyuru, Andhra Pradesh 521245",
+    "area": "521165",
+    "latitude": 16.3783855,
+    "longitude": 80.8306623,
+    "place_id": "ChIJKxAbNskBNjoRsIPU0PytjDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxAbNskBNjoRsIPU0PytjDM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:28"
+  },
+  {
+    "business_name": "SRI DATTA AUTOMOBILES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer, Shopping mall",
+    "pincode": "521165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9R8V+94P, Katuru Rd, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.3659665,
+    "longitude": 80.8428205,
+    "place_id": "ChIJBVb0EhsBNjoRqA1XdA8UO1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVb0EhsBNjoRqA1XdA8UO1o",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:28"
+  }
+]

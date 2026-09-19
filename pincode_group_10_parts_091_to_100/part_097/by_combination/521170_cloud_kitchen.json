@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "2AM Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "521170",
+    "phone_number": "+91 89770 20200",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 88,
+    "address": "B-BLOCK, Road No 6, Mohan Nagar, opposite Monarch Appartment, Balaji Nagar Colony, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Balaji Nagar Colony, Janpriya Colony, Kothapet",
+    "latitude": 17.3773603,
+    "longitude": 78.5510319,
+    "place_id": "ChIJz6ugjqCZyzsRzrkVZW3hWE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6ugjqCZyzsRzrkVZW3hWE0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:39:56"
+  },
+  {
+    "business_name": "Cloud kitchen exchange",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Media company",
+    "all_categories": "Media company, Consultant, Information services, Market researcher",
+    "pincode": "521170",
+    "phone_number": "+91 93100 19923",
+    "website": "https://www.cloudkitchenexchange.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Preet Vihar G block Rd, G-Block, Preet Vihar, Delhi, 110092",
+    "area": "G-Block, Preet Vihar",
+    "latitude": 28.641293299999997,
+    "longitude": 77.29859189999999,
+    "place_id": "ChIJ91Y-1I39DDkR3j0N3zt6eKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91Y-1I39DDkR3j0N3zt6eKM",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:39:58"
+  }
+]

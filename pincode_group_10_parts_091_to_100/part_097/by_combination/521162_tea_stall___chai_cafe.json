@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Bliss - C4 Manyata Tech Park",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521162",
+    "phone_number": "+91 99809 26444",
+    "website": "https://chaibliss.in/",
+    "rating": 4.8,
+    "reviews_count": 128,
+    "address": "Manayata Tech Park, Thanisandra, Bengaluru, Karnataka 560045",
+    "area": "Manayata Tech Park, Thanisandra",
+    "latitude": 13.0477767,
+    "longitude": 77.62273569999999,
+    "place_id": "ChIJf5Bf9VAXrjsRQhVR45DzgQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5Bf9VAXrjsRQhVR45DzgQg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:32:24"
+  },
+  {
+    "business_name": "SHARON TEA STALL - INDIRANAGR",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop, Tea house",
+    "pincode": "521162",
+    "phone_number": "+91 97422 33434",
+    "website": "http://sharonteastall.com/",
+    "rating": 4.6,
+    "reviews_count": 155,
+    "address": "34, 2nd, 1st Stage Rd, Indiranagar, Bengaluru, Karnataka 560038",
+    "area": "Binnamangala, Stage 1, Indiranagar",
+    "latitude": 12.982202899999999,
+    "longitude": 77.6381043,
+    "place_id": "ChIJIWRRFLsWrjsRBKNbwOuBtxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWRRFLsWrjsRBKNbwOuBtxs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:32:25"
+  }
+]

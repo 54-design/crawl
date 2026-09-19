@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bata",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Belt shop, Boot store, Clothing store",
+    "pincode": "521165",
+    "phone_number": "+91 863 221 4990",
+    "website": "https://stores.bata.com/bata-shoes-sandals-store-in-brodipet-guntur",
+    "rating": 4,
+    "reviews_count": 1124,
+    "address": "5-67/23, Brodipet Main Rd, near Gandhi Handloom Sarees, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3018481,
+    "longitude": 80.4390583,
+    "place_id": "ChIJ24WLbkR1SjoRNmKyQdR-ESQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24WLbkR1SjoRNmKyQdR-ESQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:11"
+  },
+  {
+    "business_name": "Famous Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521165",
+    "phone_number": "N/A",
+    "website": "https://www.famousfootwear.com/",
+    "rating": 3.7,
+    "reviews_count": 23,
+    "address": "CXMW+9HJ, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.4334625,
+    "longitude": 80.9963906,
+    "place_id": "ChIJ1yoWRKgcNjoRmAL6MUFr7J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yoWRKgcNjoRmAL6MUFr7J0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:11"
+  }
+]

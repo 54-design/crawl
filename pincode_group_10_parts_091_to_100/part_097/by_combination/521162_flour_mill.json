@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devathi Grinding Machines",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Grill",
+    "pincode": "521162",
+    "phone_number": "+91 90103 19522",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Neelapuram, Andhra Pradesh 516175",
+    "area": "521162",
+    "latitude": 14.877670499999999,
+    "longitude": 78.68667099999999,
+    "place_id": "ChIJW28IZgCHtDsRocRyebvweAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW28IZgCHtDsRocRyebvweAI",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:32:18"
+  },
+  {
+    "business_name": "Krishna Flour Mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "521162",
+    "phone_number": "+91 98155 70012",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "Maharaj Nagar, Ludhiana, Punjab 141001",
+    "area": "Maharaj Nagar",
+    "latitude": 30.9015988,
+    "longitude": 75.8194056,
+    "place_id": "ChIJM5i5EKSDGjkRCEb_X7DTYp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5i5EKSDGjkRCEb_X7DTYp8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:32:19"
+  }
+]

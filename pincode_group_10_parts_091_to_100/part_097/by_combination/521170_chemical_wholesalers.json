@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Panchi Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical industry",
+    "all_categories": "Chemical industry",
+    "pincode": "521170",
+    "phone_number": "+91 94904 70370",
+    "website": "https://thepanchichemicals.com/",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "4, Tilak Rd, Ramkoti, Sultan Bazar, Koti, Hyderabad, Telangana 500001",
+    "area": "Ramkoti, Sultan Bazar, Koti",
+    "latitude": 17.390313,
+    "longitude": 78.4843775,
+    "place_id": "ChIJ21no1tCZyzsRYLcR_1ObNjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21no1tCZyzsRYLcR_1ObNjY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:41:20"
+  },
+  {
+    "business_name": "Sri Sai Chemical Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "521170",
+    "phone_number": "+91 820 257 3228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Diamond Complex, Ground Floor, Alevoor - Manipal Rd, Manipal, Industrial Area, Karnataka 576104",
+    "area": "Manipal, Industrial Area",
+    "latitude": 13.336711399999999,
+    "longitude": 74.78985469999999,
+    "place_id": "ChIJSUVYNCqlvDsRjIB0wcr54gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUVYNCqlvDsRjIB0wcr54gw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:41:20"
+  }
+]

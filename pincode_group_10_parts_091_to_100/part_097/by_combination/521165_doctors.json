@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hospital",
+    "search_category": "Doctors",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "521165",
+    "phone_number": "+91 92908 05686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No1-423, college road, near Shivalaym SUNDARAMMA PETA, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.3639706,
+    "longitude": 80.8419419,
+    "place_id": "ChIJA6wSXwoBNjoR77qpssYmA3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6wSXwoBNjoR77qpssYmA3k",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:18"
+  },
+  {
+    "business_name": "ESWAR KRISHNA MEDICAL DISTRIBUTORS",
+    "search_category": "Doctors",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "521165",
+    "phone_number": "+91 94404 85250",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Venkateshwara, 8-39/A, TAKIS PAKKANA, Vuyyuru, Andhra Pradesh 521165",
+    "area": "TAKIS PAKKANA",
+    "latitude": 16.3668931,
+    "longitude": 80.8416854,
+    "place_id": "ChIJTZecLgoBNjoR50WziG5HxaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZecLgoBNjoR50WziG5HxaQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:20"
+  }
+]

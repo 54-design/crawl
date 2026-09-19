@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathore Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airport Shuttle Service Provider, Bus tour agency, Car leasing service, Sightseeing Tour Operator, Tour agency, Tour operator, Transportation service, Taxi service, Travel clinic",
+    "pincode": "521164",
+    "phone_number": "+91 98931 97484",
+    "website": "http://www.rathoretourtravels.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Station Rd, Narmada Para, Balaji Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Narmada Para, Balaji Nagar",
+    "latitude": 21.2584677,
+    "longitude": 81.632679,
+    "place_id": "ChIJO_aYxGfdKDoR0njX8ACMQJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_aYxGfdKDoR0njX8ACMQJY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:36:41"
+  },
+  {
+    "business_name": "Anish Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Sightseeing Tour Operator, Tour operator, Taxi service",
+    "pincode": "521164",
+    "phone_number": "+91 93172 92826",
+    "website": "https://www.anishtourandtravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Dalhousie Road, near Punjab National Bank, adjacent Arya SS Boys School, Guru Nanak Nagar, Pathankot, Punjab 145001",
+    "area": "Guru Nanak Nagar",
+    "latitude": 32.272915,
+    "longitude": 75.6578772,
+    "place_id": "ChIJbyoERwh_HDkRYUn1PRRsSZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyoERwh_HDkRYUn1PRRsSZA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:36:42"
+  }
+]

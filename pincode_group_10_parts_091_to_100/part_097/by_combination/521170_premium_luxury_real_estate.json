@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phoenix Kessaku",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "521170",
+    "phone_number": "+91 81475 05558",
+    "website": "https://www.kessaku.in/",
+    "rating": 4.6,
+    "reviews_count": 124,
+    "address": "Dr, Dr Rajkumar Rd, opp. Vivekananda College, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "Rajajinagar",
+    "latitude": 13.009856099999999,
+    "longitude": 77.5533004,
+    "place_id": "ChIJ7RzTgXg9rjsRj89vy-WrZ1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RzTgXg9rjsRj89vy-WrZ1g",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:41:18"
+  },
+  {
+    "business_name": "Fine Luxury Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Service establishment, Real estate agent, Real estate consultant",
+    "pincode": "521170",
+    "phone_number": "N/A",
+    "website": "https://fineluxuryproperty.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Fine Luxury Property, 521170, India",
+    "area": "521170",
+    "latitude": 34.3219421,
+    "longitude": 12.0498608,
+    "place_id": "ChIJ23amI8cdbkgRG2s8EnvS8mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23amI8cdbkgRG2s8EnvS8mk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:41:18"
+  }
+]

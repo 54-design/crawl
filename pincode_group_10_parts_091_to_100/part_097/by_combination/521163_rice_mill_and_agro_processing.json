@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Krishnakanth Enterprises",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "521163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/8A, Garikaparru Rd, Yakamuru, Andhra Pradesh 521165",
+    "area": "521163",
+    "latitude": 16.3592713,
+    "longitude": 80.8375877,
+    "place_id": "ChIJP9d6P4MBNjoRK8v86pWl1v0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9d6P4MBNjoRK8v86pWl1v0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:35:46"
+  },
+  {
+    "business_name": "Bhoo varaha rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "521163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7-6/1, Sowbhagya Nagar, kunupa reddy nagar, Vuyyuru, Andhra Pradesh 521165",
+    "area": "Sowbhagya Nagar, kunupa reddy nagar",
+    "latitude": 16.3566535,
+    "longitude": 80.85105349999999,
+    "place_id": "ChIJgzEyx7UBNjoRJ5QMGgfueA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzEyx7UBNjoRJ5QMGgfueA8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:35:46"
+  }
+]

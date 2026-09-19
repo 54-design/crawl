@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaibhav Glass",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Glass shop",
+    "pincode": "521170",
+    "phone_number": "+91 98222 00392",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ground floor, Laxmi Krupa, P-221, Ram Nagar Rd, near Deshpande Hospital, Dharampeth Extension, Gokulpeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth Extension, Gokulpeth",
+    "latitude": 21.1403276,
+    "longitude": 79.05773049999999,
+    "place_id": "ChIJVVVVBV7A1DsRmfEdiwN3ckA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBV7A1DsRmfEdiwN3ckA",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:40:32"
+  },
+  {
+    "business_name": "Anand Glass Co.",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Glass manufacturer",
+    "pincode": "521170",
+    "phone_number": "+91 712 222 8725",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Paul Complex, 9-10 G/F, Wardha Rd, Ajni Square, Ramakrishna Nagar, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "area": "Ajni Square, Ramakrishna Nagar, Vivekanand Nagar",
+    "latitude": 21.1181575,
+    "longitude": 79.07190589999999,
+    "place_id": "ChIJRX8vrH2_1DsRNassh0FHAHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRX8vrH2_1DsRNassh0FHAHc",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:40:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Telecom Networks",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider, Service establishment",
+    "pincode": "521164",
+    "phone_number": "N/A",
+    "website": "https://globaltelecomnetworks.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Global Telecom Networks, 521164, India",
+    "area": "521164",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJL0zxjwsUYAMRVM8mpm0yytw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0zxjwsUYAMRVM8mpm0yytw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:37:22"
+  },
+  {
+    "business_name": "Ring Networks - Internet Service Provider In Mumbai",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "521164",
+    "phone_number": "+91 98333 03051",
+    "website": "https://ringnetworks.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "G-2, Pinheiro Apartments, St John Baptist Rd, Mount Mary, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Mount Mary, Bandra West",
+    "latitude": 19.048232499999997,
+    "longitude": 72.8262301,
+    "place_id": "ChIJ1cqjFVHJ5zsRkaHcausveos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cqjFVHJ5zsRkaHcausveos",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:37:24"
+  }
+]

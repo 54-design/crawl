@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cream Bowl",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cafe, Juice shop",
+    "pincode": "521162",
+    "phone_number": "+91 81477 73477",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 3282,
+    "address": "ಶ್ರೀ ಲಕ್ಷ್ಮೀ ವೆಂಕಟರಮಣ ದೇವಸ್ಥಾನದ ರಸ್ತೆ, Thenkpete, Maruthi Veethika, Udupi, Karnataka 576101",
+    "area": "Thenkpete, Maruthi Veethika",
+    "latitude": 13.337937799999999,
+    "longitude": 74.75226169999999,
+    "place_id": "ChIJB6EpJWm7vDsRX_39Le0MQ5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6EpJWm7vDsRX_39Le0MQ5Q",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:32:29"
+  },
+  {
+    "business_name": "Classic Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Fast food restaurant",
+    "pincode": "521162",
+    "phone_number": "+91 96502 00040",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3833,
+    "address": "2, Defence Enclave, Next To Bal Mandir Public School, Swasthya Vihar, New Delhi, Delhi 110092",
+    "area": "Defence Enclave, Swasthya Vihar",
+    "latitude": 28.6416251,
+    "longitude": 77.2930128,
+    "place_id": "ChIJtVw14ln7DDkRc2Cz8IIzQcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVw14ln7DDkRc2Cz8IIzQcs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:32:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Raymond shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Clothing store, Tuxedo shop, Youth clothing store",
+    "pincode": "521165",
+    "phone_number": "+91 80 4493 9699",
+    "website": "https://syamala-nagar.myraymond.com/",
+    "rating": 4.7,
+    "reviews_count": 539,
+    "address": "D.No.78-3-8, near RTC Complex, Syamala Nagar, Gandhipuram, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Syamala Nagar, Gandhipuram",
+    "latitude": 17.000719399999998,
+    "longitude": 81.79058739999999,
+    "place_id": "ChIJRQUnc4mjNzoRhchGwpfzbgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQUnc4mjNzoRhchGwpfzbgw",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:07"
+  },
+  {
+    "business_name": "VijayaLakshmi Vastralayam",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521165",
+    "phone_number": "+91 77994 16832",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "Vijayawada Rd, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.364357599999998,
+    "longitude": 80.8427841,
+    "place_id": "ChIJ11HnBkYANjoRAv1InD5lALE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11HnBkYANjoRAv1InD5lALE",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Ganapathi Medical & Fancy Stores",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "521165",
+    "phone_number": "+91 97008 90008",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "# 8-300/1, Opp. Samatha Hospital, Katuru Road, Vuyyuru,, Vijayawada, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.366922,
+    "longitude": 80.84319699999999,
+    "place_id": "ChIJvcAU8k8ANjoRTMixa8KEEf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcAU8k8ANjoRTMixa8KEEf0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:25"
+  },
+  {
+    "business_name": "Vijaya Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Healthcare Clinic Chains",
+    "all_categories": "Healthcare Clinic Chains",
+    "pincode": "521165",
+    "phone_number": "+91 88854 12911",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "149, Katuru Rd, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.368133,
+    "longitude": 80.8437142,
+    "place_id": "ChIJVVXRhk8ANjoRHSJElJ8GFlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXRhk8ANjoRHSJElJ8GFlk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EquipCorp Mining Solutions",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "521162",
+    "phone_number": "+91 95735 77005",
+    "website": "http://www.equipcorp.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "East Nehru Nagar, Nehru Nagar Colony, West Marredpally, Secunderabad, Telangana 500026",
+    "area": "East Nehru Nagar, Nehru Nagar Colony, West Marredpally",
+    "latitude": 17.442952599999998,
+    "longitude": 78.5061929,
+    "place_id": "ChIJHTTL1YmbyzsRZMXgorFA6Zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTTL1YmbyzsRZMXgorFA6Zk",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:55"
+  },
+  {
+    "business_name": "Danieli",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machining manufacturer",
+    "all_categories": "Machining manufacturer",
+    "pincode": "521162",
+    "phone_number": "+91 85763 04000",
+    "website": "http://www.danieli.com/",
+    "rating": 4.3,
+    "reviews_count": 67,
+    "address": "7205, Central Expy, Gollavaripalem, Sri City, Andhra Pradesh 517646",
+    "area": "Gollavaripalem",
+    "latitude": 13.536880499999999,
+    "longitude": 79.994029,
+    "place_id": "ChIJwwIaBKVwTToRkhNlAsSOXFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwIaBKVwTToRkhNlAsSOXFY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:55"
+  }
+]

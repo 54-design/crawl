@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Links",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Retail space rental agency",
+    "pincode": "521162",
+    "phone_number": "+91 77605 51155",
+    "website": "https://www.yashlinks.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Close, MS Ramaiah Rd Yash Links, 2nd Floor, Gokul Towers, No 86 MS Ramaiah Rd, Gokul, to, BEL Rd, Mathikere Extension, Bengaluru, Karnataka 560054",
+    "area": "HMR Layout, Mathikere Extension, Mathikere",
+    "latitude": 13.0392648,
+    "longitude": 77.5556165,
+    "place_id": "ChIJO8PEdII9rjsRapZWnXbaY2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8PEdII9rjsRapZWnXbaY2A",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:48"
+  },
+  {
+    "business_name": "HomeAdda",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "521162",
+    "phone_number": "+91 88843 33654",
+    "website": "http://homeadda.com/",
+    "rating": 2.4,
+    "reviews_count": 14,
+    "address": "607, 6th Floor, Fortuna Building, Shivar Chowk, opposite to Mcdonald's, Kottapalya, Jayanagara 9th Block, Pimple Saudagar, Pune, Bengaluru, Maharashtra 560041",
+    "area": "Kottapalya, Jayanagara 9th Block, Pimple Saudagar",
+    "latitude": 12.9202946,
+    "longitude": 77.5896738,
+    "place_id": "ChIJF46aPQoVrjsRO6y2XBWbydQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF46aPQoVrjsRO6y2XBWbydQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:48"
+  }
+]

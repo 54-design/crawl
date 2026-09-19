@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cutting Chai-Pragathi Nagar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521164",
+    "phone_number": "N/A",
+    "website": "https://thecuttingchai.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pragathi Nagar Rd, Kakatiya Hills, ALEAP Industrial Area, Pragathi Nagar, Hyderabad, Telangana 500090",
+    "area": "Kakatiya Hills, ALEAP Industrial Area, Pragathi Nagar",
+    "latitude": 17.5360695,
+    "longitude": 78.3937947,
+    "place_id": "ChIJrXih1SOPyzsRx7IXzcwLT9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXih1SOPyzsRx7IXzcwLT9I",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:36:09"
+  },
+  {
+    "business_name": "SANCHA Tea Boutique Lavelle Road (Best Tea Shop in Bengaluru)",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521164",
+    "phone_number": "+91 80 4850 7417",
+    "website": "http://www.sanchatea.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "54, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.971385999999999,
+    "longitude": 77.598252,
+    "place_id": "ChIJRyFVvHkWrjsRb7smb-3LwTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyFVvHkWrjsRb7smb-3LwTY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:36:11"
+  }
+]

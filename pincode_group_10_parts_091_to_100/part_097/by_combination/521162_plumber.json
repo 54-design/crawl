@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Plumbing Work",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Contractor",
+    "pincode": "521162",
+    "phone_number": "+91 99022 03441",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "No 414, 2nd Cross, 1st Main Rd, Shetty Halli, Bengaluru, Karnataka 560015",
+    "area": "Janatha Colony, Shetty Halli, Jalahalli West",
+    "latitude": 13.064967699999999,
+    "longitude": 77.5172218,
+    "place_id": "ChIJ99EB5P0jrjsRyCZ5jDySt20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99EB5P0jrjsRyCZ5jDySt20",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:08"
+  },
+  {
+    "business_name": "Saroj sai plumbing services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "521162",
+    "phone_number": "+91 86581 79730",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kesora Rd, Bhubaneswar, Odisha 751002",
+    "area": "521162",
+    "latitude": 20.2713781,
+    "longitude": 85.8742951,
+    "place_id": "ChIJMX4uEoihGToRcBtUI2-J2I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMX4uEoihGToRcBtUI2-J2I8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:08"
+  }
+]

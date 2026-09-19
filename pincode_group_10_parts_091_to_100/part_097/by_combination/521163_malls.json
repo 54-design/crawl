@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Minimart",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "521163",
+    "phone_number": "+91 95421 10759",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Thotlavalluru, South Valluru, Andhra Pradesh 521163",
+    "area": "Thotlavalluru",
+    "latitude": 16.3481266,
+    "longitude": 80.7818568,
+    "place_id": "ChIJX84jZZH_NToR2Fm4gM6SOfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX84jZZH_NToR2Fm4gM6SOfU",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:35:55"
+  },
+  {
+    "business_name": "R K M XEROX AND COOL DRINKS",
+    "search_category": "Malls",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521163",
+    "phone_number": "+91 95421 45859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 1, China Ogirala, Andhra Pradesh 521245",
+    "area": "521163",
+    "latitude": 16.3718954,
+    "longitude": 80.8238961,
+    "place_id": "ChIJvSNL7CIBNjoRHBpudo0Gzx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSNL7CIBNjoRHBpudo0Gzx0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:35:58"
+  }
+]

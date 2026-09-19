@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Customer Service Centre",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "521162",
+    "phone_number": "+91 1800 345 1500",
+    "website": "http://www.bsnl.co.in/",
+    "rating": 3.4,
+    "reviews_count": 80,
+    "address": "M9H2+34F, Tirumala-Tirupati Rd, Balajy Colony, Tirumala, Tirupati Urban, Andhra Pradesh 517504",
+    "area": "Balajy Colony, Tirumala",
+    "latitude": 13.6776874,
+    "longitude": 79.3502847,
+    "place_id": "ChIJXZSedmS1sjsR3f4xiRQM9_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZSedmS1sjsR3f4xiRQM9_8",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:40"
+  },
+  {
+    "business_name": "Deccan BroadBand",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "521162",
+    "phone_number": "+91 99897 35706",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 10,
+    "address": "Post office center, Santhosh Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Santhosh Nagar",
+    "latitude": 15.2196117,
+    "longitude": 79.9025971,
+    "place_id": "ChIJp6-oe7sTSzoR_-FCdoqvVM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6-oe7sTSzoR_-FCdoqvVM0",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:33:41"
+  }
+]

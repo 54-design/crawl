@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "521175",
+    "phone_number": "+91 91424 13920",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 111,
+    "address": "Deepak Building, B-12, Ajit Nagar, J B Nagar, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "Ajit Nagar, J B Nagar, Andheri East",
+    "latitude": 19.1107817,
+    "longitude": 72.86696909999999,
+    "place_id": "ChIJ22-BHMXJ5zsRFVPkJnQU-FQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22-BHMXJ5zsRFVPkJnQU-FQ",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:41:47"
+  },
+  {
+    "business_name": "Mr Idly Tiffins",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant, Breakfast restaurant, Fast food restaurant",
+    "pincode": "521175",
+    "phone_number": "+91 70133 63639",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Road, opp. Reliance Fresh, Sujatha Nagar, Pendurthi, Chinnamusidivada, Andhra Pradesh 530051",
+    "area": "Ratnagiri Nagar, Chanukya Nagar, Sujatha Nagar, Pendurthi",
+    "latitude": 17.8021435,
+    "longitude": 83.2096662,
+    "place_id": "ChIJMcdpIIZnOToRMaJDgw0C9Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcdpIIZnOToRMaJDgw0C9Pg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:41:48"
+  }
+]

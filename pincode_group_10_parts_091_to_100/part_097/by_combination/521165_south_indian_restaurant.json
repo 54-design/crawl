@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gowri Shankar Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521165",
+    "phone_number": "+91 97032 25865",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop Number 1, Thotlavalluru Rd, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.3595979,
+    "longitude": 80.8437612,
+    "place_id": "ChIJZ8P_hC8BNjoRqB8QOXjIYMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8P_hC8BNjoRqB8QOXjIYMY",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:01"
+  },
+  {
+    "business_name": "Minar Biryani Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant",
+    "pincode": "521165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 46,
+    "address": "Vuyyuru, Andhra Pradesh 521165",
+    "area": "521165",
+    "latitude": 16.363973299999998,
+    "longitude": 80.8439999,
+    "place_id": "ChIJd0082TkBNjoRzORQaO3wHbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0082TkBNjoRzORQaO3wHbg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:01"
+  }
+]

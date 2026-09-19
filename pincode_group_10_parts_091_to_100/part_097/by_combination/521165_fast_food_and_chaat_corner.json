@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DOSTH HYDERABAD DUM BIRYANI",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dessert shop",
+    "pincode": "521165",
+    "phone_number": "+91 91219 52259",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 76,
+    "address": "1-55, Karampudi Road, Vinukonda, Andhra Pradesh 522647",
+    "area": "521165",
+    "latitude": 16.069205699999998,
+    "longitude": 79.7421901,
+    "place_id": "ChIJ_x3p3q-XSjoR5GtRVxzwGzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_x3p3q-XSjoR5GtRVxzwGzs",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:04"
+  },
+  {
+    "business_name": "Spicy Foods",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "521165",
+    "phone_number": "+91 93986 78043",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 81,
+    "address": "nearby Akshaya Hospital, Sangadigunta, Guntur, Andhra Pradesh 522001",
+    "area": "Sangadigunta",
+    "latitude": 16.2822864,
+    "longitude": 80.4541921,
+    "place_id": "ChIJO3akvIl1SjoRi85FkwOO8gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3akvIl1SjoRi85FkwOO8gg",
+    "part_id": "part_097",
+    "crawled_at": "2026-09-19 11:38:05"
+  }
+]
