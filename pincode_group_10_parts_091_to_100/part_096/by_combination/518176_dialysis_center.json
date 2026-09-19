@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, Secundrabad",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "518176",
+    "phone_number": "+91 88513 41695",
+    "website": "https://dcdc.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7th floor, DCDC Dialysis Center, IP block, GANDHI MEDICAL COLLEGE GANDHI HOSPITAL, Musheerabad, Walker Town, Bhoiguda, Secunderabad, Telangana 500020",
+    "area": "Musheerabad, Walker Town, Bhoiguda",
+    "latitude": 17.422729399999998,
+    "longitude": 78.50409069999999,
+    "place_id": "ChIJn1YDDgKZyzsRcqmWx3zsIa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1YDDgKZyzsRcqmWx3zsIa8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:35"
+  },
+  {
+    "business_name": "NephroPlus Dialysis & Kidney Care Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518176",
+    "phone_number": "+91 91212 41215",
+    "website": "https://www.nephroplus.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MJHS Chairtable Trust Dialysis Centre,Centre Rashmi Sheela Chs.Ltd, Datta Mandir Rd, Mahavir Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Mahavir Nagar, Kandivali West",
+    "latitude": 19.210274,
+    "longitude": 72.83637499999999,
+    "place_id": "ChIJSZYERja35zsRWf26BpGV1sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZYERja35zsRWf26BpGV1sg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:36"
+  }
+]

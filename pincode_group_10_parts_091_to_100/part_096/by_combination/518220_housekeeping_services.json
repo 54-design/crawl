@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House keeping / cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "518220",
+    "phone_number": "+91 99596 84716",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "27 TH ward, 27/950, AMBEDKAR NAGAR, Old Town, Upparapalli, Andhra Pradesh 515001",
+    "area": "AMBEDKAR NAGAR, Old Town",
+    "latitude": 14.668692499999999,
+    "longitude": 77.6119056,
+    "place_id": "ChIJPyTP87lLsTsRYYE3Znl1fGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyTP87lLsTsRYYE3Znl1fGs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:28"
+  },
+  {
+    "business_name": "GO GREEN FACILITY SERVICES",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "518220",
+    "phone_number": "+91 90594 47687",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No:28, RAILWAY GOOD SHED, 1582, RS ROAD, Sadiq Nagar, NOONEPALLI, Nandyala, Andhra Pradesh 518502",
+    "area": "Sadiq Nagar",
+    "latitude": 15.4674906,
+    "longitude": 78.47666219999999,
+    "place_id": "ChIJ42twC5ZTtDsRylT3G3bGPUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42twC5ZTtDsRylT3G3bGPUI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:28"
+  }
+]

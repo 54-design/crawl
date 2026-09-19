@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bucket Chicken",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fried chicken takeaway",
+    "all_categories": "Fried chicken takeaway, Grill, Barbecue area, Chicken wings restaurant, Hamburger restaurant, Juice shop, Pizza restaurant, Shawarma restaurant",
+    "pincode": "517592",
+    "phone_number": "+91 85558 50305",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "HG74+JVV, SBI Colony, Madanapalle, Andhra Pradesh 517326",
+    "area": "SBI Colony",
+    "latitude": 13.562105299999999,
+    "longitude": 78.5084466,
+    "place_id": "ChIJaV4Via5nsjsRmEmUqw4LHvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaV4Via5nsjsRmEmUqw4LHvY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:18"
+  },
+  {
+    "business_name": "THE HAPPY MONK",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517592",
+    "phone_number": "+91 93469 36399",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "2, Usha Nagar Colony Rd, Readspet, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "Readspet, KR Palli",
+    "latitude": 13.215635899999999,
+    "longitude": 79.11272579999999,
+    "place_id": "ChIJhQwmMABbrTsR5rURaDG2ty4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQwmMABbrTsR5rURaDG2ty4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:18"
+  }
+]

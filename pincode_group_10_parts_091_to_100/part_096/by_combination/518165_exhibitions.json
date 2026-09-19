@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Haat of Art",
+    "search_category": "Exhibitions",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner",
+    "pincode": "518165",
+    "phone_number": "+91 22 4015 5212",
+    "website": "http://www.thehaatofart.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Morya House, C-503, Veera Desai Rd, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Veera Desai Industrial Estate, Andheri West",
+    "latitude": 19.1400491,
+    "longitude": 72.834335,
+    "place_id": "ChIJf0UDOm635zsRKLHE5D6msVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0UDOm635zsRKLHE5D6msVA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:06:02"
+  },
+  {
+    "business_name": "Art Musings",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "518165",
+    "phone_number": "+91 22 2216 3339",
+    "website": "http://artmusings.net/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Admiralty Building, Colaba Cross Ln, Cuffe Parade, Mumbai, Maharashtra 400005",
+    "area": "Cuffe Parade",
+    "latitude": 18.9127023,
+    "longitude": 72.8223369,
+    "place_id": "ChIJAQAAAIXR5zsRyRaI3b7Lczs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAIXR5zsRyRaI3b7Lczs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:06:02"
+  }
+]

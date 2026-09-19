@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "90ML CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518225",
+    "phone_number": "+91 98854 41282",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "518464, ZPHS High School Road, Kodumur, Andhra Pradesh 518464",
+    "area": "518225",
+    "latitude": 15.6823467,
+    "longitude": 77.76412169999999,
+    "place_id": "ChIJFXczVgBxtjsRVkoz4FjVX0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXczVgBxtjsRVkoz4FjVX0w",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:26:37"
+  },
+  {
+    "business_name": "Rainbow cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MQQH+W5J, Kodumur, Andhra Pradesh 518464",
+    "area": "518225",
+    "latitude": 15.6898267,
+    "longitude": 77.7778967,
+    "place_id": "ChIJk5DmPQBxtjsRmDerZQjk03A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5DmPQBxtjsRmDerZQjk03A",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:26:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Stores Wholesale & Retail",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5-158, Nagaru Street, Narayanavanam, Andhra Pradesh 517581",
+    "area": "Narayanavanam",
+    "latitude": 13.4234619,
+    "longitude": 79.5906792,
+    "place_id": "ChIJM8GL-yZaTToRWcmgIPoAVKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8GL-yZaTToRWcmgIPoAVKo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:54:36"
+  },
+  {
+    "business_name": "Geetha Farms",
+    "search_category": "Supermarket",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store, Farmstay, Natural goods store",
+    "pincode": "517581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chavarambakam, Andhra Pradesh 517591",
+    "area": "517581",
+    "latitude": 13.3683172,
+    "longitude": 79.6823979,
+    "place_id": "ChIJ8X8tNEZfTToR07P_JuHfDMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8X8tNEZfTToR07P_JuHfDMQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:54:36"
+  }
+]

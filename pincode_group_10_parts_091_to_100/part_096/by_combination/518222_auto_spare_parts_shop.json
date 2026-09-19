@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinna Puncture shop",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "518222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishnagiri, Chunchu Yerragudi, Kurnool, Andhra Pradesh 518225",
+    "area": "Krishnagiri",
+    "latitude": 15.506189599999999,
+    "longitude": 77.7490991,
+    "place_id": "ChIJTXlXElZ9tjsRUyQv8KQMvGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXlXElZ9tjsRUyQv8KQMvGY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:25:16"
+  },
+  {
+    "business_name": "ASHOK LEYLAND",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "518222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "Dhone at Dronachalam, Auto Nagar, Dhone, Andhra Pradesh 518222",
+    "area": "Dhone at Dronachalam, Auto Nagar",
+    "latitude": 15.3927683,
+    "longitude": 77.8641433,
+    "place_id": "ChIJ--90bBmBtjsRXUBggADL3QM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--90bBmBtjsRXUBggADL3QM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:25:16"
+  }
+]

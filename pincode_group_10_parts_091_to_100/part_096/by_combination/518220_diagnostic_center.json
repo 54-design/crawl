@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Diagnostic Centre Alwal-Surya Nagar",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "518220",
+    "phone_number": "+91 92402 22222",
+    "website": "https://www.vijayadiagnostic.com/",
+    "rating": 5,
+    "reviews_count": 163,
+    "address": "Ram Reddy Enclave 5-632/1/5, Plot No.1, Old Alwal Rd, Medchal, Hyderabad, Telangana 500010",
+    "area": "Chandra Nagar Colony, Ayyappa Nagar Colony, Medchal",
+    "latitude": 17.5127866,
+    "longitude": 78.50255109999999,
+    "place_id": "ChIJAwN2aeDdtTsR-6lesBfgVOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwN2aeDdtTsR-6lesBfgVOE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:21:32"
+  },
+  {
+    "business_name": "Dr's Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center, Dermatologist, Diabetologist, Diagnostic center, Doctor, Physiotherapist, X-ray lab",
+    "pincode": "518220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Gayatri Estates, Dr no:49/1A/56,Lakshmi Nagar, beside TDP, Kurnool, Andhra Pradesh 518002",
+    "area": "Palakottalu, Gayathree Estates, Deva Nagar",
+    "latitude": 15.8123882,
+    "longitude": 78.03917129999999,
+    "place_id": "ChIJeTaf9QPdtTsR9twBCKk_M9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTaf9QPdtTsR9twBCKk_M9c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:21:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PDR CATTLE FEEDS&RICE",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store, Rice wholesaler",
+    "pincode": "517569",
+    "phone_number": "+91 97058 65610",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anuppalli, Ramachandrapuram Mandal, Andhra Pradesh 517102",
+    "area": "517569",
+    "latitude": 13.4901772,
+    "longitude": 79.2886527,
+    "place_id": "ChIJJ6ZcQKyvsjsRbefJGn7BLsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6ZcQKyvsjsRbefJGn7BLsU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:11"
+  },
+  {
+    "business_name": "SRI AYYAPPA TRADERS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "517569",
+    "phone_number": "+91 95532 76004",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chavatagunta, Vedurukuppam, Marepalle, Andhra Pradesh 517569",
+    "area": "Chavatagunta",
+    "latitude": 13.440148899999999,
+    "longitude": 79.3133933,
+    "place_id": "ChIJqWsrfQCtsjsR2fYjAUhZpoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWsrfQCtsjsR2fYjAUhZpoA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:11"
+  }
+]

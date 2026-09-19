@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hasta Spa Tada - Ilara Hotels & Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Health spa, Massage spa, Spa and health club",
+    "pincode": "517646",
+    "phone_number": "+91 99626 71888",
+    "website": "http://www.hastaspa.com/hasta-spa-menu",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ilara Hotels & Spa, 58/4 A, Chennai - Kolkata Hwy, opposite to Sri City, Zero Point, Sri City, Tada, Andhra Pradesh 524401",
+    "area": "Zero Point",
+    "latitude": 13.577930799999999,
+    "longitude": 80.04314219999999,
+    "place_id": "ChIJ69BiWD53TToRkx-7PqcrfUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69BiWD53TToRkx-7PqcrfUA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:30:48"
+  },
+  {
+    "business_name": "Kuma Spa",
+    "search_category": "Spa",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa, Massage therapist",
+    "pincode": "517646",
+    "phone_number": "+91 83670 44000",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "H2JM+MH3, Tada, Andhra Pradesh 524401",
+    "area": "517646",
+    "latitude": 13.5816406,
+    "longitude": 80.0339114,
+    "place_id": "ChIJrbf2J-d2TToRYsrnOI5ALUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbf2J-d2TToRYsrnOI5ALUo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:30:48"
+  }
+]

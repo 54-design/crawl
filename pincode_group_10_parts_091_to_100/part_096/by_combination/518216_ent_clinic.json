@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navya Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "9-19-9-10, KVS Colony, S S Colony, Dhone, Ulindakonda, Andhra Pradesh 518222",
+    "area": "KVS Colony, S S Colony",
+    "latitude": 15.629980799999998,
+    "longitude": 77.96721,
+    "place_id": "ChIJI9_3OAKBtjsRAmE5cgNWMFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9_3OAKBtjsRAmE5cgNWMFY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:15:56"
+  },
+  {
+    "business_name": "ENT specialist - Dr Manjunath H A , MBBS, MS, DNB(ENT) MNAMS - THE ENT CARE CENTRE ( TECC)",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Allergist, Otolaryngology clinic",
+    "pincode": "518216",
+    "phone_number": "+91 88844 22241",
+    "website": "https://entcarecentre.in/",
+    "rating": 4.9,
+    "reviews_count": 477,
+    "address": "Door no.314/2, THE ENT CARE CENTRE, 2A 3, Pavillion Road, Prince Jayachamaraja Wodeyar, Davangere, Karnataka 577004",
+    "area": "Prince Jayachamaraja Wodeyar",
+    "latitude": 14.457630499999999,
+    "longitude": 75.91896419999999,
+    "place_id": "ChIJPXVKzZclujsRlMjCOAGx84g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXVKzZclujsRlMjCOAGx84g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:15:58"
+  }
+]

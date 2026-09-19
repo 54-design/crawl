@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Sweet House - Indiranagar",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Breakfast restaurant, Brunch restaurant, Confectionery store, Dessert restaurant, Dessert shop, Fast food restaurant, Indian sweets shop, Snack bar, Vegetarian restaurant",
+    "pincode": "517641",
+    "phone_number": "+91 95135 51324",
+    "website": "https://stores.indiasweethouse.in/store-pages/india-sweet-house-indiranagar-bengaluru/",
+    "rating": 3.9,
+    "reviews_count": 177,
+    "address": "Ground Floor, 1309, Jeevan Bima Nagar Main Rd, opposite Eye World, HAL 3rd Stage, Indiranagar, Jeevan Bima Nagar, Bengaluru, Karnataka 560075",
+    "area": "HAL 3rd Stage, Indiranagar, Jeevan Bima Nagar",
+    "latitude": 12.968262099999999,
+    "longitude": 77.65060509999999,
+    "place_id": "ChIJV3kQ9PoVrjsRuhU22kOAbhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3kQ9PoVrjsRuhU22kOAbhA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:00"
+  },
+  {
+    "business_name": "Anand Sweets - Frazer Town",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Sweet shop, Panipuri shop",
+    "pincode": "517641",
+    "phone_number": "+91 80 3700 2130",
+    "website": "https://anandsweets.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "70/1, MM Road, Fraser Town, Bengaluru, Karnataka 560005",
+    "area": "Fraser Town",
+    "latitude": 13.000579799999999,
+    "longitude": 77.6145296,
+    "place_id": "ChIJwYsO8F8WrjsR2RIoqHttK8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYsO8F8WrjsR2RIoqHttK8k",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:02"
+  }
+]

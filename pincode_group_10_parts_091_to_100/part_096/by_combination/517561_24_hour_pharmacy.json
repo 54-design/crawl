@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "People's care medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "517561",
+    "phone_number": "+91 72073 05103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "santha gate, 14-70, Pattoor, Peddasamireddipalle, Andhra Pradesh 517124",
+    "area": "Pattoor",
+    "latitude": 13.428853,
+    "longitude": 79.0301607,
+    "place_id": "ChIJhRUZIPqjsjsR-zjzYBIXOlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRUZIPqjsjsR-zjzYBIXOlw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:49:32"
+  },
+  {
+    "business_name": "CHIRANJEEVI PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "517561",
+    "phone_number": "+91 90325 32590",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Nallamani, Kaluva, Thanapalle, Andhra Pradesh 517503",
+    "area": "Kaluva",
+    "latitude": 13.586323,
+    "longitude": 79.4341113,
+    "place_id": "ChIJkc9E4XpMTToRGP3179cNBIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkc9E4XpMTToRGP3179cNBIY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:49:34"
+  }
+]

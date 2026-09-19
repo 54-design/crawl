@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRIMARY HEALTH CENTRE ,PICHATUR",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "9PVQ+HH9, Pichatur, Andhra Pradesh 517587",
+    "area": "517581",
+    "latitude": 13.393912499999999,
+    "longitude": 79.73898439999999,
+    "place_id": "ChIJ6b3EkCdeTToRmNrMtf0MApM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6b3EkCdeTToRmNrMtf0MApM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:55:34"
+  },
+  {
+    "business_name": "PRIMARY HEALTH CENTRE, NINDRA",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "517581",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "9PP5+36M, Nindra Rd, Nindra, Andhra Pradesh 517591",
+    "area": "517581",
+    "latitude": 13.3852274,
+    "longitude": 79.7080192,
+    "place_id": "ChIJF1iyzEFfTToRWExnC_z9AGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1iyzEFfTToRWExnC_z9AGk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:55:35"
+  }
+]

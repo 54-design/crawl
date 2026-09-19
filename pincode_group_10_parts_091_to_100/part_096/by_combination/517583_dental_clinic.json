@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gentle Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517583",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Shop Street, Puttur, Andhra Pradesh 517583",
+    "area": "517583",
+    "latitude": 13.4369148,
+    "longitude": 79.54927219999999,
+    "place_id": "ChIJoQPDzopRTToRxruWNv4tUBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQPDzopRTToRxruWNv4tUBM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:34"
+  },
+  {
+    "business_name": "Pranu Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist",
+    "pincode": "517583",
+    "phone_number": "+91 93936 27932",
+    "website": "http://pranudental.in/",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "6-1-42B, Old Maternity Hospital Rd, near Balamandir School, Bhavani Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Bhavani Nagar",
+    "latitude": 13.639153799999999,
+    "longitude": 79.4171854,
+    "place_id": "ChIJJc4zXwJLTToR8n07tMDjq_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJc4zXwJLTToR8n07tMDjq_I",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:35"
+  }
+]

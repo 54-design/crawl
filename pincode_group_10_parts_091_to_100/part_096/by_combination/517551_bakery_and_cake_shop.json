@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JBM FOODS",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517551",
+    "phone_number": "+91 94408 20056",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HC9R+354, Kuntrapakam, Andhra Pradesh 517561",
+    "area": "517551",
+    "latitude": 13.567679,
+    "longitude": 79.44054849999999,
+    "place_id": "ChIJE_HYyy1NTToRnKi4LT6laCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_HYyy1NTToRnKi4LT6laCo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:21"
+  },
+  {
+    "business_name": "Darkpurple piler",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517551",
+    "phone_number": "+91 96183 63583",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 127,
+    "address": "2-421, Tirupathi Road, Pileru, Bodumalluvaripalle, Tirupati, Andhra Pradesh 517501",
+    "area": "Pileru",
+    "latitude": 13.6322832,
+    "longitude": 79.4271802,
+    "place_id": "ChIJcZodYJaVsjsR4zybg6mi4ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZodYJaVsjsR4zybg6mi4ns",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:22"
+  }
+]

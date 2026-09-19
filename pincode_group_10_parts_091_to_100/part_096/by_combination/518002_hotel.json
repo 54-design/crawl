@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva S Grand",
+    "search_category": "Hotel",
+    "primary_category": "Motel",
+    "all_categories": "Motel",
+    "pincode": "518002",
+    "phone_number": "+91 91821 15219",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SNS complex, Shiva S Grand, Bangalore - Hyderabad Service Rd, near Mr idli, Dinnedevarapadu, Andhra Pradesh 518002",
+    "area": "518002",
+    "latitude": 15.786198899999999,
+    "longitude": 78.0329994,
+    "place_id": "ChIJKaLdTADdtTsRNYdng4UKJBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKaLdTADdtTsRNYdng4UKJBY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:34:42"
+  },
+  {
+    "business_name": "Sign Regency Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Catering food and drink supplier, Restaurant",
+    "pincode": "518002",
+    "phone_number": "+91 70939 49426",
+    "website": "http://www.signregency.com/",
+    "rating": 3.9,
+    "reviews_count": 1759,
+    "address": "51//1, Near APSRTC Bus Stand, Bellary Rd, Kurnool, Andhra Pradesh 518003",
+    "area": "Sampath Nagar",
+    "latitude": 15.8254199,
+    "longitude": 78.0299256,
+    "place_id": "ChIJ07D86FfntTsR1iHbhgBeCxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07D86FfntTsR1iHbhgBeCxs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:34:43"
+  }
+]

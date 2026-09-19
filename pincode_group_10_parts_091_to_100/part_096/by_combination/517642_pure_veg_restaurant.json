@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dwarika Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "517642",
+    "phone_number": "+91 70283 42315",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 321,
+    "address": "Omerga, Maharashtra 413606",
+    "area": "517642",
+    "latitude": 17.844059299999998,
+    "longitude": 76.6013601,
+    "place_id": "ChIJX1cpaABbzzsRHzZt9s6PCaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1cpaABbzzsRHzZt9s6PCaI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:22:52"
+  },
+  {
+    "business_name": "Relax Hotel Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant",
+    "pincode": "517642",
+    "phone_number": "+91 98237 37646",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 81,
+    "address": "Tahsil office, Ardhapur, Maharashtra 431704",
+    "area": "517642",
+    "latitude": 19.280378499999998,
+    "longitude": 77.3735336,
+    "place_id": "ChIJLfC6k3nQ0TsRmlw0ZiTkvQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfC6k3nQ0TsRmlw0ZiTkvQE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:22:52"
+  }
+]

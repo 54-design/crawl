@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tasmasc",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "517589",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "7VFP+H23, Ammanambakkam, Ammambakkam, Tamil Nadu 602026",
+    "area": "517589",
+    "latitude": 13.2738794,
+    "longitude": 79.88504089999999,
+    "place_id": "ChIJx26snvOdUjoRE8VU6rPd_48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx26snvOdUjoRE8VU6rPd_48",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:07:07"
+  },
+  {
+    "business_name": "Arumugam Cooldrinks",
+    "search_category": "Bar and Pub",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "517589",
+    "phone_number": "+91 63016 30401",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "Bus Depot, Nagalapuram, 3/57, Bazaar St, Nagalapuram, Andhra Pradesh 517589",
+    "area": "517589",
+    "latitude": 13.390715499999999,
+    "longitude": 79.7934775,
+    "place_id": "ChIJlQmbrQVhTToRdAZHNUjXyyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQmbrQVhTToRdAZHNUjXyyw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:07:11"
+  }
+]

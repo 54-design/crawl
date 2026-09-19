@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Don Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "518313",
+    "phone_number": "+91 99003 68586",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Manvi, Karnataka 584123",
+    "area": "518313",
+    "latitude": 15.997540599999999,
+    "longitude": 77.0352872,
+    "place_id": "ChIJr1jaZfXQtzsR5H5XBv80Ays",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1jaZfXQtzsR5H5XBv80Ays",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:33:52"
+  },
+  {
+    "business_name": "Highway Inn Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "518313",
+    "phone_number": "+91 79879 70541",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "3X87+9WX, Pandripan, Chhattisgarh 494001",
+    "area": "518313",
+    "latitude": 19.0659994,
+    "longitude": 81.9648555,
+    "place_id": "ChIJM6E6qZwTMDoRdJBrptvgv-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6E6qZwTMDoRdJBrptvgv-w",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:33:55"
+  }
+]

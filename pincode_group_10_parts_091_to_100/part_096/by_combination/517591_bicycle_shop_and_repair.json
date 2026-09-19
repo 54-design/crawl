@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naveen bike works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motor scooter repair shop",
+    "all_categories": "Motor scooter repair shop",
+    "pincode": "517591",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar St, Thadukupeta, Nagari, Venkatanarasimha -Rajuvaripet, Andhra Pradesh 517590",
+    "area": "Thadukupeta",
+    "latitude": 13.270004499999999,
+    "longitude": 79.58137669999999,
+    "place_id": "ChIJZeFbSpenUjoRuOhp00FrghA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeFbSpenUjoRuOhp00FrghA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:11:04"
+  },
+  {
+    "business_name": "Guna Cycle Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "517591",
+    "phone_number": "+91 80989 63279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6HQ9+W2G, Mathur, Tamil Nadu 631206",
+    "area": "517591",
+    "latitude": 13.2398215,
+    "longitude": 79.5675715,
+    "place_id": "ChIJyUlChZunUjoRe67eAc_dey8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUlChZunUjoRe67eAc_dey8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:11:04"
+  }
+]

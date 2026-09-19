@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narendra generals",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517640",
+    "phone_number": "+91 99663 23331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beravari mandapam backside, Jayaram Rao St, Srikalahasti, Andhra Pradesh 517644",
+    "area": "517640",
+    "latitude": 13.7501666,
+    "longitude": 79.7018978,
+    "place_id": "ChIJN2dayNE_TToR9YLK7nHmGkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2dayNE_TToR9YLK7nHmGkg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:19:05"
+  },
+  {
+    "business_name": "Sri Sai Krishna Agencies",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517640",
+    "phone_number": "+91 99859 40836",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9-735, uppu Street, Srikalahasti, Andhra Pradesh 517644",
+    "area": "517640",
+    "latitude": 13.759169799999999,
+    "longitude": 79.705608,
+    "place_id": "ChIJA6oo8Sc_TToRHsCNfbxE0-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6oo8Sc_TToRHsCNfbxE0-I",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:19:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.G.R. Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517551",
+    "phone_number": "+91 83744 69980",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GGWG+J28, MDR359, Vadamalapet, Andhra Pradesh 517551",
+    "area": "517551",
+    "latitude": 13.5465375,
+    "longitude": 79.525063,
+    "place_id": "ChIJPwH8Eq9PTToRPp2DLviMVVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwH8Eq9PTToRPp2DLviMVVc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:34"
+  },
+  {
+    "business_name": "TIP TOP SHOE BAZAAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Korlagunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Korlagunta",
+    "latitude": 13.6380325,
+    "longitude": 79.4276637,
+    "place_id": "ChIJT0tTUKpLTToRyEX6uIWKgfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0tTUKpLTToRyEX6uIWKgfE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:36"
+  }
+]

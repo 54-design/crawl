@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sricity Men's Dormitory 2",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "517541",
+    "phone_number": "+91 86233 02406",
+    "website": "http://www.sricity.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "105, Cashew Blvd, Gollavaripalem, Sri City, Andhra Pradesh 517646",
+    "area": "Gollavaripalem",
+    "latitude": 13.534241,
+    "longitude": 79.995886,
+    "place_id": "ChIJ966i3KVwTToR0mLZSDj4Hck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ966i3KVwTToR0mLZSDj4Hck",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:46:32"
+  },
+  {
+    "business_name": "Apache Footwear India Pvt Ltd",
+    "search_category": "PG",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "517541",
+    "phone_number": "+91 7635 772 688",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 117,
+    "address": "Tada, Mambattu, Andhra Pradesh 524121",
+    "area": "517541",
+    "latitude": 13.6560007,
+    "longitude": 79.99138169999999,
+    "place_id": "ChIJYzcWuplzTToRtAVcvIej-7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzcWuplzTToRtAVcvIej-7k",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:46:34"
+  }
+]

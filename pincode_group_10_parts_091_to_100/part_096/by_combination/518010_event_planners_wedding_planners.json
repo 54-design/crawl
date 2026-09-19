@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cosmic Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "518010",
+    "phone_number": "+91 94530 10129",
+    "website": "https://tce-thecosmicevents.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "The Cosmic Events, 518010, India",
+    "area": "518010",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJH2dgMNvePGoR1Qld5p68Ds8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2dgMNvePGoR1Qld5p68Ds8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:45:36"
+  },
+  {
+    "business_name": "Moonlit Moments",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "518010",
+    "phone_number": "+91 73030 23983",
+    "website": "https://moonlitmoments.in/",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Moonlit Moments, 518010, India",
+    "area": "518010",
+    "latitude": 28.587393499999997,
+    "longitude": 77.17272439999999,
+    "place_id": "ChIJy2Oy1vkDDTkRBdNLg2BMG9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2Oy1vkDDTkRBdNLg2BMG9M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:45:37"
+  }
+]

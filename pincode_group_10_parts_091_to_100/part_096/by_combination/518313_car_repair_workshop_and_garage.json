@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Noorulla Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "518313",
+    "phone_number": "+91 80748 55183",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W9P4+Q5M, రాయచూర్ రోడ్, Madhavaram, Andhra Pradesh 518349",
+    "area": "518313",
+    "latitude": 15.9369737,
+    "longitude": 77.3554144,
+    "place_id": "ChIJS68gHmgwtjsRxXrgAy8h5mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS68gHmgwtjsRxXrgAy8h5mo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:34:18"
+  },
+  {
+    "business_name": "Jaffer Sadiq Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "518313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "V4QC+QCJ, Halvi, Andhra Pradesh 518333",
+    "area": "518313",
+    "latitude": 15.889460399999999,
+    "longitude": 77.1210292,
+    "place_id": "ChIJMdrSPcfNtzsRXD31u5brbXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdrSPcfNtzsRXD31u5brbXE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:34:18"
+  }
+]

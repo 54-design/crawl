@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Marketing",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "517590",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8H9P+R8W, Prakasam Rd, Nagari, Andhra Pradesh 517590",
+    "area": "517590",
+    "latitude": 13.319607399999999,
+    "longitude": 79.5858161,
+    "place_id": "ChIJe2A-TnWnUjoRuQuOMsiDcoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2A-TnWnUjoRuQuOMsiDcoY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:10:13"
+  },
+  {
+    "business_name": "ARA POULTRY",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Chicken shop",
+    "pincode": "517590",
+    "phone_number": "+91 94409 40777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NAGARI, 2-102/4, Pallipet Rd, Nagari, Andhra Pradesh 517590",
+    "area": "Pudupet",
+    "latitude": 13.3195154,
+    "longitude": 79.58260469999999,
+    "place_id": "ChIJ1VBMi4enUjoRQfjYx0Ipfhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VBMi4enUjoRQfjYx0Ipfhw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:10:13"
+  }
+]

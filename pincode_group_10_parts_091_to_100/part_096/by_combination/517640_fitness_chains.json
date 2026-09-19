@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Empire",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "517640",
+    "phone_number": "+91 70194 74809",
+    "website": "http://www.fitnessempire.co.in/",
+    "rating": 4.8,
+    "reviews_count": 1651,
+    "address": "2nd & 3rd Floor, 90/3, Outer Ring Rd, opposite innovative multiplex, above Yo chow, Sri Balaji Layout, Chandra Layout, Marathahalli, Bengaluru, Karnataka 560037",
+    "area": "Sri Balaji Layout, Chandra Layout, Marathahalli",
+    "latitude": 12.9504056,
+    "longitude": 77.6998243,
+    "place_id": "ChIJATG1TzUSrjsR_N0cXOJcEcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATG1TzUSrjsR_N0cXOJcEcM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:19:40"
+  },
+  {
+    "business_name": "Active studio gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517640",
+    "phone_number": "+91 97000 87770",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "L.A.Sagaram, Nayudupeta, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.9047114,
+    "longitude": 79.90076789999999,
+    "place_id": "ChIJO9PXXrwaTToRYAYYYLuwMJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9PXXrwaTToRYAYYYLuwMJQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:19:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Time",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "518176",
+    "phone_number": "+91 78424 24646",
+    "website": "http://teatimegroup.com/",
+    "rating": 4.3,
+    "reviews_count": 42,
+    "address": "2 AECS MAIN ROAD, ITPL Main Rd, Lakshminarayana Pura, AECS Layout, Munnekolala, Bengaluru, Karnataka 560037",
+    "area": "Lakshminarayana Pura, AECS Layout, Munnekolala",
+    "latitude": 12.9567125,
+    "longitude": 77.7148248,
+    "place_id": "ChIJBfU5EhQTrjsRt7qsgqh9VGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfU5EhQTrjsRt7qsgqh9VGQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:13"
+  },
+  {
+    "business_name": "Grand Hotel",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Bakery and Cake Shop, Sweet shop",
+    "pincode": "518176",
+    "phone_number": "+91 98492 30700",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 69,
+    "address": "1/536, Ghadiyaram Hospital Road, Chowk Bazar Rd, Bongul Bazar, Marwari Street, Kurnool, Andhra Pradesh 518001",
+    "area": "Bongul Bazar, Marwari Street",
+    "latitude": 15.829943799999999,
+    "longitude": 78.0516741,
+    "place_id": "ChIJHWJ4EmPntTsRiA-f3EOMfWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWJ4EmPntTsRiA-f3EOMfWo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omkareswar Realtors",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Housing development",
+    "pincode": "518145",
+    "phone_number": "+91 93937 63666",
+    "website": "http://www.omkareswar.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2nd Floor, Venkatadri Towers, JKC College Rd, near Amaravati Raithu Bazar, Tarakarama Nagar, Srinivasa Nagar Colony, Guntur, Andhra Pradesh 522006",
+    "area": "Tarakarama Nagar, Srinivasa Nagar Colony",
+    "latitude": 16.329205899999998,
+    "longitude": 80.41750069999999,
+    "place_id": "ChIJRYZSymGLNToR1cwZ3oKNECQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYZSymGLNToR1cwZ3oKNECQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:02:08"
+  },
+  {
+    "business_name": "Konaseema Properties Real Estate App",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "518145",
+    "phone_number": "N/A",
+    "website": "https://play.google.com/store/apps/details?id=com.newkonaseemaproperties",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H2M4+WQQ shariff complex, Amalapuram, Andhra Pradesh 533201",
+    "area": "518145",
+    "latitude": 16.5848361,
+    "longitude": 82.0069434,
+    "place_id": "ChIJXx35OWnvNzoROSoWaa8XCdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXx35OWnvNzoROSoWaa8XCdk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:02:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "517592",
+    "phone_number": "+91 90300 43222",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S/O S BHASKAR CHETTY,2-227 ,Main Road Nagari ,Satrawada ,Chittoor,517592,bazzarstreet, Satravada, Andhra Pradesh 517592",
+    "area": "Satravada",
+    "latitude": 13.3186,
+    "longitude": 79.57170099999999,
+    "place_id": "ChIJFdYWr3inUjoRWImXVnuhGc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdYWr3inUjoRWImXVnuhGc4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:13:22"
+  },
+  {
+    "business_name": "Airtel office",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "517592",
+    "phone_number": "+91 99633 99905",
+    "website": "https://www.airtel.in/",
+    "rating": 4.2,
+    "reviews_count": 34,
+    "address": "Shop no 27, opp, busstand, Pileru, Piler, Pileru, Andhra Pradesh 517214",
+    "area": "Pileru",
+    "latitude": 13.655636099999999,
+    "longitude": 78.94483009999999,
+    "place_id": "ChIJrZziBs-VsjsRER05BASZsKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZziBs-VsjsRER05BASZsKA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:13:22"
+  }
+]

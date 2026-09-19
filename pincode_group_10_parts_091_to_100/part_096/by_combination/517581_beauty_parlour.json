@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saranya beauty parlour and fancy store",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "517581",
+    "phone_number": "+91 86886 55501",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ntr statue, Main road Back side, Narayanavanam, Andhra Pradesh 517581",
+    "area": "517581",
+    "latitude": 13.4233312,
+    "longitude": 79.59070539999999,
+    "place_id": "ChIJM15bx8JbTToRgWGlqyYCuRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM15bx8JbTToRgWGlqyYCuRE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:55:29"
+  },
+  {
+    "business_name": "AKSHAYA BEAUTY PARLOUR & TAILORING",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "517581",
+    "phone_number": "+91 63009 95229",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No.3-186, near Auto Stand, Kemparapalem, Narayanavanam, Bheemunicheruvu, Andhra Pradesh 517581",
+    "area": "Kemparapalem",
+    "latitude": 13.4199931,
+    "longitude": 79.5939028,
+    "place_id": "ChIJ_8BRNBVZTToRmCJqMjhTu0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8BRNBVZTToRmCJqMjhTu0g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:55:29"
+  }
+]

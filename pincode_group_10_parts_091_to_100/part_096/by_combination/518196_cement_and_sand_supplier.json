@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sand Concret & Cement supplier",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler",
+    "pincode": "518196",
+    "phone_number": "+91 95616 44482",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "behind Goa Ceramica, Duguem, Nuvem, Goa 403604",
+    "area": "Duguem",
+    "latitude": 15.3159089,
+    "longitude": 73.93981409999999,
+    "place_id": "ChIJ31odPcSxvzsRKhmUvp3SKjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31odPcSxvzsRKhmUvp3SKjY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:12:37"
+  },
+  {
+    "business_name": "Padma Agencies",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Paint store",
+    "pincode": "518196",
+    "phone_number": "+91 99163 69250",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hydrabad road, Yadgiri, Karnataka 585201",
+    "area": "518196",
+    "latitude": 16.7654042,
+    "longitude": 77.1531131,
+    "place_id": "ChIJGaSbyspTyDsR2JkjAGGsj9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaSbyspTyDsR2JkjAGGsj9c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:12:38"
+  }
+]

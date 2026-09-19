@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finlaw Pro Consulting",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "518134",
+    "phone_number": "+91 94547 65633",
+    "website": "https://finlawpro.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Finlaw Pro Consulting, 518134, India",
+    "area": "518134",
+    "latitude": 21.4324229,
+    "longitude": 82.7864352,
+    "place_id": "ChIJs6rCFgQzgQIRqmyuvlrY5H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6rCFgQzgQIRqmyuvlrY5H8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:29"
+  },
+  {
+    "business_name": "EXPERT LEGAL ADVICE",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "518134",
+    "phone_number": "+91 82871 17023",
+    "website": "http://www.expertlegaladvice.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "W-177, 3rd Floor, Chander Shekhar Azad Gali No.5, Babarpur, Shahdara, East, Delhi, 110032",
+    "area": "East",
+    "latitude": 28.688183,
+    "longitude": 77.27882939999999,
+    "place_id": "ChIJzSvv8Er9DDkRuGmoomFU9Ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSvv8Er9DDkRuGmoomFU9Ts",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dreamers rehabilitation center",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist",
+    "pincode": "517645",
+    "phone_number": "+91 92022 23204",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Infront of Bastar university, Ashoka life style, Tetarkhuti, Jagdalpur, Chhattisgarh 494001",
+    "area": "Tetarkhuti",
+    "latitude": 19.0933883,
+    "longitude": 81.98421309999999,
+    "place_id": "ChIJC2ffrHITMDoRQItllucnG94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2ffrHITMDoRQItllucnG94",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:29:05"
+  },
+  {
+    "business_name": "Alpha Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist, Eye care center, Occupational therapist",
+    "pincode": "517645",
+    "phone_number": "+91 494 242 4442",
+    "website": "https://alphaclinic.framer.website/",
+    "rating": 4.6,
+    "reviews_count": 58,
+    "address": "Opposit, Darussalam Mall, Kuttippuram Road, Poongottukulam, Tirur, Keralam 676101",
+    "area": "Poongottukulam",
+    "latitude": 10.9086115,
+    "longitude": 75.9204881,
+    "place_id": "ChIJ9b-n_fixpzsRC_DPdbeZ2Uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9b-n_fixpzsRC_DPdbeZ2Uc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:29:09"
+  }
+]

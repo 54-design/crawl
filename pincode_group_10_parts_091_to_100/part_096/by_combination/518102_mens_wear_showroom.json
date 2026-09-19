@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARROW",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "518102",
+    "phone_number": "+91 74832 12345",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Infantry Road, Sanjay Gandhi Nagar, Ballari, Karnataka 583104",
+    "area": "Sanjay Gandhi Nagar",
+    "latitude": 15.15392,
+    "longitude": 76.910707,
+    "place_id": "ChIJiyOMHtETtzsRM4akuZwEoUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyOMHtETtzsRM4akuZwEoUo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:26"
+  },
+  {
+    "business_name": "STYLE RUSH",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "518102",
+    "phone_number": "+91 89856 57462",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "Plot No 11, opposite TNR Vaishnavi Apartment, Ravindra Nagar, Nacharam, Hyderabad, Secunderabad, Telangana 500076",
+    "area": "Ravindra Nagar, Nacharam",
+    "latitude": 17.430453,
+    "longitude": 78.5551887,
+    "place_id": "ChIJpR3XOsiZyzsR7gYngWnXgC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR3XOsiZyzsR7gYngWnXgC0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:27"
+  }
+]

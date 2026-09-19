@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N R Bike Point",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "518003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R2HJ+Q4R, MDR94, Indira Nagar, Kurnool, Andhra Pradesh 518003",
+    "area": "Indira Nagar",
+    "latitude": 15.8294942,
+    "longitude": 78.03028069999999,
+    "place_id": "ChIJx9a0IrXntTsRh3ykSjcO95s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9a0IrXntTsRh3ykSjcO95s",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:36:10"
+  },
+  {
+    "business_name": "Raghavendra Auto Mobile",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "518003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Survey No 70126 B42, Chennamma Circle, opposite Ramalayam Temple, Kallur, Kalluru, Andhra Pradesh 518003",
+    "area": "Kallur, Kalluru",
+    "latitude": 15.814436899999999,
+    "longitude": 78.0268554,
+    "place_id": "ChIJHbOqFfvdtTsRzpo3Koi6pWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbOqFfvdtTsRzpo3Koi6pWc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:36:14"
+  }
+]

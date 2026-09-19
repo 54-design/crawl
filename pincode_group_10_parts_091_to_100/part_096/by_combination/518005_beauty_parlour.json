@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai sree Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "518005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "R2PG+G93, Venkata Ramana Colony, Teachers Colony, Kurnool, Andhra Pradesh 518003",
+    "area": "Venkata Ramana Colony, Teachers Colony",
+    "latitude": 15.8362611,
+    "longitude": 78.0259155,
+    "place_id": "ChIJbbGMv37ntTsRsS2HH59utBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbGMv37ntTsRsS2HH59utBc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:08"
+  },
+  {
+    "business_name": "Maa Beauty Needs",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "R2HP+7W2, Near Congress office skanda shopping mall, Kurnool, Andhra Pradesh 518004",
+    "area": "River View Colony",
+    "latitude": 15.8281257,
+    "longitude": 78.0372792,
+    "place_id": "ChIJQ2WlWbrntTsRmeKsSUdPluo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2WlWbrntTsRmeKsSUdPluo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:10"
+  }
+]

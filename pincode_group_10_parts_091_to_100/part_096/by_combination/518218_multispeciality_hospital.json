@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vijaya Super Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "518218",
+    "phone_number": "+91 91212 12401",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/44-1-1, Santha Market Street, Kodumur, Andhra Pradesh 518464",
+    "area": "518218",
+    "latitude": 15.6860228,
+    "longitude": 77.7730741,
+    "place_id": "ChIJTZ1Ot2RxtjsRDLCES48WrD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZ1Ot2RxtjsRDLCES48WrD0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:32"
+  },
+  {
+    "business_name": "Sai Goutham Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518218",
+    "phone_number": "+91 94402 59099",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kallur Rd, beside Srinivas Talkies, Sampath Nagar, Kurnool, Andhra Pradesh 518003",
+    "area": "Sampath Nagar",
+    "latitude": 15.822574399999999,
+    "longitude": 78.0286699,
+    "place_id": "ChIJ8flyW_jdtTsR5Pw7lL86deQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8flyW_jdtTsR5Pw7lL86deQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:32"
+  }
+]

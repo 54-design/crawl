@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G-FIT",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "518166",
+    "phone_number": "+91 98855 41424",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "62XF+59J, Somarajupalle, Andhra Pradesh 523104",
+    "area": "518166",
+    "latitude": 15.247963799999999,
+    "longitude": 80.0233784,
+    "place_id": "ChIJJedJGgALSzoRd7WvrhZBx80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJedJGgALSzoRd7WvrhZBx80",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:06:48"
+  },
+  {
+    "business_name": "Cult Gym LB Nagar",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Boxing club, Boxing Coaching Center, Fitness center, Personal trainer, Physical fitness program, Training center, Weight loss service, Yoga instructor, Yoga studio",
+    "pincode": "518166",
+    "phone_number": "+91 612 672 8287",
+    "website": "https://www.cult.fit/cult/cult-pass/hyderabad/Cult-Gym-LB-Nagar,-Vanasthalipuram/2531%20?utm_source=gmb&utm_medium=organic",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3rd floor, Hive Five Plaza, Hakeemabad Colony Main Rd, above Croma, Hakeemabad Colony, L. B. Nagar, Hyderabad, Telangana 500074",
+    "area": "Hakeemabad Colony, L. B. Nagar",
+    "latitude": 17.3412352,
+    "longitude": 78.56178249999999,
+    "place_id": "ChIJEcFDQPXfNDoRjoH0Q4BIC1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcFDQPXfNDoRjoH0Q4BIC1Q",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:06:49"
+  }
+]

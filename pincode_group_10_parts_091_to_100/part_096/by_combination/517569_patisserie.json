@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geetha Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "517569",
+    "phone_number": "+91 96773 81147",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pallipet Rd, Pallipattu, Tamil Nadu 631207",
+    "area": "517569",
+    "latitude": 13.339062499999999,
+    "longitude": 79.4371875,
+    "place_id": "ChIJdfbzrpBVTToRZ_XDeWsDAT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfbzrpBVTToRZ_XDeWsDAT8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:11"
+  },
+  {
+    "business_name": "SRI SAI RAM HOT CHIPS",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Restaurant",
+    "pincode": "517569",
+    "phone_number": "+91 97860 02032",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M M COMPLEX, Chittoor Rd, Pallipattu, Tamil Nadu 631207",
+    "area": "517569",
+    "latitude": 13.3373115,
+    "longitude": 79.4396503,
+    "place_id": "ChIJD3q_A5FVTToRypMS0zTp9E8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3q_A5FVTToRypMS0zTp9E8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Vidya book centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "517646",
+    "phone_number": "+91 90303 04370",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nallakunta Main Rd, Old Nallakunta, New Nallakunta, Hyderabad, Telangana 500044",
+    "area": "Old Nallakunta, New Nallakunta",
+    "latitude": 17.3962281,
+    "longitude": 78.50342479999999,
+    "place_id": "ChIJt9XviLmZyzsRV0yJt5JurwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9XviLmZyzsRV0yJt5JurwI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:31:06"
+  },
+  {
+    "business_name": "Firdouse Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Used book store",
+    "all_categories": "Used book store, Children's Book Store, Law Book Store, Rare book store, Religious Book Store",
+    "pincode": "517646",
+    "phone_number": "+91 44 2239 6727",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 746,
+    "address": "431, Velachery Main Rd, East Tambaram, Tambaram, Tamil Nadu 600059",
+    "area": "East Tambaram, Tambaram",
+    "latitude": 12.923193699999999,
+    "longitude": 80.1272305,
+    "place_id": "ChIJa9k2hBFfUjoRqROQuwodAGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9k2hBFfUjoRqROQuwodAGs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:31:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KARTHIKEYA AGENCIES",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "518206",
+    "phone_number": "+91 84989 72687",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KARTHIKEYA AGENCIES, Kotha Peta, Kurnool, Betamcherla, Andhra Pradesh 518599",
+    "area": "Kotha Peta",
+    "latitude": 15.451859899999999,
+    "longitude": 78.1488237,
+    "place_id": "ChIJCUcPEgAztDsR2CqygiP0E8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUcPEgAztDsR2CqygiP0E8U",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:13:35"
+  },
+  {
+    "business_name": "V . VENKATA SHABARISHA",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518206",
+    "phone_number": "+91 70938 29912",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kurnool, Betamcherla, Andhra Pradesh 518599",
+    "area": "518206",
+    "latitude": 15.4525116,
+    "longitude": 78.1484971,
+    "place_id": "ChIJ51bWbkkztDsRlDZUsvfazM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51bWbkkztDsRlDZUsvfazM8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:13:35"
+  }
+]

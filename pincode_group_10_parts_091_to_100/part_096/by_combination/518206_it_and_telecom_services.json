@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "518206",
+    "phone_number": "+91 86887 33974",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S/O: Yenugula, Nagendra Babu, S/o, 9-265, gowri peta, Betamcherla, Andhra Pradesh 518599",
+    "area": "gowri peta",
+    "latitude": 15.4517773,
+    "longitude": 78.1486023,
+    "place_id": "ChIJIxN7H38ztDsRjYuY3N1Qpb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxN7H38ztDsRjYuY3N1Qpb0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:15:00"
+  },
+  {
+    "business_name": "Jio Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile network operator",
+    "all_categories": "Mobile network operator",
+    "pincode": "518206",
+    "phone_number": "+91 1860 893 3333",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 13,
+    "address": "F42X+H9M, Betamcherla, Andhra Pradesh 518599",
+    "area": "518206",
+    "latitude": 15.451456299999998,
+    "longitude": 78.1484177,
+    "place_id": "ChIJc7py7dAytDsRKaR3Wn8t7p0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7py7dAytDsRKaR3Wn8t7p0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:15:00"
+  }
+]

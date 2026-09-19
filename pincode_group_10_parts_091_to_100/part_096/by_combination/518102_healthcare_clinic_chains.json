@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHANDRA HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Fertility clinic, Fertility physician, Obstetrician-gynecologist",
+    "pincode": "518102",
+    "phone_number": "+91 85422 72829",
+    "website": "https://www.chandrahospital.co.in/",
+    "rating": 4.8,
+    "reviews_count": 287,
+    "address": "opp. Electricity Office, Srinivas Nagar Colony, Venkateshwara Colony, Mahbubnagar, Telangana 509001",
+    "area": "Srinivas Nagar Colony, Venkateshwara Colony",
+    "latitude": 16.7536566,
+    "longitude": 78.0153492,
+    "place_id": "ChIJ3xs-v6soyjsR6HNMItftLGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xs-v6soyjsR6HNMItftLGo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:42"
+  },
+  {
+    "business_name": "Parimala Health Care Services",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital",
+    "pincode": "518102",
+    "phone_number": "+91 80 2658 3117",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 296,
+    "address": "Health Care Service, Parimala Hospital, Bannerghatta Rd, near Neo TVS Showroom, Anthappa Layout, Phase 4, Bilekahalli, Bengaluru, Karnataka 560078",
+    "area": "Anthappa Layout, Phase 4, Bilekahalli",
+    "latitude": 12.9005836,
+    "longitude": 77.6004344,
+    "place_id": "ChIJTbIlRCIVrjsRSvdGtXiQ-as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbIlRCIVrjsRSvdGtXiQ-as",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:44"
+  }
+]

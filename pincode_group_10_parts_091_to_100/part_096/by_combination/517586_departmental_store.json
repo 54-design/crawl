@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfie super store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517586",
+    "phone_number": "+91 80561 35216",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambethkar nagar, Arcot Kuppam, tiruttani, Tamil Nadu 631204",
+    "area": "Ambethkar nagar",
+    "latitude": 13.206738699999999,
+    "longitude": 79.71232289999999,
+    "place_id": "ChIJhQ9X2zajUjoR4gHpDY-SvG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQ9X2zajUjoR4gHpDY-SvG0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:01:36"
+  },
+  {
+    "business_name": "yuvaraj grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "517586",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9P6R+HHC, Vengalathur, Andhra Pradesh 517587",
+    "area": "517586",
+    "latitude": 13.3614306,
+    "longitude": 79.7413996,
+    "place_id": "ChIJDcDaXQBhTToRuAnknpIcKis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcDaXQBhTToRuAnknpIcKis",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:01:36"
+  }
+]

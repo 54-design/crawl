@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pearl Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "518145",
+    "phone_number": "+91 93987 81662",
+    "website": "https://thepearlinteriors.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The Pearl Interiors, 518145, India",
+    "area": "518145",
+    "latitude": 15.7556388,
+    "longitude": 79.41386039999999,
+    "place_id": "ChIJC6E6137sbmoRzOiOIsnF260",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6E6137sbmoRzOiOIsnF260",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:01:29"
+  },
+  {
+    "business_name": "Pearl Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "518145",
+    "phone_number": "N/A",
+    "website": "https://www.thepearlinteriors.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pearl Interiors, 518145, India",
+    "area": "518145",
+    "latitude": 15.036098599999999,
+    "longitude": 77.377864,
+    "place_id": "ChIJTRQIXejd86sRAYO5SJoePAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRQIXejd86sRAYO5SJoePAE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:01:29"
+  }
+]

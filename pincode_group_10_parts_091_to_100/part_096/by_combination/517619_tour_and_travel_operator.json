@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishita Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "517619",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Srikara Gardens, Karakambadi Rd, Thodlamitta, Karakambadi Rural, Andhra Pradesh 517520",
+    "area": "Thodlamitta",
+    "latitude": 13.6716608,
+    "longitude": 79.5139447,
+    "place_id": "ChIJZS5Vj9hJTToRsF9GNeXRQV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS5Vj9hJTToRsF9GNeXRQV4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:16:13"
+  },
+  {
+    "business_name": "Poorna Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "517619",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MHGJ 33F, Gangamma Temple, Anjimedu, Chinnajimedu, Andhra Pradesh 517619",
+    "area": "Anjimedu",
+    "latitude": 13.674888699999999,
+    "longitude": 79.58053699999999,
+    "place_id": "ChIJq-htjeZHTToRMfPQfiOsCOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-htjeZHTToRMfPQfiOsCOc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:16:13"
+  }
+]

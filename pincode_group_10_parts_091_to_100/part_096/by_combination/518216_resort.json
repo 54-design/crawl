@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The One Escape Home Stay",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "518216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "The One, Escape Home Stay, Ulindakonda, Andhra Pradesh 518218",
+    "area": "518216",
+    "latitude": 15.6232618,
+    "longitude": 77.9556929,
+    "place_id": "ChIJkSrzfsrXtTsREvflor3mfdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSrzfsrXtTsREvflor3mfdA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:16:30"
+  },
+  {
+    "business_name": "Brundavanam family Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "518216",
+    "phone_number": "+91 81060 03456",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nachupally x Road, Nachupalli, Kondagattu, Telangana 505501",
+    "area": "518216",
+    "latitude": 18.650845,
+    "longitude": 78.92015359999999,
+    "place_id": "ChIJiWwCPxoazTsRdHkncySCR8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWwCPxoazTsRdHkncySCR8M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:16:30"
+  }
+]

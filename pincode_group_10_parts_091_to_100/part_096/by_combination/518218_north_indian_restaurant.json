@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vedas Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518218",
+    "phone_number": "+91 89777 72301",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 35,
+    "address": "Nannur Toll Plaza, Nannur, Andhra Pradesh 518002",
+    "area": "518218",
+    "latitude": 15.742118399999999,
+    "longitude": 78.06949139999999,
+    "place_id": "ChIJAeEK6VfdtTsRYlrfGxkkUt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeEK6VfdtTsRYlrfGxkkUt4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:16"
+  },
+  {
+    "business_name": "Flavours of Andhra",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "518218",
+    "phone_number": "N/A",
+    "website": "http://www.flavoursofandhra.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 44, beside Mr.Idli, Siva Reddy Nagar, Dinnedevarapadu, Andhra Pradesh 518003",
+    "area": "Siva Reddy Nagar",
+    "latitude": 15.786036099999999,
+    "longitude": 78.0328675,
+    "place_id": "ChIJ6bItvc_dtTsRkUgO8AjDZYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bItvc_dtTsRkUgO8AjDZYw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GV Mall Miryalaguda",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518166",
+    "phone_number": "+91 87422 55457",
+    "website": "https://gvmall.com/",
+    "rating": 4,
+    "reviews_count": 804,
+    "address": "VH74+QHG, Sagar Rd, Hanumanpet, Miryalaguda, Telangana 508207",
+    "area": "Hanumanpet",
+    "latitude": 16.8644455,
+    "longitude": 79.556939,
+    "place_id": "ChIJjQ04UIwvNToR-rZzaIg78P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQ04UIwvNToR-rZzaIg78P4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:07:59"
+  },
+  {
+    "business_name": "Ravi",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "518166",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "465G+2V, Reddipallo, Alvakonda, Andhra Pradesh 518166",
+    "area": "Reddipallo",
+    "latitude": 15.1075576,
+    "longitude": 78.22716319999999,
+    "place_id": "ChIJwxzLPgA_tDsRB7K8TrRvb3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxzLPgA_tDsRB7K8TrRvb3k",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:07:59"
+  }
+]

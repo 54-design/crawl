@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Optician",
+    "pincode": "518176",
+    "phone_number": "+91 92464 16265",
+    "website": "http://prakashopticals.ing.ng/",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "13-15-6 Green, Saraswati Park Rd, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Jagadamba Junction",
+    "latitude": 17.7127329,
+    "longitude": 83.3042072,
+    "place_id": "ChIJv3U3dhpDOToRQuEGr5XcYOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3U3dhpDOToRQuEGr5XcYOc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:30"
+  },
+  {
+    "business_name": "Komali Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Wholesaler",
+    "all_categories": "Optical Wholesaler",
+    "pincode": "518176",
+    "phone_number": "+91 98495 56080",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Jagadamba Centre, Near sudha nursing home, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Prakasaraopeta, Jagadamba Junction",
+    "latitude": 17.713953999999998,
+    "longitude": 83.30295,
+    "place_id": "ChIJGUB3FxpDOToRjcSF3dind44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUB3FxpDOToRjcSF3dind44",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:30"
+  }
+]

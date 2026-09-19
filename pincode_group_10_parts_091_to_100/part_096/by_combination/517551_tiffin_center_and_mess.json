@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homenu",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Catering food and drink supplier, Fast food restaurant",
+    "pincode": "517551",
+    "phone_number": "+91 77888 18882",
+    "website": "https://homenu.in/",
+    "rating": 4.8,
+    "reviews_count": 73,
+    "address": "Shop 7, Sai Sagar CHS, Plot 45B, Shelghar, Sector 16, Ulwe, Gavthan, Maharashtra 410206",
+    "area": "Shelghar, Sector 16, Ulwe",
+    "latitude": 18.9581597,
+    "longitude": 73.017489,
+    "place_id": "ChIJodX2jY3d5zsRu5bsrP8ilxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodX2jY3d5zsRu5bsrP8ilxA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:25"
+  },
+  {
+    "business_name": "Walk With Muni",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Media company",
+    "all_categories": "Media company, Breakfast restaurant, Restaurant",
+    "pincode": "517551",
+    "phone_number": "+91 93913 34785",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Tiruchanoor Rd, Ashok Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Ashok Nagar",
+    "latitude": 13.622743199999999,
+    "longitude": 79.4304141,
+    "place_id": "ChIJnSM8aaFLTToRFfg33Trdx6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSM8aaFLTToRFfg33Trdx6I",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:28"
+  }
+]

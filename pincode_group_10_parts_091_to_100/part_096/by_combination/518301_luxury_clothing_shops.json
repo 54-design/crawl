@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Street",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "518301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanchigari St, Havanapet, Old Town, Adoni, Andhra Pradesh 518301",
+    "area": "Havanapet, Old Town",
+    "latitude": 15.6257478,
+    "longitude": 77.2752744,
+    "place_id": "ChIJxXoVqtxNtjsROI5aTmmzDqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXoVqtxNtjsROI5aTmmzDqY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:28:37"
+  },
+  {
+    "business_name": "Arna Lakshmi Vallabha Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "518301",
+    "phone_number": "+91 70754 65699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "LIG 187, opposite House, 1st ward, near National Park, Shair Khan Colony, Adoni, Andhra Pradesh 518301",
+    "area": "Shair Khan Colony",
+    "latitude": 15.633944099999999,
+    "longitude": 77.2854322,
+    "place_id": "ChIJlXhIQiZNtjsRACdBcyiO6f0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXhIQiZNtjsRACdBcyiO6f0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:28:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Rahul Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "518220",
+    "phone_number": "+91 90304 26520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 20B, Market Yard, Kurnool, Andhra Pradesh 518003",
+    "area": "Sita Rama Nagar",
+    "latitude": 15.8273177,
+    "longitude": 78.0288029,
+    "place_id": "ChIJe4UIqFfntTsRjLLX9PgHiUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4UIqFfntTsRjLLX9PgHiUA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:42"
+  },
+  {
+    "business_name": "S.A TRADERS",
+    "search_category": "Tradeshows",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518220",
+    "phone_number": "+91 78427 74707",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Usmania Clg, One Town, Road, Kurnool, Andhra Pradesh 518001",
+    "area": "Bada Padakhana",
+    "latitude": 15.825387,
+    "longitude": 78.0497475,
+    "place_id": "ChIJjZlBLHjdtTsRMeV3eXo46no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZlBLHjdtTsRMeV3eXo46no",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madha Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517643",
+    "phone_number": "+91 85762 71701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CP2Q+4GP, Pichatur, Andhra Pradesh 517587",
+    "area": "517643",
+    "latitude": 13.400338699999999,
+    "longitude": 79.73882739999999,
+    "place_id": "ChIJYf9LiiBeTToRrVvw9LmwxC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYf9LiiBeTToRrVvw9LmwxC8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:25:49"
+  },
+  {
+    "business_name": "Madhu computers",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517643",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "GQX2+FF4, Unnamed Road, Perindesam, Katrapalle, Andhra Pradesh 517643",
+    "area": "517643",
+    "latitude": 13.5486326,
+    "longitude": 79.751215,
+    "place_id": "ChIJoRSTjv5pTToRjtGF9mobQ-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRSTjv5pTToRjtGF9mobQ-M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:25:49"
+  }
+]

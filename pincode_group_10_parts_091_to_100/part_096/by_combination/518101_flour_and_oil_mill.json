@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Ganuga Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518101",
+    "phone_number": "+91 99637 21882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near siddhaiah hotel, o city Junction, Market Street, Kashibugga, Enumamula, Warangal, Telangana 506002",
+    "area": "Kashibugga, Enumamula",
+    "latitude": 17.981728,
+    "longitude": 79.60884039999999,
+    "place_id": "ChIJw5INJS5FMzoR6-7pp_E7Aiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5INJS5FMzoR6-7pp_E7Aiw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:58"
+  },
+  {
+    "business_name": "Baba Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "518101",
+    "phone_number": "+91 70574 93618",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11, Erandwana Gaothan, Erandwane, Pune, Maharashtra 411004",
+    "area": "Erandwana Gaothan, Erandwane",
+    "latitude": 18.5055174,
+    "longitude": 73.8337999,
+    "place_id": "ChIJubkA0Iy_wjsRVdcAlY_An9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubkA0Iy_wjsRVdcAlY_An9g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:58"
+  }
+]

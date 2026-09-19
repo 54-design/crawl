@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhar",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "518176",
+    "phone_number": "+91 73060 68210",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Charchi Daggara, Bethamcherlla, Kurnool, H Kottala, Andhra Pradesh 518598",
+    "area": "Charchi Daggara, Bethamcherlla",
+    "latitude": 15.4434414,
+    "longitude": 78.11990349999999,
+    "place_id": "ChIJ8_UN-m4ztDsRXoM2mdFDMjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_UN-m4ztDsRXoM2mdFDMjk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:22"
+  },
+  {
+    "business_name": "Maruti Hosiery",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Childrens Store",
+    "all_categories": "Childrens Store, Store",
+    "pincode": "518176",
+    "phone_number": "+91 94816 38511",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "CTS, Shop, 2267, bhui Galli, Raviwar Peth, Belagavi, Karnataka 590001",
+    "area": "Raviwar Peth",
+    "latitude": 15.873656299999999,
+    "longitude": 74.5210087,
+    "place_id": "ChIJJ6QKtrtmvzsRALCoIz2fbsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6QKtrtmvzsRALCoIz2fbsg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:08:22"
+  }
+]

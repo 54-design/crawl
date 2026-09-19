@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B Plus Cloth shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "517582",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "7FMM+6H6, SH 106, Podaturpet, Tamil Nadu 631208",
+    "area": "517582",
+    "latitude": 13.283071,
+    "longitude": 79.4838795,
+    "place_id": "ChIJFSKR166pUjoRtTOAeQtUFk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSKR166pUjoRtTOAeQtUFk8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:56:37"
+  },
+  {
+    "business_name": "konnai",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "517582",
+    "phone_number": "+91 87780 03093",
+    "website": "https://konnai.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "anna nagar, Kodivalasa, Tamil Nadu 631202",
+    "area": "anna nagar",
+    "latitude": 13.2497878,
+    "longitude": 79.43215769999999,
+    "place_id": "ChIJ-90wZsWrUjoR67QQ9mT8_Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-90wZsWrUjoR67QQ9mT8_Do",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:56:37"
+  }
+]

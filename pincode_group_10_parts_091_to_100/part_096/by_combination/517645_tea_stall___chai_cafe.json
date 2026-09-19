@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Coppa",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Restaurant",
+    "pincode": "517645",
+    "phone_number": "+91 70252 90770",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "C455+CWV Chai coppa, near thekke aalmav, Triprayar, Thrissur, Keralam 680567",
+    "area": "517645",
+    "latitude": 10.4084203,
+    "longitude": 76.1097676,
+    "place_id": "ChIJwfbZ7BXzpzsRYs9luokPkxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfbZ7BXzpzsRYs9luokPkxw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:16"
+  },
+  {
+    "business_name": "Rajasthan Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517645",
+    "phone_number": "+91 94402 30579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramanaidupet, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Ramanaidupet",
+    "latitude": 16.1801547,
+    "longitude": 81.1310104,
+    "place_id": "ChIJ3x8EIsbnSToRT2pAZ6WGRwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3x8EIsbnSToRT2pAZ6WGRwc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:16"
+  }
+]

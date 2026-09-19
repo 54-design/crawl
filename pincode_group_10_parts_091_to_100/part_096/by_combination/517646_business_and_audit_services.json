@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nippon Seiki",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "517646",
+    "phone_number": "+91 85763 09400",
+    "website": "http://www.nippon-seiki.co.jp/global/",
+    "rating": 3.8,
+    "reviews_count": 72,
+    "address": "530 Benjamin Road, Sri City, Andhra Pradesh 517646",
+    "area": "Siddamma Agraharam",
+    "latitude": 13.547931,
+    "longitude": 80.0107318,
+    "place_id": "ChIJ2S9SA0t3TToRr4pKk0WExTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2S9SA0t3TToRr4pKk0WExTY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:31:21"
+  },
+  {
+    "business_name": "SBS and Company LLP - Chartered Accountants Company Sri City",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Accounting firm, Financial audit",
+    "pincode": "517646",
+    "phone_number": "+91 70751 88123",
+    "website": "https://www.sbsandco.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shopping centre, Suit No. 306, Second Floor, Arcade, 2745, Central Expy, Thondur, Andhra Pradesh 517646",
+    "area": "Thondur",
+    "latitude": 13.5616332,
+    "longitude": 80.0233737,
+    "place_id": "ChIJlXvlZbV3TToRLioJNBiYdt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXvlZbV3TToRLioJNBiYdt4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:31:21"
+  }
+]

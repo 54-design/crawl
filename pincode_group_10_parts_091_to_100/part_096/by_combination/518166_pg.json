@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivenza Living",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Home Stay",
+    "pincode": "518166",
+    "phone_number": "+91 90321 99990",
+    "website": "http://www.vivenza.in/",
+    "rating": 4.9,
+    "reviews_count": 111,
+    "address": "Plot No.1, RK Residency Rd, DLF Cyber City, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "DLF Cyber City, Indira Nagar, Gachibowli",
+    "latitude": 17.4461907,
+    "longitude": 78.3557434,
+    "place_id": "ChIJ84FRAwCTyzsRmhH-Xx88Qkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84FRAwCTyzsRmhH-Xx88Qkc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:07:21"
+  },
+  {
+    "business_name": "Sree Rama Bharat Gas Service",
+    "search_category": "PG",
+    "primary_category": "Gas Agency",
+    "all_categories": "Gas Agency",
+    "pincode": "518166",
+    "phone_number": "+91 96527 96350",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "D NO 7-15, 61/A, Club Road, Giddalur, Andhra Pradesh 523357",
+    "area": "518166",
+    "latitude": 15.3771428,
+    "longitude": 78.92725349999999,
+    "place_id": "ChIJ065bECbktDsRsh6r2HxU1Mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ065bECbktDsRsh6r2HxU1Mo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:07:21"
+  }
+]

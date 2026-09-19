@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI VENKATARAMANA STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517583",
+    "phone_number": "+91 90301 31414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8/190b, Tirupati Rd, Puttur, Andhra Pradesh 517583",
+    "area": "517583",
+    "latitude": 13.439388899999999,
+    "longitude": 79.5522354,
+    "place_id": "ChIJudciFABRTToR8v8-IlqrHfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudciFABRTToR8v8-IlqrHfs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:12"
+  },
+  {
+    "business_name": "GOVINDASWAMY GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517583",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "CHR2+9GF, Sengundhar St, Puttur, Andhra Pradesh 517583",
+    "area": "517583",
+    "latitude": 13.440941899999999,
+    "longitude": 79.5512847,
+    "place_id": "ChIJ8QI9UgBRTToRvVpdG1vumT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QI9UgBRTToRvVpdG1vumT4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:12"
+  }
+]

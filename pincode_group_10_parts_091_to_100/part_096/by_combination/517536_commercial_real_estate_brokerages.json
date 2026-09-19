@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CeeYen Real Estate Agency",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "517536",
+    "phone_number": "+91 90423 35335",
+    "website": "http://ceeyen.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "476, 2nd Floor, 19th Street, 4th sector, K. K. Nagar, Chennai, Tamil Nadu 600078",
+    "area": "Sector 4, K. K. Nagar",
+    "latitude": 13.041998,
+    "longitude": 80.201717,
+    "place_id": "ChIJWf756ftnUjoR8WpRxHSL7kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWf756ftnUjoR8WpRxHSL7kE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:45:08"
+  },
+  {
+    "business_name": "JSR CONSTRUCTIONS &REAL ESTATE",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "517536",
+    "phone_number": "+91 99896 00661",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Municipal office, Raja rao gonu, 5-406, 5thward, ammavaripeta, venkatagiri, new, Potti Sreeramulu St, near RTC Road, nellore, Andhra Pradesh 524132",
+    "area": "517536",
+    "latitude": 13.952785899999999,
+    "longitude": 79.58682859999999,
+    "place_id": "ChIJ01eVzJUlTToRvxwjVujjWzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01eVzJUlTToRvxwjVujjWzM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:45:11"
+  }
+]

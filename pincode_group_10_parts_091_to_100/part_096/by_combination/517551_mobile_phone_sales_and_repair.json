@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rayalaseema Enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "517551",
+    "phone_number": "+91 877 225 7979",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "JCRH+724, Chennai-Anantpur, Road, Srinivasa Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Srinivasa Nagar, Korlagunta",
+    "latitude": 13.6406399,
+    "longitude": 79.4275803,
+    "place_id": "ChIJaTja5apLTToRKCQFkst5AzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTja5apLTToRKCQFkst5AzM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:48:38"
+  },
+  {
+    "business_name": "Indian Mobiles Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "517551",
+    "phone_number": "+91 91006 57005",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C Ramapuram, Andhra Pradesh 517561",
+    "area": "517551",
+    "latitude": 13.56543,
+    "longitude": 79.40442449999999,
+    "place_id": "ChIJ8cXlkulMTToRe3pFuPSkqLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cXlkulMTToRe3pFuPSkqLo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:48:39"
+  }
+]

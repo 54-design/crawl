@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GV Mall Eluru",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517551",
+    "phone_number": "+91 95506 99887",
+    "website": "https://gvmall.com/",
+    "rating": 4.2,
+    "reviews_count": 5344,
+    "address": "vijay vihar centre, R.R.Pet Main Road, Ramachandra Rao Pet, Eluru, Andhra Pradesh 534006",
+    "area": "Ramachandra Rao Pet",
+    "latitude": 16.712021399999998,
+    "longitude": 81.0973379,
+    "place_id": "ChIJo7Q0JrYUNjoRk_rBOoe2KPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7Q0JrYUNjoRk_rBOoe2KPQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:49:04"
+  },
+  {
+    "business_name": "South Indian Shopping Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517551",
+    "phone_number": "N/A",
+    "website": "https://www.southindiaeshop.com/",
+    "rating": 3.6,
+    "reviews_count": 42,
+    "address": "JCPG+3M6, Karakambadi Bazar St, opp. वासन आई केयर, Tetagunta, Peddakapu Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Tetagunta, Peddakapu Colony",
+    "latitude": 13.635157999999999,
+    "longitude": 79.4266533,
+    "place_id": "ChIJlRkI7alLTToR8m-bxGZ3ROQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRkI7alLTToR8m-bxGZ3ROQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:49:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N.S.ELECTRICALS",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "518186",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FFMF+RXF, Padmavati Nagar Rd, Priyanka Nagar, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Priyanka Nagar, Srinivasa Nagar",
+    "latitude": 15.4845562,
+    "longitude": 78.4749109,
+    "place_id": "ChIJb_OTBqqytTsRi4-a02OpyXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_OTBqqytTsRi4-a02OpyXc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:10:50"
+  },
+  {
+    "business_name": "RedE Electrics",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Service establishment",
+    "pincode": "518186",
+    "phone_number": "N/A",
+    "website": "https://rede-electrics.com.au/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RedE Electrics, 518186, India",
+    "area": "518186",
+    "latitude": -37.9725665,
+    "longitude": 145.05313529999998,
+    "place_id": "ChIJzwKpmrpF1moRGRuoH7_JTfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwKpmrpF1moRGRuoH7_JTfA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:10:51"
+  }
+]

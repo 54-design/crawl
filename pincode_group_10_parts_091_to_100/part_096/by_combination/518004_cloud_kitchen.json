@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518004",
+    "phone_number": "+91 91002 92778",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 4,
+    "address": "R2HM+GX8, Narasimha reddy Nagar, River View Colony, Kurnool, Andhra Pradesh 518004",
+    "area": "Narasimha reddy Nagar, River View Colony",
+    "latitude": 15.8287859,
+    "longitude": 78.0349657,
+    "place_id": "ChIJg0qFadLntTsRJpNLf1Q2R1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0qFadLntTsRJpNLf1Q2R1g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:37:35"
+  },
+  {
+    "business_name": "Unlimited Multi Cuisine Restaurant Kurnool",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Eclectic restaurant",
+    "all_categories": "Eclectic restaurant",
+    "pincode": "518004",
+    "phone_number": "+91 80086 60772",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 73,
+    "address": "Near Outer Ring Road, Hyderabad - Bengaluru Hwy, Kurnool, Dinnedevarapadu, Andhra Pradesh 518002",
+    "area": "518004",
+    "latitude": 15.7658659,
+    "longitude": 78.0233564,
+    "place_id": "ChIJ91z6TM_dtTsR_-WSwB_9ips",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91z6TM_dtTsR_-WSwB_9ips",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:37:35"
+  }
+]

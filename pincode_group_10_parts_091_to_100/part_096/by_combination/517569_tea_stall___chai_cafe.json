@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517569",
+    "phone_number": "+91 96664 51566",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "Main road, Uppalapadu, Andhra Pradesh 534451",
+    "area": "517569",
+    "latitude": 17.024125899999998,
+    "longitude": 81.2353612,
+    "place_id": "ChIJEyjajSdfNjoRDgxDyzvpsTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyjajSdfNjoRDgxDyzvpsTs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:12"
+  },
+  {
+    "business_name": "MR CHAI PALLIPAT",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517569",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8CRM+JJ8, Pallipattu, Tamil Nadu 631207",
+    "area": "517569",
+    "latitude": 13.341614,
+    "longitude": 79.4340193,
+    "place_id": "ChIJ0TsItFZVTToRpmnjwj4NyBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TsItFZVTToRpmnjwj4NyBc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:15"
+  }
+]

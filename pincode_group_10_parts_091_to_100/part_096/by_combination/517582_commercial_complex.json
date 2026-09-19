@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veera koil mottur",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517582",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4/842 Kovil street Veera koil mottur, tk, thiruvalluvar D, Erumbai post, Pallipattu, pin, code 631302",
+    "area": "thiruvalluvar D, Erumbai post",
+    "latitude": 13.3248427,
+    "longitude": 79.42452779999999,
+    "place_id": "ChIJNwM4QABVTToRgFi8TgZKaHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwM4QABVTToRgFi8TgZKaHQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:05"
+  },
+  {
+    "business_name": "Cir Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517582",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "11-398, OTK Rd, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.21783,
+    "longitude": 79.09889,
+    "place_id": "ChIJv09yD6herTsRI1JgEcc55gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv09yD6herTsRI1JgEcc55gE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:06"
+  }
+]

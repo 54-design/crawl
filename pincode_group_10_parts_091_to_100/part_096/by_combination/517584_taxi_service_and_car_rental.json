@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peacock Droptaxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "517584",
+    "phone_number": "+91 99408 33976",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Panchayath Pin code, 3/105 Islam Nagar) Village) Natteri Kandigai.(post) Veeraga nallur, Thiruttani, Tamil Nadu 631209",
+    "area": "517584",
+    "latitude": 13.198412099999999,
+    "longitude": 79.55264729999999,
+    "place_id": "ChIJAQAAsHuvUjoR_rGlA0tQ5q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAsHuvUjoR_rGlA0tQ5q8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:00:34"
+  },
+  {
+    "business_name": "One way drop taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "517584",
+    "phone_number": "+91 90400 91009",
+    "website": "https://onewaydroptaxi.com/",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "No 562, SVM Nagar, P Block, Choolai, Chennai, Tamil Nadu 600012",
+    "area": "SVM Nagar, P Block, Choolai",
+    "latitude": 13.0982985,
+    "longitude": 80.2599577,
+    "place_id": "ChIJKVtGwR5lUjoRjP45gQ920cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVtGwR5lUjoRjP45gQ920cw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:00:34"
+  }
+]

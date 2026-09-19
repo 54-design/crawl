@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hundreds Heritage",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant",
+    "pincode": "517645",
+    "phone_number": "+91 96550 57100",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "10, 14th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "area": "Suthanthira Ponvizha Nagar, Gandhi Nagar",
+    "latitude": 12.950386,
+    "longitude": 79.13910299999999,
+    "place_id": "ChIJk76VwWNHrTsRVuPDE8Bm4ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk76VwWNHrTsRVuPDE8Bm4ww",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:20"
+  },
+  {
+    "business_name": "TOT - Talk of the Town",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fine dining restaurant",
+    "pincode": "517645",
+    "phone_number": "+91 79944 96663",
+    "website": "https://www.instagram.com/totkochi?igsh=MWhqcHlldTR1bWpvcQ==",
+    "rating": 4.7,
+    "reviews_count": 3072,
+    "address": "2863+G6V, Kannayath Rd, Mamangalam, Elamakkara, Kochi, Ernakulam, Keralam 682025",
+    "area": "Mamangalam, Elamakkara",
+    "latitude": 10.0113943,
+    "longitude": 76.3028642,
+    "place_id": "ChIJwVJJJQANCDsR5uWUCbhWgZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVJJJQANCDsR5uWUCbhWgZs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:21"
+  }
+]

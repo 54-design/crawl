@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adithya Vardhan General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518135",
+    "phone_number": "+91 94400 62145",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6C4X+PQ4, Dornipadu, Andhra Pradesh 518135",
+    "area": "518135",
+    "latitude": 15.2067722,
+    "longitude": 78.4494454,
+    "place_id": "ChIJ5aONEwBFtDsRA1oygNNggec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5aONEwBFtDsRA1oygNNggec",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:48"
+  },
+  {
+    "business_name": "K Madhavi Latha Kiranam and General Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "518135",
+    "phone_number": "+91 96428 67696",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 28,
+    "address": "LIG-2-123, Andhra Pradesh Housing Board Colony, B Camp, Kurnool, Andhra Pradesh 518002",
+    "area": "Andhra Pradesh Housing Board Colony, B Camp",
+    "latitude": 15.7966535,
+    "longitude": 78.03993349999999,
+    "place_id": "ChIJ0_OMw8bdtTsR84LTtd4acIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_OMw8bdtTsR84LTtd4acIQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:51"
+  }
+]

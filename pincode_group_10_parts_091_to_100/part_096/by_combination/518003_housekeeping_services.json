@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green India Pest Control",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "518003",
+    "phone_number": "N/A",
+    "website": "https://greenindiapestcontrol.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lakshmi Nagar, Maddur Nagar, Kurnool, Andhra Pradesh 518001",
+    "area": "Lakshmi Nagar, Maddur Nagar",
+    "latitude": 15.811658099999999,
+    "longitude": 78.0430552,
+    "place_id": "ChIJc6LnRkvdtTsRM8WhF_Rp5mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6LnRkvdtTsRM8WhF_Rp5mk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:36:58"
+  },
+  {
+    "business_name": "Happy go services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Carpenter, Electrician, Service establishment, Painter, Pest control service, Plumber",
+    "pincode": "518003",
+    "phone_number": "N/A",
+    "website": "https://www.happygo-services.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Happy go services, 518003, India",
+    "area": "518003",
+    "latitude": 15.5478147,
+    "longitude": 77.6236416,
+    "place_id": "ChIJwYQ41qeHSmARwZXM5NJaD94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYQ41qeHSmARwZXM5NJaD94",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:37:01"
+  }
+]

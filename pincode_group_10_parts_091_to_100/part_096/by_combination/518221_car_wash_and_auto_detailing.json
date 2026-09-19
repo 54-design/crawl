@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Decars",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Auto restoration service, Auto Accessories Store",
+    "pincode": "518221",
+    "phone_number": "+91 72889 14999",
+    "website": "https://indiandecars.in/",
+    "rating": 4.4,
+    "reviews_count": 277,
+    "address": "SMD Mall, 8-2-270, Banjara Hills Rd Number 3, beside Q Mart, opp. Lane To TV 9, Aurora Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Aurora Colony, Banjara Hills",
+    "latitude": 17.426474799999998,
+    "longitude": 78.43811079999999,
+    "place_id": "ChIJmy0KIdOQyzsRrDbWOgKZKNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmy0KIdOQyzsRrDbWOgKZKNQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:23:28"
+  },
+  {
+    "business_name": "DMR Vehicle water servicing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "518221",
+    "phone_number": "+91 96427 22566",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ANANTHPUR ROAD, near TPD OFFICE LEFT SIDE, Gooty, Andhra Pradesh 515401",
+    "area": "518221",
+    "latitude": 15.0999626,
+    "longitude": 77.63892419999999,
+    "place_id": "ChIJY25RLLyVtjsR9azKredk84U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY25RLLyVtjsR9azKredk84U",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:23:29"
+  }
+]

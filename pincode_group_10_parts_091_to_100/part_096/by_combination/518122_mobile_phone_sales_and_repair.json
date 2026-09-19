@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airtel Store",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider, Telecommunications service provider, Mobile network operator",
+    "pincode": "518122",
+    "phone_number": "+91 77998 67607",
+    "website": "https://www.airtel.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop NO. 3, RTC Bustand Complex, Nandikotkur, Mukkamalla, Andhra Pradesh 518504",
+    "area": "518122",
+    "latitude": 15.17,
+    "longitude": 78.25999999999999,
+    "place_id": "ChIJTeC58no_tDsRfDjNJwkV6U4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTeC58no_tDsRfDjNJwkV6U4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:53:00"
+  },
+  {
+    "business_name": "Ayyappa mobiles and service centre",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "518122",
+    "phone_number": "+91 83176 86662",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "near andhra bank, Perusomula, Andhra Pradesh 518166",
+    "area": "518122",
+    "latitude": 15.062898599999999,
+    "longitude": 78.2057461,
+    "place_id": "ChIJAZn0CqkVtDsRDO6X26i0p-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZn0CqkVtDsRDO6X26i0p-A",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:53:03"
+  }
+]

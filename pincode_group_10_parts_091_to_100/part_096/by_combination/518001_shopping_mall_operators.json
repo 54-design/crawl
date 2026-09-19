@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMB FASHIONS",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall, Shopping mall",
+    "pincode": "518001",
+    "phone_number": "N/A",
+    "website": "https://smbfashions.com/",
+    "rating": 4.1,
+    "reviews_count": 251,
+    "address": "Shop No : 19 Ground Floor, Skandha Business Park Abdullah Khan Estate, Gandhi Nagar, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.8307916,
+    "longitude": 78.0394053,
+    "place_id": "ChIJg1-NKlzntTsRLaHryKLt2zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1-NKlzntTsRLaHryKLt2zo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:33:29"
+  },
+  {
+    "business_name": "Discount Mart",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "518001",
+    "phone_number": "N/A",
+    "website": "https://discountmart-rayalaseema.web.app/",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "87/968-100-A-1, beside Madhulok restaurant & bar, FCI Colony, Kurnool, Kalluru, Andhra Pradesh 518003",
+    "area": "FCI Colony",
+    "latitude": 15.7902325,
+    "longitude": 78.05336779999999,
+    "place_id": "ChIJQzazx1vdtTsRY-tSnpNhSj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzazx1vdtTsRY-tSnpNhSj4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:33:29"
+  }
+]

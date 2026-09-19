@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homelify Industries",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Kitchen furniture store",
+    "all_categories": "Kitchen furniture store",
+    "pincode": "518005",
+    "phone_number": "+91 91773 21339",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop no 2, Auto Stand, near PumpHouse Road, Sita Rama Nagar, Kurnool, Andhra Pradesh 518003",
+    "area": "Sita Rama Nagar",
+    "latitude": 15.8305767,
+    "longitude": 78.03094879999999,
+    "place_id": "ChIJqwUrWG3ntTsRTSMK8NakaAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwUrWG3ntTsRTSMK8NakaAU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:08"
+  },
+  {
+    "business_name": "Aradhana furniture shop",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "518005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R2PG+GGM, V R Colony Rd Number 1, V R Colony, Teachers Colony, Kurnool, Andhra Pradesh 518003",
+    "area": "V R Colony, Teachers Colony",
+    "latitude": 15.8363306,
+    "longitude": 78.0262837,
+    "place_id": "ChIJN1avZQDntTsRHSqHeKeNnbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1avZQDntTsRHSqHeKeNnbU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:08"
+  }
+]

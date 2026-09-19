@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New car cares",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "517583",
+    "phone_number": "+91 98145 84229",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Saraswati Vihar, Hardev Nagar, Jalandhar, Punjab 144002",
+    "area": "Saraswati Vihar, Hardev Nagar",
+    "latitude": 31.3357198,
+    "longitude": 75.5560279,
+    "place_id": "ChIJaQpo5QhbGjkRN3FhLq3Pdmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQpo5QhbGjkRN3FhLq3Pdmo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:42"
+  },
+  {
+    "business_name": "Vijay Auto Care Car Repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Mechanic, Garage, Truck repair shop",
+    "pincode": "517583",
+    "phone_number": "+91 99261 13775",
+    "website": "https://workshops.totalenergies.in/locations/gaurella/Pendra-Road/totalenergies-quartz-auto-services-vijay-auto-care-in-Pendra-Road-gaurella--B32KEM/home",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Semra, Road, beside JC Transport, Tiraha, Pendra, Gaurella, Chhattisgarh 495117",
+    "area": "Tiraha",
+    "latitude": 22.7614503,
+    "longitude": 81.94360979999999,
+    "place_id": "ChIJG9q4w6vrhzkR-H_I7bVCW8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9q4w6vrhzkR-H_I7bVCW8M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:58:43"
+  }
+]

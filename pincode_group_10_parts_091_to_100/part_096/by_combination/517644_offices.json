@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AG&P Pratham",
+    "search_category": "Offices",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "517644",
+    "phone_number": "+91 1800 202 1999",
+    "website": "https://www.agppratham.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sno-23/2, Door no: 6-62/2, Plot 32, Taluka, Thottambedu, Srikalahasti, Andhra Pradesh 517640",
+    "area": "517644",
+    "latitude": 13.742944,
+    "longitude": 79.71645199999999,
+    "place_id": "ChIJQy-1tFc_TToRLA4hW4n3IEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy-1tFc_TToRLA4hW4n3IEU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:05"
+  },
+  {
+    "business_name": "TDP Office",
+    "search_category": "Offices",
+    "primary_category": "Political party office",
+    "all_categories": "Political party office",
+    "pincode": "517644",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Telugu Dhesam Party (TDP) Office, Srikalahasti, Andhra Pradesh 517644",
+    "area": "517644",
+    "latitude": 13.7535603,
+    "longitude": 79.70719989999999,
+    "place_id": "ChIJgdRs8lU_TToR38W6UkITK28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdRs8lU_TToR38W6UkITK28",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:06"
+  }
+]

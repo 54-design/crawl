@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SuperK - Sri Raghavendra Supermarket Kurnool",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "518006",
+    "phone_number": "+91 91210 75757",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "SY.NO 72/1, Plot No 5D,5E, 72/3, Balaji Nagar, Kurnool, Andhra Pradesh 518006",
+    "area": "Balaji Nagar",
+    "latitude": 15.8373791,
+    "longitude": 78.01726699999999,
+    "place_id": "ChIJ5xgMA6zhtTsRbVIl2Nop02M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xgMA6zhtTsRbVIl2Nop02M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:41:00"
+  },
+  {
+    "business_name": "Sreelatha kiranams",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518006",
+    "phone_number": "+91 92922 59823",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "91/4-31-10-1-c, Balaji Nagar, Kurnool, Andhra Pradesh 518006",
+    "area": "Balaji Nagar",
+    "latitude": 15.8397584,
+    "longitude": 78.0154944,
+    "place_id": "ChIJ-9ezlbPgtTsRAAAAMFHpsms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9ezlbPgtTsRAAAAMFHpsms",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:41:00"
+  }
+]

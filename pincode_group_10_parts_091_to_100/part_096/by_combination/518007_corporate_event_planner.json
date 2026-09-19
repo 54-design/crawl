@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhu sudhan reddy house",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "518007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "87-1314-2, Brundavan Nagar, Sree Rama Nagar, Kalluru, Andhra Pradesh 518002",
+    "area": "Brundavan Nagar, Sree Rama Nagar",
+    "latitude": 15.802162,
+    "longitude": 78.051537,
+    "place_id": "ChIJe8nOdgDdtTsRBFUXdV53JXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8nOdgDdtTsRBFUXdV53JXc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:43:56"
+  },
+  {
+    "business_name": "Sathya events and caters",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "518007",
+    "phone_number": "+91 94945 97975",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Q3H5+976, Banda Tandrapadu, Andhra Pradesh 518007",
+    "area": "518007",
+    "latitude": 15.778006,
+    "longitude": 78.058295,
+    "place_id": "ChIJ04FSRgDdtTsRDBaZT0k4zFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04FSRgDdtTsRDBaZT0k4zFc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:43:58"
+  }
+]

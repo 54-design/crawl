@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salmon Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "518301",
+    "phone_number": "N/A",
+    "website": "https://sew010.wixsite.com/sew1",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Under old bridge, opp. Post Office, Old Town, Adoni, Andhra Pradesh 518301",
+    "area": "Old Town",
+    "latitude": 15.621176499999999,
+    "longitude": 77.2716286,
+    "place_id": "ChIJKwf9dElNtjsR_tY2auGhk44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwf9dElNtjsR_tY2auGhk44",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:29:45"
+  },
+  {
+    "business_name": "Welding work shop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "518301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Harshi, Manikdoh, Maharashtra 445215",
+    "area": "518301",
+    "latitude": 19.838844899999998,
+    "longitude": 77.4941314,
+    "place_id": "ChIJM9lp7Iyh0TsRiTbCcCL4h4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9lp7Iyh0TsRiTbCcCL4h4c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:29:47"
+  }
+]

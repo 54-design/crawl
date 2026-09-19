@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KASIM KIRANA & GENERAL STORES",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Muzaffar Nagar, Aditya Nagar, Kalluru, Andhra Pradesh 518003",
+    "area": "Muzaffar Nagar, Aditya Nagar",
+    "latitude": 15.8012375,
+    "longitude": 78.0225916,
+    "place_id": "ChIJc_wDgeDdtTsRFnJYeqgEcYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_wDgeDdtTsRFnJYeqgEcYE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:04"
+  },
+  {
+    "business_name": "SUNKULAMMA KIRANA & COOL DRINKS",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pasupula, Andhra Pradesh 518452",
+    "area": "518218",
+    "latitude": 15.7760053,
+    "longitude": 78.0744074,
+    "place_id": "ChIJbas7jvzctTsRixZuOOpoIwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbas7jvzctTsRixZuOOpoIwY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:06"
+  }
+]

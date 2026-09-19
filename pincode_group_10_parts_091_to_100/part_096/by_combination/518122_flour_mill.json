@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YOHAN FLOUR MILL",
+    "search_category": "Flour Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "518122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "65X6+3F9, Gundla Singavaram, Andhra Pradesh 518122",
+    "area": "518122",
+    "latitude": 15.247658099999999,
+    "longitude": 78.16124769999999,
+    "place_id": "ChIJH2rYblk6tDsRU7h1CC8NFm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2rYblk6tDsRU7h1CC8NFm0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:51:46"
+  },
+  {
+    "business_name": "Sri Venkateswara flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "518122",
+    "phone_number": "+91 94417 65230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "63F7+CR4, near old police station, Owk, Kunukuntla, Andhra Pradesh 518122",
+    "area": "518122",
+    "latitude": 15.223516199999999,
+    "longitude": 78.0645708,
+    "place_id": "ChIJwQIieDY7tDsRSNRcpINbNtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQIieDY7tDsRSNRcpINbNtk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:51:46"
+  }
+]

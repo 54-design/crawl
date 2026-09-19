@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zircon Fashions",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Bangle Shop, Cosmetics store",
+    "pincode": "517588",
+    "phone_number": "+91 63856 28444",
+    "website": "https://www.zirconfashions.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st floor, No 1/45A, Poonamallee Bypass Rd, opp. city union bank, Melma Nagar, Poonamallee, Tamil Nadu 600056",
+    "area": "Melma Nagar, Poonamallee",
+    "latitude": 13.0504646,
+    "longitude": 80.0925595,
+    "place_id": "ChIJy4OrGZKLUjoRseQmKVVjCqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4OrGZKLUjoRseQmKVVjCqY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:05:27"
+  },
+  {
+    "business_name": "Vijaylakshmi Jewellery",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "517588",
+    "phone_number": "+91 99945 81101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 2/2, Plaza Complex, S.T.V.D, ROAD, Uthukkottai, Tamil Nadu 602026",
+    "area": "517588",
+    "latitude": 13.3340631,
+    "longitude": 79.89184089999999,
+    "place_id": "ChIJhyoOo2adUjoRJHpq3Z0UowQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyoOo2adUjoRJHpq3Z0UowQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:05:27"
+  }
+]

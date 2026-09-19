@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VINDU FAMILY RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "518112",
+    "phone_number": "+91 63031 16836",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "F552+4H3, Betamcherla, Andhra Pradesh 518599",
+    "area": "518112",
+    "latitude": 15.4576453,
+    "longitude": 78.15132059999999,
+    "place_id": "ChIJBQt9FgAztDsRfiKP8YC5r08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQt9FgAztDsRfiKP8YC5r08",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:06"
+  },
+  {
+    "business_name": "Gokul Hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "G6WJ+QHG, Thammarajupalli, Andhra Pradesh 518112",
+    "area": "518112",
+    "latitude": 15.5469397,
+    "longitude": 78.23145,
+    "place_id": "ChIJEaZ1VNvLtTsRDB0ejdCLCO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEaZ1VNvLtTsRDB0ejdCLCO0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:07"
+  }
+]

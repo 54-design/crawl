@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baccha Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517561",
+    "phone_number": "+91 86875 23366",
+    "website": "https://baccha-chaat-corner.vercel.app/",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "123, Purani Gali, Phaphamau, Uttar Pradesh 211013",
+    "area": "517561",
+    "latitude": 25.5247873,
+    "longitude": 81.8659469,
+    "place_id": "ChIJS1MbGRzLmjkR6ivoX-vyH24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1MbGRzLmjkR6ivoX-vyH24",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:49:19"
+  },
+  {
+    "business_name": "Nellore Vari Hotel Riyaz",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "517561",
+    "phone_number": "+91 77020 04499",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 82,
+    "address": "JCF9+2XP, Air Bypass Rd, near Kvr jewellers, opp. mastermind, bireagi, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Bairagi patteda",
+    "latitude": 13.6225843,
+    "longitude": 79.4199651,
+    "place_id": "ChIJuZ8aKuxLTToRrHXoCWvjO_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZ8aKuxLTToRrHXoCWvjO_E",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:49:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Munni Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Mehndi Designer",
+    "all_categories": "Mehndi Designer",
+    "pincode": "518122",
+    "phone_number": "+91 86889 89323",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Raghavendra Book store, State Bank Rd, Line, Banaganapalli, Andhra Pradesh 518124",
+    "area": "Line",
+    "latitude": 15.3183937,
+    "longitude": 78.22787989999999,
+    "place_id": "ChIJH4g9zxI3tDsRcKKyhC8YUDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4g9zxI3tDsRcKKyhC8YUDA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:52:38"
+  },
+  {
+    "business_name": "pranitha beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "518122",
+    "phone_number": "N/A",
+    "website": "https://beautybypranitha.wordpress.com/beauty-services-by-pranitha/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Owk, Andhra Pradesh 518122",
+    "area": "518122",
+    "latitude": 15.2100365,
+    "longitude": 78.1185077,
+    "place_id": "ChIJ_4_E1k47tDsROv5HgfrWQTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4_E1k47tDsROv5HgfrWQTo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:52:38"
+  }
+]

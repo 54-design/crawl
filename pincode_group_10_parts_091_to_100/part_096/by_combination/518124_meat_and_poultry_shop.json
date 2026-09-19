@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALLA CHICKEN MARKET",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken restaurant, Chicken shop, Store",
+    "pincode": "518124",
+    "phone_number": "+91 96527 76010",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Besides Library, Betamcherla, Andhra Pradesh 518599",
+    "area": "518124",
+    "latitude": 15.451242899999999,
+    "longitude": 78.1488928,
+    "place_id": "ChIJpz7TkdAytDsRsLaZD0SwsnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpz7TkdAytDsRsLaZD0SwsnI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:55:18"
+  },
+  {
+    "business_name": "Mahabob Chicken Center (Moqtyar)",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "518124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bus stop, route, Banaganapalli, Andhra Pradesh 518124",
+    "area": "518124",
+    "latitude": 15.3202444,
+    "longitude": 78.2248388,
+    "place_id": "ChIJMRoDBUs3tDsRyLK7VVWa0cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRoDBUs3tDsRyLK7VVWa0cU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:55:18"
+  }
+]

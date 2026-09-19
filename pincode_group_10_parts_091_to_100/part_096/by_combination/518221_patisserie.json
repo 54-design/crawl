@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bakery materials",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Service establishment",
+    "pincode": "518221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bakery materials, 518221, India",
+    "area": "518221",
+    "latitude": 15.779681,
+    "longitude": 78.55800789999999,
+    "place_id": "ChIJdR6SVYSBtjsR06s_-WEHn4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdR6SVYSBtjsR06s_-WEHn4w",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:58"
+  },
+  {
+    "business_name": "TEA STOP BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Patisserie",
+    "all_categories": "Patisserie",
+    "pincode": "518221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Gooty, Andhra Pradesh 515405",
+    "area": "518221",
+    "latitude": 15.0884322,
+    "longitude": 77.63564579999999,
+    "place_id": "ChIJ63ZGD-qVtjsRjE7BDEZDXfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63ZGD-qVtjsRjE7BDEZDXfM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:59"
+  }
+]

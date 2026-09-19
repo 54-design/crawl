@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaik kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518222",
+    "phone_number": "+91 95960 05082",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Mallempalli, Venkatapuram, Andhra Pradesh 518222",
+    "area": "Mallempalli",
+    "latitude": 15.4253734,
+    "longitude": 77.8144494,
+    "place_id": "ChIJF21q5aGHtjsRBnNhfk-NMYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF21q5aGHtjsRBnNhfk-NMYk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:24:37"
+  },
+  {
+    "business_name": "suresh kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518222",
+    "phone_number": "+91 96764 56569",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "9VQG+J32, chakirev mitta betham cherla road, Dhone, Andhra Pradesh 518222",
+    "area": "Dhone at Dronachalam",
+    "latitude": 15.3890108,
+    "longitude": 77.8751394,
+    "place_id": "ChIJG9vNZg-BtjsRk6xgjz-ASLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9vNZg-BtjsRk6xgjz-ASLk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:24:39"
+  }
+]

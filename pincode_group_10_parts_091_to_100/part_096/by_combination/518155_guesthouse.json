@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iskcon Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518155",
+    "phone_number": "+91 93477 87082",
+    "website": "https://iskconahobilam.org/contact-us/",
+    "rating": 4.7,
+    "reviews_count": 125,
+    "address": "4MPG+W3R, Ahobilam, Andhra Pradesh 518543",
+    "area": "518155",
+    "latitude": 15.1373714,
+    "longitude": 78.67513989999999,
+    "place_id": "ChIJDbVJJlL1tDsRDhTHERVF45s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbVJJlL1tDsRDhTHERVF45s",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:03:36"
+  },
+  {
+    "business_name": "Nayab Lodge Commonbeds",
+    "search_category": "Guesthouse",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "518155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37P3+FW6, Giddaluru, Andhra Pradesh 518166",
+    "area": "518155",
+    "latitude": 15.0861735,
+    "longitude": 78.2547627,
+    "place_id": "ChIJJSCCJQAVtDsRp5ZCtYvi4LI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSCCJQAVtDsRp5ZCtYvi4LI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:03:36"
+  }
+]

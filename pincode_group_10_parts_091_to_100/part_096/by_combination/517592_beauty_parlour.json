@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saloon for men",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "517592",
+    "phone_number": "+91 91827 38956",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karakantapuram, Nagari, Adavikothuru, Andhra Pradesh 517592",
+    "area": "Karakantapuram",
+    "latitude": 13.3216258,
+    "longitude": 79.5547244,
+    "place_id": "ChIJw_Xv4KqpUjoReTfGl3weKbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_Xv4KqpUjoReTfGl3weKbM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:57"
+  },
+  {
+    "business_name": "BLUSH BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "517592",
+    "phone_number": "+91 99859 06529",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3, Ekambarakuppam, Therani, Andhra Pradesh 517592",
+    "area": "Ekambarakuppam",
+    "latitude": 13.3187299,
+    "longitude": 79.5598124,
+    "place_id": "ChIJUxto3hepUjoRhVW53lhEQAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxto3hepUjoRhVW53lhEQAQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:59"
+  }
+]

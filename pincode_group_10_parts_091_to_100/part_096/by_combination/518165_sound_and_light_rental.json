@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Audio Bull",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "518165",
+    "phone_number": "+91 98800 11814",
+    "website": "https://audiobull.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9&10, Meenakshi Residency, 1st Cross, CV Raman Road, Chudenapura Kodipalya, Kengeri, Bengaluru, Karnataka 560060",
+    "area": "Kengeri",
+    "latitude": 12.899474099999999,
+    "longitude": 77.48486539999999,
+    "place_id": "ChIJIVTBG40_rjsRTtKrwBa-jo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVTBG40_rjsRTtKrwBa-jo0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:05:26"
+  },
+  {
+    "business_name": "Gokraft Events",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "518165",
+    "phone_number": "+91 99479 20626",
+    "website": "http://gokraft.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd floor, Vadakumthala colonnade, near P S mission Hospital, Kundannoor, Maradu, Ernakulam, Keralam 682304",
+    "area": "Kundannoor, Maradu",
+    "latitude": 9.9376794,
+    "longitude": 76.3217639,
+    "place_id": "ChIJP--Ujw_i_2gRjexMJ_TXhAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP--Ujw_i_2gRjexMJ_TXhAk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:05:26"
+  }
+]

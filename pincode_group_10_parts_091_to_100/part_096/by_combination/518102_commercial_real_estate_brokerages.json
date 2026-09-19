@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andrea Bourque, Real Estate Agent",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "518102",
+    "phone_number": "N/A",
+    "website": "https://andrea-bourque.frontrangecollectiveco.com/",
+    "rating": 5,
+    "reviews_count": 41,
+    "address": "Andrea Bourque, Real Estate Agent, 518102, India",
+    "area": "518102",
+    "latitude": 39.52193,
+    "longitude": -104.9441121,
+    "place_id": "ChIJHR99A6N5bIcRHeuzTgNHWm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHR99A6N5bIcRHeuzTgNHWm0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:49:39"
+  },
+  {
+    "business_name": "S S Reality",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "518102",
+    "phone_number": "+91 96300 49666",
+    "website": "http://ssrealtyindore.in/",
+    "rating": 4.8,
+    "reviews_count": 66,
+    "address": "03 & 04, Akar Plaza, B-62, near Aaradhya Dham Temple, Silicon City, Rau, Indore, Madhya Pradesh 452012",
+    "area": "Silicon City",
+    "latitude": 22.6449116,
+    "longitude": 75.8334635,
+    "place_id": "ChIJM3bTDlX7YjkRTnY44nI1c2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3bTDlX7YjkRTnY44nI1c2Q",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:49:40"
+  }
+]

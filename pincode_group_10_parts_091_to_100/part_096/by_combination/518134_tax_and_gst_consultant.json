@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VS Associates",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "518134",
+    "phone_number": "+91 89049 18898",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Nandyal Road, opp. Court complex, Allagadda, Andhra Pradesh 518543",
+    "area": "518134",
+    "latitude": 15.1387485,
+    "longitude": 78.50254699999999,
+    "place_id": "ChIJablYQIpdtDsRw_5VNXt0Xw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJablYQIpdtDsRw_5VNXt0Xw8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:23"
+  },
+  {
+    "business_name": "Taxation Consultancy",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "518134",
+    "phone_number": "N/A",
+    "website": "https://taxationconsultancy.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taxation Consultancy, 518134, India",
+    "area": "518134",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJV-gJVbPuZisRC0B8hgMbI88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-gJVbPuZisRC0B8hgMbI88",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:23"
+  }
+]

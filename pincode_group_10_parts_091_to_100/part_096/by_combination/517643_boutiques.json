@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naidu Chicken shop",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "517643",
+    "phone_number": "+91 86888 62484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JP6M+6XC, Ragigunta, Andhra Pradesh 517643",
+    "area": "517643",
+    "latitude": 13.610567399999999,
+    "longitude": 79.734886,
+    "place_id": "ChIJ_6Y0KwBBTToRIQTfx5feCD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6Y0KwBBTToRIQTfx5feCD4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:24:55"
+  },
+  {
+    "business_name": "SRI VINAYAKA SHOP",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "517643",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 482, Timmasamudram, Andhra Pradesh 517643",
+    "area": "517643",
+    "latitude": 13.6403544,
+    "longitude": 79.732473,
+    "place_id": "ChIJgfmxKwBBTToRqsfw99tAe4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfmxKwBBTToRqsfw99tAe4U",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:24:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jinna Tea Stall",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "518102",
+    "phone_number": "+91 63002 06128",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Coperate Store Center, Jinna Hotel, near Ambedkar Center, Sundipenta, Srisailam Project, Kurnool, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0768996,
+    "longitude": 78.9110371,
+    "place_id": "ChIJzZ3_o4RltTsRi8oBKQhvBi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZ3_o4RltTsRi8oBKQhvBi4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:22"
+  },
+  {
+    "business_name": "Srisaila Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "518102",
+    "phone_number": "+91 94913 02947",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "3W95+XH8, Sundipenta, Srisailam Project, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0699224,
+    "longitude": 78.9089405,
+    "place_id": "ChIJo9wVde1ltTsRXJhDh6ysOng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9wVde1ltTsRXJhDh6ysOng",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:24"
+  }
+]

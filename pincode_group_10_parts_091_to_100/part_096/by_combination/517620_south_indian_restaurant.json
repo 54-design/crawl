@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri padma shanmukha Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "517620",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near to keshava reddy school, kukkaladoddi, Kadapa, Balupalle, Andhra Pradesh 516101",
+    "area": "kukkaladoddi",
+    "latitude": 13.7822874,
+    "longitude": 79.4205037,
+    "place_id": "ChIJP912VWszTToRVmXFVmf2XLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP912VWszTToRVmXFVmf2XLo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:17:30"
+  },
+  {
+    "business_name": "Sri Annapurna hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517620",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 30,
+    "address": "PFV7+J3J, Mamanduru, Andhra Pradesh 517520",
+    "area": "517620",
+    "latitude": 13.743774499999999,
+    "longitude": 79.4626693,
+    "place_id": "ChIJfeykYAA1TToRunKwQTk2Qhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeykYAA1TToRunKwQTk2Qhc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:17:30"
+  }
+]

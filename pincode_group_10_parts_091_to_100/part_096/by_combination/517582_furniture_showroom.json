@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maha home appliances",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "517582",
+    "phone_number": "+91 96005 82020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1011A, Barathi Nagar, Kodivalasa, Tamil Nadu 631202",
+    "area": "Barathi Nagar",
+    "latitude": 13.251543199999999,
+    "longitude": 79.4356135,
+    "place_id": "ChIJfWZkNxurUjoR2fHM70qT7sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWZkNxurUjoR2fHM70qT7sk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:57:16"
+  },
+  {
+    "business_name": "Kalyani home Appliances",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "517582",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Saptagiri Town Branch Building, near bustand, Puttur, Andhra Pradesh 517583",
+    "area": "517582",
+    "latitude": 13.4363453,
+    "longitude": 79.5531783,
+    "place_id": "ChIJYfhqVCtRTToReZOiBMTXNGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfhqVCtRTToReZOiBMTXNGE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:57:16"
+  }
+]

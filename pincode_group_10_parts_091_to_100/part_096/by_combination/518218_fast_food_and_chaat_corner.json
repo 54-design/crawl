@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eden Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "518218",
+    "phone_number": "+91 99209 52940",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 24,
+    "address": "Eden II, Central Ave, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+    "area": "Hiranandani Gardens, Powai",
+    "latitude": 19.1154348,
+    "longitude": 72.9074444,
+    "place_id": "ChIJVVXFhubH5zsR66k36BVhIfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXFhubH5zsR66k36BVhIfM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:17"
+  },
+  {
+    "business_name": "Chat Pata Chat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Sandwich shop",
+    "pincode": "518218",
+    "phone_number": "+91 95437 90041",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "55, NMZ Chambers, Ormes Rd, Sylvan Lodge Colony, Kilpauk, Chennai, Tamil Nadu 600010",
+    "area": "Sylvan Lodge Colony, Kilpauk",
+    "latitude": 13.0817304,
+    "longitude": 80.24744009999999,
+    "place_id": "ChIJieaymNhlUjoRvb-RmqlH1do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJieaymNhlUjoRvb-RmqlH1do",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:19"
+  }
+]

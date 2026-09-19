@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikky poultry farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "517586",
+    "phone_number": "N/A",
+    "website": "http://www.vikkypoultryfarms.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "8MMR+6G6, post, Vijayapuram, Alapakam, Buchivanatham, Andhra Pradesh 517591",
+    "area": "Vijayapuram",
+    "latitude": 13.3329601,
+    "longitude": 79.6909031,
+    "place_id": "ChIJQ0ODWwBfTToRRyjeEwTpLg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0ODWwBfTToRRyjeEwTpLg0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:01:40"
+  },
+  {
+    "business_name": "Vikky poultry farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "517586",
+    "phone_number": "+91 95145 59514",
+    "website": "http://www.vikkypoultryfarms.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagari Rd, Lakkarajumitta village, Vijayapuram, Pannur, Buchivanatham, Andhra Pradesh 517591",
+    "area": "Lakkarajumitta village, Vijayapuram",
+    "latitude": 13.3130045,
+    "longitude": 79.6803322,
+    "place_id": "ChIJ_6ghGrKhUjoRSxpI1CbuUYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6ghGrKhUjoRSxpI1CbuUYo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:01:40"
+  }
+]

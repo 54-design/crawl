@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "raghavendra book store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "518124",
+    "phone_number": "+91 94411 92750",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Unnamed Road, Banaganapalli, Andhra Pradesh 518124",
+    "area": "518124",
+    "latitude": 15.316782499999999,
+    "longitude": 78.2284899,
+    "place_id": "ChIJSwgj2hk3tDsRmjWqbgRU72Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwgj2hk3tDsRmjWqbgRU72Y",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:56:29"
+  },
+  {
+    "business_name": "Siva kailash book and fancy",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "518124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Old, Bus Stand Road, Betamcherla, Andhra Pradesh 518599",
+    "area": "518124",
+    "latitude": 15.452407,
+    "longitude": 78.1484691,
+    "place_id": "ChIJT2vMVQAztDsRS0MC_nmQrwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2vMVQAztDsRS0MC_nmQrwA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:56:30"
+  }
+]

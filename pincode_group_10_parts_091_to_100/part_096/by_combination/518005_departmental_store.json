@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Praveen Cool Drink",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518005",
+    "phone_number": "+91 99661 94059",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Venkata Ramana Colony Main Rd, near Railway Station Road, Narasimha Reddy Nagar, Ashok Nagar, Kurnool, Andhra Pradesh 518004",
+    "area": "Narasimha Reddy Nagar, Ashok Nagar",
+    "latitude": 15.8321803,
+    "longitude": 78.03230669999999,
+    "place_id": "ChIJcYyJDvnntTsR2InJup5ZRu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYyJDvnntTsR2InJup5ZRu0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:39:15"
+  },
+  {
+    "business_name": "Vmr Cool Drinks And General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518005",
+    "phone_number": "+91 94929 42507",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Skandhanshi Lotus, 1, Ulchala - Kurnool Rd, Kurnool, L. Peta, Andhra Pradesh 518003",
+    "area": "518005",
+    "latitude": 15.823482199999999,
+    "longitude": 77.9973182,
+    "place_id": "ChIJjzGtc4PhtTsRxGu33LrCouk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzGtc4PhtTsRxGu33LrCouk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:39:17"
+  }
+]

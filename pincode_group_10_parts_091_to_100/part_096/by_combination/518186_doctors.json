@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor at Door",
+    "search_category": "Doctors",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Service establishment",
+    "pincode": "518186",
+    "phone_number": "+91 89896 24040",
+    "website": "https://doctoratdoor.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Doctor at Door, 518186, India",
+    "area": "518186",
+    "latitude": 19.8080726,
+    "longitude": 76.4544904,
+    "place_id": "ChIJ90RmhBmVDksRBI4hl7kW51o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90RmhBmVDksRBI4hl7kW51o",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:10:25"
+  },
+  {
+    "business_name": "CARE Hospitals Nampally",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518186",
+    "phone_number": "+91 40 6810 6589",
+    "website": "https://www.carehospitals.com/hospitals/nampally/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Exhibition Grounds, Road, Nampally, Hyderabad, Telangana 500001",
+    "area": "Chandra Vihar, Old Kattal Mandi, Nampally",
+    "latitude": 17.3856958,
+    "longitude": 78.474113,
+    "place_id": "ChIJR9O6EX6XyzsRIQ6d13hy6eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9O6EX6XyzsRIQ6d13hy6eU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:10:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "518001",
+    "phone_number": "+91 98494 36136",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gadiyaram Hospital, Khalla Street, 66/40, Old Post Office Rd, Marwari Street, Kurnool, Andhra Pradesh 518001",
+    "area": "Marwari Street",
+    "latitude": 15.8309673,
+    "longitude": 78.05257,
+    "place_id": "ChIJc0AUxsDntTsR_Wwgulnt2jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0AUxsDntTsR_Wwgulnt2jo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:33:31"
+  },
+  {
+    "business_name": "S M TRADERS",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "518001",
+    "phone_number": "+91 88012 41499",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Market yard, Indragandhi Nagar St Rd, opposite New Bus Stand Road, Sita Rama Nagar, Kurnool, Andhra Pradesh 518003",
+    "area": "Sita Rama Nagar",
+    "latitude": 15.8290013,
+    "longitude": 78.0285358,
+    "place_id": "ChIJK4IAHoTntTsR8mzj-6MNdco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4IAHoTntTsR8mzj-6MNdco",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:33:32"
+  }
+]

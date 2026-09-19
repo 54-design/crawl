@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OrderZ",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, E-commerce service",
+    "pincode": "517588",
+    "phone_number": "+91 96009 72225",
+    "website": "https://www.orderz.in/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "No 61,S3 2nd Floor, Arcot Rd, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "area": "United India Colony, Kodambakkam",
+    "latitude": 13.053361899999999,
+    "longitude": 80.22550489999999,
+    "place_id": "ChIJpV_2T6ZnUjoRSQv_mqqWFC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpV_2T6ZnUjoRSQv_mqqWFC8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:06:25"
+  },
+  {
+    "business_name": "CODEPLAYERS Business System Private Limited",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "517588",
+    "phone_number": "+91 75818 75000",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CODEPLAYERS Business System Private Limited, 517588, India",
+    "area": "517588",
+    "latitude": 21.2619056,
+    "longitude": 81.6190733,
+    "place_id": "ChIJ69HX19N6OA8RucD-TURZFaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69HX19N6OA8RucD-TURZFaU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:06:25"
+  }
+]

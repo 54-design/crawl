@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "I3 Architects",
+    "search_category": "Architects",
+    "primary_category": "Architects association",
+    "all_categories": "Architects association",
+    "pincode": "517571",
+    "phone_number": "+91 89257 07064",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GG street, Puttur, Karvetinagar, Andhra Pradesh 517582",
+    "area": "517571",
+    "latitude": 13.4221615,
+    "longitude": 79.4509406,
+    "place_id": "ChIJd5Vmf9pTTToRho8z9h2AfXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5Vmf9pTTToRho8z9h2AfXI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:53:40"
+  },
+  {
+    "business_name": "Kriya Architects Interior Designers",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "517571",
+    "phone_number": "+91 80150 12672",
+    "website": "https://kriyaarchitects.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "412-E, NT Complex, Vembakottai Rd, near SBI Town branch, Sivakasi, Tamil Nadu 626123",
+    "area": "Kaliappa Nagar",
+    "latitude": 9.4465988,
+    "longitude": 77.7933327,
+    "place_id": "ChIJcxhbi-POBjsRkszPrZdEsXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxhbi-POBjsRkszPrZdEsXA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:53:41"
+  }
+]

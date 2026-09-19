@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Event Concierge",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "517569",
+    "phone_number": "07874 439699",
+    "website": "https://www.myeventconcierge.co.uk/",
+    "rating": 5,
+    "reviews_count": 77,
+    "address": "My Event Concierge, 517569, India",
+    "area": "517569",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJhVBFg7CNcUgRECjVeD8ZMa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVBFg7CNcUgRECjVeD8ZMa4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:52:08"
+  },
+  {
+    "business_name": "everyevent",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "517569",
+    "phone_number": "N/A",
+    "website": "https://www.everyevent.uk/",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "everyevent, 517569, India",
+    "area": "517569",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJJy-UqrlDXYgR7r3WLevWnyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy-UqrlDXYgR7r3WLevWnyg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:52:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Electronics Accessories Wholesaler",
+    "all_categories": "Electronics Accessories Wholesaler",
+    "pincode": "518196",
+    "phone_number": "+91 97398 08188",
+    "website": "https://mobile-shop-16.ueniweb.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "17th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 4, HSR Layout",
+    "latitude": 12.9122045,
+    "longitude": 77.6420251,
+    "place_id": "ChIJn-Edj_cVrjsR63N_Wo6nM90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-Edj_cVrjsR63N_Wo6nM90",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:13:06"
+  },
+  {
+    "business_name": "Colors Mobiles",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store, Mobile phone repair shop",
+    "pincode": "518196",
+    "phone_number": "+91 70192 68836",
+    "website": "https://colorsmobiles.in/",
+    "rating": 4.9,
+    "reviews_count": 7702,
+    "address": "346, 12TH MAIN ROAD, Dr Rajkumar Rd, 6th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "6th Block, Rajajinagar",
+    "latitude": 12.978339199999999,
+    "longitude": 77.5531812,
+    "place_id": "ChIJDSwzmJ49rjsR6ra3qXAb_M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSwzmJ49rjsR6ra3qXAb_M4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:13:07"
+  }
+]

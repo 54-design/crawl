@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APSRTC Online Booking",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "518101",
+    "phone_number": "+91 73828 72605",
+    "website": "http://www.apsrtconline.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "3VCC+G9V, Srisailam, Andhra Pradesh 518101",
+    "area": "518101",
+    "latitude": 16.0713673,
+    "longitude": 78.8709354,
+    "place_id": "ChIJc90TE25ltTsR0OVkoo5xEDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc90TE25ltTsR0OVkoo5xEDE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:02"
+  },
+  {
+    "business_name": "APSRTC BUS STAND , Sundipenta",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "518101",
+    "phone_number": "+91 99890 03774",
+    "website": "http://www.apsrtconline.in/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "3WF6+GHQ, Sundipenta, Srisailam Project, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0738427,
+    "longitude": 78.91147409999999,
+    "place_id": "ChIJUTSZBOxltTsRoL3XmpU9gQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTSZBOxltTsRoL3XmpU9gQE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:02"
+  }
+]

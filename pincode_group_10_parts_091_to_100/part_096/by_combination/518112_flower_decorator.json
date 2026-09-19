@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rangaswamy Nursery",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesale plant nursery",
+    "all_categories": "Wholesale plant nursery",
+    "pincode": "518112",
+    "phone_number": "+91 98495 64957",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 55,
+    "address": "Panyam, Andhra Pradesh 518112",
+    "area": "518112",
+    "latitude": 15.5099605,
+    "longitude": 78.3459304,
+    "place_id": "ChIJT1VVLvK0tTsRzFrUbiiagZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1VVLvK0tTsRzFrUbiiagZo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:58"
+  },
+  {
+    "business_name": "JTS Flower Stall",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "518112",
+    "phone_number": "+91 94494 49788",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Flower St, Cowl Bazaar, Ballari, Karnataka 583101",
+    "area": "Cowl Bazaar",
+    "latitude": 15.1379098,
+    "longitude": 76.92633409999999,
+    "place_id": "ChIJvTssrF0RtzsRUwBj_le1QAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTssrF0RtzsRUwBj_le1QAg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:51:01"
+  }
+]

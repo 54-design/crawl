@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalyan Cool Drinks",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517620",
+    "phone_number": "+91 98494 96244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalyan Cool Drinks, Koduru, Andhra Pradesh 516101",
+    "area": "517620",
+    "latitude": 13.9422667,
+    "longitude": 79.3582787,
+    "place_id": "ChIJneBa3rrTsjsRCfLS9of0aw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneBa3rrTsjsRCfLS9of0aw4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:18:52"
+  },
+  {
+    "business_name": "Jothi cool drink",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "517620",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VHJP+MM5, Vampalli, Andhra Pradesh 517620",
+    "area": "517620",
+    "latitude": 13.8816359,
+    "longitude": 79.58672899999999,
+    "place_id": "ChIJfUUwBgAlTToRsHzsHIrFzk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUUwBgAlTToRsHzsHIrFzk8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:18:52"
+  }
+]

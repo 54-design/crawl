@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOBUS travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "517541",
+    "phone_number": "+91 94931 51511",
+    "website": "https://www.gobustravels.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Savutripeta, Savitrupet, Tadepalligudem, Andhra Pradesh 534102",
+    "area": "Savutripeta, Savitrupet",
+    "latitude": 16.8065802,
+    "longitude": 81.53364479999999,
+    "place_id": "ChIJecRreoy1NzoRdYkVNtoS_j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecRreoy1NzoRdYkVNtoS_j4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:46:08"
+  },
+  {
+    "business_name": "Tours And Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "517541",
+    "phone_number": "N/A",
+    "website": "https://galaxytoursandtravels.weebly.com/",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Dno:-5-165 Downstreet Kallur Pulichela (mD, Chittoor, Andhra Pradesh 517172",
+    "area": "Pulicheria",
+    "latitude": 13.600135,
+    "longitude": 79.0362198,
+    "place_id": "ChIJGx3fgdy_sjsRfEJxHTFB_cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGx3fgdy_sjsRfEJxHTFB_cQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:46:10"
+  }
+]

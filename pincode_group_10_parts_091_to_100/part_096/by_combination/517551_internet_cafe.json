@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAREENA NET CAFE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517551",
+    "phone_number": "+91 81210 20524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr No 3/393, Inakuduru, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Jalal Pet",
+    "latitude": 16.1719138,
+    "longitude": 81.1241707,
+    "place_id": "ChIJU0rMnZDnSToRYkfP_nRjsVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0rMnZDnSToRYkfP_nRjsVg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:48:36"
+  },
+  {
+    "business_name": "Guna Networks",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517551",
+    "phone_number": "+91 94944 04039",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "Main Rd, Penumuru, Penumur, Andhra Pradesh 517126",
+    "area": "Penumuru",
+    "latitude": 13.367137999999999,
+    "longitude": 79.19656839999999,
+    "place_id": "ChIJmTmb-iimsjsRHIjvyLsBdZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTmb-iimsjsRHIjvyLsBdZU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:48:37"
+  }
+]

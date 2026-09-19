@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "517582",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "131, Othavadai St, Sorakayapet, Kolathur, Tamil Nadu 631208",
+    "area": "517582",
+    "latitude": 13.3136613,
+    "longitude": 79.4794683,
+    "place_id": "ChIJtfKYOQ6pUjoRG06fEjTTEfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfKYOQ6pUjoRG06fEjTTEfo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:56:55"
+  },
+  {
+    "business_name": "ARHATIC PRANYOGA auditorium",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "517582",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GC35+5XP, Kattakinda Venkatapuram, Rayal Cheruvu, Andhra Pradesh 517561",
+    "area": "517582",
+    "latitude": 13.5030582,
+    "longitude": 79.40871159999999,
+    "place_id": "ChIJRaJMfjRTTToRbU9JzrteFLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRaJMfjRTTToRbU9JzrteFLU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:56:55"
+  }
+]

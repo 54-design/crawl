@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Birla Housing Finance Ltd",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial institution",
+    "pincode": "518101",
+    "phone_number": "+91 80808 09380",
+    "website": "https://homefinance.adityabirlacapital.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 1/7/1423, 1st Floor, SVA Plaza, near HP Petrol Bunk, Balasamudram, Hanamkonda, Warangal, Telangana 506001",
+    "area": "Balasamudram",
+    "latitude": 17.9981865,
+    "longitude": 79.5590015,
+    "place_id": "ChIJe42nJ0ZPMzoRBRuugviKDZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe42nJ0ZPMzoRBRuugviKDZY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:43"
+  },
+  {
+    "business_name": "United Financial Solution",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial consultant",
+    "pincode": "518101",
+    "phone_number": "+91 74509 42240",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 224,
+    "address": "Bandhan Bank, 97, near Lake Garden, Jodhpur Gardens, Jodhpur Park, Kolkata, West Bengal 700045",
+    "area": "Jodhpur Gardens, Jodhpur Park",
+    "latitude": 22.503408999999998,
+    "longitude": 88.3593351,
+    "place_id": "ChIJY5_IQS5xAjoR1tWZegfmzYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5_IQS5xAjoR1tWZegfmzYU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:45"
+  }
+]

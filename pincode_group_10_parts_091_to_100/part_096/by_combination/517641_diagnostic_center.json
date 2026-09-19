@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshara Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "517641",
+    "phone_number": "+91 78420 70220",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Raji Reddy Colony, Christian Colony, Hastinapuram, Hyderabad, Telangana 500070",
+    "area": "Raji Reddy Colony, Christian Colony, Hastinapuram",
+    "latitude": 17.3293219,
+    "longitude": 78.5547818,
+    "place_id": "ChIJNdMslomhyzsRSd3ff_nyOUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdMslomhyzsRSd3ff_nyOUc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:26"
+  },
+  {
+    "business_name": "Sree Srinivasa Medical & fancy",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "517641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PVR filling station, vmc circle, madras road, Srikalahasti, Appalayagunta, Andhra Pradesh 517644",
+    "area": "517641",
+    "latitude": 13.7392101,
+    "longitude": 79.7119419,
+    "place_id": "ChIJ7_Sl4nA_TToR2doyspZqODY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_Sl4nA_TToR2doyspZqODY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:27"
+  }
+]

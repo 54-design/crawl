@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omja Oils and Agro",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Food products supplier",
+    "pincode": "518006",
+    "phone_number": "+91 72101 10101",
+    "website": "http://omjaindia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "E 522, Sector 7, Palam Extension, Sector 7 Dwarka, Dwarka, New Delhi, Delhi, 110075",
+    "area": "Sector 7, Palam Extension, Sector 7 Dwarka, Dwarka",
+    "latitude": 28.5849807,
+    "longitude": 77.07257969999999,
+    "place_id": "ChIJVVVVlT0bDTkRuoLMEeIEO2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlT0bDTkRuoLMEeIEO2Y",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:41:02"
+  },
+  {
+    "business_name": "Pratham Grocery",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Store, Wholesaler",
+    "pincode": "518006",
+    "phone_number": "+91 88004 45477",
+    "website": "https://orgoils.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "F-99, Jagdish Nagar, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Jagdish Nagar, Patel Nagar 3, Patel Nagar",
+    "latitude": 28.6708398,
+    "longitude": 77.4254667,
+    "place_id": "ChIJn2AezDjxDDkRqYd_Cx3BIi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2AezDjxDDkRqYd_Cx3BIi8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:41:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vani's Nephro Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Nephrologist",
+    "pincode": "518220",
+    "phone_number": "+91 85182 25166",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "R2PR+9J7, Municipal Office Rd, N R Peta, Kurnool, Andhra Pradesh 518004",
+    "area": "N R Peta",
+    "latitude": 15.835920499999999,
+    "longitude": 78.0415434,
+    "place_id": "ChIJjSkaRV3ntTsR4PUGzL8CioE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSkaRV3ntTsR4PUGzL8CioE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:21:34"
+  },
+  {
+    "business_name": "CARDIOLOGY and NEPHROLOGY",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "518220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R29Q+VX7, Kurnool, Andhra Pradesh 518002",
+    "area": "518220",
+    "latitude": 15.8196284,
+    "longitude": 78.0398335,
+    "place_id": "ChIJQyf8iAPdtTsRpfcmAbxsBmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyf8iAPdtTsRpfcmAbxsBmE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:21:34"
+  }
+]

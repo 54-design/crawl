@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KKC Homoeopathic Medical College & Hospital",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517581",
+    "phone_number": "+91 77997 23321",
+    "website": "https://kkchmch.org/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "KKC NAGAR , Parameswara Mangalam, Dist, Puttur, Andhra Pradesh 517583",
+    "area": "517581",
+    "latitude": 13.40031,
+    "longitude": 79.5616837,
+    "place_id": "ChIJ5dC1Hd9ZTToRSFuZd7qss7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dC1Hd9ZTToRSFuZd7qss7c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:55:00"
+  },
+  {
+    "business_name": "Mahesh homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Hospital",
+    "pincode": "517581",
+    "phone_number": "+91 80199 02902",
+    "website": "https://maheshhomeopathychirala.com/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "H-13/11/10, Paparajuthota, Chirala, Andhra Pradesh 523155",
+    "area": "Paparajuthota",
+    "latitude": 15.8286249,
+    "longitude": 80.3557799,
+    "place_id": "ChIJu9ymJ5ZFSjoRNmaBzlXP2B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9ymJ5ZFSjoRNmaBzlXP2B0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:55:01"
+  }
+]

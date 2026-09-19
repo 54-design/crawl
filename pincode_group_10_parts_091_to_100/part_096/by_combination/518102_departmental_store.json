@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagella Suresh",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518102",
+    "phone_number": "+91 94938 36197",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bandla Bazar Bandla Bazar Labour Colony Sunnipenta Srisaialm Project Nadhayal Dt, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0801525,
+    "longitude": 78.9154125,
+    "place_id": "ChIJF2tS8eVltTsR7EY2VRNshw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2tS8eVltTsR7EY2VRNshw0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:09"
+  },
+  {
+    "business_name": "Shree Balaji Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "518102",
+    "phone_number": "+91 95491 93888",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Near, 51 Ashok Vatika Bhadrawas, Ajmer Rd, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Manyawas, Mohru Nagar, Mansarovar",
+    "latitude": 26.878449699999997,
+    "longitude": 75.7401947,
+    "place_id": "ChIJW-061Km1bTkRX4t-8nAV1cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-061Km1bTkRX4t-8nAV1cI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:48:11"
+  }
+]

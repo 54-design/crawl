@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagya Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "518124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. S mart, Banaganapalli, Andhra Pradesh 518124",
+    "area": "518124",
+    "latitude": 15.3295059,
+    "longitude": 78.223106,
+    "place_id": "ChIJ3T9HUkE3tDsRhEv39OW1UfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T9HUkE3tDsRhEv39OW1UfM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:55:37"
+  },
+  {
+    "business_name": "Naveen Sarees & Readymades Yallur",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "518124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivalayam St, Yalluru, Andhra Pradesh 518573",
+    "area": "518124",
+    "latitude": 15.3065456,
+    "longitude": 78.4561689,
+    "place_id": "ChIJlRC6vGZPtDsRr6Qc6zusGZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRC6vGZPtDsRr6Qc6zusGZ8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:55:37"
+  }
+]

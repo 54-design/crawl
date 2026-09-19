@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amman store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517592",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Satravada, Adavikothuru, Andhra Pradesh 517592",
+    "area": "Satravada",
+    "latitude": 13.318706299999999,
+    "longitude": 79.5497613,
+    "place_id": "ChIJa-ZBXACpUjoRbHFkL5mNmQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-ZBXACpUjoRbHFkL5mNmQE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:05"
+  },
+  {
+    "business_name": "Moorthy General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517592",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "T.T.Kandigai,Pallipet Taluk, Thiruvallur Dist-631208, Gollalakuppam, Tamil Nadu 631208",
+    "area": "517592",
+    "latitude": 13.294283799999999,
+    "longitude": 79.5293446,
+    "place_id": "ChIJzajrw4apUjoRr3cnmqRXvIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzajrw4apUjoRr3cnmqRXvIE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:05"
+  }
+]

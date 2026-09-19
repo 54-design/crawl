@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Suppliers",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "518134",
+    "phone_number": "+91 99668 88227",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "12-248, Veldurthi Main Rd, Veldurthi, Andhra Pradesh 518216",
+    "area": "518134",
+    "latitude": 15.5560177,
+    "longitude": 77.9300332,
+    "place_id": "ChIJGzLlDh3WtTsR5zr5lCVWxNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzLlDh3WtTsR5zr5lCVWxNc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:04"
+  },
+  {
+    "business_name": "Satya Shamiyana Suppliers",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "518134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Andhra Prabha Colony, PNT Colony, Vijayawada, Andhra Pradesh 520015",
+    "area": "Andhra Prabha Colony, PNT Colony",
+    "latitude": 16.5472824,
+    "longitude": 80.63920449999999,
+    "place_id": "ChIJQ4O-sGTlNToRKxesaWjogC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4O-sGTlNToRKxesaWjogC8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:04"
+  }
+]

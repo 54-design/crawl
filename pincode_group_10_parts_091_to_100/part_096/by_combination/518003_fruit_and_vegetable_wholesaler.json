@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Dry Fruits & Pooja Stores",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store, Dry Fruit Store",
+    "pincode": "518003",
+    "phone_number": "+91 99499 87699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "330, near Kokila Musicals, Gandhi Nagar, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.8296184,
+    "longitude": 78.0394275,
+    "place_id": "ChIJ_Q-fGDPntTsRufjaQiHrjSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Q-fGDPntTsRufjaQiHrjSk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:35:31"
+  },
+  {
+    "business_name": "K G N Fruit Mandi",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518003",
+    "phone_number": "+91 75694 64988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Main Road, Ashok Nagar, Kurnool, Andhra Pradesh 518005",
+    "area": "Ashok Nagar",
+    "latitude": 15.836970599999999,
+    "longitude": 78.0291412,
+    "place_id": "ChIJn5v_Z5DntTsRFbsXGPHD_C0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5v_Z5DntTsRFbsXGPHD_C0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:35:31"
+  }
+]

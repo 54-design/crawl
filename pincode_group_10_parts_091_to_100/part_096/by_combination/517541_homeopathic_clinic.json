@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashwini Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "517541",
+    "phone_number": "+91 80 2679 7575",
+    "website": "http://www.drrudresh.com/",
+    "rating": 3.8,
+    "reviews_count": 220,
+    "address": "144, DV Gundappa Rd, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+    "area": "Gandhi Bazaar, Basavanagudi",
+    "latitude": 12.9438815,
+    "longitude": 77.5710149,
+    "place_id": "ChIJKxZs0fIVrjsRWtEd7JQQwzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxZs0fIVrjsRWtEd7JQQwzw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:45:51"
+  },
+  {
+    "business_name": "Gayatri Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Doctor",
+    "pincode": "517541",
+    "phone_number": "+91 91609 62828",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "46-16-24, Krovvidi Lingaraju St, Danavai Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Danavai Peta",
+    "latitude": 17.0093297,
+    "longitude": 81.78328169999999,
+    "place_id": "ChIJWzz2Y_SjNzoRwKCcUAH97go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzz2Y_SjNzoRwKCcUAH97go",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:45:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FIN AND FUR PET STORE",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "518112",
+    "phone_number": "+91 99081 92014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "SHOP NO. 2, 216, CANAL ROAD, near Cotton Park, Razole, Andhra Pradesh 533242",
+    "area": "518112",
+    "latitude": 16.4810124,
+    "longitude": 81.8435928,
+    "place_id": "ChIJx1eNc5TdNzoR9LLE7Mz3VZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1eNc5TdNzoR9LLE7Mz3VZM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:05"
+  },
+  {
+    "business_name": "Rr Aquarium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "518112",
+    "phone_number": "+91 99896 91298",
+    "website": "https://www.rraquarium.in/",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "bismillah complex, Betamcherla, Andhra Pradesh 518599",
+    "area": "518112",
+    "latitude": 15.451604999999999,
+    "longitude": 78.1485325,
+    "place_id": "ChIJ-7ABIo4ztDsReE5NzRczn5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7ABIo4ztDsReE5NzRczn5Y",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:05"
+  }
+]

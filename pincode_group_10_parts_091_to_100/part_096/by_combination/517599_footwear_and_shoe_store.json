@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bismilla footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517599",
+    "phone_number": "+91 94448 24486",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Gandhi street, Kodivalasa, Tamil Nadu 631202",
+    "area": "517599",
+    "latitude": 13.254240399999999,
+    "longitude": 79.4348093,
+    "place_id": "ChIJh484zmmrUjoRATEeCZFbQ8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh484zmmrUjoRATEeCZFbQ8c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:14:09"
+  },
+  {
+    "business_name": "ADHISAYA ENTERPRISES",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517599",
+    "phone_number": "+91 82485 46564",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "404 A, Bazaar St, Ramkrishna Rajapet, Vellore, Tamil Nadu 631303",
+    "area": "517599",
+    "latitude": 13.1639178,
+    "longitude": 79.4372906,
+    "place_id": "ChIJOfBIyHKtUjoRyq2o1vKx1I0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfBIyHKtUjoRyq2o1vKx1I0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:14:09"
+  }
+]

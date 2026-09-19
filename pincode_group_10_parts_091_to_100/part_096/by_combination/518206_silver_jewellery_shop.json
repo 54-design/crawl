@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHABNAM Ladies Corner",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "518206",
+    "phone_number": "+91 94408 67270",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazzar, Betamcherla, Andhra Pradesh 518599",
+    "area": "518206",
+    "latitude": 15.452565499999999,
+    "longitude": 78.1470607,
+    "place_id": "ChIJ0_t9X9wztDsRp7cEkWEnkN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_t9X9wztDsRp7cEkWEnkN0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:13:55"
+  },
+  {
+    "business_name": "Sangeetha Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Manufacturer, Wholesaler",
+    "pincode": "518206",
+    "phone_number": "+91 93656 51554",
+    "website": "http://sangeethajewellers.in/",
+    "rating": 5,
+    "reviews_count": 41,
+    "address": "Krishna Apartments, AHUJA ESTATE, 504, Tilak Rd, opp. Hotel Geetanjali, Sultan Bazar, Abids, Hyderabad, Telangana 500001",
+    "area": "Sultan Bazar, Abids",
+    "latitude": 17.3905734,
+    "longitude": 78.4775835,
+    "place_id": "ChIJOTJKJIaXyzsRPlv2dMzAfDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTJKJIaXyzsRPlv2dMzAfDc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:13:58"
+  }
+]

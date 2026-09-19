@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHERRY HOME TUITIONS",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service, Educational consultant, Private Tutor",
+    "pincode": "518102",
+    "phone_number": "+91 90004 40762",
+    "website": "https://cherryhometuitions.in/",
+    "rating": 4.6,
+    "reviews_count": 159,
+    "address": "Sanjeeva Reddy Nagar, Hyderabad, Telangana 500038",
+    "area": "Sanjeeva Reddy Nagar",
+    "latitude": 17.4436875,
+    "longitude": 78.4458125,
+    "place_id": "ChIJITuZ-wSRyzsRcchfK_fIlWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITuZ-wSRyzsRcchfK_fIlWg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:49:23"
+  },
+  {
+    "business_name": "Edufast Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "518102",
+    "phone_number": "N/A",
+    "website": "https://edufastacademy.in/",
+    "rating": 2.8,
+    "reviews_count": 19,
+    "address": "8CW4+QPF, Rajendra Nagar Rd, Happy Homes Colony, Janachaitanya colony, Hyderabad, Upperpally, Telangana 500048",
+    "area": "Happy Homes Colony, Janachaitanya colony",
+    "latitude": 17.3469351,
+    "longitude": 78.4067886,
+    "place_id": "ChIJBx40x7OXyzsRI3Fkfrrbnm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBx40x7OXyzsRI3Fkfrrbnm0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:49:23"
+  }
+]

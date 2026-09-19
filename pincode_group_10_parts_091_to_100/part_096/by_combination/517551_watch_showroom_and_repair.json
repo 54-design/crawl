@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAJ WATCH SHOP",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "517551",
+    "phone_number": "+91 99856 61843",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No 6, Korlagunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Korlagunta",
+    "latitude": 13.6370241,
+    "longitude": 79.42694329999999,
+    "place_id": "ChIJxTeTPuZLTToRkmBIKJe3W38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTeTPuZLTToRkmBIKJe3W38",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:37"
+  },
+  {
+    "business_name": "Fastrack store",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Bag shop, Handbags shop, Perfume store, Sunglasses store",
+    "pincode": "517551",
+    "phone_number": "+91 63019 58528",
+    "website": "https://www.fastrack.in/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "D.No - 19-10-1/C, Air Bypass Rd, near BNR Mall, Indira Nagar, STV Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Indira Nagar, STV Nagar",
+    "latitude": 13.6227023,
+    "longitude": 79.4257555,
+    "place_id": "ChIJ70nKol9LTToRwi_UDr1epr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70nKol9LTToRwi_UDr1epr8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mega Mart Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "517551",
+    "phone_number": "+91 91600 03557",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5, K N Rd, Puttur, Andhra Pradesh 517583",
+    "area": "517551",
+    "latitude": 13.4351418,
+    "longitude": 79.5366281,
+    "place_id": "ChIJtyc1-TdRTToRpwT4UE4MjqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyc1-TdRTToRpwT4UE4MjqE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:14"
+  },
+  {
+    "business_name": "BSR mart",
+    "search_category": "Supermarket",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "517551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "1-99, opp. Z P High school, R C Puram(m, d, Kuppambadur, Tirupati, Andhra Pradesh 517561",
+    "area": "R C Puram(m, d",
+    "latitude": 13.508844799999999,
+    "longitude": 79.3941449,
+    "place_id": "ChIJ4cFHaGhTTToRS-vmKRof0ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cFHaGhTTToRS-vmKRof0ks",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:16"
+  }
+]

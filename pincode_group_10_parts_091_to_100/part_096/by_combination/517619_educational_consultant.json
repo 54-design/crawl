@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tej edutech consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "517619",
+    "phone_number": "+91 63625 20959",
+    "website": "http://www.tejedutech.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, SV Hospital, 14-280-1, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.682133599999998,
+    "longitude": 77.5993699,
+    "place_id": "ChIJHz7eloFLsTsRhu_YhgBNmZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHz7eloFLsTsRhu_YhgBNmZM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:16:47"
+  },
+  {
+    "business_name": "Bhavitha Educational Consultants",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, College of agriculture, Educational institution, Technical school",
+    "pincode": "517619",
+    "phone_number": "+91 98484 46580",
+    "website": "http://www.bhavithaedu.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "beside Image Hospitals Lane, opp. Rs Brothers, Pratap Nagar, Nagarjuna Nagar colony, Ameerpet, Hyderabad, Telangana 500073",
+    "area": "Pratap Nagar, Nagarjuna Nagar colony, Ameerpet",
+    "latitude": 17.431443299999998,
+    "longitude": 78.44610829999999,
+    "place_id": "ChIJk_U-qM6QyzsRAnKjyXOp5nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_U-qM6QyzsRAnKjyXOp5nA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:16:47"
+  }
+]

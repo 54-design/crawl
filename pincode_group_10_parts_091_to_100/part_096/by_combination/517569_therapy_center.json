@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandrashekhar House",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "517569",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9C4R+9WH, Gopichettipalle, Battuvaripalle, Andhra Pradesh 517582",
+    "area": "Gopichettipalle",
+    "latitude": 13.3564917,
+    "longitude": 79.4425582,
+    "place_id": "ChIJEcDAIwBVTToRuHZd8UxyfuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcDAIwBVTToRuHZd8UxyfuU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:52:01"
+  },
+  {
+    "business_name": "Dr.Hemraj’s House",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "517569",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8CJR+83F, Danthapetai, Pallipattu, Tamil Nadu 631207",
+    "area": "Danthapetai",
+    "latitude": 13.330587399999999,
+    "longitude": 79.4403694,
+    "place_id": "ChIJY5DxQQBVTToRivizIjVoh6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5DxQQBVTToRivizIjVoh6M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:52:01"
+  }
+]

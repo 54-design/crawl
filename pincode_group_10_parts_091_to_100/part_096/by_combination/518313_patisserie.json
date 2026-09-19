@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Koshagi",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V5MF+C3, Kamandoddi, Andhra Pradesh 518313",
+    "area": "518313",
+    "latitude": 15.88354,
+    "longitude": 77.17263799999999,
+    "place_id": "ChIJ7-EQbwDNtzsRzOA0IRZeGFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-EQbwDNtzsRzOA0IRZeGFw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:33:50"
+  },
+  {
+    "business_name": "Hotel Uthappa",
+    "search_category": "Patisserie",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "518313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Roda siddharoodha mutham, Kosigi to halvi, opposite Kosigi, Kosigi, Andhra Pradesh 518313",
+    "area": "518313",
+    "latitude": 15.8571382,
+    "longitude": 77.2365652,
+    "place_id": "ChIJhZU_wU81tjsR5oLnNk-Ga_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZU_wU81tjsR5oLnNk-Ga_0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:33:51"
+  }
+]

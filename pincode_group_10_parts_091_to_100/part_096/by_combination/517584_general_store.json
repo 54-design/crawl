@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalithamma Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517584",
+    "phone_number": "+91 81063 34857",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 1-23A, Rajula Kandiga, Kumarabommarajupuram, Vellore, Tamil Nadu 517584",
+    "area": "KBR Puram Village",
+    "latitude": 13.355604999999999,
+    "longitude": 79.5164412,
+    "place_id": "ChIJQ2oGL8RXTToRenQaK4Uo7zQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2oGL8RXTToRenQaK4Uo7zQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:57"
+  },
+  {
+    "business_name": "Mitra Enterprises",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Dairy store",
+    "pincode": "517584",
+    "phone_number": "+91 94445 82734",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Main Rd, opposite Balaji fancy store, Pallipattu, Tamil Nadu 631207",
+    "area": "517584",
+    "latitude": 13.3374364,
+    "longitude": 79.4396707,
+    "place_id": "ChIJIYKZ1OZVTToRtiKevX6tYzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYKZ1OZVTToRtiKevX6tYzY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:58"
+  }
+]

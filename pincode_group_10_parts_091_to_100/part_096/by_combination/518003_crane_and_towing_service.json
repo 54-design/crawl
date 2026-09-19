@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M S Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "518003",
+    "phone_number": "+91 98492 46554",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "N.H-44, Hyderabad - Bengaluru Hwy, near Kotak Mahindra Bank, Santosh Nagar Colony, Kurnool, Munagalapadu, Andhra Pradesh 518004",
+    "area": "Santosh Nagar Colony",
+    "latitude": 15.848617099999998,
+    "longitude": 78.0047214,
+    "place_id": "ChIJPxtZKkvhtTsRRtHhdN4H2nY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxtZKkvhtTsRRtHhdN4H2nY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:36:12"
+  },
+  {
+    "business_name": "R.K Towing Service & Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service, Service establishment",
+    "pincode": "518003",
+    "phone_number": "+91 97181 53514",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "R.K Towing Service & Crane Service, 518003, India",
+    "area": "518003",
+    "latitude": 28.422601099999998,
+    "longitude": 76.9900807,
+    "place_id": "ChIJo44MrrFRDW4R6i1AeRhtGTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo44MrrFRDW4R6i1AeRhtGTo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:36:13"
+  }
+]

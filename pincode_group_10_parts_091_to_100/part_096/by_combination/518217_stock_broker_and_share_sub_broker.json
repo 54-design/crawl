@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SNV Stock Broking Pvt Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "518217",
+    "phone_number": "+91 98319 33215",
+    "website": "https://www.snvstocks.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mezzanine Floor, Hanuman Estate, 19, RN Mukherjee Rd, beside Kishore Bhawan, Esplanade, Lal Bazar, Kolkata, West Bengal 700001",
+    "area": "Esplanade, Lal Bazar",
+    "latitude": 22.5704574,
+    "longitude": 88.3521401,
+    "place_id": "ChIJu0MdS2t3AjoRw9aO6cqCZVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0MdS2t3AjoRw9aO6cqCZVk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:18:43"
+  },
+  {
+    "business_name": "JK Securities Pvt Ltd - Anand(Head Office)",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "518217",
+    "phone_number": "+91 2692 225 036",
+    "website": "http://www.jksecurities.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sardargunj Road, opp. People's Bank Park, Anand, Gujarat 388001",
+    "area": "518217",
+    "latitude": 22.5532283,
+    "longitude": 72.9612635,
+    "place_id": "ChIJnXYxg51OXjkRwCK-EYCd3Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXYxg51OXjkRwCK-EYCd3Os",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:18:44"
+  }
+]

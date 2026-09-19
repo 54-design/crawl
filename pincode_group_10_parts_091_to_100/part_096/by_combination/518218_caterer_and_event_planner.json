@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Sandhya Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "518218",
+    "phone_number": "+91 84201 56529",
+    "website": "https://www.facebook.com/profile.php?id=100085262252064",
+    "rating": 4.7,
+    "reviews_count": 64,
+    "address": "76,Gorkhara, A, Badamtala, Sarat Sarani Main Rd, West Bengal 700150",
+    "area": "Ghasiara",
+    "latitude": 22.4482499,
+    "longitude": 88.43885209999999,
+    "place_id": "ChIJqwXrR4h9rAARXY8iz1RG61g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwXrR4h9rAARXY8iz1RG61g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:20:13"
+  },
+  {
+    "business_name": "Sri Sairam Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Restaurant supply store, Wedding buffet",
+    "pincode": "518218",
+    "phone_number": "+91 90877 99087",
+    "website": "https://srisairamcatering.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No 10, 21, New State Bank Colony 2nd St, West Tambaram, Tambaram, Tamil Nadu 600045",
+    "area": "West Tambaram, Tambaram",
+    "latitude": 12.927703,
+    "longitude": 80.11100669999999,
+    "place_id": "ChIJUzdIkqBfUjoRm8OBUTidTFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzdIkqBfUjoRm8OBUTidTFY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:20:13"
+  }
+]

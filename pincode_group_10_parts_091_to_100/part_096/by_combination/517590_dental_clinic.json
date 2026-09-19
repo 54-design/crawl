@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental House",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "517590",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beri Street, Nagari, Andhra Pradesh 517590",
+    "area": "517590",
+    "latitude": 13.321797199999999,
+    "longitude": 79.5862276,
+    "place_id": "ChIJTT0DUTanUjoRDpALbL1VZPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTT0DUTanUjoRDpALbL1VZPA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:09:04"
+  },
+  {
+    "business_name": "dental care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental hygienist",
+    "all_categories": "Dental hygienist",
+    "pincode": "517590",
+    "phone_number": "+91 78160 83389",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ekambarakuppam, Nagari, Andhra Pradesh 517592",
+    "area": "Ekambarakuppam",
+    "latitude": 13.3206407,
+    "longitude": 79.5852945,
+    "place_id": "ChIJM6CDnrKnUjoRuob6h9PL3XQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6CDnrKnUjoRuob6h9PL3XQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:09:04"
+  }
+]

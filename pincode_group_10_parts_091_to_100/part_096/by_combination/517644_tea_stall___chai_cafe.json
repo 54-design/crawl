@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Kings - Chromepet",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Breakfast restaurant, Bubble tea store, Cafe, Catering food and drink supplier, Coffee shop, Fast food restaurant, Snack bar",
+    "pincode": "517644",
+    "phone_number": "+91 84383 32230",
+    "website": "http://www.chaikings.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "No: 122, Grand Southern Trunk Rd, opposite to Adyar Ananda Bhavan, Lakshmi Nagar, Chromepet, Tambaram, Tamil Nadu 600044",
+    "area": "Lakshmi Nagar, Chromepet",
+    "latitude": 12.9572214,
+    "longitude": 80.14393,
+    "place_id": "ChIJlfcAP4VfUjoRXVn8KuhRDfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfcAP4VfUjoRXVn8KuhRDfo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:26:28"
+  },
+  {
+    "business_name": "Mr. CHAI dude",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517644",
+    "phone_number": "+91 96664 17775",
+    "website": "https://www.mrchai.in/",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "J7CH+J2X, SKD Colony, Adoni, Andhra Pradesh 518301",
+    "area": "SKD Colony",
+    "latitude": 15.621619599999999,
+    "longitude": 77.277557,
+    "place_id": "ChIJo6tTW7tNtjsRSt5e7pCZU64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6tTW7tNtjsRSt5e7pCZU64",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:26:29"
+  }
+]

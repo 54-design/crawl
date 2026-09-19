@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Regulapadu Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "518222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GP4G+264, Unnamed Road, Chunchu Yerragudi, Andhra Pradesh 518225",
+    "area": "518222",
+    "latitude": 15.505014999999998,
+    "longitude": 77.7255665,
+    "place_id": "ChIJCfmzCDFjtjsRlxNyqB3Elb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfmzCDFjtjsRlxNyqB3Elb8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:25:19"
+  },
+  {
+    "business_name": "DASTAGIRI",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "518222",
+    "phone_number": "+91 77308 22776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CV3G+HG6, RTC Bus Stand Rd, Dhone at Dronachalam, Kothapeta, Dhone, Andhra Pradesh 518222",
+    "area": "Dhone at Dronachalam, Kothapeta",
+    "latitude": 15.403906,
+    "longitude": 77.876436,
+    "place_id": "ChIJjydudwCBtjsRW39WBzSLl6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjydudwCBtjsRW39WBzSLl6s",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:25:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE COFFEE HOUSE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517587",
+    "phone_number": "+91 70666 51716",
+    "website": "https://ig.me/1TNaT39QY8yrI9y",
+    "rating": 4.5,
+    "reviews_count": 67,
+    "address": "opp. to padgilwar medical, near bharat fancy degloor, Shahaji Nagar, Deglur, Maharashtra 431717",
+    "area": "Shahaji Nagar",
+    "latitude": 18.547973,
+    "longitude": 77.576015,
+    "place_id": "ChIJV5PWm61nzjsRQZ5Rifi6xIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5PWm61nzjsRQZ5Rifi6xIo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:03:36"
+  },
+  {
+    "business_name": "Cafe Coffee day - Msk Plaza",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Takeout restaurant, Pastry shop, Restaurant, Sandwich shop",
+    "pincode": "517587",
+    "phone_number": "+91 1800 102 5093",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 4,
+    "reviews_count": 2569,
+    "address": "MSK Plaza, 100 Feet Rd, HAL 2nd Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038",
+    "area": "HAL 2nd Stage, Defence Colony, Indiranagar",
+    "latitude": 12.9754683,
+    "longitude": 77.64128939999999,
+    "place_id": "ChIJPYUj5KUWrjsRevRqk3CHvZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYUj5KUWrjsRevRqk3CHvZo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:03:36"
+  }
+]

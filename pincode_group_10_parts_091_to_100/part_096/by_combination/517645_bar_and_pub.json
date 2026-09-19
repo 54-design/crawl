@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unwiind Restobar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Night club",
+    "all_categories": "Night club",
+    "pincode": "517645",
+    "phone_number": "+91 87221 89848",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "127 2nd floor 17th Main,5th Block, near Jyoti Nivas College Road, KHB Colony, VI Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, VI Block, Koramangala",
+    "latitude": 12.9342536,
+    "longitude": 77.6168708,
+    "place_id": "ChIJQzhfVAAVrjsR1liCwhBJuAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzhfVAAVrjsR1liCwhBJuAg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:20"
+  },
+  {
+    "business_name": "Bottoms Up Restobar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "517645",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2nd Floor, 619, 15th Cross Rd, 6th Phase, KR Layout, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "6th Phase, KR Layout, JP Nagar Phase 6, J. P. Nagar",
+    "latitude": 12.906181199999999,
+    "longitude": 77.5825551,
+    "place_id": "ChIJS18GqPcVrjsR-x8EkVt4p30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS18GqPcVrjsR-x8EkVt4p30",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:21"
+  }
+]

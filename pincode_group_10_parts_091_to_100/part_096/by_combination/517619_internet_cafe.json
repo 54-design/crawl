@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YOGI INTERNET",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517619",
+    "phone_number": "+91 91827 42206",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "IIT TIRUPATHI OPP, D no. 1-1, Anjimedu, Andhra Pradesh 517619",
+    "area": "Anjimedu",
+    "latitude": 13.712447599999999,
+    "longitude": 79.5973629,
+    "place_id": "ChIJ_-BD37Y5TToR4jPAzHOK3fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-BD37Y5TToR4jPAzHOK3fQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:16:51"
+  },
+  {
+    "business_name": "Krishnaveni online services",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "517619",
+    "phone_number": "+91 91000 08143",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Amararaja Road, near railway gate, Karakambadi Rural, Andhra Pradesh 517520",
+    "area": "517619",
+    "latitude": 13.6714259,
+    "longitude": 79.5129434,
+    "place_id": "ChIJg3IWGQNJTToRiu2vnZ5Ul0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3IWGQNJTToRiu2vnZ5Ul0c",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:16:51"
+  }
+]

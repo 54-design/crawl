@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of unique",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "518003",
+    "phone_number": "+91 99124 24939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Venkataramana Colony, SVR Colony, Kurnool, Andhra Pradesh 518006",
+    "area": "Venkataramana Colony, SVR Colony",
+    "latitude": 15.837414899999999,
+    "longitude": 78.0166101,
+    "place_id": "ChIJaQMFEf3htTsRoyCGwUeYBW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQMFEf3htTsRoyCGwUeYBW4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:35:28"
+  },
+  {
+    "business_name": "S.R.S. STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "518003",
+    "phone_number": "+91 99634 58628",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "No 73/11, near Neelakanteswara Swamy Temple, Kallur, Sampath Nagar, Kalluru, Andhra Pradesh 518003",
+    "area": "Kallur, Sampath Nagar",
+    "latitude": 15.816317199999999,
+    "longitude": 78.030226,
+    "place_id": "ChIJCQ6EpDrdtTsRpOIL7JfBgf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQ6EpDrdtTsRpOIL7JfBgf4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:35:28"
+  }
+]

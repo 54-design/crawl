@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vaishnavi Medicals& general stores",
+    "search_category": "General Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "518005",
+    "phone_number": "+91 98850 79504",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "R2PJ+JVX, Ashok Nagar, Kurnool, Andhra Pradesh 518005",
+    "area": "Ashok Nagar",
+    "latitude": 15.836609399999999,
+    "longitude": 78.0322288,
+    "place_id": "ChIJz1kZSkXntTsR4tfkKkVaelQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1kZSkXntTsR4tfkKkVaelQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:39:19"
+  },
+  {
+    "business_name": "Kumar General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518005",
+    "phone_number": "+91 89856 95624",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Q2WR+P3M, Andhra Pradesh Housing Board Colony, B Camp, Kurnool, Andhra Pradesh 518002",
+    "area": "Andhra Pradesh Housing Board Colony, B Camp",
+    "latitude": 15.7968367,
+    "longitude": 78.04018479999999,
+    "place_id": "ChIJi6Mk0MDdtTsRYfU9Np18hao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6Mk0MDdtTsRYfU9Np18hao",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:39:21"
+  }
+]

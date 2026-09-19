@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maahi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Family restaurant",
+    "pincode": "517641",
+    "phone_number": "+91 84595 94974",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Hinjawadi Phase 1 Rd, near Radisson blue hotel, Phase 1, Rajiv Gandhi Infotech Park, Pune, Hinjawadi, Maharashtra 411057",
+    "area": "Phase 1, Rajiv Gandhi Infotech Park",
+    "latitude": 18.5827641,
+    "longitude": 73.73918909999999,
+    "place_id": "ChIJ_8sT1NO7wjsR_BvQrSLtTlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8sT1NO7wjsR_BvQrSLtTlo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:05"
+  },
+  {
+    "business_name": "Sri jagannath old family dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MG3W+78V, Anagunta, Andhra Pradesh 517520",
+    "area": "517641",
+    "latitude": 13.653293699999999,
+    "longitude": 79.5458034,
+    "place_id": "ChIJqZcjSQBJTToRo-TdMVh4WHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZcjSQBJTToRo-TdMVh4WHc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:05"
+  }
+]

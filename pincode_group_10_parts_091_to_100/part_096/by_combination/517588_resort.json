@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mythwish Resort And Farms",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "517588",
+    "phone_number": "+91 63749 72619",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sembedu, Tamarapakkam, Tamil Nadu 601103",
+    "area": "517588",
+    "latitude": 13.2497551,
+    "longitude": 79.9837861,
+    "place_id": "ChIJCxzOwaOFUjoRxJJpOsj4K9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxzOwaOFUjoRxJJpOsj4K9M",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:06:11"
+  },
+  {
+    "business_name": "Royal Paark Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "517588",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No: 82, Athupakkam, Periyapalayam, Chennai, Tamil Nadu 601102",
+    "area": "517588",
+    "latitude": 13.2961204,
+    "longitude": 80.0196107,
+    "place_id": "ChIJoVr3D2qBUjoRyQhlD6lDA8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVr3D2qBUjoRyQhlD6lDA8U",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:06:11"
+  }
+]

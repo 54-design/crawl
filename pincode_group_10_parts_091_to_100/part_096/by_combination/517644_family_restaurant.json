@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjith Family Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "517644",
+    "phone_number": "+91 81069 14416",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "PPX9+9Q7, C. Khandriga, Andhra Pradesh 517644",
+    "area": "517644",
+    "latitude": 13.748486399999999,
+    "longitude": 79.7194586,
+    "place_id": "ChIJb0iIH6E_TToRDi8VRUDYwK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0iIH6E_TToRDi8VRUDYwK0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:26:33"
+  },
+  {
+    "business_name": "MAYABAZAR",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517644",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, Panagal Rd, Gunteligunta at L.N.Puram, Andhra Pradesh 517640",
+    "area": "517644",
+    "latitude": 13.7508454,
+    "longitude": 79.69398149999999,
+    "place_id": "ChIJK6YYOgA_TToROAKMjnPlykE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6YYOgA_TToROAKMjnPlykE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:26:35"
+  }
+]

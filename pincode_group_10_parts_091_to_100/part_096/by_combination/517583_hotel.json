@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Srinilaya",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517583",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "OPP, Water Tank St, Ramarao Colony, Puttur, Andhra Pradesh 517583",
+    "area": "Ramarao Colony",
+    "latitude": 13.433459899999999,
+    "longitude": 79.554878,
+    "place_id": "ChIJaYBBKRdRTToRjHyAAV-GAfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYBBKRdRTToRjHyAAV-GAfw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:13"
+  },
+  {
+    "business_name": "HOTEL SRI KRISHNA GRAND",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517583",
+    "phone_number": "+91 83094 01791",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "CGPP+45V, Puttur, Andhra Pradesh 517583",
+    "area": "517583",
+    "latitude": 13.435358599999999,
+    "longitude": 79.53540629999999,
+    "place_id": "ChIJt-lD9rtRTToRfDiLhY4iXsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-lD9rtRTToRfDiLhY4iXsY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:13"
+  }
+]

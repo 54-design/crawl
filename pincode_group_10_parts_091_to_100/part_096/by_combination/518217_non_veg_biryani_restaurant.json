@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raipur Biryani Centre",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fast food restaurant",
+    "pincode": "518217",
+    "phone_number": "+91 91743 26556",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 169,
+    "address": "35F7+F4C, Tagore Rd, opposite Shiv talkies, Tikrapara, Bilaspur, Chhattisgarh 495004",
+    "area": "Tikrapara",
+    "latitude": 22.0736805,
+    "longitude": 82.1627589,
+    "place_id": "ChIJEXVmhSILKDoRS8TL1V8wD_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXVmhSILKDoRS8TL1V8wD_o",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:17:24"
+  },
+  {
+    "business_name": "Zam Zam Fast Food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant",
+    "pincode": "518217",
+    "phone_number": "+91 93409 24822",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16582,
+    "address": "7C68+CRX, Hamidia Rd, opp. Corporation Bank, Dangi Colony, Bagh Umrao Dulha, Bhopal, Madhya Pradesh 462001",
+    "area": "Dangi Colony, Bagh Umrao Dulha",
+    "latitude": 23.2621996,
+    "longitude": 77.41116,
+    "place_id": "ChIJo_8jLyVofDkRUdRAMGVjilI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_8jLyVofDkRUdRAMGVjilI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:17:24"
+  }
+]

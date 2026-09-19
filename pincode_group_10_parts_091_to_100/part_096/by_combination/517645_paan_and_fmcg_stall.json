@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beeda Bite",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "517645",
+    "phone_number": "+91 89255 19194",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22, Thiyagarajapuram Rd, near Arun Nursing Of College, behind Reliance Smart, Veerasamy Nagar, Vellore, Tamil Nadu 632001",
+    "area": "Veerasamy Nagar",
+    "latitude": 12.9031982,
+    "longitude": 79.133194,
+    "place_id": "ChIJSQ8-uzo5rTsR2UDvcsY68KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQ8-uzo5rTsR2UDvcsY68KE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:11"
+  },
+  {
+    "business_name": "Patel Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517645",
+    "phone_number": "+91 80156 97063",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 38,
+    "address": "No.3, Jawaharlal Nehru Salai, Koyambedu, Chennai, Tamil Nadu 600107",
+    "area": "Rathnapuri, Koyambedu",
+    "latitude": 13.0732687,
+    "longitude": 80.20069649999999,
+    "place_id": "ChIJW8pi2qVmUjoRkpzjY8pj-1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8pi2qVmUjoRkpzjY8pj-1E",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Patisserie",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "518302",
+    "phone_number": "+91 76808 13524",
+    "website": "https://www.hapdaily.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "No. 4/80-1, Car St, opp. Sri Neelakanteswara Circle, HBS Colony, Yemmiganur, Andhra Pradesh 518360",
+    "area": "HBS Colony",
+    "latitude": 15.7720652,
+    "longitude": 77.4810676,
+    "place_id": "ChIJYcNlVEpBtjsRP3HIQLuwiCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcNlVEpBtjsRP3HIQLuwiCU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:30:13"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Patisserie",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "518302",
+    "phone_number": "+91 94404 11852",
+    "website": "https://www.hapdaily.com/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "No. 1454, Main Road, near Axis Bank, Indira Nagar, Yemmiganur, Andhra Pradesh 518360",
+    "area": "Indira Nagar",
+    "latitude": 15.767241799999999,
+    "longitude": 77.47782049999999,
+    "place_id": "ChIJ99IJ1mtBtjsReNFBuTAbueY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99IJ1mtBtjsReNFBuTAbueY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:30:13"
+  }
+]

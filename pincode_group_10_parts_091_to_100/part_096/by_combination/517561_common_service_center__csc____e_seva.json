@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMMON SERVICE CENTER",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517561",
+    "phone_number": "+91 94154 79328",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "8/3, Shivkuti, Govindpur, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Shivkuti, Govindpur, Teliarganj",
+    "latitude": 25.4971039,
+    "longitude": 81.8703242,
+    "place_id": "ChIJDzbAooi1mjkRAN7h9v5gqIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzbAooi1mjkRAN7h9v5gqIk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:50:32"
+  },
+  {
+    "business_name": "CSC Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop",
+    "pincode": "517561",
+    "phone_number": "+91 98495 13805",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "AJAY COMMUNICATIONS, College Rd, near agriculture market, Mancherial, Telangana 504208",
+    "area": "Ram nagar",
+    "latitude": 18.8652308,
+    "longitude": 79.4463978,
+    "place_id": "ChIJRxhR7bnLMjoRuMnXq6-KqPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxhR7bnLMjoRuMnXq6-KqPI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:50:33"
+  }
+]

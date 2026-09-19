@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Organic grains and fruits",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm",
+    "pincode": "518220",
+    "phone_number": "+91 94409 10653",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kadimetla(village) , Yemmiganur, mandal, Andhra Pradesh 518360",
+    "area": "518220",
+    "latitude": 15.7390063,
+    "longitude": 77.538568,
+    "place_id": "ChIJNXASS8BBtjsRDEhKSiV8CV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXASS8BBtjsRDEhKSiV8CV0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:21:02"
+  },
+  {
+    "business_name": "Fit Foods India",
+    "search_category": "Organic Food Store",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "518220",
+    "phone_number": "+91 90322 77881",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "R345+95M, Nandikotkur Rd, Kurnool, Andhra Pradesh 518002",
+    "area": "518220",
+    "latitude": 15.8059961,
+    "longitude": 78.05792,
+    "place_id": "ChIJ8zZhagDdtTsRTwtm7-23ZEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zZhagDdtTsRTwtm7-23ZEw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:21:02"
+  }
+]

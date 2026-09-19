@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cybercoderz",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "518123",
+    "phone_number": "+91 87009 26275",
+    "website": "https://cybercoderz.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maa ganga enclave, New Colony, Garhi Harsaru, Gurugram, Haryana 122505",
+    "area": "New Colony, Garhi Harsaru",
+    "latitude": 28.441432799999998,
+    "longitude": 76.9319857,
+    "place_id": "ChIJxyDkbLAXDTkRJe2VdUhsVbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyDkbLAXDTkRJe2VdUhsVbg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:55:09"
+  },
+  {
+    "business_name": "Prismberry Technologies - AI Software Development Company",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services, Research and product development, Security service",
+    "pincode": "518123",
+    "phone_number": "+91 99990 00981",
+    "website": "https://prismberry.com/",
+    "rating": 4.7,
+    "reviews_count": 46,
+    "address": "B-10, 1st Floor, Block B, Noida Sector 3, Noida, Uttar Pradesh 201301",
+    "area": "Block B, Noida Sector 3",
+    "latitude": 28.579595299999998,
+    "longitude": 77.32119879999999,
+    "place_id": "ChIJrcNUBb7lDDkR9KhQEgqPQk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcNUBb7lDDkR9KhQEgqPQk0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:55:10"
+  }
+]

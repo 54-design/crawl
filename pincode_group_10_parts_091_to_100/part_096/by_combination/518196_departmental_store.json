@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CIVSOF143 - SHOPPING_TIME",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518196",
+    "phone_number": "+91 99637 17544",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-44, CIVSOF143, SC COLONY, Chennampalle, Andhra Pradesh 518122",
+    "area": "518196",
+    "latitude": 15.2129224,
+    "longitude": 78.1769096,
+    "place_id": "ChIJlzPUqb87tDsRFKO_VgVE6Uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzPUqb87tDsRFKO_VgVE6Uo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:11:50"
+  },
+  {
+    "business_name": "Satyam Reddy general Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518196",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "45R7+XXM, Chanugondla, Andhra Pradesh 518196",
+    "area": "518196",
+    "latitude": 15.1424746,
+    "longitude": 78.164923,
+    "place_id": "ChIJM_RrcnE9tDsRf0qfbLVQ8Co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_RrcnE9tDsRf0qfbLVQ8Co",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:11:50"
+  }
+]

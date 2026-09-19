@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranga Cool Drinks",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "518225",
+    "phone_number": "+91 93478 59681",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kurnool Rd, Kunkanur, Andhra Pradesh 518465",
+    "area": "518225",
+    "latitude": 15.5572308,
+    "longitude": 77.5455382,
+    "place_id": "ChIJ8W-j2tBdtjsR0c2trLVnkVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W-j2tBdtjsR0c2trLVnkVM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:27:59"
+  },
+  {
+    "business_name": "Tropicana Logistics Private Limited (Cold Storage)",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "518225",
+    "phone_number": "+91 95445 00037",
+    "website": "http://www.tropicanalogistics.com/",
+    "rating": 4.4,
+    "reviews_count": 99,
+    "address": "A2 RECLAIMED AREA,, MATSYAPURI,, WILLINGDON ISLAND, Kochi, Keralam 682029",
+    "area": "Willingdon Island",
+    "latitude": 9.934808,
+    "longitude": 76.28001499999999,
+    "place_id": "ChIJVVUVUIJyCDsRF86Lex8r3WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUVUIJyCDsRF86Lex8r3WI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:28:00"
+  }
+]

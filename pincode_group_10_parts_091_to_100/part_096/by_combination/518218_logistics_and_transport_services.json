@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanuman Parcel Service",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "518218",
+    "phone_number": "+91 94911 52257",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ameeliohospital, Kalluru, Andhra Pradesh 518003",
+    "area": "518218",
+    "latitude": 15.816588699999999,
+    "longitude": 77.99099489999999,
+    "place_id": "ChIJ0Y5e2qndtTsRfclrArNoMz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Y5e2qndtTsRfclrArNoMz4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:50"
+  },
+  {
+    "business_name": "Navata Road transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "518218",
+    "phone_number": "+91 92480 94455",
+    "website": "http://www.navata.com/",
+    "rating": 3.4,
+    "reviews_count": 9,
+    "address": "R29F+6F8, Guru Raghavendra Nagar, Kalluru, Andhra Pradesh 518003",
+    "area": "Guru Raghavendra Nagar",
+    "latitude": 15.818041899999999,
+    "longitude": 78.0237044,
+    "place_id": "ChIJjblqJRrdtTsR5V2xZUDf-EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjblqJRrdtTsR5V2xZUDf-EQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:51"
+  }
+]

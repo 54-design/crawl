@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "518222",
+    "phone_number": "+91 96665 25108",
+    "website": "https://www.finobank.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21-143, Sanjeev Nagar, Betamcherla, Dharmavaram, Andhra Pradesh 518222",
+    "area": "Sanjeev Nagar",
+    "latitude": 15.388261799999999,
+    "longitude": 77.97149,
+    "place_id": "ChIJ08z_0bcrtDsRPvLZucPathE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08z_0bcrtDsRPvLZucPathE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:26:01"
+  },
+  {
+    "business_name": "Muthoot MCred Gold Loan In Dhone, Kurnool (Muthoottu Mini)",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, Finance broker, Financial advisor, Financial institution, Loan agency, Money transfer service",
+    "pincode": "518222",
+    "phone_number": "+91 85162 95432",
+    "website": "https://branches.muthootmcred.com/muthoottu-mini-in-andhra-pradesh-kurnool-beside-apolo-pharmacy-67539",
+    "rating": null,
+    "reviews_count": null,
+    "address": "First Floor, No 280/1, beside Apolo Pharmacy, KVS Colony, Dhone, Kurnool, Andhra Pradesh 518222",
+    "area": "KVS Colony",
+    "latitude": 15.3980863,
+    "longitude": 77.8746563,
+    "place_id": "ChIJA_QKPKSBtjsRoJ9cSJ9oqm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_QKPKSBtjsRoJ9cSJ9oqm8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:26:02"
+  }
+]

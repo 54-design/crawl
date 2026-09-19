@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KK MEGA MART",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517645",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PX5V+Q7R, Illupuru, Andhra Pradesh 524121",
+    "area": "517645",
+    "latitude": 13.709499899999999,
+    "longitude": 79.9931476,
+    "place_id": "ChIJyUXQHwBzTToRzc_PxfQUbdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUXQHwBzTToRzc_PxfQUbdo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:06"
+  },
+  {
+    "business_name": "Vinayak Royal",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517645",
+    "phone_number": "+91 91821 14072",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-98, kampalem village, Kampalem, Neerpakota, Andhra Pradesh 517645",
+    "area": "kampalem village",
+    "latitude": 13.682927099999999,
+    "longitude": 79.8464425,
+    "place_id": "ChIJm_QsqsptTToRVhPPQolTRic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_QsqsptTToRVhPPQolTRic",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:28:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vamsi Enterprises",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Agrochemicals Supplier",
+    "pincode": "517571",
+    "phone_number": "+91 863 233 7537",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7CFR+GFX Vishnu Priya complex, Nallacheruvu, Guntur, Andhra Pradesh 522003",
+    "area": "Nallacheruvu",
+    "latitude": 16.2738125,
+    "longitude": 80.4411875,
+    "place_id": "ChIJSVBrxM11SjoRvRLkZh4aOHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVBrxM11SjoRvRLkZh4aOHA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:54:25"
+  },
+  {
+    "business_name": "Sri Chandra Enterprises",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Pharmacy",
+    "pincode": "517571",
+    "phone_number": "+91 99665 94574",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sivalayam St, Ponnekallu, Andhra Pradesh 522018",
+    "area": "517571",
+    "latitude": 16.4051531,
+    "longitude": 80.40042249999999,
+    "place_id": "ChIJK27qGdWLNToRVe0TimT4TQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK27qGdWLNToRVe0TimT4TQI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:54:25"
+  }
+]

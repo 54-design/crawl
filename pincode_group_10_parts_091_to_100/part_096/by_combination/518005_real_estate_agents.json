@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GG Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "518005",
+    "phone_number": "+91 90017 97723",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "R2PH+PQ7, Ashok Nagar, Kurnool, Andhra Pradesh 518005",
+    "area": "Ashok Nagar",
+    "latitude": 15.8367907,
+    "longitude": 78.0294279,
+    "place_id": "ChIJQyrKwk_ntTsRS39WcPZxIHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyrKwk_ntTsRS39WcPZxIHY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:41"
+  },
+  {
+    "business_name": "Gayatri Home",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "518005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R2PH+XRR, Ashok Nagar, Kurnool, Andhra Pradesh 518005",
+    "area": "Ashok Nagar",
+    "latitude": 15.8374957,
+    "longitude": 78.0295273,
+    "place_id": "ChIJsfdVbADntTsR9ieWcBfRqJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfdVbADntTsR9ieWcBfRqJI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:41"
+  }
+]

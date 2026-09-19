@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "518220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "X339+J9, Kalludevanahalli, Andhra Pradesh 515812",
+    "area": "518220",
+    "latitude": 14.9540201,
+    "longitude": 77.0684608,
+    "place_id": "ChIJN9mNLgAjtzsR0ES8xQOyou8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9mNLgAjtzsR0ES8xQOyou8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:38"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "518220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "GGFJ+9QV, A Kodur, Ayyavari Kodur, Andhra Pradesh 518523",
+    "area": "A Kodur",
+    "latitude": 15.5234805,
+    "longitude": 78.53193569999999,
+    "place_id": "ChIJZ62T4vmstTsRl-IoEq7cFPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ62T4vmstTsRl-IoEq7cFPE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:38"
+  }
+]

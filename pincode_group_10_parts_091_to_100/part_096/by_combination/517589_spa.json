@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BLUE i Mens Saloon",
+    "search_category": "Spa",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "517589",
+    "phone_number": "+91 84389 32072",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mambakkam, Seethanjeri, Tamil Nadu 602026",
+    "area": "517589",
+    "latitude": 13.2760971,
+    "longitude": 79.8886634,
+    "place_id": "ChIJAzk3epWdUjoRZQBjdM6wAvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzk3epWdUjoRZQBjdM6wAvM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:07:48"
+  },
+  {
+    "business_name": "Aare 3rd Waterfall",
+    "search_category": "Spa",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "517589",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "FQMF+8W8, Nagala Hiking Trail, Andhra Pradesh 517589",
+    "area": "517589",
+    "latitude": 13.4832909,
+    "longitude": 79.7748399,
+    "place_id": "ChIJ65NIiOdnTToRmTgFcN5cc3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65NIiOdnTToRmTgFcN5cc3Q",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:07:48"
+  }
+]

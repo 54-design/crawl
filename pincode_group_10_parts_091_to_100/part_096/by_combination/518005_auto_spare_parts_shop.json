@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokari Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "518005",
+    "phone_number": "+91 96660 01242",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 4, Main Road, Sita Rama Nagar, Kurnool, Andhra Pradesh 518003",
+    "area": "Sita Rama Nagar",
+    "latitude": 15.8382784,
+    "longitude": 78.0269888,
+    "place_id": "ChIJt6d8XE7ntTsRAAAAMM3ssjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6d8XE7ntTsRAAAAMM3ssjQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:39:54"
+  },
+  {
+    "business_name": "Mahaboob Auto Mobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "518005",
+    "phone_number": "+91 91107 90172",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-287, Andhra Pradesh 518005",
+    "area": "Ashok Nagar",
+    "latitude": 15.8367142,
+    "longitude": 78.0314113,
+    "place_id": "ChIJ98b_UEXntTsRAAAAcCrgZgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98b_UEXntTsRAAAAcCrgZgM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:39:54"
+  }
+]

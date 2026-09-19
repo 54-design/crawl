@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan shetty Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C94G+G84, Anupur, Andhra Pradesh 518176",
+    "area": "518112",
+    "latitude": 15.406407699999999,
+    "longitude": 78.3752891,
+    "place_id": "ChIJNV2xYQBLtDsRKxgcixwuiQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNV2xYQBLtDsRKxgcixwuiQs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:49:57"
+  },
+  {
+    "business_name": "Ranganath Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "G645+785, Bugganipalle, Andhra Pradesh 518206",
+    "area": "518112",
+    "latitude": 15.505626399999999,
+    "longitude": 78.2083462,
+    "place_id": "ChIJHzChV3nLtTsRFgjWq1xJT30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzChV3nLtTsRFgjWq1xJT30",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:00"
+  }
+]

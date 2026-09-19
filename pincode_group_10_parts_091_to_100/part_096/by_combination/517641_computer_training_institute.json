@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegus Tech",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Coaching Center, Training center",
+    "pincode": "517641",
+    "phone_number": "+91 80743 06739",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 65,
+    "address": "1-89/5, National Highway 163, Raghavendra Nagar Colony, Bhagya Nagar Colony, Boduppal, Hyderabad, Telangana 500039",
+    "area": "Raghavendra Nagar Colony, Bhagya Nagar Colony, Boduppal",
+    "latitude": 17.402314699999998,
+    "longitude": 78.5822836,
+    "place_id": "ChIJNVjOb8SeyzsRurON-Z04H3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVjOb8SeyzsRurON-Z04H3g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:22:08"
+  },
+  {
+    "business_name": "Besant Technologies",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "517641",
+    "phone_number": "+91 80997 70770",
+    "website": "https://www.besanttechnologies.com/",
+    "rating": 4.7,
+    "reviews_count": 7405,
+    "address": "8 plot no 119, 11th Main Rd, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+    "area": "Vijaya Nagar, Velachery",
+    "latitude": 12.971906599999999,
+    "longitude": 80.2180223,
+    "place_id": "ChIJoXVYNbZdUjoR3xJeGhjVcbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXVYNbZdUjoR3xJeGhjVcbE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:22:08"
+  }
+]

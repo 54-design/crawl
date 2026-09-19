@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MM EVENT MANAGEMENT",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "517586",
+    "phone_number": "+91 73392 62126",
+    "website": "https://mmevents.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "82b, Singal street, Ramanjeri, Tamil Nadu 631204",
+    "area": "517586",
+    "latitude": 13.1996024,
+    "longitude": 79.7938937,
+    "place_id": "ChIJd6BqglqZUjoRDiwHW93-xqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6BqglqZUjoRDiwHW93-xqc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:02:36"
+  },
+  {
+    "business_name": "Mythri Event Planners",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "517586",
+    "phone_number": "+91 89783 64838",
+    "website": "http://www.mythrievents.com/",
+    "rating": 5,
+    "reviews_count": 113,
+    "address": "Seabhavan, Steel Plant Twp, Gajuwaka, Andhra Pradesh 530032",
+    "area": "Seabhavan, Steel Plant Township",
+    "latitude": 17.649366099999998,
+    "longitude": 83.1513544,
+    "place_id": "ChIJB2sLQhZvOToRzvFd4DC_0Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2sLQhZvOToRzvFd4DC_0Ns",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:02:36"
+  }
+]

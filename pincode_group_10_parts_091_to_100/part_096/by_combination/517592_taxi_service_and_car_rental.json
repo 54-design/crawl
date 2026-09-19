@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Kumar taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Taxi service",
+    "pincode": "517592",
+    "phone_number": "+91 93904 63813",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prasanthi Nilayam, Sai Towers, Mammilakunta - Puttaparthy Rd, Puttaparthi, Andhra Pradesh 515134",
+    "area": "517592",
+    "latitude": 14.1677357,
+    "longitude": 77.8111155,
+    "place_id": "ChIJJeQEIcFlsTsRHWo3399ukXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeQEIcFlsTsRHWo3399ukXA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:46"
+  },
+  {
+    "business_name": "CAB SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "517592",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JFX9+2HG, Chilamakuru, Andhra Pradesh 516310",
+    "area": "517592",
+    "latitude": 14.647559399999999,
+    "longitude": 78.46895769999999,
+    "place_id": "ChIJw-M5iT6PszsR3wKbfpJYSLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-M5iT6PszsR3wKbfpJYSLo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:46"
+  }
+]

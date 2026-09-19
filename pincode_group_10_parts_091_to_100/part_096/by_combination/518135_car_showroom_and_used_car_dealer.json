@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deccan Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "518135",
+    "phone_number": "+91 85228 24979",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Korutla, Telangana 505326",
+    "area": "518135",
+    "latitude": 18.8182235,
+    "longitude": 78.7309902,
+    "place_id": "ChIJKcfNPJsLzTsR52bDt2D7hBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcfNPJsLzTsR52bDt2D7hBY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:59:24"
+  },
+  {
+    "business_name": "Jalandhar Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "518135",
+    "phone_number": "+91 99888 65185",
+    "website": "http://www.jalandharcars.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "ADDA, Pathankot - Jalandhar Rd, near SHRIMAAN HOSPITAL, opp. RAMNEEK AVENUE, Nurpur, Jalandhar, Punjab 144008",
+    "area": "518135",
+    "latitude": 31.3686351,
+    "longitude": 75.5985639,
+    "place_id": "ChIJV-juFZZbGjkRU7CV40XiOZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-juFZZbGjkRU7CV40XiOZw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:59:24"
+  }
+]

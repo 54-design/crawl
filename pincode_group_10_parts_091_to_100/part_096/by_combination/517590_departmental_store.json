@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuppan Departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "517590",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8H9M+VRM, Nagari, Andhra Pradesh 517590",
+    "area": "517590",
+    "latitude": 13.3197017,
+    "longitude": 79.5845461,
+    "place_id": "ChIJe0W8i2SnUjoRYWj1IDW34zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0W8i2SnUjoRYWj1IDW34zc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:08:37"
+  },
+  {
+    "business_name": "More Super Market",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "517590",
+    "phone_number": "N/A",
+    "website": "https://moreretail.in/",
+    "rating": 3.7,
+    "reviews_count": 77,
+    "address": "Nagari, Andhra Pradesh 517590",
+    "area": "517590",
+    "latitude": 13.3247339,
+    "longitude": 79.5870705,
+    "place_id": "ChIJs8vfvcenUjoRqcw5PPwt-R0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8vfvcenUjoRqcw5PPwt-R0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:08:40"
+  }
+]

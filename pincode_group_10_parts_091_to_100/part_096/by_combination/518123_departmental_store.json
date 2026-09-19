@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SuperK - Golden Supermarket Tadipatri",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Indian grocery store",
+    "pincode": "518123",
+    "phone_number": "+91 99662 27922",
+    "website": "https://www.superk.in/",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "Moulla Compound, 15/1391-1-2, Kalavagadda Colony, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Kalavagadda Colony",
+    "latitude": 14.908821,
+    "longitude": 78.0005839,
+    "place_id": "ChIJsahyJV4dtDsRzOBxctmtjqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsahyJV4dtDsRzOBxctmtjqs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:53:29"
+  },
+  {
+    "business_name": "More Supermarket - CB Road Tadipatri - AP",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Discount supermarket, Gourmet grocery store, Grocery delivery service, Grocery store",
+    "pincode": "518123",
+    "phone_number": "N/A",
+    "website": "https://more.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Revenue ward no :15, Ground Floor, D no: 15 / 1836, Survey No. 565, B / A, C .B Road, opp. Post office, Tadipatri, Bengaluru, Andhra Pradesh 515411",
+    "area": "Gandhi Katta",
+    "latitude": 14.9108427,
+    "longitude": 78.00322419999999,
+    "place_id": "ChIJR7HluAFD8QURgELb3cRfpt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7HluAFD8QURgELb3cRfpt4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:53:30"
+  }
+]

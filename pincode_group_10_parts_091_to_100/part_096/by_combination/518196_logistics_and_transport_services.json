@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Serve Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "518196",
+    "phone_number": "+91 98719 93670",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H3RQ+M2R, Block A, Mangalpuri II, Palam, New Delhi, Delhi, 110045",
+    "area": "Block A, Mangalpuri II, Palam",
+    "latitude": 28.591730599999998,
+    "longitude": 77.0875077,
+    "place_id": "ChIJLU-nbmgbDTkRpF8QVPRPeGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLU-nbmgbDTkRpF8QVPRPeGY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:12:32"
+  },
+  {
+    "business_name": "Best Deal Relocation Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Moving service",
+    "all_categories": "Moving service",
+    "pincode": "518196",
+    "phone_number": "+91 96493 98093",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "House 93, H Block Rd, Cartarpuri Alias Daulatpur Nas, Dharam Colony, Palam Vihar Extension, Gurugram, Haryana 122017",
+    "area": "Cartarpuri Alias Daulatpur Nas, Dharam Colony, Palam Vihar Extension",
+    "latitude": 28.499629499999998,
+    "longitude": 77.0422523,
+    "place_id": "ChIJ5azm4pAZDTkRd8188-Ai4mA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5azm4pAZDTkRd8188-Ai4mA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:12:32"
+  }
+]

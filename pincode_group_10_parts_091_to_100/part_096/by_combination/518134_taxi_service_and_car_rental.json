@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKB TRAVEL",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "518134",
+    "phone_number": "+91 99850 61121",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Kadapa road Gunda naraya setty petrol bunk, Allagadda, Andhra Pradesh 518543",
+    "area": "Rajanagaram",
+    "latitude": 15.129312899999999,
+    "longitude": 78.5023918,
+    "place_id": "ChIJ_XUgAZNdtDsRQH00xz05Idk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_XUgAZNdtDsRQH00xz05Idk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:57:41"
+  },
+  {
+    "business_name": "Gokulam Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Tour operator",
+    "pincode": "518134",
+    "phone_number": "+91 95383 02172",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Side Road, Mantralayam, Andhra Pradesh 518345",
+    "area": "518134",
+    "latitude": 15.943632099999999,
+    "longitude": 77.4284687,
+    "place_id": "ChIJvzSQcsQ7tjsRXKFU3nTvny8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzSQcsQ7tjsRXKFU3nTvny8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:57:41"
+  }
+]

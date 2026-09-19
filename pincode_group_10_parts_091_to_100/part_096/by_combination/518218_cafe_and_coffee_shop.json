@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABC CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Muzaffar Nagar, Aditya Nagar, Kalluru, Andhra Pradesh 518003",
+    "area": "Muzaffar Nagar, Aditya Nagar",
+    "latitude": 15.803415,
+    "longitude": 78.023635,
+    "place_id": "ChIJjeyVJZvdtTsRTaN2JCe60rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeyVJZvdtTsRTaN2JCe60rM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:19"
+  },
+  {
+    "business_name": "Tea Break",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "518218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 49,
+    "address": "Kallur, Kalluru, Andhra Pradesh 518003",
+    "area": "518218",
+    "latitude": 15.812509299999999,
+    "longitude": 77.99492459999999,
+    "place_id": "ChIJE2e9iTPftTsRYDIi0rYPNEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2e9iTPftTsRYDIi0rYPNEg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:21"
+  }
+]

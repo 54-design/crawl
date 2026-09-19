@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raman TEA SHOP",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517584",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BTM Street, Pudupet, Nagari, Andhra Pradesh 517590",
+    "area": "Pudupet",
+    "latitude": 13.3191356,
+    "longitude": 79.57909649999999,
+    "place_id": "ChIJRydFX6inUjoRJ8oKrS5uqgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRydFX6inUjoRJ8oKrS5uqgU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:00:07"
+  },
+  {
+    "business_name": "Gaja Cool Drinks",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517584",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 44,
+    "address": "3-118 Main Road Nagari 517592, Ekambarakuppam, Andhra Pradesh 517592",
+    "area": "Ekambarakuppam",
+    "latitude": 13.316993,
+    "longitude": 79.568997,
+    "place_id": "ChIJdTfu1vqnUjoRkJA3EjdQCM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTfu1vqnUjoRkJA3EjdQCM0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:00:08"
+  }
+]

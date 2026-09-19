@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joy computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer desk store, Computer software store, Computer store, Computer Wholesaler, Lamination service, Printer repair service, Used computer store",
+    "pincode": "518134",
+    "phone_number": "+91 92999 99877",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near municipal office Zandu Street, Gudivada, Andhra Pradesh 521301",
+    "area": "Satyanarayana Puram",
+    "latitude": 16.432612,
+    "longitude": 80.992828,
+    "place_id": "ChIJBx39KqocNjoRVbqe2kDidMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBx39KqocNjoRVbqe2kDidMk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:19"
+  },
+  {
+    "business_name": "OM IT Solution",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer networking service, Computer service, Computer store, Printer repair service, Toner cartridge supplier",
+    "pincode": "518134",
+    "phone_number": "+91 82340 78255",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dih, Uttar Pradesh 224229",
+    "area": "518134",
+    "latitude": 26.4879093,
+    "longitude": 81.86068209999999,
+    "place_id": "ChIJMYG1m2NBmjkRclqOIpdxh5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYG1m2NBmjkRclqOIpdxh5I",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:20"
+  }
+]

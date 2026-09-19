@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiri Plaza",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "517583",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "CHP3+M5H, Puttur, Andhra Pradesh 517583",
+    "area": "517583",
+    "latitude": 13.4366873,
+    "longitude": 79.5529829,
+    "place_id": "ChIJYzrKlqNQTToRZc1L02ZFgBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzrKlqNQTToRZc1L02ZFgBY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:23"
+  },
+  {
+    "business_name": "Sri Venkateswara Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "517583",
+    "phone_number": "+91 96421 44331",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "tirupathi road board school, near krishna sweets, Puttur, Andhra Pradesh 517583",
+    "area": "517583",
+    "latitude": 13.4385146,
+    "longitude": 79.55196339999999,
+    "place_id": "ChIJE3Bis6dRTToRuArXHMsKe1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3Bis6dRTToRuArXHMsKe1A",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:23"
+  }
+]

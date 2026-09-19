@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shridul Enterprises",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Cleaning products supplier",
+    "pincode": "518101",
+    "phone_number": "+91 84279 80101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near bus stop,chetru, Kangra, Himachal Pradesh 176209",
+    "area": "518101",
+    "latitude": 32.1623239,
+    "longitude": 76.2916681,
+    "place_id": "ChIJ94g_ChhPGzkRUoYMlQ63lMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94g_ChhPGzkRUoYMlQ63lMs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:31"
+  },
+  {
+    "business_name": "Kolipaka Lingaiah Traders",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "518101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Old Beet Bazaar, Warangal, Telangana 506002",
+    "area": "Old Beet Bazaar",
+    "latitude": 17.9756742,
+    "longitude": 79.59756519999999,
+    "place_id": "ChIJB9HZXABFMzoRZc9qofLvdWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9HZXABFMzoRZc9qofLvdWs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:47:32"
+  }
+]

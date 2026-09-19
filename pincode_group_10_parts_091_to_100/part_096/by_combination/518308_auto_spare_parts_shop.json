@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S.V Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "518308",
+    "phone_number": "+91 86606 20937",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "balaji complex, near HP petrol bunk, Holagunda, Andhra Pradesh 518346",
+    "area": "518308",
+    "latitude": 15.4872559,
+    "longitude": 77.0463667,
+    "place_id": "ChIJ9_wAwtWptzsRJN9lHLsixt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_wAwtWptzsRJN9lHLsixt4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:32:31"
+  },
+  {
+    "business_name": "A.K biryani point. Peddaharivanam",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "518308",
+    "phone_number": "+91 96669 29789",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "Ambedkar circle, Pedda Harivanam, Andhra Pradesh 518308",
+    "area": "518308",
+    "latitude": 15.640104,
+    "longitude": 77.0977278,
+    "place_id": "ChIJJ1S0bnqxtzsROPT8nW1AKZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1S0bnqxtzsROPT8nW1AKZE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:32:31"
+  }
+]

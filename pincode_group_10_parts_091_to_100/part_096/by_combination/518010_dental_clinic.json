@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Teeth",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "518010",
+    "phone_number": "+91 98857 62259",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 11, Central Plaza, NH 18, Alluri Sitarama Raju Nagar, Kurnool, Medivemul, Andhra Pradesh 518002",
+    "area": "Alluri Sitarama Raju Nagar",
+    "latitude": 15.6660904,
+    "longitude": 78.0877124,
+    "place_id": "ChIJ1WJ3Sg3btTsRPjxfTw0g1Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WJ3Sg3btTsRPjxfTw0g1Ik",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:45:02"
+  },
+  {
+    "business_name": "Bhavishya Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "518010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q3X2+J9H, Brundavan Nagar, Sree Rama Nagar, Kalluru, Andhra Pradesh 518002",
+    "area": "Brundavan Nagar, Sree Rama Nagar",
+    "latitude": 15.7990721,
+    "longitude": 78.05098199999999,
+    "place_id": "ChIJLcelLQDdtTsRZQimDfl7CbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcelLQDdtTsRZQimDfl7CbQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:45:02"
+  }
+]

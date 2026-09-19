@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Townhouse 827 Hotel Hangouts",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518007",
+    "phone_number": "+91 124 620 1530",
+    "website": "https://www.oyorooms.com/170670/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "NH44, Peddadukuru, Kallur, Kalluru, Andhra Pradesh 518003",
+    "area": "Kallur",
+    "latitude": 15.791615199999999,
+    "longitude": 78.03467979999999,
+    "place_id": "ChIJKVRLLE3dtTsRuN1C0Wt-FCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVRLLE3dtTsRuN1C0Wt-FCQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:43:52"
+  },
+  {
+    "business_name": "Hotel O Kurnool Railway Station Road",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518007",
+    "phone_number": "+91 124 433 0599",
+    "website": "https://www.oyorooms.com/355935/",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "SBI Bank Main Circle, Plot No. 40/827, Club Road, Aditya Nagar, Kurnool, Kalluru, Andhra Pradesh 518004",
+    "area": "Aditya Nagar",
+    "latitude": 15.798169999999999,
+    "longitude": 78.02062459999999,
+    "place_id": "ChIJv3C7mXHdtTsRn5Sd8TBjaoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3C7mXHdtTsRn5Sd8TBjaoU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:43:52"
+  }
+]

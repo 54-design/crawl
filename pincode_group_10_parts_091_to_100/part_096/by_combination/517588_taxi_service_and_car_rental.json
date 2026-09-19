@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.R.TRAVELS (UTHUKOTTAI)",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Taxi service",
+    "pincode": "517588",
+    "phone_number": "+91 97874 56669",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Uthukkottai, Tamil Nadu 602026",
+    "area": "517588",
+    "latitude": 13.3338653,
+    "longitude": 79.891724,
+    "place_id": "ChIJoQh9eAKdUjoRwFgNHqfeyOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQh9eAKdUjoRwFgNHqfeyOo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:05:47"
+  },
+  {
+    "business_name": "Kavya cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "517588",
+    "phone_number": "+91 94939 49695",
+    "website": "https://kavyacabs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JCH9+HJ5, Royal Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Royal Nagar",
+    "latitude": 13.628884099999999,
+    "longitude": 79.4191209,
+    "place_id": "ChIJ__3fLOZLTToR4xtOkoDoFKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__3fLOZLTToR4xtOkoDoFKg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:05:47"
+  }
+]

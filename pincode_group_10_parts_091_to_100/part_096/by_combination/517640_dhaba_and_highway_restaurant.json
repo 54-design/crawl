@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Laksmi Bhavan",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517640",
+    "phone_number": "+91 91049 02291",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 62,
+    "address": "PMPG+4RR, SH 61, Mittakandriga, Srikalahasti, Gunteligunta at L.N.Puram, Andhra Pradesh 517640",
+    "area": "Mittakandriga",
+    "latitude": 13.7353507,
+    "longitude": 79.6770167,
+    "place_id": "ChIJL__1cxk_TToRV5V7qR1I7WY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL__1cxk_TToRV5V7qR1I7WY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:19:14"
+  },
+  {
+    "business_name": "New Punjabi Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "517640",
+    "phone_number": "+91 85830 30765",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "PJ6M+V7M, SH 61, Marrimakulachenu Khandriga, Bokkasam Palem, Andhra Pradesh 517641",
+    "area": "517640",
+    "latitude": 13.7122206,
+    "longitude": 79.63315759999999,
+    "place_id": "ChIJ4WuS0jM5TToRojByIS16COc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WuS0jM5TToRojByIS16COc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:19:16"
+  }
+]

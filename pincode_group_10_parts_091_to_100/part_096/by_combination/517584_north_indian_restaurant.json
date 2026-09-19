@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JOR N JOY Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "517584",
+    "phone_number": "+91 98852 99023",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "8H7R+7XR, Nagari, Andhra Pradesh 517590",
+    "area": "517584",
+    "latitude": 13.313246399999999,
+    "longitude": 79.5923875,
+    "place_id": "ChIJjwEf6pCnUjoRnGkarDs-qZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwEf6pCnUjoRnGkarDs-qZk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:00:06"
+  },
+  {
+    "business_name": "Hotel Rajasthan Royals",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517584",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "9HR8+HQ7, Parameswara Mangalam, Andhra Pradesh 517583",
+    "area": "517584",
+    "latitude": 13.391409399999999,
+    "longitude": 79.5669078,
+    "place_id": "ChIJbd-6Jz9ZTToRnWxith-iStY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbd-6Jz9ZTToRnWxith-iStY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:00:06"
+  }
+]

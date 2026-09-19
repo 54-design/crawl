@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sartaj Trading Company",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Grocery delivery service, Indian grocery store, Wholesale grocer",
+    "pincode": "517642",
+    "phone_number": "+91 99757 22117",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 360,
+    "address": "Chelipura Rd, near TOOTI KI MASJID, opp. AALSIHAN CLOTH CENTRE, Labar Colony, Naralibag, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Labar Colony, Naralibag",
+    "latitude": 19.889011699999998,
+    "longitude": 75.3360647,
+    "place_id": "ChIJcbYQVQmY2zsRTi8xKiCnyCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbYQVQmY2zsRTi8xKiCnyCA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:22:45"
+  },
+  {
+    "business_name": "Parameshwari Super Market",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517642",
+    "phone_number": "+91 94947 50696",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "16/1014, B P Agrharam Rd, Revenue Ward 16, B P Agraharam, Gunteligunta at L.N.Puram, Andhra Pradesh 517640",
+    "area": "Revenue Ward 16, B P Agraharam",
+    "latitude": 13.754312599999999,
+    "longitude": 79.69532079999999,
+    "place_id": "ChIJddZA4Fc-TToRZ0ODbeAj8Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddZA4Fc-TToRZ0ODbeAj8Eg",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:22:45"
+  }
+]

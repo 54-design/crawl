@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kidney Care Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "517641",
+    "phone_number": "+91 98862 99215",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Shop No: 30, 33rd Cross Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560011",
+    "area": "4th T Block East, Pattabhirama Nagar, Jayanagar",
+    "latitude": 12.926167699999999,
+    "longitude": 77.5863206,
+    "place_id": "ChIJ16hT66EVrjsRwknAEVJHGmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16hT66EVrjsRwknAEVJHGmo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:25"
+  },
+  {
+    "business_name": "NephroPRO Dialysis Services",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "517641",
+    "phone_number": "+91 92462 46526",
+    "website": "https://www.nephropro.com/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "305 A, Pavani Anusuya Towers, Tarnaka Main Rd, above Sudarshan Reddy Sweets, Hyderabad, Telangana 500017",
+    "area": "Shri Mitra Ramana Classic Enclave, Krishna Giri Enclave, Tarnaka",
+    "latitude": 17.4248902,
+    "longitude": 78.5358966,
+    "place_id": "ChIJGzlxe8ubyzsRAtnWMgPrJc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzlxe8ubyzsRAtnWMgPrJc8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:21:25"
+  }
+]

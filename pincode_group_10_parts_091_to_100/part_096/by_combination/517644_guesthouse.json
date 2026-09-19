@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Saravanan Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "517644",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "PMWW+FP7, Sannidhi St, Srikalahasti, Andhra Pradesh 517644",
+    "area": "517644",
+    "latitude": 13.7461636,
+    "longitude": 79.6967836,
+    "place_id": "ChIJu_crawM_TToRD0oGs-bTgQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_crawM_TToRD0oGs-bTgQ8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:27:23"
+  },
+  {
+    "business_name": "Vysya Dharma Satram",
+    "search_category": "Guesthouse",
+    "primary_category": "Indoor lodging",
+    "all_categories": "Indoor lodging",
+    "pincode": "517644",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 38,
+    "address": "3/366, Bazaar St, Kondamitta, Srikalahasti, Andhra Pradesh 517644",
+    "area": "Kondamitta",
+    "latitude": 13.7505338,
+    "longitude": 79.70056249999999,
+    "place_id": "ChIJ551F43g_TToRImgU7g5bfdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ551F43g_TToRImgU7g5bfdA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:27:24"
+  }
+]

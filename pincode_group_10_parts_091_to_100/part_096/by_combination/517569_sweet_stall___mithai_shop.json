@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ram Dev Sweets and Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Sweet shop",
+    "pincode": "517569",
+    "phone_number": "+91 83175 50218",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandragiri - Vedurukuppam Rd, Chavatagunta, Marepalle, Andhra Pradesh 517569",
+    "area": "Chavatagunta",
+    "latitude": 13.439342499999999,
+    "longitude": 79.3133807,
+    "place_id": "ChIJO13iwUatsjsRk4ULuZuFnSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO13iwUatsjsRk4ULuZuFnSk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:11"
+  },
+  {
+    "business_name": "Kumar Iceland",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, ATM",
+    "pincode": "517569",
+    "phone_number": "+91 94445 55540",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 33,
+    "address": "No-52, chitoor road, Pallipattu, Tamil Nadu 631207",
+    "area": "517569",
+    "latitude": 13.339079199999999,
+    "longitude": 79.43692399999999,
+    "place_id": "ChIJUyCrrpBVTToRv-VOetvZhfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyCrrpBVTToRv-VOetvZhfQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:12"
+  }
+]

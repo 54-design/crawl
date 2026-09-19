@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thenmozhi Milk Parlor",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "517588",
+    "phone_number": "+91 77804 75036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Rd, Satyavedu, Tamil Nadu 517588",
+    "area": "517588",
+    "latitude": 13.437283899999999,
+    "longitude": 79.95721569999999,
+    "place_id": "ChIJC5ivo5l7TToRQciYnQ7uBoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5ivo5l7TToRQciYnQ7uBoM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:05:09"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "517588",
+    "phone_number": "+91 95029 93525",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-52, Tada Satyavedu Rd, Satyavedu, Andhra Pradesh 517588",
+    "area": "517588",
+    "latitude": 13.4390434,
+    "longitude": 79.9567478,
+    "place_id": "ChIJRQSP8-J7TToRqj0BkAR1NPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQSP8-J7TToRqj0BkAR1NPw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:05:11"
+  }
+]

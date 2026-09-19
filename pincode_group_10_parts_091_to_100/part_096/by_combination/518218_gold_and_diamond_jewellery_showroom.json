@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sekhar Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "518218",
+    "phone_number": "+91 98491 63687",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "R27G+744, Chennamma Circle, Sivappa Nagar, Aditya Nagar, Kalluru, Andhra Pradesh 518003",
+    "area": "Sivappa Nagar, Aditya Nagar",
+    "latitude": 15.8131291,
+    "longitude": 78.02533729999999,
+    "place_id": "ChIJD21N9UPdtTsR56G6xev6UFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD21N9UPdtTsR56G6xev6UFQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:23"
+  },
+  {
+    "business_name": "Kisna Diamond & Gold Jewellery",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "518218",
+    "phone_number": "+91 788 034 9707",
+    "website": "https://kisna.com/?utm_source=google&utm_medium=organic&utm_campaign=prayagraj-uttarpradesh&utm_term=211001",
+    "rating": 4.8,
+    "reviews_count": 854,
+    "address": "43/1, Sardar Patel Marg, opposite Coffee Machine, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Civil Lines",
+    "latitude": 25.456928599999998,
+    "longitude": 81.83564899999999,
+    "place_id": "ChIJ9-GclWzLmjkRibTn_M2Ain0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-GclWzLmjkRibTn_M2Ain0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:19:24"
+  }
+]

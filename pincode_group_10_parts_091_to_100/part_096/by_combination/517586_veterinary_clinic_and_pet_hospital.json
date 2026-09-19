@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pets clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517586",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajesh, opposite Panchayat office, Pedapuleru, Undi, Andhra Pradesh 534199",
+    "area": "517586",
+    "latitude": 16.5621188,
+    "longitude": 81.4437078,
+    "place_id": "ChIJTz0tK04zNjoRCCXBrudhwlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTz0tK04zNjoRCCXBrudhwlM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:02:09"
+  },
+  {
+    "business_name": "Vet care medicals",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "517586",
+    "phone_number": "+91 63021 06003",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kotthapeta Honda show room complex, Chandragiri, Andhra Pradesh 517101",
+    "area": "517586",
+    "latitude": 13.589508799999999,
+    "longitude": 79.3203242,
+    "place_id": "ChIJI4hC_2-zsjsRlx70vW92GvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4hC_2-zsjsRlx70vW92GvQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:02:10"
+  }
+]

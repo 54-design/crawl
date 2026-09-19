@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post office",
+    "search_category": "Offices",
+    "primary_category": "Business banking service",
+    "all_categories": "Business banking service",
+    "pincode": "517591",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Damarapakam, Andhra Pradesh 517591",
+    "area": "517591",
+    "latitude": 13.321727399999999,
+    "longitude": 79.64072209999999,
+    "place_id": "ChIJs1kmNI2nUjoRcIz3_a0zYXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1kmNI2nUjoRcIz3_a0zYXc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:05"
+  },
+  {
+    "business_name": "Nambakam Grama Sachivalayam",
+    "search_category": "Offices",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "517591",
+    "phone_number": "N/A",
+    "website": "https://vswsonline.ap.gov.in/#/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8JJR+GR3, Agaram, Andhra Pradesh 517591",
+    "area": "517591",
+    "latitude": 13.3312715,
+    "longitude": 79.64205079999999,
+    "place_id": "ChIJpXwDNutZTToRi4VZcEoGyq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXwDNutZTToRi4VZcEoGyq8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:12:06"
+  }
+]

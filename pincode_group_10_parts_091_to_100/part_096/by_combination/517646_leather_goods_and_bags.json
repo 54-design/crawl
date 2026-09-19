@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Leather Wear",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517646",
+    "phone_number": "+91 884 237 8098",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "BVS Patrudu St, G O Colony, Kakinada, Andhra Pradesh 533003",
+    "area": "G O Colony",
+    "latitude": 16.9701815,
+    "longitude": 82.2418127,
+    "place_id": "ChIJOwbeHGwoODoREVa9-I6AcHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwbeHGwoODoREVa9-I6AcHw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:30:13"
+  },
+  {
+    "business_name": "S G Leather Goods",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Goods Wholesaler",
+    "all_categories": "Leather Goods Wholesaler",
+    "pincode": "517646",
+    "phone_number": "+91 98286 80205",
+    "website": "http://sgleather.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "C7, Haldighati Marg, Sector-22, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector-22, Pratap Nagar",
+    "latitude": 26.8127841,
+    "longitude": 75.8353264,
+    "place_id": "ChIJJ_IHHnPJbTkRCqt3D2U6leU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_IHHnPJbTkRCqt3D2U6leU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:30:13"
+  }
+]

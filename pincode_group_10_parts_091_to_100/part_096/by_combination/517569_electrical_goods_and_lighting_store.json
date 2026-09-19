@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Shanthi Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Bathroom supply store, Electrical supply store, Electronics store, Irrigation equipment supplier, Water Pump Supplier, Plumbing supply store, Store",
+    "pincode": "517569",
+    "phone_number": "+91 94435 56440",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "61, Car St, Pallipattu, Tamil Nadu 631207",
+    "area": "517569",
+    "latitude": 13.3382889,
+    "longitude": 79.4396311,
+    "place_id": "ChIJIaH3IJFVTToRAAAA0MlNSBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaH3IJFVTToRAAAA0MlNSBE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:47"
+  },
+  {
+    "business_name": "Siva Shakti Electricals & Hardwares",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "517569",
+    "phone_number": "+91 99594 91181",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6-136, opp. Police Station, Bangarpalyam, Chittoor, Murakambattu, Andhra Pradesh 517127",
+    "area": "Bangarpalyam",
+    "latitude": 13.2470688,
+    "longitude": 79.11696359999999,
+    "place_id": "ChIJ5wXeIuJZrTsRJnC03ZIAiz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wXeIuJZrTsRJnC03ZIAiz8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:51:48"
+  }
+]

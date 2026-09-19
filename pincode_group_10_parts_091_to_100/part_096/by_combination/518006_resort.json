@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragati Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Health resort",
+    "pincode": "518006",
+    "phone_number": "+91 96200 74317",
+    "website": "http://www.pragatiresorts.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Proddutur Village, Chilukuru Balaji Temple Road, Shankarpally Mandal, Ranga Reddy District, Hyderabad, Telangana 501203",
+    "area": "518006",
+    "latitude": 17.388111,
+    "longitude": 78.1813258,
+    "place_id": "ChIJD5uFYWrpyzsRxkxFJbLFi0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5uFYWrpyzsRxkxFJbLFi0g",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:42:06"
+  },
+  {
+    "business_name": "White view Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518006",
+    "phone_number": "+91 82475 84273",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "WCP8+VP3, Madhavaram road, near HP PETROL PUMP, Mantralayam, Andhra Pradesh 518345",
+    "area": "518006",
+    "latitude": 15.937137499999999,
+    "longitude": 77.4167882,
+    "place_id": "ChIJ9UgLVQA7tjsRq239-Uo5iJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UgLVQA7tjsRq239-Uo5iJo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:42:08"
+  }
+]

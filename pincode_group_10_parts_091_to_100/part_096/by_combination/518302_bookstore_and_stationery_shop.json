@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Narayana Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "518302",
+    "phone_number": "+91 94405 05258",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 141,
+    "address": "R3M2+C26, Old Bus Stand Area, Kurnool, Andhra Pradesh 518001",
+    "area": "Old Bus Stand Area",
+    "latitude": 15.833542399999999,
+    "longitude": 78.0500079,
+    "place_id": "ChIJV97oaWTntTsRyMJofbbScbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV97oaWTntTsRyMJofbbScbA",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:31:18"
+  },
+  {
+    "business_name": "Rajeswari Book Centre,YEMMIGANUR",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "518302",
+    "phone_number": "+91 98856 22563",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 45,
+    "address": "Indira Nagar, Yemmiganur, Andhra Pradesh 518360",
+    "area": "Indira Nagar",
+    "latitude": 15.7674238,
+    "longitude": 77.480541,
+    "place_id": "ChIJuxIOYMhAtjsRucAngLqlmP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxIOYMhAtjsRucAngLqlmP0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:31:19"
+  }
+]

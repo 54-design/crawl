@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Content Hiring Company",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "518176",
+    "phone_number": "N/A",
+    "website": "http://contenthiring.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Content Hiring Company, 518176, India",
+    "area": "518176",
+    "latitude": 47.608715,
+    "longitude": -122.33979799999999,
+    "place_id": "ChIJdzbdl4QVkFQRGiBtNctvhJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzbdl4QVkFQRGiBtNctvhJU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:09:50"
+  },
+  {
+    "business_name": "Wavpe",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business networking company",
+    "all_categories": "Business networking company",
+    "pincode": "518176",
+    "phone_number": "N/A",
+    "website": "https://wavpe.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gowri Arcade, HIG-A-85, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Jayabheri Enclave, Gachibowli",
+    "latitude": 17.448995999999998,
+    "longitude": 78.36233279999999,
+    "place_id": "ChIJCWAgZe-TyzsRkrr-3vXfRao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWAgZe-TyzsRkrr-3vXfRao",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:09:51"
+  }
+]

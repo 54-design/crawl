@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Drop Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Chauffeur service, Minibus taxi service, Sightseeing Tour Operator, Tour agency, Tour operator, Travel agency",
+    "pincode": "517582",
+    "phone_number": "N/A",
+    "website": "https://www.droptaxiservice.info/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No.2/23 Bharathiar Street Thundalam, Chettiyar Agaram, Numbal, Chennai, Tamil Nadu 600077",
+    "area": "Chettiyar Agaram, Numbal, Iyyappanthangal",
+    "latitude": 13.0478398,
+    "longitude": 80.1398993,
+    "place_id": "ChIJD6L7fVNhUjoR5tr4VX0CFQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6L7fVNhUjoR5tr4VX0CFQw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:57:02"
+  },
+  {
+    "business_name": "Om Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "517582",
+    "phone_number": "+91 97300 47619",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 144,
+    "address": "Om Taxi Service, 517582, India",
+    "area": "517582",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ18PC4M2DwTsRfI49L-DpUnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18PC4M2DwTsRfI49L-DpUnU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:57:05"
+  }
+]

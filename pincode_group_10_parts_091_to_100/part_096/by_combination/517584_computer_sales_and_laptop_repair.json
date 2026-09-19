@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghuram Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "517584",
+    "phone_number": "+91 90303 42941",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "15, JNF Rd, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Holmus Pet",
+    "latitude": 14.755382599999999,
+    "longitude": 78.54967649999999,
+    "place_id": "ChIJp__fhaR4tDsRvzDkcl972Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp__fhaR4tDsRvzDkcl972Zo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:01:08"
+  },
+  {
+    "business_name": "RSN Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "517584",
+    "phone_number": "+91 88255 07020",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "address": "Polur - Vellore Rd, Kosapet, Vellore, Tamil Nadu 632001",
+    "area": "Kosapet",
+    "latitude": 12.906462399999999,
+    "longitude": 79.13333229999999,
+    "place_id": "ChIJkzI2Yrk5rTsRseKZlGQ6NIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzI2Yrk5rTsRseKZlGQ6NIM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:01:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KK Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "517590",
+    "phone_number": "+91 88016 55795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8H9H+PM3, Pudupet, Orugunta Puram, Nagari, Andhra Pradesh 517590",
+    "area": "Pudupet, Orugunta Puram",
+    "latitude": 13.319260199999999,
+    "longitude": 79.5791564,
+    "place_id": "ChIJebN4S6SnUjoR5HNfcLJdz_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebN4S6SnUjoR5HNfcLJdz_E",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:09:04"
+  },
+  {
+    "business_name": "Sai Physio Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Hospital",
+    "pincode": "517590",
+    "phone_number": "+91 99851 12290",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Police station, Adam Colony, Nagari, Andhra Pradesh 517590",
+    "area": "517590",
+    "latitude": 13.3206378,
+    "longitude": 79.5852154,
+    "place_id": "ChIJ360a8IynUjoRsjdtHf42KUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ360a8IynUjoRsjdtHf42KUM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:09:04"
+  }
+]

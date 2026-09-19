@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M S Fancy Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517590",
+    "phone_number": "+91 95155 86785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "10-9-120/A, Adam St, S R Nagar, Pudupet, Nagari, Andhra Pradesh 517590",
+    "area": "S R Nagar, Pudupet",
+    "latitude": 13.3202462,
+    "longitude": 79.5846428,
+    "place_id": "ChIJq6DhCwCnUjoRfomKmfqAH54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6DhCwCnUjoRfomKmfqAH54",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:08:42"
+  },
+  {
+    "business_name": "Vigneshwara Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517590",
+    "phone_number": "+91 95858 97855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Panraved, Nagari Rd, Andhra Pradesh 517590",
+    "area": "517590",
+    "latitude": 13.277894499999999,
+    "longitude": 79.53643579999999,
+    "place_id": "ChIJBUHvZ--pUjoRHN2dlk8YSA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUHvZ--pUjoRHN2dlk8YSA8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:08:43"
+  }
+]

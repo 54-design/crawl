@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ONLINE SERVICES",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "518218",
+    "phone_number": "+91 93909 09067",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 28 Anthony s Complex, Nandyal Rd, near R.T.O Office, Kalluru, Andhra Pradesh 518002",
+    "area": "Telecom Nagar, Madhavi Nagar",
+    "latitude": 15.8006012,
+    "longitude": 78.0488056,
+    "place_id": "ChIJU2mY80zdtTsRmRomXwccaR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2mY80zdtTsRmRomXwccaR8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:20:29"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "518218",
+    "phone_number": "+91 91333 44272",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S/O, Kandukuri Chandranna, 85-289-A, Shareen Nagar, Kallur, Kurnool, Andhra Pradesh 518003",
+    "area": "Shareen Nagar",
+    "latitude": 15.8066648,
+    "longitude": 78.0423285,
+    "place_id": "ChIJ_cqR6QbdtTsRJkyyUve9l90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cqR6QbdtTsRJkyyUve9l90",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:20:32"
+  }
+]

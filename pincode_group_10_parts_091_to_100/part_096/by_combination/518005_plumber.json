@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Schlegel Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "518005",
+    "phone_number": "N/A",
+    "website": "http://schlegelplumbing.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Schlegel Plumbing, 518005, India",
+    "area": "518005",
+    "latitude": 32.959652399999996,
+    "longitude": -96.711846,
+    "place_id": "ChIJo4J7VTUU40gR31s243fWz3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4J7VTUU40gR31s243fWz3o",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:04"
+  },
+  {
+    "business_name": "Umar Hardware & Sanitary",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "518005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No 44/16/10, opp. Nethaji Talkies, beside BSNL Office, Prakash Nagar, Kurnool, Andhra Pradesh 518004",
+    "area": "Prakash Nagar",
+    "latitude": 15.8359262,
+    "longitude": 78.0402283,
+    "place_id": "ChIJAQAAMF3ntTsRbrNi79LAgJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAMF3ntTsRbrNi79LAgJQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:40:05"
+  }
+]

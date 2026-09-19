@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Dairy store, Dairy Products Supplier, Food products supplier, Dairy, Ice cream shop, Milk delivery service",
+    "pincode": "517584",
+    "phone_number": "+91 91775 87952",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. 2-154, Nagari Pallipattu Rd, Satravada, Adavikothuru, Andhra Pradesh 517592",
+    "area": "Satravada",
+    "latitude": 13.3203883,
+    "longitude": 79.54923269999999,
+    "place_id": "ChIJvYA6BpWpUjoRkIcx58vptwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYA6BpWpUjoRkIcx58vptwo",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:55"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Dairy store, Dairy Products Supplier, Food products supplier, Dairy, Ice cream shop, Milk delivery service",
+    "pincode": "517584",
+    "phone_number": "+91 90003 05659",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6/56, Nagari Pallipattu Rd, Ekambarakuppam, Narayanavanam, Therani, Andhra Pradesh 517581",
+    "area": "Ekambarakuppam",
+    "latitude": 13.31724,
+    "longitude": 79.5635618,
+    "place_id": "ChIJp-r0X9KnUjoRnGHjf8FkTnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-r0X9KnUjoRnGHjf8FkTnQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:59:55"
+  }
+]

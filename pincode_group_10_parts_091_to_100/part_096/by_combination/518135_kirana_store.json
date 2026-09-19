@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "518135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7F9H+2RR, Gumparamandinne, Andhra Pradesh 518573",
+    "area": "518135",
+    "latitude": 15.267526799999999,
+    "longitude": 78.4795602,
+    "place_id": "ChIJWTQUQgBbtDsRhGtWk_R3tnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTQUQgBbtDsRhGtWk_R3tnk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:47"
+  },
+  {
+    "business_name": "K.G.N STORES",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "518135",
+    "phone_number": "+91 93467 00762",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "87/132-6, Arora Nagar, Mahalakshmi Nagar, Kalluru, Andhra Pradesh 518002",
+    "area": "Arora Nagar, Mahalakshmi Nagar",
+    "latitude": 15.7976487,
+    "longitude": 78.0421123,
+    "place_id": "ChIJeVribQDdtTsRfVbF2d76bZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVribQDdtTsRfVbF2d76bZ8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:48"
+  }
+]

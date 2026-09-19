@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bodepadu Hari transport",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Refrigerated transport service",
+    "all_categories": "Refrigerated transport service",
+    "pincode": "518225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Machapuram, Andhra Pradesh 518464",
+    "area": "518225",
+    "latitude": 15.6573616,
+    "longitude": 77.71743479999999,
+    "place_id": "ChIJp_eU-AVvtjsRuHXu6DU03MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_eU-AVvtjsRuHXu6DU03MQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:27:50"
+  },
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "518225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "JRJP+W93, Gorantla, Andhra Pradesh 518467",
+    "area": "518225",
+    "latitude": 15.6322551,
+    "longitude": 77.835925,
+    "place_id": "ChIJR3Q4JqtwtjsRpLt28O8V9IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3Q4JqtwtjsRpLt28O8V9IE",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:27:53"
+  }
+]

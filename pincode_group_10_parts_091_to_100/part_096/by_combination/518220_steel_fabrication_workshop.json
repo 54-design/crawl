@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S. Engineering Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works, Metal fabricator",
+    "pincode": "518220",
+    "phone_number": "+91 81219 29313",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Old RTO Office, Nandyal Road, Brundavan Nagar, Sree Rama Nagar, Kalluru, Andhra Pradesh 518002",
+    "area": "Brundavan Nagar, Sree Rama Nagar",
+    "latitude": 15.8008221,
+    "longitude": 78.0492773,
+    "place_id": "ChIJk17XwL3dtTsRSWjEVvWuiWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk17XwL3dtTsRSWjEVvWuiWs",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:32"
+  },
+  {
+    "business_name": "Jai Bhavani Steel",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Stainless steel plant",
+    "all_categories": "Stainless steel plant",
+    "pincode": "518220",
+    "phone_number": "+91 90146 23188",
+    "website": "https://www.instagram.com/jai_bhavani_steels_centre?igsh=dWVocjY1NXNpazRn&utm_source=qr",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "18/48, Nehru Rd, Bongul Bazar, Khadak Pura, Kurnool, Andhra Pradesh 518001",
+    "area": "Bongul Bazar, Khadak Pura",
+    "latitude": 15.830817399999999,
+    "longitude": 78.0495664,
+    "place_id": "ChIJAxnq4L3ntTsRAO_IP7usyu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxnq4L3ntTsRAO_IP7usyu4",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:22:34"
+  }
+]

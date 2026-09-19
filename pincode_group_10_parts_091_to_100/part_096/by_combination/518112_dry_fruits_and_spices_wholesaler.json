@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sona Sales",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Wholesaler",
+    "pincode": "518112",
+    "phone_number": "+91 85529 46464",
+    "website": "https://sonasales.in/",
+    "rating": 4.8,
+    "reviews_count": 88,
+    "address": "Shivaji Rd, Ganj Golai, Latur, Maharashtra 413512",
+    "area": "Ganj Golai",
+    "latitude": 18.39769,
+    "longitude": 76.58411799999999,
+    "place_id": "ChIJp6wwt6KDzzsR86ov29C660o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6wwt6KDzzsR86ov29C660o",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:00"
+  },
+  {
+    "business_name": "BHAGWATI DRY FRUITS & SPICES",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "518112",
+    "phone_number": "+91 90281 50503",
+    "website": "http://www.shreegunj.com/",
+    "rating": 4.3,
+    "reviews_count": 280,
+    "address": "SHOP NO 4, 20, River Rd, opp. B BLOCK, near Subhash Nagar, Pimpri Area, Shastri Nagar, Pimpri Colony, Pune, Pimpri-Chinchwad, Maharashtra 411017",
+    "area": "Pimpri Area, Shastri Nagar, Pimpri Colony",
+    "latitude": 18.6222338,
+    "longitude": 73.7993293,
+    "place_id": "ChIJuWq9dFS4wjsR0iPu7aMTx94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWq9dFS4wjsR0iPu7aMTx94",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:50:02"
+  }
+]

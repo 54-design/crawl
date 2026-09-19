@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shiva Residency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "518102",
+    "phone_number": "+91 82964 32567",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "3WH6+289, Sundipenta, Srisailam Project, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0775625,
+    "longitude": 78.91081249999999,
+    "place_id": "ChIJYw9ikKRltTsREgkunwq_Rvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYw9ikKRltTsREgkunwq_Rvk",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:49:14"
+  },
+  {
+    "business_name": "Trinetra Home Stay",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "518102",
+    "phone_number": "+91 90145 30748",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "western colony, 7-37-94/2, Sundipenta, Srisailam, Srisailam Project, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0729732,
+    "longitude": 78.9062831,
+    "place_id": "ChIJyViSyUFltTsRo9e-g8pn6Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyViSyUFltTsRo9e-g8pn6Aw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:49:14"
+  }
+]

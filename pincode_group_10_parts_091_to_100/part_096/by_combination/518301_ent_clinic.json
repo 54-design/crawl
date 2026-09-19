@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Sudhakar ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "518301",
+    "phone_number": "+91 88393 66011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3 rd Road, near Akshara sri junior college, SKD Colony, Adoni, Andhra Pradesh 518301",
+    "area": "SKD Colony",
+    "latitude": 15.6203568,
+    "longitude": 77.2798583,
+    "place_id": "ChIJwS6YU_BNtjsR7-lrq3nnZ-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS6YU_BNtjsR7-lrq3nnZ-s",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:28:45"
+  },
+  {
+    "business_name": "HolyEvan's ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "518301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J7CJ+VM6, Zero Road, SKD Colony, Adoni, Andhra Pradesh 518301",
+    "area": "SKD Colony",
+    "latitude": 15.6221602,
+    "longitude": 77.2816447,
+    "place_id": "ChIJU7pJbN5NtjsR1bcaUkidftI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7pJbN5NtjsR1bcaUkidftI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:28:45"
+  }
+]

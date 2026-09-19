@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jannat Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "518225",
+    "phone_number": "+91 99633 50751",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kodumur - Veldurthy Rd, Kodumur, Andhra Pradesh 518464",
+    "area": "518225",
+    "latitude": 15.685154899999999,
+    "longitude": 77.7739933,
+    "place_id": "ChIJ2cH-PQBxtjsR_E156tBMP_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cH-PQBxtjsR_E156tBMP_0",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:26:58"
+  },
+  {
+    "business_name": "Skm Wellness World",
+    "search_category": "Yoga Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "518225",
+    "phone_number": "+91 90633 31313",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Putakalamarri, Aspari, Muthukur, Andhra Pradesh 518465",
+    "area": "518225",
+    "latitude": 15.523242699999999,
+    "longitude": 77.4985889,
+    "place_id": "ChIJM0g-eABdtjsRiWDFYZUfeC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0g-eABdtjsRiWDFYZUfeC8",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:26:58"
+  }
+]

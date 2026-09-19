@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Manu's Homeopathy Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "517551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "JCRH+G4X, Srinivasa Nagar, Akkarampalle, Tirupati, Andhra Pradesh 517501",
+    "area": "Srinivasa Nagar, Akkarampalle",
+    "latitude": 13.6413601,
+    "longitude": 79.4278582,
+    "place_id": "ChIJS-iE1KpLTToRn3nzzZYiyxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-iE1KpLTToRn3nzzZYiyxQ",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:40"
+  },
+  {
+    "business_name": "Pavan Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517551",
+    "phone_number": "+91 98851 21929",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Yerramukkapalli, Kadapa, Andhra Pradesh 516001",
+    "area": "Yerramukkapalli",
+    "latitude": 14.4656732,
+    "longitude": 78.8233661,
+    "place_id": "ChIJQdCzxxNyszsRdNbUvwpTn2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdCzxxNyszsRdNbUvwpTn2w",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 06:47:43"
+  }
+]

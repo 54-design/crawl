@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Rabbit House",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "518216",
+    "phone_number": "+91 79939 08914",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "9VRF+8MR, Dhone at Dronachalam, Dhone, Andhra Pradesh 518222",
+    "area": "Dhone at Dronachalam",
+    "latitude": 15.390855799999999,
+    "longitude": 77.8741503,
+    "place_id": "ChIJxUjpAoeBtjsRMLm7PfhpSiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUjpAoeBtjsRMLm7PfhpSiI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:15:32"
+  },
+  {
+    "business_name": "A.L. REDDY CATTLE FEEDS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "518216",
+    "phone_number": "+91 94400 33319",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Government junior collage, kurnool road, opposite shop, Veldurthi, Andhra Pradesh 518216",
+    "area": "518216",
+    "latitude": 15.5555773,
+    "longitude": 77.92955549999999,
+    "place_id": "ChIJk8gCInUDyjsRCnOnU7CsBaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8gCInUDyjsRCnOnU7CsBaU",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:15:32"
+  }
+]

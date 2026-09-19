@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krs",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "518225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nelathalamari (V) Devnakonda (M)Kurnool (D, B.C Colony, Kurnool, Andhra Pradesh 518465",
+    "area": "B.C Colony",
+    "latitude": 15.49681,
+    "longitude": 77.5979624,
+    "place_id": "ChIJx8eN1fthtjsR-mc25IQLAMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8eN1fthtjsR-mc25IQLAMc",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:27:33"
+  },
+  {
+    "business_name": "KRS Decarations",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "518225",
+    "phone_number": "+91 77309 48009",
+    "website": "https://youtube.com/@kusurusivakumar6007?si=2CnDEc7koVbTwW4j",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Devanakonda, Nallachelimal, Andhra Pradesh 518465",
+    "area": "518225",
+    "latitude": 15.496747099999999,
+    "longitude": 77.5979299,
+    "place_id": "ChIJ96lLVABhtjsRMlt0cG3UYNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96lLVABhtjsRMlt0cG3UYNY",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 08:27:35"
+  }
+]

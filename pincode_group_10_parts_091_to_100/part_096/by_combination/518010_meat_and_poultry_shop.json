@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.N. Reddy poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "518010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J6W8+FGQ, Orvakal, Hussaina Puram, Andhra Pradesh 518010",
+    "area": "518010",
+    "latitude": 15.6462186,
+    "longitude": 78.216348,
+    "place_id": "ChIJddIxTgDJtTsRiiQEZfgywJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddIxTgDJtTsRiiQEZfgywJI",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:44:38"
+  },
+  {
+    "business_name": "Express Meat Mart",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "518010",
+    "phone_number": "+91 98889 22261",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "9/721, Agadi St, Ayesha Nagar, Guduru, Andhra Pradesh 516003",
+    "area": "Ayesha Nagar",
+    "latitude": 14.4866154,
+    "longitude": 78.8160645,
+    "place_id": "ChIJJccPnHtxszsRi3tb8p8PEWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJccPnHtxszsRi3tb8p8PEWM",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:44:40"
+  }
+]

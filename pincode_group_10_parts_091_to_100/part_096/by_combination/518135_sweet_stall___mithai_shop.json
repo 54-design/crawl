@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hyderabad Sweet House",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "518135",
+    "phone_number": "+91 95555 81116",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "40/824-B, Nehru Nagar, Prakash Nagar, Kurnool, Andhra Pradesh 518004",
+    "area": "Nehru Nagar, Prakash Nagar",
+    "latitude": 15.8339071,
+    "longitude": 78.040202,
+    "place_id": "ChIJwRHxc8XntTsRlaoFmQlQ23E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRHxc8XntTsRlaoFmQlQ23E",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:55"
+  },
+  {
+    "business_name": "SRI SAI HARITHA SWEET SHOP",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "518135",
+    "phone_number": "+91 62810 77946",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "XMR8+HCM, Chagallu, Andhra Pradesh 534342",
+    "area": "518135",
+    "latitude": 16.991474699999998,
+    "longitude": 81.666044,
+    "place_id": "ChIJm2Z7JgCvNzoRok0yr9PVLTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2Z7JgCvNzoRok0yr9PVLTw",
+    "part_id": "part_096",
+    "crawled_at": "2026-09-19 07:58:55"
+  }
+]
