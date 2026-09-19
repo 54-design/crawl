@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ganesh Computers sales & service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Appliance repair service, Computer desk store, Computer security service, Computer accessories store, Computer store, Desktop publishing service, Hardware store",
+    "pincode": "516309",
+    "phone_number": "+91 91600 51801",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Opp:citizen times Old bustand, Kadapa - Tirupati Rd, Rajampet, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.195564899999999,
+    "longitude": 79.1624937,
+    "place_id": "ChIJIbHx2hslszsR8QRW0Osk56E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbHx2hslszsR8QRW0Osk56E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:19:59"
+  },
+  {
+    "business_name": "Universal computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer consultant, Computer store, Second hand store",
+    "pincode": "516309",
+    "phone_number": "+91 87121 73339",
+    "website": "https://www.universalcomputers.net/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D.N0, 14/331,Opp ; Araviti theater,church Complex upstairs, Mydukur Rd, Proddatur, Andhra Pradesh 516360",
+    "area": "Ward 20, Nadimpalli",
+    "latitude": 14.747660499999999,
+    "longitude": 78.5552495,
+    "place_id": "ChIJP3qVJqh4tDsR0qW4SCfDB20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3qVJqh4tDsR0qW4SCfDB20",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:20:01"
+  }
+]

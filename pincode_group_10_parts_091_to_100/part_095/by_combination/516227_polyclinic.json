@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt Hospital,Badvel",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "P3M5+F4G, Ramanjaneya Nagar, Badvel, Andhra Pradesh 516227",
+    "area": "Ramanjaneya Nagar",
+    "latitude": 14.733698899999998,
+    "longitude": 79.05783439999999,
+    "place_id": "ChIJh0Kj2K5fszsRhzKwxghKUso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0Kj2K5fszsRhzKwxghKUso",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 05:57:11"
+  },
+  {
+    "business_name": "Sri Krishna medical",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "516227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P3J5+6V3, Badvel, Andhra Pradesh 516227",
+    "area": "516227",
+    "latitude": 14.7305212,
+    "longitude": 79.0596812,
+    "place_id": "ChIJXdOvDgBfszsRH45p24y1uPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdOvDgBfszsRH45p24y1uPw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 05:57:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V R Party Shop",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Supplier, Event planner, Party planner, Party store, Wedding planner",
+    "pincode": "516360",
+    "phone_number": "+91 78998 84436",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.01, Infantry Road, Club Rd, 4th Cross, Devi Nagar, Ballari, Karnataka 583103",
+    "area": "4th Cross, Devi Nagar",
+    "latitude": 15.1531696,
+    "longitude": 76.9179463,
+    "place_id": "ChIJP3cYD0ETtzsRZPY_wJqouyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3cYD0ETtzsRZPY_wJqouyk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:23"
+  },
+  {
+    "business_name": "Book My Balloons",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Balloon store, Service establishment, Event management company, Event planner, Party equipment rental service, Party store",
+    "pincode": "516360",
+    "phone_number": "N/A",
+    "website": "https://www.bookmyballoons.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Book My Balloons, 516360, India",
+    "area": "516360",
+    "latitude": 15.036098599999999,
+    "longitude": 76.32697979999999,
+    "place_id": "ChIJQ2N0v-4VrjsR42Zn4JRWKUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2N0v-4VrjsR42Zn4JRWKUM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:24"
+  }
+]

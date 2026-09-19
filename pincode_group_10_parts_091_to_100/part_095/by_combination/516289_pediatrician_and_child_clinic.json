@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Children's Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Hospital, Children's hospital",
+    "pincode": "516289",
+    "phone_number": "+91 84640 70196",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ambati Satram Junction, Phool Bagh Rd, Park Gate Area, Vizianagaram, Andhra Pradesh 535002",
+    "area": "Park Gate Area",
+    "latitude": 18.1154994,
+    "longitude": 83.4142011,
+    "place_id": "ChIJrw_HsGHlOzoRd0GwvfXrBhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrw_HsGHlOzoRd0GwvfXrBhs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:53"
+  },
+  {
+    "business_name": "Paediatrix Children's Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Doctor, Medical clinic",
+    "pincode": "516289",
+    "phone_number": "+91 90350 60249",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1586, 27th Main Rd, 2nd Sector, BDA Layout, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "2nd Sector, BDA Layout, HSR Layout",
+    "latitude": 12.9058932,
+    "longitude": 77.6511898,
+    "place_id": "ChIJP6z1qZ8UrjsRekkYIZgC7Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6z1qZ8UrjsRekkYIZgC7Yw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:53"
+  }
+]

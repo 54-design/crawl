@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pioneer chemical industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Laboratory equipment supplier",
+    "pincode": "516257",
+    "phone_number": "+91 91009 45131",
+    "website": "http://www.pioneerchemicalindustries.com/",
+    "rating": 4.2,
+    "reviews_count": 20,
+    "address": "11-157, Fatehnagar, Begumpet, Hyderabad, Telangana 500018",
+    "area": "Fatehnagar, Begumpet",
+    "latitude": 17.4610505,
+    "longitude": 78.4493207,
+    "place_id": "ChIJq6qqOu2QyzsRz_ZbQ4ldCOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqOu2QyzsRz_ZbQ4ldCOI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:44"
+  },
+  {
+    "business_name": "Shreas Industries Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical plant",
+    "all_categories": "Chemical plant",
+    "pincode": "516257",
+    "phone_number": "N/A",
+    "website": "https://www.shreas.com/",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Panchayati, Ranasthalam Mandal, Chittivalasa, Village, Pydibimavaram, Andhra Pradesh 532409",
+    "area": "516257",
+    "latitude": 18.122983299999998,
+    "longitude": 83.62499969999999,
+    "place_id": "ChIJcTE9RJIJPDoREeuAF6iP3hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTE9RJIJPDoREeuAF6iP3hs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:44"
+  }
+]

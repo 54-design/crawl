@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Vajra Hyper Mart Pvt Ltd",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket",
+    "pincode": "516259",
+    "phone_number": "+91 78910 11738",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 112,
+    "address": "near Ravi Petrol Bunk, beside Hyderabad - Bengaluru Highway, Lakshmi Nagar, Kovur Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Lakshmi Nagar, Kovur Nagar",
+    "latitude": 14.6786605,
+    "longitude": 77.5831626,
+    "place_id": "ChIJ1SCINQBLsTsRXnK2rip8MC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SCINQBLsTsRXnK2rip8MC0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:08:35"
+  },
+  {
+    "business_name": "D Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Supermarket",
+    "pincode": "516259",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8647,
+    "address": "MHFG+WHQ, Rudrampeta St, near RamaNagar, Rudrampeta, Anantapur, Andhra Pradesh 515004",
+    "area": "Rudrampeta",
+    "latitude": 14.672965399999999,
+    "longitude": 77.5808658,
+    "place_id": "ChIJjUObcHZLsTsRwY6IDwmAkYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUObcHZLsTsRwY6IDwmAkYM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:08:35"
+  }
+]

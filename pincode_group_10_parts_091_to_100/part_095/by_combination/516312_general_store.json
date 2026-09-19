@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B mart",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, ATM",
+    "pincode": "516312",
+    "phone_number": "+91 79979 98555",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QG2X+J37, Gandhi Rd, Posina Compound, Proddatur, Andhra Pradesh 516360",
+    "area": "Posina Compound",
+    "latitude": 14.751534699999999,
+    "longitude": 78.5476592,
+    "place_id": "ChIJTb8lXKF4tDsRNKa4MrTcIVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTb8lXKF4tDsRNKa4MrTcIVo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:04"
+  },
+  {
+    "business_name": "J P Stores",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "516312",
+    "phone_number": "+91 89125 17675",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "10-8-48, Kanithi Rd, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Gajuwaka",
+    "latitude": 17.6847088,
+    "longitude": 83.2129217,
+    "place_id": "ChIJlQaV06hpOToREpxS9gQHIRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQaV06hpOToREpxS9gQHIRs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:05"
+  }
+]

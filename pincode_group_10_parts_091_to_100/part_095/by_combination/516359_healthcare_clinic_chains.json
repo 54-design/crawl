@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Satya Dental Specialities",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist, Cosmetic dentist, Dental clinic",
+    "pincode": "516359",
+    "phone_number": "+91 95812 07728",
+    "website": "http://srisatyadental.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahathi School Road, behind Zilla Parishad High School, Subbaraopet, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Subbaraopet",
+    "latitude": 16.8139306,
+    "longitude": 81.5291499,
+    "place_id": "ChIJebxezB-1NzoRkGdZyUni9Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebxezB-1NzoRkGdZyUni9Y0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:40:12"
+  },
+  {
+    "business_name": "Dhanush Multi Speciality Dental Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516359",
+    "phone_number": "+91 63025 97698",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Inkulu complex, opp. nandibomma statue, Nandibomma center, Ramarao Peta, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Nandibomma center, Ramarao Peta",
+    "latitude": 16.8126467,
+    "longitude": 81.5282113,
+    "place_id": "ChIJdcM8GVO1NzoRhyYxOninX-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcM8GVO1NzoRhyYxOninX-g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:40:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H.N.clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "516360",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abid hotel street, Zinna Rd, Nadimpalli, Proddatur, Andhra Pradesh 516360",
+    "area": "Nadimpalli",
+    "latitude": 14.7458981,
+    "longitude": 78.5567525,
+    "place_id": "ChIJASW0WAqHszsRpoyvKHRPOC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASW0WAqHszsRpoyvKHRPOC0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:48"
+  },
+  {
+    "business_name": "TCS COCONUT HAIR OIL",
+    "search_category": "Clinics",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516360",
+    "phone_number": "+91 91691 79172",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Greenlands Road, opposite Cinehub, Modameedipalle, Modamidipalle, Andhra Pradesh 516360",
+    "area": "Modameedipalle",
+    "latitude": 14.738716199999999,
+    "longitude": 78.5627791,
+    "place_id": "ChIJeW0vFNB5tDsRKJ7qP1K_Bvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeW0vFNB5tDsRKJ7qP1K_Bvo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:50"
+  }
+]

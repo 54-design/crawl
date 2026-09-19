@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "పొట్టి చిన్ని",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "516349",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C6CG+VGV, Kadapa - Pulivendula Rd, Pulivendula, Andhra Pradesh 516390",
+    "area": "516349",
+    "latitude": 14.4222377,
+    "longitude": 78.22630529999999,
+    "place_id": "ChIJE-lZAGTrszsRBDg1ImoolUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-lZAGTrszsRBDg1ImoolUY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:54"
+  },
+  {
+    "business_name": "Chill And Grill Restaurant And Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar & grill",
+    "all_categories": "Bar & grill, Bar",
+    "pincode": "516349",
+    "phone_number": "+91 85682 86555",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 168,
+    "address": "C67G+Q9G, Kadapa Rd Bridge, Islampuram, Pulivendula, Andhra Pradesh 516391",
+    "area": "Islampuram",
+    "latitude": 14.414446199999999,
+    "longitude": 78.22595079999999,
+    "place_id": "ChIJw_EA5LXrszsRDCVRtGXBZqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_EA5LXrszsRDCVRtGXBZqQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:56"
+  }
+]

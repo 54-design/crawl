@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "516360",
+    "phone_number": "+91 99496 41880",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "7 / 30, JNF Rd, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Holmus Pet",
+    "latitude": 14.7541262,
+    "longitude": 78.5523695,
+    "place_id": "ChIJ__T-FZR5tDsRgivONG-YaVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__T-FZR5tDsRgivONG-YaVQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:57"
+  },
+  {
+    "business_name": "SR SPORTS WEAR",
+    "search_category": "Fitness Chains",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "516360",
+    "phone_number": "+91 62811 22628",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CHOWDESWARI NAGAR, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "CHOWDESWARI NAGAR, Holmus Pet",
+    "latitude": 14.754292399999999,
+    "longitude": 78.5499804,
+    "place_id": "ChIJx5PabwB5tDsRDWpJq6egYsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5PabwB5tDsRDWpJq6egYsk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:57"
+  }
+]

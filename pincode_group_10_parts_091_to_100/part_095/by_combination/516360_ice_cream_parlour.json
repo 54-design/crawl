@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iceland icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "516360",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 58,
+    "address": "PGWW+FQC, Gandhi Rd, Vinayk Nagar, Rameswaram, Proddatur, Andhra Pradesh 516360",
+    "area": "Vinayk Nagar, Rameswaram",
+    "latitude": 14.7461769,
+    "longitude": 78.54689739999999,
+    "place_id": "ChIJy-bFBYR5tDsRBeWKApFOKN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-bFBYR5tDsRBeWKApFOKN4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:35"
+  },
+  {
+    "business_name": "Momos & milkshakes",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "516360",
+    "phone_number": "+91 77991 72419",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Municipal Urdu School, Lane MedPlus, beside Gandhi Road, Sarvakatta, Proddatur, Andhra Pradesh 516360",
+    "area": "Sarvakatta",
+    "latitude": 14.7460586,
+    "longitude": 78.5470939,
+    "place_id": "ChIJKwg_YruHszsR1xCLsWZDrSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwg_YruHszsR1xCLsWZDrSQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:35"
+  }
+]

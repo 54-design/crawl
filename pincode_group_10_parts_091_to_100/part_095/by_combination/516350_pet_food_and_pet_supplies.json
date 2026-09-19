@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Qaswa aquatics and pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium, Aquarium shop, Bird shop",
+    "pincode": "516350",
+    "phone_number": "+91 93535 75750",
+    "website": "https://qaswa-aquatics-and.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st cross, near petrol pump, Tippu Nagar, Joythinagar, Chikkamagaluru, Karnataka 577101",
+    "area": "Tippu Nagar, Joythinagar",
+    "latitude": 13.3200521,
+    "longitude": 75.7771571,
+    "place_id": "ChIJwQgIqn7XujsRF4wICN63I3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQgIqn7XujsRF4wICN63I3g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:34:29"
+  },
+  {
+    "business_name": "Pluffy Pets & Aquariums",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "516350",
+    "phone_number": "+91 92489 39393",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "JhansiNilayam, 27-14-56/1, Rajagopalachari St, opp. airtel office, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.509212899999998,
+    "longitude": 80.62499509999999,
+    "place_id": "ChIJlQvcJMLxNToRyhgqbl4Vhnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQvcJMLxNToRyhgqbl4Vhnw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:34:30"
+  }
+]

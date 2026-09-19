@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saranya pharma",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "516360",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Room no 1, sri vasavi pharma complex, 11/271, opp. mandi complex, Auto Nagar, Proddatur, Modamidipalle, Andhra Pradesh 516360",
+    "area": "Auto Nagar",
+    "latitude": 14.747099599999999,
+    "longitude": 78.56738849999999,
+    "place_id": "ChIJH-UdQER5tDsRgdtsSJjNfgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-UdQER5tDsRgdtsSJjNfgw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:17"
+  },
+  {
+    "business_name": "Kpt5 beauty products",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier",
+    "pincode": "516360",
+    "phone_number": "+91 88860 92405",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QH33+2JG, Rajiv circle, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.7525733,
+    "longitude": 78.5540681,
+    "place_id": "ChIJgy_dC2d5tDsResyr_x8zTuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgy_dC2d5tDsResyr_x8zTuQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:17"
+  }
+]

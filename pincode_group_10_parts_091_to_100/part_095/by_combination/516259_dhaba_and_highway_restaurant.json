@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RUCHI FAMILY DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "516259",
+    "phone_number": "+91 99667 78603",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near flyover, Huzurnagar - Kodad Rd, Kodad, Telangana 508206",
+    "area": "516259",
+    "latitude": 16.9901898,
+    "longitude": 79.9510107,
+    "place_id": "ChIJ5cQIc9YDNToRG1YxQwireaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cQIc9YDNToRG1YxQwireaA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:06"
+  },
+  {
+    "business_name": "Veerachary Dhaba and Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516259",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "4HVX+P4J, Hyderabad - Vijayawada Hwy, Thallagadda, Suryapet, Telangana 508213",
+    "area": "Thallagadda",
+    "latitude": 17.144904,
+    "longitude": 79.598342,
+    "place_id": "ChIJB8BEAgDbNDoRz9P8gNGn1XU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8BEAgDbNDoRz9P8gNGn1XU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:06"
+  }
+]

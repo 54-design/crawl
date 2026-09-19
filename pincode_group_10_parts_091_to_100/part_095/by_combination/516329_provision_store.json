@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meda Grocery Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9F75+Q49, Gandhi Rd, Razak Nagar, Vempalli, Andhra Pradesh 516329",
+    "area": "Razak Nagar",
+    "latitude": 14.364412699999999,
+    "longitude": 78.4578648,
+    "place_id": "ChIJn0uScQC9szsRQsW-IlgimwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0uScQC9szsRQsW-IlgimwE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:27"
+  },
+  {
+    "business_name": "Karthik Provisions",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7X8H+3WQ, Eaguva Thadakara, Andhra Pradesh 517129",
+    "area": "516329",
+    "latitude": 13.265221299999999,
+    "longitude": 78.9798749,
+    "place_id": "ChIJ66-wsUNhrTsRCuTv_-vjNNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66-wsUNhrTsRCuTv_-vjNNs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:30"
+  }
+]

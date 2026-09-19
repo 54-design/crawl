@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Party Hub",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "516359",
+    "phone_number": "+91 90590 57366",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No: 23 & 24, Shiva Shankar complex, Korrapadu Rd, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.757345599999999,
+    "longitude": 78.5578594,
+    "place_id": "ChIJsbI5zot5tDsRIKycw5RV8cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbI5zot5tDsRIKycw5RV8cA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:40:38"
+  },
+  {
+    "business_name": "Rr party shop",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "516359",
+    "phone_number": "+91 81439 05658",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, QH44+765 SS Mall, Korrapadu Rd, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.755707099999999,
+    "longitude": 78.55566259999999,
+    "place_id": "ChIJtV7PVSN5tDsROITSCrdhf4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtV7PVSN5tDsROITSCrdhf4U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:40:38"
+  }
+]

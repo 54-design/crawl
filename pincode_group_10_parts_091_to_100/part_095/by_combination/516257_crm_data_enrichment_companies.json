@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hir Infotech",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Marketing consultant",
+    "pincode": "516257",
+    "phone_number": "+91 94096 28528",
+    "website": "https://hirinfotech.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GANESH GLORY, 11 E-508, Jagatpur Rd, Gota, Ahmedabad, Gujarat 382470",
+    "area": "Gota",
+    "latitude": 23.1126844,
+    "longitude": 72.5407665,
+    "place_id": "ChIJsXKcFx25XTkR8wreBs2qND0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXKcFx25XTkR8wreBs2qND0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:53"
+  },
+  {
+    "business_name": "Termscript Data Solution India Pvt Ltd.",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Accounting firm, Human resource consulting, Payroll Service Provider",
+    "pincode": "516257",
+    "phone_number": "+91 78210 99361",
+    "website": "https://termscript.co.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Global Business Hub, 4th Floor 08, opposite to Eon Free Zone Road, Kharadi, Pune, Maharashtra 411014",
+    "area": "EON Free Zone, Kharadi",
+    "latitude": 18.5510677,
+    "longitude": 73.95086289999999,
+    "place_id": "ChIJHyvnOgbDwjsRZtaGCHJGQlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyvnOgbDwjsRZtaGCHJGQlc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:55"
+  }
+]

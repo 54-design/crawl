@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Bike Mechanic",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Auto repair shop",
+    "pincode": "516310",
+    "phone_number": "+91 83417 77342",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1-77, Mulugu, Telangana 506343",
+    "area": "516310",
+    "latitude": 18.1907223,
+    "longitude": 79.9392989,
+    "place_id": "ChIJa9PPQ9cNMzoR28VUYNvLNPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9PPQ9cNMzoR28VUYNvLNPU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:21:03"
+  },
+  {
+    "business_name": "Castrol Bike Point - Shahi Auto Garrage",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Bike wash, Car repair and maintenance service, Oil change service, Repair service",
+    "pincode": "516310",
+    "phone_number": "+91 98484 75325",
+    "website": "https://www.castrol.com/en_in/india/home/services/bike-point.html/?utm_source=locator&utm_medium=brand_website",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Tadipatri Road, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "516310",
+    "latitude": 14.8487674,
+    "longitude": 78.3845314,
+    "place_id": "ChIJcVWOB3dxtDsRa92JLAbCPSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVWOB3dxtDsRa92JLAbCPSk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:21:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair Saloon",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic",
+    "pincode": "516259",
+    "phone_number": "+91 80964 29464",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "cross, Gandhi Rd, Chintalamadugu Palli, Vempalli, Andhra Pradesh 516329",
+    "area": "Chintalamadugu Palli",
+    "latitude": 14.357946799999999,
+    "longitude": 78.4559803,
+    "place_id": "ChIJR1-Mzm69szsRdHVFXlmm81g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1-Mzm69szsRdHVFXlmm81g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:51"
+  },
+  {
+    "business_name": "Dr Jaya's Exult Aesthetic Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Dermatologist, Laser hair removal service, Plastic surgeon, Skin care clinic",
+    "pincode": "516259",
+    "phone_number": "+91 70956 78678",
+    "website": "https://exultclinics.com/",
+    "rating": 4.9,
+    "reviews_count": 730,
+    "address": "10-2-B2, Opp Dutt Island building, Siripuram, above Bubbles Beauty Spa, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "Siripuram Junction, Ram Nagar",
+    "latitude": 17.723750499999998,
+    "longitude": 83.31757549999999,
+    "place_id": "ChIJs62FqEFDOToRcpv6WIxnwCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs62FqEFDOToRcpv6WIxnwCA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:52"
+  }
+]

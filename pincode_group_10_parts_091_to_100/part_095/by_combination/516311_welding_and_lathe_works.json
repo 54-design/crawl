@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "516311",
+    "phone_number": "+91 70349 95840",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Prakkanam, Pathanamthitta, Elanthoor, Keralam 689643",
+    "area": "Prakkanam",
+    "latitude": 9.2761561,
+    "longitude": 76.73778279999999,
+    "place_id": "ChIJHVCD1pUVBjsRcowqrv3WjUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVCD1pUVBjsRcowqrv3WjUQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:23:44"
+  },
+  {
+    "business_name": "Thirumalai Welding and Tools Mart",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "516311",
+    "phone_number": "+91 63792 11038",
+    "website": "https://www.thirumalaiweld.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Oppo.union bank of india, 72, Sanganoor Rd, Ganapathy, Coimbatore, Tamil Nadu 641006",
+    "area": "Ganapathy",
+    "latitude": 11.0349062,
+    "longitude": 76.9742304,
+    "place_id": "ChIJsbwmFV1YqDsRJQF2waoJ7d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbwmFV1YqDsRJQF2waoJ7d4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:23:46"
+  }
+]

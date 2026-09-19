@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMK snacks Chat",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516360",
+    "phone_number": "+91 84989 94303",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "QH62+649, Sai Kuteer Rd, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.7605416,
+    "longitude": 78.5503604,
+    "place_id": "ChIJedd4Vrh5tDsRax4Z6YG1JGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedd4Vrh5tDsRax4Z6YG1JGI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:36"
+  },
+  {
+    "business_name": "rajkumar organic farmers club",
+    "search_category": "Bar and Pub",
+    "primary_category": "Southern Italian restaurant",
+    "all_categories": "Southern Italian restaurant",
+    "pincode": "516360",
+    "phone_number": "+91 79891 99297",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vijayanagaram St, Venkateswara Pet, Proddatur, Andhra Pradesh 516316",
+    "area": "Venkateswara Pet",
+    "latitude": 14.7513054,
+    "longitude": 78.5461456,
+    "place_id": "ChIJlxZnKMd5tDsRzG_BzF_YcQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxZnKMd5tDsRzG_BzF_YcQw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:39"
+  }
+]

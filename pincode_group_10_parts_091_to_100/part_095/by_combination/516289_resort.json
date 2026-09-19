@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GEETHAM THALMARRI RESORTS & PLOTS",
+    "search_category": "Resort",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "516289",
+    "phone_number": "N/A",
+    "website": "http://www.thalmarri.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "PJ82+XQ, Yerraguntlapalle, Thallamapuram, Andhra Pradesh 516362",
+    "area": "516289",
+    "latitude": 14.7174119,
+    "longitude": 78.6019608,
+    "place_id": "ChIJ9YYSwgOBszsR4YFomsmvqXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YYSwgOBszsR4YFomsmvqXM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:16:25"
+  },
+  {
+    "business_name": "IMPERIAL LODGE & RESORT",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "516289",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "imperial garden, C/O, opposite Puttaparthy cross road, gatlu, Kadiri, Mutyala Cheruvu, Andhra Pradesh 515591",
+    "area": "gatlu",
+    "latitude": 14.1054941,
+    "longitude": 78.1219071,
+    "place_id": "ChIJh3vaSADPszsR2lrmeleycmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3vaSADPszsR2lrmeleycmI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:16:25"
+  }
+]

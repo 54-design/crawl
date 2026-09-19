@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petals Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant",
+    "pincode": "516339",
+    "phone_number": "+91 77997 18551",
+    "website": "http://hotelmasinenigrand.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "15/184, Raju Rd, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6788756,
+    "longitude": 77.6019788,
+    "place_id": "ChIJKzvC_dtKsTsRSznuFkxeYI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzvC_dtKsTsRSznuFkxeYI0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:31:07"
+  },
+  {
+    "business_name": "SAARANGI PURE VEG RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Vegetarian restaurant",
+    "pincode": "516339",
+    "phone_number": "+91 77299 29999",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "opp. Sagar Kidney Hospital, Danavai Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Danavai Peta",
+    "latitude": 17.006628499999998,
+    "longitude": 81.7814891,
+    "place_id": "ChIJFyJhIQCjNzoRd7H4UGRBKKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFyJhIQCjNzoRd7H4UGRBKKo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:31:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mango Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "516339",
+    "phone_number": "+91 98406 19068",
+    "website": "http://mango-resort.com/",
+    "rating": 4.2,
+    "reviews_count": 814,
+    "address": "1025, Bangana Dr, Appaiahpalem, Sri City, Andhra Pradesh 517646",
+    "area": "Appaiahpalem",
+    "latitude": 13.5249016,
+    "longitude": 80.0125058,
+    "place_id": "ChIJmxQ3Qf95TToRpoohUo4seYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxQ3Qf95TToRpoohUo4seYM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:01"
+  },
+  {
+    "business_name": "APTDC Ramatheerdham Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "516339",
+    "phone_number": "+91 90146 83663",
+    "website": "https://tharangresortsaptdc.com/",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "J5V4+VR7, Dandigunta, Andhra Pradesh 524318",
+    "area": "516339",
+    "latitude": 14.6447211,
+    "longitude": 80.15704389999999,
+    "place_id": "ChIJO_HSQAB9TDoRRFqwfE02NHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_HSQAB9TDoRRFqwfE02NHw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:03"
+  }
+]

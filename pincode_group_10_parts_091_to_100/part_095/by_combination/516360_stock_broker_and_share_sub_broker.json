@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PROFITMART",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "516360",
+    "phone_number": "+91 44 4216 1990",
+    "website": "https://profitmart.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "2nd Floor, Building, No.37, No.110, Chateau D Ampa, Nelson Manickam Rd, Old Narasingapuram, Rajaram Mehta Nagar, Aminjikarai, Chennai, Tamil Nadu 600030",
+    "area": "Old Narasingapuram, Rajaram Mehta Nagar, Aminjikarai",
+    "latitude": 13.0714104,
+    "longitude": 80.2232302,
+    "place_id": "ChIJy0mGBIVmUjoRaz4Hy1EE3xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0mGBIVmUjoRaz4Hy1EE3xY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:45"
+  },
+  {
+    "business_name": "PL Capital - Prabhudas Lilladher",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial planner, Insurance broker, Investment bank, Investment service",
+    "pincode": "516360",
+    "phone_number": "+91 88790 19116",
+    "website": "https://stockbroker.plindia.com/pl-capital-prabhudas-lilladher-stock-broker-worli-mumbai-565839/Home",
+    "rating": 3.7,
+    "reviews_count": 54,
+    "address": "3rd Floor, Sadhana House, No 570, Pandurang Budhkar Marg, BDD Chawls Worli, Worli, Mumbai, Maharashtra 400018",
+    "area": "BDD Chawls Worli, Worli",
+    "latitude": 19.005224,
+    "longitude": 72.8226526,
+    "place_id": "ChIJl42bdhXJ5zsRPjw8uxDlTTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl42bdhXJ5zsRPjw8uxDlTTI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:47"
+  }
+]

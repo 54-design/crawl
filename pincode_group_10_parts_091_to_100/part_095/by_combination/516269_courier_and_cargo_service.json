@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andhra Cargo Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "516269",
+    "phone_number": "+91 40 5646 0934",
+    "website": "http://andhracargoservice.com/",
+    "rating": 3.6,
+    "reviews_count": 23,
+    "address": "No.5-8, 332/10, Medwin Lane, near Shalimar Garden, near Medwin Lane, Mahesh Nagar Colony, Nampally, Hyderabad, Telangana 500001",
+    "area": "Mahesh Nagar Colony, Nampally",
+    "latitude": 17.393418,
+    "longitude": 78.4709936,
+    "place_id": "ChIJLZBwP2OXyzsRCCV60oN9b5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZBwP2OXyzsRCCV60oN9b5k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:25"
+  },
+  {
+    "business_name": "Rayachoti SO post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "516269",
+    "phone_number": "+91 73403 46661",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Ngo Building, Kothapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Kothapeta",
+    "latitude": 14.057697,
+    "longitude": 78.7482362,
+    "place_id": "ChIJLzpfqycCszsRpxGwzoeORcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzpfqycCszsRpxGwzoeORcs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:26"
+  }
+]

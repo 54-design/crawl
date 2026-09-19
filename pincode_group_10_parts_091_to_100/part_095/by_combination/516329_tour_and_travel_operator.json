@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "516329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Rd, Vempalli, Andhra Pradesh 516329",
+    "area": "516329",
+    "latitude": 14.3558431,
+    "longitude": 78.4593402,
+    "place_id": "ChIJ-w0Ga4O9szsRuMZUWYqxQYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-w0Ga4O9szsRuMZUWYqxQYw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:04"
+  },
+  {
+    "business_name": "Bhargav Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "516329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9F83 886, Vempalli, Andhra Pradesh 516329",
+    "area": "516329",
+    "latitude": 14.365865,
+    "longitude": 78.45276969999999,
+    "place_id": "ChIJJ3efPRS9szsR0i9KfeumBUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3efPRS9szsR0i9KfeumBUA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Rice traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "516312",
+    "phone_number": "+91 94409 20120",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Alankar Centre, Barlapenta Bazaar, Suryapet, Telangana 508213",
+    "area": "Alankar Centre, Barlapenta Bazaar",
+    "latitude": 17.139753,
+    "longitude": 79.6209708,
+    "place_id": "ChIJtZypqOHbNDoRMSVFZD4r3ZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZypqOHbNDoRMSVFZD4r3ZU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:04"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "516312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "R3J7+Q8G, Sai, Maharashtra 402107",
+    "area": "516312",
+    "latitude": 18.831925599999998,
+    "longitude": 73.06332189999999,
+    "place_id": "ChIJA1QTyNDf5zsRuvk5Uus-KJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1QTyNDf5zsRuvk5Uus-KJc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:04"
+  }
+]

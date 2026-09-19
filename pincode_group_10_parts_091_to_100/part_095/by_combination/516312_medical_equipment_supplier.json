@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healthcareneeds",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Health consultant, Local medical services, Medical supply store, Oxygen equipment supplier",
+    "pincode": "516312",
+    "phone_number": "+91 98853 78287",
+    "website": "https://healthcareneeds.in/",
+    "rating": 5,
+    "reviews_count": 3673,
+    "address": "2-4-600, Rd Number 9A, behind Union Bank, New Nagole, Nagole, Hyderabad, Telangana 500068",
+    "area": "New Nagole, Nagole",
+    "latitude": 17.3739,
+    "longitude": 78.5569812,
+    "place_id": "ChIJ1QYLKqKZyzsRDtp75Yyu3xU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QYLKqKZyzsRDtp75Yyu3xU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:31"
+  },
+  {
+    "business_name": "LYFE Medical Stores Pvt Ltd",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "516312",
+    "phone_number": "+91 72074 86744",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 98,
+    "address": "29-33-9/10 ground floor Alluri Sita Rama Raju, junction, Devi Chowk Circle, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Jampet",
+    "latitude": 17.008948,
+    "longitude": 81.776208,
+    "place_id": "ChIJ10q1DuylNzoRQY7tEZfyJ9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10q1DuylNzoRQY7tEZfyJ9s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:31"
+  }
+]

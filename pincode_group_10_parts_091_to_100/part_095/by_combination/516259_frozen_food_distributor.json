@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen point",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "516259",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8/5, Garapati agar, 41-1, Tadithota, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Tadithota",
+    "latitude": 16.9973523,
+    "longitude": 81.7815906,
+    "place_id": "ChIJocvig7KjNzoRjAfGnosOayk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocvig7KjNzoRjAfGnosOayk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:03"
+  },
+  {
+    "business_name": "AKREETI Food Services Company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, FMCG Goods Wholesaler, Food and beverage consultant",
+    "pincode": "516259",
+    "phone_number": "+91 98648 50495",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Puberun Path, Bagharbari, Guwahati, Assam 781037",
+    "area": "Bagharbari",
+    "latitude": 26.1417213,
+    "longitude": 91.8300076,
+    "place_id": "ChIJy1lC5LdZWjcRTLxUo6E6uVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1lC5LdZWjcRTLxUo6E6uVE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Contact lenses supplier",
+    "all_categories": "Contact lenses supplier, Optical Wholesaler",
+    "pincode": "516257",
+    "phone_number": "+91 99630 95031",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "21, Palem Papaiah St, Urlagattu Podu, Kadapa, Andhra Pradesh 516001",
+    "area": "Urlagattu Podu, Kadapa",
+    "latitude": 14.4769224,
+    "longitude": 78.82426389999999,
+    "place_id": "ChIJmwkoGxtyszsRFrTtaBQrKXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwkoGxtyszsRFrTtaBQrKXY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:39"
+  },
+  {
+    "business_name": "Royal Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Wholesaler",
+    "all_categories": "Optical Wholesaler, Optician",
+    "pincode": "516257",
+    "phone_number": "+91 96424 02541",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhinagar, Pogathota, Nellore, Andhra Pradesh 524001",
+    "area": "Gandhinagar, Pogathota",
+    "latitude": 14.4492414,
+    "longitude": 79.9853419,
+    "place_id": "ChIJiThlPsqMTDoRO3OlBXPhIVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiThlPsqMTDoRO3OlBXPhIVM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:39"
+  }
+]

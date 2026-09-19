@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baker's Super Mart",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Baking supply store",
+    "all_categories": "Baking supply store, Bakery equipment, Cake decorating equipment shop, Supermarket",
+    "pincode": "516269",
+    "phone_number": "+91 98850 13257",
+    "website": "https://www.bakerssupermart.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7-2-C-64, Industrial Estate, Leela Square, Sanath Nagar Main Rd, behind Lodha, Sanath Nagar, Hyderabad, Telangana 500018",
+    "area": "Allauddin Basthi, Sanath Nagar",
+    "latitude": 17.457585299999998,
+    "longitude": 78.4472152,
+    "place_id": "ChIJlWBgI8eQyzsRT16LXYC7pf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWBgI8eQyzsRT16LXYC7pf0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:12:11"
+  },
+  {
+    "business_name": "Golden bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516269",
+    "phone_number": "+91 84950 93738",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 524,
+    "address": "Weavers Colony, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Weavers Colony",
+    "latitude": 14.906021299999999,
+    "longitude": 78.0180369,
+    "place_id": "ChIJS6pxQ8UdtDsRUX-4Pb6OjRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6pxQ8UdtDsRUX-4Pb6OjRE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:12:12"
+  }
+]

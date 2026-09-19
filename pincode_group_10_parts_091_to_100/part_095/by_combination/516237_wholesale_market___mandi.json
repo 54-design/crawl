@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sabji Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "516237",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "RR74+W7M, Maruti Nagar, Jaipur, Rajasthan 302029",
+    "area": "Maruti Nagar",
+    "latitude": 26.814825199999998,
+    "longitude": 75.8056637,
+    "place_id": "ChIJ32FZorLLbTkRp2XIkpRX80A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32FZorLLbTkRp2XIkpRX80A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:03:33"
+  },
+  {
+    "business_name": "Mahalakshmi Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "516237",
+    "phone_number": "+91 92474 68005",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13/264, PSR STREET, YV Street, Kadapa, Andhra Pradesh 516001",
+    "area": "YV Street, Kadapa",
+    "latitude": 14.4816443,
+    "longitude": 78.8210873,
+    "place_id": "ChIJEzs3K59zszsR_CV7xcYQOso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzs3K59zszsR_CV7xcYQOso",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:03:34"
+  }
+]

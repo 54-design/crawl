@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhuma Shopping Complex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "516321",
+    "phone_number": "+91 83413 33855",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "J4HG+GH4, Simhadripuram, Andhra Pradesh 516454",
+    "area": "516321",
+    "latitude": 14.6287744,
+    "longitude": 78.12644,
+    "place_id": "ChIJVVVVlbPwszsR4tzEcQSh92E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlbPwszsR4tzEcQSh92E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:24"
+  },
+  {
+    "business_name": "Gopalan Grand Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cafe, Childrens Store, Food court, Fresh food market, Grocery store, Movie theater, Perfume store",
+    "pincode": "516321",
+    "phone_number": "+91 80 2524 2484",
+    "website": "https://www.gopalanmall.com/gopalan-grand-mall.html",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "86, Old Madras Rd, Nagavarapalya, C V Raman Nagar, Bengaluru, Karnataka 560093",
+    "area": "Nagavarapalya, C V Raman Nagar",
+    "latitude": 12.9934585,
+    "longitude": 77.6641179,
+    "place_id": "ChIJDSYiFkgRrjsRvEDQMqhfVKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSYiFkgRrjsRvEDQMqhfVKA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:24"
+  }
+]

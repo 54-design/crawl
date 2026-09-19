@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tile Store",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Bathroom remodeler, Bathroom supply store, Ceramics wholesaler, Countertop store, Interior designer, Sanitation service, Tile contractor, Tile manufacturer",
+    "pincode": "516293",
+    "phone_number": "+91 98404 50046",
+    "website": "http://www.thetilestore.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No. 107/1, Chettiyar Agaram St, next to KPN Farms Pvt Ltd, Rajiv Nagar, Rajiv Gandhi Nagar, Vanagaram, Chennai, Tamil Nadu 600077",
+    "area": "Rajiv Nagar, Rajiv Gandhi Nagar, Vanagaram",
+    "latitude": 13.058548499999999,
+    "longitude": 80.149327,
+    "place_id": "ChIJuSs1_whhUjoRK1CDB9elcDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSs1_whhUjoRK1CDB9elcDU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:17:50"
+  },
+  {
+    "business_name": "RENUKHA TILES",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "516293",
+    "phone_number": "+91 93630 37122",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1,2, Imperial Square, Rd, Kammiyampettai, Semmandalam, Tamil Nadu 607001",
+    "area": "516293",
+    "latitude": 11.7618671,
+    "longitude": 79.748042,
+    "place_id": "ChIJQxt1U2OZVDoRG-ikG5NN0mI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxt1U2OZVDoRG-ikG5NN0mI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:17:50"
+  }
+]

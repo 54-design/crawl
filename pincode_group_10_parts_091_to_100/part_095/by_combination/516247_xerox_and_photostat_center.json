@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Syed Hidayathulla Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "516247",
+    "phone_number": "+91 99859 97096",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FX98 98J, Siddavatam, Andhra Pradesh 516237",
+    "area": "516247",
+    "latitude": 14.4684657,
+    "longitude": 78.965741,
+    "place_id": "ChIJCQMugrZrszsRQd9tvqdJXjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQMugrZrszsRQd9tvqdJXjY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:04:45"
+  },
+  {
+    "business_name": "City Jumbo Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "516247",
+    "phone_number": "+91 863 223 9218",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 357,
+    "address": "9/1, opposite UCO Bank, Arundelpet, Guntur, Andhra Pradesh 522002",
+    "area": "Arundelpet",
+    "latitude": 16.3043661,
+    "longitude": 80.4390514,
+    "place_id": "ChIJq6qq2kR1SjoRJOn9GDi73eQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2kR1SjoRJOn9GDi73eQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:04:47"
+  }
+]

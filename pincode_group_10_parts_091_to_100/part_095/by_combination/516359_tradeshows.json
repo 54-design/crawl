@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "perfect events",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner",
+    "pincode": "516359",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "d, no 2/239-1, 2/47, near sbi colony, Dorasanipalli, Dorasanipalle, Andhra Pradesh 516361",
+    "area": "Dorasanipalli",
+    "latitude": 14.755116099999999,
+    "longitude": 78.532044,
+    "place_id": "ChIJh-ngS7F5tDsRZ3DlKun2jFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-ngS7F5tDsRZ3DlKun2jFc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:15"
+  },
+  {
+    "business_name": "ANAGHA EVENTS",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "516359",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7/829-4, near RELIANCE SUPER MARKET, opp. OM SHANTHI BHAVAN, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.756427599999999,
+    "longitude": 78.55553909999999,
+    "place_id": "ChIJ3bJrMyV5tDsR4YaoFaKWkn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bJrMyV5tDsR4YaoFaKWkn4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:15"
+  }
+]

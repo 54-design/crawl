@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surendra Shop",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "516339",
+    "phone_number": "+91 76590 73695",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-14B A, Obayapalli A, Obayapalli, Kadapa, Chinnacheppali, Andhra Pradesh 516289",
+    "area": "Obayapalli A, Obayapalli",
+    "latitude": 14.537953799999999,
+    "longitude": 78.5752983,
+    "place_id": "ChIJ4wOX132dszsRpod9HaSchk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wOX132dszsRpod9HaSchk4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:40"
+  },
+  {
+    "business_name": "shop",
+    "search_category": "Shops",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "516339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "48/587, New Bus Stand Rd, SLB Enclave, Prakash Nagar, Chinna Chauku, Andhra Pradesh 516001",
+    "area": "SLB Enclave, Prakash Nagar",
+    "latitude": 14.463052399999999,
+    "longitude": 78.8312096,
+    "place_id": "ChIJXZlgyhFzszsRAWZAC8NjiAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZlgyhFzszsRAWZAC8NjiAA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:42"
+  }
+]

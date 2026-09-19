@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "baba Travels and cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Motoring club",
+    "pincode": "516257",
+    "phone_number": "+91 98666 21168",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "5PP2+4VH, Lakkireddipalli, Andhra Pradesh 516257",
+    "area": "516257",
+    "latitude": 14.1852548,
+    "longitude": 78.7021972,
+    "place_id": "ChIJQU6nxtsHszsRJtQFgaoEj_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQU6nxtsHszsRJtQFgaoEj_w",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:53"
+  },
+  {
+    "business_name": "GoCabxi : Outstations Cabs and Taxi service | Book Cabs In banglore | Outstation service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Car leasing service, Car rental agency, Transportation service",
+    "pincode": "516257",
+    "phone_number": "+91 63662 23343",
+    "website": "https://gocabxi.com/",
+    "rating": 4.9,
+    "reviews_count": 1162,
+    "address": "Tirumal Theater, 254/151, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Agara Village, 1st Sector, HSR Layout",
+    "latitude": 12.9200436,
+    "longitude": 77.6491786,
+    "place_id": "ChIJz7Vxcw0VrjsRkDtSNAuN_RI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7Vxcw0VrjsRkDtSNAuN_RI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:53"
+  }
+]

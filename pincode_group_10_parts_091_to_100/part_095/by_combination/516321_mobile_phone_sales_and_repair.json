@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zeeq Systems",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "516321",
+    "phone_number": "+91 98470 00003",
+    "website": "http://www.zeeqmobiles.com/site/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Rohini Shopping Complex, Thakaraparambu Rd, Thakaraparambu, Nalumukku, Pazhavangadi, Thiruvananthapuram, Keralam 695023",
+    "area": "Thakaraparambu, Nalumukku, Pazhavangadi",
+    "latitude": 8.4867247,
+    "longitude": 76.9463693,
+    "place_id": "ChIJ5_2U6qG7BTsRI1clTTw7GO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_2U6qG7BTsRI1clTTw7GO8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:26:59"
+  },
+  {
+    "business_name": "Prasad Cell Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Cell phone store, Educational testing service, Electronics repair shop, Institute of technology, Phone repair service, Screen repair service, Training center",
+    "pincode": "516321",
+    "phone_number": "+91 99499 48994",
+    "website": "http://prasadcellcare.com/",
+    "rating": 4.7,
+    "reviews_count": 1043,
+    "address": "30-15-111A, prasadcellcare, woodland show room upstairs, woodland show upstairs, Daba Gardens, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Mahaarajupeta",
+    "latitude": 17.7201923,
+    "longitude": 83.30301709999999,
+    "place_id": "ChIJic8AhfZDOToRne2oeIC16Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJic8AhfZDOToRne2oeIC16Sc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:00"
+  }
+]

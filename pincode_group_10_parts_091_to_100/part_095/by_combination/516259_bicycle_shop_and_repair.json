@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEJA BIKE WORKS",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "516259",
+    "phone_number": "+91 81791 00989",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8, Vempalli, Andhra Pradesh 516329",
+    "area": "516259",
+    "latitude": 14.3769308,
+    "longitude": 78.459155,
+    "place_id": "ChIJaenW8KWXszsRecCNYhLMkWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaenW8KWXszsRecCNYhLMkWY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:34"
+  },
+  {
+    "business_name": "The ebike store - multi brand electric bicycles store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Showroom",
+    "pincode": "516259",
+    "phone_number": "+91 70907 05550",
+    "website": "https://ebykeshop.com/",
+    "rating": 4.7,
+    "reviews_count": 73,
+    "address": "The ebike store, 3G Crimson Layout, FCI Main Road Channasandra, Whitefield, above Meals King Restaurant, Whitefield, Bengaluru, Karnataka 560067",
+    "area": "3G Homes Crimson Layout, Whitefield",
+    "latitude": 12.985916699999999,
+    "longitude": 77.7675958,
+    "place_id": "ChIJOQWvUAgPrjsRZCphMHIVqCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQWvUAgPrjsRZCphMHIVqCI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:35"
+  }
+]

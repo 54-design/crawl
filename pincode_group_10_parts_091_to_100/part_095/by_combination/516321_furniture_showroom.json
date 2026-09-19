@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amulya Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Furniture maker",
+    "pincode": "516321",
+    "phone_number": "+91 99665 54478",
+    "website": "http://www.amulyafurniture.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "door no :- 27, Amulya Tower, 12-78, Ali Baig St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5129916,
+    "longitude": 80.6248974,
+    "place_id": "ChIJZ-Y9QLH6NToRltigvznpohk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRltigvznpohk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:26:33"
+  },
+  {
+    "business_name": "Sri Krishna furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "516321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QM3Q+QP7, Tirunelveli - Sankarankoil Rd, Ramayanpatti, Tamil Nadu 627358",
+    "area": "516321",
+    "latitude": 8.754416899999999,
+    "longitude": 77.6893114,
+    "place_id": "ChIJqasyJgARBDsRgD5WSmQ9G60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqasyJgARBDsRgD5WSmQ9G60",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:26:35"
+  }
+]

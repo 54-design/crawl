@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coconut Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "516289",
+    "phone_number": "+91 83099 56754",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 70,
+    "address": "Coconutjuicebar, exit gate, opp. to The Forum Sujana Mall, beside sbi bank, K P H B Phase 9, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 9, Kukatpally",
+    "latitude": 17.4854088,
+    "longitude": 78.3884331,
+    "place_id": "ChIJa7IT1rCRyzsRMCPqcWir7Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7IT1rCRyzsRMCPqcWir7Cs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:37"
+  },
+  {
+    "business_name": "Haji Ali Fresh Fruit Juices",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "516289",
+    "phone_number": "+91 70349 99004",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 858,
+    "address": "Road No : 3, 8-2, 277/12, UBI Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills",
+    "latitude": 17.424686599999998,
+    "longitude": 78.4375646,
+    "place_id": "ChIJSVF3EDeXyzsRER1hCWZO5OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVF3EDeXyzsRER1hCWZO5OM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Irshad Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516289",
+    "phone_number": "+91 94927 42406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12, Kamalapuram, Proddatur, Andhra Pradesh 516289",
+    "area": "516289",
+    "latitude": 14.592460299999999,
+    "longitude": 78.6694491,
+    "place_id": "ChIJv1ZTzI15szsRhpj44Bv9u0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1ZTzI15szsRhpj44Bv9u0k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:45"
+  },
+  {
+    "business_name": "New paragon shoe mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516289",
+    "phone_number": "+91 98852 24918",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, old bank street, opposite on market road, near police station, Khajipet Sunkesula, Andhra Pradesh 516203",
+    "area": "516289",
+    "latitude": 14.651808899999999,
+    "longitude": 78.7701544,
+    "place_id": "ChIJef3CUUN7szsRBhQThki0Vek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJef3CUUN7szsRBhQThki0Vek",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:46"
+  }
+]

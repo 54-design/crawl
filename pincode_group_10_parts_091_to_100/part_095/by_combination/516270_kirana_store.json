@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAMAL BASHA GENERAL STORE",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516270",
+    "phone_number": "+91 81426 58850",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "SHOP NO 4, Kadapa Rd, Masapeta, Rayachoty, Masapet, Andhra Pradesh 516270",
+    "area": "Masapeta",
+    "latitude": 14.0738197,
+    "longitude": 78.7536101,
+    "place_id": "ChIJXXgfP_ADszsRAR4zID97Rdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXgfP_ADszsRAR4zID97Rdc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:43"
+  },
+  {
+    "business_name": "ABDUL LATHEEF General Store & market",
+    "search_category": "Kirana Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516270",
+    "phone_number": "+91 99122 95060",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "ABDUL LATHEEF, Rayavaram, Andhra Pradesh 516129",
+    "area": "516270",
+    "latitude": 13.986725999999999,
+    "longitude": 78.9909571,
+    "place_id": "ChIJd7K7ZDbhsjsRCO-2vnS0xkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7K7ZDbhsjsRCO-2vnS0xkg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:46"
+  }
+]

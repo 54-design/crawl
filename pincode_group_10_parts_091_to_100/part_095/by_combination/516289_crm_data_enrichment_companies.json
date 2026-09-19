@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Domaincer",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, E - Commerce Agency, E-commerce service, Graphic designer, Internet marketing service, Marketing agency, Web hosting company, Website designer",
+    "pincode": "516289",
+    "phone_number": "N/A",
+    "website": "https://domaincer.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "The Hive, 3rd Floor, Madras House Building VR Mall, Anna Nagar, Chennai, Tamil Nadu 600040",
+    "area": "Thirumangalam, Anna Nagar",
+    "latitude": 13.080640599999999,
+    "longitude": 80.1961953,
+    "place_id": "ChIJz5BDeqhjUjoRlBTrLAA8K-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5BDeqhjUjoRlBTrLAA8K-c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:17:03"
+  },
+  {
+    "business_name": "SMARTe Inc (India Office)",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "516289",
+    "phone_number": "N/A",
+    "website": "https://www.smarte.pro/",
+    "rating": 3.6,
+    "reviews_count": 71,
+    "address": "Floor 9, Rupa Sapphire, Sector 18, Vashi, Navi Mumbai, Maharashtra 400705",
+    "area": "Sector 18, Vashi",
+    "latitude": 19.0684289,
+    "longitude": 73.0076828,
+    "place_id": "ChIJH5sTrU3B5zsRov4TxrUmnmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5sTrU3B5zsRov4TxrUmnmY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

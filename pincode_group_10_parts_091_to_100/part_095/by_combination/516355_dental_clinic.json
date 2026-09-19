@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaasritha Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Hospital",
+    "pincode": "516355",
+    "phone_number": "+91 99857 50613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No-16-392,First Floor,Nimmanapalli Circle, Road, NImmanapalli, Madanapalle, Andhra Pradesh 517325",
+    "area": "Rama Gopal Naidu Colony",
+    "latitude": 13.5499469,
+    "longitude": 78.5122358,
+    "place_id": "ChIJbUi2pCtlsjsR88uAR4PaPb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUi2pCtlsjsR88uAR4PaPb4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:35"
+  },
+  {
+    "business_name": "CHANDRAMA DENTAL CLINIC",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "516355",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 39,
+    "address": "Dantewada, Chhattisgarh 494449",
+    "area": "516355",
+    "latitude": 18.9239307,
+    "longitude": 81.3434899,
+    "place_id": "ChIJf814AKC3MToRFcDITE4giUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf814AKC3MToRFcDITE4giUw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:35"
+  }
+]

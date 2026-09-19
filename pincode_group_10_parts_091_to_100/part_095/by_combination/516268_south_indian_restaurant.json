@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of setty's",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Biryani restaurant, Chicken wings restaurant, Chinese restaurant, Dhaba, Fast food restaurant, Non Vegetarian Restaurant, Party store, Restaurant, Vegetarian restaurant",
+    "pincode": "516268",
+    "phone_number": "+91 88866 69429",
+    "website": "https://www.instagram.com/house_of_settys?igsh=eGFxbTdmbGlvdGJ1",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Anand Nagar, Madhurawada, Potinamallayyapalem, Andhra Pradesh 530041",
+    "area": "Anand Nagar, Madhurawada",
+    "latitude": 17.8027864,
+    "longitude": 83.3493311,
+    "place_id": "ChIJD6aAYYBbOToR_AgGxzufdTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6aAYYBbOToR_AgGxzufdTw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:10:30"
+  },
+  {
+    "business_name": "Sudha restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Non Vegetarian Restaurant, Fast food restaurant",
+    "pincode": "516268",
+    "phone_number": "+91 94401 43849",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Bus Stand Rd, Bethal Colony, Kothapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Bethal Colony, Kothapeta",
+    "latitude": 14.0576066,
+    "longitude": 78.7496518,
+    "place_id": "ChIJc16XgIsDszsR0G5e5nqXKnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc16XgIsDszsR0G5e5nqXKnk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:10:30"
+  }
+]

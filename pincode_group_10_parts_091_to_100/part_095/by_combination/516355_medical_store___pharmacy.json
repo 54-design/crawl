@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruthi Medicals",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516355",
+    "phone_number": "+91 98859 26720",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8/90, Mydukur - Proddatur Rd, S.Mydukur, Chapadu, Andhra Pradesh 516172",
+    "area": "516355",
+    "latitude": 14.726958,
+    "longitude": 78.6547351,
+    "place_id": "ChIJnW_TLlSBszsRXfJ_G6hEsiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnW_TLlSBszsRXfJ_G6hEsiw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:29"
+  },
+  {
+    "business_name": "SUDHESHNA MEDICAL STORES",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516355",
+    "phone_number": "+91 863 221 0142",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "Kakumanu Vari St, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2993101,
+    "longitude": 80.4482755,
+    "place_id": "ChIJJ9GzQEl1SjoRJwHFHrM7ad8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9GzQEl1SjoRJwHFHrM7ad8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:32"
+  }
+]

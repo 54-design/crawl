@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel New Rajadhani",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516360",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 41,
+    "address": "PHX3+XJJ, Ward 20, Srinivasa Nagar, Proddatur, Andhra Pradesh 516360",
+    "area": "Ward 20, Srinivasa Nagar",
+    "latitude": 14.7499556,
+    "longitude": 78.5540079,
+    "place_id": "ChIJC4ulNx95tDsRFen5XQMaVsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4ulNx95tDsRFen5XQMaVsU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:27"
+  },
+  {
+    "business_name": "Srinivasa Residency",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "516360",
+    "phone_number": "+91 91822 96845",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Nadimpalli, Modamidipalle, Andhra Pradesh 516360",
+    "area": "Nadimpalli",
+    "latitude": 14.7443964,
+    "longitude": 78.5613242,
+    "place_id": "ChIJt1b5HbeHszsRnO_1VXz7fyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1b5HbeHszsRnO_1VXz7fyg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:27"
+  }
+]

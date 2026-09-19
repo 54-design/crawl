@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Winn Advertising",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "516270",
+    "phone_number": "+91 81445 45554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "1/1, Hp petrol bunk, 1468, Andalpuram Main Rd, near Rajapalayam, Samsigapuram, Tamil Nadu 626117",
+    "area": "516270",
+    "latitude": 9.4250327,
+    "longitude": 77.5790568,
+    "place_id": "ChIJPw0vcovDBjsROHlKezkd86k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPw0vcovDBjsROHlKezkd86k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:21"
+  },
+  {
+    "business_name": "SAI MARKETING",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency",
+    "pincode": "516270",
+    "phone_number": "+91 85238 39936",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "1, VSM STREET, Urlagattu Podu, Kadapa, Andhra Pradesh 516001",
+    "area": "Urlagattu Podu, Kadapa",
+    "latitude": 14.4783101,
+    "longitude": 78.82443889999999,
+    "place_id": "ChIJv1KofaxzszsRiOogK5G0cGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1KofaxzszsRiOogK5G0cGA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:15:21"
+  }
+]

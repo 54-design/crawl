@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KONACC DIAGNOSTICS",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "516355",
+    "phone_number": "+91 863 663 7160",
+    "website": "http://konacc.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "12-12-94, Old Club Rd, beside Chalasani Hospital, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2989142,
+    "longitude": 80.4510054,
+    "place_id": "ChIJtU8omEt1SjoR7YiPAmdCHkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtU8omEt1SjoR7YiPAmdCHkM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:38"
+  },
+  {
+    "business_name": "Rainbow Diagnostic & Medical Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516355",
+    "phone_number": "+91 82971 09962",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Super Bazar Rd, Venkateswara Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Venkateswara Pet",
+    "latitude": 14.7540351,
+    "longitude": 78.5473722,
+    "place_id": "ChIJxRFnUaJ4tDsRkhh9HHgSCjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRFnUaJ4tDsRkhh9HHgSCjc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:38"
+  }
+]

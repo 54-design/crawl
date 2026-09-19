@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bunny pet shop ygl",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "516309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-1-61, Sri Ramulapeta, ICL Colony, Valasa Palle, Andhra Pradesh 516309",
+    "area": "Sri Ramulapeta, ICL Colony",
+    "latitude": 14.636137699999999,
+    "longitude": 78.53892189999999,
+    "place_id": "ChIJ2xGEZgCFszsR6PYTuVj9gTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xGEZgCFszsR6PYTuVj9gTI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:18:51"
+  },
+  {
+    "business_name": "Pet's shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "516309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "JGPQ+P92, Valasa Palle, Andhra Pradesh 516309",
+    "area": "516309",
+    "latitude": 14.6367566,
+    "longitude": 78.5383767,
+    "place_id": "ChIJB572bwCFszsRcDdGiAVwcU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB572bwCFszsRcDdGiAVwcU8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:18:51"
+  }
+]

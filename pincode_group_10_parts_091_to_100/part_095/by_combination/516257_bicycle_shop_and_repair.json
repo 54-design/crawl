@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh's Bike Repair & Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "516257",
+    "phone_number": "+91 93023 58206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "New bridge road, Konta, Chhattisgarh 494114",
+    "area": "516257",
+    "latitude": 17.8158167,
+    "longitude": 81.38442479999999,
+    "place_id": "ChIJZ5S5eD_TNjoROj9WcVB-qow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5S5eD_TNjoROj9WcVB-qow",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:52"
+  },
+  {
+    "business_name": "Cycle Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516257",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "CPXX+C62, Yenuguvani Lanka, Andhra Pradesh 534275",
+    "area": "516257",
+    "latitude": 16.448501399999998,
+    "longitude": 81.748021,
+    "place_id": "ChIJ21VH123ZNzoRen_kNpbPEFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21VH123ZNzoRen_kNpbPEFs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "516339",
+    "phone_number": "+91 94402 76623",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-136, Verapunaayuni Palli, SANGALAPALLI, VEERAPUNAYANAPALLI, Animela, Andhra Pradesh 516321",
+    "area": "Verapunaayuni Palli, SANGALAPALLI",
+    "latitude": 14.473495999999999,
+    "longitude": 78.472658,
+    "place_id": "ChIJt2Gxu5mRszsR_pcepYOQe9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2Gxu5mRszsR_pcepYOQe9U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:15"
+  },
+  {
+    "business_name": "Meeseva&CSC-muthukuru",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "516339",
+    "phone_number": "+91 80083 74725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, 85, Muttukuru, Andhra Pradesh 516350",
+    "area": "516339",
+    "latitude": 14.4635655,
+    "longitude": 78.3917625,
+    "place_id": "ChIJPY5dstyRszsROdBbUYZqV2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPY5dstyRszsROdBbUYZqV2s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:15"
+  }
+]

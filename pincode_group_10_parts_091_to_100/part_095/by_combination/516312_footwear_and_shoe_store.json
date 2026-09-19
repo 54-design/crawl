@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Sole Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516312",
+    "phone_number": "+91 96565 61217",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 5,
+    "address": "near HDFC bank, Kolenchery, Aikaranad South, Keralam 682311",
+    "area": "516312",
+    "latitude": 9.9793377,
+    "longitude": 76.47246679999999,
+    "place_id": "ChIJL4QLmZ3fBzsRl4P0bThdBV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4QLmZ3fBzsRl4P0bThdBV4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:19"
+  },
+  {
+    "business_name": "Walkway Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516312",
+    "phone_number": "+91 484 405 1781",
+    "website": "https://stores.walkwayshoes.com/walkway-shoes-abad-nucleus-mall-maradu-ernakulam-kerala-kcv",
+    "rating": 4.8,
+    "reviews_count": 283,
+    "address": "UN 25 & 26, 1st Flr, Abad Nucleus Mall Kunadanoor Petta Road, Nh 49, Maradu, Ernakulam, Keralam 682304",
+    "area": "Poonithura, Maradu",
+    "latitude": 9.9399888,
+    "longitude": 76.3309405,
+    "place_id": "ChIJa8qy3JpzCDsRWfFwqI90udA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8qy3JpzCDsRWfFwqI90udA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:24:19"
+  }
+]

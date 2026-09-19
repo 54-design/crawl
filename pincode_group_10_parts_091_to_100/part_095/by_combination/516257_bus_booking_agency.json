@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAGARJUNA COMPUTERS RAYACHOTY (ONLINE SERVICE)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Bus ticket agency, Insurance agency, Money transfer service, Train ticket office, Unemployment office",
+    "pincode": "516257",
+    "phone_number": "+91 83329 08650",
+    "website": "http://nagarjunacomputers.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Reddyvaripalli, 1/59-A, Masapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Masapeta",
+    "latitude": 14.0755588,
+    "longitude": 78.76053329999999,
+    "place_id": "ChIJKZFCPF29szsRrhQXfbrT_r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZFCPF29szsRrhQXfbrT_r8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:53"
+  },
+  {
+    "business_name": "Ramapuram Busstop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "516257",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "6P8X+HW5, Kadapa Rd, Ramapuram, Nallaguttapalle, Andhra Pradesh 516504",
+    "area": "Ramapuram",
+    "latitude": 14.2164065,
+    "longitude": 78.7498713,
+    "place_id": "ChIJHUmnOBwPszsRDHIgZOkKd_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUmnOBwPszsRDHIgZOkKd_w",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:05:54"
+  }
+]

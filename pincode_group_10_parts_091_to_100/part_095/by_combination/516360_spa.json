@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty beyond borderz B3",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Skin care clinic, Hair removal service, Laser hair removal service, Make-up artist",
+    "pincode": "516360",
+    "phone_number": "+91 95814 48454",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 143,
+    "address": "beside adithya pharmacy, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.7564804,
+    "longitude": 78.55052789999999,
+    "place_id": "ChIJR5k5SOh5tDsRMqmlFU2nOis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5k5SOh5tDsRMqmlFU2nOis",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:16"
+  },
+  {
+    "business_name": "Ocean Palms Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "516360",
+    "phone_number": "N/A",
+    "website": "http://www.oceanpalmssspa.com/",
+    "rating": 4.7,
+    "reviews_count": 115,
+    "address": "1st floor, BHR complex, Infantry Road, beside hotel abhiruchi, above biba, Housing Board Colony, Indira Nagar, Ballari, Karnataka 583104",
+    "area": "Housing Board Colony, Indira Nagar",
+    "latitude": 15.1539334,
+    "longitude": 76.9066725,
+    "place_id": "ChIJ1VL5BbkTtzsRrsPYjwzkUNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VL5BbkTtzsRrsPYjwzkUNs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:16"
+  }
+]

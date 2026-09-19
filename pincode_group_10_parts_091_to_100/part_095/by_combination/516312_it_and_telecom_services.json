@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airtel Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider, Internet service provider, Mobile network operator",
+    "pincode": "516312",
+    "phone_number": "+91 98663 60812",
+    "website": "https://www.airtel.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No : 1, 637, Proddatur road, Proddatur, Pedda Shettipalle, Andhra Pradesh 516434",
+    "area": "516312",
+    "latitude": 14.754029,
+    "longitude": 78.48955,
+    "place_id": "ChIJjXo3gnN5tDsRAth0ayJOmzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXo3gnN5tDsRAth0ayJOmzE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:25:15"
+  },
+  {
+    "business_name": "Arete IT Services Private Limited",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Electronics Company, Internet marketing service, Medical billing service, Website designer",
+    "pincode": "516312",
+    "phone_number": "+91 93900 09397",
+    "website": "http://www.areteservices.org/",
+    "rating": 4.7,
+    "reviews_count": 465,
+    "address": "3rd Floor, Vardhaman Jewellery Building, 40-5-10/A, Tikkle Rd, beside DV Manor Hotel, Revenue Colony Park, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Revenue Colony Park, Sidhartha Nagar, Labbipet",
+    "latitude": 16.5012366,
+    "longitude": 80.64851209999999,
+    "place_id": "ChIJuUfJEbr6NToRaocWWgleyyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUfJEbr6NToRaocWWgleyyA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:25:16"
+  }
+]

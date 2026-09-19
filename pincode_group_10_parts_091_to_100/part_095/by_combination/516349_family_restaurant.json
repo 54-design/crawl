@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RF Paradise",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516349",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Rtc Bus Stand Rd, main road, Pulivendula, Andhra Pradesh 516391",
+    "area": "main road",
+    "latitude": 14.4160513,
+    "longitude": 78.2257699,
+    "place_id": "ChIJ6ePxRs_rszsRthIp_L6UNlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ePxRs_rszsRthIp_L6UNlg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:54"
+  },
+  {
+    "business_name": "RF PARADISE JAIL MANDHI FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Breakfast restaurant, Family restaurant",
+    "pincode": "516349",
+    "phone_number": "+91 91213 15696",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 118,
+    "address": "C6FG+6FH, Gopivihaar St, Pulivendula, Andhra Pradesh 516390",
+    "area": "516349",
+    "latitude": 14.423065,
+    "longitude": 78.2262422,
+    "place_id": "ChIJ576AYLjrszsRMO9JfATgzeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ576AYLjrszsRMO9JfATgzeg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:32:57"
+  }
+]

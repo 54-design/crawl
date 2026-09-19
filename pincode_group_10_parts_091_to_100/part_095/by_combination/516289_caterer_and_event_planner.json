@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Catering Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "516289",
+    "phone_number": "+91 95140 01177",
+    "website": "https://www.skcateringservices.com/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "50, Nagoji Rao St, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+    "area": "Narayana Krishnaraja Puram, Triplicane",
+    "latitude": 13.0555554,
+    "longitude": 80.2770291,
+    "place_id": "ChIJCx_uOQBpUjoRWiWHRDVUKTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCx_uOQBpUjoRWiWHRDVUKTs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:16:25"
+  },
+  {
+    "business_name": "Shri Event Management",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Balloon artist, Catering food and drink supplier, DJ service, Event management company, Event planner, Flower designer, Musical Band and Orchestra",
+    "pincode": "516289",
+    "phone_number": "+91 97896 96518",
+    "website": "https://shrievent.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 74 b, uthramanikam street, peranbankullam, Manjakuppam, Cuddalore, Tamil Nadu 607001",
+    "area": "peranbankullam, Manjakuppam",
+    "latitude": 11.764598699999999,
+    "longitude": 79.7635214,
+    "place_id": "ChIJbZcFKxGZVDoRmuYsdUmQKQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZcFKxGZVDoRmuYsdUmQKQU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:16:27"
+  }
+]

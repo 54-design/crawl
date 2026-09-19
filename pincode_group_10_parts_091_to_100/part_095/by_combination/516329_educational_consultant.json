@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tej edutech consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "516329",
+    "phone_number": "+91 63625 20959",
+    "website": "http://www.tejedutech.com/",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "2nd floor, SV Hospital, 14-280-1, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.682133599999998,
+    "longitude": 77.5993699,
+    "place_id": "ChIJHz7eloFLsTsRhu_YhgBNmZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHz7eloFLsTsRhu_YhgBNmZM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:35"
+  },
+  {
+    "business_name": "Global Degrees",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Career guidance service, Immigration & naturalization service, Language school, Training center, Visa Agent",
+    "pincode": "516329",
+    "phone_number": "+91 89853 23456",
+    "website": "https://globaldegrees.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No: 6, overbridge down, Prakasam municipal market, Ramarao Peta, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Ramarao Peta",
+    "latitude": 16.810452599999998,
+    "longitude": 81.5302153,
+    "place_id": "ChIJz45Icia1NzoR1YL1_jFre2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz45Icia1NzoR1YL1_jFre2E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:36"
+  }
+]

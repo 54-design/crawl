@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Sudha Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "516267",
+    "phone_number": "+91 98492 56796",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "mahila Vishwavidyalaya, Anantapur - Tirupati Hwy, Balaji Colony, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh 517502",
+    "area": "Balaji Colony, Sri Padmavati Mahila Visvavidyalayam",
+    "latitude": 13.628919199999999,
+    "longitude": 79.4077732,
+    "place_id": "ChIJbVfEUBdLTToR9i-S3s6sRiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVfEUBdLTToR9i-S3s6sRiI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:09:48"
+  },
+  {
+    "business_name": "Marudhar Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store, Stationery wholesaler, Wholesaler",
+    "pincode": "516267",
+    "phone_number": "+91 80 4116 9610",
+    "website": "https://nfc.dgtechsoln.com/marudhar-stationers/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "no:363 365, hotel, Avenue Rd, near Chandra Vihar Building, Bengaluru, Karnataka 560002",
+    "area": "Ragipet, Kumbarpet, Dodpete, Nagarathpete",
+    "latitude": 12.965295399999999,
+    "longitude": 77.5775244,
+    "place_id": "ChIJB_EmauIVrjsRXdAOCZBSFZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_EmauIVrjsRXdAOCZBSFZ4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:09:49"
+  }
+]

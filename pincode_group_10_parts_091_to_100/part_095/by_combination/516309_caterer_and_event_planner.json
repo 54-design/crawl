@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avenuedish",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Home health care service, Meal delivery",
+    "pincode": "516309",
+    "phone_number": "+91 94912 35161",
+    "website": "https://avenuedish.godaddysites.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "3-158-1720, Avenuedish, Danavaigudem Colony, Khammam, Telangana 507003",
+    "area": "Avenuedish, Danavaigudem Colony",
+    "latitude": 17.279746,
+    "longitude": 80.1420638,
+    "place_id": "ChIJq5P8xbxZNDoR4hWIOQ0MClw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5P8xbxZNDoR4hWIOQ0MClw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:19:46"
+  },
+  {
+    "business_name": "Teluggu Evvents",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "516309",
+    "phone_number": "N/A",
+    "website": "http://www.telugguevvents.com/",
+    "rating": 4.8,
+    "reviews_count": 42,
+    "address": "near AHLADA FARMS Around the corner, Tellapur, Hyderabad, Telangana 502300",
+    "area": "Tellapur",
+    "latitude": 17.460981999999998,
+    "longitude": 78.26087249999999,
+    "place_id": "ChIJl-K1UuTtyzsRtpmd3sDCcqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-K1UuTtyzsRtpmd3sDCcqE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:19:46"
+  }
+]

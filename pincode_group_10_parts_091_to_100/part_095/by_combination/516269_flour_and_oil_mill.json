@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriram Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "516269",
+    "phone_number": "N/A",
+    "website": "http://www.shriramoilmil.co.in/",
+    "rating": 4.6,
+    "reviews_count": 105,
+    "address": "Kattu Rd, Kesari Nagar, Poojapura, Thiruvananthapuram, Keralam 695012",
+    "area": "Kesari Nagar, Poojapura",
+    "latitude": 8.494258199999999,
+    "longitude": 76.97748469999999,
+    "place_id": "ChIJzealNUW6BTsRG-ID23yEjqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzealNUW6BTsRG-ID23yEjqc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:33"
+  },
+  {
+    "business_name": "M&T Industries",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "516269",
+    "phone_number": "+91 99980 59938",
+    "website": "http://foodprocessingmachinery.in/",
+    "rating": 4.7,
+    "reviews_count": 69,
+    "address": "PLOT NO. 23,R.K. INDUSTRIAL HUB,NR SHREENATH ESTATE, BHUVALDI, ROAD, Kathwada, Ahmedabad, Gujarat 382430",
+    "area": "516269",
+    "latitude": 23.0361309,
+    "longitude": 72.7061262,
+    "place_id": "ChIJ96npbRGHXjkRqe2T4g4TAJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96npbRGHXjkRqe2T4g4TAJw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:33"
+  }
+]

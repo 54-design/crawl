@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi Narasimha Stores",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516350",
+    "phone_number": "+91 85712 20664",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "HG22+5H4, Nakkaladinne, Basinikonda, Madanapalle, Andhra Pradesh 517325",
+    "area": "Nakkaladinne, Basinikonda",
+    "latitude": 13.550384999999999,
+    "longitude": 78.5014551,
+    "place_id": "ChIJd1u3-79lsjsRq5M8kVugqlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1u3-79lsjsRq5M8kVugqlk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:34:24"
+  },
+  {
+    "business_name": "---",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "516350",
+    "phone_number": "+91 90599 73034",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 15,
+    "address": "Shastri Nagar, Ravindra Nagar, Akkayapalle, Andhra Pradesh 516001",
+    "area": "Shastri Nagar, Ravindra Nagar",
+    "latitude": 14.4702208,
+    "longitude": 78.8128601,
+    "place_id": "ChIJITZ-AfNzszsRxczvN4hezAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITZ-AfNzszsRxczvN4hezAA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:34:24"
+  }
+]

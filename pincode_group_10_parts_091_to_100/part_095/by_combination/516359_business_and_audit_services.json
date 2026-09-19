@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B&B ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor, Accountant, Tax collector's office, Income tax help association, Tax consultant",
+    "pincode": "516359",
+    "phone_number": "+91 82473 19470",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "First Floor, Ramana flex street, M.M Towers, Flat No.1-B, D No. 235, back side, opp. 7th heaven bakery, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6823581,
+    "longitude": 77.60120479999999,
+    "place_id": "ChIJx-CUzgFLsTsRuMp-Q8pWxQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-CUzgFLsTsRuMp-Q8pWxQE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:05"
+  },
+  {
+    "business_name": "U.Badulla Accounting Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax preparation",
+    "all_categories": "Tax preparation, Accountant, Financial consultant",
+    "pincode": "516359",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VASTHU COMPLEX, Mydukur Rd, Srinivasa Nagar, Proddatur, Andhra Pradesh 516360",
+    "area": "Srinivasa Nagar",
+    "latitude": 14.747603499999999,
+    "longitude": 78.5564468,
+    "place_id": "ChIJ0yaCQrZ5tDsR2g8p8NE2TjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yaCQrZ5tDsR2g8p8NE2TjI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:06"
+  }
+]

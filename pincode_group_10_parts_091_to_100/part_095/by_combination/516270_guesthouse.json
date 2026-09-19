@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BR GUEST INN",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "516270",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Adi Andhra colony, Divi vari palem road, Oguru, Andhra Pradesh 523105",
+    "area": "516270",
+    "latitude": 15.2160481,
+    "longitude": 79.9200376,
+    "place_id": "ChIJRYjBfwATSzoR4Z615YbvXdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYjBfwATSzoR4Z615YbvXdE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:14:47"
+  },
+  {
+    "business_name": "Lakshmi Traders Hotel Suppliers",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "516270",
+    "phone_number": "+91 81437 05507",
+    "website": "https://lakshmitraders.lovable.app/",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "33-14-200/1, Allipuram Market Rd, below Hotel lakshmi Grand, Nerella Koneru, Mahaarajupeta, Visakhapatnam, Andhra Pradesh 530004",
+    "area": "Nerella Koneru, Mahaarajupeta",
+    "latitude": 17.7190679,
+    "longitude": 83.295853,
+    "place_id": "ChIJbR5UwoZDOToRg0DUPGovaI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbR5UwoZDOToRg0DUPGovaI4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:14:48"
+  }
+]

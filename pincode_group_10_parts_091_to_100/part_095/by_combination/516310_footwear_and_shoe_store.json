@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royalty Star Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516310",
+    "phone_number": "+91 94405 30483",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kothapet, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Ramalingeswara Pet",
+    "latitude": 16.2356583,
+    "longitude": 80.6460602,
+    "place_id": "ChIJ7Y01TggGSjoR_OCWC8MhCSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Y01TggGSjoR_OCWC8MhCSQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:20:48"
+  },
+  {
+    "business_name": "India.Shoe.Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516310",
+    "phone_number": "+91 98946 00323",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 22,
+    "address": "Post Office St, Sholinghur, Tamil Nadu 631102",
+    "area": "516310",
+    "latitude": 13.1150623,
+    "longitude": 79.4199915,
+    "place_id": "ChIJ_e8gnPSyUjoRJmxU1OFDX9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_e8gnPSyUjoRJmxU1OFDX9k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:20:48"
+  }
+]

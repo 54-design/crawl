@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Service (Adharsha Automotives)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "516360",
+    "phone_number": "+91 91219 39371",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-proddatur",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11/301, Mydukur Rd, beside D Mart, Lakshmi Nagar, Auto Nagar, Kottapalle, Andhra Pradesh 516360",
+    "area": "Lakshmi Nagar, Auto Nagar",
+    "latitude": 14.7406297,
+    "longitude": 78.5699314,
+    "place_id": "ChIJhWBNLSuBszsRrzIcdkfbako",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWBNLSuBszsRrzIcdkfbako",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:02"
+  },
+  {
+    "business_name": "A S Enterprises",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "516360",
+    "phone_number": "+91 94405 31632",
+    "website": "https://www.as-enterprises.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "10/729, G T St, Ward 20, Sarvakatta, Proddatur, Andhra Pradesh 516360",
+    "area": "Ward 20, Sarvakatta",
+    "latitude": 14.7486603,
+    "longitude": 78.5522919,
+    "place_id": "ChIJLdwvODd5tDsRDQHrDTvHBsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdwvODd5tDsRDQHrDTvHBsU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:42:02"
+  }
+]

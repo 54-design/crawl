@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Computer Shoppe",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "516289",
+    "phone_number": "+91 92466 75588",
+    "website": "http://sscomputershoppe.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "RK Palace, Mayuri Junction Area, Gadi Khana, Balaji Nagar, Vizianagaram, Andhra Pradesh 535003",
+    "area": "Mayuri Junction Area, Gadi Khana, Balaji Nagar",
+    "latitude": 18.1076484,
+    "longitude": 83.3968331,
+    "place_id": "ChIJz7L9RKflOzoRareYSMMJ2G4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7L9RKflOzoRareYSMMJ2G4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:16:41"
+  },
+  {
+    "business_name": "DHEERU COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store",
+    "pincode": "516289",
+    "phone_number": "+91 90007 24255",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "1, కమలాపురం- ఖాజిపేట- మైదుకూరు రహదారి, Peddacheppalle, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516289",
+    "latitude": 14.5950929,
+    "longitude": 78.6696248,
+    "place_id": "ChIJEesccm14szsRW8W3UIkp2Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEesccm14szsRW8W3UIkp2Zo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:16:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay supplier",
+    "search_category": "Importers",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "516310",
+    "phone_number": "+91 82476 66936",
+    "website": "https://business.goog.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramalayam Veedhi, Sc Colony, Chilamakuru, Andhra Pradesh 516310",
+    "area": "Sc Colony",
+    "latitude": 14.6480638,
+    "longitude": 78.4692244,
+    "place_id": "ChIJUeC238OPszsRKF13RItOvCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeC238OPszsRKF13RItOvCE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:22:01"
+  },
+  {
+    "business_name": "Arigato Imports & Exports",
+    "search_category": "Importers",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "516310",
+    "phone_number": "+91 89191 81294",
+    "website": "http://arigatoindia.co.in/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Christ Church, Ground Floor, 6-361/1, Sri Nilayam, Sri Hari Nagar, Ravindra Nagar 2, Visakhapatnam, Andhra Pradesh 530040",
+    "area": "Ravindra Nagar 2, Ravindra Nagar",
+    "latitude": 17.7680166,
+    "longitude": 83.3211516,
+    "place_id": "ChIJ____871cOToRMqgUaFrb3vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____871cOToRMqgUaFrb3vo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:22:02"
+  }
+]

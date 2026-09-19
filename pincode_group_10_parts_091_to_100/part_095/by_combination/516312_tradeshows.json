@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Exhibition Network",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "516312",
+    "phone_number": "+91 99918 56776",
+    "website": "https://exhibition.org.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "The Exhibition Network, 516312, India",
+    "area": "516312",
+    "latitude": 28.6159274,
+    "longitude": 77.2460395,
+    "place_id": "ChIJyeHitv0hC2MRgPaHU8tOmKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeHitv0hC2MRgPaHU8tOmKM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:25:34"
+  },
+  {
+    "business_name": "Bangalore Trade Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "516312",
+    "phone_number": "+91 91875 24811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th floor, SIRIMUDI BUILDING, No 75, 4th Main Rd, 3rd Block, 4th stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+    "area": "3rd Block, 4th stage, Basaveshwar Nagar",
+    "latitude": 12.987389799999999,
+    "longitude": 77.5281818,
+    "place_id": "ChIJ_TMjE9M9rjsRu206_v-tRfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TMjE9M9rjsRu206_v-tRfs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:25:34"
+  }
+]

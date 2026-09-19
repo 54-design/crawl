@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Coffee day - Bitragunta",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Takeout restaurant, Pastry shop, Restaurant, Sandwich shop",
+    "pincode": "516270",
+    "phone_number": "+91 1800 102 5093",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HPCL Dealers, sy no.445,445/3-c3,657/1-b,656/2,649/1, NH 16, Gowravaram, Andhra Pradesh 524142",
+    "area": "516270",
+    "latitude": 14.8082958,
+    "longitude": 79.9949644,
+    "place_id": "ChIJsRiM1AiCTDoRA1OwICZC6Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRiM1AiCTDoRA1OwICZC6Cs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:56"
+  },
+  {
+    "business_name": "Relax cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "516270",
+    "phone_number": "+91 99499 13467",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "PVMG+8X, Yenugulamahal, Kothapeta, Andhra Pradesh 533223",
+    "area": "Yenugulamahal",
+    "latitude": 16.7333125,
+    "longitude": 81.8774375,
+    "place_id": "ChIJ2RAtTADrNzoRO8NUynSB7o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RAtTADrNzoRO8NUynSB7o4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:56"
+  }
+]

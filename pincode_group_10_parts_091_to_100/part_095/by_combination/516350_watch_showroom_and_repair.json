@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fastrack store - NAD Kotha Road, Visakhapatnam",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Bag shop, Handbags shop, Perfume store, Sunglasses store",
+    "pincode": "516350",
+    "phone_number": "+91 72888 85401",
+    "website": "https://www.fastrack.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "58-1-374/3, NAD Kotha Rd, Nad Junction, Buchirajupalem, NSTL, Visakhapatnam, Andhra Pradesh 530027",
+    "area": "Nad Junction, Buchirajupalem, NSTL",
+    "latitude": 17.7437395,
+    "longitude": 83.23205229999999,
+    "place_id": "ChIJcz_mUeBnOToRDjLYlAzJJK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcz_mUeBnOToRDjLYlAzJJK4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:34:45"
+  },
+  {
+    "business_name": "Galaxy Watch Works",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "516350",
+    "phone_number": "+91 87927 80221",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 145,
+    "address": "Galaxy Watch Works, Kerala Samajam Complex, KSR Road, opp. Vishwa Bhavan bustand, Hampankatta, Mangaluru, Karnataka 575001",
+    "area": "Hampankatta",
+    "latitude": 12.870310199999999,
+    "longitude": 74.8419327,
+    "place_id": "ChIJ0bEnM0xaozsRstqpuCj7rmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bEnM0xaozsRstqpuCj7rmg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:34:47"
+  }
+]

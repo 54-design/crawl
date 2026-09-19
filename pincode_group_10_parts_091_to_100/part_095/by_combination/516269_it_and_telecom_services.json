@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZR NET PVT LTD",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "516269",
+    "phone_number": "+91 73821 17685",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kadapa Rd, opposite Indian Bank, Balaji Nagar, Rayachoty, Andhra Pradesh 516269",
+    "area": "Balaji Nagar",
+    "latitude": 14.0640673,
+    "longitude": 78.7532239,
+    "place_id": "ChIJfZotiMcDszsR01-xotptTg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZotiMcDszsR01-xotptTg0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:18"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "516269",
+    "phone_number": "+91 94922 87268",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14/70,KUMMARAPALLI,T SUNDUPALLI,KUMMARAPALLI, Rayachoty, Andhra Pradesh 516130",
+    "area": "516269",
+    "latitude": 13.98091,
+    "longitude": 78.91478699999999,
+    "place_id": "ChIJQRoAbyzjsjsRg84qyE5SJXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRoAbyzjsjsRg84qyE5SJXo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:20"
+  }
+]

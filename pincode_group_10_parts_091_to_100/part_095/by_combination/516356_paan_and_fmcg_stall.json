@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Jarda Agency",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store, Condiments supplier, Tobacco shop",
+    "pincode": "516356",
+    "phone_number": "+91 816 225 5079",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 31,
+    "address": "Gemini Towers, No 8/9, Jaya Chamarajendra Road,Mandipet Main Road, Yellapur, Ward No. 18, Mandipet, Tumakur, Karnataka 572101",
+    "area": "Yellapur, Ward No. 18, Mandipet",
+    "latitude": 13.3477684,
+    "longitude": 77.10153869999999,
+    "place_id": "ChIJpTevkoEusDsRlw15JfsaXt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTevkoEusDsRlw15JfsaXt8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:37:59"
+  },
+  {
+    "business_name": "K.G.N.Pan Masala",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Grocery store",
+    "pincode": "516356",
+    "phone_number": "+91 93019 81420",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "Shop no. 22, BDA Shopping Complex, Rajkishore Nagar, Bilaspur, Chhattisgarh 495006",
+    "area": "516356",
+    "latitude": 22.086063,
+    "longitude": 82.17969,
+    "place_id": "ChIJvfTbJuUKKDoRuqONsEBbkX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfTbJuUKKDoRuqONsEBbkX4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:37:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pastry Inn",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516247",
+    "phone_number": "+91 91245 39111",
+    "website": "http://www.pastryinn.com/",
+    "rating": 4.2,
+    "reviews_count": 324,
+    "address": "Mahalakshmi Complex, 102-5-197, Bommuru, Kotta Bommuru, Andhra Pradesh 533124",
+    "area": "Bommuru",
+    "latitude": 16.969917,
+    "longitude": 81.7984069,
+    "place_id": "ChIJ_6XEs0mjNzoR8otQ2p0F2fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6XEs0mjNzoR8otQ2p0F2fs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:03:42"
+  },
+  {
+    "business_name": "Lakshmi narasimha swamy polakova centre",
+    "search_category": "Patisserie",
+    "primary_category": "Sweets and dessert buffet",
+    "all_categories": "Sweets and dessert buffet",
+    "pincode": "516247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "CW8W+RFG, near Kanumalapalle, Bhakarapet, Malinenipatnam, Mandapalle, Andhra Pradesh 516247",
+    "area": "Bhakarapet",
+    "latitude": 14.4170695,
+    "longitude": 78.9462022,
+    "place_id": "ChIJs4SdiwxrszsRBM03dKJoHLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4SdiwxrszsRBM03dKJoHLk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:03:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghavendra Sweets and Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant",
+    "pincode": "516259",
+    "phone_number": "+91 96403 12009",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Gandhi Rd, Razak Nagar, Vempalli, Andhra Pradesh 516329",
+    "area": "Razak Nagar",
+    "latitude": 14.364025999999999,
+    "longitude": 78.45570719999999,
+    "place_id": "ChIJzcacwVi9szsRzXc7Qjai5JA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcacwVi9szsRzXc7Qjai5JA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:03"
+  },
+  {
+    "business_name": "Bhaktha Anjaneya Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "516259",
+    "phone_number": "+91 883 242 2266",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 150,
+    "address": "XQJM+FG5, Main Rd, Alcot Gardens, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Alcot Gardens",
+    "latitude": 16.9811299,
+    "longitude": 81.78384989999999,
+    "place_id": "ChIJa7pHNH-jNzoRR6QVJyJW4UQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7pHNH-jNzoRR6QVJyJW4UQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:05"
+  }
+]

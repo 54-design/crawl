@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal suppliers & decorations",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "516310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chilamakur, beside to State Bank of India ,chilamakur village, yerraguntla madal, Kadapa Tadipatri Rd - Chilamakur Rd, Andhra Pradesh 516310",
+    "area": "516310",
+    "latitude": 14.6473844,
+    "longitude": 78.47006929999999,
+    "place_id": "ChIJcwlov6iPszsRCrbWIvemdOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwlov6iPszsRCrbWIvemdOg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:21:34"
+  },
+  {
+    "business_name": "Karthikeya Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "516310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Flat No 203, A Convention, Amaravati Rd, opposite Hindu Pharmacy College, Venugopalnagar, Gauthami Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Venugopalnagar, Gauthami Nagar",
+    "latitude": 16.3188118,
+    "longitude": 80.4369451,
+    "place_id": "ChIJ96K_v6CKNToRIE4b7ohD60g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96K_v6CKNToRIE4b7ohD60g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:21:34"
+  }
+]

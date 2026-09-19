@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Syed Afzal Basha",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516269",
+    "phone_number": "+91 83745 79599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "28/187, near Masjid, Rayachoty, Madhavaram, Kadapa, Andhra Pradesh 516269",
+    "area": "Rayachoty",
+    "latitude": 14.050770499999999,
+    "longitude": 78.6423654,
+    "place_id": "ChIJhePX0-OrszsRufmT_liMtdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhePX0-OrszsRufmT_liMtdo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:42"
+  },
+  {
+    "business_name": "Govindu Crackers",
+    "search_category": "Shops",
+    "primary_category": "Fireworks store",
+    "all_categories": "Fireworks store",
+    "pincode": "516269",
+    "phone_number": "+91 80080 75672",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madanapalli Rd, ring road, Rayachoty, Andhra Pradesh 516269",
+    "area": "ring road",
+    "latitude": 14.03974,
+    "longitude": 78.73262729999999,
+    "place_id": "ChIJadvzUY4BszsRMe_oLK1tYcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadvzUY4BszsRMe_oLK1tYcg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:13:42"
+  }
+]

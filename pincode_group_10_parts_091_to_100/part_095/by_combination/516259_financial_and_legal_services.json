@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudheer Financial Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "516259",
+    "phone_number": "+91 90594 59875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Revenue ward 13, D. No :49, 30-2/1A, near Tiny Tots School, Madhuranagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Saibrudhvan-II, Madhuranagar, Akkayyapalem",
+    "latitude": 17.7315371,
+    "longitude": 83.3046322,
+    "place_id": "ChIJfQEWTZhDOToRsyJO5ouHblE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQEWTZhDOToRsyJO5ouHblE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:08:20"
+  },
+  {
+    "business_name": "Andhra Legal Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Lawyer, Legal services",
+    "pincode": "516259",
+    "phone_number": "N/A",
+    "website": "https://www.andhralegalassociates.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Flat No. 208, Crescent Towers, TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "TPT Colony, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7385393,
+    "longitude": 83.3130455,
+    "place_id": "ChIJq3HezSZDOToRnThg7t2YhCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3HezSZDOToRnThg7t2YhCg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:08:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "516233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P64G+7W, Singanapalle, Andhra Pradesh 524230",
+    "area": "516233",
+    "latitude": 14.706179899999999,
+    "longitude": 79.22773529999999,
+    "place_id": "ChIJJVwIwN5XszsRBnHtxHfIQ-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVwIwN5XszsRBnHtxHfIQ-I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:00:04"
+  },
+  {
+    "business_name": "Parvathi Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "516233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H9WF+FV4, Ananthasagaram, Andhra Pradesh 524302",
+    "area": "516233",
+    "latitude": 14.5961403,
+    "longitude": 79.37471409999999,
+    "place_id": "ChIJYcqpeq1NszsR9V-oZsr-1jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcqpeq1NszsR9V-oZsr-1jc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:00:05"
+  }
+]

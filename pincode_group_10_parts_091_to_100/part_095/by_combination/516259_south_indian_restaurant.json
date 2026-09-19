@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AARU HOTEL",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "516259",
+    "phone_number": "+91 94416 83863",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 69,
+    "address": "8/44, Jogipeta Street, Vempalli, Andhra Pradesh 516329",
+    "area": "516259",
+    "latitude": 14.3664688,
+    "longitude": 78.46102379999999,
+    "place_id": "ChIJzzgvVVq9szsRIYw3dkNlwpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzgvVVq9szsRIYw3dkNlwpA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:07"
+  },
+  {
+    "business_name": "Sri Sairam Parlour",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Fast food restaurant",
+    "pincode": "516259",
+    "phone_number": "+91 81067 98484",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 27750,
+    "address": "Opposite Diamond Park, Dondaparthy, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dondaparthy, Dwaraka Nagar",
+    "latitude": 17.7261983,
+    "longitude": 83.303315,
+    "place_id": "ChIJx9xupyRDOToR1W5iRUi2lF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9xupyRDOToR1W5iRUi2lF4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:07"
+  }
+]

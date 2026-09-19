@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHANTI JEWELLERY",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant",
+    "pincode": "516355",
+    "phone_number": "+91 90390 39057",
+    "website": "http://www.shantijewelleryonline.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Barkas Center, 17/440, Achari St, beside SBI, VRC Centre, Nellore, Andhra Pradesh 524001",
+    "area": "VRC Centre",
+    "latitude": 14.448607299999999,
+    "longitude": 79.9805422,
+    "place_id": "ChIJPaFdRM-MTDoR88yJQmKEq-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPaFdRM-MTDoR88yJQmKEq-U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:24"
+  },
+  {
+    "business_name": "BHIMA JEWELLERY VISAKHAPATNAM",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "516355",
+    "phone_number": "+91 78421 04777",
+    "website": "https://bhimajewellery.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "DOOR NO 10, 1 26/1, Sampath Vinayaka Temple Rd, CBM Compound, Asilmetta, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "CBM Compound, Asilmetta",
+    "latitude": 17.7245012,
+    "longitude": 83.3104534,
+    "place_id": "ChIJU0p62y9dOToRNT7WuIKPr4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0p62y9dOToRNT7WuIKPr4E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:36:25"
+  }
+]

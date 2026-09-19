@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeevani Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Health spa, Massage therapist, Spa and health club, Thai massage therapist",
+    "pincode": "516311",
+    "phone_number": "+91 77383 32729",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 132,
+    "address": "Aggarwal Chambers, Office No 201 Plot No 12, Sector 19, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Sector 19C, Sector 19, Vashi",
+    "latitude": 19.0799286,
+    "longitude": 73.0050294,
+    "place_id": "ChIJceufaYfB5zsRkxY7U8-LKSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceufaYfB5zsRkxY7U8-LKSg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:23:12"
+  },
+  {
+    "business_name": "Grace SPA Consultant",
+    "search_category": "Spa Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "516311",
+    "phone_number": "+91 70301 04037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unit No 126, Kamlesh Apartment, Sher E Punjab Colony, Andheri East, Mumbai, Maharashtra 400069",
+    "area": "Sher E Punjab Colony, Andheri East",
+    "latitude": 19.1244782,
+    "longitude": 72.85324589999999,
+    "place_id": "ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:23:12"
+  }
+]

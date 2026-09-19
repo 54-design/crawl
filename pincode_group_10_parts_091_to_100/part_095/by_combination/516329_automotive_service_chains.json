@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andhra Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "516329",
+    "phone_number": "+91 63027 91913",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Chalamuri Towers, near Petrol Bunk, Babametta, Vizianagaram, Andhra Pradesh 535002",
+    "area": "Babametta",
+    "latitude": 18.1134636,
+    "longitude": 83.4225582,
+    "place_id": "ChIJP2BGkIrlOzoRaSm0hWIYWDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2BGkIrlOzoRaSm0hWIYWDc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:09"
+  },
+  {
+    "business_name": "Automotive Manufacturers Private Limited",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Car dealer",
+    "pincode": "516329",
+    "phone_number": "+91 78939 08181",
+    "website": "http://www.automotiveml.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6-3-649/5, 3rd Floor Chakilam House, Somajiguda, 6-3-650, Raj Bhavan Quarters Colony, Somajiguda, Hyderabad, Telangana 500082",
+    "area": "Raj Bhavan Quarters Colony, Somajiguda",
+    "latitude": 17.4186525,
+    "longitude": 78.4582313,
+    "place_id": "ChIJZyzJzE6XyzsR_g1iObjc_Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyzJzE6XyzsR_g1iObjc_Xs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi's Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "516267",
+    "phone_number": "+91 91795 14040",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 159,
+    "address": "E16, Near, T V Tower Rd, Anupam Nagar, Raipur, Chhattisgarh 492004",
+    "area": "Anupam Nagar",
+    "latitude": 21.256227,
+    "longitude": 81.6648443,
+    "place_id": "ChIJsaE3o2jdKDoRN4ou_5uepPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaE3o2jdKDoRN4ou_5uepPM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:09:01"
+  },
+  {
+    "business_name": "Ganga Homeo Stores",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "516267",
+    "phone_number": "+91 883 246 5805",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ballavari St, Beside Andhra Bank, beside Bajaj Electronics - Rajahmundry, Innespeta, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Innespeta",
+    "latitude": 16.9946746,
+    "longitude": 81.7754386,
+    "place_id": "ChIJxQ002f2lNzoRo0IKGNi3RqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQ002f2lNzoRo0IKGNi3RqM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:09:02"
+  }
+]

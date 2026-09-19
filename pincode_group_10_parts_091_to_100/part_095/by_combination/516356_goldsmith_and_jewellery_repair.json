@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Goldsmith",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "516356",
+    "phone_number": "+91 93053 79231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bhagwaan Daas, Gosai Tola, Market Mahajani, Mohatsim Ganj, Prayagraj, Uttar Pradesh 211003",
+    "area": "Market Mahajani, Mohatsim Ganj",
+    "latitude": 25.438540999999997,
+    "longitude": 81.83621509999999,
+    "place_id": "ChIJH0Esvg_LmjkRbFg7619R9YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0Esvg_LmjkRbFg7619R9YM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:38:12"
+  },
+  {
+    "business_name": "Shree Gold Bullion",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Gold dealer",
+    "all_categories": "Gold dealer, Goldsmith, Jeweler",
+    "pincode": "516356",
+    "phone_number": "+91 76888 11158",
+    "website": "http://www.shreegoldbullion.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Armarkar Jewellers, Sarafa Bazar, Square, Tanga Stand Chowk, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Tanga Stand Chowk, Itwari",
+    "latitude": 21.1525411,
+    "longitude": 79.1105757,
+    "place_id": "ChIJr2HtkR7H1DsRhO2vBq4hQq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2HtkR7H1DsRhO2vBq4hQq8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:38:12"
+  }
+]

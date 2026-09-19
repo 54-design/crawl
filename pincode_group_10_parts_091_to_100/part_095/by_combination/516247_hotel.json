@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL UNIQUE STAYS",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "516247",
+    "phone_number": "+91 86888 49963",
+    "website": "http://www.hoteluniquestays.com/",
+    "rating": 4.1,
+    "reviews_count": 280,
+    "address": "GKB plaza, Main Rd, beside SBI Main Branch, Rajampet, Andhra Pradesh 516115",
+    "area": "516247",
+    "latitude": 14.1988963,
+    "longitude": 79.1579927,
+    "place_id": "ChIJdQTEAR8lszsRlpjUL3GDoK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQTEAR8lszsRlpjUL3GDoK4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:04:35"
+  },
+  {
+    "business_name": "Haritha Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516247",
+    "phone_number": "+91 80748 51231",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 40,
+    "address": "Kotha Bus Stop Kotha, Bus Stop, Nagarajupeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Nagarajupeta",
+    "latitude": 14.4661595,
+    "longitude": 78.8262398,
+    "place_id": "ChIJ4VlHIKVzszsRu-d9SfDpydU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VlHIKVzszsRu-d9SfDpydU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:04:38"
+  }
+]

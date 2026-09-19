@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Hardwares",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "516329",
+    "phone_number": "+91 99121 15066",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "50/943, Near RTC Bus Stand, Vempalli, Andhra Pradesh 516329",
+    "area": "516329",
+    "latitude": 14.371715,
+    "longitude": 78.4588711,
+    "place_id": "ChIJXyno5BmfszsRLAhOQJC-C0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyno5BmfszsRLAhOQJC-C0Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:08"
+  },
+  {
+    "business_name": "SriRama Hardwares",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "516329",
+    "phone_number": "+91 95509 38343",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9F85+FC7, opposite Meseva, beside Boyshigh school, Vempalli, Andhra Pradesh 516329",
+    "area": "516329",
+    "latitude": 14.366152099999999,
+    "longitude": 78.45855999999999,
+    "place_id": "ChIJ-yB9Y1y9szsR9QJADlhlVY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yB9Y1y9szsR9QJADlhlVY0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:28:08"
+  }
+]

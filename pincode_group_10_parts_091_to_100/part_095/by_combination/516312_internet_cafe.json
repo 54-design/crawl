@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Net World Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Computer repair service",
+    "pincode": "516312",
+    "phone_number": "+91 99890 63563",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "HNo: 6-6-7, Opp Ganesh Temple, Phase I, Vanasthalipuram, Telangana 500070",
+    "area": "Phase I",
+    "latitude": 17.3313916,
+    "longitude": 78.5700119,
+    "place_id": "ChIJeUzpoPmhyzsRGJzPsvABHEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUzpoPmhyzsRGJzPsvABHEw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:25:14"
+  },
+  {
+    "business_name": "Skynet Broadband",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "516312",
+    "phone_number": "+91 77998 89333",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Main Bazar Rd, Mangalagiri, Andhra Pradesh 522503",
+    "area": "516312",
+    "latitude": 16.4294311,
+    "longitude": 80.5680486,
+    "place_id": "ChIJFXJNODjxNToRegqPuCrJckw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXJNODjxNToRegqPuCrJckw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:25:14"
+  }
+]

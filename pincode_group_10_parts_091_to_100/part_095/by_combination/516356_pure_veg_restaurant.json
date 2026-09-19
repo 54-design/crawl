@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaravathi Restaurant - Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516356",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "QPG4+5VX, Amaravati Restaurant Chintakunta, S.Mydukur, Andhra Pradesh 516175",
+    "area": "516356",
+    "latitude": 14.775489499999999,
+    "longitude": 78.7072429,
+    "place_id": "ChIJL1Tk50aBtDsRs1bBKFEJuvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1Tk50aBtDsRs1bBKFEJuvs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:38:00"
+  },
+  {
+    "business_name": "HOTEL GOLDEN BRICKS",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "516356",
+    "phone_number": "+91 95595 90190",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 414,
+    "address": "Mahakali Temple, Halol, Gujarat 389350",
+    "area": "516356",
+    "latitude": 22.490285999999998,
+    "longitude": 73.4687637,
+    "place_id": "ChIJqwIRYwB_YDkR3C_mwXb6Y9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwIRYwB_YDkR3C_mwXb6Y9g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:38:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eira international Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "516350",
+    "phone_number": "+91 90598 18106",
+    "website": "https://activeinternationalspa.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B1, 1st Floor, Kalpavruksha Estates, D.no. 3-6-475/3, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Himayatnagar",
+    "latitude": 17.4024721,
+    "longitude": 78.4835044,
+    "place_id": "ChIJz_EUTMiZyzsRmC_ybzE5gXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_EUTMiZyzsRmC_ybzE5gXk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:35:22"
+  },
+  {
+    "business_name": "SPA Associates",
+    "search_category": "Spa Consultants",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "516350",
+    "phone_number": "+91 63839 67817",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Poonga Nagar, Civil Aerodrome Post, Sitra, Coimbatore, Tamil Nadu 641014",
+    "area": "Poonga Nagar, Civil Aerodrome Post, Sitra",
+    "latitude": 11.0296088,
+    "longitude": 77.0337777,
+    "place_id": "ChIJb88dTalXqDsRii13MHg1d4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb88dTalXqDsRii13MHg1d4I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:35:22"
+  }
+]

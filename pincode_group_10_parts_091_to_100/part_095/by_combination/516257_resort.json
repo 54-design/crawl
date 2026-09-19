@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Woods Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Park, Restaurant, Swimming pool",
+    "pincode": "516257",
+    "phone_number": "+91 77299 70999",
+    "website": "http://www.greenwoodsresort.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Nagireddipalli, A, Narayanapuram Panchayat, near Somuladoddi, Anantapur, Papampeta, Andhra Pradesh 515004",
+    "area": "516257",
+    "latitude": 14.732118799999999,
+    "longitude": 77.5793078,
+    "place_id": "ChIJk7s0lyi1tjsRIbn2noROzyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7s0lyi1tjsRIbn2noROzyA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:15"
+  },
+  {
+    "business_name": "GK Hill View Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Adventure Sports Center, Banquet hall, DJ service, Hotel, Restaurant, Spa, Swimming pool, Villa",
+    "pincode": "516257",
+    "phone_number": "+91 90713 96666",
+    "website": "http://gkhvresort.com/",
+    "rating": 4.2,
+    "reviews_count": 4077,
+    "address": "GK Hill View Resort.93, Muthukadahalli, Karnataka 563128",
+    "area": "516257",
+    "latitude": 13.317790599999999,
+    "longitude": 77.9954522,
+    "place_id": "ChIJP7w8ei8BsjsRInrw5NwBbto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7w8ei8BsjsRInrw5NwBbto",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:16"
+  }
+]

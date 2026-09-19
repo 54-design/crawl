@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary health centre vemula",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516321",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "989C+H7W, Vemula, Andhra Pradesh 516349",
+    "area": "516321",
+    "latitude": 14.368981199999999,
+    "longitude": 78.3207001,
+    "place_id": "ChIJLQOQ7hiVszsRjbjnObeapdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQOQ7hiVszsRjbjnObeapdw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:26:10"
+  },
+  {
+    "business_name": "ASWINI MULTI SPECIALITY CHILDREN & DIABETIC CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Specialized clinic",
+    "all_categories": "Specialized clinic",
+    "pincode": "516321",
+    "phone_number": "+91 89888 44222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 35,
+    "address": "Vizianagaram - Palakonda Rd, Nellimarla, Andhra Pradesh 535217",
+    "area": "516321",
+    "latitude": 18.1547377,
+    "longitude": 83.44601279999999,
+    "place_id": "ChIJZRgENUDxOzoRSv0LzwI_i4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRgENUDxOzoRSv0LzwI_i4M",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:26:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.L.V. General Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "516289",
+    "phone_number": "+91 99635 52207",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JM2C+JQW, Unnamed Road, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516289",
+    "latitude": 14.6016128,
+    "longitude": 78.6719655,
+    "place_id": "ChIJT3YnE294szsRrL5Q0lfiG4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3YnE294szsRrL5Q0lfiG4M",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:17:04"
+  },
+  {
+    "business_name": "KVR grneral Stores",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516289",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "HMXC+X26, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516289",
+    "latitude": 14.5999194,
+    "longitude": 78.6700195,
+    "place_id": "ChIJ9xr0S254szsR1K77s0gmwtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xr0S254szsR1K77s0gmwtA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:17:05"
+  }
+]

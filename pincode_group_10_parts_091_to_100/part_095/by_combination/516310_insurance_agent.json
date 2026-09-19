@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, ATM, Financial institution, Money transfer service",
+    "pincode": "516310",
+    "phone_number": "+91 98486 92614",
+    "website": "https://www.finobank.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4/44A, Kottapalle, Andhra Pradesh 516310",
+    "area": "Kottapalle",
+    "latitude": 14.6592141,
+    "longitude": 78.4532095,
+    "place_id": "ChIJgWdcIcOJszsRheAD_2ySeyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWdcIcOJszsRheAD_2ySeyU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:21:47"
+  },
+  {
+    "business_name": "Book My Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "516310",
+    "phone_number": "+91 99458 30537",
+    "website": "http://bookmyinsurance.org/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "No 18,19, ixora suites, NGEF Layout, Sadanandanagar, Indiranagar, Bengaluru, Karnataka 560038",
+    "area": "NGEF Layout, Sadanandanagar, Indiranagar",
+    "latitude": 12.9953288,
+    "longitude": 77.658852,
+    "place_id": "ChIJdQx90TURrjsRR9TMsMDWyM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQx90TURrjsRR9TMsMDWyM4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:21:47"
+  }
+]

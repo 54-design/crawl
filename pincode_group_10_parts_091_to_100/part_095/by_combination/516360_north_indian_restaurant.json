@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sitara Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516360",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QG3X+8H6 Sitara Family Restaurant, Holmes Pet Rd, opposite Ramalinga Hospital, Holmus Pet, Proddatur, Andhra Pradesh 516361",
+    "area": "Holmus Pet",
+    "latitude": 14.7532918,
+    "longitude": 78.5488883,
+    "place_id": "ChIJV1VV9KN4tDsR5iKnctR5lH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VV9KN4tDsR5iKnctR5lH8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:33"
+  },
+  {
+    "business_name": "Pizza Hut | SS Mall, Proddatur",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "516360",
+    "phone_number": "+91 89296 47573",
+    "website": "https://restaurants.pizzahut.co.in/pizza-hut-ph-ss-mall-prodattur-pizza-restaurant-korrapadu-road-proddatur-110315/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.7,
+    "reviews_count": 1735,
+    "address": "Ground Floor, SSS Mall, No 7/834, Korrapadu Rd, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.755683,
+    "longitude": 78.5566205,
+    "place_id": "ChIJOU4gc0l5tDsR60qHaYvMEho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOU4gc0l5tDsR60qHaYvMEho",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:41:34"
+  }
+]

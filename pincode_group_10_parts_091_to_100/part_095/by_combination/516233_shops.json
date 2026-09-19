@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya stores",
+    "search_category": "Shops",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "516233",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Four roads center, 8-1-1, Sasthir Ngar, Badvel, Andhra Pradesh 516233",
+    "area": "Sasthir Ngar",
+    "latitude": 14.7393623,
+    "longitude": 79.0613813,
+    "place_id": "ChIJ62wEaQBfszsRXVu6xL0FeeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62wEaQBfszsRXVu6xL0FeeQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:01:44"
+  },
+  {
+    "business_name": "Sr Pooja store",
+    "search_category": "Shops",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "516233",
+    "phone_number": "+91 78158 06744",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gupta Nagar, Mydukur - Badvel Rd, Badvel, Andhra Pradesh 516233",
+    "area": "516233",
+    "latitude": 14.739510099999999,
+    "longitude": 79.0587465,
+    "place_id": "ChIJqT8DcM1fszsRve6jvUMTNjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqT8DcM1fszsRve6jvUMTNjc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:01:44"
+  }
+]

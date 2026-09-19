@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kruthika Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516329",
+    "phone_number": "+91 96666 75720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "YBN Palli Rd, Sainagar, Rajampet, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.1946573,
+    "longitude": 79.16113539999999,
+    "place_id": "ChIJP5-98hslszsRFTCqm1VhIME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5-98hslszsRFTCqm1VhIME",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:51"
+  },
+  {
+    "business_name": "khan medicals store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516329",
+    "phone_number": "+91 94410 35866",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "55X4+QPM, Main Rd, Rajampet, Andhra Pradesh 516115",
+    "area": "516329",
+    "latitude": 14.1994656,
+    "longitude": 79.1567843,
+    "place_id": "ChIJvWytqh8lszsRr4d3Ly5R7h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWytqh8lszsRr4d3Ly5R7h0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:51"
+  }
+]

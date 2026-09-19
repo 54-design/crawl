@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sunspa solutions",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "516259",
+    "phone_number": "+91 80 4513 3546",
+    "website": "https://www.sunspasolutions.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FC5F+348, Unnamed Road, Borabanda, Moti Nagar, Hyderabad, Telangana 500114",
+    "area": "Borabanda, Moti Nagar",
+    "latitude": 17.457653399999998,
+    "longitude": 78.4228305,
+    "place_id": "ChIJxXEquF6RyzsR1rqBgsUnIpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXEquF6RyzsR1rqBgsUnIpU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:53"
+  },
+  {
+    "business_name": "Spa Traders",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "516259",
+    "phone_number": "+91 99892 58977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "207/a, Rebbena, Telangana 504292",
+    "area": "516259",
+    "latitude": 19.2570254,
+    "longitude": 79.4188587,
+    "place_id": "ChIJKwLHkHSrMjoRg_z7BNt1Nvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwLHkHSrMjoRg_z7BNt1Nvc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:07:54"
+  }
+]

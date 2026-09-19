@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Coldage Store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "516268",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3Q59+G7F, Chennamukkapalle, Andhra Pradesh 516269",
+    "area": "516268",
+    "latitude": 14.0588198,
+    "longitude": 78.7680908,
+    "place_id": "ChIJVzCCXfADszsR81WIUy1n4cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzCCXfADszsR81WIUy1n4cI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:11:49"
+  },
+  {
+    "business_name": "Exotic warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "516268",
+    "phone_number": "N/A",
+    "website": "http://vrmgroup.org/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Survey No - 81 Kubera Hills Palasamudram, Gorantla, Andhra Pradesh 515241",
+    "area": "516268",
+    "latitude": 13.973424099999999,
+    "longitude": 77.6777517,
+    "place_id": "ChIJQZUDWnF3sTsRY58rDSLF8cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZUDWnF3sTsRY58rDSLF8cU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:11:50"
+  }
+]

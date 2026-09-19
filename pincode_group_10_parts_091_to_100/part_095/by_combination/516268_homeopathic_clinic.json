@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HMS HOMOEOPATHIC CLINIC",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516268",
+    "phone_number": "+91 70135 53859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bethal Colony, Raju Colony, Rayachoty, Andhra Pradesh 516269",
+    "area": "Bethal Colony, Raju Colony",
+    "latitude": 14.0589558,
+    "longitude": 78.75578639999999,
+    "place_id": "ChIJHcuzFwEDszsRX2oPHw3cXJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcuzFwEDszsRX2oPHw3cXJo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:10:42"
+  },
+  {
+    "business_name": "LIFE CARE HOMOEOPATHY CLINIC",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "516268",
+    "phone_number": "+91 89786 31619",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Main Road, Kothapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Kothapeta",
+    "latitude": 14.059870799999999,
+    "longitude": 78.75056819999999,
+    "place_id": "ChIJKzioHUQDszsRAhcpdiBwlBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzioHUQDszsRAhcpdiBwlBU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:10:42"
+  }
+]

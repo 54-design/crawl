@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SuperK - Siva Supermarket Rajampet",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516228",
+    "phone_number": "+91 84998 33313",
+    "website": "https://www.superk.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8/57, Utukuru, Rajampet, Andhra Pradesh 516115",
+    "area": "516228",
+    "latitude": 14.186356,
+    "longitude": 79.1675016,
+    "place_id": "ChIJHZhDp84lszsR1LScqzHfCaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZhDp84lszsR1LScqzHfCaE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 05:58:21"
+  },
+  {
+    "business_name": "Srujana Supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516228",
+    "phone_number": "+91 90599 79009",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 96,
+    "address": "7/346, Kadapa - Tirupati Rd, Jagadampalli, Koduru, Andhra Pradesh 516101",
+    "area": "Jagadampalli",
+    "latitude": 13.9576911,
+    "longitude": 79.3508198,
+    "place_id": "ChIJnWYwDWLTsjsRXZ6UfYpY-5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWYwDWLTsjsRXZ6UfYpY-5c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 05:58:22"
+  }
+]

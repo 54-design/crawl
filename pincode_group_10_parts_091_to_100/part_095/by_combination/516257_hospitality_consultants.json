@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aum Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Business management consultant",
+    "pincode": "516257",
+    "phone_number": "+91 81082 05025",
+    "website": "https://www.aumconsultants.net/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Safalya Heritage, A-403, Beltarodi Rd, Besa, Besa Pipla, Maharashtra 440037",
+    "area": "Besa",
+    "latitude": 21.094750299999998,
+    "longitude": 79.0839756,
+    "place_id": "ChIJoaaR96e75zsRlpuugxweHzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaaR96e75zsRlpuugxweHzo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:18"
+  },
+  {
+    "business_name": "TheDineBoss",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "516257",
+    "phone_number": "+91 99710 36163",
+    "website": "https://www.thedineboss.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "TheDineBoss, 516257, India",
+    "area": "516257",
+    "latitude": 20.6430828,
+    "longitude": 82.2834771,
+    "place_id": "ChIJcfrlBTFi_U4RrXYFiHlItL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfrlBTFi_U4RrXYFiHlItL8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:06:20"
+  }
+]

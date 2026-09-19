@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Wrap City Vizag",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Vehicle wrapping service",
+    "pincode": "516233",
+    "phone_number": "+91 91001 73490",
+    "website": "http://www.thewrapcityvizag.in/",
+    "rating": 4.8,
+    "reviews_count": 60,
+    "address": "The Wrap City, Hill view conventions,IT Sez,Hill No. 2, Plot- F, near Mouri tech, Madhuravada, Andhra Pradesh 530045",
+    "area": "Startup Village, Pedda Rushikonda, Madhurawada",
+    "latitude": 17.808564699999998,
+    "longitude": 83.388975,
+    "place_id": "ChIJi4aOS49bOToR0gFiv35VGoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4aOS49bOToR0gFiv35VGoQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:00:36"
+  },
+  {
+    "business_name": "Doorstep Full Car Detailing Service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "516233",
+    "phone_number": "+91 70239 91074",
+    "website": "https://www.facebook.com/dootstepcarwashservice/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D.no:45-38 2/B, near SKML sweet shop, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Akkayyapalem",
+    "latitude": 17.7352775,
+    "longitude": 83.29995249999999,
+    "place_id": "ChIJScGG3y5DOToR9bWdiwzjVkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScGG3y5DOToR9bWdiwzjVkA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:00:37"
+  }
+]

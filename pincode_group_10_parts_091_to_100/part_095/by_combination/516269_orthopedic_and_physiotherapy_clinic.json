@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amma Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Chiropractor, Osteopath",
+    "pincode": "516269",
+    "phone_number": "+91 99850 44726",
+    "website": "http://www.ammaphysiotherapy.in/",
+    "rating": 5,
+    "reviews_count": 84,
+    "address": "#20/21, Opp. SP Office(Police Parade Ground), Lakshmi Talkies Center, Narasimha Nagar, Machilipatnam, Andhra Pradesh 521002",
+    "area": "Narasimha Nagar",
+    "latitude": 16.191641,
+    "longitude": 81.1447996,
+    "place_id": "ChIJ8aQFhpbnSToRTDQ4HywK4XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aQFhpbnSToRTDQ4HywK4XE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:12:30"
+  },
+  {
+    "business_name": "Gowthami Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Pain control clinic, Physiotherapist, Rehabilitation center",
+    "pincode": "516269",
+    "phone_number": "+91 99890 66135",
+    "website": "https://gowthamiphysio.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dr no 21-1-17/A, Beside Sri Sai Enclave, Muthyalampadu, Alluri Sitharamaraju St, Vijayawada, Andhra Pradesh 521229",
+    "area": "Mutyalammapadu, Satyaranayana Puram",
+    "latitude": 16.5256456,
+    "longitude": 80.63793749999999,
+    "place_id": "ChIJz-yKcQflNToRQ7obcUC3wc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-yKcQflNToRQ7obcUC3wc8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:12:32"
+  }
+]

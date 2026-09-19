@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Law Chambers",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer, Civil law attorney, Family law attorney, Law firm, Legal services, Patent attorney",
+    "pincode": "516293",
+    "phone_number": "+91 94824 39704",
+    "website": "http://lawchambermlr.com/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "2nd Floor, SHANTHI KENDRA BUILDING, Balmatta Rd, opp. Mangalore, Bendoorwell, Bendoor, Mangaluru, Karnataka 575002",
+    "area": "Bendoorwell, Bendoor",
+    "latitude": 12.8717931,
+    "longitude": 74.8544648,
+    "place_id": "ChIJUU842DtbozsRZ71ipYyvgGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU842DtbozsRZ71ipYyvgGY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:18:28"
+  },
+  {
+    "business_name": "G C Vadodaria Associates LLP",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "516293",
+    "phone_number": "+91 99255 38546",
+    "website": "https://linktr.ee/gcva",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Kuber Kunj, Road Road, behind Tulsi Empire Station, Kharama, Bharvad Vado, Botad, Gujarat 364710",
+    "area": "Kharama, Bharvad Vado",
+    "latitude": 22.173481199999998,
+    "longitude": 71.665609,
+    "place_id": "ChIJSUFlyoHcWDkR6b1G2CWI66I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUFlyoHcWDkR6b1G2CWI66I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:18:28"
+  }
+]

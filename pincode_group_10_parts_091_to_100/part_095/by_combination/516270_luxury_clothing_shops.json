@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirthi The Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing alteration service, Clothing manufacturer, Clothing store, Designer Clothing Store, Formal Clothing Store, Women's clothing store",
+    "pincode": "516270",
+    "phone_number": "+91 99616 29299",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "K 37, 7th Cross Road, KV Nagar, Panampilly Nagar, Kochi, Ernakulam, Keralam 682020",
+    "area": "KV Nagar, Panampilly Nagar",
+    "latitude": 9.9617066,
+    "longitude": 76.2971379,
+    "place_id": "ChIJkST4DsdyCDsRYNFZhc6dyQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkST4DsdyCDsRYNFZhc6dyQc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:14:08"
+  },
+  {
+    "business_name": "Grace Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "516270",
+    "phone_number": "+91 85474 57616",
+    "website": "https://www.facebook.com/graceboutique12/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "SH 1, near East Chappel, East Nagar, Kavaraparmbu, Angamaly, Keralam 683572",
+    "area": "East Nagar, Kavaraparmbu",
+    "latitude": 10.1889792,
+    "longitude": 76.3917926,
+    "place_id": "ChIJH96ckF8GCDsRGcSozCcFABg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH96ckF8GCDsRGcSozCcFABg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:14:08"
+  }
+]

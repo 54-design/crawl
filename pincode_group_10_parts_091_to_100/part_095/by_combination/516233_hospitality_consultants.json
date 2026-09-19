@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suchitha Hospitality Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Consultant",
+    "pincode": "516233",
+    "phone_number": "+91 81849 76003",
+    "website": "https://suchithahospitalityservices.com/",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Plot no :- 1684, 1685, Gajularamaram Rd, near pochamma temple, Devender Nagar, Quthbullapur, Hyderabad, Telangana 500055",
+    "area": "Devender Nagar, Quthbullapur",
+    "latitude": 17.5184243,
+    "longitude": 78.43582239999999,
+    "place_id": "ChIJh7GEAdaPyzsROIbxoWX1GDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7GEAdaPyzsROIbxoWX1GDg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:01:09"
+  },
+  {
+    "business_name": "Suchitha Hospitality Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "516233",
+    "phone_number": "+91 81849 76003",
+    "website": "https://www.suchithahospitalityservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 1-113/1/501, M Mahadev Rao, near Pochamma Temple, Devender Nagar, Gajularamaram, Hyderabad, Telangana 500117",
+    "area": "Devender Nagar, Gajularamaram",
+    "latitude": 17.5275452,
+    "longitude": 78.4135873,
+    "place_id": "ChIJMfncN3mPyzsRMCJ2zXZppqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfncN3mPyzsRMCJ2zXZppqc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:01:09"
+  }
+]

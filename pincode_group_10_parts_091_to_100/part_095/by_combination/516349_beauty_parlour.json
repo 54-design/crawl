@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinni beautyparlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "516349",
+    "phone_number": "+91 62811 02405",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "Maruthi Hall Rd, Pulivendula, Andhra Pradesh 516390",
+    "area": "516349",
+    "latitude": 14.421225499999998,
+    "longitude": 78.2218075,
+    "place_id": "ChIJNUooDwDrszsR-UXyObKHngI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUooDwDrszsR-UXyObKHngI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:33:34"
+  },
+  {
+    "business_name": "Lakshmi beauty makeup studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "516349",
+    "phone_number": "+91 96668 26669",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "Viswa bharathi street, Maruthi Hall Rd, hal road, Pulivendula, Andhra Pradesh 516390",
+    "area": "hal road",
+    "latitude": 14.420904499999999,
+    "longitude": 78.2213288,
+    "place_id": "ChIJPYIW0SvrszsR6Id_t-fYrEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYIW0SvrszsR6Id_t-fYrEo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:33:34"
+  }
+]

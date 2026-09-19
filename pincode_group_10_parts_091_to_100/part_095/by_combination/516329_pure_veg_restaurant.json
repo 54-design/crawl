@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516329",
+    "phone_number": "+91 97035 95258",
+    "website": "https://rainbow-restaurant.com/",
+    "rating": 3.8,
+    "reviews_count": 22,
+    "address": "Kadapa - Pulivendula Rd, opp. TMR MALL, Vempalli, Andhra Pradesh 516329",
+    "area": "516329",
+    "latitude": 14.364472699999999,
+    "longitude": 78.453644,
+    "place_id": "ChIJo3Q0yMK9szsR7sv9a3Bz0Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3Q0yMK9szsR7sv9a3Bz0Cs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:34"
+  },
+  {
+    "business_name": "Friends Cafe Family Restaurant (A.c )",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516329",
+    "phone_number": "+91 94403 18780",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kadapa - Pulivendula Rd, near sub register office, Vempalli, Andhra Pradesh 516329",
+    "area": "516329",
+    "latitude": 14.3733816,
+    "longitude": 78.44810129999999,
+    "place_id": "ChIJFXPqt2W9szsRiRkOhVBES0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXPqt2W9szsRiRkOhVBES0E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:27:37"
+  }
+]
