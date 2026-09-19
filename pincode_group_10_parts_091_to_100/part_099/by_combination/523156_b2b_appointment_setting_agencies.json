@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Content Hiring Company",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "523156",
+    "phone_number": "N/A",
+    "website": "http://contenthiring.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "The Content Hiring Company, 523156, India",
+    "area": "523156",
+    "latitude": 47.608715,
+    "longitude": -122.33979799999999,
+    "place_id": "ChIJdzbdl4QVkFQRGiBtNctvhJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzbdl4QVkFQRGiBtNctvhJU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:41:41"
+  },
+  {
+    "business_name": "businessapp",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "523156",
+    "phone_number": "+91 98994 26411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "businessapp, 523156, India",
+    "area": "523156",
+    "latitude": 9.374110199999999,
+    "longitude": -74.9524576,
+    "place_id": "ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:41:43"
+  }
+]

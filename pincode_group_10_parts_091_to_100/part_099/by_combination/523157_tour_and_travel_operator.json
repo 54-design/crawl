@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeeva car travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523157",
+    "phone_number": "+91 99126 87647",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Vedullapalli - Vodarevu Rd, Kotha Peta Rural, Andhra Pradesh 523157",
+    "area": "523157",
+    "latitude": 15.800953499999999,
+    "longitude": 80.41760239999999,
+    "place_id": "ChIJ5yH7FfpHSjoRgn9RtViwlk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yH7FfpHSjoRgn9RtViwlk4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:42:29"
+  },
+  {
+    "business_name": "Sekhar car travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523157",
+    "phone_number": "+91 85018 22442",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Krishna canal centre, Karamchedu, Andhra Pradesh 523168",
+    "area": "523157",
+    "latitude": 15.8877537,
+    "longitude": 80.31143519999999,
+    "place_id": "ChIJ1f_y1uFDSjoRYGvgSaW-pr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1f_y1uFDSjoRYGvgSaW-pr8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:42:29"
+  }
+]

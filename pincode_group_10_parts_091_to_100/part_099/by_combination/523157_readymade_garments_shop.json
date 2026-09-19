@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Karthikeya Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523157",
+    "phone_number": "+91 90305 09060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Clock Tower Centre, Polimera Rd, opp. mahila mandal vinjamuri complex, Muntha vari Centre, Chirala, Andhra Pradesh 523155",
+    "area": "Muntha vari Centre",
+    "latitude": 15.829001799999999,
+    "longitude": 80.3548146,
+    "place_id": "ChIJH8MTfQlFSjoRdpzJMRnD0yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8MTfQlFSjoRdpzJMRnD0yI",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:42:01"
+  },
+  {
+    "business_name": "Syam textiles",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523157",
+    "phone_number": "+91 92472 79233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "mahatma gandhi cloth market, 199-200, opposite Right, Chirala, Andhra Pradesh 523157",
+    "area": "523157",
+    "latitude": 15.842362199999998,
+    "longitude": 80.34915989999999,
+    "place_id": "ChIJ1QiSps5FSjoRZFD-73TE4e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QiSps5FSjoRZFD-73TE4e8",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:42:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G HOTELS & RESORTS",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "523157",
+    "phone_number": "+91 98492 72424",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 14,
+    "address": "Near, Ramapuram Beach Rd, Ramapuram, Chirala, Kotha Peta Rural, Andhra Pradesh 523157",
+    "area": "Ramapuram",
+    "latitude": 15.7772106,
+    "longitude": 80.3820463,
+    "place_id": "ChIJFQdfkIRHSjoR4Lrdg2wkb-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQdfkIRHSjoR4Lrdg2wkb-I",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:42:55"
+  },
+  {
+    "business_name": "The Room's",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "523157",
+    "phone_number": "+91 80193 06406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "NH 216, Prasad Nagar, Kotha Peta Rural, Andhra Pradesh 523157",
+    "area": "Prasad Nagar",
+    "latitude": 15.824098999999999,
+    "longitude": 80.3793622,
+    "place_id": "ChIJJ388PQBHSjoR9vF65nSQObU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ388PQBHSjoR9vF65nSQObU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:42:56"
+  }
+]

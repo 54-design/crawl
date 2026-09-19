@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Monkey",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523165",
+    "phone_number": "+91 90527 39770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R9H4+Q6J, Raja Ramamohana Roy Rd, Paparajuthota, Chirala, Andhra Pradesh 523155",
+    "area": "Paparajuthota",
+    "latitude": 15.829457199999998,
+    "longitude": 80.3555141,
+    "place_id": "ChIJS4_rwhlESjoRtXGVibHpaHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4_rwhlESjoRtXGVibHpaHg",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:43:56"
+  },
+  {
+    "business_name": "Sai Krishna Fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "523165",
+    "phone_number": "+91 81436 28283",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop5 Opportunity Ysr Center Inkollu Road, Andhra Pradesh 523165",
+    "area": "Jandrapeta",
+    "latitude": 15.8108419,
+    "longitude": 80.3315121,
+    "place_id": "ChIJiUIKnJpFSjoRvH_H2w-spoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUIKnJpFSjoRvH_H2w-spoU",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:43:57"
+  }
+]

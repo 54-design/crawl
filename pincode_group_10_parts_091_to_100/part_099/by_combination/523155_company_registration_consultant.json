@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fruits business",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "523155",
+    "phone_number": "+91 94405 90285",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Andhra Ratna Rd, nearby Sub Register Office, Wood Nagar Colony, Chirala, Andhra Pradesh 523155",
+    "area": "Wood Nagar Colony",
+    "latitude": 15.8264841,
+    "longitude": 80.3551947,
+    "place_id": "ChIJsdSRqCdFSjoRD64NGAL6-Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdSRqCdFSjoRD64NGAL6-Jw",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:39:17"
+  },
+  {
+    "business_name": "Bajaj Finance Branch",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Investment company, Investment service, Loan agency, Mortgage lender",
+    "pincode": "523155",
+    "phone_number": "+91 77570 00000",
+    "website": "https://nearme.bajajfinserv.in/service-branch/bajaj-finance-branch-loan-agency-chirala-chirala-177064/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "Door No 14, 21/85, Dharbav Road, Kothapeta, Kotha Peta Rural, Andhra Pradesh 523155",
+    "area": "Kothapeta",
+    "latitude": 15.8224962,
+    "longitude": 80.3627034,
+    "place_id": "ChIJQ5KB6pBFSjoR4QVnUov6ppo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5KB6pBFSjoR4QVnUov6ppo",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:39:17"
+  }
+]

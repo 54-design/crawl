@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surya Suppliers",
+    "search_category": "Importers",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "523157",
+    "phone_number": "+91 98498 82680",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chinna Ardham Centre, Perala, Chirala, Andhra Pradesh 523157",
+    "area": "Perala",
+    "latitude": 15.833772699999999,
+    "longitude": 80.3621252,
+    "place_id": "ChIJicWF5vpFSjoRTpI820cXU30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicWF5vpFSjoRTpI820cXU30",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:43:28"
+  },
+  {
+    "business_name": "Baba Strapping machines",
+    "search_category": "Importers",
+    "primary_category": "Suppliers",
+    "all_categories": "Suppliers",
+    "pincode": "523157",
+    "phone_number": "+91 92464 98105",
+    "website": "http://saipackagings.com/",
+    "rating": 3.3,
+    "reviews_count": 15,
+    "address": "Dno: #13-113, Gopal Nagar, near Vigneswara Temple, Kothapeta, Chirala, Andhra Pradesh 523155",
+    "area": "Kothapeta",
+    "latitude": 15.8201255,
+    "longitude": 80.36210919999999,
+    "place_id": "ChIJcxZDMSFESjoRmAMlofe0qgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxZDMSFESjoRmAMlofe0qgs",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:43:28"
+  }
+]

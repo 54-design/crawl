@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CIRE Commercial Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "523166",
+    "phone_number": "N/A",
+    "website": "http://cirecre.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CIRE Commercial Real Estate, 523166, India",
+    "area": "523166",
+    "latitude": 34.020479,
+    "longitude": -118.4117326,
+    "place_id": "ChIJO5wCOLaewoAR3GqcTI1BkcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5wCOLaewoAR3GqcTI1BkcQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:47:02"
+  },
+  {
+    "business_name": "M M Homes And Developers",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "523166",
+    "phone_number": "+91 93936 00159",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "passport office building, flat no 305, 3rd floor, prince avenue, Air Bypass Rd, Ashok Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Ashok Nagar",
+    "latitude": 13.623301,
+    "longitude": 79.426424,
+    "place_id": "ChIJ-fk19QtLTToRYXs_7Z6H1AY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fk19QtLTToRYXs_7Z6H1AY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:47:04"
+  }
+]

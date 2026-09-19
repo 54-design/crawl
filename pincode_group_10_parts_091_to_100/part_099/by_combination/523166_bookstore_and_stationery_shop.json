@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayuri Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "523166",
+    "phone_number": "+91 85005 23188",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "FFPP+35F, Sanjeev Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Sanjeev Nagar",
+    "latitude": 15.4851792,
+    "longitude": 78.48541039999999,
+    "place_id": "ChIJFUJrrYittTsRttTOpMHJYn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUJrrYittTsRttTOpMHJYn0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:46:48"
+  },
+  {
+    "business_name": "Deepthi book Distributors",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "523166",
+    "phone_number": "+91 79955 51102",
+    "website": "http://amigosbooks.com/",
+    "rating": 3.7,
+    "reviews_count": 507,
+    "address": "24-104-6, Kanithi Rd, China Gantyada, Gonthinavanipalem, Gajuwaka, Andhra Pradesh 530026",
+    "area": "China Gantyada, Gonthinavanipalem, Gajuwaka",
+    "latitude": 17.6797057,
+    "longitude": 83.19941759999999,
+    "place_id": "ChIJpQjBpQ9pOToR6bvXntCRmL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQjBpQ9pOToR6bvXntCRmL4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:46:49"
+  }
+]

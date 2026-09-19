@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Slv bangalore iyengar bakery vadarevu",
+    "search_category": "Patisserie",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "523166",
+    "phone_number": "+91 96112 92535",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "panchiyathi office, Vadarevu beach rode, Vodarevu, oppsite, Vadarevu, Ipurupalem, Andhra Pradesh 523157",
+    "area": "Vodarevu, oppsite",
+    "latitude": 15.7975853,
+    "longitude": 80.41105019999999,
+    "place_id": "ChIJfcupchlHSjoR32qbCcOhwBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcupchlHSjoR32qbCcOhwBE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:45:39"
+  },
+  {
+    "business_name": "BAKEHOUSE by Cooks & Foodies",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523166",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/cooks_and_foodies/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Indian oil Petrol pump, Ram Priya Nagar, 87/1108-R-P-N-170-A, near Johrapur old Dump Yard, Sree Rama Nagar, Kalluru, Andhra Pradesh 518002",
+    "area": "Sree Rama Nagar",
+    "latitude": 15.806940299999999,
+    "longitude": 78.0564608,
+    "place_id": "ChIJs8ABT4zdtTsR4qZHa3I8_TQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8ABT4zdtTsR4qZHa3I8_TQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:45:39"
+  }
+]

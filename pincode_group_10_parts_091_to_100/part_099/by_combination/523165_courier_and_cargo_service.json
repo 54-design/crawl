@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Post",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "523165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sri Chenna Kesava, 8-213, Poleramma Temple Rd, Capol Colony, Jandrapeta, Chirala, Andhra Pradesh 523155",
+    "area": "Capol Colony, Jandrapeta",
+    "latitude": 15.8133225,
+    "longitude": 80.3325174,
+    "place_id": "ChIJRTqbCABFSjoRAgsPKMoKEpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTqbCABFSjoRAgsPKMoKEpY",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:45:07"
+  },
+  {
+    "business_name": "Worldfirst Courier services, Rayachoty",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523165",
+    "phone_number": "+91 77999 94522",
+    "website": "http://www.worldfirst.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D No 56/158, Ali Complex, M M, Bus Stand Rd, opp. DIET School, Kothapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Kothapeta",
+    "latitude": 14.056629599999999,
+    "longitude": 78.74921479999999,
+    "place_id": "ChIJJ2GB3d4DszsRuW4jddqxs30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2GB3d4DszsRuW4jddqxs30",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:45:08"
+  }
+]

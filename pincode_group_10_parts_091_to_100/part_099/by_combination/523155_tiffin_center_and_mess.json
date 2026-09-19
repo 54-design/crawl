@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "tiffin centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "R83J+5HX, Jandrapeta Main Centre, Jandrapeta, Chirala, Andhra Pradesh 523165",
+    "area": "Jandrapeta Main Centre, Jandrapeta",
+    "latitude": 15.802999199999999,
+    "longitude": 80.3314721,
+    "place_id": "ChIJod9yOvZFSjoR0oh1wTQwl-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod9yOvZFSjoR0oh1wTQwl-A",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:37:58"
+  },
+  {
+    "business_name": "Raghava Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "523155",
+    "phone_number": "+91 98484 28143",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chinnaradam center, Perala, Chirala, Andhra Pradesh 523155",
+    "area": "Perala",
+    "latitude": 15.835795999999998,
+    "longitude": 80.36448109999999,
+    "place_id": "ChIJy6lL5qhFSjoRyaLWzPrsZmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6lL5qhFSjoRyaLWzPrsZmE",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:37:58"
+  }
+]

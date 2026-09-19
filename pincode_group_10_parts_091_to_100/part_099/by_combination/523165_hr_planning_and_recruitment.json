@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR & Recruit",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "523165",
+    "phone_number": "01905 935094",
+    "website": "http://hrandrecruit.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "8 Basin Rd, Worcester WR5 3GA, United Kingdom",
+    "area": "523165",
+    "latitude": 52.182747899999995,
+    "longitude": -2.2207697,
+    "place_id": "ChIJR730pI_wcEgRlAswCceg3nQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR730pI_wcEgRlAswCceg3nQ",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:45:09"
+  },
+  {
+    "business_name": "Career Creed HR Services Private Limited",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Payroll Service Provider, Recruiter",
+    "pincode": "523165",
+    "phone_number": "+91 11 4657 3869",
+    "website": "https://careercreed.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "DDA -2, 707, Janakpuri District Center, Janakpuri, New Delhi, Delhi 110058",
+    "area": "Janakpuri District Center, Janakpuri",
+    "latitude": 28.630287799999998,
+    "longitude": 77.0817637,
+    "place_id": "ChIJjZPVibYFDTkReUAsAjqQGas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZPVibYFDTkReUAsAjqQGas",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:45:10"
+  }
+]

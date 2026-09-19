@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manas Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Dermatologist, General practitioner, Gynecologist, Intensivist, Internal medicine ward, Orthopedic surgeon, Pediatrician, Surgeon, Urologist",
+    "pincode": "523165",
+    "phone_number": "+91 89517 79948",
+    "website": "https://manashospitals.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kodigehalli - Thindlu Main Rd, Maruthi Layout, Virupakshapura, Bengaluru, Karnataka 560097",
+    "area": "Maruthi Layout, Virupakshapura",
+    "latitude": 13.062704499999999,
+    "longitude": 77.5728998,
+    "place_id": "ChIJIzY_0FcZrjsRtyNzLizorK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzY_0FcZrjsRtyNzLizorK4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:44:08"
+  },
+  {
+    "business_name": "LohithSai Super Specialty Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523165",
+    "phone_number": "+91 91606 14321",
+    "website": "http://lohithsaihospital.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Seetha ramanjaneya theater opposite more super market lane, Hyderabad Rd, Siddipet, Telangana 502103",
+    "area": "Srinivas Nagar",
+    "latitude": 18.0989304,
+    "longitude": 78.8556988,
+    "place_id": "ChIJwdEWSIGTzDsRdY-zVysym-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdEWSIGTzDsRdY-zVysym-g",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:44:08"
+  }
+]

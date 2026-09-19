@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523166",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi park, main road, Ipurupalem, Ipuru Palem Rural, Andhra Pradesh 523166",
+    "area": "Ipurupalem",
+    "latitude": 15.8492351,
+    "longitude": 80.3868109,
+    "place_id": "ChIJn7pc9JNHSjoRBsnkDvTjla4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7pc9JNHSjoRBsnkDvTjla4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:46:15"
+  },
+  {
+    "business_name": "test",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523166",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sss sfsfs, Gavinivaripalem, Andhra Pradesh 523166",
+    "area": "523166",
+    "latitude": 15.8397735,
+    "longitude": 80.4215246,
+    "place_id": "ChIJ6YhA0dNHSjoRYpuJCkIKCs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YhA0dNHSjoRYpuJCkIKCs0",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:46:15"
+  }
+]

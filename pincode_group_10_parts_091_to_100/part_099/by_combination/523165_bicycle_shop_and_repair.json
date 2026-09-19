@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaheer Bike mechanic shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "523165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R86V+WFH, R.K Puram, Chirala, Andhra Pradesh 523155",
+    "area": "R.K Puram",
+    "latitude": 15.8123232,
+    "longitude": 80.3437309,
+    "place_id": "ChIJWUpgS_lFSjoRleCGWd_z9ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUpgS_lFSjoRleCGWd_z9ks",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:44:22"
+  },
+  {
+    "business_name": "Sunny cycle Home service gurgaon",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Repair service",
+    "pincode": "523165",
+    "phone_number": "+91 91995 85278",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 109,
+    "address": "Red Cross Complex, near civil hospital, Sadar Bazar, Roshan Pura, Gurugram, Haryana 122001",
+    "area": "Sadar Bazar, Roshan Pura",
+    "latitude": 28.4615476,
+    "longitude": 77.0321359,
+    "place_id": "ChIJDR2DxZ4ZDTkRgY_iyQNmHh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDR2DxZ4ZDTkRgY_iyQNmHh4",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:44:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Suresh Chander Sachdeva",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "523165",
+    "phone_number": "+91 98104 86760",
+    "website": "http://www.homeopath.net.in/",
+    "rating": 4.9,
+    "reviews_count": 61,
+    "address": "G-36, G Block, Sector 41, Noida, Uttar Pradesh 201303",
+    "area": "G Block, Sector 41",
+    "latitude": 28.564375799999997,
+    "longitude": 77.3649662,
+    "place_id": "ChIJB8ar41vlDDkRZbxAPtcbHVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8ar41vlDDkRZbxAPtcbHVM",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:44:04"
+  },
+  {
+    "business_name": "Dr. Nandas Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "523165",
+    "phone_number": "+91 99978 51485",
+    "website": "https://www.bajajfinservhealth.in/doctor/dehradun/homeopath/dr-inderjeet-nanda",
+    "rating": 4.1,
+    "reviews_count": 46,
+    "address": "123, Indira Nagar Colony Rd, near Asian School, Vasant Vihar, Balliwala, Dehradun, Uttarakhand 248006",
+    "area": "Vasant Vihar, Balliwala",
+    "latitude": 30.323112599999998,
+    "longitude": 78.0051653,
+    "place_id": "ChIJtYyh4QQqCTkRIy95bREwY38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYyh4QQqCTkRIy95bREwY38",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:44:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhulipalla Auto Mobiles",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "523155",
+    "phone_number": "+91 99490 43789",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Main Road, Martur, Andhra Pradesh 523301",
+    "area": "523155",
+    "latitude": 15.9835742,
+    "longitude": 80.102305,
+    "place_id": "ChIJp8lZldZhSjoRkztGOFhtPck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8lZldZhSjoRkztGOFhtPck",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:38:28"
+  },
+  {
+    "business_name": "RR Battery World",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Battery Wholesaler",
+    "pincode": "523155",
+    "phone_number": "+91 91775 16369",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Mustafa NagarMasjid, Shanti Nagar, Mustafa Nagar, Khammam, Telangana 507001",
+    "area": "Shanti Nagar, Mustafa Nagar",
+    "latitude": 17.2339712,
+    "longitude": 80.1473807,
+    "place_id": "ChIJ6fJgtcBXNDoROsj4-F1A5ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fJgtcBXNDoROsj4-F1A5ik",
+    "part_id": "part_099",
+    "crawled_at": "2026-09-19 11:38:31"
+  }
+]
