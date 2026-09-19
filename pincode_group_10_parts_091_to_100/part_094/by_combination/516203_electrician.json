@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN ELECTRICAL WORKS",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "516203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Phakeer street, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516203",
+    "latitude": 14.6002084,
+    "longitude": 78.6714308,
+    "place_id": "ChIJc_K0vQl5szsRpU53NCkkvkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_K0vQl5szsRpU53NCkkvkg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:25"
+  },
+  {
+    "business_name": "Subbu electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "516203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamalapuram, Andhra Pradesh 516289",
+    "area": "516203",
+    "latitude": 14.599405899999999,
+    "longitude": 78.6696983,
+    "place_id": "ChIJS5Us5Z15szsRDXBaTAKlIe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5Us5Z15szsRDXBaTAKlIe4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:25"
+  }
+]

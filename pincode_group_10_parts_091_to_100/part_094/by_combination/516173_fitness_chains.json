@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KILO CLUB FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516173",
+    "phone_number": "+91 96333 71435",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 254,
+    "address": "3rd Floor, Mancity Building, opp. Lakshmi Theatre, Ottapalam, Keralam 679101",
+    "area": "516173",
+    "latitude": 10.7726571,
+    "longitude": 76.3737915,
+    "place_id": "ChIJyRl3QZ7ZpzsRjtthj6SGMtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRl3QZ7ZpzsRjtthj6SGMtk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:29:52"
+  },
+  {
+    "business_name": "in shape fitness unlimited",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516173",
+    "phone_number": "+91 88914 74839",
+    "website": "https://www.inshapegym.in/",
+    "rating": 4.6,
+    "reviews_count": 124,
+    "address": "T.B Road, Ottapalam, Ottapalam, Keralam 679101",
+    "area": "Poolakkaparambu",
+    "latitude": 10.7744596,
+    "longitude": 76.376993,
+    "place_id": "ChIJaf19IQrZpzsRHH5LNPLxTGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaf19IQrZpzsRHH5LNPLxTGA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:29:52"
+  }
+]

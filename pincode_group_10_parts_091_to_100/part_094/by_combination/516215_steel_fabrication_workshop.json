@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Noor welding workshop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "516215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3Q62+2WC, Mohammed Pura St, Trank road, Rayachoty, Andhra Pradesh 516269",
+    "area": "Trank road",
+    "latitude": 14.0600612,
+    "longitude": 78.7522754,
+    "place_id": "ChIJY2cfPFYDszsREi44qPFg1IQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2cfPFYDszsREi44qPFg1IQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:41:28"
+  },
+  {
+    "business_name": "Divya steel industries",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516215",
+    "phone_number": "+91 96024 26294",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.O.: GROUND FLOOR, 2-249-E2, 3, Kadiri Rd, opp. BANK OF BARODA, Prasanth Nagar, CHITTOR, Madanapalle, Andhra Pradesh 517325",
+    "area": "Prasanth Nagar, CHITTOR",
+    "latitude": 13.5631378,
+    "longitude": 78.4992804,
+    "place_id": "ChIJu_A-SklnsjsRPu0s8eDHzTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_A-SklnsjsRPu0s8eDHzTw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:41:30"
+  }
+]

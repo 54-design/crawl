@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "516203",
+    "phone_number": "+91 99850 33484",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BC colony, Khajipet Sunkesula, Thavvaripalle, Andhra Pradesh 516203",
+    "area": "BC colony",
+    "latitude": 14.640133599999999,
+    "longitude": 78.72494689999999,
+    "place_id": "ChIJxSY_VRd5szsRUlWFUOGTDN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSY_VRd5szsRUlWFUOGTDN8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:16"
+  },
+  {
+    "business_name": "Travibes India",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "516203",
+    "phone_number": "+91 76718 99975",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rushi guru Kutami, Cross road, near akhanda Vishwa, opp. Indian Petrol Pump, Ramachandrapuram, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516203",
+    "latitude": 14.581542299999999,
+    "longitude": 78.6590825,
+    "place_id": "ChIJGUggEmh5szsRe7mRnSgx6Rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUggEmh5szsRe7mRnSgx6Rk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:18"
+  }
+]

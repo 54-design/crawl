@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivasa Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "516203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "MQJ2+VHR, Bhumayapalle, Andhra Pradesh 516203",
+    "area": "516203",
+    "latitude": 14.6831569,
+    "longitude": 78.7512945,
+    "place_id": "ChIJn9rpMQB9szsRgS-WU3DMdNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9rpMQB9szsRgS-WU3DMdNk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:40"
+  },
+  {
+    "business_name": "Sitara",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "516203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MQ3C+335, Khajipet Sunkesula, Andhra Pradesh 516203",
+    "area": "516203",
+    "latitude": 14.652639599999999,
+    "longitude": 78.7702357,
+    "place_id": "ChIJD2GBMAB7szsREMNPcqZr984",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2GBMAB7szsREMNPcqZr984",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:40"
+  }
+]

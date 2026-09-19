@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "xpressbees",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "516215",
+    "phone_number": "+91 20 4911 6100",
+    "website": "http://www.xpressbees.com/",
+    "rating": 2.2,
+    "reviews_count": null,
+    "address": "2QX2+38M, Sundupalli Rd, Raju Colony, Rayachoty, Andhra Pradesh 516269",
+    "area": "Raju Colony",
+    "latitude": 14.0477221,
+    "longitude": 78.750806,
+    "place_id": "ChIJEUAhgeoDszsRo4TuhPOHyDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUAhgeoDszsRo4TuhPOHyDI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:41:23"
+  },
+  {
+    "business_name": "Xpressbees",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Logistics service, Online Share Trading Center",
+    "pincode": "516215",
+    "phone_number": "+91 99333 55527",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gk road, Kalakada, Andhra Pradesh 517236",
+    "area": "516215",
+    "latitude": 13.8258595,
+    "longitude": 78.78868279999999,
+    "place_id": "ChIJrf1qI2fxsjsRi18YNjl11IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrf1qI2fxsjsRi18YNjl11IU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:41:23"
+  }
+]

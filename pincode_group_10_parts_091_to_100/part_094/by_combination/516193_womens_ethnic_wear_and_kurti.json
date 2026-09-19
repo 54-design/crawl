@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink Wardrobe",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Boutique, Bridal shop, Designer Clothing Store, Dress store, Formal Clothing Store, Wedding store",
+    "pincode": "516193",
+    "phone_number": "+91 93272 00298",
+    "website": "http://www.pinkwardrobe.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No.1&2, Corner Point Building, below Anjoy Restaurant, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007",
+    "area": "Vishwas Colony, Alkapuri",
+    "latitude": 22.308715199999998,
+    "longitude": 73.1687244,
+    "place_id": "ChIJhZZjrrDIXzkRXImWu9E25KA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZZjrrDIXzkRXImWu9E25KA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:33:07"
+  },
+  {
+    "business_name": "Priya Boutiques",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "516193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "First Floor, near LKR Towers, beside Rajiv Park Road, A.P.H.B Colony, Kadapa, Andhra Pradesh 516001",
+    "area": "A.P.H.B Colony",
+    "latitude": 14.462091399999998,
+    "longitude": 78.82702599999999,
+    "place_id": "ChIJtcvyVw1yszsRj4aI5o4lshg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcvyVw1yszsRj4aI5o4lshg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:33:07"
+  }
+]

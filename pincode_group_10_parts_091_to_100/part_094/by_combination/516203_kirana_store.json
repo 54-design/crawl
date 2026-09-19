@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bovilla Satish Reddy General Stores",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2/11, Road, Miduthuru, Andhra Pradesh 516203",
+    "area": "516203",
+    "latitude": 14.6601453,
+    "longitude": 78.6912791,
+    "place_id": "ChIJzxmBWAB5szsRq9D4Pz4DOIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxmBWAB5szsRq9D4Pz4DOIE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:34:36"
+  },
+  {
+    "business_name": "Hanuman General Stores",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "516203",
+    "phone_number": "+91 81423 23940",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "1, కమలాపురం- ఖాజిపేట- మైదుకూరు రహదారి, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516203",
+    "latitude": 14.5930507,
+    "longitude": 78.66966529999999,
+    "place_id": "ChIJS4qadG14szsR6MpnLm-t3xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4qadG14szsR6MpnLm-t3xo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:34:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Yasodha Krishna Fertilizer",
+    "search_category": "Fish Market",
+    "primary_category": "General store",
+    "all_categories": "General store, Fertilizer Store",
+    "pincode": "516213",
+    "phone_number": "+91 99481 06051",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No,2/43, Main, Bazer, Vontimitta, Andhra Pradesh 516213",
+    "area": "516213",
+    "latitude": 14.395852699999999,
+    "longitude": 79.0258685,
+    "place_id": "ChIJfd832VI_szsR0UhxUvcyIWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfd832VI_szsR0UhxUvcyIWo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:36:26"
+  },
+  {
+    "business_name": "V.P. Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "516213",
+    "phone_number": "+91 90927 42142",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 32,
+    "address": "600072 22, Thiruvallur High Road, Lenin Nagar, Oragadam, Chennai, Pattabiram, Tamil Nadu 600072",
+    "area": "Lenin Nagar, Oragadam",
+    "latitude": 13.119955299999999,
+    "longitude": 80.06802979999999,
+    "place_id": "ChIJb2ix1EyIUjoRfENEDDcLniw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2ix1EyIUjoRfENEDDcLniw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:36:28"
+  }
+]

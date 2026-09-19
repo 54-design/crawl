@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkatesh General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3P3V+93V, K. Ramapuram Rd, Ramapuram, Rayachoty, Andhra Pradesh 516269",
+    "area": "Ramapuram",
+    "latitude": 14.0534939,
+    "longitude": 78.7426855,
+    "place_id": "ChIJl2UdbAABszsRFEhWWUq5BR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2UdbAABszsRFEhWWUq5BR0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:04"
+  },
+  {
+    "business_name": "D.S.R General Store-Gangi Reddy",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516215",
+    "phone_number": "+91 63021 20166",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "2QX4+W63, Gunnukuntalla road, S.N Colony, Rayachoty, Andhra Pradesh 516269",
+    "area": "S.N Colony",
+    "latitude": 14.049752199999999,
+    "longitude": 78.7555577,
+    "place_id": "ChIJB15WXXwDszsRcNC8UHTUZVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB15WXXwDszsRcNC8UHTUZVg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:04"
+  }
+]

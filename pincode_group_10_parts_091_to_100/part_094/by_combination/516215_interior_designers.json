@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehek manufacturers",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "516215",
+    "phone_number": "+91 85001 42075",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road, near altaf function hall, Gunnikuntla, Rayachoty, Andhra Pradesh 516269",
+    "area": "516215",
+    "latitude": 14.0029977,
+    "longitude": 78.7867219,
+    "place_id": "ChIJbxzDwSb9sjsRlYnaRm2Ivqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxzDwSb9sjsRlYnaRm2Ivqo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:47"
+  },
+  {
+    "business_name": "Sri Satyadeva Ambient Home Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "516215",
+    "phone_number": "+91 93903 27744",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 96,
+    "address": "Number 3, 3/161-5-2-A Sri Satyadeva Ambient Home Decor, SBI Colony Rd, Madanapalle, Andhra Pradesh 517326",
+    "area": "SBI Colony",
+    "latitude": 13.5622362,
+    "longitude": 78.5085486,
+    "place_id": "ChIJHWpeAzRnsjsRKpsPWHZ988g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWpeAzRnsjsRKpsPWHZ988g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:49"
+  }
+]

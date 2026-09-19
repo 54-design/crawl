@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mallepalli",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "516173",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VVRP+9P, Mallepalle, Andhra Pradesh 516503",
+    "area": "516173",
+    "latitude": 14.8906844,
+    "longitude": 78.89058899999999,
+    "place_id": "ChIJB8P8WACbtDsRAM0wiAfYzfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8P8WACbtDsRAM0wiAfYzfA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:29:32"
+  },
+  {
+    "business_name": "MM Wines",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "516173",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "VVVM+44H, Mallepalle, Andhra Pradesh 516503",
+    "area": "516173",
+    "latitude": 14.8928116,
+    "longitude": 78.8828527,
+    "place_id": "ChIJTe2xJ6ebtDsREZtYs4HWCZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTe2xJ6ebtDsREZtYs4HWCZg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:29:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PADMA SWEETS & BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516175",
+    "phone_number": "+91 90108 81856",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "PGXW+HW8, Gandhi Rd, Vinayaka Nagar, Sarvakatta, Proddatur, Andhra Pradesh 516360",
+    "area": "Vinayaka Nagar, Sarvakatta",
+    "latitude": 14.7489233,
+    "longitude": 78.5473329,
+    "place_id": "ChIJ73hl4aB4tDsRM4Zx2Sxhjxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73hl4aB4tDsRM4Zx2Sxhjxk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:31:13"
+  },
+  {
+    "business_name": "SREE FOODS \" bakes fresh and healthy \"",
+    "search_category": "Patisserie",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "516175",
+    "phone_number": "+91 94916 09129",
+    "website": "http://sreefood.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhi Rd, beside urbaro , and Vinayaka diagnostic lab, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Holmus Pet",
+    "latitude": 14.75082,
+    "longitude": 78.5481004,
+    "place_id": "ChIJIX62ccN5tDsRzCeWHKHbwXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIX62ccN5tDsRzCeWHKHbwXw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:31:14"
+  }
+]

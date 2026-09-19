@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragnyan Orthopedic center",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic surgeon",
+    "all_categories": "Orthopedic surgeon",
+    "pincode": "516214",
+    "phone_number": "+91 78934 77291",
+    "website": "http://www.pragnyanortho.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Venkata Krishnaiah street, 33-18-3, Chalasani St, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta",
+    "latitude": 16.510350199999998,
+    "longitude": 80.6375465,
+    "place_id": "ChIJ-xhCjXb7NToRBCbJSUmHHBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xhCjXb7NToRBCbJSUmHHBw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:38:41"
+  },
+  {
+    "business_name": "Sri Pavan Putra Physiotherapy Clinc",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "516214",
+    "phone_number": "+91 94939 89579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sai Vennaila Hospital, opposite Evm High school, Seetarampeta, Ramachandraraopeta, Venkatasubbayya Colony, Tadepalligudem, Andhra Pradesh 534102",
+    "area": "Seetarampeta, Ramachandraraopeta, Venkatasubbayya Colony",
+    "latitude": 16.8053043,
+    "longitude": 81.52723809999999,
+    "place_id": "ChIJ8RJHEB61NzoRWtXHqVCLtWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RJHEB61NzoRWtXHqVCLtWQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:38:43"
+  }
+]

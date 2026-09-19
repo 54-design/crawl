@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Revive Physiotherapy & child development centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "516175",
+    "phone_number": "+91 93478 14734",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chagalamarri Rd, Chagalamarri, Andhra Pradesh 518553",
+    "area": "516175",
+    "latitude": 14.966380299999999,
+    "longitude": 78.5850538,
+    "place_id": "ChIJre0bDJdjtDsRkAx9wapmXZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJre0bDJdjtDsRkAx9wapmXZA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:32:04"
+  },
+  {
+    "business_name": "Pasala Family",
+    "search_category": "Therapy Center",
+    "primary_category": "Family counselor",
+    "all_categories": "Family counselor",
+    "pincode": "516175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RMQ3+FP5, Duvvuru, Andhra Pradesh 516175",
+    "area": "516175",
+    "latitude": 14.8386401,
+    "longitude": 78.6543578,
+    "place_id": "ChIJP_5inAF-tDsR1wzDAhTdaG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_5inAF-tDsR1wzDAhTdaG8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:32:04"
+  }
+]

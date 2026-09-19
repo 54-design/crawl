@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SA AUTO MOBILES",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "516215",
+    "phone_number": "+91 91770 50598",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kurnool - Chittoor Nat'l Hwy, Kothapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Kothapeta",
+    "latitude": 14.0481707,
+    "longitude": 78.750479,
+    "place_id": "ChIJ08t6XQADszsR_8ZtQhSLvWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08t6XQADszsR_8ZtQhSLvWU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:33"
+  },
+  {
+    "business_name": "Bajaj Auto Limited",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "516215",
+    "phone_number": "+91 1800 233 2453",
+    "website": "https://www.bajajauto.com/",
+    "rating": 3.8,
+    "reviews_count": 24,
+    "address": "Bethal Colony, S.N Colony, Rayachoty, Andhra Pradesh 516269",
+    "area": "Bethal Colony, S.N Colony",
+    "latitude": 14.0572564,
+    "longitude": 78.751873,
+    "place_id": "ChIJR-XyoSgCszsRo8DEsKo-8d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-XyoSgCszsRo8DEsKo-8d4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:36"
+  }
+]

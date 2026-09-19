@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DRL LOGISTICS PVT LTD.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "516213",
+    "phone_number": "N/A",
+    "website": "http://www.drllogistics.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7/109, opp. kanchi saree house, Jayanagar colony, Cuddaph, Ukkayapalle, Andhra Pradesh 516002",
+    "area": "Jayanagar colony",
+    "latitude": 14.480509999999999,
+    "longitude": 78.866573,
+    "place_id": "ChIJGQAAANxtszsRK9LoF4csFNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQAAANxtszsRK9LoF4csFNg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:37:03"
+  },
+  {
+    "business_name": "Bajaj logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Courier service, International trade consultant, Transportation service",
+    "pincode": "516213",
+    "phone_number": "+91 98117 77755",
+    "website": "http://bajajlogistics.com/",
+    "rating": 4.9,
+    "reviews_count": 865,
+    "address": "CW - 48, 1st Floor, Sanjay Gandhi Transport Nagar, Delhi, 110042",
+    "area": "Sanjay Gandhi Transport Nagar",
+    "latitude": 28.7425677,
+    "longitude": 77.1504404,
+    "place_id": "ChIJVVVVFacBDTkRSr-cTAIcuqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFacBDTkRSr-cTAIcuqg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:37:05"
+  }
+]

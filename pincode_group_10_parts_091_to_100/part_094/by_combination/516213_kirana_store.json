@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eswar Genaral store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6/133, DIGUVAPETA, Siddavatam, Andhra Pradesh 516237",
+    "area": "516213",
+    "latitude": 14.4688915,
+    "longitude": 78.97552809999999,
+    "place_id": "ChIJpXMEsf1rszsRrSPg4T6Kx98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXMEsf1rszsRrSPg4T6Kx98",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:36:21"
+  },
+  {
+    "business_name": "AK Reddy kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery store",
+    "pincode": "516213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Aravind Nagar, Māmillapalle, Andhra Pradesh 516002",
+    "area": "Aravind Nagar",
+    "latitude": 14.4519524,
+    "longitude": 78.8386124,
+    "place_id": "ChIJaWjJI4htszsRyIyvl1_lSlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWjJI4htszsRyIyvl1_lSlk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:36:21"
+  }
+]

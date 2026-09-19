@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENS Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment, Tax consultant",
+    "pincode": "516193",
+    "phone_number": "0311 2963058",
+    "website": "http://www.ensaccountants.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "ENS Accountants, 516193, India",
+    "area": "516193",
+    "latitude": 30.3629572,
+    "longitude": 68.9966984,
+    "place_id": "ChIJVerUgB4_sz4RyIzzcdCwogo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVerUgB4_sz4RyIzzcdCwogo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:34:19"
+  },
+  {
+    "business_name": "Agnes Leung Professional Corporation CPA",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Service establishment, Financial consultant",
+    "pincode": "516193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Agnes Leung Professional Corporation CPA, 516193, India",
+    "area": "516193",
+    "latitude": 62.6573279,
+    "longitude": -95.989235,
+    "place_id": "ChIJq9VMqlYhoFMR7l2iyQBn2q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9VMqlYhoFMR7l2iyQBn2q8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:34:19"
+  }
+]

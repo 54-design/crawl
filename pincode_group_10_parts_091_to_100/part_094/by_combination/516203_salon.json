@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Koushik saloon spa",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "516203",
+    "phone_number": "+91 98855 36554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "gate, near railway station, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516203",
+    "latitude": 14.593417599999999,
+    "longitude": 78.66972,
+    "place_id": "ChIJk6CVtnV5szsRb1XxIKemlvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6CVtnV5szsRb1XxIKemlvY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:29"
+  },
+  {
+    "business_name": "Beauty care Beauty salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "516203",
+    "phone_number": "+91 79938 64778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Rs Road, near Railway station, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516203",
+    "latitude": 14.5928993,
+    "longitude": 78.6693639,
+    "place_id": "ChIJCRkXOCx5szsRJv0HMKsEyN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRkXOCx5szsRJv0HMKsEyN0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:29"
+  }
+]

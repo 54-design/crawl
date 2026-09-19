@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hometown supermarket",
+    "search_category": "Departmental Store",
+    "primary_category": "Home automation company",
+    "all_categories": "Home automation company",
+    "pincode": "516215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "34/98-1, Gunikuntla Road, Raju Colony, S.N Colony, Rayachoty, Andhra Pradesh 516269",
+    "area": "Raju Colony, S.N Colony",
+    "latitude": 14.0532238,
+    "longitude": 78.7528595,
+    "place_id": "ChIJD3FMFAADszsRiqZnwr1wnS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3FMFAADszsRiqZnwr1wnS4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:00"
+  },
+  {
+    "business_name": "Ganapathi Agencies",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "516215",
+    "phone_number": "+91 94405 82089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "54/176, Galiveedu Rd, near Badge, Ramapuram, Rayachoty, Andhra Pradesh 516269",
+    "area": "Ramapuram",
+    "latitude": 14.0569767,
+    "longitude": 78.7397938,
+    "place_id": "ChIJb6Jy0CcBszsRk8JqocyNfqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6Jy0CcBszsRk8JqocyNfqY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:40:00"
+  }
+]

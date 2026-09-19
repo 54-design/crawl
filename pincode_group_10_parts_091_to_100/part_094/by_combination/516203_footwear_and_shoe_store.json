@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Irshad Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516203",
+    "phone_number": "+91 94927 42406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "12, Kamalapuram, Proddatur, Andhra Pradesh 516289",
+    "area": "516203",
+    "latitude": 14.592460299999999,
+    "longitude": 78.6694491,
+    "place_id": "ChIJv1ZTzI15szsRhpj44Bv9u0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1ZTzI15szsRhpj44Bv9u0k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:34:56"
+  },
+  {
+    "business_name": "Bashastores",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "516203",
+    "phone_number": "+91 78930 12738",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "58/254,255,Near ITI Circle,Iqbal Rice Mill,Sastri Nagar,Akkayapalli,Kadapa-516003, Kadapa, Andhra Pradesh 516001",
+    "area": "Shastri Nagar, Ravindra Nagar",
+    "latitude": 14.469823199999999,
+    "longitude": 78.8143465,
+    "place_id": "ChIJcR4U-nNzszsR7eHr5qF4tPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcR4U-nNzszsR7eHr5qF4tPI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:34:56"
+  }
+]

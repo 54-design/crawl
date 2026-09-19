@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavya Enterprises",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "516213",
+    "phone_number": "+91 89197 62725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pakkir Palli, RTC colony, Kadapa, Chinna Chauku, Andhra Pradesh 516001",
+    "area": "Pakkir Palli, RTC colony",
+    "latitude": 14.462752199999999,
+    "longitude": 78.84085999999999,
+    "place_id": "ChIJNX8pNO1tszsRllw125pyZTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX8pNO1tszsRllw125pyZTE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:36:34"
+  },
+  {
+    "business_name": "Lickees - Lalitha Temple, kadapa",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "516213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kadapa - Tirupati Rd, near Chinmaya mission Lalitha panchayatana temple, Kadapa, Puttampalli, Andhra Pradesh 516002",
+    "area": "516213",
+    "latitude": 14.450090999999999,
+    "longitude": 78.8829868,
+    "place_id": "ChIJZbt8SZhtszsR-6j1PbrtaSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbt8SZhtszsR-6j1PbrtaSg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:36:34"
+  }
+]

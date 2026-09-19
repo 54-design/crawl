@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mopuri vishnu",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "516193",
+    "phone_number": "+91 85004 55466",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XXXR+QJ3, Reddy Nagar, Porumamilla, Andhra Pradesh 516193",
+    "area": "Reddy Nagar",
+    "latitude": 14.9993837,
+    "longitude": 78.99154,
+    "place_id": "ChIJW5qyXUuWtDsRaxVovHP9W6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5qyXUuWtDsRaxVovHP9W6E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:33:01"
+  },
+  {
+    "business_name": "MANASA MESS",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516193",
+    "phone_number": "+91 96760 72890",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Mydukur Road, Porumamilaa, Porumamilla, Kadapa, Andhra Pradesh 516193",
+    "area": "Porumamilaa",
+    "latitude": 14.991492599999999,
+    "longitude": 78.9876132,
+    "place_id": "ChIJLXHb6Q2XtDsRiNspLEtL5eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXHb6Q2XtDsRiNspLEtL5eM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:33:03"
+  }
+]

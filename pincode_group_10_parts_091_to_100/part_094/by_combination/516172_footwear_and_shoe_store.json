@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "bata shoe mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "PPFM+X2R, 12/73, Vasavi Nagar, Gandhi Nagar, S.Mydukur, Andhra Pradesh 516172",
+    "area": "Vasavi Nagar, Gandhi Nagar",
+    "latitude": 14.7247604,
+    "longitude": 78.7323868,
+    "place_id": "ChIJfwxTk25-szsRZ-eihscZnwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwxTk25-szsRZ-eihscZnwU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:27:53"
+  },
+  {
+    "business_name": "Shahin Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516172",
+    "phone_number": "+91 63016 78007",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GCVS complex, Badvel Rd, S.Mydukur, Andhra Pradesh 516172",
+    "area": "516172",
+    "latitude": 14.726250799999999,
+    "longitude": 78.7328804,
+    "place_id": "ChIJ0z-EK39_szsRYStOEmK29qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0z-EK39_szsRYStOEmK29qQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:27:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop No",
+    "search_category": "Shops",
+    "primary_category": "Shops",
+    "all_categories": "Shops",
+    "pincode": "516172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Vinayaka Nagar, Mydukur, Proddatur, S.Mydukur, Andhra Pradesh 516172",
+    "area": "Vinayaka Nagar, Mydukur",
+    "latitude": 14.7252706,
+    "longitude": 78.73683319999999,
+    "place_id": "ChIJn0kB3XF-szsRZ2XmlV9fF2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0kB3XF-szsRZ2XmlV9fF2Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:29:18"
+  },
+  {
+    "business_name": "NMB SLABS AND CEMENTS",
+    "search_category": "Shops",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "516172",
+    "phone_number": "+91 85200 02226",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Kadapa - Tirupathi Rd, LAST, S.Mydukur, Andhra Pradesh 516172",
+    "area": "LAST",
+    "latitude": 14.7190386,
+    "longitude": 78.7336347,
+    "place_id": "ChIJR-RLOBp_szsR8IxS73jmPLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-RLOBp_szsR8IxS73jmPLw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:29:20"
+  }
+]

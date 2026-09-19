@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fedbank Financial Services Ltd",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Bank, Car finance and loan company, Finance broker, Financial institution, Investment company, Investment service, Private Sector Bank",
+    "pincode": "516203",
+    "phone_number": "+91 80 6961 7387",
+    "website": "https://www.fedfina.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "S No. 103-1, Door No, 14/86, Kadapa Road, Mydukur, Andhra Pradesh 516172",
+    "area": "516203",
+    "latitude": 14.6432942,
+    "longitude": 78.72734729999999,
+    "place_id": "ChIJxZJxdBp5szsRXD5EL8bGRes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZJxdBp5szsRXD5EL8bGRes",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:16"
+  },
+  {
+    "business_name": "KNR Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "516203",
+    "phone_number": "N/A",
+    "website": "http://knrbus.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "11-18-27, Saroornagar, Sri Venkateshwara Colony, Kothapet, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Sri Venkateshwara Colony, Kothapet",
+    "latitude": 17.3556447,
+    "longitude": 78.5397193,
+    "place_id": "ChIJcRnhPuqZyzsRzCH4-dkG8IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRnhPuqZyzsRzCH4-dkG8IM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:35:18"
+  }
+]

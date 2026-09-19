@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari OM Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Closed circuit television, Computer accessories store, Computer networking service, Computer repair service, Computer software store, Computer support and services, Digital printer, Printer repair service",
+    "pincode": "516213",
+    "phone_number": "+91 99671 29110",
+    "website": "https://hariominfotech.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 11, Dattadin, Main, Kasthurba Rd, near K Fashion Store, Chinchpada, Borivali East, Mumbai, Maharashtra 400066",
+    "area": "Chinchpada, Borivali East",
+    "latitude": 19.2297276,
+    "longitude": 72.86043819999999,
+    "place_id": "ChIJAcIFs9Gw5zsRMZYGQHD28sE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcIFs9Gw5zsRMZYGQHD28sE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:37:42"
+  },
+  {
+    "business_name": "Meet Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "516213",
+    "phone_number": "+91 98201 16096",
+    "website": "http://meetcomputers.odoo.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 21 Ground floor, Kuber Complex, New Link Rd, opp. Laxmi Ind Estate, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Veera Desai Industrial Estate, Andheri West",
+    "latitude": 19.136789399999998,
+    "longitude": 72.83241869999999,
+    "place_id": "ChIJ1bjYNiO25zsRh0obmW7FBiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bjYNiO25zsRh0obmW7FBiM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:37:42"
+  }
+]
