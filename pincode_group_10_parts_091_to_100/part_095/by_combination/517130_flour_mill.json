@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sri Varasidi Vinayaka Flourmill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "517130",
+    "phone_number": "+91 96765 67108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "irala Road, Maddipatlapalle, Andhra Pradesh 517130",
+    "area": "Maddipatlapalle",
+    "latitude": 13.3877656,
+    "longitude": 78.9684177,
+    "place_id": "ChIJCfXvkxqgsjsRoaJ_boYf11I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfXvkxqgsjsRoaJ_boYf11I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:01"
+  },
+  {
+    "business_name": "Vijay Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "517130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6P2R+7RH, Palamaner, Andhra Pradesh 517408",
+    "area": "517130",
+    "latitude": 13.2006768,
+    "longitude": 78.7421143,
+    "place_id": "ChIJXzvV9c95rTsRZ9HRdBnhDFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzvV9c95rTsRZ9HRdBnhDFM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:01"
+  }
+]

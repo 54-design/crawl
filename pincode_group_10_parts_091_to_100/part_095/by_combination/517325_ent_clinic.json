@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N M REDDY HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517325",
+    "phone_number": "+91 85712 22712",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Manasa Hospital Building, CTM Rd, beside Jos Alukkas, RRN Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "RRN Colony",
+    "latitude": 13.559004199999999,
+    "longitude": 78.5107242,
+    "place_id": "ChIJd6Zdv3lmsjsRPWqlct8mt9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6Zdv3lmsjsRPWqlct8mt9Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:32:00"
+  },
+  {
+    "business_name": "Emergency Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 15,
+    "address": "HG45+5G5, Madanapalli Rtc Bus Stand, Rama Gopal Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Rama Gopal Naidu Colony",
+    "latitude": 13.5553931,
+    "longitude": 78.5088577,
+    "place_id": "ChIJ9UXZTZhnsjsRphf_NcUZnRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UXZTZhnsjsRphf_NcUZnRw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:32:02"
+  }
+]

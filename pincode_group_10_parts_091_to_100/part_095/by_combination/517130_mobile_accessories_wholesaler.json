@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LOT Mobiles",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store",
+    "pincode": "517130",
+    "phone_number": "+91 82975 70555",
+    "website": "http://www.lotmobiles.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ground Flour, Sri Raghavendra Nilayam, Shop No : 29, 37-135/1, Eluru Rd, beside Swagruha Foods, Venkatswara Rao Street, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Venkatswara Rao Street, Governor Peta",
+    "latitude": 16.514102299999998,
+    "longitude": 80.6318634,
+    "place_id": "ChIJSTmLgK3lNToRbUp_IfcvR6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTmLgK3lNToRbUp_IfcvR6A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:14"
+  },
+  {
+    "business_name": "Big C Mobiles Tekkali",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "517130",
+    "phone_number": "+91 99857 52888",
+    "website": "https://www.bigcmobiles.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "S.C, 11241, Kacheri St, near rajesh meeseva, Rotari Nagar, Tekkali, Andhra Pradesh 532201",
+    "area": "Rotari Nagar",
+    "latitude": 18.6063449,
+    "longitude": 84.23337169999999,
+    "place_id": "ChIJl6kf4XNTPDoRk8-3UDnU7kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6kf4XNTPDoRk8-3UDnU7kE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:15"
+  }
+]

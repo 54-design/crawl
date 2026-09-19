@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lotus Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Beauty Parlour",
+    "pincode": "517001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "CGWX+QMP, Unnamed Road, Puttur, Andhra Pradesh 517583",
+    "area": "517001",
+    "latitude": 13.4469538,
+    "longitude": 79.5491933,
+    "place_id": "ChIJ3ahCAJpQTToReKfD5WBAT6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ahCAJpQTToReKfD5WBAT6U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:25:23"
+  },
+  {
+    "business_name": "Lake View Univarsal Spa and Salon",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "517001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No 3001, Sathyavedu Rd, Satyavedu, Andhra Pradesh 517588",
+    "area": "517001",
+    "latitude": 13.4342093,
+    "longitude": 79.9601371,
+    "place_id": "ChIJ87qFw4F8TToRVZcDQ46sgNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87qFw4F8TToRVZcDQ46sgNM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:25:24"
+  }
+]

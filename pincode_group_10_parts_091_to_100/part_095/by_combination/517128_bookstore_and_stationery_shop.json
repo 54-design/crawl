@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.M Stationery Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "517128",
+    "phone_number": "+91 94417 91265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sai Nagar, and, near Bus Stop, near to Sri Shiridi Sai School, Yadamari, Andhra Pradesh 517422",
+    "area": "517128",
+    "latitude": 13.1598667,
+    "longitude": 79.0384503,
+    "place_id": "ChIJR7zLXYBdrTsRlWy-2eBEPO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7zLXYBdrTsRlWy-2eBEPO4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:40"
+  },
+  {
+    "business_name": "Excel Stationaries",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "517128",
+    "phone_number": "+91 70131 81417",
+    "website": "https://vilekhari.blogspot.com/2019/10/top-stationery-shops-in-hyderabad-and.html",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "univercity rd, Vesyalamma Gudivadhi, Balaji Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Vesyalamma Gudivadhi, Balaji Colony",
+    "latitude": 13.6306408,
+    "longitude": 79.4132199,
+    "place_id": "ChIJg5TQmqpLTToRgRxdlSODfSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5TQmqpLTToRgRxdlSODfSU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:43"
+  }
+]

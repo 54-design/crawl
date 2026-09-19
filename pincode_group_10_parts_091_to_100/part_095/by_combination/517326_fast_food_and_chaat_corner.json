@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Chaat Bhandar shop",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Hawker stall",
+    "pincode": "517326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 194,
+    "address": "A-1871/72, Jahangirpuri Rd, Block A, Jahangirpuri Rd, Block A, Bhalswa Jahangirpuri, Jahangirpuri, Delhi, 110033",
+    "area": "Block A, Bhalswa Jahangirpuri, Jahangirpuri",
+    "latitude": 28.7281288,
+    "longitude": 77.1639605,
+    "place_id": "ChIJnS0hxJYBDTkRILGiB53SL54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnS0hxJYBDTkRILGiB53SL54",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:33"
+  },
+  {
+    "business_name": "CHAT HOUSE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Event planner, Tea store",
+    "pincode": "517326",
+    "phone_number": "+91 98360 00092",
+    "website": "https://magicpin.in/Kolkata/Baguihati/Restaurant/Chat-House/store/38bbc2/?utm_source=gbp",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "VIP Rd, near big bazzar, Jyangra, Baguiati, Kolkata, West Bengal 700059",
+    "area": "Jyangra, Baguiati",
+    "latitude": 22.6162475,
+    "longitude": 88.4317518,
+    "place_id": "ChIJGZvaY3Sf-DkRfV3qS-UAUaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZvaY3Sf-DkRfV3qS-UAUaw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:35"
+  }
+]

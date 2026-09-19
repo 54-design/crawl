@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Story Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "517193",
+    "phone_number": "+91 97397 56129",
+    "website": "https://chai-story-cafe.jimdosite.com/",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Anand Shanti Nilaya, 45, 26th Main Rd, BTB Area, 4th T Block East, Tilak Nagar, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "BTB Area, 4th T Block East, Tilak Nagar, Jayanagar",
+    "latitude": 12.928368899999999,
+    "longitude": 77.5954119,
+    "place_id": "ChIJIRwEPAAVrjsR1iS399Y6tZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRwEPAAVrjsR1iS399Y6tZs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:01:26"
+  },
+  {
+    "business_name": "NEW JOTHI BOMBAY TEA STALL & SNACKS",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop, Juice shop, Restaurant, Tea house, Tea Manufacturer, Tiffin center",
+    "pincode": "517193",
+    "phone_number": "+91 44 3556 3739",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 589,
+    "address": "Gayathri Mansion, 63, Sannathi St, opposite JK SUPER MARKET, Theradi, Rajakadai, Tiruvottiyur, Chennai, Tamil Nadu 600019",
+    "area": "Theradi, Rajakadai, Tiruvottiyur",
+    "latitude": 13.160888,
+    "longitude": 80.30213789999999,
+    "place_id": "ChIJF8KgnZhvUjoRlwTxo9zJbtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8KgnZhvUjoRlwTxo9zJbtI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:01:28"
+  }
+]

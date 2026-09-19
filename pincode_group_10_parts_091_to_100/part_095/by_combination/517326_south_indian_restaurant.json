@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haritha Restaurant & Bar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bar, Breakfast restaurant",
+    "pincode": "517326",
+    "phone_number": "+91 99516 11050",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 190,
+    "address": "Horsley Hills, Andhra Pradesh 517326",
+    "area": "517326",
+    "latitude": 13.6502618,
+    "longitude": 78.3986494,
+    "place_id": "ChIJpU1hTQ5CsjsR2o4dleuH1g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpU1hTQ5CsjsR2o4dleuH1g8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:31"
+  },
+  {
+    "business_name": "Kumar south indian food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Event management company, Restaurant supply store",
+    "pincode": "517326",
+    "phone_number": "+91 98669 82712",
+    "website": "https://www.instagram.com/kumar_south_indian_food?utm_source=qr&igsh=ZzZjYjBsMGp5Mm1l",
+    "rating": 4.5,
+    "reviews_count": 72,
+    "address": "number 1, 5-64/13, old, Old Bowenpally Cross Rd, Mallikarjuna Nagar, Old Bowenpally, Hyderabad, Secunderabad, Telangana 500011",
+    "area": "Mallikarjuna Nagar, Old Bowenpally",
+    "latitude": 17.478075399999998,
+    "longitude": 78.4811087,
+    "place_id": "ChIJGVO23babyzsRnJ8hxqg5o5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVO23babyzsRnJ8hxqg5o5Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:34"
+  }
+]

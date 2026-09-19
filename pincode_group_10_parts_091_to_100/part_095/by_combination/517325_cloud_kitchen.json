@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MSG Exclusive Gallery",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store",
+    "pincode": "517325",
+    "phone_number": "+91 74169 15575",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 72,
+    "address": "D. No 3, 145-6-16, Kadiri Hwy, opp. Nayak Hospital, A.V.Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "A.V.Naidu Colony",
+    "latitude": 13.564722699999999,
+    "longitude": 78.4995047,
+    "place_id": "ChIJmbkLrbhnsjsRdOhbZYxyRm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbkLrbhnsjsRdOhbZYxyRm8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:40"
+  },
+  {
+    "business_name": "The Fried Chicken",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Chicken wings restaurant",
+    "all_categories": "Chicken wings restaurant",
+    "pincode": "517325",
+    "phone_number": "N/A",
+    "website": "http://www.tfcweb.in/",
+    "rating": 4,
+    "reviews_count": 36,
+    "address": "4/233/A, Avenue Rd, near Urdu School, Basinikonda, Madanapalle, Andhra Pradesh 517325",
+    "area": "Basinikonda",
+    "latitude": 13.5540893,
+    "longitude": 78.5042137,
+    "place_id": "ChIJIf7wJjNlsjsRwfacHMFM06o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIf7wJjNlsjsRwfacHMFM06o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:40"
+  }
+]

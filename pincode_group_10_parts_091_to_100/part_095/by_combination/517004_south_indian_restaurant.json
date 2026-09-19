@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SREE VARI RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "517004",
+    "phone_number": "+91 97042 06118",
+    "website": "https://srivari-restaurant.vercel.app/",
+    "rating": 4.3,
+    "reviews_count": 65,
+    "address": "Kanipakam cross irala mandal, Andhra Pradesh 517131",
+    "area": "517004",
+    "latitude": 13.2627706,
+    "longitude": 79.0478347,
+    "place_id": "ChIJXyYVpaFfrTsRcdetkhBu1xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyYVpaFfrTsRcdetkhBu1xk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:28:07"
+  },
+  {
+    "business_name": "BMR EV Industries Pvt Ltd",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Electric motor scooter dealer",
+    "all_categories": "Electric motor scooter dealer, Manufacturer",
+    "pincode": "517004",
+    "phone_number": "+91 79979 91170",
+    "website": "https://www.bmrev.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "No.1, BMR Gardens, Ganganapalli, Majara Kothapalle, Andhra Pradesh 517001",
+    "area": "Ganganapalli",
+    "latitude": 13.1937655,
+    "longitude": 79.0261572,
+    "place_id": "ChIJY_RcoEVdrTsR_d-eqi788rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_RcoEVdrTsR_d-eqi788rs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:28:09"
+  }
+]

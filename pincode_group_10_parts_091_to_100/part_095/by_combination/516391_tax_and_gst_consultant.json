@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COVAI GST CONSULTANTS",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "516391",
+    "phone_number": "+91 81227 60695",
+    "website": "https://covaigstconsultants.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "352/4, Marudhamalai Rd, opposite to VALLALAR HOSPITAL, New Anandha Nagar, Mullai Nagar, Coimbatore, Tamil Nadu 641041",
+    "area": "New Anandha Nagar, Mullai Nagar",
+    "latitude": 11.022133499999999,
+    "longitude": 76.9152202,
+    "place_id": "ChIJeaVVLAtfqDsRP0SCjm0TH40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaVVLAtfqDsRP0SCjm0TH40",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:51:31"
+  },
+  {
+    "business_name": "COVAI ACCOUNTING SERVICES",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Bookkeeping service, Business management consultant, Accounting firm, Tax preparation, Tax preparation service",
+    "pincode": "516391",
+    "phone_number": "+91 90957 23458",
+    "website": "https://covaiaccountingservices.in/",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "352/4, MARUTHAMALAI MAIN ROAD, opposite to VALLALAR HOSPITAL, Mullai Nagar, P N Pudur, Tamil Nadu 641041",
+    "area": "New Anandha Nagar, Mullai Nagar",
+    "latitude": 11.0222172,
+    "longitude": 76.9151936,
+    "place_id": "ChIJSVmMFb5ZqDsRRYdwWg8PyY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVmMFb5ZqDsRRYdwWg8PyY8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:51:31"
+  }
+]

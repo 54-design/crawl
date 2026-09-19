@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trucars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto broker, Car dealer, Honda dealer, Hyundai dealer, Second hand store, Tata Motors dealer",
+    "pincode": "516439",
+    "phone_number": "+91 98409 44567",
+    "website": "http://www.trucars.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "125/90, 200 Feet Radial Rd, opp. Capitaland International Tech Park, Iswarya Nagar, Nemilichery, Chromepet, Tambaram, Tamil Nadu 600044",
+    "area": "Iswarya Nagar, Nemilichery, Chromepet",
+    "latitude": 12.9522896,
+    "longitude": 80.1678297,
+    "place_id": "ChIJL7i2TTJfUjoR24MIzrb7H14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7i2TTJfUjoR24MIzrb7H14",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:06:17"
+  },
+  {
+    "business_name": "SRJ AUTO HUB",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto insurance agency, Car dealer, Car finance and loan company, Car rental agency",
+    "pincode": "516439",
+    "phone_number": "+91 86082 20101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/30, Vandalur - Oragadam - Walajabad Rd, Balaji Nagar, Chennai, Vandalur, Tamil Nadu 600048",
+    "area": "Balaji Nagar",
+    "latitude": 12.8938312,
+    "longitude": 80.0806456,
+    "place_id": "ChIJlUipIrn3UjoRVz2MyG1GD-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUipIrn3UjoRVz2MyG1GD-w",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:06:17"
+  }
+]

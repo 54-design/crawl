@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AP Elevators",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Elevator service",
+    "all_categories": "Elevator service",
+    "pincode": "517004",
+    "phone_number": "N/A",
+    "website": "https://apelevator.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "D.No: 19-57, Thanappa Chetty street, Mittoor, Chittoor, Andhra Pradesh 517001",
+    "area": "Mittoor",
+    "latitude": 13.213290599999999,
+    "longitude": 79.1013548,
+    "place_id": "ChIJFSTgdbZZrTsRw2O-lHkSn9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSTgdbZZrTsRw2O-lHkSn9k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:39"
+  },
+  {
+    "business_name": "Eaton Power Quality Pvt Ltd",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "517004",
+    "phone_number": "+91 413 267 2005",
+    "website": "http://www.eaton.com/",
+    "rating": 4.2,
+    "reviews_count": 367,
+    "address": "2, EVR Street, Sedarpet Indl. Estate, Sedarapet, Puducherry 605111",
+    "area": "517004",
+    "latitude": 11.9950637,
+    "longitude": 79.75032709999999,
+    "place_id": "ChIJAY7bL11nUzoRgWAWIj7Dj6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAY7bL11nUzoRgWAWIj7Dj6U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:39"
+  }
+]

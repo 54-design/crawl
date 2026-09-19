@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dzone Ads",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "517237",
+    "phone_number": "+91 97478 37026",
+    "website": "https://dzoneads.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chevittanikkunnu, Pulikkal, Keralam 673637",
+    "area": "Chevittanikkunnu",
+    "latitude": 11.177659499999999,
+    "longitude": 75.9188786,
+    "place_id": "ChIJSZHBQlVPpjsR5yeV24Q3aOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZHBQlVPpjsR5yeV24Q3aOM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:15:24"
+  },
+  {
+    "business_name": "Kampuram Ad Media",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "517237",
+    "phone_number": "+91 93880 02975",
+    "website": "https://kampuramadmedia.com/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Manjeri - Perinthalmanna Rd, Vellarangal, Manjeri, Keralam 676121",
+    "area": "Vellarangal",
+    "latitude": 11.1127162,
+    "longitude": 76.11960359999999,
+    "place_id": "ChIJ22nEQnc2pjsR5ygsq8ELUPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22nEQnc2pjsR5ygsq8ELUPM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:15:24"
+  }
+]

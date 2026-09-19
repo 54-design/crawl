@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hyderabad Outstation Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "516484",
+    "phone_number": "+91 89776 24117",
+    "website": "https://hyderabadoutstationcabs.in/",
+    "rating": 5,
+    "reviews_count": 182,
+    "address": "Plot No: 26, 16-11-16/f/2/a/1/1, 17, Sripuram Colony, Hyderabad, Telangana 500036",
+    "area": "Sripuram Colony, Malakpet Extension, Old Malakpet",
+    "latitude": 17.3774391,
+    "longitude": 78.513853,
+    "place_id": "ChIJlT-orjKZyzsRz1EEmBnZlaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlT-orjKZyzsRz1EEmBnZlaM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:42"
+  },
+  {
+    "business_name": "GK CABS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport, Bus tour agency, Car leasing service, Car rental agency, Minibus taxi service, Tour operator, Transportation service, Travel agency",
+    "pincode": "516484",
+    "phone_number": "+91 98666 00720",
+    "website": "https://www.gkcabs.com/",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "H, NO. 4-207/1, BUS STOP, near JALPALLY, Sri Rama Colony, Pardhi Guda, Katedhan, Hyderabad, Telangana 500077",
+    "area": "Sri Rama Colony, Pardhi Guda",
+    "latitude": 17.2929863,
+    "longitude": 78.4415513,
+    "place_id": "ChIJJ5zxCvm9yzsRFPPdj33jxVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5zxCvm9yzsRFPPdj33jxVg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:42"
+  }
+]

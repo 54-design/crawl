@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Black eye beauty cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "516432",
+    "phone_number": "+91 85710 90044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ground floor, Shopping center, Sco-2, Sector-12, Huda, Panipat, Haryana 132103",
+    "area": "Sector-12, Huda",
+    "latitude": 29.3822548,
+    "longitude": 76.9854131,
+    "place_id": "ChIJkZ-Jp5zbDTkRdpAnuZYodcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZ-Jp5zbDTkRdpAnuZYodcU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:01:28"
+  },
+  {
+    "business_name": "Nikitasha Cosmetic Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "516432",
+    "phone_number": "+91 87089 59498",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 310,
+    "address": "Shivaji Stadium Rd, Model Town, Panipat, Haryana 132108",
+    "area": "Model Town",
+    "latitude": 29.391187499999997,
+    "longitude": 76.95356249999999,
+    "place_id": "ChIJN8nA6rDbDTkRCe0Kp3vhpoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8nA6rDbDTkRCe0Kp3vhpoI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:01:28"
+  }
+]

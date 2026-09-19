@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S. Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Doctor",
+    "pincode": "516433",
+    "phone_number": "+91 91332 06016",
+    "website": "https://www.sshomeoclinic.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "S.S.HOMEO CLINIC,D no: 32-3-3/A,Krupa nilayam, beside sweet magic,Rama Rao street,kasturibai pet, Suryaraopeta, Moghalrajpuram, Vijayawada, Andhra Pradesh 520010",
+    "area": "Praja Shakti Nagar, Suryaraopeta, Moghalrajpuram",
+    "latitude": 16.5087981,
+    "longitude": 80.63970359999999,
+    "place_id": "ChIJRyYqiqz6NToRZARd-871Jzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyYqiqz6NToRZARd-871Jzg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:38"
+  },
+  {
+    "business_name": "Dr ANU HOMEOPATHY CLINIC",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "516433",
+    "phone_number": "+91 94911 30247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "520015, 43-11-8, Daba Kottu Rd, Ajit Singh Nagar, PNT Colony, Vijayawada, Andhra Pradesh 520015",
+    "area": "Ajit Singh Nagar, PNT Colony",
+    "latitude": 16.5395052,
+    "longitude": 80.63860509999999,
+    "place_id": "ChIJwZTe0WblNToRvblo6NaU2xE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZTe0WblNToRvblo6NaU2xE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:38"
+  }
+]

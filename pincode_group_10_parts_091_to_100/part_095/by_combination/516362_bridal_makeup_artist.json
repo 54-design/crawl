@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anoosri beauty clinic & boutique",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "516362",
+    "phone_number": "+91 79895 14385",
+    "website": "https://haircut.odoo.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Door no: 22, 11-25, kurisetti vari Street, beside amma matching, Gandhinagar, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Gandhinagar",
+    "latitude": 16.5439611,
+    "longitude": 81.5250933,
+    "place_id": "ChIJu0vKTGXTNzoRB0kXu0eGQD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0vKTGXTNzoRB0kXu0eGQD8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:45:51"
+  },
+  {
+    "business_name": "Pavani's Beauty Care",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "516362",
+    "phone_number": "+91 93461 46862",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gold Market, big bazar, Chittodi Thota, Pithapuram, Andhra Pradesh 533450",
+    "area": "Chittodi Thota",
+    "latitude": 17.1181456,
+    "longitude": 82.2527021,
+    "place_id": "ChIJcT12E8ErODoR1TwwWSbEpHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcT12E8ErODoR1TwwWSbEpHE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:45:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primo Plastech",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic Products Supplier",
+    "all_categories": "Plastic Products Supplier",
+    "pincode": "517193",
+    "phone_number": "+91 97390 12237",
+    "website": "https://www.primoplastech.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shed No. 26/1, Land mark: Sunshine Industries, Plot No 26, Bommasandra Jigani Link Rd, next to Maruti Nagar Bus stop, Bande Nalla Sandra, Bengaluru, Jigani, Karnataka 560105",
+    "area": "Bande Nalla Sandra",
+    "latitude": 12.7912865,
+    "longitude": 77.6577173,
+    "place_id": "ChIJg-0YhwVsrjsRF9qzD_CRMb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-0YhwVsrjsRF9qzD_CRMb0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:02:50"
+  },
+  {
+    "business_name": "India Plastic Directory",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic fabrication company",
+    "all_categories": "Plastic fabrication company",
+    "pincode": "517193",
+    "phone_number": "+91 44 4217 0137",
+    "website": "https://www.indiaplasticdirectory.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No-25, First Floor, Anna Nagar Plaza, Chennai, Tamil Nadu 600102",
+    "area": "Block K, Annanagar East",
+    "latitude": 13.090428699999999,
+    "longitude": 80.22053729999999,
+    "place_id": "ChIJVVXlXCFkUjoRGGsI_Wf09VY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXlXCFkUjoRGGsI_Wf09VY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:02:53"
+  }
+]

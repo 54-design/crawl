@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snowman Logistics Ltd.",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility, Warehouse",
+    "pincode": "517125",
+    "phone_number": "+91 96112 26214",
+    "website": "https://snowman.in/",
+    "rating": 4.4,
+    "reviews_count": 40,
+    "address": "Krishnapatanam Port Road, Tatiparthipalem, village, Venkatachalam, Andhra Pradesh 524323",
+    "area": "Venkatachalam",
+    "latitude": 14.262140299999999,
+    "longitude": 80.0034266,
+    "place_id": "ChIJv4BFGarwTDoRnGvFBq9PzdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4BFGarwTDoRnGvFBq9PzdA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:41:39"
+  },
+  {
+    "business_name": "Harvish Group Pvt Ltd",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "517125",
+    "phone_number": "+91 73375 76212",
+    "website": "http://www.harvish.co.in/",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "Sy. No. 1268/A, Kothur, Telangana 509228",
+    "area": "517125",
+    "latitude": 17.1039806,
+    "longitude": 78.2559522,
+    "place_id": "ChIJZSrpqVvIyzsRTrkuF9MaVu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSrpqVvIyzsRTrkuF9MaVu4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:41:39"
+  }
+]

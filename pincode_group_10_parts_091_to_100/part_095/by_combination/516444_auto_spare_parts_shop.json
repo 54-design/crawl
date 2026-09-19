@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chala chala",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V9CM+F83, Moragudi, Andhra Pradesh 516434",
+    "area": "516444",
+    "latitude": 14.8711495,
+    "longitude": 78.38329639999999,
+    "place_id": "ChIJq79-AwBztDsRAir54UBz3lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq79-AwBztDsRAir54UBz3lE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:55"
+  },
+  {
+    "business_name": "CHETAN AUTO SERVICE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2nd gate, 22-31, Prakasam High Rd, opposite district court, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2224332,
+    "longitude": 79.102953,
+    "place_id": "ChIJa0jHdfpfrTsRHGV_muhj5no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0jHdfpfrTsRHGV_muhj5no",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:56"
+  }
+]

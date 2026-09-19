@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramakrishna Hari Style",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "516505",
+    "phone_number": "+91 80080 55387",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Susidhivaripalli, Porumamilla, Cherlopalle, Andhra Pradesh 516505",
+    "area": "Susidhivaripalli",
+    "latitude": 15.0134283,
+    "longitude": 79.02421,
+    "place_id": "ChIJJ9HHCWS9tDsRk77GSkZ3g-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9HHCWS9tDsRk77GSkZ3g-g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:23:33"
+  },
+  {
+    "business_name": "No Name Salons",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "516505",
+    "phone_number": "+91 70322 00367",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1st St, Seetharamapuram, Andhra Pradesh 524310",
+    "area": "516505",
+    "latitude": 15.0174034,
+    "longitude": 79.13990969999999,
+    "place_id": "ChIJSwRjMI-7tDsRTw68T5-j2Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwRjMI-7tDsRTw68T5-j2Qk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:23:34"
+  }
+]

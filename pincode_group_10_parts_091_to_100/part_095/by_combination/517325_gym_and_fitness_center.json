@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siva's SKANDHA GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "517325",
+    "phone_number": "+91 88861 88061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Upstairs K.L.F chicken center, Ramarao colony Bypass, road, opposite Thirumala HP Gas, Madanapalle, Andhra Pradesh 517326",
+    "area": "Neerugattupalle",
+    "latitude": 13.5681078,
+    "longitude": 78.50746459999999,
+    "place_id": "ChIJPYS2vphnsjsR-rzKsFi24Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYS2vphnsjsR-rzKsFi24Rc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:32:02"
+  },
+  {
+    "business_name": "Noor's Indian Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bus stop, Bangalore, Madanapalle, Andhra Pradesh 517325",
+    "area": "Basinikonda",
+    "latitude": 13.553706,
+    "longitude": 78.5018,
+    "place_id": "ChIJdwOtaN9lsjsRm2pGpwNFHS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwOtaN9lsjsRm2pGpwNFHS4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:32:02"
+  }
+]

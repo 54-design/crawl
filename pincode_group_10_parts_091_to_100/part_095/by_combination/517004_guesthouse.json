@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya Rohits Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "517004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "63G7+VJH, Cherlopalle, Thenebanda, Andhra Pradesh 517004",
+    "area": "Cherlopalle",
+    "latitude": 13.2271974,
+    "longitude": 79.0641011,
+    "place_id": "ChIJW-EdfwBfrTsRjyPtl3Q1vbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-EdfwBfrTsRjyPtl3Q1vbw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:28:59"
+  },
+  {
+    "business_name": "The Aamra Retreat",
+    "search_category": "Guesthouse",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "517004",
+    "phone_number": "+91 90003 88843",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "63VG+V6, Patnam, Andhra Pradesh 517004",
+    "area": "517004",
+    "latitude": 13.2446875,
+    "longitude": 79.07556249999999,
+    "place_id": "ChIJpfU8vAdfrTsR-sWizHqfF7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfU8vAdfrTsR-sWizHqfF7k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:02"
+  }
+]

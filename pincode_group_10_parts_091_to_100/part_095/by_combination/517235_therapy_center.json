@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr ADIL",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "517235",
+    "phone_number": "+91 85005 63526",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "RQHQ+5Q9, Kalakada, Andhra Pradesh 517236",
+    "area": "517235",
+    "latitude": 13.8279017,
+    "longitude": 78.7894714,
+    "place_id": "ChIJP0Gf-ojwsjsRKdmAzl04qIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0Gf-ojwsjsRKdmAzl04qIo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:11:08"
+  },
+  {
+    "business_name": "Dr V Ramana For Snake Bites Etc",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517235",
+    "phone_number": "+91 80083 57115",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PQ5F+68W, Medikurthi, Andhra Pradesh 517237",
+    "area": "517235",
+    "latitude": 13.7081153,
+    "longitude": 78.7733222,
+    "place_id": "ChIJI3AhC6HzsjsRIgsNMwPSrR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3AhC6HzsjsRIgsNMwPSrR0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:11:10"
+  }
+]

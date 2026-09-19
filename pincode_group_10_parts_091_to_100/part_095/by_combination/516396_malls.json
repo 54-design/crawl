@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HX9C+5F3 shopping mall",
+    "search_category": "Malls",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "516396",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HX9C+5F3, near Parnapalli, near, Parnapalli, Andhra Pradesh 516396",
+    "area": "near",
+    "latitude": 14.567903,
+    "longitude": 77.97117709999999,
+    "place_id": "ChIJO94e1QL9szsRSfkyyHF1QHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO94e1QL9szsRSfkyyHF1QHU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:53:36"
+  },
+  {
+    "business_name": "Vikas fruit nursery",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "516396",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "H3RP+P2R, Gurijala, Andhra Pradesh 516454",
+    "area": "516396",
+    "latitude": 14.591850899999999,
+    "longitude": 78.085019,
+    "place_id": "ChIJW0RxZuv7szsRNKrzrd_8TDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0RxZuv7szsRNKrzrd_8TDA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:53:36"
+  }
+]

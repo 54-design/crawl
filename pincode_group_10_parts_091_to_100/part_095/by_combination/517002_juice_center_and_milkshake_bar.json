@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juicy cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "517002",
+    "phone_number": "+91 87705 91114",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shpo no. 11,kurmi samaj vayaparik parisar, Rahangi Rd, mod, Chakarbhatha, Chhattisgarh 495220",
+    "area": "mod",
+    "latitude": 22.0082441,
+    "longitude": 82.1000859,
+    "place_id": "ChIJ0wrxguRzKDoR3lSiChb_Jwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wrxguRzKDoR3lSiChb_Jwc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:26:20"
+  },
+  {
+    "business_name": "Juice And Milkshakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "517002",
+    "phone_number": "+91 95608 75665",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop No 5, X Road, Venkateswara Colony, Vijayapuri Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Venkateswara Colony, Vijayapuri Colony, Uppal",
+    "latitude": 17.398820699999998,
+    "longitude": 78.5604389,
+    "place_id": "ChIJq5zCXsCZyzsRHOwAZQmwlGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5zCXsCZyzsRHOwAZQmwlGs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:26:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salma Fashion",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "517297",
+    "phone_number": "+91 99088 99481",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "3/128, Bazaar Street, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517297",
+    "latitude": 13.7826138,
+    "longitude": 78.5860409,
+    "place_id": "ChIJu3jUf_xZsjsRt5LrYBdweZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3jUf_xZsjsRt5LrYBdweZ0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:24:42"
+  },
+  {
+    "business_name": "Mani Fashions",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "517297",
+    "phone_number": "+91 63056 72707",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gurramkonda, Andhra Pradesh 517297",
+    "area": "517297",
+    "latitude": 13.7794969,
+    "longitude": 78.58710909999999,
+    "place_id": "ChIJs8kPw0tZsjsRAs5DcBH7HDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8kPw0tZsjsRAs5DcBH7HDA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:24:43"
+  }
+]

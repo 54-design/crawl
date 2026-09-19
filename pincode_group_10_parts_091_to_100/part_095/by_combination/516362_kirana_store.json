@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al-HASEEB GENERAL STORE (Mini Mart)",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516362",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D No 10/606, Bazaar, opposite Nr Industries, DCSR Colony, Nadimpalli, Modamidipalle, Andhra Pradesh 516360",
+    "area": "DCSR Colony, Nadimpalli",
+    "latitude": 14.7432702,
+    "longitude": 78.5615804,
+    "place_id": "ChIJUwLCOVSHszsR7yiNfScFHBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwLCOVSHszsR7yiNfScFHBg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:44:55"
+  },
+  {
+    "business_name": "Lakshmi Tulasi Enterprises",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516362",
+    "phone_number": "+91 98852 47154",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "PHRC+38Q Mundy Bazar, 70 A, Mydukur Rd, Lakshmi Nagar, Ngo colony, Kottapalle, Andhra Pradesh 516360",
+    "area": "Lakshmi Nagar, Ngo colony",
+    "latitude": 14.7402125,
+    "longitude": 78.5708594,
+    "place_id": "ChIJHaZVyquAszsRAAAA0E3o4QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaZVyquAszsRAAAA0E3o4QU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:44:55"
+  }
+]

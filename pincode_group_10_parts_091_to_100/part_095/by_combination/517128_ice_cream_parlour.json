@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kejiya icecream parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BV Reddy Colony, Chittoor, Andhra Pradesh 517001",
+    "area": "BV Reddy Colony",
+    "latitude": 13.2135523,
+    "longitude": 79.1086314,
+    "place_id": "ChIJV4jBc81drTsRdYygv9utzXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4jBc81drTsRdYygv9utzXY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:40"
+  },
+  {
+    "business_name": "Lassi Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517128",
+    "phone_number": "+91 70137 06307",
+    "website": "http://www.lassishop.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H.No 111, Street 370, PNR - Palamaner Road, Goolingspet, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.213353099999999,
+    "longitude": 79.09536969999999,
+    "place_id": "ChIJYUQOkt5drTsRlPN8sJqeK_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUQOkt5drTsRlPN8sJqeK_Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:43"
+  }
+]

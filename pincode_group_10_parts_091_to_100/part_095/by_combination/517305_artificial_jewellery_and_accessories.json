@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Sales",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry manufacturer, Manufacturer, Wholesaler",
+    "pincode": "517305",
+    "phone_number": "+91 99245 52999",
+    "website": "http://www.hrsales.co.in/",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "A-34, 2nd Floor, Laxmi Dhara Complex, Varachha Main Rd, Baroda Prestige, Anuradha Society, Varachha, Surat, Gujarat 395006",
+    "area": "Baroda Prestige, Anuradha Society, Varachha",
+    "latitude": 21.210888399999998,
+    "longitude": 72.856963,
+    "place_id": "ChIJryh2hANP4DsR6gJ5zovP4S4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryh2hANP4DsR6gJ5zovP4S4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:14"
+  },
+  {
+    "business_name": "AAGIVA EXIM PRIVATE LIMITED",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry manufacturer",
+    "all_categories": "Jewelry manufacturer, Jewelry Exporter, Wholesale jeweler",
+    "pincode": "517305",
+    "phone_number": "+91 72190 88583",
+    "website": "https://aagiva.com/",
+    "rating": 4.9,
+    "reviews_count": 68,
+    "address": "Office No-02, Om Appt, E, Sahakar Nagar, Virar East, Mumbai, Vasai-Virar, Maharashtra 401305",
+    "area": "Sahakar Nagar, Virar East",
+    "latitude": 19.459332099999997,
+    "longitude": 72.8241635,
+    "place_id": "ChIJZ4jC9g6p5zsR-HPS1EmMQg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4jC9g6p5zsR-HPS1EmMQg0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Slim Life Fitness World",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Aerobics Class, Gym",
+    "pincode": "517102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 163,
+    "address": "18-1-121,2nd Floor, Marrimanu St, Nehru Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Nehru Nagar",
+    "latitude": 13.6346294,
+    "longitude": 79.4157762,
+    "place_id": "ChIJi5uz6rRLTToRRbGhNhseEMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5uz6rRLTToRRbGhNhseEMQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:54"
+  },
+  {
+    "business_name": "Venky's Power Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517102",
+    "phone_number": "+91 96428 29520",
+    "website": "http://venkyspowergym.blogspot.in/",
+    "rating": 4.1,
+    "reviews_count": 164,
+    "address": "JCVM+CWX, Kadapa - Tirupati Rd, Subbareddy Nagar, Akkarampalle, Tirupati, Andhra Pradesh 517507",
+    "area": "Subbareddy Nagar, Akkarampalle",
+    "latitude": 13.6436146,
+    "longitude": 79.4348582,
+    "place_id": "ChIJ0X2u7lJKTToRi5bwLEd6-YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0X2u7lJKTToRi5bwLEd6-YE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:54"
+  }
+]

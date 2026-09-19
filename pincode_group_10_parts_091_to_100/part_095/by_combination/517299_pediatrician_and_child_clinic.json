@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RUBY CHILD CLINIC",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "517299",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "JWQ9+V25, Hotagi Rd, Industrial Estate, Sainath Nagar, Solapur, Maharashtra 413003",
+    "area": "Industrial Estate, Sainath Nagar",
+    "latitude": 17.6396414,
+    "longitude": 75.917604,
+    "place_id": "ChIJayp2YxnaxTsRDuphIJQUuO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayp2YxnaxTsRDuphIJQUuO0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:26:39"
+  },
+  {
+    "business_name": "Apollo Children's Hospital Chennai",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Doctor, Health consultant, Heart hospital, Neonatal physician, Pediatric oncologist, Pediatric urologist, Hospital",
+    "pincode": "517299",
+    "phone_number": "+91 80 6297 2804",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-childrens-hospital-chennai",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Apollo Children Hospital, 15, Shafee Mohammed Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+    "area": "Thousand Lights West, Thousand Lights",
+    "latitude": 13.0601351,
+    "longitude": 80.2523926,
+    "place_id": "ChIJpX3mkwJnUjoRZ3JCpOe-enE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX3mkwJnUjoRZ3JCpOe-enE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:26:39"
+  }
+]

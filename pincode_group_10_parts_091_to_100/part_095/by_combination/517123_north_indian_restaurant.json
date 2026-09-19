@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swamy Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Vegetarian restaurant",
+    "pincode": "517123",
+    "phone_number": "+91 90525 90147",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "near, Bazaar street, near Ramalayam, Kanduru, Andhra Pradesh 517280",
+    "area": "517123",
+    "latitude": 13.556449599999999,
+    "longitude": 78.7737939,
+    "place_id": "ChIJ3WqLy5mOsjsRsiRUFmiKFsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3WqLy5mOsjsRsiRUFmiKFsg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:36:45"
+  },
+  {
+    "business_name": "ruchi restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Breakfast restaurant",
+    "pincode": "517123",
+    "phone_number": "+91 94400 76373",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "MR34+73C, Kalikiri, Andhra Pradesh 517234",
+    "area": "517123",
+    "latitude": 13.653192599999999,
+    "longitude": 78.80513839999999,
+    "place_id": "ChIJKWv2Ei6NsjsR3G7I5P99AGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWv2Ei6NsjsR3G7I5P99AGA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:36:47"
+  }
+]

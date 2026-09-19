@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajanna Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "517234",
+    "phone_number": "+91 79972 30081",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 910, Main Bazar, 12001E, Local St, near Sri Amba, Ayurvedaowshadhalayam, Kalikiri, Andhra Pradesh 517234",
+    "area": "Ayurvedaowshadhalayam",
+    "latitude": 13.6418093,
+    "longitude": 78.80096,
+    "place_id": "ChIJbeBsP5CNsjsR78eiATwZ89s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeBsP5CNsjsR78eiATwZ89s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:08:52"
+  },
+  {
+    "business_name": "Deepak Textiles",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "517234",
+    "phone_number": "+91 70932 03545",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalikiri, Andhra Pradesh 517234",
+    "area": "517234",
+    "latitude": 13.6450949,
+    "longitude": 78.80364229999999,
+    "place_id": "ChIJr6ss2iSNsjsRVw9UASiaUCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6ss2iSNsjsRVw9UASiaUCw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:08:54"
+  }
+]

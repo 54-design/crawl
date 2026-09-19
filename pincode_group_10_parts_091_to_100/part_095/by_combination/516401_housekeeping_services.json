@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Hospitality Services Private Limited",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Property maintenance",
+    "pincode": "516401",
+    "phone_number": "+91 99797 25044",
+    "website": "http://expresshospitality.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-1306-1307, Ganesh Glory 11, Near BSNL Office, Jagatpur Road, Sarkhej - Gandhinagar Hwy, Gota, Ahmedabad, Gujarat 382470",
+    "area": "Gota",
+    "latitude": 23.114244,
+    "longitude": 72.5403291,
+    "place_id": "ChIJqy9dPtuCXjkR2VIUlW_4TGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqy9dPtuCXjkR2VIUlW_4TGM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:55:06"
+  },
+  {
+    "business_name": "Dev housekeeping services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "516401",
+    "phone_number": "+91 63503 51549",
+    "website": "http://devhouskeepingservices.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "35, Sahakar Marg, Jyoti Nagar Housing Board Flats, Lalkothi, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Jyoti Nagar Housing Board Flats, Lalkothi",
+    "latitude": 26.8968888,
+    "longitude": 75.7923359,
+    "place_id": "ChIJq2qi5iC1bTkRgxFwvqq7yWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2qi5iC1bTkRgxFwvqq7yWg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:55:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andhra Pradesh Industrial Infrastructure Corporation",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "http://www.apiic.in/",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "FMR9+FX6, Auto Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Auto Nagar",
+    "latitude": 16.4911671,
+    "longitude": 80.669884,
+    "place_id": "ChIJt9k3it36NToRtHX38RXUlUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9k3it36NToRtHX38RXUlUI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:00"
+  },
+  {
+    "business_name": "APIIC Mega Food Park",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "http://www.apiic.in/",
+    "rating": 4.1,
+    "reviews_count": 49,
+    "address": "PW44+28X, Mallavalli, Andhra Pradesh 521111",
+    "area": "516444",
+    "latitude": 16.705111,
+    "longitude": 80.90585899999999,
+    "place_id": "ChIJr8SSma4MNjoRbKOBWyAzpoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8SSma4MNjoRbKOBWyAzpoY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:00"
+  }
+]

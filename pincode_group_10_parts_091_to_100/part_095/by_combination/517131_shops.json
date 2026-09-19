@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shops",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "517131",
+    "phone_number": "+91 84205 19236",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "paipalli crossroad, Kanipakam, Patnam, Andhra Pradesh 517131",
+    "area": "517131",
+    "latitude": 13.261810899999999,
+    "longitude": 79.0497437,
+    "place_id": "ChIJfazu7IxfrTsR3Q_u8XZ_Q1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfazu7IxfrTsR3Q_u8XZ_Q1Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:33"
+  },
+  {
+    "business_name": "N SANKAR",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517131",
+    "phone_number": "+91 80748 84536",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Cros, 10 Kanipakam, Road, Chittoor, Andhra Pradesh 517131",
+    "area": "517131",
+    "latitude": 13.2777143,
+    "longitude": 79.0354487,
+    "place_id": "ChIJ5QGz-6NfrTsRqTGSs6UizdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QGz-6NfrTsRqTGSs6UizdU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indraprastha",
+    "search_category": "Guesthouse",
+    "primary_category": "Villa",
+    "all_categories": "Villa, Guest house, Manor house",
+    "pincode": "517131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "72FV+23J Chittoor Aragonda, Road, Agarampalle, Paturu, Andhra Pradesh 517131",
+    "area": "Agarampalle",
+    "latitude": 13.272623,
+    "longitude": 79.0426782,
+    "place_id": "ChIJQYpHKfJfrTsRdMZUMUoim4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYpHKfJfrTsRdMZUMUoim4M",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:51:50"
+  },
+  {
+    "business_name": "Kanipakam guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hindu temple",
+    "all_categories": "Hindu temple",
+    "pincode": "517131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Kattamanchi, Chittoor, Kanipakam, Andhra Pradesh 517131",
+    "area": "Kattamanchi",
+    "latitude": 13.2763812,
+    "longitude": 79.032895,
+    "place_id": "ChIJjSF0X6BfrTsRn4l2Hr26IpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSF0X6BfrTsRn4l2Hr26IpE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:51:50"
+  }
+]

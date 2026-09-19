@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "517101",
+    "phone_number": "+91 88855 67796",
+    "website": "http://www.navata.com/",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "D, 2-80, Bazar St, near SUB REGISTER OFFICE, Chandragiri, Andhra Pradesh 517101",
+    "area": "517101",
+    "latitude": 13.5902228,
+    "longitude": 79.319559,
+    "place_id": "ChIJBd-GpKW1sjsRumOZnNdUX3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBd-GpKW1sjsRumOZnNdUX3k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:18"
+  },
+  {
+    "business_name": "Kranthi transports",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "517101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 15,
+    "address": "KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "KR Palli",
+    "latitude": 13.217848,
+    "longitude": 79.1014737,
+    "place_id": "ChIJwS8NGw5frTsRdM4Opvn5mt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS8NGw5frTsRdM4Opvn5mt4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:19"
+  }
+]

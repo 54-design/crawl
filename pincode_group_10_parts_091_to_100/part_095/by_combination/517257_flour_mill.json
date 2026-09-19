@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvani flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Non-profit organization",
+    "all_categories": "Non-profit organization",
+    "pincode": "517257",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQ3F+XGG, Kanduru, Andhra Pradesh 517280",
+    "area": "517257",
+    "latitude": 13.554925299999999,
+    "longitude": 78.773831,
+    "place_id": "ChIJQ22eoBqPsjsRvVXUhVbReK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ22eoBqPsjsRvVXUhVbReK4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:17:24"
+  },
+  {
+    "business_name": "Bismillah Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "517257",
+    "phone_number": "+91 84640 10218",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JPV3+GQ3, Chintaparthi, Andhra Pradesh 517277",
+    "area": "517257",
+    "latitude": 13.643761999999999,
+    "longitude": 78.7044097,
+    "place_id": "ChIJydQueCiLsjsR5FYv2xlFmh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydQueCiLsjsR5FYv2xlFmh0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:17:24"
+  }
+]

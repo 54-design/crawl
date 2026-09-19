@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinay Consultancy",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "517350",
+    "phone_number": "+91 92465 81272",
+    "website": "https://vinay-consultancy.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vinay Consultancy, 517350, India",
+    "area": "517350",
+    "latitude": 15.729777799999999,
+    "longitude": 79.27484319999999,
+    "place_id": "ChIJi8o0sW4xtTsRP8MlMUgARJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8o0sW4xtTsRP8MlMUgARJY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:46"
+  },
+  {
+    "business_name": "Vridhi Home Finance - Kengeri",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "517350",
+    "phone_number": "+91 83101 67101",
+    "website": "https://www.vridhihomefinance.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No. 558, 2nd Floor, SRIVATSA PLAZA, Satellite, BDA, 1st Main Rd, Stage I, Kengeri, Bengaluru, Karnataka 560060",
+    "area": "Stage I, Kengeri",
+    "latitude": 12.912690099999999,
+    "longitude": 77.4807321,
+    "place_id": "ChIJj0qRUIY_rjsRvt_q-ECVsBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0qRUIY_rjsRvt_q-ECVsBU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:48"
+  }
+]

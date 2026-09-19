@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grey to Green Design Studio",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "517167",
+    "phone_number": "+91 94456 14518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "61, Car St, Pallipattu, Tamil Nadu 631207",
+    "area": "517167",
+    "latitude": 13.3382794,
+    "longitude": 79.43963049999999,
+    "place_id": "ChIJ6-_56JBVTToRWDpTGLsjV3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-_56JBVTToRWDpTGLsjV3c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:56"
+  },
+  {
+    "business_name": "Gowtham Traders",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "517167",
+    "phone_number": "+91 94457 26200",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sengundar Valagam, Bazaar St, Kodivalasa, Tamil Nadu 631202",
+    "area": "517167",
+    "latitude": 13.2530399,
+    "longitude": 79.4353014,
+    "place_id": "ChIJtcyVtL2rUjoRGln-DyOuRIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcyVtL2rUjoRGln-DyOuRIk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:56"
+  }
+]

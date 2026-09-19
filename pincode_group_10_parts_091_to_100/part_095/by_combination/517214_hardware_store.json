@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilshad Enterprises",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 1, Kadapa - Chittoor Hwy, Pileru, Chittoor, Pileru, Andhra Pradesh 517214",
+    "area": "Pileru",
+    "latitude": 13.657088199999999,
+    "longitude": 78.9488101,
+    "place_id": "ChIJ_TwtUbWVsjsRrQ3AZkLY5rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TwtUbWVsjsRrQ3AZkLY5rY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:07:23"
+  },
+  {
+    "business_name": "SREE VENKATARAMANA HARDWARE changed to rajesh hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517214",
+    "phone_number": "+91 70135 55575",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-2155, LBS Rd, opp. market yard complex, Chenna Reddy Colony, Pileru, Chittoor, Pileru, Andhra Pradesh 517214",
+    "area": "Chenna Reddy Colony, Pileru",
+    "latitude": 13.6557104,
+    "longitude": 78.9438765,
+    "place_id": "ChIJRfInkrCUsjsRAAAAsBiCh2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfInkrCUsjsRAAAAsBiCh2s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:07:24"
+  }
+]

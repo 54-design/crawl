@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omkar family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517237",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "JJMX+HG, Vayalpadu, Andhra Pradesh 517299",
+    "area": "517237",
+    "latitude": 13.6339005,
+    "longitude": 78.6488729,
+    "place_id": "ChIJz96fdwBhsjsRS3NHVixVzUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz96fdwBhsjsRS3NHVixVzUI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:13:56"
+  },
+  {
+    "business_name": "Ramesh Hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517237",
+    "phone_number": "+91 79931 01752",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "MR43+PG2, Cross road, Kalakada - Somala Rd, opp. Indian s, Kalakada, Kalikiri, Andhra Pradesh 517234",
+    "area": "517237",
+    "latitude": 13.656767199999999,
+    "longitude": 78.8037709,
+    "place_id": "ChIJwzdpCwCNsjsR3b9S2T0f6nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzdpCwCNsjsR3b9S2T0f6nA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:13:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R5 Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517299",
+    "phone_number": "+91 70133 60159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near under bridge, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Magunta Layout",
+    "latitude": 14.436962,
+    "longitude": 79.9745828,
+    "place_id": "ChIJKXjHSmzzTDoRlMVOI_HKT5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXjHSmzzTDoRlMVOI_HKT5o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:26:22"
+  },
+  {
+    "business_name": "Craving flavours",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517299",
+    "phone_number": "N/A",
+    "website": "https://www.swiggy.com/restaurants/craving-flavors-rajagari-street-nellore-area-nellore-679963",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "20/44, Rajagari St, Mulapet, Batwadipalem, Nellore, Andhra Pradesh 524003",
+    "area": "Mulapet, Batwadipalem",
+    "latitude": 14.4462081,
+    "longitude": 79.97022369999999,
+    "place_id": "ChIJRe5FMHSNTDoR-w3SBCBckAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRe5FMHSNTDoR-w3SBCBckAQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:26:23"
+  }
+]

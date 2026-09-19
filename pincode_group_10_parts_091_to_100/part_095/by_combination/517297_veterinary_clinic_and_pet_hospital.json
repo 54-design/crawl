@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V-Care Pet PolyClinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care, Pet boarding service, Pet groomer, Pet store, Pet supply store",
+    "pincode": "517297",
+    "phone_number": "+91 80 2552 5834",
+    "website": "http://www.vcarepetpolyclinic.com/",
+    "rating": 4.3,
+    "reviews_count": 1082,
+    "address": "1st Main Cross, Jakkasandra, 1st Block, Koramangala, Bengaluru, Karnataka 560034",
+    "area": "Jakkasandra, 1st Block, Koramangala",
+    "latitude": 12.9265379,
+    "longitude": 77.6374982,
+    "place_id": "ChIJfY3qF04UrjsRCX9LQkIVcXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfY3qF04UrjsRCX9LQkIVcXY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:25:02"
+  },
+  {
+    "business_name": "Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "517297",
+    "phone_number": "+91 84822 45241",
+    "website": "https://instagram.com/veterinary_hospital_bengaluru?igshid=NzZlODBkYWE4Ng==",
+    "rating": 4.3,
+    "reviews_count": 3317,
+    "address": "Bellary Rd, opposite to CBI, Sanjayanagara, Bengaluru, Karnataka 560024",
+    "area": "Sanjayanagara",
+    "latitude": 13.028141999999999,
+    "longitude": 77.584842,
+    "place_id": "ChIJLxktV8cXrjsRVquqisrnlTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxktV8cXrjsRVquqisrnlTE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:25:02"
+  }
+]

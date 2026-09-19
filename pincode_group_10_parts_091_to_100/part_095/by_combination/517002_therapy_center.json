@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.P Acupuncture Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center",
+    "pincode": "517002",
+    "phone_number": "+91 96264 05600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4-2172/B, Vellore Rd, Kalagatur, Chittoor, Andhra Pradesh 517002",
+    "area": "Kalagatur",
+    "latitude": 13.187047,
+    "longitude": 79.09600569999999,
+    "place_id": "ChIJNwhjZ25crTsRS8vgqip4DaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwhjZ25crTsRS8vgqip4DaA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:09"
+  },
+  {
+    "business_name": "AJ Physiotherapy & Rehabilitation center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "517002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Kokavandlavuru Rd, murugampattu, Chittoor, Murakambattu, Andhra Pradesh 517127",
+    "area": "murugampattu",
+    "latitude": 13.256351599999999,
+    "longitude": 79.1178865,
+    "place_id": "ChIJae05QwZZrTsRtewdMSx0RIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJae05QwZZrTsRtewdMSx0RIY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:11"
+  }
+]

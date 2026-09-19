@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Club F7",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Pilates studio, Yoga studio",
+    "pincode": "516431",
+    "phone_number": "+91 99496 11816",
+    "website": "https://www.clubf7.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gangapur Layout, near Governor's Bungalow, Siripuram, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "Siripuram",
+    "latitude": 17.7199706,
+    "longitude": 83.3155202,
+    "place_id": "ChIJF2wAVjZDOToR6E_64B6Ik6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2wAVjZDOToR6E_64B6Ik6w",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:59:20"
+  },
+  {
+    "business_name": "FAT TO FIT GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516431",
+    "phone_number": "+91 91335 51813",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Prajay Megapolis, 1247 Gokul Plots V.R.Colony, Opp:, Kukatpally Housing Board Colony, Hafeezpet, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, Venkata Ramana Colony, Hafeezpet",
+    "latitude": 17.4817534,
+    "longitude": 78.3797326,
+    "place_id": "ChIJK84h7V2TyzsR432maPUuCng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK84h7V2TyzsR432maPUuCng",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:59:20"
+  }
+]

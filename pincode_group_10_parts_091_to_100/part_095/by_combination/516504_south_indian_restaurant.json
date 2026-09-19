@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW HOT N SPICY",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "516504",
+    "phone_number": "+91 98499 81245",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 252,
+    "address": "Kotha Peta, Kurnool, Andhra Pradesh 518004",
+    "area": "Kotha Peta",
+    "latitude": 15.836528699999999,
+    "longitude": 78.041353,
+    "place_id": "ChIJPw2ITF3ntTsREcCx-SWTG_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPw2ITF3ntTsREcCx-SWTG_c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:21:10"
+  },
+  {
+    "business_name": "Dindigul Thalappakatti Ramapuram",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Indian restaurant, Non Vegetarian Restaurant",
+    "pincode": "516504",
+    "phone_number": "+91 95000 54624",
+    "website": "https://thalappakatti.com/store-locator/chennai/dindigul-thalappakatti-ramapuram-chennai",
+    "rating": 4.1,
+    "reviews_count": 7629,
+    "address": "55, Mount Poonamallee Rd, Manapakkam, Ramapuram, Chennai, Tamil Nadu 600089",
+    "area": "Manapakkam, Ramapuram",
+    "latitude": 13.0219732,
+    "longitude": 80.18243939999999,
+    "place_id": "ChIJP5D9BtJgUjoR07Lpng6NON8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5D9BtJgUjoR07Lpng6NON8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:21:11"
+  }
+]

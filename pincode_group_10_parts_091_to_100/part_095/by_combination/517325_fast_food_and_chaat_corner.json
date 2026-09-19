@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Fried Chicken",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Chicken wings restaurant",
+    "all_categories": "Chicken wings restaurant, Restaurant",
+    "pincode": "517325",
+    "phone_number": "+91 88819 99159",
+    "website": "https://www.tfcweb.in/",
+    "rating": 2.5,
+    "reviews_count": 4,
+    "address": "2-249-E2, 3, Kadiri Rd, Reddies Colony, Society Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Reddies Colony, Society Colony",
+    "latitude": 13.5633451,
+    "longitude": 78.49908359999999,
+    "place_id": "ChIJSU1CVR5nsjsRLWGDvZrh34Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSU1CVR5nsjsRLWGDvZrh34Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:42"
+  },
+  {
+    "business_name": "Garuda cafe&chats",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "HG65+WJ9, SBI Colony, Madanapalle, Andhra Pradesh 517326",
+    "area": "SBI Colony",
+    "latitude": 13.5622879,
+    "longitude": 78.5090987,
+    "place_id": "ChIJi6h1QQBnsjsRfFBA5PycC_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6h1QQBnsjsRfFBA5PycC_4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:42"
+  }
+]

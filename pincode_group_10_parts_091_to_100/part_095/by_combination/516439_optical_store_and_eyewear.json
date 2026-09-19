@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sathya Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Wholesaler",
+    "all_categories": "Optical Wholesaler, Eye care center",
+    "pincode": "516439",
+    "phone_number": "+91 99400 33228",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Number: 283/174, Opposite Sanskrit College, Royapettah High Rd, Luz, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Luz, Mylapore",
+    "latitude": 13.0406889,
+    "longitude": 80.2679552,
+    "place_id": "ChIJZSkNti1mUjoR8kvndRHz2pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSkNti1mUjoR8kvndRHz2pU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:06:02"
+  },
+  {
+    "business_name": "New Vision Care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center",
+    "pincode": "516439",
+    "phone_number": "+91 99455 34077",
+    "website": "https://www.newvisioncare.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "#1, 5th main, 5th cross, Keb Road, Kamanahalli, Near kullapa circle, Bengaluru, Karnataka 560084",
+    "area": "Saint Thomas Town, Inasappa Layout, Kammanahalli",
+    "latitude": 13.016068599999999,
+    "longitude": 77.63930479999999,
+    "place_id": "ChIJwWShPx4XrjsRQ2ms0hi0l0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWShPx4XrjsRQ2ms0hi0l0I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:06:04"
+  }
+]

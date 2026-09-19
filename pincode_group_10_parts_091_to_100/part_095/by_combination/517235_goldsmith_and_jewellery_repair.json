@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvindbhai Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry designer, Jewelry store",
+    "pincode": "517235",
+    "phone_number": "+91 70169 31171",
+    "website": "http://www.arvindbhaijewellers.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "703, Chimanlal Girdharlal Rd, opp. Lal Bunglow, Ellisbridge, Ahmedabad, Gujarat 380006",
+    "area": "Ellisbridge",
+    "latitude": 23.0296205,
+    "longitude": 72.5588101,
+    "place_id": "ChIJGZRxQfCEXjkRgUUTsRkIdrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZRxQfCEXjkRgUUTsRkIdrQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:29"
+  },
+  {
+    "business_name": "Parvathy Gold and Diamonds Jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Financial consultant",
+    "pincode": "517235",
+    "phone_number": "+91 481 253 3059",
+    "website": "http://www.pgdjewellery.com/",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "Athirampuzha Rd, Ettumanoor, Kottayam, Ettumanoor, Keralam 686631",
+    "area": "Ettumanoor",
+    "latitude": 9.6696821,
+    "longitude": 76.5554112,
+    "place_id": "ChIJye77Z3vTBzsRAC6b1ahqQ1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJye77Z3vTBzsRAC6b1ahqQ1U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:30"
+  }
+]

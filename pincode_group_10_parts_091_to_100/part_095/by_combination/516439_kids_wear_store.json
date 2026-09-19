@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kay The Fashion Bay",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop, Boutique, Clothing store, Designer Clothing Store, Saree Shop, Silk store",
+    "pincode": "516439",
+    "phone_number": "N/A",
+    "website": "http://www.kayfashions.in/",
+    "rating": 4.8,
+    "reviews_count": 4833,
+    "address": "Shop Number 285, Pycrofts Rd, Police Quarters, Triplicane, Chennai, Tamil Nadu 600005",
+    "area": "Police Quarters, Triplicane",
+    "latitude": 13.058537,
+    "longitude": 80.2765738,
+    "place_id": "ChIJT_J1v59oUjoRWnvpNwnd2sY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_J1v59oUjoRWnvpNwnd2sY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:05:58"
+  },
+  {
+    "business_name": "Fantasy Park",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "516439",
+    "phone_number": "+91 99462 14101",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 542,
+    "address": "Opp.Kizhathadiyoor Bank, Pala, Kottayam, Kerala 686575",
+    "area": "Pala",
+    "latitude": 9.7117781,
+    "longitude": 76.6822882,
+    "place_id": "ChIJZVpHBMzNBzsRhwjqWTju3kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVpHBMzNBzsRhwjqWTju3kA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:05:58"
+  }
+]

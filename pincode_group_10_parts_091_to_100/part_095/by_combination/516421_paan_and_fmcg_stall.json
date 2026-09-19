@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Super Market",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "516421",
+    "phone_number": "+91 90421 51515",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "91, Ambattur Red Hills Rd, Pudur, Ambattur, Tiruvallur, Chennai, Tamil Nadu 600053",
+    "area": "Pudur, Ambattur",
+    "latitude": 13.130569,
+    "longitude": 80.159244,
+    "place_id": "ChIJWUuVmA5jUjoRRhFVUWcaocU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUuVmA5jUjoRRhFVUWcaocU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:57:12"
+  },
+  {
+    "business_name": "Million cafe",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "516421",
+    "phone_number": "+91 82828 26299",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Srinivasa Nagar, Mubarak Colony, Yendada, Endada, Andhra Pradesh 530045",
+    "area": "Srinivasa Nagar, Mubarak Colony, Yendada",
+    "latitude": 17.7804625,
+    "longitude": 83.3637656,
+    "place_id": "ChIJA7yrYXRbOToRpuaTNqXtzx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7yrYXRbOToRpuaTNqXtzx8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:57:12"
+  }
+]

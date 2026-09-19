@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Konda Reddy Parcel Service",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "517305",
+    "phone_number": "+91 91600 06853",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "5-4-51/1, Distillery Rd, Hyderbasthi, Ranigunj, Secunderabad, Telangana 500003",
+    "area": "Hyderbasthi, Ranigunj",
+    "latitude": 17.4293774,
+    "longitude": 78.48837759999999,
+    "place_id": "ChIJf0V7bB2ayzsR6tygoy2HIBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0V7bB2ayzsR6tygoy2HIBQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:37"
+  },
+  {
+    "business_name": "Kyz Packer & Movers",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "517305",
+    "phone_number": "+91 98921 23085",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Quadri Bagh, Amberpet, Hyderabad, Telangana 500013",
+    "area": "Quadri Bagh, Amberpet",
+    "latitude": 17.3890673,
+    "longitude": 78.5125528,
+    "place_id": "ChIJXePCnq6ZyzsRnvyScNKfIZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXePCnq6ZyzsRnvyScNKfIZE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:37"
+  }
+]

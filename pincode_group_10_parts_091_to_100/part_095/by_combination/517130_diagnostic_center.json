@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pushpa medicals",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "517130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "82V6+9GF, Kaminayanipalle, Andhra Pradesh 517130",
+    "area": "517130",
+    "latitude": 13.3434367,
+    "longitude": 79.0112848,
+    "place_id": "ChIJM4aRZW2fsjsRUiUznpt3qNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4aRZW2fsjsRUiUznpt3qNw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:26"
+  },
+  {
+    "business_name": "B. Venugopal",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "517130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C2HJ+H66, Peddasamireddipalle, Andhra Pradesh 517124",
+    "area": "517130",
+    "latitude": 13.429414,
+    "longitude": 79.0303725,
+    "place_id": "ChIJtZS2RACjsjsRLHe_38Da2uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZS2RACjsjsRLHe_38Da2uo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:29"
+  }
+]

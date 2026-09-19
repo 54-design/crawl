@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517325",
+    "phone_number": "+91 85712 31003",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 117,
+    "address": "15/284, Burma St, opp. Sai Baba Temple, Rama Gopal Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Rama Gopal Naidu Colony",
+    "latitude": 13.5516375,
+    "longitude": 78.50853339999999,
+    "place_id": "ChIJjS4OztllsjsRhHs1r8fTxq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjS4OztllsjsRhHs1r8fTxq4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:55"
+  },
+  {
+    "business_name": "Jyoshna maternity hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517325",
+    "phone_number": "+91 63036 74536",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 67,
+    "address": "Unnamed Road, Kuravanka, Society Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Kuravanka, Society Colony",
+    "latitude": 13.5607598,
+    "longitude": 78.4977269,
+    "place_id": "ChIJoaJQmAxnsjsRilHbAxiLhvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaJQmAxnsjsRilHbAxiLhvg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:55"
+  }
+]

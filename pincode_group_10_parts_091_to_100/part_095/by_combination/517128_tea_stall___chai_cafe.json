@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LTS Cafe'n Fuels",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Lucaspuram village ,Nalagampalli, post, adjacent to LUCAS&CO HP PETROL Pump, Bangarupalem, Andhra Pradesh 517416",
+    "area": "Bangarupalem",
+    "latitude": 13.2014455,
+    "longitude": 78.9550965,
+    "place_id": "ChIJawQDTYtnrTsREKE5gzbbEmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawQDTYtnrTsREKE5gzbbEmM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:35"
+  },
+  {
+    "business_name": "Coffee Express",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 53,
+    "address": "52W4+69H, Chittoor, Gundla Katta Manchi, Andhra Pradesh 517128",
+    "area": "517128",
+    "latitude": 13.1955742,
+    "longitude": 79.0059838,
+    "place_id": "ChIJuX14Y0NnrTsR--FjJ45BUGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuX14Y0NnrTsR--FjJ45BUGU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:38"
+  }
+]

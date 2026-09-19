@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.S.FITNESS CENTER",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516434",
+    "phone_number": "+91 96528 96967",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Puttur, Andhra Pradesh 517583",
+    "area": "516434",
+    "latitude": 13.4429375,
+    "longitude": 79.5476875,
+    "place_id": "ChIJ0X7svZdQTToRwYb1HVaYKIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0X7svZdQTToRwYb1HVaYKIY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:31"
+  },
+  {
+    "business_name": "Span fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler",
+    "pincode": "516434",
+    "phone_number": "+91 98855 34222",
+    "website": "https://www.spanfitness.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No 15, Door, 15/27, Subhash Road, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6789008,
+    "longitude": 77.6007719,
+    "place_id": "ChIJiXbmRDpLsTsRecj-BNcHyK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXbmRDpLsTsRecj-BNcHyK8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:32"
+  }
+]

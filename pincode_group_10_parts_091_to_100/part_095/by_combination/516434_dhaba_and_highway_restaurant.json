@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JJ DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "516434",
+    "phone_number": "+91 90477 47707",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chennai - Kolkata Hwy, Tada, Karur, Andhra Pradesh 524401",
+    "area": "516434",
+    "latitude": 13.559447899999999,
+    "longitude": 80.05505289999999,
+    "place_id": "ChIJ0RvmKAB3TToRzQ-IHTcuxLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RvmKAB3TToRzQ-IHTcuxLU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:10"
+  },
+  {
+    "business_name": "THE HIGHWAY FOOD , Damal Punjabi Daba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Punjabi restaurant",
+    "pincode": "516434",
+    "phone_number": "+91 78450 57667",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chennai, National Highway, Bengaluru, Damal, Tamil Nadu 631551",
+    "area": "516434",
+    "latitude": 12.889329799999999,
+    "longitude": 79.5947621,
+    "place_id": "ChIJhVVkT5HHUjoRa40cWwQEwtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVVkT5HHUjoRa40cWwQEwtg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:10"
+  }
+]

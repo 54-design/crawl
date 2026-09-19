@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hydro Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "517124",
+    "phone_number": "+91 70757 37577",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 65,
+    "address": "Besides Sai Teja Residency, Kanipakam, Andhra Pradesh 517131",
+    "area": "517124",
+    "latitude": 13.2770385,
+    "longitude": 79.04158559999999,
+    "place_id": "ChIJMYLZgSFfrTsRBxeq3zUUU0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYLZgSFfrTsRBxeq3zUUU0Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:54"
+  },
+  {
+    "business_name": "MR CAR EXPERTZ",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "517124",
+    "phone_number": "+91 95970 43875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Papparapatti, Krishnagiri, Tamil Nadu 635002",
+    "area": "Papparapatti",
+    "latitude": 12.5251875,
+    "longitude": 78.2324375,
+    "place_id": "ChIJqUdUJQA1rDsRBqjT59EscUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUdUJQA1rDsRBqjT59EscUE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:55"
+  }
+]

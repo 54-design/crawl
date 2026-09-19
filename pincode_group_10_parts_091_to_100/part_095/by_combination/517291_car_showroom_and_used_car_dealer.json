@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "517291",
+    "phone_number": "+91 78422 52503",
+    "website": "https://www.luckycars.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramiganipalli matllivari palli gramam, Matllivari palli gramam kurabalaKota Mandel, Matllivari palli, Kurabala Kota, Andhra Pradesh 517350",
+    "area": "Ramiganivaripalle, Matllivari palli",
+    "latitude": 13.716762099999999,
+    "longitude": 78.5321172,
+    "place_id": "ChIJrWp8jIxdsjsRudk5f4RQ7Pc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWp8jIxdsjsRudk5f4RQ7Pc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:18"
+  },
+  {
+    "business_name": "Lucky cars mudivedu",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "517291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mudivedu, Andhra Pradesh 517350",
+    "area": "517291",
+    "latitude": 13.7062732,
+    "longitude": 78.50899129999999,
+    "place_id": "ChIJGUu9MwBdsjsRq_VIMLBD3Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUu9MwBdsjsRq_VIMLBD3Ag",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaya Reddy Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517277",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9-124 jaya reddy Street chinthaparthy vayalpad mandal annamayya district, Andhra Pradesh 517277",
+    "area": "517277",
+    "latitude": 13.643048199999999,
+    "longitude": 78.7058725,
+    "place_id": "ChIJlYlneheLsjsR7in0Eg6PlvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYlneheLsjsR7in0Eg6PlvM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:20:52"
+  },
+  {
+    "business_name": "Tameez Textiles and Tailors",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517277",
+    "phone_number": "+91 99592 95813",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "HMC9+HFR Bus Stand, Kandur - Madanapalli Rd, NImmanapalli, Andhra Pradesh 517280",
+    "area": "517277",
+    "latitude": 13.5713723,
+    "longitude": 78.6689644,
+    "place_id": "ChIJ-yZ6rZaLsjsRe5yKuoSvWw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yZ6rZaLsjsRe5yKuoSvWw8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:20:52"
+  }
+]

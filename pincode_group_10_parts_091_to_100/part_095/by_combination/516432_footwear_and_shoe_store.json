@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milano Footlines",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516432",
+    "phone_number": "+91 75618 05389",
+    "website": "https://www.instagram.com/milano_footline/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "University Road, Thalayattumpilli, Kalady, Vadakkumbhagom, Keralam 683574",
+    "area": "Thalayattumpilli",
+    "latitude": 10.1669468,
+    "longitude": 76.4382488,
+    "place_id": "ChIJ-9ICPGsHCDsRwXcVxCf4vQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9ICPGsHCDsRwXcVxCf4vQI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:00:51"
+  },
+  {
+    "business_name": "Mattathil Footwares and Sports",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516432",
+    "phone_number": "+91 96332 58418",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "2H97+9G7, Kavala, Pezhakkappilly, Keralam 686673",
+    "area": "Kavala",
+    "latitude": 10.018420599999999,
+    "longitude": 76.5637831,
+    "place_id": "ChIJQ6972iTnBzsR31SMdTLAnKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6972iTnBzsR31SMdTLAnKM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:00:51"
+  }
+]

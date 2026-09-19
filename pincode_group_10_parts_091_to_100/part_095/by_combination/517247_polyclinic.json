@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surya Poly Clinic (Pulmonology & ENT Specialist)",
+    "search_category": "Polyclinic",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "517247",
+    "phone_number": "+91 95022 35358",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 6, Main Bazar, 990/89D, Golla Palli, near Meeseva, Kammapalle, Madanapalle, Andhra Pradesh 517326",
+    "area": "Kammapalle",
+    "latitude": 13.560583399999999,
+    "longitude": 78.5096729,
+    "place_id": "ChIJg_RDpaZnsjsRG6Xe2-VTIU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_RDpaZnsjsRG6Xe2-VTIU4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:16:03"
+  },
+  {
+    "business_name": "Life Care Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor",
+    "pincode": "517247",
+    "phone_number": "+91 90088 16837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10-89, L.R Street, Vayalpadu, Andhra Pradesh 517299",
+    "area": "517247",
+    "latitude": 13.6370591,
+    "longitude": 78.6294843,
+    "place_id": "ChIJXS-mnuJhsjsRlIZn0cRSmsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXS-mnuJhsjsRlIZn0cRSmsE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:16:03"
+  }
+]

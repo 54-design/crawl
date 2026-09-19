@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bengalore ayyangar bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516431",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Old Bus Stand, Proddatur Road, beside Golden Bakery, పాత బస్ స్టాండ్, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "పాత బస్ స్టాండ్",
+    "latitude": 14.8442913,
+    "longitude": 78.3825822,
+    "place_id": "ChIJtTi3J_pztDsRm5je7ZdkoxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTi3J_pztDsRm5je7ZdkoxI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:58:55"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Dairy store, Dairy Products Supplier, Ice cream shop, Milk delivery service",
+    "pincode": "516431",
+    "phone_number": "+91 63015 44898",
+    "website": "https://hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, No. 24/65, Tadipatri Road, opposite Mayuri Lodge, Jammalamadugu, Proddatur, Andhra Pradesh 516434",
+    "area": "516431",
+    "latitude": 14.848222999999999,
+    "longitude": 78.383833,
+    "place_id": "ChIJXSVjikRztDsRM-RYoVzPgxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSVjikRztDsRM-RYoVzPgxc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:58:55"
+  }
+]

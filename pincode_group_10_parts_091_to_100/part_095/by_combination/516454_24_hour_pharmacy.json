@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Pharmacy Head Office",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516454",
+    "phone_number": "+91 44 2829 0320",
+    "website": "http://www.apollopharmacy.in/",
+    "rating": 3.7,
+    "reviews_count": 53,
+    "address": "65-68, Greams Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+    "area": "Thousand Lights West, Thousand Lights",
+    "latitude": 13.0569359,
+    "longitude": 80.25367949999999,
+    "place_id": "ChIJWWdO9T9mUjoRfHNVh_8Ka0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWdO9T9mUjoRfHNVh_8Ka0Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:25"
+  },
+  {
+    "business_name": "Medfor medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516454",
+    "phone_number": "+91 90747 86796",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Pulamamthole, Pulamanthole, Keralam 679323",
+    "area": "Pulamamthole",
+    "latitude": 10.9021659,
+    "longitude": 76.1964313,
+    "place_id": "ChIJgTb6dnDPpzsRqH-tEMGy4yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTb6dnDPpzsRqH-tEMGy4yw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:25"
+  }
+]

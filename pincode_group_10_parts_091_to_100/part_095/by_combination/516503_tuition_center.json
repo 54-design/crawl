@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "School Tuition",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Tutoring service",
+    "pincode": "516503",
+    "phone_number": "+91 96060 09074",
+    "website": "http://www.neetcoachingbangalore.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2nd Floor, 1753, 17th Main Rd, KSRTC Layout, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "KSRTC Layout, 2nd Phase, J. P. Nagar",
+    "latitude": 12.910521099999999,
+    "longitude": 77.5913539,
+    "place_id": "ChIJ23E3nwQVrjsR7H7_TpMRLLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23E3nwQVrjsR7H7_TpMRLLA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:20:24"
+  },
+  {
+    "business_name": "Tuition Point",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "516503",
+    "phone_number": "+91 93905 74837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Himagiri Nagar, Madhavi Nagar, Hydershakote, Bandlaguda Jagir, Hyderabad, Telangana 500091",
+    "area": "Himagiri Nagar, Madhavi Nagar, Hydershakote",
+    "latitude": 17.3652475,
+    "longitude": 78.3866149,
+    "place_id": "ChIJWVRmNniWyzsROZZV8flrCzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVRmNniWyzsROZZV8flrCzo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:20:24"
+  }
+]

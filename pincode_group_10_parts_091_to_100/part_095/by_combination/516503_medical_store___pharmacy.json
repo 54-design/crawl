@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Brahma Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "RVCJ+65W, Badvel Rd, B.Mattam, Somireddipalle, Andhra Pradesh 516503",
+    "area": "B.Mattam",
+    "latitude": 14.8206057,
+    "longitude": 78.88043979999999,
+    "place_id": "ChIJeUgYTE-dtDsRGoknjhmz9To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUgYTE-dtDsRGoknjhmz9To",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:19:37"
+  },
+  {
+    "business_name": "Jana Aushadi Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RVCJ+63Q B.Mattam, Badvel Road, Godlaveedu, Somireddipalle, Andhra Pradesh 516503",
+    "area": "516503",
+    "latitude": 14.8205897,
+    "longitude": 78.8802348,
+    "place_id": "ChIJgZxKj1adtDsRwTkOn1PapFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZxKj1adtDsRwTkOn1PapFI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:19:37"
+  }
+]

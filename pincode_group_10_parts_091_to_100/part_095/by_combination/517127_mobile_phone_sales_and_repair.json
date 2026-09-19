@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAYA MOBILES SALES AND SERVICE",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "517127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6485+8M6, Puttur Rd, Nalandha Nagar, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "Nalandha Nagar, KR Palli",
+    "latitude": 13.215791099999999,
+    "longitude": 79.1091521,
+    "place_id": "ChIJvZmEOQBdrTsRXtzYkeOdhyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZmEOQBdrTsRXtzYkeOdhyM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:44:58"
+  },
+  {
+    "business_name": "BIG B MOBILES Branch 2",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "517127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 43,
+    "address": "2-981, Postal Colony, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "Postal Colony, KR Palli",
+    "latitude": 13.2154441,
+    "longitude": 79.11244719999999,
+    "place_id": "ChIJv3cNAQlbrTsRcQ2yVzod0vI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3cNAQlbrTsRcQ2yVzod0vI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:44:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murugan Hardwares",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517128",
+    "phone_number": "+91 94902 44841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "525Q+PCC, Yadamari, Andhra Pradesh 517422",
+    "area": "517128",
+    "latitude": 13.159252599999999,
+    "longitude": 79.0385154,
+    "place_id": "ChIJQ7Om3BhdrTsRczuwsVTz34Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7Om3BhdrTsRczuwsVTz34Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:11"
+  },
+  {
+    "business_name": "SRI VEERA BRAMHAM GARI TIMBER DEPOT",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517128",
+    "phone_number": "+91 85003 84388",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "28-1277 Rtc 1 Depot Road, Andhra Pradesh 517001",
+    "area": "Thenabanda Dargah",
+    "latitude": 13.2148573,
+    "longitude": 79.092621,
+    "place_id": "ChIJrTtx-ihdrTsRulUF6uvCyY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTtx-ihdrTsRulUF6uvCyY0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:11"
+  }
+]

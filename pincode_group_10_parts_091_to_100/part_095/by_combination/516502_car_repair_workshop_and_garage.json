@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Store",
+    "all_categories": "Store, Repair service",
+    "pincode": "516502",
+    "phone_number": "+91 94400 29051",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4/198, Mydukur Rd, Khajipet Sunkesula, S.Mydukur, Andhra Pradesh 516172",
+    "area": "516502",
+    "latitude": 14.7263747,
+    "longitude": 78.7318074,
+    "place_id": "ChIJU324ikl7szsRyIZG9B3vm40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU324ikl7szsRyIZG9B3vm40",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:18:05"
+  },
+  {
+    "business_name": "Venkata Ramana Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "516502",
+    "phone_number": "+91 70138 52905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Badvel Rd, Proddatur, S.Mydukur, Andhra Pradesh 516172",
+    "area": "516502",
+    "latitude": 14.725534,
+    "longitude": 78.7367909,
+    "place_id": "ChIJleG4d9t_szsRf4sjj2Jn6k4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleG4d9t_szsRf4sjj2Jn6k4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:18:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matha dream farm resort",
+    "search_category": "Resort",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517113",
+    "phone_number": "+91 97396 72771",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kolar Gold Fields, Kyasamballi, Karnataka 563121",
+    "area": "Kolar Gold Fields",
+    "latitude": 12.9512051,
+    "longitude": 78.3574543,
+    "place_id": "ChIJO7CUMfGVrTsRnhQ6KAg0TFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7CUMfGVrTsRnhQ6KAg0TFU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:35:53"
+  },
+  {
+    "business_name": "KRN Residency",
+    "search_category": "Resort",
+    "primary_category": "Extended stay hotel",
+    "all_categories": "Extended stay hotel",
+    "pincode": "517113",
+    "phone_number": "+91 99518 18383",
+    "website": "http://www.krnresidency.com/",
+    "rating": 4.6,
+    "reviews_count": 159,
+    "address": "Nagari, Andhra Pradesh 517590",
+    "area": "517113",
+    "latitude": 13.3252065,
+    "longitude": 79.5891985,
+    "place_id": "ChIJGVjNcYmnUjoRv6uEQTy4EQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVjNcYmnUjoRv6uEQTy4EQQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:35:56"
+  }
+]

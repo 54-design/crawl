@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N S function hall kalikiri",
+    "search_category": "Banquet Hall",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "517234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "191, Chennai - Anantapur Hwy, Oragadam, Kalikiri, Andhra Pradesh 517234",
+    "area": "Oragadam",
+    "latitude": 13.65219,
+    "longitude": 78.8001194,
+    "place_id": "ChIJy9arLQ6NsjsRk53ynB6UBt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9arLQ6NsjsRk53ynB6UBt8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:09:24"
+  },
+  {
+    "business_name": "Firoz Function Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Function room facility",
+    "all_categories": "Function room facility",
+    "pincode": "517234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 162,
+    "address": "MW5C+QMV, Doddipalle, Andhra Pradesh 517214",
+    "area": "517234",
+    "latitude": 13.6594999,
+    "longitude": 78.9216567,
+    "place_id": "ChIJ9WVr3lOTsjsRFRCrG25SvfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WVr3lOTsjsRFRCrG25SvfY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:09:26"
+  }
+]

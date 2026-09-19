@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "517002",
+    "phone_number": "+91 93911 17832",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 10,
+    "address": "Sapthagiri Grameena Bank Area, 4/1, opp. Bypass Road, Murakambattu, Andhra Pradesh 517127",
+    "area": "517002",
+    "latitude": 13.2476231,
+    "longitude": 79.1184799,
+    "place_id": "ChIJTZfs4fdZrTsRTUIB7g10AUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZfs4fdZrTsRTUIB7g10AUY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:37"
+  },
+  {
+    "business_name": "Jucart Chittoor",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "517002",
+    "phone_number": "N/A",
+    "website": "http://jucart.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Ground floor, 63RJ+R9F Preethi Royal Paradise, to, Kanipakam, road, Santhapet, Chittoor, Mangasamudram, Andhra Pradesh 517004",
+    "area": "Santhapet",
+    "latitude": 13.242071399999999,
+    "longitude": 79.0809316,
+    "place_id": "ChIJw3ReOwBfrTsR8RQZU5dDhbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3ReOwBfrTsR8RQZU5dDhbo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:37"
+  }
+]

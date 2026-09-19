@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashish Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "517350",
+    "phone_number": "+91 89670 89965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 101, Shreeram Arcade basement, Dharamtala St, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700013",
+    "area": "New Market Area, Dharmatala, Taltala",
+    "latitude": 22.560611299999998,
+    "longitude": 88.3533096,
+    "place_id": "ChIJwyQeKGZ3AjoRktDiIIXlZJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyQeKGZ3AjoRktDiIIXlZJA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:16"
+  },
+  {
+    "business_name": "Black Hive Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Tattoo artist, Tattoo removal service, Tattoo shop",
+    "pincode": "517350",
+    "phone_number": "+91 89107 40442",
+    "website": "https://blackhivetattoostudio.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Salt Lake, BF-198, BF Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "area": "BF Block, Sector 1, Bidhannagar",
+    "latitude": 22.595340999999998,
+    "longitude": 88.41951189999999,
+    "place_id": "ChIJlQE1q8R1AjoRWMsTNLy9KR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQE1q8R1AjoRWMsTNLy9KR0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:16"
+  }
+]

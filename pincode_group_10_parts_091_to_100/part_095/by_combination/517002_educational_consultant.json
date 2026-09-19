@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AbroadEdu",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "517002",
+    "phone_number": "+91 98668 47596",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "53XV+RC4, Greamspet, Chittoor, Andhra Pradesh 517002",
+    "area": "Greamspet",
+    "latitude": 13.1995157,
+    "longitude": 79.0935695,
+    "place_id": "ChIJQWl_ldJdrTsRDMese30VtvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWl_ldJdrTsRDMese30VtvM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:26"
+  },
+  {
+    "business_name": "Viswadeepthi Educational Society",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "517002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "#2-1255, Sri Maruthi Complex, II nd Floor, Officers lane,, Kongareddypalle,, Chittoor, Andhra Pradesh 517001",
+    "area": "Nalandha Nagar",
+    "latitude": 13.215669199999999,
+    "longitude": 79.10878579999999,
+    "place_id": "ChIJ7fMfbABcrTsRh6YoY-BpvEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fMfbABcrTsRh6YoY-BpvEc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:27"
+  }
+]

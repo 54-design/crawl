@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Pest Control",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "517325",
+    "phone_number": "+91 87908 51377",
+    "website": "https://star-pest-control.vercel.app/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "near LIC Office, Prasanth Nagar, A.V.Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Prasanth Nagar, A.V.Naidu Colony",
+    "latitude": 13.5634783,
+    "longitude": 78.49986679999999,
+    "place_id": "ChIJTVizDj9nsjsRDIsUAl9wrNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVizDj9nsjsRDIsUAl9wrNo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:00"
+  },
+  {
+    "business_name": "Ganesh Electric Dry Cleaner",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service, Dry cleaner",
+    "pincode": "517325",
+    "phone_number": "+91 76748 03413",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "P and T Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "P and T Colony",
+    "latitude": 13.5583659,
+    "longitude": 78.499647,
+    "place_id": "ChIJ876LHABnsjsRwNw16xKP_Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ876LHABnsjsRwNw16xKP_Ys",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeevani Diagnostic Laboratory",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "517213",
+    "phone_number": "+91 73867 27150",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Main Road, opp. Indian Petrol Bunk, Yarrayyagaripalle, Kalakada, Andhra Pradesh 517236",
+    "area": "Yarrayyagaripalle",
+    "latitude": 13.8318734,
+    "longitude": 78.7890518,
+    "place_id": "ChIJoWYV9-zxsjsR8gs00zsCs1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWYV9-zxsjsR8gs00zsCs1o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:21"
+  },
+  {
+    "business_name": "Garnimitta Primary Health Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "517213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Garnimitta Government Hospital, 1/1450, Garnimitta, Andhra Pradesh 517213",
+    "area": "517213",
+    "latitude": 13.8200329,
+    "longitude": 78.89580339999999,
+    "place_id": "ChIJhfaPZRLvsjsRHqSOpvyGg0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfaPZRLvsjsRHqSOpvyGg0c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:21"
+  }
+]

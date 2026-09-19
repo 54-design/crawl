@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul's CA Academy",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "517101",
+    "phone_number": "+91 87123 89894",
+    "website": "http://www.rca-academy.com/",
+    "rating": 4.6,
+    "reviews_count": 195,
+    "address": "3rd Floor, Legend Crystal, PG Road, above Federal bank, opp. Annapoorna Residency, Sappu Bagh Apaprtment, Jogani, Ramgopalpet, Secunderabad, Hyderabad, Telangana 500003",
+    "area": "Sappu Bagh Apaprtment, Jogani, Ramgopalpet",
+    "latitude": 17.4410099,
+    "longitude": 78.4859534,
+    "place_id": "ChIJZYvV5AWayzsRccBQF2113n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYvV5AWayzsRccBQF2113n4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:48"
+  },
+  {
+    "business_name": "ICA Institute",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Education center",
+    "pincode": "517101",
+    "phone_number": "+91 99075 25757",
+    "website": "https://www.ica-institute.com/",
+    "rating": 4.9,
+    "reviews_count": 158,
+    "address": "Shopping Complex, D-60, opposite Shoppers Stop, near LIG Gurdwara, LIG Colony, Indore, Madhya Pradesh 452011",
+    "area": "LIG Colony",
+    "latitude": 22.7358342,
+    "longitude": 75.8906082,
+    "place_id": "ChIJseae3a39YjkRPQiwe1hcRqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseae3a39YjkRPQiwe1hcRqI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:48"
+  }
+]

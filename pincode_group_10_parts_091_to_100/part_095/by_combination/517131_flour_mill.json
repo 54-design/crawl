@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SLV FLOUR MILL",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour Mill",
+    "all_categories": "Flour Mill",
+    "pincode": "517131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "KR Palli",
+    "latitude": 13.2162075,
+    "longitude": 79.10809359999999,
+    "place_id": "ChIJ-wX_PgBcrTsRAtYS3uYhGwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-wX_PgBcrTsRAtYS3uYhGwU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:45"
+  },
+  {
+    "business_name": "OM SAKTHI FLOUR MILL",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour Mill",
+    "all_categories": "Flour Mill",
+    "pincode": "517131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Chinnakurbalapalle Rural, Bairaganipalle (Rural), Andhra Pradesh 517425",
+    "area": "Chinnakurbalapalle Rural",
+    "latitude": 12.743314999999999,
+    "longitude": 78.338533,
+    "place_id": "ChIJX5l1yzK4rTsRN4dT0i0ioRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5l1yzK4rTsRN4dT0i0ioRk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S S Competitors",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "516362",
+    "phone_number": "+91 97033 69156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QH22+XX3, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Holmus Pet",
+    "latitude": 14.7523778,
+    "longitude": 78.5524291,
+    "place_id": "ChIJ700JBAB5tDsReRunDATj-CI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ700JBAB5tDsReRunDATj-CI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:46:07"
+  },
+  {
+    "business_name": "Spectra Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "516362",
+    "phone_number": "+91 4344 246 755",
+    "website": "https://www.spectraedu.in/",
+    "rating": 3.7,
+    "reviews_count": 78,
+    "address": "Krishnagiri bypass road, beside Domino's building, near LIC OFFICE, Hosur, Tamil Nadu 635109",
+    "area": "516362",
+    "latitude": 12.7334111,
+    "longitude": 77.8349719,
+    "place_id": "ChIJ-fcUY6RxrjsRNdk9r5vA_IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fcUY6RxrjsRNdk9r5vA_IA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:46:08"
+  }
+]

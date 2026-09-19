@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sathish medicals",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "517192",
+    "phone_number": "+91 90527 92350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Santhapeta Street, Rompicherla, Bommaiahgari Palle, Andhra Pradesh 517192",
+    "area": "517192",
+    "latitude": 13.668332099999999,
+    "longitude": 79.04625159999999,
+    "place_id": "ChIJbY8h172_sjsRsCJZlvn1BQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbY8h172_sjsRsCJZlvn1BQ4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:58"
+  },
+  {
+    "business_name": "Avm agri care",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "517192",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M29W+46H, Rompicherla, Bommaiahgari Palle, Andhra Pradesh 517192",
+    "area": "Rompicherla",
+    "latitude": 13.667765399999999,
+    "longitude": 79.045637,
+    "place_id": "ChIJg7Q7WwC_sjsRlX1-x_iiCtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7Q7WwC_sjsRlX1-x_iiCtE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:58"
+  }
+]

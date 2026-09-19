@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise Restaurant Seetharamapuram",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516505",
+    "phone_number": "+91 77022 52148",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "opposite to HP petrol pump, near MRO office, Seetharamapuram, Andhra Pradesh 524310",
+    "area": "516505",
+    "latitude": 15.015316799999999,
+    "longitude": 79.14177219999999,
+    "place_id": "ChIJxdOW1jq7tDsRSJF3r8rZam0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdOW1jq7tDsRSJF3r8rZam0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:22:54"
+  },
+  {
+    "business_name": "Sanju's Royal cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "516505",
+    "phone_number": "+91 63043 14314",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, opp. to MRO office, Seetharamapuram, Andhra Pradesh 524310",
+    "area": "516505",
+    "latitude": 15.0155962,
+    "longitude": 79.1413741,
+    "place_id": "ChIJZehRPVW7tDsRa7NRPG-4Y5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZehRPVW7tDsRa7NRPG-4Y5s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:22:57"
+  }
+]

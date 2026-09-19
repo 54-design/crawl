@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "XOOX Brewmill",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Brewpub, Night club, Pub",
+    "pincode": "516431",
+    "phone_number": "+91 82960 08571",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7867,
+    "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, 5th Block, Koramangala",
+    "latitude": 12.935438,
+    "longitude": 77.6151299,
+    "place_id": "ChIJyflY0l4VrjsRIlJWR9ggHqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyflY0l4VrjsRIlJWR9ggHqE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:59:02"
+  },
+  {
+    "business_name": "Top Gear Bar & Lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "516431",
+    "phone_number": "+91 81052 30840",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "K R Puram, 14, Old Madras Rd, beside Pashmina Waterfront, Battarahalli, Bengaluru, Karnataka 560049",
+    "area": "Sannatammanahalli, Battarahalli",
+    "latitude": 13.0225593,
+    "longitude": 77.712164,
+    "place_id": "ChIJb3BD7G0RrjsR_U4bpzeYdMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3BD7G0RrjsR_U4bpzeYdMc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:59:03"
+  }
+]

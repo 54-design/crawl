@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MJ GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Cookie shop, Ice cream shop, Indian grocery store, Print shop, Snack bar, Soft drinks shop",
+    "pincode": "517132",
+    "phone_number": "+91 416 229 6766",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sakthi Nagar, Kalpudur, Mettukulam, Katpadi, Tamil Nadu 632059",
+    "area": "Sakthi Nagar, Kalpudur, Mettukulam",
+    "latitude": 13.0010625,
+    "longitude": 79.1305625,
+    "place_id": "ChIJCUN7tiFHrTsRzccTVzkoj5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUN7tiFHrTsRzccTVzkoj5Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:33"
+  },
+  {
+    "business_name": "Nagathamman tiffin centre department store",
+    "search_category": "Departmental Store",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "517132",
+    "phone_number": "+91 91829 43471",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bandapalli, Narigapalle, Chittoor, Andhra Pradesh 517419",
+    "area": "517132",
+    "latitude": 13.1780282,
+    "longitude": 79.1506201,
+    "place_id": "ChIJVY9GP6tbrTsRR8I_vtTrBQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVY9GP6tbrTsRR8I_vtTrBQ4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:33"
+  }
+]

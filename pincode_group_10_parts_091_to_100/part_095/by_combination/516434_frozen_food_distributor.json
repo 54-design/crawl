@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JD Food products and spices",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "516434",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-104, bazzar street, Chowdepalle, Andhra Pradesh 517257",
+    "area": "516434",
+    "latitude": 13.436579,
+    "longitude": 78.6925104,
+    "place_id": "ChIJM5K4Ch6HsjsRhQAconv3QmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5K4Ch6HsjsRhQAconv3QmA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:05"
+  },
+  {
+    "business_name": "JS FOODS GUDLANAYANIPALLI",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "516434",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gudlanayanapalli, Andhra Pradesh 517425",
+    "area": "516434",
+    "latitude": 12.7305134,
+    "longitude": 78.2823116,
+    "place_id": "ChIJIyZjFB3HrTsRWj_rSnwPQaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyZjFB3HrTsRWj_rSnwPQaE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:07"
+  }
+]

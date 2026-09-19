@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Green Bamboo",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "516464",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 72,
+    "address": "Ravi Venkatam Palli, Chinnapolamada, Andhra Pradesh 515411",
+    "area": "Ravi Venkatam Palli",
+    "latitude": 14.8942752,
+    "longitude": 77.9535345,
+    "place_id": "ChIJ0-_hUOkDtDsRMFgP0zs3TUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-_hUOkDtDsRMFgP0zs3TUc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:10:53"
+  },
+  {
+    "business_name": "Gandikota Rooms | Raghava Residency stay at the Grand Canyon of India",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Campground",
+    "all_categories": "Campground",
+    "pincode": "516464",
+    "phone_number": "+91 99592 43519",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "Gandikota Road Gandikota, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "516464",
+    "latitude": 14.8096375,
+    "longitude": 78.29023049999999,
+    "place_id": "ChIJO06cqoILtDsRvsGqLG4bPPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO06cqoILtDsRvsGqLG4bPPs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:10:54"
+  }
+]

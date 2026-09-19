@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INSURANCE POINT",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "517131",
+    "phone_number": "+91 94928 46769",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "20-365, Hassan Khan street, Mittoor, Chittoor, Andhra Pradesh 517001",
+    "area": "Mittoor",
+    "latitude": 13.2129482,
+    "longitude": 79.1026617,
+    "place_id": "ChIJbSPB_GZdrTsRHcfqZlNbsWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSPB_GZdrTsRHcfqZlNbsWk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:09"
+  },
+  {
+    "business_name": "ALL IN ONE CARE SERVICES",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "517131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 27, SRI COMPLEX, Bengaluru Rd, Chittoor, Andhra Pradesh 517002",
+    "area": "517131",
+    "latitude": 13.190308799999999,
+    "longitude": 79.0844114,
+    "place_id": "ChIJEzLU71hdrTsRl1XDJ6ds5Yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzLU71hdrTsRl1XDJ6ds5Yo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:10"
+  }
+]

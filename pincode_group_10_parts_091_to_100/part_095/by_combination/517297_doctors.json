@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAVAN SAI HOSPITAL",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517297",
+    "phone_number": "N/A",
+    "website": "http://pavansaihospital.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "24/1, Kalicherla Nakkalavarikota Rd, Kalicherla, Andhra Pradesh 517297",
+    "area": "517297",
+    "latitude": 13.8874327,
+    "longitude": 78.5379463,
+    "place_id": "ChIJk8oZIABRsjsR2-ltJx8_Yag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8oZIABRsjsR2-ltJx8_Yag",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:24:54"
+  },
+  {
+    "business_name": "Dr Imthiyaz Ali khan",
+    "search_category": "Doctors",
+    "primary_category": "University",
+    "all_categories": "University",
+    "pincode": "517297",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Door number 3, khan hospital, 107, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517297",
+    "latitude": 13.779356199999999,
+    "longitude": 78.5873618,
+    "place_id": "ChIJi68ArFVZsjsRYVmgeRCxt1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi68ArFVZsjsRYVmgeRCxt1I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:24:54"
+  }
+]

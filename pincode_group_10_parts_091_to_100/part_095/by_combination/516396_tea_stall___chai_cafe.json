@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosti chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "516396",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "J4GG+MXG, Simhadripuram, Andhra Pradesh 516454",
+    "area": "516396",
+    "latitude": 14.626697799999999,
+    "longitude": 78.12745939999999,
+    "place_id": "ChIJR7vXDgDxszsRTD6IbJb52yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7vXDgDxszsRTD6IbJb52yY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:52:05"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "516396",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "16-11-16/M/40, 500036, Road, Moosarambagh, Ramkoti, East Prasanth Nagar, Hyderabad, Telangana 500036",
+    "area": "Moosarambagh, Ramkoti, East Prasanth Nagar, Dilsukhnagar",
+    "latitude": 17.378024399999997,
+    "longitude": 78.51691699999999,
+    "place_id": "ChIJrTLWJFSYyzsRLQchf7-mBuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTLWJFSYyzsRLQchf7-mBuY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:52:08"
+  }
+]

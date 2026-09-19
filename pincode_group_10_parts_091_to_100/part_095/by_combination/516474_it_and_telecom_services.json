@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "516474",
+    "phone_number": "+91 94925 95228",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-83, TADIPATRI, Talaricheruvu, TADIPATRI, Andhra Pradesh 515415",
+    "area": "TADIPATRI",
+    "latitude": 14.954102599999999,
+    "longitude": 78.0686685,
+    "place_id": "ChIJD4ahf2cbtDsR_ZkyBOfxuy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4ahf2cbtDsR_ZkyBOfxuy4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:13:37"
+  },
+  {
+    "business_name": "Srinath cable network",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cable company",
+    "all_categories": "Cable company",
+    "pincode": "516474",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2-20, Tadipatri - Urichintala Rd, Uruchinthala, Andhra Pradesh 518166",
+    "area": "516474",
+    "latitude": 14.9444541,
+    "longitude": 78.095523,
+    "place_id": "ChIJgWY73r4btDsRlKmaHHv3hz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWY73r4btDsRlKmaHHv3hz4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:13:37"
+  }
+]

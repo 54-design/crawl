@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Mens Wear",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "517325",
+    "phone_number": "+91 97016 13007",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Dr Krishnamurthi Complex, 14/85-B, CTM Rd, Rama Gopal Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Rama Gopal Naidu Colony",
+    "latitude": 13.5534436,
+    "longitude": 78.5067425,
+    "place_id": "ChIJXc93YNhlsjsRDqmMJOcytd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXc93YNhlsjsRDqmMJOcytd8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:43"
+  },
+  {
+    "business_name": "S V Fashions",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store",
+    "pincode": "517325",
+    "phone_number": "+91 94407 09428",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "HF5W+XHW, Kuravanka, Society Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Kuravanka, Society Colony",
+    "latitude": 13.5599855,
+    "longitude": 78.4964535,
+    "place_id": "ChIJLxkbYAtmsjsREXJ2uWcLteA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxkbYAtmsjsREXJ2uWcLteA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dodla Milk & Ice cream parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "517126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ATM Center, Penumur Rd, Sathambakkam Chittoor, Sathambakkam, Sathambakam, Andhra Pradesh 517127",
+    "area": "Sathambakkam Chittoor",
+    "latitude": 13.2968578,
+    "longitude": 79.1584745,
+    "place_id": "ChIJ8xYUI8pZrTsRtXTOlVF3OnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xYUI8pZrTsRtXTOlVF3OnI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:42:06"
+  },
+  {
+    "business_name": "Deekshitha Sweet Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517126",
+    "phone_number": "+91 97057 06016",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Bandapalli, Vavilthota, Andhra Pradesh 517127",
+    "area": "Bandapalli",
+    "latitude": 13.305556099999999,
+    "longitude": 79.11479489999999,
+    "place_id": "ChIJ0a2B0atYrTsRH7b2HUtIPmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a2B0atYrTsRH7b2HUtIPmo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:42:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Juice And Icecreams Rompicherla",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "517172",
+    "phone_number": "+91 90306 80021",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Big Mosque St, Rompicherla, Andhra Pradesh 517192",
+    "area": "517172",
+    "latitude": 13.6689182,
+    "longitude": 79.046466,
+    "place_id": "ChIJAykpTDe_sjsR-VENeg5DWM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAykpTDe_sjsR-VENeg5DWM4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:03"
+  },
+  {
+    "business_name": "GUDBUD",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "517172",
+    "phone_number": "+91 76762 47179",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 795,
+    "address": "Ground Floor, No 972/A S T BED layout Koramangala, Ejipura, Bengaluru, Karnataka 560047",
+    "area": "Chandra Reddy Layout, S T Bed Layout, Ejipura",
+    "latitude": 12.9351767,
+    "longitude": 77.6300436,
+    "place_id": "ChIJKRLmK0gVrjsR1A2y5L2SC4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRLmK0gVrjsR1A2y5L2SC4I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:05"
+  }
+]

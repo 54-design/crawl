@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHEF BAKERY",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517167",
+    "phone_number": "+91 63648 31636",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "N G COMPLEX, Pallipattu, Katherapalle, Andhra Pradesh 517582",
+    "area": "Pallipattu",
+    "latitude": 13.365876799999999,
+    "longitude": 79.3909575,
+    "place_id": "ChIJ49B6rbBVTToRgRNPAYbMvl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49B6rbBVTToRgRNPAYbMvl0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:12"
+  },
+  {
+    "business_name": "Pastry Lounge",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517167",
+    "phone_number": "+91 91828 05164",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "19-8-213, Hathiramji Colony, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Bairagi patteda",
+    "latitude": 13.620691599999999,
+    "longitude": 79.4190472,
+    "place_id": "ChIJOyA05BNLTToRNRk0Y9qXjIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyA05BNLTToRNRk0Y9qXjIk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:13"
+  }
+]

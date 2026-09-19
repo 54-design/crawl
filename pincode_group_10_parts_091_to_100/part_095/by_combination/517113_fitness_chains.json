@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gold's Gym palamaner",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517113",
+    "phone_number": "+91 95501 33353",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mariamma gudi, Rangapuram, Palamaner, Andhra Pradesh 517408",
+    "area": "Rangapuram",
+    "latitude": 13.2028324,
+    "longitude": 78.7449293,
+    "place_id": "ChIJLel3zwB_rTsRAAFiKjV2S_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLel3zwB_rTsRAAFiKjV2S_Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:35:23"
+  },
+  {
+    "business_name": "Vijay fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517113",
+    "phone_number": "+91 97050 38615",
+    "website": "https://www.instagram.com/vijay_fitness_puttur?igsh=bDB2aDNxYjNtcGV2",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "CHV4+R8X, Puttur, Andhra Pradesh 517583",
+    "area": "517113",
+    "latitude": 13.4446119,
+    "longitude": 79.5558472,
+    "place_id": "ChIJg3MtfgBRTToR4WHUa_7O5Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3MtfgBRTToR4WHUa_7O5Qk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:35:25"
+  }
+]

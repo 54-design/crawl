@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gapuchee",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "516396",
+    "phone_number": "+91 90333 12020",
+    "website": "http://www.gapuchee.com/",
+    "rating": 4.9,
+    "reviews_count": 1212,
+    "address": "Pandol Industrial Estate, 475, 2, Ved Rd, Surat, Gujarat 395003",
+    "area": "Fatakdawadi, Industrial Area, Singanpor",
+    "latitude": 21.2134035,
+    "longitude": 72.8202471,
+    "place_id": "ChIJ9Zn0dpFO4DsRwErEDx80kTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Zn0dpFO4DsRwErEDx80kTc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:52:38"
+  },
+  {
+    "business_name": "Jyoti Cycle Sales Store Kamrej Surat",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Cleaning Services, Electric bicycle store, Game store, Outdoor sports store, Toy store",
+    "pincode": "516396",
+    "phone_number": "+91 81412 02211",
+    "website": "http://jyoticyclesales.co.in/",
+    "rating": 4.9,
+    "reviews_count": 193,
+    "address": "7X47+7RR, BLOCK NO.132, NEAR AMBIKA IRON WORKS N H NO.48, opp. NAVAGAM, Navagam, UDHYOG NAGAR, Kamrej, Gujarat 394185",
+    "area": "Navagam, UDHYOG NAGAR",
+    "latitude": 21.2556385,
+    "longitude": 72.9644733,
+    "place_id": "ChIJuTuFTlFF4DsRWyWjX4DYSRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTuFTlFF4DsRWyWjX4DYSRY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:52:38"
+  }
+]

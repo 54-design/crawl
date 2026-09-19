@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra spices",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Spices Wholesaler",
+    "pincode": "516411",
+    "phone_number": "+91 98858 17776",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Town Hall Rd, near old vegetable market, Mangalavaripeta, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Mangalavaripeta",
+    "latitude": 17.0013744,
+    "longitude": 81.7734627,
+    "place_id": "ChIJM9bqjXOkNzoRoCPclIeZH3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9bqjXOkNzoRoCPclIeZH3Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:55:28"
+  },
+  {
+    "business_name": "D S Dry Fruit & General",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "516411",
+    "phone_number": "+91 91332 27800",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 124,
+    "address": "Mangalavaripeta, Rajamahendravaram, Andhra Pradesh 533101",
+    "area": "Mangalavaripeta",
+    "latitude": 17.0012871,
+    "longitude": 81.77052239999999,
+    "place_id": "ChIJzXsptXOkNzoRGT5lIDh8uSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXsptXOkNzoRGT5lIDh8uSE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:55:30"
+  }
+]

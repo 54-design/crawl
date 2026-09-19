@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Ponnambalam ENT and Dental Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517112",
+    "phone_number": "+91 95666 75529",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 45,
+    "address": "13, Sathyamoorthy St, Arakkonam, Tamil Nadu 631001",
+    "area": "Arakkonam",
+    "latitude": 13.086927399999999,
+    "longitude": 79.66378399999999,
+    "place_id": "ChIJWaVt1228UjoR9EqXJWwVRiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaVt1228UjoR9EqXJWwVRiY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:33:35"
+  },
+  {
+    "business_name": "SPS ENT CLINIC (Dr.S.P.Sundaravadivel)",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "517112",
+    "phone_number": "+91 95666 75529",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "13, Sathyamoorthy St, Arakkonam, Tamil Nadu 631001",
+    "area": "Arakkonam",
+    "latitude": 13.0869381,
+    "longitude": 79.6637449,
+    "place_id": "ChIJ5UQsqby9UjoRfXyUlzdm1Uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UQsqby9UjoRfXyUlzdm1Uc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:33:35"
+  }
+]

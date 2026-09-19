@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart fit gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516390",
+    "phone_number": "+91 90596 47778",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "C68C+3G8, By Pass Road, near Y.S. Manohar Reddy Sir Homw, Pulivendula, Andhra Pradesh 516390",
+    "area": "516390",
+    "latitude": 14.4151551,
+    "longitude": 78.2213404,
+    "place_id": "ChIJE3ZVEpfrszsRaMpl5aQXbb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3ZVEpfrszsRaMpl5aQXbb4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:48:59"
+  },
+  {
+    "business_name": "Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516390",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "ysvr complex, Kadapa Rd Bridge, near new Bus stand, opposite masjid, Venkatapuram, Andhra Pradesh 516390",
+    "area": "516390",
+    "latitude": 14.4117333,
+    "longitude": 78.2266691,
+    "place_id": "ChIJO3SVl5brszsR4SsqwqFqVZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3SVl5brszsR4SsqwqFqVZc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:48:59"
+  }
+]

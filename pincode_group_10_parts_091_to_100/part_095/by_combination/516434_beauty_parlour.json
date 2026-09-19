@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Look Beauty Palace",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Beauty Products Wholesaler, Cosmetics store, Facial spa, Novelty store, Spa, Hairdresser",
+    "pincode": "516434",
+    "phone_number": "+91 81219 79328",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 416,
+    "address": "TATA Hitachi upstairs, opposite SBI BANK, near HDFC BANK, Thayagaraju Nagar, Venkata Reddy Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "Thayagaraju Nagar, Venkata Reddy Nagar",
+    "latitude": 14.4070226,
+    "longitude": 79.9536516,
+    "place_id": "ChIJmzOUE57zTDoRTJXYc7mhu9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzOUE57zTDoRTJXYc7mhu9Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:53"
+  },
+  {
+    "business_name": "Beauty Care Parlour Products",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler",
+    "pincode": "516434",
+    "phone_number": "+91 96565 78324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1166,
+    "address": "Near, New Bus Stand Road, Kunnamkulam, Keralam 680503",
+    "area": "516434",
+    "latitude": 10.6494161,
+    "longitude": 76.06590369999999,
+    "place_id": "ChIJDzT4OtCVpzsRoO6hDwRuPjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzT4OtCVpzsRoO6hDwRuPjc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:53"
+  }
+]

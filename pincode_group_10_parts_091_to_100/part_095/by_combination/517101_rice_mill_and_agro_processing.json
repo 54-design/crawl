@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Sri Balaji Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "517101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rayalpuram, Chandragiri, Andhra Pradesh 517102",
+    "area": "Rayalpuram",
+    "latitude": 13.5767698,
+    "longitude": 79.3158845,
+    "place_id": "ChIJSRv06gyzsjsRUB44yLw0Ma4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRv06gyzsjsRUB44yLw0Ma4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:07"
+  },
+  {
+    "business_name": "Chegu Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "517101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "H8J8+H3J, Chennai - Anantpur Road, Chandragiri, Andhra Pradesh 517101",
+    "area": "517101",
+    "latitude": 13.581453199999999,
+    "longitude": 79.315135,
+    "place_id": "ChIJ2bIYD42zsjsRcphvijSHH4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bIYD42zsjsRcphvijSHH4Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:07"
+  }
+]

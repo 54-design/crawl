@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RVS TRADERS",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517172",
+    "phone_number": "+91 83101 60402",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bhakarapeta, Andhra Pradesh 517194",
+    "area": "517172",
+    "latitude": 13.653464399999999,
+    "longitude": 79.1574256,
+    "place_id": "ChIJf9VtY2C4sjsRd9mrC_hDmVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9VtY2C4sjsRd9mrC_hDmVw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:34"
+  },
+  {
+    "business_name": "Napuma constructions private limited",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "517172",
+    "phone_number": "+91 94948 30184",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Damalacherevu - Pulicherla Rd, E.Ramireddigari Palle, Mangalampeta, Andhra Pradesh 517172",
+    "area": "517172",
+    "latitude": 13.5813563,
+    "longitude": 79.0880007,
+    "place_id": "ChIJHSUD0-G_sjsREYxEFt0Oles",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSUD0-G_sjsREYxEFt0Oles",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric clinic",
+    "all_categories": "Pediatric clinic, Child health care center",
+    "pincode": "517237",
+    "phone_number": "+91 97862 80645",
+    "website": "http://www.srschildcare.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ground Floor, Greenwich Towers, NO:67, Tank Street, Hosur, Tamil Nadu 635109",
+    "area": "Tank Street",
+    "latitude": 12.7330884,
+    "longitude": 77.8257069,
+    "place_id": "ChIJ2y8PajlxrjsR29_oMSv--54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y8PajlxrjsR29_oMSv--54",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:14:12"
+  },
+  {
+    "business_name": "Dr. Vinay Singh Child Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "517237",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "696H+P74, Nandini Rd, near sapna cinema, power house, Janjgiri, Bhilai, Chhattisgarh 490011",
+    "area": "power house, Janjgiri",
+    "latitude": 21.2117571,
+    "longitude": 81.3782796,
+    "place_id": "ChIJK1RmPW0jKToRyhCJnjLH50Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1RmPW0jKToRyhCJnjLH50Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:14:12"
+  }
+]

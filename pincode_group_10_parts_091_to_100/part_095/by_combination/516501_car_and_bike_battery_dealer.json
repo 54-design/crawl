@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaron Pitstop - National Auto Hub",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Battery Manufacturer, Battery Wholesaler, Car battery store",
+    "pincode": "516501",
+    "phone_number": "+91 97650 00188",
+    "website": "https://www.amaron.com/",
+    "rating": 4.7,
+    "reviews_count": 70,
+    "address": "Shop No 1, Sr No 52 & 1, Agarwal Arcade, Pune - Nagar Rd, Shree Ram Society, Chandan Nagar, Kharadi, Pune, Maharashtra 411014",
+    "area": "Shree Ram Society, Chandan Nagar, Kharadi",
+    "latitude": 18.563188999999998,
+    "longitude": 73.936577,
+    "place_id": "ChIJSzaj0eHDwjsRHrSJlO1C3rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzaj0eHDwjsRHrSJlO1C3rQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:16:25"
+  },
+  {
+    "business_name": "BattReStore",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Wholesaler, Battery Store, Electronics manufacturer",
+    "pincode": "516501",
+    "phone_number": "+91 98909 31881",
+    "website": "http://www.battrestore.com/",
+    "rating": 4.8,
+    "reviews_count": 136,
+    "address": "149, Shankar Rao Lohane Marg, Mukund Nagar, Pune, Maharashtra 411037",
+    "area": "Mukund Nagar",
+    "latitude": 18.4964047,
+    "longitude": 73.8639285,
+    "place_id": "ChIJ40dWjBfAwjsRlwI6wG4mbGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40dWjBfAwjsRlwI6wG4mbGs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:16:27"
+  }
+]

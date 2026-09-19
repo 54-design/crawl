@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "unique interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "https://uniqueinterior0215.wordpress.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unique Interiors, MGR St, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2138906,
+    "longitude": 79.0936875,
+    "place_id": "ChIJYR6GTABdrTsRJ4CgELbP7Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYR6GTABdrTsRJ4CgELbP7Lo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:17"
+  },
+  {
+    "business_name": "AK INTERIALS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "GGX4+Q94, Chittoor Bus Stand Rd, Basinikonda, Madanapalle, Andhra Pradesh 517325",
+    "area": "Basinikonda",
+    "latitude": 13.549382399999999,
+    "longitude": 78.5059612,
+    "place_id": "ChIJjyGwyiBlsjsRDnCUS73bQb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyGwyiBlsjsRDnCUS73bQb4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:18"
+  }
+]

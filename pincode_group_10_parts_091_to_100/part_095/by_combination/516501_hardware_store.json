@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree vishwakarma plylam",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "516501",
+    "phone_number": "+91 74054 72918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Avadta gate, behind Sah gopani petrol pump, opposite harun outo gerej, Khojawadi, Sherthali, Botad, Gujarat 364710",
+    "area": "Khojawadi, Sherthali",
+    "latitude": 22.1690616,
+    "longitude": 71.6678429,
+    "place_id": "ChIJZ3texG_bWDkROJGLXrpF4j0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3texG_bWDkROJGLXrpF4j0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:16:29"
+  },
+  {
+    "business_name": "Vayuputra traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "516501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "93/139-921, Indira Nagar, Māmillapalle, Andhra Pradesh 516004",
+    "area": "Indira Nagar",
+    "latitude": 14.4301965,
+    "longitude": 78.8484938,
+    "place_id": "ChIJj3oAZwBtszsRNsg1jr38Gp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3oAZwBtszsRNsg1jr38Gp4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:16:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Cable Network",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cable company",
+    "all_categories": "Cable company",
+    "pincode": "517130",
+    "phone_number": "+91 94405 73777",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main Road, Venkata Samudra Agraharam, Andhra Pradesh 517130",
+    "area": "517130",
+    "latitude": 13.3860497,
+    "longitude": 78.9830897,
+    "place_id": "ChIJ8eenUS6fsjsRRT7k3Zeqb44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eenUS6fsjsRRT7k3Zeqb44",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:16"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "517130",
+    "phone_number": "+91 97406 34411",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ASHOKA R CHEEMANGALA, SIDLAGHATTA, Avulapalle, Karnataka 562105",
+    "area": "517130",
+    "latitude": 13.38989,
+    "longitude": 78.863435,
+    "place_id": "ChIJZeU72cWbsjsRZU8yBqmEdac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeU72cWbsjsRZU8yBqmEdac",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:16"
+  }
+]

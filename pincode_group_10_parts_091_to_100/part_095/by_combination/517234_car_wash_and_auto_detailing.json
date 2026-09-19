@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MULTI CAR SPA",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Mechanic",
+    "pincode": "517234",
+    "phone_number": "+91 96424 38108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CROSS, Kalikiri, Andhra Pradesh 517234",
+    "area": "517234",
+    "latitude": 13.6427649,
+    "longitude": 78.8099472,
+    "place_id": "ChIJqRna2aONsjsRrRX_KbzWras",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRna2aONsjsRrRX_KbzWras",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:09:01"
+  },
+  {
+    "business_name": "MW Car Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car stereo store",
+    "all_categories": "Car stereo store, Auto body shop, Auto painting, Auto Accessories Store, Car wash",
+    "pincode": "517234",
+    "phone_number": "+91 95914 58189",
+    "website": "http://www.mwcardetailing.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "opposite Government Polytechnic College Road, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Pattandur Agrahara, Whitefield",
+    "latitude": 12.979892399999999,
+    "longitude": 77.757547,
+    "place_id": "ChIJbeeShKYPrjsRy8DwaCWIWLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeeShKYPrjsRy8DwaCWIWLM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:09:03"
+  }
+]

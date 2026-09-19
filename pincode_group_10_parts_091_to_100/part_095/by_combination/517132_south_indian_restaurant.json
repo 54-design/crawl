@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAVARA Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Kerala restaurant",
+    "all_categories": "Kerala restaurant",
+    "pincode": "517132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15A, Kangayanellore Rd, Vellaikalmedu, Katpadi, Vellore, Tamil Nadu 632014",
+    "area": "Vellaikalmedu, Katpadi",
+    "latitude": 12.966332,
+    "longitude": 79.1563692,
+    "place_id": "ChIJFUaCQaVHrTsRD1s6cL-SbBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUaCQaVHrTsRD1s6cL-SbBc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:44"
+  },
+  {
+    "business_name": "The banaras kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "517132",
+    "phone_number": "+91 82488 77226",
+    "website": "https://thebanaraskitchen.streamonize.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "14th East Cross Rd, near to PVR, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "area": "Suthanthira Ponvizha Nagar, Gandhi Nagar",
+    "latitude": 12.9499781,
+    "longitude": 79.1403706,
+    "place_id": "ChIJ2a_QaQBHrTsRpIjpScPhwIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2a_QaQBHrTsRpIjpScPhwIU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:44"
+  }
+]

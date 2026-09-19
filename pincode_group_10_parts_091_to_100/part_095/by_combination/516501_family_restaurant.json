@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karthik's FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badvel, Andhra Pradesh 516502",
+    "area": "516501",
+    "latitude": 14.7351259,
+    "longitude": 79.04813519999999,
+    "place_id": "ChIJ1SHFsLBfszsRxwOaozjC0sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SHFsLBfszsRxwOaozjC0sQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:15:59"
+  },
+  {
+    "business_name": "Samrat dhaba , Lodge and family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "516501",
+    "phone_number": "+91 72580 96318",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 207,
+    "address": "Kalle, Chhattisgarh 493663",
+    "area": "516501",
+    "latitude": 20.9419117,
+    "longitude": 81.695551,
+    "place_id": "ChIJRfc-iRrNKDoRhgsxe8287HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfc-iRrNKDoRhgsxe8287HA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:15:59"
+  }
+]

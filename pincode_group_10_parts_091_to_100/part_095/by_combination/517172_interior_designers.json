@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanush",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "517172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jandla street, Rompicherla, Andhra Pradesh 517192",
+    "area": "517172",
+    "latitude": 13.6689292,
+    "longitude": 79.046201,
+    "place_id": "ChIJUx-0IzC_sjsRXPHYjy4eSVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUx-0IzC_sjsRXPHYjy4eSVs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:42"
+  },
+  {
+    "business_name": "Maharaja Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "517172",
+    "phone_number": "N/A",
+    "website": "https://maharajainteriors.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Tuda Complex, Annamayya Circle, New Balaji Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "New Balaji Colony",
+    "latitude": 13.6221658,
+    "longitude": 79.41764429999999,
+    "place_id": "ChIJdZ9ib6FLTToRzgkTEpd6sC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZ9ib6FLTToRzgkTEpd6sC8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:43"
+  }
+]

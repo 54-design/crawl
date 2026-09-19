@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car sales In Prayagraj (Allahabad)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "516505",
+    "phone_number": "+91 93050 03256",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "11A, Lal Bahadur Shastri Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.452467199999997,
+    "longitude": 81.8392279,
+    "place_id": "ChIJgeV9fb_LmjkRcr1Ru6-AleU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeV9fb_LmjkRcr1Ru6-AleU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:23:17"
+  },
+  {
+    "business_name": "Precarmart",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "516505",
+    "phone_number": "+91 79966 62220",
+    "website": "https://www.precarmart.com/",
+    "rating": 4.8,
+    "reviews_count": 852,
+    "address": "2635/01, 27th main road, 1st Cross Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Phase 3, Agara Village, 1st Sector, HSR Layout",
+    "latitude": 12.9225365,
+    "longitude": 77.6513112,
+    "place_id": "ChIJlzIEUIAUrjsRzAUVgLXIJPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzIEUIAUrjsRzAUVgLXIJPA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:23:19"
+  }
+]

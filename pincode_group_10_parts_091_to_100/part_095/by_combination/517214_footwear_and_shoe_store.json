@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Irshad Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MW3X+P7X, Tirupati Rd, opp. HDFC Bank, S K D Nagar, Pileru, Punganur, Pileru, Andhra Pradesh 517214",
+    "area": "S K D Nagar, Pileru",
+    "latitude": 13.6543529,
+    "longitude": 78.9482266,
+    "place_id": "ChIJI50bCmKVsjsRyi92Tjc7RlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI50bCmKVsjsRyi92Tjc7RlI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:06:58"
+  },
+  {
+    "business_name": "MANNATH FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Store",
+    "pincode": "517214",
+    "phone_number": "+91 97030 72487",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7, near Petrol Bunk, Andhra Pradesh 517214",
+    "area": "S K D Nagar, Pileru",
+    "latitude": 13.6541655,
+    "longitude": 78.9475106,
+    "place_id": "ChIJWZPrWXCVsjsR3sHlxqJXp5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZPrWXCVsjsR3sHlxqJXp5w",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:06:58"
+  }
+]

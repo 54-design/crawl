@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heritage Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517125",
+    "phone_number": "+91 94414 09447",
+    "website": "https://www.heritagefoods.in/diary/heritage-parlour",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "57R9+85G, Chittoor Main Rd, Thugundram, Andhra Pradesh 517421",
+    "area": "517125",
+    "latitude": 13.190802099999999,
+    "longitude": 79.2679388,
+    "place_id": "ChIJjbcKUm1RrTsRvpz7eEDgYFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbcKUm1RrTsRvpz7eEDgYFg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:40:07"
+  },
+  {
+    "business_name": "Harini Dairy Foods",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "517125",
+    "phone_number": "+91 95735 40585",
+    "website": "http://funindiadairy.com/contact.html",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Servy No: 89-3B 3C 4C&4D, Bengaluru - Tirupati Hwy, Mittapalle, Andhra Pradesh 517128",
+    "area": "Mittapalle",
+    "latitude": 13.1941223,
+    "longitude": 79.0159759,
+    "place_id": "ChIJzQYH-15nrTsRIeIqs_MbiiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQYH-15nrTsRIeIqs_MbiiY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:40:08"
+  }
+]

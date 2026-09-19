@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ITPO Exhibition Hall",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "517280",
+    "phone_number": "+91 11 2348 9659",
+    "website": "https://www.indiatradefair.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "J67V+HMJ, Pragati Maidan, New Delhi, Delhi 110001",
+    "area": "Pragati Maidan",
+    "latitude": 28.613990299999998,
+    "longitude": 77.2441089,
+    "place_id": "ChIJ-15fzsXjDDkRXwACJBJz8lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-15fzsXjDDkRXwACJBJz8lg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:34"
+  },
+  {
+    "business_name": "Evento",
+    "search_category": "Tradeshows",
+    "primary_category": "Stall installation service",
+    "all_categories": "Stall installation service",
+    "pincode": "517280",
+    "phone_number": "+91 86808 28000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chennai, Gudapakkam, Tamil Nadu 600124",
+    "area": "517280",
+    "latitude": 13.0906951,
+    "longitude": 79.9970627,
+    "place_id": "ChIJsy4lJzKPUjoRVUvAaFpN31o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsy4lJzKPUjoRVUvAaFpN31o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Misha Fashion World",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "516434",
+    "phone_number": "+91 92974 04012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5/136, Market road, opposite to Peddhamma Temple, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "516434",
+    "latitude": 14.845613799999999,
+    "longitude": 78.3801847,
+    "place_id": "ChIJ475AGgBxtDsRjmBAiqg5gZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ475AGgBxtDsRjmBAiqg5gZc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:13"
+  },
+  {
+    "business_name": "SWAROOP Import & Exports",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "516434",
+    "phone_number": "+91 91602 02202",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jammalamadugu, Andhra Pradesh 516434",
+    "area": "516434",
+    "latitude": 14.8489717,
+    "longitude": 78.3824525,
+    "place_id": "ChIJETF9ueFztDsRDuq08x2WY_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETF9ueFztDsRDuq08x2WY_4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:14"
+  }
+]

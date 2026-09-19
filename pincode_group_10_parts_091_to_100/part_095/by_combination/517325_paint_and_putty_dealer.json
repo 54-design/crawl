@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasad Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "517325",
+    "phone_number": "+91 99630 38832",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nemali Nagar, Madanapalle, Andhra Pradesh 517325",
+    "area": "Nemali Nagar",
+    "latitude": 13.5418706,
+    "longitude": 78.52051349999999,
+    "place_id": "ChIJ-dKIhHllsjsRGwzm-KAsMQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dKIhHllsjsRGwzm-KAsMQQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:32:14"
+  },
+  {
+    "business_name": "asian paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "517325",
+    "phone_number": "+91 1800 209 5678",
+    "website": "https://www.asianpaints.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HG55+CQX, CTM Rd, beside ICICI Bank, RRN Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "RRN Colony",
+    "latitude": 13.5586091,
+    "longitude": 78.5094889,
+    "place_id": "ChIJRxEJBKhnsjsRKyWYGCg8h9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxEJBKhnsjsRKyWYGCg8h9Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:32:16"
+  }
+]

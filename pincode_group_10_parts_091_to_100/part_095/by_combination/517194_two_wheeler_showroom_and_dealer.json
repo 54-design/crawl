@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAA Garage",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "517194",
+    "phone_number": "+91 98486 70387",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-25, Talakona Road, Nerabailu, Andhra Pradesh 517194",
+    "area": "517194",
+    "latitude": 13.7490968,
+    "longitude": 79.1634952,
+    "place_id": "ChIJ5cgF8aTHsjsRv2tQWEwjCBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cgF8aTHsjsRv2tQWEwjCBE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:41"
+  },
+  {
+    "business_name": "AVM MOTORS",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "517194",
+    "phone_number": "+91 63005 73093",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-21, Talakona Road, Bhakarapeta, Andhra Pradesh 517194",
+    "area": "517194",
+    "latitude": 13.6548585,
+    "longitude": 79.1579467,
+    "place_id": "ChIJ8R1unaq5sjsRedj79juiyTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8R1unaq5sjsRedj79juiyTY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medigo Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517193",
+    "phone_number": "+91 85005 40540",
+    "website": "https://medigohospitals.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "MEDIGO Multi specialty hospital, Karakambadi Rd, Bank Employees Colony, Mangalam, Tirupati, Andhra Pradesh 517507",
+    "area": "Bank Employees Colony, Mangalam",
+    "latitude": 13.6472945,
+    "longitude": 79.4435044,
+    "place_id": "ChIJienTZ0tLTToR418KZWM4Bjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJienTZ0tLTToR418KZWM4Bjw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:01:44"
+  },
+  {
+    "business_name": "Sri Padmavathi Multi Speciality Hospital Tirupati",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Bariatric surgeon, Pulmonologist",
+    "pincode": "517193",
+    "phone_number": "+91 85005 15515",
+    "website": "https://sripadmavathimultispecialityhospital.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "6 1-12E, near Sri raghavendra Swamy Mattam, RS Gardens, K.B Layout, Tirupati, Andhra Pradesh 517501",
+    "area": "RS Gardens, K.B Layout",
+    "latitude": 13.6398999,
+    "longitude": 79.416384,
+    "place_id": "ChIJD5J-9gJLTToRwnUMAFKukyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5J-9gJLTToRwnUMAFKukyw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:01:44"
+  }
+]

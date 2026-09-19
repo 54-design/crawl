@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuradha Girls Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "517193",
+    "phone_number": "+91 91105 99872",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "Narayanavanam Road, opp. SRS Degree College Street, Puttur, Andhra Pradesh 517583",
+    "area": "517193",
+    "latitude": 13.431144199999999,
+    "longitude": 79.5603173,
+    "place_id": "ChIJo6aDYABbTToR_g49MovORkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6aDYABbTToR_g49MovORkw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:02:25"
+  },
+  {
+    "business_name": "Friends pg for gents",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "517193",
+    "phone_number": "+91 80881 16699",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 31,
+    "address": "Sangam function hall, Kadiri Rd, Society Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "Society Colony",
+    "latitude": 13.564172899999999,
+    "longitude": 78.49910729999999,
+    "place_id": "ChIJiXjio0dnsjsRsdvDgSm0nqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXjio0dnsjsRsdvDgSm0nqo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:02:25"
+  }
+]

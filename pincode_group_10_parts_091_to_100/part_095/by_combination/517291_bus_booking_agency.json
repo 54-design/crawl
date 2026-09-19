@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS TRAVELS BUS BOOKING",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "517291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QHJQ+G9H, NH340, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517291",
+    "latitude": 13.7813205,
+    "longitude": 78.5884908,
+    "place_id": "ChIJC18f3RZZsjsRpjAUb3QWYzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC18f3RZZsjsRpjAUb3QWYzo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:23"
+  },
+  {
+    "business_name": "Naga Bhushana Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "517291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Reddivaripalle, Mittapallepost, Madanapalle, Andhra Pradesh 517319",
+    "area": "Mittapallepost",
+    "latitude": 13.644082099999999,
+    "longitude": 78.531842,
+    "place_id": "ChIJ4cpEbjxnsjsRj1F2fB2O84o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cpEbjxnsjsRj1F2fB2O84o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:23"
+  }
+]

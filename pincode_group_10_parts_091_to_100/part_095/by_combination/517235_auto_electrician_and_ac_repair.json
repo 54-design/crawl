@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grace Auto Electricals",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "517235",
+    "phone_number": "+91 98465 56877",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 31,
+    "address": "Chalakudy, Keralam 680307",
+    "area": "517235",
+    "latitude": 10.3060051,
+    "longitude": 76.335129,
+    "place_id": "ChIJL88rKWoCCDsRNqL4QJwofjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL88rKWoCCDsRNqL4QJwofjw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:47"
+  },
+  {
+    "business_name": "Super Car A C",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Car repair and maintenance service, Auto Accessories Store, Car dealer",
+    "pincode": "517235",
+    "phone_number": "+91 94246 02853",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 19,
+    "address": "Shop No, 31, Karbala Rd, near Old RTO Office, Kohefiza, Sajida Nagar, Bhopal, Madhya Pradesh 462001",
+    "area": "Kohefiza, Sajida Nagar",
+    "latitude": 23.261267999999998,
+    "longitude": 77.38555,
+    "place_id": "ChIJ29FAvQVofDkRNYssRCekU60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29FAvQVofDkRNYssRCekU60",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:49"
+  }
+]

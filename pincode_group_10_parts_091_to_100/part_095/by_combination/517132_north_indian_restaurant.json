@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Masaledaar Dhaba - Vellore",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Restaurant",
+    "pincode": "517132",
+    "phone_number": "+91 95972 96611",
+    "website": "http://www.masaledaar.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ashokan plaza, VIT Rd, Solai Nagar, Katpadi, Vellore, Tamil Nadu 632014",
+    "area": "Solai Nagar, Katpadi",
+    "latitude": 12.9680699,
+    "longitude": 79.14928189999999,
+    "place_id": "ChIJkTKHjERHrTsRMqcq6tgM4p8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTKHjERHrTsRMqcq6tgM4p8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:44"
+  },
+  {
+    "business_name": "Tara Maa Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Indian restaurant",
+    "pincode": "517132",
+    "phone_number": "+91 96556 94838",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Kangayanellore Rd, Vaibhav Nagar, Katpadi, Vellore, Tamil Nadu 632014",
+    "area": "Vaibhav Nagar, Katpadi",
+    "latitude": 12.967022,
+    "longitude": 79.15678179999999,
+    "place_id": "ChIJFSCPsZ9HrTsRDpQk9T51bcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSCPsZ9HrTsRDpQk9T51bcE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:44"
+  }
+]

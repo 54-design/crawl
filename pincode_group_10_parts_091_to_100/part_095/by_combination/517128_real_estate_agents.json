@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHAraj's Home",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-6, vijayapuram, Madhavaram, Chittoor, Andhra Pradesh 517128",
+    "area": "vijayapuram",
+    "latitude": 13.1765183,
+    "longitude": 79.0702045,
+    "place_id": "ChIJu4SvFwBdrTsRNqSNqxlmetY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4SvFwBdrTsRNqSNqxlmetY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:54"
+  },
+  {
+    "business_name": "B D Naidu Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "http://www.mytoletindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "44C3+WV6, Chukkavaripalli, Gudipala, Chittoor, Andhra Pradesh 517132",
+    "area": "Chukkavaripalli",
+    "latitude": 13.1222775,
+    "longitude": 79.1046497,
+    "place_id": "ChIJ0RaULQBDrTsRYqgVTUmN6_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RaULQBDrTsRYqgVTUmN6_Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:57"
+  }
+]

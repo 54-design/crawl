@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna Children's Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Medical clinic",
+    "pincode": "516434",
+    "phone_number": "+91 63001 85300",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 75,
+    "address": "bus stop, Ravella complex, beside crown bakery, near sujatha nagar, Pendurthi, Chinnamusidivada, Andhra Pradesh 530051",
+    "area": "B Zone, Sujatha Nagar, Pendurthi",
+    "latitude": 17.8001731,
+    "longitude": 83.2105976,
+    "place_id": "ChIJI63tST1nOToRoIdN88IShoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI63tST1nOToRoIdN88IShoQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:26"
+  },
+  {
+    "business_name": "SR childrens clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516434",
+    "phone_number": "+91 91773 36125",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Changed to SR, Saranya neruo care, Super speciality clinics, AP Vajravelu Chetty St, RS Pet, Bairaganipalle (Rural), Andhra Pradesh 517425",
+    "area": "RS Pet",
+    "latitude": 12.750573699999999,
+    "longitude": 78.34144429999999,
+    "place_id": "ChIJczsOo8W5rTsRK5nDtbsFBAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczsOo8W5rTsRK5nDtbsFBAo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:04:29"
+  }
+]

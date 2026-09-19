@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "royals garden",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "516362",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QH78+732, APHB Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "APHB Colony",
+    "latitude": 14.7631543,
+    "longitude": 78.56514399999999,
+    "place_id": "ChIJ6xJKcgB5tDsR8YfeBz7SuoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xJKcgB5tDsR8YfeBz7SuoE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:45:09"
+  },
+  {
+    "business_name": "Vyra Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516362",
+    "phone_number": "+91 95425 46111",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 5021,
+    "address": "Tetagunta, East Godavari, NH-5, Rajahmundry Annavaram, Road, Tuni, Andhra Pradesh 533406",
+    "area": "516362",
+    "latitude": 17.3090462,
+    "longitude": 82.4490087,
+    "place_id": "ChIJWWKSXRTPOToRlJ94fIXVq9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWKSXRTPOToRlJ94fIXVq9Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:45:11"
+  }
+]

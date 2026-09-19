@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Green Park",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517299",
+    "phone_number": "+91 90521 75929",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 13,
+    "address": "9-98, kothapeta Street, Sitaram Theatre Road, opp. Padmavathi Printers, Vayalpadu, Andhra Pradesh 517299",
+    "area": "517299",
+    "latitude": 13.636394699999999,
+    "longitude": 78.62873739999999,
+    "place_id": "ChIJze5sRElhsjsRcUqwxxwQotg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJze5sRElhsjsRcUqwxxwQotg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:26:20"
+  },
+  {
+    "business_name": "Biryani Diaries",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517299",
+    "phone_number": "N/A",
+    "website": "https://biryani-diaries.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "MIG1-17/6, near SJ Ice Cream Parlour, Jawahar Nagar, Bhilai, Jawahar Nagar, Chhattisgarh 490023",
+    "area": "Jawahar Nagar",
+    "latitude": 21.2236804,
+    "longitude": 81.3671037,
+    "place_id": "ChIJk-F6ETo9KToR8zXXSPxgDvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-F6ETo9KToR8zXXSPxgDvg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:26:23"
+  }
+]

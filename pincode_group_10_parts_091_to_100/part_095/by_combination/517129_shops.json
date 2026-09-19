@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cherishma",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8XFG+8FV, MDR148, Cherlopalle, Puthramaddi, Andhra Pradesh 517129",
+    "area": "517129",
+    "latitude": 13.3233711,
+    "longitude": 78.9761662,
+    "place_id": "ChIJm_tmO2WfsjsRElpcq55KGr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_tmO2WfsjsRElpcq55KGr0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:48:56"
+  },
+  {
+    "business_name": "Sri Durga Banana whole sellers Thavanampalli",
+    "search_category": "Shops",
+    "primary_category": "Agricultural production",
+    "all_categories": "Agricultural production",
+    "pincode": "517129",
+    "phone_number": "+91 93984 73025",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "Thavanampalli, Chittoor, Thavanam Palli, Andhra Pradesh 517131",
+    "area": "Thavanampalli",
+    "latitude": 13.262625199999999,
+    "longitude": 79.0063583,
+    "place_id": "ChIJD4IHDAdhrTsRPCc_L_8jW3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4IHDAdhrTsRPCc_L_8jW3E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:48:59"
+  }
+]

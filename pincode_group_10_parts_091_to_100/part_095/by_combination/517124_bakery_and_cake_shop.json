@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS BAKES SWEET & CAFE",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517124",
+    "phone_number": "+91 85900 51173",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 81,
+    "address": "Karvetinagaram Rd, Puttur, Andhra Pradesh 517583",
+    "area": "517124",
+    "latitude": 13.4378523,
+    "longitude": 79.5437812,
+    "place_id": "ChIJea3RHTRRTToR0qlbb3MubEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJea3RHTRRTToR0qlbb3MubEc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:28"
+  },
+  {
+    "business_name": "Muthyalamma Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517124",
+    "phone_number": "+91 94946 98089",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 20,
+    "address": "639M+3XW, Thenabanda, Thenabanda Dargah, Thenebanda, Andhra Pradesh 517004",
+    "area": "Thenabanda, Thenabanda Dargah",
+    "latitude": 13.217731899999999,
+    "longitude": 79.08495769999999,
+    "place_id": "ChIJVXbXx59erTsRiYaGAKfkECI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXbXx59erTsRiYaGAKfkECI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paavan clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "516501",
+    "phone_number": "+91 95150 03352",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Circle, near Park, Indira Nagar, Māmillapalle, Andhra Pradesh 516004",
+    "area": "Indira Nagar",
+    "latitude": 14.428764999999999,
+    "longitude": 78.8479523,
+    "place_id": "ChIJrTbdf05tszsRqaiupZ-qS8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTbdf05tszsRqaiupZ-qS8k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:16:11"
+  },
+  {
+    "business_name": "Physiotherapy service",
+    "search_category": "Clinics",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "516501",
+    "phone_number": "+91 70504 47923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CVR4+7M9, Rims Hospital Rd, Puttampalli, Andhra Pradesh 516002",
+    "area": "516501",
+    "latitude": 14.4406638,
+    "longitude": 78.85672199999999,
+    "place_id": "ChIJ27c-CwBtszsRtVdcWIZU1-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27c-CwBtszsRtVdcWIZU1-k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:16:14"
+  }
+]

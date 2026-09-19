@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517213",
+    "phone_number": "+91 91005 22323",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road No. 6, Vijaya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vijaya Nagar Colony, Kukatpally",
+    "latitude": 17.500097399999998,
+    "longitude": 78.4112348,
+    "place_id": "ChIJNbgiCGCRyzsR4kPGpyO9uWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbgiCGCRyzsR4kPGpyO9uWk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:03"
+  },
+  {
+    "business_name": "Moms Cloud Kitchenn",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "517213",
+    "phone_number": "+91 89776 28082",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RK Villa, 36-72, Defence Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Defence Colony, Sainikpuri",
+    "latitude": 17.4869959,
+    "longitude": 78.5370382,
+    "place_id": "ChIJJRPmsEObyzsRRKXdNoUQSS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRPmsEObyzsRRKXdNoUQSS0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:04"
+  }
+]

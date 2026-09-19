@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratvi Natural Products",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "516454",
+    "phone_number": "+91 95975 74040",
+    "website": "https://www.pratviayurveda.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No-39F, Borewell Thottam, Srinivasanagar Rd, Samraj Avenue, Narasimhanaickenpalayam, Coimbatore, Tamil Nadu 641031",
+    "area": "Samraj Avenue",
+    "latitude": 11.122154,
+    "longitude": 76.9390324,
+    "place_id": "ChIJR87EEdH3qDsRgKrsOHf4zEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR87EEdH3qDsRgKrsOHf4zEA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:54"
+  },
+  {
+    "business_name": "Natural Herb Ayurveda",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Weight loss service",
+    "all_categories": "Weight loss service, Ayurvedic clinic",
+    "pincode": "516454",
+    "phone_number": "+91 70115 08734",
+    "website": "http://naturalherbayurveda.com/",
+    "rating": 2.7,
+    "reviews_count": 10,
+    "address": "C10, 1st floor, opp. Piller No 702, Gulab Bhag, Block E, Om Vihar, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Gulab Bhag, Block E, Om Vihar, Uttam Nagar",
+    "latitude": 28.6211041,
+    "longitude": 77.0529846,
+    "place_id": "ChIJBQGc5y8FDTkRTFXEZ3oC0J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQGc5y8FDTkRTFXEZ3oC0J0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:57"
+  }
+]

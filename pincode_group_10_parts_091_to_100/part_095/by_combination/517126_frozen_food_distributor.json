@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foods and Inns Ltd.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "517126",
+    "phone_number": "+91 22 2353 3104",
+    "website": "http://www.foodsandinns.com/",
+    "rating": 4.1,
+    "reviews_count": 167,
+    "address": "SH 9, Palluru, Bomma Samudram, Andhra Pradesh 517132",
+    "area": "Palluru",
+    "latitude": 13.044576399999999,
+    "longitude": 79.1376865,
+    "place_id": "ChIJHa6TiCNErTsR_5Yf_ZvWzLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHa6TiCNErTsR_5Yf_ZvWzLY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:41:59"
+  },
+  {
+    "business_name": "Feel Fresh Foods Pvt Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "517126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 27,
+    "address": "7X3V+RX, Mittapalli, Thavanam Palli, Andhra Pradesh 517131",
+    "area": "517126",
+    "latitude": 13.2545367,
+    "longitude": 78.9948957,
+    "place_id": "ChIJizRuMythrTsRikg7tZVZ8OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizRuMythrTsRikg7tZVZ8OA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:41:59"
+  }
+]

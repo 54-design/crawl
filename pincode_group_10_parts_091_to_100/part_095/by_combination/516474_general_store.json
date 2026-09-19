@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bavya Sree Genral Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516474",
+    "phone_number": "+91 99086 92482",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dattpuram, Tadipatri, K.Sugumanchipalle, Andhra Pradesh 516474",
+    "area": "Dattpuram",
+    "latitude": 14.838788399999999,
+    "longitude": 78.1085044,
+    "place_id": "ChIJgdMKGy0FtDsRLdzOcA5rsEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdMKGy0FtDsRLdzOcA5rsEk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:12:27"
+  },
+  {
+    "business_name": "MTR GENERAL STORES",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516474",
+    "phone_number": "+91 85000 77098",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "26/10, Gandhi Bazar Rd, Gandhi Bazar, Old Town, Anantapur, Andhra Pradesh 515005",
+    "area": "Gandhi Bazar, Old Town",
+    "latitude": 14.6774439,
+    "longitude": 77.60805479999999,
+    "place_id": "ChIJzTOGcQBLsTsR0CL-DybaSIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTOGcQBLsTsR0CL-DybaSIA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:12:29"
+  }
+]

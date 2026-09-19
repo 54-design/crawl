@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Traders",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "517235",
+    "phone_number": "+91 98153 31988",
+    "website": "https://www.facebook.com/sharmatraders43",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ground floor, SCF 43, Street 4, Sector 4, Panchkula, Haryana 134112",
+    "area": "Sector 4",
+    "latitude": 30.6907015,
+    "longitude": 76.86032039999999,
+    "place_id": "ChIJjdjNz2STDzkRbWBQ6UFaycg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdjNz2STDzkRbWBQ6UFaycg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:11:06"
+  },
+  {
+    "business_name": "Mahalaxmi Best Price",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Appliance store, Clothing Accessories Store",
+    "pincode": "517235",
+    "phone_number": "+91 82669 19191",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Guru Nanak Nagar Rd, near Jain Mandir, Shambhu Nagar, Beripura, Meerut, Uttar Pradesh 250002",
+    "area": "Shambhu Nagar, Beripura",
+    "latitude": 28.9701211,
+    "longitude": 77.68512609999999,
+    "place_id": "ChIJoUUfdkNkDDkRIYe5LZQGjXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUUfdkNkDDkRIYe5LZQGjXU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:11:06"
+  }
+]

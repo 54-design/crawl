@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramky One Krystal",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex, Villa",
+    "pincode": "516411",
+    "phone_number": "+91 90000 19971",
+    "website": "https://www.ramkyonekrystal.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sales Office, P5FW+CPJ Ramky Estates & Farms Ltd - Vizag, Ramky One Krystal, Godavari Layout, Gavara JaggayapalemSheela Nagar, Visakhapatnam, Kotta Narava, Andhra Pradesh 530012",
+    "area": "Godavari Layout, Gavara JaggayapalemSheela Nagar",
+    "latitude": 17.7235625,
+    "longitude": 83.1968125,
+    "place_id": "ChIJYchNJTBpOToRufCOOThGWEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYchNJTBpOToRufCOOThGWEY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:56:51"
+  },
+  {
+    "business_name": "Premium Property Advisor",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "516411",
+    "phone_number": "+91 72782 00001",
+    "website": "http://www.premiumpropertyadvisor.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "54-D, opposite Dr. Kalicharan, D-Block, Sarabha Nagar, Ludhiana, Punjab 141008",
+    "area": "D-Block, Sarabha Nagar",
+    "latitude": 30.890337499999998,
+    "longitude": 75.8198421,
+    "place_id": "ChIJVbuTwCaDGjkRLxrcE52_zq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbuTwCaDGjkRLxrcE52_zq8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:56:52"
+  }
+]

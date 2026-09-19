@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A K S Flower Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "517124",
+    "phone_number": "+91 94419 47991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2174477,
+    "longitude": 79.0986291,
+    "place_id": "ChIJp6qpfW5frTsRCzK1GZOE7e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6qpfW5frTsRCzK1GZOE7e0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:37"
+  },
+  {
+    "business_name": "Sudha Dress",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "517124",
+    "phone_number": "+91 91820 93053",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2172275,
+    "longitude": 79.0989256,
+    "place_id": "ChIJTa_BRjdfrTsReEnolstJDBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTa_BRjdfrTsReEnolstJDBY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:39"
+  }
+]

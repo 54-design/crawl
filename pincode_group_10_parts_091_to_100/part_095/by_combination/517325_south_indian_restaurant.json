@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudha Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "517325",
+    "phone_number": "+91 96181 40440",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "16/362, Chittoor Bus Stand Rd, R Redappa Naidu Colony, Rama Gopal Naidu Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "R Redappa Naidu Colony, Rama Gopal Naidu Colony",
+    "latitude": 13.5502954,
+    "longitude": 78.51052829999999,
+    "place_id": "ChIJNXuARNdlsjsR2f3Xxz2VWAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXuARNdlsjsR2f3Xxz2VWAE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:39"
+  },
+  {
+    "business_name": "Suseelamma tiffin centre",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "517325",
+    "phone_number": "+91 80089 67297",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nimmanapalli Rd, near Hanuman chats, basinikondha, Police Residential Quarters, Madanapalle, Basinikonda Rural, Andhra Pradesh 517325",
+    "area": "basinikondha, Police Residential Quarters",
+    "latitude": 13.548965599999999,
+    "longitude": 78.5255162,
+    "place_id": "ChIJbQWNQFNlsjsRk32VnZCLfuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQWNQFNlsjsRk32VnZCLfuw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:40"
+  }
+]

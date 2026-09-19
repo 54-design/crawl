@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdish ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "517305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shahaji Nagar, Deglur, Maharashtra 431717",
+    "area": "Shahaji Nagar",
+    "latitude": 18.5486318,
+    "longitude": 77.5761278,
+    "place_id": "ChIJ48r2lhRnzjsRT984rvPXrEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48r2lhRnzjsRT984rvPXrEI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:06"
+  },
+  {
+    "business_name": "Polar Bear Ice Cream Sundaes - Panduranga Nagar",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Confectionery store, Sweets and dessert buffet, Frozen yogurt shop",
+    "pincode": "517305",
+    "phone_number": "+91 99023 50222",
+    "website": "http://www.polarbear.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "71, Bannerghatta Rd, near HSBC Building, Panduranga Nagar, Bengaluru, Karnataka 560076",
+    "area": "Panduranga Nagar",
+    "latitude": 12.892434699999999,
+    "longitude": 77.59791659999999,
+    "place_id": "ChIJX86_6iQVrjsR2mNMdK7hIWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX86_6iQVrjsR2mNMdK7hIWg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:08"
+  }
+]

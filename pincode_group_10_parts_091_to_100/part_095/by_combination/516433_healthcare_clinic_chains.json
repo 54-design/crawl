@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "QJ3X+R3C, Bypass Road, Mylavaram, Andhra Pradesh 521230",
+    "area": "516433",
+    "latitude": 16.7545541,
+    "longitude": 80.6476302,
+    "place_id": "ChIJcw8VFADdNToRBzDKjuDbQug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcw8VFADdNToRBzDKjuDbQug",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:47"
+  },
+  {
+    "business_name": "Canly Clear vision eye hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516433",
+    "phone_number": "+91 89771 45615",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "back side, Bus Stand, near Praja vidyasala, Raha street, Mylavaram, Andhra Pradesh 521230",
+    "area": "516433",
+    "latitude": 16.7611348,
+    "longitude": 80.6429193,
+    "place_id": "ChIJ5wfnw8jdNToR1eBqsqxqc8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wfnw8jdNToR1eBqsqxqc8E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:47"
+  }
+]

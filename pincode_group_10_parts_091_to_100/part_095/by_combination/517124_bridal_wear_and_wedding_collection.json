@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandana Ramesh Shopping Mall",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing Accessories Store",
+    "pincode": "517124",
+    "phone_number": "+91 85722 31319",
+    "website": "http://www.chandanaramesh.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "6492+H84, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2188889,
+    "longitude": 79.10083329999999,
+    "place_id": "ChIJV28ITKherTsRNjc5hMl5XYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV28ITKherTsRNjc5hMl5XYs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:42"
+  },
+  {
+    "business_name": "Srisai Creations",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Cell phone accessory store, Cell phone store, Gift shop",
+    "pincode": "517124",
+    "phone_number": "+91 88979 07390",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kanipakam Main Rd, Agarampalle, Kanipakam, Andhra Pradesh 517131",
+    "area": "Agarampalle",
+    "latitude": 13.2770826,
+    "longitude": 79.0418423,
+    "place_id": "ChIJX7kfUsFfrTsRcV3NVZ79CYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7kfUsFfrTsRcV3NVZ79CYg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:43"
+  }
+]

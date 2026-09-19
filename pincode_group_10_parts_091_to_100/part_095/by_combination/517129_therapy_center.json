@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganta Neuro Hospitals",
+    "search_category": "Therapy Center",
+    "primary_category": "Neurologist",
+    "all_categories": "Neurologist, Neurosurgeon",
+    "pincode": "517129",
+    "phone_number": "+91 63048 62259",
+    "website": "https://www.gantaneurohospitals.com/",
+    "rating": 4.8,
+    "reviews_count": 443,
+    "address": "10-13-529, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6355144,
+    "longitude": 79.4203713,
+    "place_id": "ChIJ95Vgo-VLTToR26S55IDl3AU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95Vgo-VLTToR26S55IDl3AU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:48:13"
+  },
+  {
+    "business_name": "K A M Speech and Hearing Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist",
+    "pincode": "517129",
+    "phone_number": "+91 77088 28430",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "No 2/3, South service road, Phase I, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "area": "Phase I, Sathuvachari",
+    "latitude": 12.9422134,
+    "longitude": 79.18603019999999,
+    "place_id": "ChIJpyXVAFs5rTsRKWpQ1vSlwv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyXVAFs5rTsRKWpQ1vSlwv8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:48:14"
+  }
+]

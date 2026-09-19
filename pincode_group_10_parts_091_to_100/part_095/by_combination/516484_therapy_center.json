@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VINUKONDA PHYSIOTHERAPY CLINIC",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "516484",
+    "phone_number": "+91 89194 73531",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lawyer Saida rao office, Axis Bank Area, Lawyer street, line, Rd, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0522565,
+    "longitude": 79.7415005,
+    "place_id": "ChIJ_WrRMgCXSjoReLHYSnzOnjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WrRMgCXSjoReLHYSnzOnjg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:15:01"
+  },
+  {
+    "business_name": "Mahatma Gandhi Institute For Comprehensive Healthcare",
+    "search_category": "Therapy Center",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Home health care service, Psychologist",
+    "pincode": "516484",
+    "phone_number": "+91 863 222 3111",
+    "website": "https://mgicmh.org/",
+    "rating": 4.9,
+    "reviews_count": 344,
+    "address": "7CXX+8X3, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2979439,
+    "longitude": 80.4486611,
+    "place_id": "ChIJPwAAAMwKSjoRPdDJqZrpBAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwAAAMwKSjoRPdDJqZrpBAA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:15:03"
+  }
+]

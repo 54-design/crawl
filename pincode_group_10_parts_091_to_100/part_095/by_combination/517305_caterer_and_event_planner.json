@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjappar Chettinad Restaurant",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Andhra restaurant, Breakfast restaurant, Chettinad restaurant, Family restaurant, Indian restaurant, Non Vegetarian Restaurant, North Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "517305",
+    "phone_number": "+91 95662 80632",
+    "website": "https://www.anjappar.com/",
+    "rating": 3.8,
+    "reviews_count": 6271,
+    "address": "211, Mount Poonamallee Rd, near Madha Church, opp. Police Station, Theru Veedhi Amman Koil Streets, Porur, Chennai, Tamil Nadu 600116",
+    "area": "Theru Veedhi Amman Koil Streets, Porur",
+    "latitude": 13.0337819,
+    "longitude": 80.1604627,
+    "place_id": "ChIJj1BqwE5mUjoRfJpDWn-RAtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1BqwE5mUjoRfJpDWn-RAtg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:58"
+  },
+  {
+    "business_name": "Akshaya Deluxe",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Seafood restaurant",
+    "all_categories": "Seafood restaurant, Family restaurant, Fast food restaurant, Karnataka restaurant, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "517305",
+    "phone_number": "+91 88610 59388",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 4295,
+    "address": "Chickkamaranahalli, 21, New BEL Rd, opposite Indian Bank, M S R Nagar, R.M.V. 2nd Stage, Bengaluru, Karnataka 560054",
+    "area": "M S R Nagar, R.M.V. 2nd Stage",
+    "latitude": 13.0374073,
+    "longitude": 77.5654228,
+    "place_id": "ChIJ02FpnOEXrjsRS3GiiKa-APc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02FpnOEXrjsRS3GiiKa-APc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TR Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517193",
+    "phone_number": "+91 77080 07026",
+    "website": "https://trskinclinic.com/",
+    "rating": 4.2,
+    "reviews_count": 134,
+    "address": "Vijaya health centre, 175, NSK Salai Rd, next to Shell petrol bunk, Ottagapalayam, Kannika Puram, Vadapalani, Chennai, Tamil Nadu 600026",
+    "area": "Ottagapalayam, Kannika Puram, Vadapalani",
+    "latitude": 13.0478904,
+    "longitude": 80.206732,
+    "place_id": "ChIJNzAz0ZFnUjoRisAc5Vm4SB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzAz0ZFnUjoRisAc5Vm4SB4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:01:48"
+  },
+  {
+    "business_name": "SkinOcare- Skin & Hair Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Beauty supply store, Cosmetic surgeon, Hair transplantation clinic, Health and beauty shop, Dermatologist",
+    "pincode": "517193",
+    "phone_number": "+91 90368 53031",
+    "website": "https://skinocareapp.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Second Floor, K S Arcade, 63/1, 2nd Cross Rd, above Med Plus pharma, Virat Nagar, Bommanahalli, Bengaluru, Karnataka 560068",
+    "area": "Virat Nagar, Bommanahalli",
+    "latitude": 12.903462399999999,
+    "longitude": 77.6225371,
+    "place_id": "ChIJX7bVmeIVrjsRDi3eT1Dw7-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7bVmeIVrjsRDi3eT1Dw7-o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:01:49"
+  }
+]

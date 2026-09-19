@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Menghraj",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "517291",
+    "phone_number": "+91 74830 85374",
+    "website": "https://menghraj.com/",
+    "rating": 4.9,
+    "reviews_count": 614,
+    "address": "BLOCK-D, D7, JC Rd, Bengaluru, Karnataka 560027",
+    "area": "517291",
+    "latitude": 12.964576899999999,
+    "longitude": 77.58638069999999,
+    "place_id": "ChIJmzD0ud8VrjsRt_kzrJTGI_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzD0ud8VrjsRt_kzrJTGI_A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:03"
+  },
+  {
+    "business_name": "MP Jewellers - MPJ HSR",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Goldsmith, Jeweler, Jewelry designer",
+    "pincode": "517291",
+    "phone_number": "+91 89515 16161",
+    "website": "http://mpjewellershsr.com/",
+    "rating": 4,
+    "reviews_count": 972,
+    "address": "249, 19th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 4, HSR Layout",
+    "latitude": 12.9132967,
+    "longitude": 77.6444471,
+    "place_id": "ChIJ19dbLIUUrjsRiA_HXYLsbmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19dbLIUUrjsRiA_HXYLsbmM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:03"
+  }
+]

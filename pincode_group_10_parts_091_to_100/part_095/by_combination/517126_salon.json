@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavani beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "517126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "75V5+W3P, Penumur Rd, Devikapuram, Sathambakam, Andhra Pradesh 517127",
+    "area": "Devikapuram",
+    "latitude": 13.2949142,
+    "longitude": 79.1577004,
+    "place_id": "ChIJe8FCSgBZrTsRoUAHmqvecII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8FCSgBZrTsRoUAHmqvecII",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:42:46"
+  },
+  {
+    "business_name": "SLV saloon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "517126",
+    "phone_number": "+91 94404 87858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "959W+4HF, beside Radhakrishna cine theatre, Penumuru, Penumur, Andhra Pradesh 517126",
+    "area": "Penumuru",
+    "latitude": 13.3678172,
+    "longitude": 79.196429,
+    "place_id": "ChIJk9enEwCnsjsRhFF8sPWcWs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9enEwCnsjsRhFF8sPWcWs0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:42:47"
+  }
+]

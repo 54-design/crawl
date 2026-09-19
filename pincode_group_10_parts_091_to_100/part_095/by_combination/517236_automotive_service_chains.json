@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "517236",
+    "phone_number": "+91 94410 11330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manju Complex, 6-1353, MG Road, Venkatagirikota, Andhra Pradesh 517424",
+    "area": "517236",
+    "latitude": 13.0021765,
+    "longitude": 78.4819563,
+    "place_id": "ChIJs8w15PuZrTsRqxbw7_RfY3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8w15PuZrTsRqxbw7_RfY3I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:12:40"
+  },
+  {
+    "business_name": "Car repair",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "517236",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Car repair, 517236, India",
+    "area": "517236",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJD_pFClfTNDoRkHaid3h4tdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_pFClfTNDoRkHaid3h4tdQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:12:41"
+  }
+]

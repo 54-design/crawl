@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Dhaba And Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "516464",
+    "phone_number": "+91 94402 21963",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 124,
+    "address": "Tadipatri, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "516464",
+    "latitude": 14.894760199999999,
+    "longitude": 78.03194979999999,
+    "place_id": "ChIJpXkPgasEtDsRGq0A442UGOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXkPgasEtDsRGq0A442UGOY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:10:55"
+  },
+  {
+    "business_name": "DAAWATH MULTI CUISINE FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516464",
+    "phone_number": "+91 95737 27749",
+    "website": "https://daawath.github.io/",
+    "rating": 4.1,
+    "reviews_count": 152,
+    "address": "PATHIPATI BUILDING, Kadapa - Tirupati Rd, Utukuru, Andhra Pradesh 516115",
+    "area": "516464",
+    "latitude": 14.1874156,
+    "longitude": 79.16741809999999,
+    "place_id": "ChIJuUDRcwAlszsRJQzFeuI9HGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUDRcwAlszsRJQzFeuI9HGE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:10:58"
+  }
+]

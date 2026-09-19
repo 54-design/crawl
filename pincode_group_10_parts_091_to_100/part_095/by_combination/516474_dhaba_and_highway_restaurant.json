@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siva Cafe & Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Cafe",
+    "pincode": "516474",
+    "phone_number": "+91 91605 75202",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W245+H78, Reddyvari Palem, Tadpatri Rural, Andhra Pradesh 515411",
+    "area": "Reddyvari Palem",
+    "latitude": 14.9064155,
+    "longitude": 78.0082139,
+    "place_id": "ChIJodlMiq0ctDsRRkMix70LyTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodlMiq0ctDsRRkMix70LyTs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:12:32"
+  },
+  {
+    "business_name": "Kamath Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "516474",
+    "phone_number": "+91 99126 27267",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "SH-44, Eluru - Jangareddygudem Rd, Denduluru, Jogannapuram, Denduluru, Andhra Pradesh 534450",
+    "area": "Denduluru",
+    "latitude": 16.8207935,
+    "longitude": 81.1568011,
+    "place_id": "ChIJj8PcaflpNjoRmOo_TjtSXu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8PcaflpNjoRmOo_TjtSXu4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:12:34"
+  }
+]

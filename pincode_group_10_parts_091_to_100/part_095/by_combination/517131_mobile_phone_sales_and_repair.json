@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "517131",
+    "phone_number": "+91 99771 17040",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No, Shri Balaji Regency, G-4, Airport Rd, SABJI MANDI, Kalani Nagar, Indore, Madhya Pradesh 452005",
+    "area": "SABJI MANDI, Kalani Nagar",
+    "latitude": 22.7230903,
+    "longitude": 75.8235266,
+    "place_id": "ChIJueShg-n9YjkRHHt45OfPn4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueShg-n9YjkRHHt45OfPn4c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:04"
+  },
+  {
+    "business_name": "SS Mobile Store",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "517131",
+    "phone_number": "+91 98930 83331",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "49-B Kalani Nagar Main Rd, Sabji Mandi Main Rd, Kalani Nagar, Indore, Madhya Pradesh 452005",
+    "area": "Kalani Nagar",
+    "latitude": 22.7245498,
+    "longitude": 75.8241525,
+    "place_id": "ChIJ6fqYYen9YjkRL6qxkBQqVKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fqYYen9YjkRL6qxkBQqVKA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:05"
+  }
+]

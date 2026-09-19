@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Kali Rice Shop",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "517235",
+    "phone_number": "+91 89677 55291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "P6F7+W8H, Krishna Ram Pur, West Bengal 712702",
+    "area": "517235",
+    "latitude": 22.7248385,
+    "longitude": 88.2133849,
+    "place_id": "ChIJNUu6YUyH-DkRakG8YNC99Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUu6YUyH-DkRakG8YNC99Xg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:13"
+  },
+  {
+    "business_name": "Sakthi Seeds",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "517235",
+    "phone_number": "+91 74010 35222",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "No. 36, Jaya complex, Natesan St, near Mambalam Railway Station, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Postal Colony, T. Nagar",
+    "latitude": 13.036868799999999,
+    "longitude": 80.2280589,
+    "place_id": "ChIJC62wy_9mUjoRaXd4KNtbhuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC62wy_9mUjoRaXd4KNtbhuU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:14"
+  }
+]

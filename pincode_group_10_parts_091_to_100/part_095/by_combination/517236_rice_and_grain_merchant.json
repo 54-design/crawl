@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RYTHUBIDDA NATURALS - DESI ORGANIC GROCERY STORE",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "517236",
+    "phone_number": "+91 75695 96175",
+    "website": "https://rythubidda.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3-5-V/580, Chaitanya Nagar, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Chaitanya Nagar, Vivekananda Nagar, Kukatpally",
+    "latitude": 17.4930192,
+    "longitude": 78.41163949999999,
+    "place_id": "ChIJG-oILQCRyzsR9Ya6oOsnHkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-oILQCRyzsR9Ya6oOsnHkY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:11:58"
+  },
+  {
+    "business_name": "RICE EXPORT",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Service establishment",
+    "pincode": "517236",
+    "phone_number": "+91 99705 54592",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RICE EXPORT, 517236, India",
+    "area": "517236",
+    "latitude": 21.3905673,
+    "longitude": 79.331362,
+    "place_id": "ChIJN8okM6_H1DsRbDepphaCyX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8okM6_H1DsRbDepphaCyX4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:11:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI VINAYAKA JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "517123",
+    "phone_number": "+91 75691 60456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bazaar Street, ROAD, N.P.T, Somala, Andhra Pradesh 517257",
+    "area": "N.P.T",
+    "latitude": 13.475893,
+    "longitude": 78.80858889999999,
+    "place_id": "ChIJeVJ3BJyFsjsRG9so-Z7-kiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVJ3BJyFsjsRG9so-Z7-kiw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:36:51"
+  },
+  {
+    "business_name": "SREEVARI JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "517123",
+    "phone_number": "+91 63851 87890",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "PRX4+FJG, Vellithiruppur, Hosur, Tamil Nadu 635126",
+    "area": "Vellithiruppur",
+    "latitude": 12.748687499999999,
+    "longitude": 77.8065625,
+    "place_id": "ChIJJWDPcwBxrjsRyUqm4rlGqkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWDPcwBxrjsRyUqm4rlGqkU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:36:53"
+  }
+]

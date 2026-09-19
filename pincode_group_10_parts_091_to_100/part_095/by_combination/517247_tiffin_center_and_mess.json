@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Ganesh Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "HF5X+R75, Krishna Nagar, Madanapalle, Andhra Pradesh 517325",
+    "area": "Krishna Nagar",
+    "latitude": 13.559522699999999,
+    "longitude": 78.49823649999999,
+    "place_id": "ChIJf_J3eHRmsjsRCcBweQCuEdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_J3eHRmsjsRCcBweQCuEdw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:15:43"
+  },
+  {
+    "business_name": "BALAJI MESS",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "517247",
+    "phone_number": "+91 96526 92349",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 136,
+    "address": "Anantapur-Tirupati Highway, Nethaji Colony, Madanapalle, Andhra Pradesh 517319",
+    "area": "517247",
+    "latitude": 13.637848,
+    "longitude": 78.55444709999999,
+    "place_id": "ChIJoVOmplpnsjsRjxt2uF-8LBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVOmplpnsjsRjxt2uF-8LBU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:15:43"
+  }
+]

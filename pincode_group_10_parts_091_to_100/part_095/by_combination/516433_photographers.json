@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sasi Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "516433",
+    "phone_number": "+91 84979 04704",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "RAJA GARI, opp. RAJA GOLD SHOP, Srinivas Nagar Colony, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Srinivas Nagar Colony",
+    "latitude": 16.1843738,
+    "longitude": 81.1334368,
+    "place_id": "ChIJXVGcAQDnSToRSIXpCqQD-BA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVGcAQDnSToRSIXpCqQD-BA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:03:16"
+  },
+  {
+    "business_name": "Navya Digital Studio",
+    "search_category": "Photographers",
+    "primary_category": "Portrait studio",
+    "all_categories": "Portrait studio, Gift shop, Photography studio, Wedding Portrait Studio",
+    "pincode": "516433",
+    "phone_number": "+91 93953 75456",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 40,
+    "address": "Reserve Police Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Reserve Police Quarters",
+    "latitude": 16.1862079,
+    "longitude": 81.1433727,
+    "place_id": "ChIJAYg295TnSToRoY8d7DyVQP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYg295TnSToRoY8d7DyVQP0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:03:16"
+  }
+]

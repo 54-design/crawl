@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sweet and cake Bakery and cold drinks wholesale",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "517291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, near Rehaman General store wholesale, Thurakapalli, Yellutla, Gurramkonda, Andhra Pradesh 517297",
+    "area": "Thurakapalli",
+    "latitude": 13.824671599999999,
+    "longitude": 78.5507986,
+    "place_id": "ChIJA0blhWZbsjsRhCyBZnA0qOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0blhWZbsjsRhCyBZnA0qOI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:51"
+  },
+  {
+    "business_name": "Sri Vinayaka Sweets & Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517291",
+    "phone_number": "+91 95022 32811",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "11, Main Road, Other, Gurram Konda, Madanapalle, Gurramkonda, Andhra Pradesh 517297",
+    "area": "Other, Gurram Konda",
+    "latitude": 13.7818405,
+    "longitude": 78.5894926,
+    "place_id": "ChIJMWb9WTZZsjsRJyYvj-a7vq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWb9WTZZsjsRJyYvj-a7vq0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:51"
+  }
+]

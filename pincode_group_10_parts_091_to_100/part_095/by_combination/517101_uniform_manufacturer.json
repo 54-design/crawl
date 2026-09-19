@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhuvaneswari Fashions",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "517101",
+    "phone_number": "+91 63045 99974",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no :5, next to clock tower, near bus dtand, Chandragiri, Andhra Pradesh 517501",
+    "area": "517101",
+    "latitude": 13.5882732,
+    "longitude": 79.31585729999999,
+    "place_id": "ChIJ-_p8xvSzsjsREN1x0ist8e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_p8xvSzsjsREN1x0ist8e0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:59"
+  },
+  {
+    "business_name": "Indira Ladies Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "517101",
+    "phone_number": "+91 90521 85366",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bobbu Street, opposite Bangalore Bakery, Chandragiri, Andhra Pradesh 517101",
+    "area": "517101",
+    "latitude": 13.5874211,
+    "longitude": 79.315777,
+    "place_id": "ChIJew8hYJSzsjsRXigDELkoIrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJew8hYJSzsjsRXigDELkoIrE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:59"
+  }
+]

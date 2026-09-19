@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Creative Monkeys",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, Graphic designer, Internet marketing service, Advertising agency, Marketing consultant, Video editing service, Video production service",
+    "pincode": "517131",
+    "phone_number": "+91 80752 57904",
+    "website": "https://www.creativemonkeys.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "1st Floor, Tee Tower, A. G. Rd, near Nalanda Hotel, Kuriyal Line, Kozhikode, Keralam 673001",
+    "area": "Kuriyal Line",
+    "latitude": 11.2551265,
+    "longitude": 75.7774361,
+    "place_id": "ChIJ0eH9nDdZpjsR-jB8OO53FFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0eH9nDdZpjsR-jB8OO53FFA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:25"
+  },
+  {
+    "business_name": "Webquick India OPC Pvt Ltd - Digital Marketing Agency",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Internet marketing service, Marketing consultant, Web hosting company, Website designer",
+    "pincode": "517131",
+    "phone_number": "+91 92056 58119",
+    "website": "https://webquickindia.com/",
+    "rating": 4.7,
+    "reviews_count": 217,
+    "address": "A-4 UG, opp. Raymond Showroom, Block A2, Block A, Rajouri Garden, New Delhi, Delhi, 110027",
+    "area": "Block A2, Block A, Rajouri Garden",
+    "latitude": 28.6492072,
+    "longitude": 77.1247662,
+    "place_id": "ChIJ4zG2VikDDTkRL73i42WGdtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zG2VikDDTkRL73i42WGdtU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:26"
+  }
+]

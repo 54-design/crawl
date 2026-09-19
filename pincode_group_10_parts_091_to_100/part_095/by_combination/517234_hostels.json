@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jntua boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "517234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "MQ3Q+QR9, Kalikiri, Andhra Pradesh 517234",
+    "area": "517234",
+    "latitude": 13.6544198,
+    "longitude": 78.7896161,
+    "place_id": "ChIJ89LoLwCNsjsRkKBPdes5ZLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89LoLwCNsjsRkKBPdes5ZLU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:09:29"
+  },
+  {
+    "business_name": "JNTU Staff Quaters",
+    "search_category": "Hostels",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "517234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 40,
+    "address": "MQ3M+X4C, Thatiguntapalle, Andhra Pradesh 517234",
+    "area": "517234",
+    "latitude": 13.6549406,
+    "longitude": 78.7827588,
+    "place_id": "ChIJGzDDaNKMsjsR0fwuPhNoXr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzDDaNKMsjsR0fwuPhNoXr8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:09:30"
+  }
+]

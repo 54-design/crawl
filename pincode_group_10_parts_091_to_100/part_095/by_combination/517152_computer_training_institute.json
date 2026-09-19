@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Education Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer consultant",
+    "all_categories": "Computer consultant",
+    "pincode": "517152",
+    "phone_number": "+91 93292 06527",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Q3J8+P9J, Chhabora Road, Dabhara, Chhattisgarh 495688",
+    "area": "517152",
+    "latitude": 21.7818422,
+    "longitude": 83.0658929,
+    "place_id": "ChIJo4fbijcDJzoR5VzlfJY7CnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4fbijcDJzoR5VzlfJY7CnQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:55:30"
+  },
+  {
+    "business_name": "OM COMPUTER TRAINING CENTER",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "517152",
+    "phone_number": "+91 91651 79272",
+    "website": "http://omcomputertraining.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "FIRST FLOOR, AVIRAL COMPLEX, Rajim - Gariaband Rd, near SBI BANK, C.G, Rajim, Chhattisgarh 493885",
+    "area": "C.G",
+    "latitude": 20.9653571,
+    "longitude": 81.8826327,
+    "place_id": "ChIJBRvv7ri1KDoRSRwsRmGIXh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRvv7ri1KDoRSRwsRmGIXh0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:55:32"
+  }
+]

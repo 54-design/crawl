@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maverick Activations Pvt Ltd.",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "516454",
+    "phone_number": "+91 93003 50051",
+    "website": "http://maverickactivations.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Koma Khan House, Civil Lines, Raipur, Chhattisgarh 492001",
+    "area": "Civil Lines",
+    "latitude": 21.236610499999998,
+    "longitude": 81.6484327,
+    "place_id": "ChIJq6qq6g7dKDoRR6T-WbjdC7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6g7dKDoRR6T-WbjdC7A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:10:04"
+  },
+  {
+    "business_name": "Hydra Events and Productions",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Audio visual equipment supplier, Corporate office, Exhibition planner",
+    "pincode": "516454",
+    "phone_number": "+91 63099 26917",
+    "website": "https://www.hydraeventsandproductions.com/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Sai Krish Plaza, Officers Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Officers Colony, Sainikpuri",
+    "latitude": 17.483398299999998,
+    "longitude": 78.5514444,
+    "place_id": "ChIJawErfqubyzsRQGPlkxH3RvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawErfqubyzsRQGPlkxH3RvY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:10:07"
+  }
+]

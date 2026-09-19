@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Konaseema Pickles Zone Tirupati",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "517002",
+    "phone_number": "+91 81222 79559",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 107,
+    "address": "beside paradise restaurant, Kesavayana Gunta, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Kesavayana Gunta, Bairagi patteda",
+    "latitude": 13.6180835,
+    "longitude": 79.42449169999999,
+    "place_id": "ChIJxxz2N6FLTToRA6Dwe07i2m0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxz2N6FLTToRA6Dwe07i2m0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:26:24"
+  },
+  {
+    "business_name": "Indian Traders",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Rice shop",
+    "pincode": "517002",
+    "phone_number": "+91 95020 86863",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Long Bazar, 1-143, Venkatagirikota, Andhra Pradesh 517424",
+    "area": "517002",
+    "latitude": 13.0021799,
+    "longitude": 78.48823349999999,
+    "place_id": "ChIJjdKzxMmZrTsRVfrwk74ObPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdKzxMmZrTsRVfrwk74ObPM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:26:24"
+  }
+]

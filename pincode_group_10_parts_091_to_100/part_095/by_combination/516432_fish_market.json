@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arun Reddy Agro & Groceries",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "516432",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2-7, Regadipalle, Regadapalle, Jammalamadugu, Kallutla, Andhra Pradesh 516432",
+    "area": "Regadapalle",
+    "latitude": 14.9835636,
+    "longitude": 78.30871499999999,
+    "place_id": "ChIJM-Cx2cRttDsRplfmUwR7-kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-Cx2cRttDsRplfmUwR7-kM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:00:35"
+  },
+  {
+    "business_name": "Bollam venkataraju",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "516432",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bajaru street g, 3-103, Erragudi, Andhra Pradesh 518166",
+    "area": "516432",
+    "latitude": 14.988885799999998,
+    "longitude": 78.21542409999999,
+    "place_id": "ChIJWYZKYgATtDsRjMWa0eKA3IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYZKYgATtDsRjMWa0eKA3IM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:00:35"
+  }
+]

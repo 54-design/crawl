@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rehoboth",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Print shop, Foot massage parlor",
+    "pincode": "517280",
+    "phone_number": "+91 99809 10229",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "222, CMR Main Rd, near Jal Vayu Vihar, HRBR Layout 3rd Block, Keshava Nagar, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 3rd Block, Keshava Nagar, Kalyan Nagar",
+    "latitude": 13.0239377,
+    "longitude": 77.6333964,
+    "place_id": "ChIJoUOYXwAXrjsRb_LO8rJcypA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUOYXwAXrjsRb_LO8rJcypA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:21:54"
+  },
+  {
+    "business_name": "Dharva Wellness Hair And Skin Clinic's",
+    "search_category": "Wellness Center",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic",
+    "pincode": "517280",
+    "phone_number": "+91 88866 67728",
+    "website": "https://dharvawellnesshairandskinclinics.com/",
+    "rating": 4.9,
+    "reviews_count": 322,
+    "address": "Magunta layout, Under Bridge Rd, Saraswathi Nagar, Ambedkar Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Saraswathi Nagar, Ambedkar Nagar",
+    "latitude": 14.436826799999999,
+    "longitude": 79.97423649999999,
+    "place_id": "ChIJrcL8iLbzTDoR0BtiV1WOF7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcL8iLbzTDoR0BtiV1WOF7Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:21:54"
+  }
+]

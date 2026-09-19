@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shobha Diagnostic Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "516464",
+    "phone_number": "+91 99854 82131",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 259,
+    "address": "Sree Durga Hospital, Raman school, 1st Cross Rd, beside Shiridi Sai Sweets, Central Exchange Colony, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Central Exchange Colony, Sai Nagar",
+    "latitude": 14.6754818,
+    "longitude": 77.604826,
+    "place_id": "ChIJNwWeRLNFsTsRGuymtyCKI7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwWeRLNFsTsRGuymtyCKI7w",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:11:11"
+  },
+  {
+    "business_name": "Vesta Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "516464",
+    "phone_number": "+91 88844 44023",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 118,
+    "address": "Door no 12, 13/162, 5th Cross Rd, Sai Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Sai Nagar",
+    "latitude": 14.6729966,
+    "longitude": 77.60231499999999,
+    "place_id": "ChIJZXX31spLsTsRrJbIs9Ujybs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXX31spLsTsRrJbIs9Ujybs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:11:11"
+  }
+]

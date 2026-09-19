@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big Best Footwear & Bags",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517237",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Kadampazhipuram, Keralam 678633",
+    "area": "517237",
+    "latitude": 10.8741846,
+    "longitude": 76.44206439999999,
+    "place_id": "ChIJtzUyDgDXpzsR2Bkkx9jtKHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzUyDgDXpzsR2Bkkx9jtKHw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:14:02"
+  },
+  {
+    "business_name": "John's Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517237",
+    "phone_number": "+91 62385 47963",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kodumon, Keralam 691555",
+    "area": "517237",
+    "latitude": 9.186067,
+    "longitude": 76.7714538,
+    "place_id": "ChIJDfLdDgMTBjsRm8QJTHGBbmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfLdDgMTBjsRm8QJTHGBbmA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:14:02"
+  }
+]

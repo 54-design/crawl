@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ATS-CHITTOOR",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "517128",
+    "phone_number": "+91 98295 59313",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Near, RTO office @Nalagampalli, Nalagam palli, Andhra Pradesh 517416",
+    "area": "517128",
+    "latitude": 13.2011652,
+    "longitude": 78.95697009999999,
+    "place_id": "ChIJfTwZSHJnrTsRj_MC5qnbIf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTwZSHJnrTsRj_MC5qnbIf8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:00"
+  },
+  {
+    "business_name": "Fit R Fight Fitness GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Beside vinod electronics, Vellore Rd, opposite Anandha theatre, Chittoor, Andhra Pradesh 517002",
+    "area": "Valliappa Nagar",
+    "latitude": 13.1920036,
+    "longitude": 79.0950731,
+    "place_id": "ChIJTYXyndpdrTsR9wCDuHb42U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYXyndpdrTsR9wCDuHb42U0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:02"
+  }
+]

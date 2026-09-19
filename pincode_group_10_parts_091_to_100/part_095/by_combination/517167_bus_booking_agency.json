@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DB puram bus stop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "517167",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "59WC+XJX, Chittoor Main Rd, Krishnajammapuram, Vengalarajukuppam, Andhra Pradesh 517599",
+    "area": "517167",
+    "latitude": 13.1974776,
+    "longitude": 79.37160159999999,
+    "place_id": "ChIJyeLkFwBTrTsRNhJlohjfd38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeLkFwBTrTsRNhJlohjfd38",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:45"
+  },
+  {
+    "business_name": "Bus station",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "517167",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "59XC+2MG, Chittoor Main Rd, Krishnajammapuram, Vengalarajukuppam, Andhra Pradesh 517599",
+    "area": "517167",
+    "latitude": 13.1975722,
+    "longitude": 79.37171529999999,
+    "place_id": "ChIJuUkMbABTrTsR-5Yh-hJxwTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUkMbABTrTsR-5Yh-hJxwTk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhopa medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "517131",
+    "phone_number": "+91 70007 43244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 128,
+    "address": "11 mile tiraha near hanuman mandir sope no4Bhopal, NH 12, Bhopal, Madhya Pradesh 462047",
+    "area": "Indus Towne, Ratanpur Sadak",
+    "latitude": 23.1443989,
+    "longitude": 77.48206449999999,
+    "place_id": "ChIJR263Lr1GfDkR-PIcX9IwY2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR263Lr1GfDkR-PIcX9IwY2I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:51:07"
+  },
+  {
+    "business_name": "Oxygen Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "517131",
+    "phone_number": "+91 80835 85585",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 77,
+    "address": "Lane No. 10, near bus Stand, Laxmi Nagar, Jaysingpur, Maharashtra 416101",
+    "area": "Laxmi Nagar",
+    "latitude": 16.779467699999998,
+    "longitude": 74.5566777,
+    "place_id": "ChIJy9e3NQYfwTsRV4tvIV8e2WU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9e3NQYfwTsRV4tvIV8e2WU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

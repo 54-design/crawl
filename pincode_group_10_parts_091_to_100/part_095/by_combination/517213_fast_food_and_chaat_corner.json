@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paradise Pizza",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "517213",
+    "phone_number": "+91 88862 34586",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 230,
+    "address": "RR Road (Nethaji road, to, By pass Link Road, Bairaganipalle (Rural), Andhra Pradesh 517425",
+    "area": "517213",
+    "latitude": 12.749305399999999,
+    "longitude": 78.3473374,
+    "place_id": "ChIJOfVOQia5rTsRk5fEVGsMlMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfVOQia5rTsRk5fEVGsMlMQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:03"
+  },
+  {
+    "business_name": "Agra Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "32RF+829, Jagdalpur, Chhattisgarh 494001",
+    "area": "517213",
+    "latitude": 19.090905,
+    "longitude": 82.02268029999999,
+    "place_id": "ChIJ-YiuyBYTMDoR36K9UcycnVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YiuyBYTMDoR36K9UcycnVI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:03"
+  }
+]

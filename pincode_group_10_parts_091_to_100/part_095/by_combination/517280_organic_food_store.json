@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchagavya Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Dry Fruit Store, Health food store, Natural goods store, Organic shop, Rice shop, Store",
+    "pincode": "517280",
+    "phone_number": "+91 95500 50324",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 71,
+    "address": "7-4-409, Kashmirgadda, Karimnagar, Telangana 505001",
+    "area": "Kashmirgadda",
+    "latitude": 18.436778699999998,
+    "longitude": 79.1208348,
+    "place_id": "ChIJi673vs7ZzDsRZeYtHz50Oo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi673vs7ZzDsRZeYtHz50Oo8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:20:55"
+  },
+  {
+    "business_name": "The Organic World - Cunningham Road",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Grocery delivery service, Indian grocery store, Organic shop, Produce market, Supermarket",
+    "pincode": "517280",
+    "phone_number": "+91 91082 27770",
+    "website": "https://theorganicworld.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shah Sultan Complex, Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "area": "Vasanth Nagar",
+    "latitude": 12.986870999999999,
+    "longitude": 77.59478299999999,
+    "place_id": "ChIJgSm0pNgXrjsR8Ndq1HKq4ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSm0pNgXrjsR8Ndq1HKq4ls",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:20:57"
+  }
+]

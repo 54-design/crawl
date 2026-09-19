@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "516380",
+    "phone_number": "+91 94415 34452",
+    "website": "https://www.finobank.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "5/9, K.Thimmapuram, Kosinepalli, Andhra Pradesh 516380",
+    "area": "516380",
+    "latitude": 14.6733443,
+    "longitude": 78.4281195,
+    "place_id": "ChIJfSAVXp2JszsRe5tbQvwMNHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSAVXp2JszsRe5tbQvwMNHE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:48:03"
+  },
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "516380",
+    "phone_number": "+91 80741 92347",
+    "website": "https://www.finobank.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6/93, SAGILIGUDDU PALLI, Proddatur, Thallamapuram, Andhra Pradesh 516380",
+    "area": "516380",
+    "latitude": 14.598113999999999,
+    "longitude": 78.40075279999999,
+    "place_id": "ChIJbcKmxFmPszsRo-YYv0lU5vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcKmxFmPszsRo-YYv0lU5vk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:48:05"
+  }
+]

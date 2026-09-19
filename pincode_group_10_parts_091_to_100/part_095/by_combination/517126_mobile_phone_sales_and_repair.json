@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RUN MOBILES",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "517126",
+    "phone_number": "+91 88011 80280",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "17/85b, Sundarayyar Street, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2162803,
+    "longitude": 79.0986386,
+    "place_id": "ChIJj_txsgJcrTsRAAAAMJvkvUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_txsgJcrTsRAAAAMJvkvUg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:43:09"
+  },
+  {
+    "business_name": "Royal Cell Point",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "517126",
+    "phone_number": "+91 80194 69452",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 234,
+    "address": "Near Shivalayam Temple, Road, Chittoor, Puttur, Andhra Pradesh 517583",
+    "area": "517126",
+    "latitude": 13.4380013,
+    "longitude": 79.55098149999999,
+    "place_id": "ChIJRc1zY0NRTToRqxM4_i170MM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRc1zY0NRTToRqxM4_i170MM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:43:11"
+  }
+]

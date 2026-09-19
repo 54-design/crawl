@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wazirpur Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517131",
+    "phone_number": "+91 75034 97096",
+    "website": "https://wazirpurcybercafe.blogspot.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Csa Colony, New Delhi, Delhi 110052",
+    "area": "Block B, Wazirpur Industrial Area, Ashok Vihar",
+    "latitude": 28.701393699999997,
+    "longitude": 77.1749547,
+    "place_id": "ChIJ6UDAEXUDDTkR6_OVW6WNK3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UDAEXUDDTkR6_OVW6WNK3U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:03"
+  },
+  {
+    "business_name": "Gautam Zerox",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "517131",
+    "phone_number": "+91 93281 92603",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GAUTAM ZEROX BARIFADIYA, near JALARAM TEMPLE, Devgadh Baria, Gujarat 389380",
+    "area": "517131",
+    "latitude": 22.7044774,
+    "longitude": 73.9038028,
+    "place_id": "ChIJNa-UFgDzYDkRmkYkgNXXepA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNa-UFgDzYDkRmkYkgNXXepA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:03"
+  }
+]

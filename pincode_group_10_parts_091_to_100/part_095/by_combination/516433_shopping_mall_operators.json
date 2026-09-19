@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Chennai Shopping Mall - Kakinada",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "516433",
+    "phone_number": "N/A",
+    "website": "https://www.thechennaishoppingmall.com/",
+    "rating": 4.9,
+    "reviews_count": 1326,
+    "address": "Ward No.2, Block No.28, Muncipal Corporation, H No.13-1-13, 13-1-22, Ramayya St, Suryaraopeta, Kakinada, Andhra Pradesh 533001",
+    "area": "Surya Rao Peta",
+    "latitude": 16.959296,
+    "longitude": 82.2356477,
+    "place_id": "ChIJf3Z4kPopODoRslb-m6U4F3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3Z4kPopODoRslb-m6U4F3g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:03:55"
+  },
+  {
+    "business_name": "Pallavi Towers",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "516433",
+    "phone_number": "+91 63012 55633",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 979,
+    "address": "Subash Rd, Old Town, Anantapur, Andhra Pradesh 515001",
+    "area": "Old Town",
+    "latitude": 14.6776091,
+    "longitude": 77.60387039999999,
+    "place_id": "ChIJJe4p_95KsTsR2Vg-VW5EgEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJe4p_95KsTsR2Vg-VW5EgEg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:03:55"
+  }
+]

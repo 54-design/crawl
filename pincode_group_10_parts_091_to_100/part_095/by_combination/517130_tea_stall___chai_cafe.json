@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAFE TEA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517130",
+    "phone_number": "+91 95503 46696",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Old temple road, Punnami, Yadagirigutta, Telangana 508115",
+    "area": "Punnami",
+    "latitude": 17.5828568,
+    "longitude": 78.9393539,
+    "place_id": "ChIJrdXL4Y9nyzsRbx844dsdlDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdXL4Y9nyzsRbx844dsdlDE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:05"
+  },
+  {
+    "business_name": "TEA TIME",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kolamuru, Andhra Pradesh 533102",
+    "area": "517130",
+    "latitude": 17.0632025,
+    "longitude": 81.80797539999999,
+    "place_id": "ChIJM0nk5BChNzoRa24s5gFY1is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0nk5BChNzoRa24s5gFY1is",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:06"
+  }
+]

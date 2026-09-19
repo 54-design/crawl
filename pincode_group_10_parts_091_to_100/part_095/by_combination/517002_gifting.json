@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananda Stores",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "517002",
+    "phone_number": "+91 94946 99977",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-54, Ananda Stores, CB Rd, Chamanthi Puram, Greamspet, Chittoor, Andhra Pradesh 517002",
+    "area": "Chamanthi Puram, Greamspet",
+    "latitude": 13.203071399999999,
+    "longitude": 79.0945492,
+    "place_id": "ChIJ47oNoWddrTsRQQKbUxoFQ58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47oNoWddrTsRQQKbUxoFQ58",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:15"
+  },
+  {
+    "business_name": "Sign Creation",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "517002",
+    "phone_number": "+91 75986 52066",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Pudupet, kupanachety, Gudiyatham, Tamil Nadu 632602",
+    "area": "Pudupet, kupanachety",
+    "latitude": 12.9490115,
+    "longitude": 78.87171029999999,
+    "place_id": "ChIJl6k4UQVtrTsR7o3YpYyz91o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6k4UQVtrTsR7o3YpYyz91o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murugan auto electrical works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Car repair and maintenance service, Car battery store",
+    "pincode": "517004",
+    "phone_number": "+91 70100 32277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tirupati - Nagari Rd, Chennai, Nagari, Andhra Pradesh 517590",
+    "area": "517004",
+    "latitude": 13.3255153,
+    "longitude": 79.5880048,
+    "place_id": "ChIJb1AZClynUjoRaNxRYfeeih8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1AZClynUjoRaNxRYfeeih8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:28:34"
+  },
+  {
+    "business_name": "manohar",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517004",
+    "phone_number": "+91 94400 77549",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nutrine factory, 12, Chittoor, Andhra Pradesh 517001",
+    "area": "517004",
+    "latitude": 13.2037091,
+    "longitude": 79.0816067,
+    "place_id": "ChIJYfdILyVdrTsRVmCuSR1wQ_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfdILyVdrTsRVmCuSR1wQ_o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:28:36"
+  }
+]

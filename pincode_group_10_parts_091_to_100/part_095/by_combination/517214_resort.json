@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Horsley Hills Holiday Homes Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "517214",
+    "phone_number": "+91 88853 39777",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Plot no 18, Horsley Hills, Andhra Pradesh 517326",
+    "area": "517214",
+    "latitude": 13.652021399999999,
+    "longitude": 78.39737099999999,
+    "place_id": "ChIJEyhd1w9CsjsR1nsb0YM5AqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyhd1w9CsjsR1nsb0YM5AqA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:07:43"
+  },
+  {
+    "business_name": "SNR Residency",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "517214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Tirupathi road, Pileru cross roads, pileru-517214, cross road, near Pileru, Pileru, Andhra Pradesh 517214",
+    "area": "Pileru",
+    "latitude": 13.654694099999999,
+    "longitude": 78.94803619999999,
+    "place_id": "ChIJ0ZD9cQCVsjsROkgIc2xEviI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZD9cQCVsjsROkgIc2xEviI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:07:45"
+  }
+]

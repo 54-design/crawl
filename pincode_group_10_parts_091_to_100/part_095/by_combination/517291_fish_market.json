@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FRK FISH MARKET",
+    "search_category": "Fish Market",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "517291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BUS STAND, Kadapa Main Road, Gurramkonda, Chittoor, Andhra Pradesh 517297",
+    "area": "517291",
+    "latitude": 13.7809797,
+    "longitude": 78.5882096,
+    "place_id": "ChIJJ85wzWhZsjsRGNspfs-3uL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ85wzWhZsjsRGNspfs-3uL8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:47"
+  },
+  {
+    "business_name": "SMK Pets World",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "517291",
+    "phone_number": "+91 81063 61325",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "6-116-2, above, near Balijagadda Street, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517291",
+    "latitude": 13.7849718,
+    "longitude": 78.58982999999999,
+    "place_id": "ChIJ5SUlBCNZsjsR1epZaiiRGJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SUlBCNZsjsR1epZaiiRGJ8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:48"
+  }
+]

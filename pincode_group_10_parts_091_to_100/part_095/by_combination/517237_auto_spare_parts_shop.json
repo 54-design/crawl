@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S Afros Basha",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "517237",
+    "phone_number": "+91 90001 00720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 245, near Hotel, Hyderabad, Kalikiri, Telangana 500004",
+    "area": "517237",
+    "latitude": 13.6528802,
+    "longitude": 78.8030242,
+    "place_id": "ChIJm2aKotiNsjsRohCCo6DKyrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2aKotiNsjsRohCCo6DKyrc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:14:19"
+  },
+  {
+    "business_name": "Raj Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "517237",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indra complex, near bus stand, Kawardha, Chhattisgarh 491995",
+    "area": "517237",
+    "latitude": 22.0056151,
+    "longitude": 81.2324297,
+    "place_id": "ChIJ0QCnlF7BKToR_oSU-2Yukzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QCnlF7BKToR_oSU-2Yukzo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:14:19"
+  }
+]

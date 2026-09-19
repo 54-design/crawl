@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAVYA TEA STALL",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Indian restaurant",
+    "pincode": "517152",
+    "phone_number": "+91 75501 24287",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chembarambakkam, Chennai, Tamil Nadu 600123",
+    "area": "517152",
+    "latitude": 13.0349375,
+    "longitude": 80.0524375,
+    "place_id": "ChIJtyjYZfqLUjoRTWT2O7TzH-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyjYZfqLUjoRTWT2O7TzH-A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:54:30"
+  },
+  {
+    "business_name": "Maharani Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Tea Exporter, Tea Manufacturer",
+    "pincode": "517152",
+    "phone_number": "+91 79054 42286",
+    "website": "https://maharanichai.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "64-A, Bahadur Ganj, Malviyanagar, Prayagraj, Uttar Pradesh 211003",
+    "area": "Bahadur Ganj, Malviyanagar",
+    "latitude": 25.436580799999998,
+    "longitude": 81.8403304,
+    "place_id": "ChIJ0Yg_C8vKmjkRbXG2-8W-3eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Yg_C8vKmjkRbXG2-8W-3eg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:54:31"
+  }
+]

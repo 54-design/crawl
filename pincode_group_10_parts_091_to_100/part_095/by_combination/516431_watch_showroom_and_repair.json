@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharath Watch Co",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "516431",
+    "phone_number": "+91 99520 77177",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "No. 2, Sardar Patel Road, Baktavatsalm Nagar, Adyar, Chennai, Tamil Nadu 600020",
+    "area": "Baktavatsalm Nagar, Adyar",
+    "latitude": 13.006302199999999,
+    "longitude": 80.2569183,
+    "place_id": "ChIJR6lGiuxnUjoRUU58bHlE1Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6lGiuxnUjoRUU58bHlE1Zs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:59:10"
+  },
+  {
+    "business_name": "Just watches",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "516431",
+    "phone_number": "+91 93249 10411",
+    "website": "http://justwatches.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Jawaharlal Nehru Salai, Thirumangalam, Anna Nagar, Chennai, Tamil Nadu 600040",
+    "area": "Thirumangalam, Anna Nagar",
+    "latitude": 13.080502899999999,
+    "longitude": 80.1975173,
+    "place_id": "ChIJy6PplXJlUjoRXt6U_V7tH5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6PplXJlUjoRXt6U_V7tH5k",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:59:13"
+  }
+]

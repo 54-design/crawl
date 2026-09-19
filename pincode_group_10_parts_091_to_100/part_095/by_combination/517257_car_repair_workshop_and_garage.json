@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HKGN Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517257",
+    "phone_number": "+91 99084 00332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No, 1, National Highway, Palamaner, Gangavaram, Andhra Pradesh 517408",
+    "area": "517257",
+    "latitude": 13.209037499999999,
+    "longitude": 78.7562222,
+    "place_id": "ChIJh6fdV7F9rTsRRg5cMAk3XK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6fdV7F9rTsRRg5cMAk3XK0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:17:55"
+  },
+  {
+    "business_name": "HMS Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517257",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Punganur, Andhra Pradesh 517247",
+    "area": "517257",
+    "latitude": 13.3614616,
+    "longitude": 78.570104,
+    "place_id": "ChIJOz8xS7J-sjsRsgBQEFtdfkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOz8xS7J-sjsRsgBQEFtdfkQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:17:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr RAJ Hotel",
+    "search_category": "Resort",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, National forest, Water park",
+    "pincode": "517280",
+    "phone_number": "+91 84648 45840",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Mr RAJ hotel, Tarigonda, Andhra Pradesh 517291",
+    "area": "517280",
+    "latitude": 13.6916879,
+    "longitude": 78.6282368,
+    "place_id": "ChIJM3AipMBfsjsR-kMmNkmnt-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3AipMBfsjsR-kMmNkmnt-M",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:21:59"
+  },
+  {
+    "business_name": "Madhav Lodge",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "517280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7/59, Apparao St, Basinikonda, Madanapalle, Andhra Pradesh 517325",
+    "area": "Basinikonda",
+    "latitude": 13.551008,
+    "longitude": 78.50176499999999,
+    "place_id": "ChIJqXv3Hd9lsjsREHRAlg9LV-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXv3Hd9lsjsREHRAlg9LV-s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:02"
+  }
+]

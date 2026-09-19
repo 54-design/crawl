@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mother Medical Agency",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Equipment supplier, Pharmacy",
+    "pincode": "517236",
+    "phone_number": "+91 98488 68191",
+    "website": "http://www.mothermedicalagency.com/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Shop No:13,14, CSI DYVA KRUPA COMPLEX, 29-4-54I, Prakasam Rd, Suryaraopeta, Buckinghampeta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Buckinghampeta",
+    "latitude": 16.5103018,
+    "longitude": 80.6330448,
+    "place_id": "ChIJpxTPzKr6NToRAdOm_mD-P6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxTPzKr6NToRAdOm_mD-P6Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:12:28"
+  },
+  {
+    "business_name": "Indian Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "517236",
+    "phone_number": "+91 98483 38487",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10.6.7, Nukalamma Temple St, Rama Rao Peta, Kakinada, Andhra Pradesh 533004",
+    "area": "Rama Rao Peta",
+    "latitude": 16.963839699999998,
+    "longitude": 82.2290139,
+    "place_id": "ChIJIS3EMA4oODoRG521vTe41gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIS3EMA4oODoRG521vTe41gU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:12:29"
+  }
+]

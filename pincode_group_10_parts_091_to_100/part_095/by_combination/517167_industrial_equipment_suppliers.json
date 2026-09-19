@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kothai Hardware",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "517167",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3/700, Bazaar street, Ammavarikuppam, Tamil Nadu 631301",
+    "area": "517167",
+    "latitude": 13.1780662,
+    "longitude": 79.4179327,
+    "place_id": "ChIJw4JlO9atUjoRaWWBxFEqpBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4JlO9atUjoRaWWBxFEqpBw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:57:39"
+  },
+  {
+    "business_name": "Selvi Spare Parts Centre",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Service establishment, Industrial Spares & Products Wholesaler",
+    "pincode": "517167",
+    "phone_number": "+91 94436 40622",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Selvi Spare Parts Centre, 517167, India",
+    "area": "517167",
+    "latitude": 13.1444049,
+    "longitude": 79.444943,
+    "place_id": "ChIJ7aLB1rytUjoRXv1kUZdyMzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7aLB1rytUjoRXv1kUZdyMzc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:57:41"
+  }
+]

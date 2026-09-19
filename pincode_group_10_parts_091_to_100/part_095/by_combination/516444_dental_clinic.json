@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohit Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jammalamadugu, Andhra Pradesh 516434",
+    "area": "516444",
+    "latitude": 14.8463301,
+    "longitude": 78.3827754,
+    "place_id": "ChIJ429TPeJztDsR1-YWMMeYFNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ429TPeJztDsR1-YWMMeYFNI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:49"
+  },
+  {
+    "business_name": "SAAE SHRE Dental Care, Jammalamadugu",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R9VJ+PX7, పాత బస్ స్టాండ్, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "పాత బస్ స్టాండ్",
+    "latitude": 14.8442964,
+    "longitude": 78.3824167,
+    "place_id": "ChIJqQ6sIvRztDsRCXf3_j8NQus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQ6sIvRztDsRCXf3_j8NQus",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:49"
+  }
+]

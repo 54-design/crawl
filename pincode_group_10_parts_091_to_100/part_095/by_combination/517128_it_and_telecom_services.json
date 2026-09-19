@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "517128",
+    "phone_number": "+91 93473 41735",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-1438, S/o LATE D SUBRAMANYAM, Vellore Rd, Greamspet, Chittoor, Andhra Pradesh 517002",
+    "area": "Greamspet",
+    "latitude": 13.200774299999999,
+    "longitude": 79.0939992,
+    "place_id": "ChIJe-F4VF5drTsRiB3ahcuAzIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-F4VF5drTsRiB3ahcuAzIQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:45"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "517128",
+    "phone_number": "+91 80196 13018",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11-317, RAMULU GUDI STREET, Tirupathi, Chittoor, Andhra Pradesh 517001",
+    "area": "Tirupathi",
+    "latitude": 13.2121184,
+    "longitude": 79.0945497,
+    "place_id": "ChIJK8Mb10BdrTsR-f_44VkSRvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8Mb10BdrTsR-f_44VkSRvM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:45"
+  }
+]

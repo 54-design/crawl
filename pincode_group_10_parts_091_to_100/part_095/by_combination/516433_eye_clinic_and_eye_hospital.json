@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sravani Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516433",
+    "phone_number": "+91 95778 89967",
+    "website": "https://sravanieyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": 94,
+    "address": "Gosala Centre, Main Rd, Vijayawada, Gosala, Andhra Pradesh 521151",
+    "area": "516433",
+    "latitude": 16.4474431,
+    "longitude": 80.75018,
+    "place_id": "ChIJp6Y0qzT9NToRFaqpaNn4IGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6Y0qzT9NToRFaqpaNn4IGU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:41"
+  },
+  {
+    "business_name": "Ayaan Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital, Ophthalmologist, Optician, Optometrist",
+    "pincode": "516433",
+    "phone_number": "+91 81213 10131",
+    "website": "https://ayaaneyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": 321,
+    "address": "Besides Ayaan Eye Care, Babu Rajendra Prasad Rd, near Milap Hotel, Tarapet, Vijayawada, Andhra Pradesh 520001",
+    "area": "Tarapet",
+    "latitude": 16.5200897,
+    "longitude": 80.6153894,
+    "place_id": "ChIJjYI-hubvNToR-ojCGVk2Ids",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYI-hubvNToR-ojCGVk2Ids",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:41"
+  }
+]

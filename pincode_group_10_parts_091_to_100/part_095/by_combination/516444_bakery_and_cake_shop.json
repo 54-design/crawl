@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swapna Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q5CR+8FV, Kondapuram, Andhra Pradesh 516444",
+    "area": "516444",
+    "latitude": 14.7709871,
+    "longitude": 78.1912237,
+    "place_id": "ChIJA7o7aLUJtDsRMY_rx2v6f-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7o7aLUJtDsRMY_rx2v6f-I",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:28"
+  },
+  {
+    "business_name": "Kranthi bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q5CR+4VR, SH51, Kondapuram, Andhra Pradesh 516444",
+    "area": "516444",
+    "latitude": 14.770361,
+    "longitude": 78.192143,
+    "place_id": "ChIJF_Bx94gJtDsR9nA4R0S7svM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_Bx94gJtDsR9nA4R0S7svM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:28"
+  }
+]

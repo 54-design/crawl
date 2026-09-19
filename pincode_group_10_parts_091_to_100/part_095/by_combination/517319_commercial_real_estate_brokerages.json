@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "99Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "517319",
+    "phone_number": "+91 72800 00199",
+    "website": "https://99realty.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Office No 611, Eastern Mall, Dangratoli Chouck, Ranchi, Jharkhand 834001",
+    "area": "Dangartoli, Nayatoli",
+    "latitude": 23.3677627,
+    "longitude": 85.3402931,
+    "place_id": "ChIJ0x0Rzbzh9DkRn_OU__Zc8AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0x0Rzbzh9DkRn_OU__Zc8AM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:09"
+  },
+  {
+    "business_name": "Propline.in",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial agent, Commercial real estate agency, Condominium rental agency, Industrial real estate agency, Property investment company, Property management company, Real estate consultant, Real estate rental agency",
+    "pincode": "517319",
+    "phone_number": "+91 99229 22802",
+    "website": "http://www.propline.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Office No. 208, Wbiz, Bhumkar Chowk Rd, near Ginger Hotel, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "Wakad",
+    "latitude": 18.6074585,
+    "longitude": 73.7518783,
+    "place_id": "ChIJs_Xt_WK5wjsRvLLkhS0xPkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_Xt_WK5wjsRvLLkhS0xPkI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:31:12"
+  }
+]

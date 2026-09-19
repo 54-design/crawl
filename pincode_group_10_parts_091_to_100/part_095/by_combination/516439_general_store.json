@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAMYA RAVI MALIGAI STORE",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "516439",
+    "phone_number": "+91 94427 69073",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Naryra, Tamil Nadu 606304",
+    "area": "516439",
+    "latitude": 11.522793199999999,
+    "longitude": 79.156527,
+    "place_id": "ChIJB0n-LwBHqzsRE2lu8iOVOJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0n-LwBHqzsRE2lu8iOVOJI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:05:47"
+  },
+  {
+    "business_name": "Ragavendra Super Mart",
+    "search_category": "General Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516439",
+    "phone_number": "+91 22 2240 4142",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 23,
+    "address": "Koothapakkam, Cuddalore, Tamil Nadu 607002",
+    "area": "Koothapakkam",
+    "latitude": 11.7504603,
+    "longitude": 79.7411418,
+    "place_id": "ChIJWwXc7J2ZVDoROn0UR95jbEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwXc7J2ZVDoROn0UR95jbEY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:05:47"
+  }
+]

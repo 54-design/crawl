@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Village Organic Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "516501",
+    "phone_number": "+91 98843 33077",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 74,
+    "address": "12/1, Welcome Colony, Anna Nagar West Extension, Chennai, Tamil Nadu 600101",
+    "area": "Welcome Colony, Anna Nagar West Extension",
+    "latitude": 13.0874907,
+    "longitude": 80.1964265,
+    "place_id": "ChIJv___zAVkUjoRFkwZ2H4oanI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv___zAVkUjoRFkwZ2H4oanI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:15:47"
+  },
+  {
+    "business_name": "Go for Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "516501",
+    "phone_number": "+91 96022 43398",
+    "website": "https://www.gofororganics.com/",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "392, near SBI ATM, Chanakya Puri, Sector 4, Pooja Nagar, Hiran Magri, Udaipur, Rajasthan 313002",
+    "area": "Chanakya Puri, Sector 4, Pooja Nagar, Hiran Magri",
+    "latitude": 24.5666193,
+    "longitude": 73.7247986,
+    "place_id": "ChIJgfDei1TvZzkRqdHbtCQSfdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfDei1TvZzkRqdHbtCQSfdQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:15:47"
+  }
+]

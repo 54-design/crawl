@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Nadha Mess",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517291",
+    "phone_number": "+91 94409 14622",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Hotel Sri Sai Nadha, Main Road, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517291",
+    "latitude": 13.7808031,
+    "longitude": 78.5876286,
+    "place_id": "ChIJLxFmX3NZsjsRD5b5qplap1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxFmX3NZsjsRD5b5qplap1c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:52"
+  },
+  {
+    "business_name": "TAJ HOTEL",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "QHCM+JFC, Gurramkonda, Khandriga, Andhra Pradesh 517297",
+    "area": "517291",
+    "latitude": 13.7715512,
+    "longitude": 78.5836274,
+    "place_id": "ChIJmczGBqZZsjsRX-B5V510WBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmczGBqZZsjsRX-B5V510WBI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:22:52"
+  }
+]

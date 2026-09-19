@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Iron Steel Traders",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517123",
+    "phone_number": "+91 90424 89403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "11-47, Chinnagottigallu - Rompicharla cross, Rompicherla, Bommaiahgari Palle, Andhra Pradesh 517192",
+    "area": "517123",
+    "latitude": 13.6486136,
+    "longitude": 79.04150039999999,
+    "place_id": "ChIJj4qTJCi_sjsRs0QXxo_EAkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4qTJCi_sjsRs0QXxo_EAkQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:37:23"
+  },
+  {
+    "business_name": "k s hardware and pvc doors",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517123",
+    "phone_number": "+91 94939 48454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MW4R+89G, Chennai - Anantapur Hwy, Padmavathi Nagar, Pileru, Andhra Pradesh 517214",
+    "area": "Padmavathi Nagar, Pileru",
+    "latitude": 13.6558032,
+    "longitude": 78.9409658,
+    "place_id": "ChIJp9vDF7CUsjsR46WKDL4ITHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9vDF7CUsjsR46WKDL4ITHw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:37:23"
+  }
+]

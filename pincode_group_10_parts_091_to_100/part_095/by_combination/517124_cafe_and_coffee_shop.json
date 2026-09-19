@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R R R HOTEL CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "517124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Bengaluru - Tirupati Hwy, Chittoor, Murakambattu, Andhra Pradesh 517127",
+    "area": "517124",
+    "latitude": 13.2644807,
+    "longitude": 79.1209551,
+    "place_id": "ChIJI9OLraBZrTsRPb_AiHD4H70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9OLraBZrTsRPb_AiHD4H70",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:32"
+  },
+  {
+    "business_name": "DAY&NIGHT CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "749C+J7C, Chittoor, Vavilthota, Andhra Pradesh 517127",
+    "area": "517124",
+    "latitude": 13.2698102,
+    "longitude": 79.1204733,
+    "place_id": "ChIJdUqtFQBZrTsRKr7J9F_KYyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUqtFQBZrTsRKr7J9F_KYyo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:34"
+  }
+]

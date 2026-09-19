@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keerthi Tinkering works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517002",
+    "phone_number": "+91 89853 21006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chittoor Town Rd, Kalagatur, Chittoor, Andhra Pradesh 517002",
+    "area": "Kalagatur",
+    "latitude": 13.1886637,
+    "longitude": 79.0956942,
+    "place_id": "ChIJjynSkd9drTsRZ6HA2gIZfyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjynSkd9drTsRZ6HA2gIZfyY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:26:50"
+  },
+  {
+    "business_name": "Partner's Towing service",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "517002",
+    "phone_number": "+91 94939 81546",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tirupathi to Banglore Bypass Road Tirupathi to Chittoor Bypass Road, Bypass Road, Cherlopalle, Andhra Pradesh 517005",
+    "area": "Cherlopalle",
+    "latitude": 13.2246033,
+    "longitude": 79.06579169999999,
+    "place_id": "ChIJ22ziIoNfrTsRXUciJItnYSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22ziIoNfrTsRXUciJItnYSU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:26:50"
+  }
+]

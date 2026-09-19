@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Dhaba",
+    "pincode": "516484",
+    "phone_number": "+91 98493 00228",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 1182,
+    "address": "3CRQ+R73, near Anjaneya Swamy Temple, Pedathadivada, Andhra Pradesh 535006",
+    "area": "516484",
+    "latitude": 18.0920178,
+    "longitude": 83.4381815,
+    "place_id": "ChIJ8zvvZ8P6OzoRRMr26EMNEJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zvvZ8P6OzoRRMr26EMNEJ4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:15"
+  },
+  {
+    "business_name": "Hotel highway dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "516484",
+    "phone_number": "+91 99433 77584",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "7H25+VM9, Gingee - Tindivanam Rd, Deevanur, Tamil Nadu 604206",
+    "area": "516484",
+    "latitude": 12.2521642,
+    "longitude": 79.5592436,
+    "place_id": "ChIJOboxVQA3UzoRJY7A64k09fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOboxVQA3UzoRJY7A64k09fw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:16"
+  }
+]

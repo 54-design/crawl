@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car mechanic & repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "516484",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "988, Pipeline Rd, Weavers Colony, Kalappa Block, Srinagar, Banashankari, Bengaluru, Karnataka 560050",
+    "area": "Weavers Colony, Kalappa Block, Srinagar, Banashankari",
+    "latitude": 12.9491982,
+    "longitude": 77.5539896,
+    "place_id": "ChIJrbQKErE_rjsRjH8Xc_C1Rmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbQKErE_rjsRjH8Xc_C1Rmg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:38"
+  },
+  {
+    "business_name": "4STROKE MOTOREN",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto body shop, Auto glass repair service, Auto painting, Tire shop",
+    "pincode": "516484",
+    "phone_number": "+91 98481 13271",
+    "website": "http://4strokemotoren.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8-2-602/i, Road No. 10, beside Kunal Rawal, Zahara Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Zahara Nagar, Banjara Hills",
+    "latitude": 17.4170686,
+    "longitude": 78.4391394,
+    "place_id": "ChIJ-TSb1TaXyzsREwlPo4FnW1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TSb1TaXyzsREwlPo4FnW1g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:39"
+  }
+]

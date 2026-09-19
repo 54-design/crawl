@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshna Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517192",
+    "phone_number": "+91 95501 17035",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 2 College Road, Chinna Gotti Gallu, Andhra Pradesh 517193",
+    "area": "517192",
+    "latitude": 13.6500562,
+    "longitude": 79.0891851,
+    "place_id": "ChIJ_xVhbmC_sjsRbzPqJTPaszE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xVhbmC_sjsRbzPqJTPaszE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:55"
+  },
+  {
+    "business_name": "New Tip Top Shoe Bazaar",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "517192",
+    "phone_number": "+91 94423 47885",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Yashoda Towers, Surya Nagar, Sri Nagar, Hosur, Tamil Nadu 635109",
+    "area": "Surya Nagar, Sri Nagar",
+    "latitude": 12.7365803,
+    "longitude": 77.8269424,
+    "place_id": "ChIJofulLABxrjsRyPWXoc16vnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofulLABxrjsRyPWXoc16vnQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:55"
+  }
+]

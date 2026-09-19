@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishta Natural Products",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Natural goods store",
+    "pincode": "516454",
+    "phone_number": "+91 94446 00571",
+    "website": "https://wa.me/c/919444600571",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kanchipuram, Tamil Nadu 631502",
+    "area": "516454",
+    "latitude": 12.8400357,
+    "longitude": 79.7044315,
+    "place_id": "ChIJZcwkk3rDUjoRcr6q3azEBJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcwkk3rDUjoRcr6q3azEBJU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:02"
+  },
+  {
+    "business_name": "Prakruthi foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "516454",
+    "phone_number": "+91 99636 17134",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Hotel Balaji Grand Rd, Manasa Nagar, Suryapet, Telangana 508213",
+    "area": "Manasa Nagar",
+    "latitude": 17.1443416,
+    "longitude": 79.6204637,
+    "place_id": "ChIJCR8_1enbNDoRKplLss7vZyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCR8_1enbNDoRKplLss7vZyw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavishya Bakery & Sweets",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517351",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "M746+JQH, B Kothakota - Beerrangi Rd, B.C.Colony, B.Kothakota, Andhra Pradesh 517370",
+    "area": "B.C.Colony",
+    "latitude": 13.6565523,
+    "longitude": 78.2619917,
+    "place_id": "ChIJaXRfVQA_sjsRzPdKGY5l3w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXRfVQA_sjsRzPdKGY5l3w0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:37:15"
+  },
+  {
+    "business_name": "CHEF CAKES",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517351",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G Block, Room No. 10, Sulthan Complex, Kadiri Hwy, beside Sangeetha Mobiles, Madanapalle, Kadirinathunikota, Andhra Pradesh 517390",
+    "area": "517351",
+    "latitude": 13.7912699,
+    "longitude": 78.27687159999999,
+    "place_id": "ChIJz-T11JY5sjsRPBlgH3xCgmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-T11JY5sjsRPBlgH3xCgmg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:37:17"
+  }
+]

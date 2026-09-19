@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Disney Oaks Montessori",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool, Day care center, Kindergarten School, Montessori school, Nursery school, Playgroup",
+    "pincode": "516390",
+    "phone_number": "+91 80195 60506",
+    "website": "http://www.disneyoaks.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D.no/2-17, Road no: 5, 5, th Cross Extension, M.K. Naidu Colony, Annamaiah Nagar, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "M.K. Naidu Colony, Annamaiah Nagar, Bairagi patteda",
+    "latitude": 13.6161593,
+    "longitude": 79.4209582,
+    "place_id": "ChIJ_eQhWUpLTToROPu24nFHQkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_eQhWUpLTToROPu24nFHQkg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:49:33"
+  },
+  {
+    "business_name": "Sparkle kids Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "516390",
+    "phone_number": "+91 79975 99994",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nirmal Nagar, near Panchamuka Anjaneya Temple, Pandaripuram, Ongole, Andhra Pradesh 523001",
+    "area": "Pandaripuram",
+    "latitude": 15.5093278,
+    "longitude": 80.0343486,
+    "place_id": "ChIJDREnO5UBSzoRlRa5QMgGBp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDREnO5UBSzoRlRa5QMgGBp8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:49:35"
+  }
+]

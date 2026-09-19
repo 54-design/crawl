@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fortuna Women And Ortho care Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "517101",
+    "phone_number": "+91 99639 71582",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 242,
+    "address": "7, Air Bypass Rd, New Balaji Colony, Avilali, Andhra Pradesh 517502",
+    "area": "New Balaji Colony",
+    "latitude": 13.622651,
+    "longitude": 79.411447,
+    "place_id": "ChIJg-KHMxJLTToRZn08QXw7rD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-KHMxJLTToRZn08QXw7rD0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:11"
+  },
+  {
+    "business_name": "Hari Priya Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517101",
+    "phone_number": "+91 95812 87722",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside NewBite, Tirupati, Chandragiri, Andhra Pradesh 517101",
+    "area": "517101",
+    "latitude": 13.591028,
+    "longitude": 79.3257016,
+    "place_id": "ChIJ-dhQWnOzsjsRqeoIggnEZnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dhQWnOzsjsRqeoIggnEZnc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karthik Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "517132",
+    "phone_number": "+91 93622 20007",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 97,
+    "address": "M.K. Mandapam, 10, 8th East Main Rd, Near D, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "area": "Suthanthira Ponvizha Nagar, Gandhi Nagar",
+    "latitude": 12.950388799999999,
+    "longitude": 79.1414996,
+    "place_id": "ChIJnQ6ekWRHrTsRShpkGRuyo_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQ6ekWRHrTsRShpkGRuyo_Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:53:17"
+  },
+  {
+    "business_name": "Latha Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "517132",
+    "phone_number": "+91 98942 83438",
+    "website": "N/A",
+    "rating": 1.7,
+    "reviews_count": 37,
+    "address": "VIT Rd, near D.P.S Complex, Old Katpadi, Solai Nagar, Katpadi, Vellore, Tamil Nadu 632014",
+    "area": "Old Katpadi, Solai Nagar, Katpadi",
+    "latitude": 12.9689708,
+    "longitude": 79.1454126,
+    "place_id": "ChIJQ8tgzHJHrTsRjcyFxIcLAmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8tgzHJHrTsRjcyFxIcLAmU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:53:17"
+  }
+]

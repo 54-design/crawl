@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punganuru Siva",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517234",
+    "phone_number": "+91 99592 08737",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 266, near Cross, Chittoor, Kalikiri, Andhra Pradesh 517234",
+    "area": "517234",
+    "latitude": 13.6534388,
+    "longitude": 78.8036588,
+    "place_id": "ChIJswTAhtaNsjsRa-VgVKGA9FY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswTAhtaNsjsRa-VgVKGA9FY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:08:27"
+  },
+  {
+    "business_name": "Yeswanth General Stores and Credit to Bank Transfer services",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517234",
+    "phone_number": "+91 91088 89494",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Unnamed Road, Chintaparthi, Andhra Pradesh 517277",
+    "area": "517234",
+    "latitude": 13.6416507,
+    "longitude": 78.6999098,
+    "place_id": "ChIJG3D6TaKLsjsRMy_pzgZpudQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3D6TaKLsjsRMy_pzgZpudQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:08:28"
+  }
+]

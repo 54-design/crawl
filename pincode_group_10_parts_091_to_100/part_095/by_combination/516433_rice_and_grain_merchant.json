@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.v.purushottam rice shop",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "516433",
+    "phone_number": "+91 95156 14776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "block.D, P.W market, 99/B, Santha Pet, Vizianagaram, Andhra Pradesh 535001",
+    "area": "Santha Pet",
+    "latitude": 18.1151947,
+    "longitude": 83.4083351,
+    "place_id": "ChIJcWp0apblOzoRUSYdPJOoyl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWp0apblOzoRUSYdPJOoyl4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:18"
+  },
+  {
+    "business_name": "G M R SUPER MARKET",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516433",
+    "phone_number": "+91 90108 16493",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Road, Ramarao Peta, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Ramarao Peta",
+    "latitude": 16.8130736,
+    "longitude": 81.52776639999999,
+    "place_id": "ChIJK_so67m0NzoRfIp5flWkWvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_so67m0NzoRfIp5flWkWvs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CK Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "517192",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bazar street, Rompicherla, Andhra Pradesh 517192",
+    "area": "517192",
+    "latitude": 13.6693689,
+    "longitude": 79.0470629,
+    "place_id": "ChIJrd2qeQC_sjsRSWEG58YnPAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrd2qeQC_sjsRSWEG58YnPAc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:51"
+  },
+  {
+    "business_name": "HEENA READYMADES",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "517192",
+    "phone_number": "+91 97050 75194",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 4-45, Big Masque Street R Cherla, Pakala, Andhra Pradesh 517192",
+    "area": "517192",
+    "latitude": 13.669581899999999,
+    "longitude": 79.0459667,
+    "place_id": "ChIJ96yqbYq_sjsRAAAAsOigIwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96yqbYq_sjsRAAAAsOigIwA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lavanya sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "517124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "726X+R8W, Patnam, Andhra Pradesh 517131",
+    "area": "517124",
+    "latitude": 13.262105,
+    "longitude": 79.0483354,
+    "place_id": "ChIJvW-g7P5frTsRnXqq9ICWNJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvW-g7P5frTsRnXqq9ICWNJ4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:26"
+  },
+  {
+    "business_name": "Aaha Swagruha AKA Kerala Chips",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar, General store",
+    "pincode": "517124",
+    "phone_number": "+91 96425 13607",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 29,
+    "address": "10/498 seshapiran street, Bazaar St, Chittoor, Andhra Pradesh 517001",
+    "area": "Other, Thotapalyam",
+    "latitude": 13.219216,
+    "longitude": 79.10012309999999,
+    "place_id": "ChIJUZHpwwJcrTsRQM7QRFeN3d8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZHpwwJcrTsRQM7QRFeN3d8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:38:29"
+  }
+]

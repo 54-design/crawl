@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chowdarys Catering and Event Management Services",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "517001",
+    "phone_number": "+91 99662 78767",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "23-549, Satyanarayana Puram, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "Satyanarayana Puram, KR Palli",
+    "latitude": 13.2117258,
+    "longitude": 79.118819,
+    "place_id": "ChIJtxTWNn1brTsRjWIOeu_3zvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxTWNn1brTsRjWIOeu_3zvM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:25:33"
+  },
+  {
+    "business_name": "Nathi catering",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Restaurant supply store",
+    "pincode": "517001",
+    "phone_number": "+91 98482 61414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "22-421, Kattamanchi, Chittoor, Andhra Pradesh 517001",
+    "area": "Kattamanchi",
+    "latitude": 13.226616,
+    "longitude": 79.1078601,
+    "place_id": "ChIJP5P4vixfrTsRenm1jZibc1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5P4vixfrTsRenm1jZibc1o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:25:33"
+  }
+]

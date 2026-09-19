@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nellore Real Estate Consultancy",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "517299",
+    "phone_number": "+91 98856 43947",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "15/906, Venkatramapuram, Ramamurthy Nagar, Nellore, Andhra Pradesh 524001",
+    "area": "Venkatramapuram, Ramamurthy Nagar",
+    "latitude": 14.4525764,
+    "longitude": 79.9887182,
+    "place_id": "ChIJd3yQW7aMTDoRhWkNdBKT8pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3yQW7aMTDoRhWkNdBKT8pY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:27:34"
+  },
+  {
+    "business_name": "Anantha Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Real estate consultant",
+    "pincode": "517299",
+    "phone_number": "+91 63029 66604",
+    "website": "https://www.anantharealestate.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "centre, Mypadu Rd, Satyanarayana Puram, Ram Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "Satyanarayana Puram, Ram Nagar",
+    "latitude": 14.4651885,
+    "longitude": 79.99741759999999,
+    "place_id": "ChIJL8DraRaNTDoRazUFSqXP4zI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8DraRaNTDoRazUFSqXP4zI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:27:35"
+  }
+]

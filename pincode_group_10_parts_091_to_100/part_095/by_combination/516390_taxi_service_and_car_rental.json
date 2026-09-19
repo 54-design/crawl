@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wega Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Transportation service",
+    "pincode": "516390",
+    "phone_number": "+91 80 4155 3311",
+    "website": "https://www.wegacabs.com/",
+    "rating": 4.6,
+    "reviews_count": 3970,
+    "address": "3rd Floor, Kohinoor Tower, 44, 9th A Main Rd, 2nd Block, 4th Stage, BTM Layout, Bengaluru, Karnataka 560076",
+    "area": "2nd Block, 4th Stage, BTM Layout",
+    "latitude": 12.8863826,
+    "longitude": 77.6150115,
+    "place_id": "ChIJgRABI7gVrjsRIVZMUsaJawQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRABI7gVrjsRIVZMUsaJawQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:49:05"
+  },
+  {
+    "business_name": "SMR CAR TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "516390",
+    "phone_number": "+91 99895 99621",
+    "website": "http://smrcartravels.in/",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "Khaja Nagar, Old Town, Anantapur, Andhra Pradesh 515005",
+    "area": "Khaja Nagar, Old Town",
+    "latitude": 14.685516699999999,
+    "longitude": 77.6011793,
+    "place_id": "ChIJRxmyOy5LsTsRMRyVgdoy-y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxmyOy5LsTsRMRyVgdoy-y8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:49:05"
+  }
+]

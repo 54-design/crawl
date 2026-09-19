@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B3 Beauty & Makeup Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician",
+    "pincode": "516484",
+    "phone_number": "+91 94903 75557",
+    "website": "https://www.instagram.com/b3_makeup_studio?utm_source=qr&igsh=d3RxOHJwZXczMnkz",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Nsm School, 68-2-6, Ground floor Nalluri vari Street, road, near Sarojini Hospital, Patamata, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamata",
+    "latitude": 16.4944338,
+    "longitude": 80.66006689999999,
+    "place_id": "ChIJt6MFSQD7NToRIeYGcOQooHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6MFSQD7NToRIeYGcOQooHw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:55"
+  },
+  {
+    "business_name": "Nature's Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "516484",
+    "phone_number": "+91 90520 09197",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "45/392, Maria Puram, Balaji Nagar, Kadapa, Andhra Pradesh 516003",
+    "area": "Maria Puram, Balaji Nagar",
+    "latitude": 14.469100699999998,
+    "longitude": 78.82187979999999,
+    "place_id": "ChIJk2OhhxZyszsRIImRgE7juds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2OhhxZyszsRIImRgE7juds",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:56"
+  }
+]

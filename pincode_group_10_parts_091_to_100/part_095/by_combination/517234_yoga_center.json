@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun moon yoga studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "517234",
+    "phone_number": "+91 98954 40277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "1st floor, s. Chittoor, S. Chittoor main road chakkalakkal building, Ernakulam, Keralam 682027",
+    "area": "South Chittoor",
+    "latitude": 10.0300852,
+    "longitude": 76.2754102,
+    "place_id": "ChIJ29W5JKANCDsRuE8E0ZCF2fI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29W5JKANCDsRuE8E0ZCF2fI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:08:58"
+  },
+  {
+    "business_name": "ARSHA YOGA KENDRA",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "517234",
+    "phone_number": "+91 99612 27515",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 126,
+    "address": "Irinjalakuda, Keralam 680121",
+    "area": "517234",
+    "latitude": 10.346925299999999,
+    "longitude": 76.2073726,
+    "place_id": "ChIJtU_To7D3pzsRekZJAo2YU_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtU_To7D3pzsRekZJAo2YU_o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:08:58"
+  }
+]

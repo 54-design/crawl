@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zamzam Multi Car Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517101",
+    "phone_number": "+91 80743 13159",
+    "website": "https://zamzammulticargarage.com/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Door No- 301-5, 1b, Renigunta Rd, opposite Hero show room, SV Auto Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "SV Auto Nagar",
+    "latitude": 13.630279,
+    "longitude": 79.445596,
+    "place_id": "ChIJ5-ofEdJLTToR3X2MO_sb34Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-ofEdJLTToR3X2MO_sb34Y",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:22"
+  },
+  {
+    "business_name": "Sri Lakshmi Narasimha Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "RTC Supervisors Colony, Hayathnagar_Khalsa, Hyderabad, Telangana 501505",
+    "area": "RTC Supervisors Colony",
+    "latitude": 17.3288392,
+    "longitude": 78.60092279999999,
+    "place_id": "ChIJdR7iOgChyzsRU-Sj1ireYfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdR7iOgChyzsRU-Sj1ireYfc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:30:22"
+  }
+]

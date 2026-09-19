@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Boating Point",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Boat tour agency",
+    "all_categories": "Boat tour agency",
+    "pincode": "516396",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "Chitravathi Balancing Reservoir, Parnapalli, Andhra Pradesh 515631",
+    "area": "516396",
+    "latitude": 14.562135699999999,
+    "longitude": 77.95769489999999,
+    "place_id": "ChIJg7E0DZ79szsRHKyDcM6vyxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7E0DZ79szsRHKyDcM6vyxc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:52:36"
+  },
+  {
+    "business_name": "India Private Tours",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Sightseeing Tour Operator",
+    "all_categories": "Sightseeing Tour Operator, Tour operator, Tourist information center, Travel agency",
+    "pincode": "516396",
+    "phone_number": "+91 97119 29163",
+    "website": "http://indiaprivatetour.com/",
+    "rating": 4.9,
+    "reviews_count": 176,
+    "address": "FIRST FLOOR, 5096, GALI SAKKO WALi, Main Bazar, Bharat Nagar, Paharganj, New Delhi, Delhi 110055",
+    "area": "Main Bazar, Bharat Nagar, Paharganj",
+    "latitude": 28.6406155,
+    "longitude": 77.2115875,
+    "place_id": "ChIJCRwh8EP9DDkRofJpYtVh0XY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRwh8EP9DDkRofJpYtVh0XY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:52:39"
+  }
+]

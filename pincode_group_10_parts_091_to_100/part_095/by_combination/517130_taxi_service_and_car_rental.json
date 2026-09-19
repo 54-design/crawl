@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chiku Cab Taxi Service Varanasi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "517130",
+    "phone_number": "+91 62808 20037",
+    "website": "https://chikucab.com/cabs-services-in-varanasi.html",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "K, LANE NO 1, HOUSE NO D, 59/212, Nirala Nagar, Shivpurwa, Varanasi, Uttar Pradesh 221010",
+    "area": "Nirala Nagar, Shivpurwa",
+    "latitude": 25.308439,
+    "longitude": 82.97891,
+    "place_id": "ChIJLRGgk-ctjjkR6neHoWTKmBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRGgk-ctjjkR6neHoWTKmBU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:37"
+  },
+  {
+    "business_name": "Travel4Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "517130",
+    "phone_number": "N/A",
+    "website": "https://travel4taxi.com/",
+    "rating": 4.9,
+    "reviews_count": 256,
+    "address": "1st Floor, Flat no. 205, Shiv Krupa Building, opp. Government Hospital, Cheemasandra, Bidarahalli, Bengaluru, Karnataka 560049",
+    "area": "Cheemasandra",
+    "latitude": 13.0599826,
+    "longitude": 77.716087,
+    "place_id": "ChIJzYx-vlURrjsRuhZsmO_kTDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYx-vlURrjsRuhZsmO_kTDk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:49:38"
+  }
+]

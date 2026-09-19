@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Picture frame shop",
+    "pincode": "516454",
+    "phone_number": "+91 99354 79408",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 11,
+    "address": "Rd No. 3, opposite Marwa Cement Industries, Kamrauli, Utelwa, Uttar Pradesh 227817",
+    "area": "516454",
+    "latitude": 26.4807165,
+    "longitude": 81.56747829999999,
+    "place_id": "ChIJc9btpKNLmjkRO8GrCjbl_MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9btpKNLmjkRO8GrCjbl_MU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:45"
+  },
+  {
+    "business_name": "Minati Glass Works",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "516454",
+    "phone_number": "+91 96091 01554",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bagnan, West Bengal 711303",
+    "area": "516454",
+    "latitude": 22.468244799999997,
+    "longitude": 87.9729485,
+    "place_id": "ChIJo90GnACbAjoR6g6MOEvDz8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo90GnACbAjoR6g6MOEvDz8c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:09:46"
+  }
+]

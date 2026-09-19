@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Francis Home",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "42W9+G5P, Gollapalle, Andhra Pradesh 517422",
+    "area": "517128",
+    "latitude": 13.1464951,
+    "longitude": 79.0179066,
+    "place_id": "ChIJ8RXiIwBnrTsR_NVuExffJdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RXiIwBnrTsR_NVuExffJdU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:41"
+  },
+  {
+    "business_name": "My llll",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "52J6+CG, Mahasamudram, Andhra Pradesh 517128",
+    "area": "517128",
+    "latitude": 13.1810107,
+    "longitude": 79.0113444,
+    "place_id": "ChIJQYIvUQBnrTsRxLteHJAQx1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYIvUQBnrTsRxLteHJAQx1c",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:41"
+  }
+]

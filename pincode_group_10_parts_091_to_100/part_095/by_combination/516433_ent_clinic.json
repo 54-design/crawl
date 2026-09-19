@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Krishna ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital",
+    "pincode": "516433",
+    "phone_number": "+91 866 243 6799",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 167,
+    "address": "Shop No. 29-12-36 Venkataratnam Street, Nakkala Rd, Suryaraopeta, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Governor Peta",
+    "latitude": 16.511899,
+    "longitude": 80.6338337,
+    "place_id": "ChIJZ-Y9QLH6NToRm1zo71GxDFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-Y9QLH6NToRm1zo71GxDFk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:46"
+  },
+  {
+    "business_name": "Sudhakar ENT & Dental Care",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital",
+    "pincode": "516433",
+    "phone_number": "+91 866 247 4442",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 148,
+    "address": "Nirmala Convent Rd, NTR Circle, Old P&T Colony, Patamata, behind Allahabad Bank, NTR Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "NTR Circle, K P Nagar",
+    "latitude": 16.4976066,
+    "longitude": 80.6579914,
+    "place_id": "ChIJt96nIMf6NToRB_KQkxo0Yk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt96nIMf6NToRB_KQkxo0Yk0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beta Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Teachers college, Tutoring service",
+    "pincode": "516474",
+    "phone_number": "+91 95508 22229",
+    "website": "http://www.betaeducation.org/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ramnagar, Above Andhara Bank Atm, 3rd Floor, Ram Nagar, Hyderabad, Telangana 500020",
+    "area": "Ram Nagar, Musheerabad, Zamistanpur",
+    "latitude": 17.410491399999998,
+    "longitude": 78.5068441,
+    "place_id": "ChIJG4Lch82ZyzsRG1WIz_NUpIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4Lch82ZyzsRG1WIz_NUpIU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:13:33"
+  },
+  {
+    "business_name": "Idp Education India Pvt Ltd",
+    "search_category": "Educational Consultant",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "516474",
+    "phone_number": "+91 1800 102 2233",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "5, MG Rd, Acharya Ranga Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Acharya Ranga Nagar, Benz Circle",
+    "latitude": 16.499329,
+    "longitude": 80.6504168,
+    "place_id": "ChIJmWg0l7n6NToR37jNtxOiNkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWg0l7n6NToR37jNtxOiNkA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:13:33"
+  }
+]

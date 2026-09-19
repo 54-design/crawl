@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thanisha Dabha",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "517112",
+    "phone_number": "+91 94942 21127",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "93FR+CRF, Thenepalle, Andhra Pradesh 517124",
+    "area": "517112",
+    "latitude": 13.373643399999999,
+    "longitude": 79.092061,
+    "place_id": "ChIJA3q67NKhsjsR_io2cCSS21Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3q67NKhsjsR_io2cCSS21Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:33:14"
+  },
+  {
+    "business_name": "Ganga Restaurant And Daba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "517112",
+    "phone_number": "+91 95534 82497",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 155,
+    "address": "M325+569, Chinna Gotti Gallu, Andhra Pradesh 517192",
+    "area": "517112",
+    "latitude": 13.650415899999999,
+    "longitude": 79.058094,
+    "place_id": "ChIJ_w6bL5m_sjsRA9tuc9eF00s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_w6bL5m_sjsRA9tuc9eF00s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:33:15"
+  }
+]

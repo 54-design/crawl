@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Annpurna Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "517305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Tisgaon, Maharashtra 414106",
+    "area": "517305",
+    "latitude": 19.1881314,
+    "longitude": 75.0740419,
+    "place_id": "ChIJ57rZGQBb2zsRDxg_bNyjj-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57rZGQBb2zsRDxg_bNyjj-A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:02"
+  },
+  {
+    "business_name": "M R VEGETABLE SUPPLIERS",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "517305",
+    "phone_number": "+91 99592 40896",
+    "website": "http://mrvs.co.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "M R VEGETABLES SUPPLIER, Market, Bharat Nagar, Moosapet, Hyderabad, Telangana 500018",
+    "area": "Bharat Nagar, Moosapet",
+    "latitude": 17.4647742,
+    "longitude": 78.4302508,
+    "place_id": "ChIJF5T3ZAKRyzsRzD3bZz-nh4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5T3ZAKRyzsRzD3bZz-nh4s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:28:03"
+  }
+]

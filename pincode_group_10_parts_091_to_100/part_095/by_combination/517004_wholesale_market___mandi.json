@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS Mango Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "517004",
+    "phone_number": "+91 94900 38931",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "60, Mango Nagar, Damalcheruvu, Andhra Pradesh 517152",
+    "area": "517004",
+    "latitude": 13.476678,
+    "longitude": 79.0546427,
+    "place_id": "ChIJqxUeItyjsjsRvD8EL5JOG-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxUeItyjsjsRvD8EL5JOG-4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:37"
+  },
+  {
+    "business_name": "Mango Market Damalacheruvu",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "517004",
+    "phone_number": "+91 70927 82992",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Reddy Vari Street, Damalcheruvu, Andhra Pradesh 517152",
+    "area": "517004",
+    "latitude": 13.4755559,
+    "longitude": 79.0548951,
+    "place_id": "ChIJ128WRdqisjsRK4ngn83a0tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ128WRdqisjsRK4ngn83a0tc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:37"
+  }
+]

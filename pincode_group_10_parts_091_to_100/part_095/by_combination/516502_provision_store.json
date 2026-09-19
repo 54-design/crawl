@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUBBARAYUDU",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516502",
+    "phone_number": "+91 98669 48632",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chennampalle, Badvel Badvel, Andhra Pradesh 516502",
+    "area": "516502",
+    "latitude": 14.730754399999999,
+    "longitude": 79.04319,
+    "place_id": "ChIJ4-w_E25fszsR1sckp4pKpO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-w_E25fszsR1sckp4pKpO0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:17:31"
+  },
+  {
+    "business_name": "Subbu General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516502",
+    "phone_number": "+91 99084 82293",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GV Satram, Sriram Nagar, Kadapa, Nandyalampeta, Andhra Pradesh 516172",
+    "area": "Sriram Nagar",
+    "latitude": 14.718617799999999,
+    "longitude": 78.8143723,
+    "place_id": "ChIJ-TLtB459szsRElWYHpT2OlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TLtB459szsRElWYHpT2OlY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:17:31"
+  }
+]

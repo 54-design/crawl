@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NephroPlus Dialysis & Kidney Care Clinic in Narsipatnam",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "517350",
+    "phone_number": "+91 95057 75123",
+    "website": "https://www.nephroplus.com/",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "Area Hospital, Nephroplus Dialysis Center, C/o, Chintapalli Rd, beside Tone Police station, Seshayya Metta, Narsipatnam, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Seshayya Metta",
+    "latitude": 17.011788199999998,
+    "longitude": 81.7713022,
+    "place_id": "ChIJebNDJQykNzoRWPa1-T1Vsbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebNDJQykNzoRWPa1-T1Vsbk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:35:46"
+  },
+  {
+    "business_name": "Apollo Dialysis clinic",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Medical clinic",
+    "pincode": "517350",
+    "phone_number": "+91 40 6946 7029",
+    "website": "https://www.apollodialysis.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "APOLLO DIALYSIS CLINICS AREA HOSPITAL, Jangareddygudem, Andhra Pradesh 534447",
+    "area": "517350",
+    "latitude": 17.122319,
+    "longitude": 81.29230869999999,
+    "place_id": "ChIJk7I_Nyn3NjoRBijGEq6je7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7I_Nyn3NjoRBijGEq6je7E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:35:46"
+  }
+]

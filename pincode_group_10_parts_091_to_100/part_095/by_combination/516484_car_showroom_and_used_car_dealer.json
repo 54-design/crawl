@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sundar Sai Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "516484",
+    "phone_number": "+91 99484 40332",
+    "website": "http://www.olx.in/profile/13097756",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "50-121-10, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7408318,
+    "longitude": 83.30636609999999,
+    "place_id": "ChIJC4AUUDJDOToRBs05ZxPef2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4AUUDJDOToRBs05ZxPef2Q",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:40"
+  },
+  {
+    "business_name": "Car sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "516484",
+    "phone_number": "+91 98662 44499",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12/1, Arundelpet, Guntur, Andhra Pradesh 522002",
+    "area": "Arundelpet",
+    "latitude": 16.3015473,
+    "longitude": 80.4408938,
+    "place_id": "ChIJk0glP_11SjoRVm7qYviAQGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0glP_11SjoRVm7qYviAQGY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:41"
+  }
+]

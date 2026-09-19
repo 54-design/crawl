@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gattu's Home",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "517299",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PPW7+37M, Mudiamvari Palle, Andhra Pradesh 517299",
+    "area": "517299",
+    "latitude": 13.7452052,
+    "longitude": 78.7131637,
+    "place_id": "ChIJ49kZNgD1sjsRe1RVuijjAMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49kZNgD1sjsRe1RVuijjAMI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:27:07"
+  },
+  {
+    "business_name": "SR GARDENS FUNCTION HALL",
+    "search_category": "Banquet Hall",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "517299",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 280,
+    "address": "Collegemitta, beside Mother Academy, Jongalapalle, Andhra Pradesh 524132",
+    "area": "517299",
+    "latitude": 13.956589399999999,
+    "longitude": 79.5846972,
+    "place_id": "ChIJT4pc4N0lTToRQ_HWBeUWd_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4pc4N0lTToRQ_HWBeUWd_8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:27:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DNC Chits Pvt Ltd",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "517350",
+    "phone_number": "+91 44 4850 2040",
+    "website": "https://www.dncchits.com/services",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "No:84, 2nd floor, Mounasamy Madam St, Venkatapuram, Ambattur, Chennai, Tamil Nadu 600053",
+    "area": "Venkatapuram, Ambattur",
+    "latitude": 13.1215215,
+    "longitude": 80.1506136,
+    "place_id": "ChIJ7eHodktjUjoRfHv3b53p0bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7eHodktjUjoRfHv3b53p0bo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:43"
+  },
+  {
+    "business_name": "Kurnool Chit Funds Pvt. Limited",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "517350",
+    "phone_number": "+91 85182 45006",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R2MR+757, T.J. Shopping Mall, R.S. Road, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.833150999999999,
+    "longitude": 78.0404286,
+    "place_id": "ChIJo9TgpF3ntTsRZRnWOJCHgYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9TgpF3ntTsRZRnWOJCHgYg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:44"
+  }
+]

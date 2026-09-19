@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhaskar Residency",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "516474",
+    "phone_number": "+91 85542 33335",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Raju Rd, opp. Mahaveer Electronics, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6793531,
+    "longitude": 77.602334,
+    "place_id": "ChIJ-fW5qN5KsTsRdoRKIs8OwIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fW5qN5KsTsRdoRKIs8OwIA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:13:23"
+  },
+  {
+    "business_name": "Vysya Hostel (RCVS Home)",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "516474",
+    "phone_number": "+91 85542 22382",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Raju Rd, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6785585,
+    "longitude": 77.60271159999999,
+    "place_id": "ChIJZ5yrl95KsTsR8jMKkZTih1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5yrl95KsTsR8jMKkZTih1s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:13:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpha dental clinic",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "517194",
+    "phone_number": "+91 72077 77633",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Yerravaripalem, Andhra Pradesh 517194",
+    "area": "517194",
+    "latitude": 13.717212199999999,
+    "longitude": 79.12859209999999,
+    "place_id": "ChIJ47rvN-HHsjsR1Kp2vQ26OqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47rvN-HHsjsR1Kp2vQ26OqA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:32"
+  },
+  {
+    "business_name": "TABYYIB FIRST AID CENTER",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "517194",
+    "phone_number": "+91 76739 96310",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharatpeta, 2, Muthalamaa Temple Street, Andhra Pradesh 517194",
+    "area": "517194",
+    "latitude": 13.6530148,
+    "longitude": 79.15737419999999,
+    "place_id": "ChIJnbuxnxS5sjsR9iKyHeH0fRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbuxnxS5sjsR9iKyHeH0fRk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:33"
+  }
+]

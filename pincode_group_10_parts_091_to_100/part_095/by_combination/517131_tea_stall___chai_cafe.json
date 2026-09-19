@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Chowki",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517131",
+    "phone_number": "+91 83491 94050",
+    "website": "http://www.chaichowki.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A, 1, opposite prestige college, Scheme Number 78, Part II, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Scheme Number 78, Part II, Scheme 78, Vijay Nagar",
+    "latitude": 22.7621419,
+    "longitude": 75.8865172,
+    "place_id": "ChIJJRUpbMMDYzkRC05jPq_2pxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRUpbMMDYzkRC05jPq_2pxQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:52"
+  },
+  {
+    "business_name": "Jodhpur tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "517131",
+    "phone_number": "+91 96722 24512",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "72FM+3R5, Ratanada, Jodhpur, Rajasthan 342011",
+    "area": "Ratanada",
+    "latitude": 26.2726455,
+    "longitude": 73.034624,
+    "place_id": "ChIJydj_4VuMQTkRc9yMmOWI8p8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydj_4VuMQTkRc9yMmOWI8p8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:52"
+  }
+]

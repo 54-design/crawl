@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Continental Trading Co",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Industrial equipment supplier, Paint store, Tool store, Wholesaler",
+    "pincode": "517350",
+    "phone_number": "+91 40 6632 2037",
+    "website": "https://continentaltrad.com/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Ganji Complex, Hill St, Old Ghasmandi, Ranigunj, Secunderabad, Telangana 500003",
+    "area": "Old Ghasmandi, Ranigunj",
+    "latitude": 17.4333635,
+    "longitude": 78.4926437,
+    "place_id": "ChIJI8ur6BuayzsRPF6qS9r3IRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8ur6BuayzsRPF6qS9r3IRU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:53"
+  },
+  {
+    "business_name": "Vasant Trading Co",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier, Nut store",
+    "pincode": "517350",
+    "phone_number": "+91 98480 30075",
+    "website": "N/A",
+    "rating": 2.1,
+    "reviews_count": 22,
+    "address": "shop no 1,2,3, Hari Ganga Complex, Bolaram Nagar, Ranigunj, Secunderabad, Telangana 500003",
+    "area": "Bolaram Nagar, Ranigunj",
+    "latitude": 17.432831999999998,
+    "longitude": 78.4898032,
+    "place_id": "ChIJzf9OABuayzsRWL56WayZ5l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzf9OABuayzsRWL56WayZ5l4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:36:53"
+  }
+]

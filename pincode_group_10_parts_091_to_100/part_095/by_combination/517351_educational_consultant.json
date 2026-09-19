@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Masters Academy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "517351",
+    "phone_number": "+91 78957 40452",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st floor, Current colony, Bypass Rd, B.Kothakota, Andhra Pradesh 517370",
+    "area": "517351",
+    "latitude": 13.6601369,
+    "longitude": 78.26587359999999,
+    "place_id": "ChIJQbabACw_sjsRE2W-GjYGCrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbabACw_sjsRE2W-GjYGCrY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:38:21"
+  },
+  {
+    "business_name": "Elite E2 Pvt. Ltd",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Environmental health service",
+    "pincode": "517351",
+    "phone_number": "+91 121 209 5157",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "14/14A, Current Colony, B.Kothakota, Andhra Pradesh 517370",
+    "area": "517351",
+    "latitude": 13.657541799999999,
+    "longitude": 78.2626659,
+    "place_id": "ChIJu2hE4u0_sjsRCY8a2sxetMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2hE4u0_sjsRCY8a2sxetMo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:38:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Le frut",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit parlor",
+    "all_categories": "Fruit parlor, Fruits Wholesaler, Produce market",
+    "pincode": "517127",
+    "phone_number": "+91 97037 89888",
+    "website": "https://lefrut.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7 Plot no :9, 52 1/2, Rd Number 2, Veterinary Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Veterinary Colony",
+    "latitude": 16.5122628,
+    "longitude": 80.6665866,
+    "place_id": "ChIJt1dAQab7NToRXycKaOPUDJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1dAQab7NToRXycKaOPUDJM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:43:42"
+  },
+  {
+    "business_name": "krishna Kanth Vegetable Market",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "517127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13-303, MARKET STREET, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.2178808,
+    "longitude": 79.0945335,
+    "place_id": "ChIJMzkfB2JfrTsR_7B85mlmX4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzkfB2JfrTsR_7B85mlmX4M",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:43:43"
+  }
+]

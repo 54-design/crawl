@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Duniya",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "516390",
+    "phone_number": "+91 99488 91234",
+    "website": "http://www.chaiduniyagroup.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C6FG+2CM Malayavantham, Parnapalli Road, Pulivendula, Andhra Pradesh 516390",
+    "area": "516390",
+    "latitude": 14.422543899999999,
+    "longitude": 78.22581989999999,
+    "place_id": "ChIJgVlHtNfrszsR2c-1deN5Z3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVlHtNfrszsR2c-1deN5Z3E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:48:36"
+  },
+  {
+    "business_name": "SLV Tea Junction Iranian chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "516390",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X5QJ+Q2Q, Chennai - Anantapur Hwy, Nallacheruvu, Andhra Pradesh 515551",
+    "area": "516390",
+    "latitude": 13.989472,
+    "longitude": 78.18010799999999,
+    "place_id": "ChIJ38QZDwAzsjsRiwwdZG8xWFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38QZDwAzsjsRiwwdZG8xWFI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:48:36"
+  }
+]

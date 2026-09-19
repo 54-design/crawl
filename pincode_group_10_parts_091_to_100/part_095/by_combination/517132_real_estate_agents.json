@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vellore Property Bazaar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "517132",
+    "phone_number": "+91 99522 24191",
+    "website": "https://www.vellorepropertybazaar.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.37, 1, 14th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "area": "Suthanthira Ponvizha Nagar, Gandhi Nagar",
+    "latitude": 12.9499123,
+    "longitude": 79.1413726,
+    "place_id": "ChIJKb6nbJpHrTsR0x6Z1GvB1SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKb6nbJpHrTsR0x6Z1GvB1SY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:54:02"
+  },
+  {
+    "business_name": "Aascar Promoters Pvt Ltd",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "517132",
+    "phone_number": "+91 93632 93870",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "X44Q+42G, 1st East Main Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "area": "Suthanthira Ponvizha Nagar, Gandhi Nagar",
+    "latitude": 12.955323199999999,
+    "longitude": 79.1375812,
+    "place_id": "ChIJ3fQnrGZHrTsRKOk29guteFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fQnrGZHrTsRKOk29guteFo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:54:04"
+  }
+]

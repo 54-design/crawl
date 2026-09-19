@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "517101",
+    "phone_number": "+91 93437 45176",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Peenya Industrial Area Phase IV, Peenya, Bengaluru, Karnataka 560058",
+    "area": "Peenya Industrial Area Phase IV, Peenya",
+    "latitude": 13.0154845,
+    "longitude": 77.5051459,
+    "place_id": "ChIJozHVc_o8rjsRHFLJaN6jgSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozHVc_o8rjsRHFLJaN6jgSM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:07"
+  },
+  {
+    "business_name": "SRI VARASIDDI FEEDS",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "517101",
+    "phone_number": "+91 97005 06868",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "34-24, Main Road, Chittoor, Andhra Pradesh 517127",
+    "area": "517101",
+    "latitude": 13.2438723,
+    "longitude": 79.11727839999999,
+    "place_id": "ChIJ7ei11TNZrTsRy9Z_bVwbQF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ei11TNZrTsRy9Z_bVwbQF0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:07"
+  }
+]

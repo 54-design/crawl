@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Santhosh Multispeciality Hospital 24*7",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517132",
+    "phone_number": "+91 89399 99666",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "1/93-5, palavanatham, K.V, Kuppam, Tamil Nadu 632201",
+    "area": "K.V",
+    "latitude": 12.9525963,
+    "longitude": 78.9844048,
+    "place_id": "ChIJI_qzxtpqrTsRZryySvgmIZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_qzxtpqrTsRZryySvgmIZ8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:52:59"
+  },
+  {
+    "business_name": "Aster Narayanadri Hospital - Best Multispeciality Hospital in Tirupati",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Dermatologist, Gynecologist, Nephrologist, Neurologist, Neurosurgeon, Orthopedic surgeon, ENT Specialist, Urologist",
+    "pincode": "517132",
+    "phone_number": "+91 877 223 3449",
+    "website": "https://www.asterhospitals.in/hospitals/aster-narayanadri-tirupati",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Aster narayanadri hospital, National Highway 71, Renigunta Rd, SV Auto Nagar, Daminedu, Andhra Pradesh 517506",
+    "area": "SV Auto Nagar",
+    "latitude": 13.6284914,
+    "longitude": 79.4638056,
+    "place_id": "ChIJu9NCzNtLTToRFE6NSKdCi5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9NCzNtLTToRFE6NSKdCi5U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:53:00"
+  }
+]

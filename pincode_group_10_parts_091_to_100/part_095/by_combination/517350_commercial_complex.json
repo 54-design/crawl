@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsha Potary Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517350",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MC6X+WV4, Kantevari palli, Pitchalavandla Palle, Andhra Pradesh 517352",
+    "area": "Kantevari palli",
+    "latitude": 13.6622732,
+    "longitude": 78.449708,
+    "place_id": "ChIJ_zBus5VCsjsRHce5IsHK0Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zBus5VCsjsRHce5IsHK0Lc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:37:05"
+  },
+  {
+    "business_name": "Sri Mallikarjuna Shopping Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517350",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "RCFX+C88, Thamballapalle, Andhra Pradesh 517418",
+    "area": "517350",
+    "latitude": 13.823531099999999,
+    "longitude": 78.44831649999999,
+    "place_id": "ChIJg6s9vWFFsjsRHrITRShZxQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6s9vWFFsjsRHrITRShZxQg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:37:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sreenivasalu Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "517351",
+    "phone_number": "+91 99594 58308",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Banglore Road, B.Kothakota, Andhra Pradesh 517370",
+    "area": "517351",
+    "latitude": 13.6597031,
+    "longitude": 78.2591832,
+    "place_id": "ChIJzcHpZzQ_sjsR7V0IdSG6Rmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcHpZzQ_sjsR7V0IdSG6Rmo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:37:11"
+  },
+  {
+    "business_name": "BALAJI trader's",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "517351",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P8JW+57J, Burakaylakota, Andhra Pradesh 517351",
+    "area": "517351",
+    "latitude": 13.7301091,
+    "longitude": 78.3465496,
+    "place_id": "ChIJW2WpYgBHsjsRd-puQyPeCK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2WpYgBHsjsRd-puQyPeCK8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:37:11"
+  }
+]

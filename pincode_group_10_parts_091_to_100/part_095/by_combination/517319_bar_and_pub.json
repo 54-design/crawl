@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surendra Yadav Complex",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "517319",
+    "phone_number": "+91 98856 92469",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 69,
+    "address": "JFHP+J8H, suri wines angallu, Madanapalle, Andhra Pradesh 517326",
+    "area": "517319",
+    "latitude": 13.6290613,
+    "longitude": 78.4858631,
+    "place_id": "ChIJH9d58uVnsjsR4Y2flRXTysk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9d58uVnsjsR4Y2flRXTysk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:29:55"
+  },
+  {
+    "business_name": "CAS Harira",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "517319",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HG42+C9V, P and T Colony, Madanapalle, Andhra Pradesh 517325",
+    "area": "P and T Colony",
+    "latitude": 13.5561074,
+    "longitude": 78.5009305,
+    "place_id": "ChIJg4cGaQBnsjsRErF7FJvV3m8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4cGaQBnsjsRErF7FJvV3m8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:29:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MATANGINI YOGA CENTRE",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "517326",
+    "phone_number": "+91 98328 14313",
+    "website": "https://matanginiyogacentre.com/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "X6H4+888, Sitarampur, West Bengal 743374",
+    "area": "517326",
+    "latitude": 21.9782619,
+    "longitude": 88.2057726,
+    "place_id": "ChIJi7k5aABXAjoR7DEjiPGvWdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7k5aABXAjoR7DEjiPGvWdU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:56"
+  },
+  {
+    "business_name": "Haldia Yoga Therapy and Education Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "517326",
+    "phone_number": "+91 89001 61877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "44C6+M27, Sutahata, West Bengal 721635",
+    "area": "517326",
+    "latitude": 22.1215825,
+    "longitude": 88.1099067,
+    "place_id": "ChIJGT1pAAD3AjoRzp60EmYL8U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGT1pAAD3AjoRzp60EmYL8U0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:33:56"
+  }
+]

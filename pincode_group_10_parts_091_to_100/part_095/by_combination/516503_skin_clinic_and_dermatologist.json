@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "krithi Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Hospital, Surgical center",
+    "pincode": "516503",
+    "phone_number": "+91 70139 12176",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 142,
+    "address": "Near chandru iyyangar bakery, 4-8-1/B1, Bommagunta, NCB Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Bommagunta, NCB Colony, Nehru Nagar",
+    "latitude": 13.6352339,
+    "longitude": 79.4128257,
+    "place_id": "ChIJf9kaNlRLTToRAr8bQUuHqyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9kaNlRLTToRAr8bQUuHqyE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:19:41"
+  },
+  {
+    "business_name": "Yutika Multispeciality Hospital",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital, Cosmetics industry, Dermatologist, General practitioner, Hair removal service, Laser hair removal service, Plastic surgery clinic, Private hospital",
+    "pincode": "516503",
+    "phone_number": "+91 96667 70191",
+    "website": "https://www.yutikahospital.com/",
+    "rating": 4.8,
+    "reviews_count": 112,
+    "address": "2-120A, Rd Number 2, M.K. Naidu Colony, Lingeswar Nagar, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "M.K. Naidu Colony, Lingeswar Nagar, Bairagi patteda",
+    "latitude": 13.6171718,
+    "longitude": 79.4194394,
+    "place_id": "ChIJL8STHwxLTToRF2Se_7aiafQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8STHwxLTToRF2Se_7aiafQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:19:44"
+  }
+]

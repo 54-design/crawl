@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Murali",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Food and beverage consultant",
+    "all_categories": "Food and beverage consultant",
+    "pincode": "517247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6JF7+HCP, SH 498, Andhra Pradesh 517432",
+    "area": "517247",
+    "latitude": 13.2240734,
+    "longitude": 78.6140096,
+    "place_id": "ChIJ-4XJT6uBrTsR0ZoSnYMEHVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4XJT6uBrTsR0ZoSnYMEHVA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:16:41"
+  },
+  {
+    "business_name": "RMS GROUPS",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "517247",
+    "phone_number": "+91 89858 60666",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 81,
+    "address": "2nd Floor, sree rama complex Gandhi road , Nimmanapalle, Cross, Madanapalle, Andhra Pradesh 517325",
+    "area": "A.V.Naidu Colony",
+    "latitude": 13.5643783,
+    "longitude": 78.4994837,
+    "place_id": "ChIJ50ox9qdnsjsRNSxkHbmCNCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50ox9qdnsjsRNSxkHbmCNCQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:16:42"
+  }
+]

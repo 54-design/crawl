@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grinder Shop",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "517194",
+    "phone_number": "+91 96180 32213",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Usthikayalpenta Pileru, To, Usthikayalapenta, Andhra Pradesh 517214",
+    "area": "517194",
+    "latitude": 13.8384377,
+    "longitude": 79.0348436,
+    "place_id": "ChIJt-Ob99HDsjsRi76NZOH9JHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-Ob99HDsjsRi76NZOH9JHk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:54"
+  },
+  {
+    "business_name": "BALU Electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "517194",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q4R6+J94, Bodevandla Palli, Andhra Pradesh 517194",
+    "area": "517194",
+    "latitude": 13.7915087,
+    "longitude": 79.1109673,
+    "place_id": "ChIJ-2DGUADFsjsRytnwcofGo5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2DGUADFsjsRytnwcofGo5M",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:54"
+  }
+]

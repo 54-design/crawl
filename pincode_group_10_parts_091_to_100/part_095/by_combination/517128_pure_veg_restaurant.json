@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshya Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5XXH+4JQ, cross, Kottamanchigundla Chattra, Thambugani Palli, Gundla Katta Manchi, Andhra Pradesh 517416",
+    "area": "Kottamanchigundla Chattra",
+    "latitude": 13.197833099999999,
+    "longitude": 78.97911599999999,
+    "place_id": "ChIJn1LtSjBnrTsR8n1ZPzTUzrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1LtSjBnrTsR8n1ZPzTUzrg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:35"
+  },
+  {
+    "business_name": "Spice A/C Pure Non Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517128",
+    "phone_number": "N/A",
+    "website": "http://spicevilla.epizy.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "6W3W+P82, Bangarupalem, Nalagam palli, Andhra Pradesh 517416",
+    "area": "517128",
+    "latitude": 13.2042524,
+    "longitude": 78.94575309999999,
+    "place_id": "ChIJlSb8aGdnrTsRwJ6Y2rQmwaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSb8aGdnrTsRwJ6Y2rQmwaU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:35"
+  }
+]

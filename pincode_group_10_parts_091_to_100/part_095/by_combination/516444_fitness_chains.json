@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Graphene Fitness Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "516444",
+    "phone_number": "+91 98801 70973",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "opp. Indrani function hall, Ratnagiri Nagar, Chanukya Nagar, Sujatha Nagar, Pendurthi, Chinnamusidivada, Andhra Pradesh 530051",
+    "area": "Ratnagiri Nagar, Chanukya Nagar, Sujatha Nagar, Pendurthi",
+    "latitude": 17.802012599999998,
+    "longitude": 83.20936309999999,
+    "place_id": "ChIJvzp2nthnOToR77YAaNHADjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzp2nthnOToR77YAaNHADjw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:53"
+  },
+  {
+    "business_name": "U Fit",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516444",
+    "phone_number": "+91 78425 68763",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MBR, Kim's Icon Hospital Rd, Sheela Nagar, Gajuwaka, Andhra Pradesh 530012",
+    "area": "Sheela Nagar",
+    "latitude": 17.7168208,
+    "longitude": 83.2034654,
+    "place_id": "ChIJS2Tdl0NpOToRlP5vE0hMZZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2Tdl0NpOToRlP5vE0hMZZ4",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:07:53"
+  }
+]

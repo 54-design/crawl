@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darzis Beauty & Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage therapist",
+    "pincode": "517257",
+    "phone_number": "+91 97003 09923",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "4-7-66/a, flat # .GB, CKR Residency, Habsiguda, Hyderabad, Telangana 500007",
+    "area": "Nagendra Nagar, Habsiguda",
+    "latitude": 17.4199202,
+    "longitude": 78.5428168,
+    "place_id": "ChIJgY-T_GeZyzsRwyj-l6X4CCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgY-T_GeZyzsRwyj-l6X4CCM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:18:16"
+  },
+  {
+    "business_name": "The 2020 Salon & Wellness Spa",
+    "search_category": "Spa",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa, Beauty Parlour",
+    "pincode": "517257",
+    "phone_number": "+91 70756 44678",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, Cyber Residency, above Indian Bank, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Indira Nagar, Gachibowli",
+    "latitude": 17.4415844,
+    "longitude": 78.35963799999999,
+    "place_id": "ChIJH-Aq7X6TyzsReXv2-9Odl48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-Aq7X6TyzsReXv2-9Odl48",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:18:16"
+  }
+]

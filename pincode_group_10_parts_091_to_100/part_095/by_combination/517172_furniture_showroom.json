@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aliya home needs",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "517172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. seneswara temple, Pulicheria, Reddivaripalle, Andhra Pradesh 517172",
+    "area": "Pulicheria",
+    "latitude": 13.600764499999999,
+    "longitude": 79.0421748,
+    "place_id": "ChIJT6TRtGG_sjsR6vfJz7DJVN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6TRtGG_sjsR6vfJz7DJVN8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:44"
+  },
+  {
+    "business_name": "Sadik Bed works",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Bed shop",
+    "all_categories": "Bed shop",
+    "pincode": "517172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pulicheria, Reddivaripalle, Andhra Pradesh 517172",
+    "area": "Pulicheria",
+    "latitude": 13.599077399999999,
+    "longitude": 79.04576089999999,
+    "place_id": "ChIJ5c7Uot2_sjsRc_kDjuBM_0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5c7Uot2_sjsRc_kDjuBM_0A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:44"
+  }
+]

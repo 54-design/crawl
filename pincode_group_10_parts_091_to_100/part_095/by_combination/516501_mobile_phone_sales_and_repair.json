@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FRIENDS MOBILES SALES AND SERVICES",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Phone repair service",
+    "pincode": "516501",
+    "phone_number": "+91 99616 39961",
+    "website": "https://goo.gl/maps/kznqLb1QE5eg3vAC7",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pattathuvila Plaza, Vadayattukotta Rd, Chinnakada, Kollam, Keralam 691001",
+    "area": "Chinnakada",
+    "latitude": 8.886027,
+    "longitude": 76.5886622,
+    "place_id": "ChIJeTwmgcL9BTsRhsUkqisBx_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTwmgcL9BTsRhsUkqisBx_g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:17:03"
+  },
+  {
+    "business_name": "Cell Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Computer repair service, Computer service, Mobile phone repair shop",
+    "pincode": "516501",
+    "phone_number": "+91 755 427 7661",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 728,
+    "address": "Shop No. 10 Jyoti Shopping Complex, Service Rd, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.233080599999997,
+    "longitude": 77.43395579999999,
+    "place_id": "ChIJDdt5lmdCfDkRa7MqfTnvbog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdt5lmdCfDkRa7MqfTnvbog",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:17:04"
+  }
+]

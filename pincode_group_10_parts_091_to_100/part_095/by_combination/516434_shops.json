@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamatha Fancy Store",
+    "search_category": "Shops",
+    "primary_category": "Seasonal Goods Store",
+    "all_categories": "Seasonal Goods Store",
+    "pincode": "516434",
+    "phone_number": "+91 98660 24912",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "18/215, Tadipatri Road, opposite to sbi, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "516434",
+    "latitude": 14.8473461,
+    "longitude": 78.3832024,
+    "place_id": "ChIJuQxng9NztDsRDIR5qCXl9LI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQxng9NztDsRDIR5qCXl9LI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:05:40"
+  },
+  {
+    "business_name": "Kumar Fancy stores",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516434",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "R9WH+9Q8, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "516434",
+    "latitude": 14.845911399999999,
+    "longitude": 78.379468,
+    "place_id": "ChIJq_RJprNztDsR_Q2JKTOlF50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_RJprNztDsR_Q2JKTOlF50",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:05:42"
+  }
+]

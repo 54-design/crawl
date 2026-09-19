@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dasarlahalli village",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "517326",
+    "phone_number": "+91 97430 53980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Dasarlahalli, village, Dasarahalli, Iladoni, Karnataka 563135",
+    "area": "Dasarahalli",
+    "latitude": 13.4321831,
+    "longitude": 78.32576879999999,
+    "place_id": "ChIJyYPn-JdzsjsRX2MmEKwxfmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYPn-JdzsjsRX2MmEKwxfmA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:35:13"
+  },
+  {
+    "business_name": "Signature Business Centre",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "517326",
+    "phone_number": "+91 90750 34949",
+    "website": "http://www.gnplandmarks.com/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "S No. 262, Paud Rd, Bhugaon, Bavdhan, Bhugaon, Maharashtra 412115",
+    "area": "Bhugaon, Bavdhan",
+    "latitude": 18.501981699999998,
+    "longitude": 73.7586364,
+    "place_id": "ChIJx1hwVjW_wjsRLQRVkp5Gv_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1hwVjW_wjsRLQRVkp5Gv_s",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:35:13"
+  }
+]

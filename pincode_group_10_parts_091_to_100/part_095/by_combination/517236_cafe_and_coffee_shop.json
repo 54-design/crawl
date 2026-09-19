@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Epaphra Marra",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517236",
+    "phone_number": "+91 79812 78992",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 455, near Office, Chittoor, Kalakada, Andhra Pradesh 517236",
+    "area": "517236",
+    "latitude": 13.8239339,
+    "longitude": 78.79104889999999,
+    "place_id": "ChIJdampSYnxsjsRgXUWBd3vnPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdampSYnxsjsRgXUWBd3vnPA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:12:11"
+  },
+  {
+    "business_name": "Nizam Tea Stall",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "517236",
+    "phone_number": "+91 97030 58241",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "1-23,Rayachoty, Road, Devapatla, Andhra Pradesh 516215",
+    "area": "517236",
+    "latitude": 13.911230199999999,
+    "longitude": 78.7611131,
+    "place_id": "ChIJf_T_l1T7sjsRK1JoSJV041E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_T_l1T7sjsRK1JoSJV041E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:12:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL RAJASTHAN DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Vegetarian restaurant",
+    "pincode": "517126",
+    "phone_number": "+91 91064 76851",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Forest check post, Range Tirupati Road, Puttur, Chittoor, Andhra Pradesh 517571",
+    "area": "517126",
+    "latitude": 13.4917567,
+    "longitude": 79.53415849999999,
+    "place_id": "ChIJYaEuBABRTToRn63PRHbombQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaEuBABRTToRn63PRHbombQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:42:04"
+  },
+  {
+    "business_name": "RANJIT FAMILY DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "517126",
+    "phone_number": "+91 90009 98539",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 464,
+    "address": "Puttur, Sirugurajupalem, Andhra Pradesh 517583",
+    "area": "517126",
+    "latitude": 13.471553,
+    "longitude": 79.5406072,
+    "place_id": "ChIJ4QkCWSlRTToR1NGaRX2xIQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QkCWSlRTToR1NGaRX2xIQo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:42:05"
+  }
+]

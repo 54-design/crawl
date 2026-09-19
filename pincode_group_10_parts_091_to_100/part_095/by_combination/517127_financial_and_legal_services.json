@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uplands Legal",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "517127",
+    "phone_number": "+91 90520 84859",
+    "website": "https://www.uplandslegal.com/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "2nd floor, Achintya Tejas, 11-8-8, Rd Number 1, Daspalla Hills, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Daspalla Hills, Pandurangapuram",
+    "latitude": 17.715426,
+    "longitude": 83.3122216,
+    "place_id": "ChIJT3ZLhQZDOToR2SD2LZDjO18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3ZLhQZDOToR2SD2LZDjO18",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:08"
+  },
+  {
+    "business_name": "Durgam's Law Chamber",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "517127",
+    "phone_number": "+91 77026 28777",
+    "website": "https://durgamslawchamber.in/",
+    "rating": 4.9,
+    "reviews_count": 136,
+    "address": "Marripalem Main Rd, Sai Nagar, Simhachalam, Visakhapatnam, Andhra Pradesh 530018",
+    "area": "Sai Nagar, Simhachalam",
+    "latitude": 17.7401685,
+    "longitude": 83.25300849999999,
+    "place_id": "ChIJizVlSN9DOToRvoOPuIlRjNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizVlSN9DOToRvoOPuIlRjNk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:45:08"
+  }
+]

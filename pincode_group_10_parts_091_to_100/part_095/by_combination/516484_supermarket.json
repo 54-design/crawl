@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grand Modern Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Bag shop, Bakery and Cake Shop, Childrens Store, Cosmetics store, Food court, Gift basket store, Home goods store, Ice cream shop, Perfume store",
+    "pincode": "516484",
+    "phone_number": "+91 866 669 5555",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sultan Plaza, 40-1-87, MG Rd, Patamatalanka, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamatalanka",
+    "latitude": 16.4972332,
+    "longitude": 80.655102,
+    "place_id": "ChIJt2Q6Wcf6NToRy2D9_geNcOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2Q6Wcf6NToRy2D9_geNcOQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:04"
+  },
+  {
+    "business_name": "SuperK - Gold Supermarket Navodaya Colony ATP",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516484",
+    "phone_number": "+91 63053 48785",
+    "website": "https://www.superk.in/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "revenue ward No 28, New revenue colony, Door No 28, 5/37/3, Anantapur, Andhra Pradesh 515001",
+    "area": "Navodaya Colony",
+    "latitude": 14.660793799999999,
+    "longitude": 77.606515,
+    "place_id": "ChIJLe-IxqZLsTsRhAWn7ojB3iM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLe-IxqZLsTsRhAWn7ojB3iM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:04"
+  }
+]

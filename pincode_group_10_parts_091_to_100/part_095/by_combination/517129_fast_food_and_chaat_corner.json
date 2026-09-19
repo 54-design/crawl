@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goli Vada Pav - Kasavanahalli",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517129",
+    "phone_number": "+91 93428 19191",
+    "website": "https://m.golivadapav.com/",
+    "rating": 4.1,
+    "reviews_count": 204,
+    "address": "Shop# 3, Hosa Rd, Kasavanahalli, Owners Court Layout, west, Bengaluru, Karnataka 560035",
+    "area": "Kasavanahalli, Owners Court Layout, west",
+    "latitude": 12.8981943,
+    "longitude": 77.675409,
+    "place_id": "ChIJZcrAnqITrjsRDciqGEqezZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcrAnqITrjsRDciqGEqezZU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:47:26"
+  },
+  {
+    "business_name": "Rammy Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517129",
+    "phone_number": "+91 98662 73531",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 341,
+    "address": "1-9-670/A, S.V.E.S School Building, Adikmet Main Road, Vidya Nagar, Adikmet, Hyderabad, Andhra Pradesh 500044, Telangana 500044",
+    "area": "Vidya Nagar, Adikmet",
+    "latitude": 17.4056013,
+    "longitude": 78.5115261,
+    "place_id": "ChIJV3YXhaKZyzsRZK5KJlNRZE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3YXhaKZyzsRZK5KJlNRZE8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:47:26"
+  }
+]

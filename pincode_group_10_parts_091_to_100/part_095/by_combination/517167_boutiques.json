@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manu Wines",
+    "search_category": "Boutiques",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "517167",
+    "phone_number": "+91 96525 43832",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Manu Wines, Kottapallemitta, Chittoor, Kothapalle, Andhra Pradesh 517167",
+    "area": "Kottapallemitta",
+    "latitude": 13.2919811,
+    "longitude": 79.2546316,
+    "place_id": "ChIJV_gs63RXrTsR5ftVN7XENow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_gs63RXrTsR5ftVN7XENow",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:29"
+  },
+  {
+    "business_name": "Sri Lakshmi traders",
+    "search_category": "Boutiques",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517167",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Venkateshwara Nagar 2711k, Chittoor Main Rd, Ammavarikuppam, Tamil Nadu 631301",
+    "area": "517167",
+    "latitude": 13.1799196,
+    "longitude": 79.4120937,
+    "place_id": "ChIJX84CRgCtUjoRXOlOdrf0LCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX84CRgCtUjoRXOlOdrf0LCg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:30"
+  }
+]

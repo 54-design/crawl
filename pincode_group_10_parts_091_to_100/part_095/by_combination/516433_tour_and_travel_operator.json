@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "516433",
+    "phone_number": "+91 84648 85737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Gudeem cheruv, chinetha colony, Jammalamadugu, Andhra Pradesh 516434",
+    "area": "chinetha colony",
+    "latitude": 14.814656699999999,
+    "longitude": 78.2900394,
+    "place_id": "ChIJ0w5oq5F1tDsRuiAIJMwoYmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0w5oq5F1tDsRuiAIJMwoYmU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:53"
+  },
+  {
+    "business_name": "gandikota camping & Booking",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Campground",
+    "all_categories": "Campground, Tour agency",
+    "pincode": "516433",
+    "phone_number": "+91 79817 29370",
+    "website": "https://gandikotabooking.com/",
+    "rating": 5,
+    "reviews_count": 55,
+    "address": "Gandikota Fort, jammalamadugu, Gandikota, Andhra Pradesh 516434",
+    "area": "516433",
+    "latitude": 14.814691199999999,
+    "longitude": 78.2832069,
+    "place_id": "ChIJlSd6_56RBYMRHZArhcDXC_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSd6_56RBYMRHZArhcDXC_8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:02:54"
+  }
+]

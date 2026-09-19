@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imran Khan",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "517235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQGQ+8FV, Kalakada, Andhra Pradesh 517236",
+    "area": "517235",
+    "latitude": 13.825859399999999,
+    "longitude": 78.78868279999999,
+    "place_id": "ChIJJbkRfgDxsjsRAG8PRjM0RtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbkRfgDxsjsRAG8PRjM0RtE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:22"
+  },
+  {
+    "business_name": "Mullai Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "517235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "346P+9VV, Kendriya Vihar, Velappanchavadi, Poonamallee, Thiruverkadu, Tamil Nadu 600077",
+    "area": "Kendriya Vihar, Velappanchavadi, Poonamallee",
+    "latitude": 13.0609804,
+    "longitude": 80.1371778,
+    "place_id": "ChIJeUjWfn5hUjoReY-wW-bxiG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUjWfn5hUjoReY-wW-bxiG8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:10:25"
+  }
+]

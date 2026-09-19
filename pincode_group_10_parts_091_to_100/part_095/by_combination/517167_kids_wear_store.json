@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavitha Flower shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "517167",
+    "phone_number": "+91 63042 13492",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Cross, Pullur, Sreerangarajapuram, Andhra Pradesh 517167",
+    "area": "517167",
+    "latitude": 13.3086775,
+    "longitude": 79.3523585,
+    "place_id": "ChIJm-06FBxVrTsR56GCHVS-bPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-06FBxVrTsR56GCHVS-bPk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:22"
+  },
+  {
+    "business_name": "Dinesh Collections, Kids Wear Specialist",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "517167",
+    "phone_number": "+91 85722 35388",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "2-117, KR Palli, Chittoor, Andhra Pradesh 517001",
+    "area": "KR Palli",
+    "latitude": 13.216227,
+    "longitude": 79.1080454,
+    "place_id": "ChIJVc1JPwBcrTsR_TlIG1qXVuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc1JPwBcrTsR_TlIG1qXVuY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:22"
+  }
+]

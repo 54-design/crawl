@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vanitha General Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "517112",
+    "phone_number": "+91 99638 20991",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7-24, Vanitha General Store Pattoor Santhagate, opposite to Sbi Bank, Irala, Andhra Pradesh 517124",
+    "area": "517112",
+    "latitude": 13.4286245,
+    "longitude": 79.0304864,
+    "place_id": "ChIJ5VgboGCjsjsRO11hHtEbXEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VgboGCjsjsRO11hHtEbXEk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:33:04"
+  },
+  {
+    "business_name": "Saravana stores",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517112",
+    "phone_number": "+91 88854 11223",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bazaar Street, Penumuru, Chittoor, Penumur, Andhra Pradesh 517126",
+    "area": "Penumuru",
+    "latitude": 13.3710588,
+    "longitude": 79.1966628,
+    "place_id": "ChIJAZ8mTyamsjsRphpzaifbbIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZ8mTyamsjsRphpzaifbbIA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:33:05"
+  }
+]

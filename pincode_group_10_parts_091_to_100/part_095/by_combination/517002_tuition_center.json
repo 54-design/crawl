@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K.Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "517002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sai ram street, 4-2020/a, Durga Nagar Colony, Greamspet, Chittoor, Andhra Pradesh 517001",
+    "area": "Durga Nagar Colony, Greamspet",
+    "latitude": 13.1968582,
+    "longitude": 79.0915967,
+    "place_id": "ChIJgwqdnhxdrTsRJXCT6YE9wyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwqdnhxdrTsRJXCT6YE9wyc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:21"
+  },
+  {
+    "business_name": "Smart Kid Abacus Classes",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "517002",
+    "phone_number": "+91 81065 99630",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Shop No 1, Vellore - Chittoor Rd, Balaji Nagar Colony, Kadapa, Chittoor, Andhra Pradesh 517002",
+    "area": "Balaji Nagar Colony",
+    "latitude": 13.206543,
+    "longitude": 79.093976,
+    "place_id": "ChIJQWOAA7BdrTsRFnKqDlZ8QeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWOAA7BdrTsRFnKqDlZ8QeM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:27:21"
+  }
+]

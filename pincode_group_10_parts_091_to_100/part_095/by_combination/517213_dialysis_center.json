@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, Manuguru,",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "517213",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Government Hospital, near Saibaba Temple, Ashok Nagar, Manuguru (PT), Telangana 507117",
+    "area": "Ashok Nagar",
+    "latitude": 17.9505466,
+    "longitude": 80.81854489999999,
+    "place_id": "ChIJhfi1SXlXMToR1G_jKB2pROY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfi1SXlXMToR1G_jKB2pROY",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:22"
+  },
+  {
+    "business_name": "Bsa Rehabilitation centre for paralysis and epilepsy (fits)patients. Dr Fiyaz khan",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "517213",
+    "phone_number": "+91 94404 49625",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 68,
+    "address": "Bsa dr fiyaz paralysis hospital, Mahal, Andhra Pradesh 517235",
+    "area": "517213",
+    "latitude": 13.7758874,
+    "longitude": 78.7901925,
+    "place_id": "ChIJUSiYt0jxsjsROfPgOb2yFZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSiYt0jxsjsROfPgOb2yFZQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:05:22"
+  }
+]

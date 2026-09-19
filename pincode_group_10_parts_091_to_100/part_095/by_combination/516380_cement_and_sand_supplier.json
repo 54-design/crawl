@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MVC TRADERS",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Sand & gravel supplier",
+    "all_categories": "Sand & gravel supplier, Building materials market, Cement Supplier, Construction Material Wholesaler, Ready mix concrete supplier, Building materials supplier",
+    "pincode": "516380",
+    "phone_number": "+91 81481 42647",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "MVC Traders 22, Main Rd, Marutham Nagar, Ramachettypalayam, Peru, Sundakkamuthur, Coimbatore, Tamil Nadu 641010",
+    "area": "Marutham Nagar, Ramachettypalayam, Peru, Sundakkamuthur",
+    "latitude": 10.9603515,
+    "longitude": 76.9197896,
+    "place_id": "ChIJ0WA1xIdbqDsRIC48xugnc4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WA1xIdbqDsRIC48xugnc4g",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:47:30"
+  },
+  {
+    "business_name": "SRI PALANI MURUGAN TRADERS",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Construction Material Wholesaler",
+    "pincode": "516380",
+    "phone_number": "+91 97893 76500",
+    "website": "https://www.sripalanimurugancements.com/",
+    "rating": 4.9,
+    "reviews_count": 76,
+    "address": "11/2, Sathy Rd, Lakshmipuram, Ganapathy, Coimbatore, Tamil Nadu 641006",
+    "area": "Lakshmipuram, Ganapathy",
+    "latitude": 11.0258544,
+    "longitude": 76.9729115,
+    "place_id": "ChIJ5fsQhFBYqDsRA5XPP1XjDJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fsQhFBYqDsRA5XPP1XjDJ0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:47:30"
+  }
+]

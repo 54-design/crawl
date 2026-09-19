@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beyond The Book",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment",
+    "pincode": "517257",
+    "phone_number": "01789 451510",
+    "website": "https://www.btbpeople.co.uk/",
+    "rating": 4.9,
+    "reviews_count": 149,
+    "address": "Beyond The Book, 517257, India",
+    "area": "517257",
+    "latitude": 52.242719199999996,
+    "longitude": -1.3605551999999999,
+    "place_id": "ChIJp5PHwGgtd0gRex25jmqbTEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5PHwGgtd0gRex25jmqbTEA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:19:03"
+  },
+  {
+    "business_name": "Capgemini Technology Services India Limited (EPIP Campus)",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Software company",
+    "pincode": "517257",
+    "phone_number": "N/A",
+    "website": "https://www.capgemini.com/",
+    "rating": 4.2,
+    "reviews_count": 6487,
+    "address": "II, No. 155 - 156 (P), 158-162 (P) & 164-170 (P, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "EPIP Zone, Whitefield",
+    "latitude": 12.973657699999999,
+    "longitude": 77.7176999,
+    "place_id": "ChIJyUUsCooRrjsR3Dxm9NcCnlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUUsCooRrjsR3Dxm9NcCnlU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:19:03"
+  }
+]

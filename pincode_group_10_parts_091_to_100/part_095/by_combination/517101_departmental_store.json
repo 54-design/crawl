@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh traders",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "517101",
+    "phone_number": "+91 94407 27106",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "H8P8+7G8, 1-456, Old Pet, Old Peta, Chandragiri, Andhra Pradesh 517101",
+    "area": "Old Pet, Old Peta",
+    "latitude": 13.586071899999999,
+    "longitude": 79.3159676,
+    "place_id": "ChIJd8lUs3mzsjsRe0uSn3GTXaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8lUs3mzsjsRe0uSn3GTXaw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:40"
+  },
+  {
+    "business_name": "Sri Lakshmi",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, ATM",
+    "pincode": "517101",
+    "phone_number": "+91 98498 35890",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 204,
+    "address": "9-61/3, MR Palli Rd, Amaravathi Nagar, Padmavathi Nagar, Avilali, Andhra Pradesh 517502",
+    "area": "Amaravathi Nagar, Padmavathi Nagar",
+    "latitude": 13.623025,
+    "longitude": 79.4097127,
+    "place_id": "ChIJNcDbQhFLTToRnmLT1qDbXmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcDbQhFLTToRnmLT1qDbXmQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:41"
+  }
+]

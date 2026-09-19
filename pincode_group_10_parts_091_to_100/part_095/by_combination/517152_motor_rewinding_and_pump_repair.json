@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Rewinding Work",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop, Electric motor store, Electrical repair shop",
+    "pincode": "517152",
+    "phone_number": "+91 95032 76006",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Plot no B181, MIDC Indoram Gate 01, MIDC, Bori, Umari, Maharashtra 441122",
+    "area": "MIDC",
+    "latitude": 20.923963999999998,
+    "longitude": 78.9625478,
+    "place_id": "ChIJ0cfyHtiZ1DsRkheagQ2k84M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cfyHtiZ1DsRkheagQ2k84M",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:55:51"
+  },
+  {
+    "business_name": "Shri ram motar winding",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "517152",
+    "phone_number": "+91 99930 83443",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kurud, Chhattisgarh 492109",
+    "area": "517152",
+    "latitude": 20.8138538,
+    "longitude": 81.9629006,
+    "place_id": "ChIJv643puBNLzoRk7rCETExrlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv643puBNLzoRk7rCETExrlc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:55:51"
+  }
+]

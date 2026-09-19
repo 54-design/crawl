@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB.Aluminium Fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "517129",
+    "phone_number": "+91 90485 89803",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Paanamthundil bulding, Kannanalloor, Thrikkovilvattom, Keralam 691576",
+    "area": "517129",
+    "latitude": 8.8944005,
+    "longitude": 76.6786829,
+    "place_id": "ChIJN77cCgXjBTsRNSrX_OU65pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN77cCgXjBTsRNSrX_OU65pU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:48:43"
+  },
+  {
+    "business_name": "Aluminium Fabricators",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "517129",
+    "phone_number": "+91 95266 03424",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 35,
+    "address": "Kannamkode, Adoor, Kerala 691523",
+    "area": "Kannamkode",
+    "latitude": 9.1477646,
+    "longitude": 76.7344713,
+    "place_id": "ChIJAyuxeiMTBjsRYszAYl6QKpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyuxeiMTBjsRYszAYl6QKpQ",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:48:43"
+  }
+]

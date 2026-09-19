@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB Global",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "517192",
+    "phone_number": "+91 95006 77751",
+    "website": "http://abglobal.co.in/",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "261/2B 262/2B, Vanapadi Rd, Sipcot, Vanapadi, Tamil Nadu 632403",
+    "area": "Sipcot",
+    "latitude": 12.9534071,
+    "longitude": 79.3222698,
+    "place_id": "ChIJGW5Z23dKrTsRLTmA8nFgjpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGW5Z23dKrTsRLTmA8nFgjpA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:55"
+  },
+  {
+    "business_name": "AB Leatherware Manufacturing Company",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "517192",
+    "phone_number": "+91 89399 90026",
+    "website": "http://www.ableatherware.com/",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "134 Sidco Indutrial Estate, Ekkaduthangal, Guindy, Chennai, Tamil Nadu 600032",
+    "area": "Thiru Vi Ka Industrial Estate, Guindy",
+    "latitude": 13.0239596,
+    "longitude": 80.20986529999999,
+    "place_id": "ChIJFcG5SD1nUjoRRW05qDb57Ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcG5SD1nUjoRRW05qDb57Ro",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:59:55"
+  }
+]

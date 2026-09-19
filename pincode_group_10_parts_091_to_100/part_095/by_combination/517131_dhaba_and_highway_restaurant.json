@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy's Punjabi dhabha",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "517131",
+    "phone_number": "+91 95027 03889",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Bengaluru - Tirupati Hwy, Gundla Katta Manchi, Andhra Pradesh 517416",
+    "area": "517131",
+    "latitude": 13.1967058,
+    "longitude": 78.9820925,
+    "place_id": "ChIJSauJhJtnrTsRx9TvWfYAWoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSauJhJtnrTsRx9TvWfYAWoE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:52"
+  },
+  {
+    "business_name": "THE INDIAN DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "517131",
+    "phone_number": "+91 99930 74198",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "B7, Airport Rd, opposite jageshwari hotel, BSF Colony, Deen Dayal Nagar, Gwalior, Madhya Pradesh 474005",
+    "area": "BSF Colony, Deen Dayal Nagar",
+    "latitude": 26.265560299999997,
+    "longitude": 78.2166343,
+    "place_id": "ChIJy5FsJQDBdjkRn_jMJtpZRmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5FsJQDBdjkRn_jMJtpZRmo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medimax Medical & Surgical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Hospital equipment and supplies, Pharmaceutical Products Wholesaler, Medical supply store, Pharmaceutical lab, Surgical supply store",
+    "pincode": "516504",
+    "phone_number": "N/A",
+    "website": "https://www.medimaxsurgical.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rd Number 9, near mir Alam park, Mir Mahamod Pahadi Colony, Jala Baba Nagar, Kishan Bagh, Hyderabad, Telangana 500064",
+    "area": "Mir Mahamod Pahadi Colony, Jala Baba Nagar, Kishan Bagh",
+    "latitude": 17.3529585,
+    "longitude": 78.4314552,
+    "place_id": "ChIJA0geD4SXyzsR7N0HeCd_QJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0geD4SXyzsR7N0HeCd_QJA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:21:31"
+  },
+  {
+    "business_name": "Ramdev Pharmaceutical & Surgical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Pharmaceutical Products Wholesaler, Surgical Products Wholesaler, Surgical supply store",
+    "pincode": "516504",
+    "phone_number": "+91 87488 88288",
+    "website": "https://www.ramdevpharma.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "RUNECHA HEIGHTS, 1ST MAIN, 100 Bed Hospital Rd, M J NAGAR, Hosapete, Karnataka 583203",
+    "area": "M J NAGAR",
+    "latitude": 15.2651516,
+    "longitude": 76.3832219,
+    "place_id": "ChIJe9jE-SLUuTsRJRJoBPQw_mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9jE-SLUuTsRJRJoBPQw_mo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:21:31"
+  }
+]

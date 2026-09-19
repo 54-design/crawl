@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "516504",
+    "phone_number": "+91 94933 23316",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 43,
+    "address": "45/25-1F, 45/25-F-1, Venkata Ramana Colony Main Rd, Venkataramana Colony, Ashok Nagar, Kurnool, Andhra Pradesh 518005",
+    "area": "Venkataramana Colony, Ashok Nagar",
+    "latitude": 15.834511099999999,
+    "longitude": 78.0308668,
+    "place_id": "ChIJLQH1dVDntTsRwLph4QchXho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQH1dVDntTsRwLph4QchXho",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:21:39"
+  },
+  {
+    "business_name": "Kallada Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "516504",
+    "phone_number": "+91 93965 55000",
+    "website": "http://www.kalladatravels.com/",
+    "rating": 2.2,
+    "reviews_count": 44,
+    "address": "Bada Padakhana, Kurnool, Andhra Pradesh 518001",
+    "area": "Bada Padakhana",
+    "latitude": 15.828583,
+    "longitude": 78.050928,
+    "place_id": "ChIJs6qqqmPntTsRMo6F1j_vdlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6qqqmPntTsRMo6F1j_vdlw",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:21:41"
+  }
+]

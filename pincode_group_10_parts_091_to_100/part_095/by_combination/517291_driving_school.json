@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "517291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QHJQ+W93, Gurram Konda, Gurramkonda, Andhra Pradesh 517297",
+    "area": "517291",
+    "latitude": 13.7822736,
+    "longitude": 78.5884298,
+    "place_id": "ChIJBTin6g5ZsjsRjI-pl9eFrZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTin6g5ZsjsRjI-pl9eFrZk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:25"
+  },
+  {
+    "business_name": "Bharath Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "517291",
+    "phone_number": "+91 99493 04041",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "QHJQ, QJP, Gurramkonda, Andhra Pradesh 517297",
+    "area": "QHJQ",
+    "latitude": 13.782051899999999,
+    "longitude": 78.58910379999999,
+    "place_id": "ChIJXTYOaLpZsjsRS0Om-CUOyJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTYOaLpZsjsRS0Om-CUOyJU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:23:25"
+  }
+]

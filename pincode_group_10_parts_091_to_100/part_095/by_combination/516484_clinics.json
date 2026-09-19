@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New PHC KVG PALLI",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516484",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H698+RQG, Koragunrapalle, Balapanuru, Andhra Pradesh 516484",
+    "area": "Koragunrapalle",
+    "latitude": 14.5695572,
+    "longitude": 78.2168889,
+    "place_id": "ChIJTVyILlLzszsREI47vLgJCHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVyILlLzszsREI47vLgJCHE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:29"
+  },
+  {
+    "business_name": "Tea ☕ stol and panchar work",
+    "search_category": "Clinics",
+    "primary_category": "Hair replacement service",
+    "all_categories": "Hair replacement service",
+    "pincode": "516484",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Balapanur, Balapanuru, Andhra Pradesh 516484",
+    "area": "516484",
+    "latitude": 14.5374076,
+    "longitude": 78.1978783,
+    "place_id": "ChIJ0TMhrKfvszsR7Z3653J6cXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TMhrKfvszsR7Z3653J6cXo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:14:31"
+  }
+]

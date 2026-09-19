@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyothi Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "517128",
+    "phone_number": "+91 86394 18898",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3-771, 1st floor, Vellore Rd, Sanjeev Gandhi Nagar, Greamspet, Chittoor, Andhra Pradesh 517002",
+    "area": "Sanjeev Gandhi Nagar, Greamspet",
+    "latitude": 13.2006509,
+    "longitude": 79.09416519999999,
+    "place_id": "ChIJOwoasvVdrTsRDQXgInGnQCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwoasvVdrTsRDQXgInGnQCA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:21"
+  },
+  {
+    "business_name": "The Beauty Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "517128",
+    "phone_number": "+91 73309 41349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Kottamanchigundla Chattra, Gundla Katta Manchi, Andhra Pradesh 517416",
+    "area": "Kottamanchigundla Chattra",
+    "latitude": 13.1957759,
+    "longitude": 78.9901701,
+    "place_id": "ChIJL-cscXxnrTsRZR5yA3C8lm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-cscXxnrTsRZR5yA3C8lm0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:46:23"
+  }
+]

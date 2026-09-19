@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venturepluz Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, BPO Placement Agency, Call center, Unemployment office, Employment center, Human resource consulting, Recruiter",
+    "pincode": "517167",
+    "phone_number": "+91 96206 89786",
+    "website": "https://venturepluz.com/",
+    "rating": 3.8,
+    "reviews_count": 39,
+    "address": "#13, 2nd Floor, Meenakshi Kovil St, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "area": "Shivaji Nagar",
+    "latitude": 12.9844578,
+    "longitude": 77.6026073,
+    "place_id": "ChIJq6qqqmEWrjsR2VCFAa8BsD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqmEWrjsR2VCFAa8BsD0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:57:45"
+  },
+  {
+    "business_name": "BS Consult",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "517167",
+    "phone_number": "N/A",
+    "website": "https://www.beeraajaah.me/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BS Consult, 517167, India",
+    "area": "517167",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJkb25myqbxKoR7JCboxwSKrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkb25myqbxKoR7JCboxwSKrI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:57:45"
+  }
+]

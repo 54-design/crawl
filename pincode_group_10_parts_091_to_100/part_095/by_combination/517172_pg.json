@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR GENTS HOSTEL",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "517172",
+    "phone_number": "+91 90036 03979",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 137,
+    "address": "RR GENTS HOSTEL RR COMPLEX, THIRUMALA NAGAR, Pondur, Tamil Nadu 602105",
+    "area": "THIRUMALA NAGAR",
+    "latitude": 12.920859499999999,
+    "longitude": 79.9324942,
+    "place_id": "ChIJa1sSEADzUjoRzpMslu-129A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1sSEADzUjoRzpMslu-129A",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:56"
+  },
+  {
+    "business_name": "Viki Stays (Paying Guest)",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "517172",
+    "phone_number": "+91 84595 44264",
+    "website": "http://www.vikistays.com/",
+    "rating": 4.5,
+    "reviews_count": 88,
+    "address": "Plot no. 10, S&P Fortune,Vadakal, TK, village, Sriperumbudur, Tamil Nadu 602118",
+    "area": "village",
+    "latitude": 12.905519499999999,
+    "longitude": 79.9333667,
+    "place_id": "ChIJFXlyH33zUjoRgFa8BRRpiIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXlyH33zUjoRgFa8BRRpiIU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:56"
+  }
+]

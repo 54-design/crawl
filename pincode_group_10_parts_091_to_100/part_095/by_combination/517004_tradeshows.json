@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petel Event Decor",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "517004",
+    "phone_number": "+91 79958 38275",
+    "website": "https://peteleventdecor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Petel Event Decor, 517004, India",
+    "area": "517004",
+    "latitude": 13.41378,
+    "longitude": 79.17653659999999,
+    "place_id": "ChIJV5dOzQ68IkURdC4Haw0ZP-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5dOzQ68IkURdC4Haw0ZP-o",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:31"
+  },
+  {
+    "business_name": "SmartDV Technologies Pvt Ltd Chittoor",
+    "search_category": "Tradeshows",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "517004",
+    "phone_number": "N/A",
+    "website": "https://www.smart-dv.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "76PW+76M, Road, Vilasavarahapuram, Puttur, Andhra Pradesh 517167",
+    "area": "517004",
+    "latitude": 13.2855428,
+    "longitude": 79.2452015,
+    "place_id": "ChIJ7fLCjPdXrTsR3mbuCOJ_zFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fLCjPdXrTsR3mbuCOJ_zFI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:29:32"
+  }
+]

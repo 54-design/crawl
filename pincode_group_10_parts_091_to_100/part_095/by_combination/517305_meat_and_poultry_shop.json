@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MATHA MEATS",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat processor",
+    "all_categories": "Meat processor, Butcher shop deli",
+    "pincode": "517305",
+    "phone_number": "+91 85904 00846",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 53,
+    "address": "Pavoor Rd, Padivattom, Edappally, Ernakulam, Keralam 682024",
+    "area": "Padivattom, Edappally",
+    "latitude": 10.009985799999999,
+    "longitude": 76.31860739999999,
+    "place_id": "ChIJ27UfaR8NCDsRFUBi24ODbyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27UfaR8NCDsRFUBi24ODbyM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:27:57"
+  },
+  {
+    "business_name": "FAMOUS MUTTON SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Chicken & Mutton Shop",
+    "pincode": "517305",
+    "phone_number": "+91 99630 02527",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Uppal, Srinivasa Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Gandinagar, Srinivasa Colony, Uppal",
+    "latitude": 17.4018996,
+    "longitude": 78.5685062,
+    "place_id": "ChIJb45588yeyzsRsOWS6laNvDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb45588yeyzsRsOWS6laNvDs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:27:57"
+  }
+]

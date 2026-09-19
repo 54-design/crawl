@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snc",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "517102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "M8HX+9J8, Ratan Rd, Balajy Colony, Tirumala, Tirupati Urban, Andhra Pradesh 517504",
+    "area": "Balajy Colony, Tirumala",
+    "latitude": 13.6784205,
+    "longitude": 79.3490721,
+    "place_id": "ChIJXZEWcke1sjsRm1miU8oyiDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZEWcke1sjsRm1miU8oyiDc",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:27"
+  },
+  {
+    "business_name": "Sarvana Sweets , Bakery and Hotel",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "517102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 16,
+    "address": "J977+J2H, Chennai - Anantapur Hwy, Pudipatla, Andhra Pradesh 517505",
+    "area": "517102",
+    "latitude": 13.6140569,
+    "longitude": 79.3626195,
+    "place_id": "ChIJMYPexn61sjsRWRfQTZ7FLww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYPexn61sjsRWRfQTZ7FLww",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:31:27"
+  }
+]

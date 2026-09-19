@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "517123",
+    "phone_number": "+91 88866 79299",
+    "website": "http://www.navata.com/",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "D.NO:1-68 OPP RAYALASIMA HIGH SCHHOL- 517234, ANNAMAYYA, Kalikiri, Andhra Pradesh 517234",
+    "area": "517123",
+    "latitude": 13.643042,
+    "longitude": 78.80304269999999,
+    "place_id": "ChIJLZ3PBuaNsjsR_WlYMiquGpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZ3PBuaNsjsR_WlYMiquGpA",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:37:15"
+  },
+  {
+    "business_name": "Trukky",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "517123",
+    "phone_number": "+91 96435 75858",
+    "website": "https://www.trukky.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "GF-001, Mauryansh Elanza, Shyamal Cross Rd, Shyamal, Ahmedabad, Gujarat 380015",
+    "area": "Shyamal",
+    "latitude": 23.0129387,
+    "longitude": 72.5298645,
+    "place_id": "ChIJUbmytKpToEoR0kWqAKoUX7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbmytKpToEoR0kWqAKoUX7U",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:37:16"
+  }
+]

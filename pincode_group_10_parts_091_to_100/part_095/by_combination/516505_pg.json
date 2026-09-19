@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grand Stay Gents PG - The Boys PG Rooms",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Backpacker Hostel",
+    "pincode": "516505",
+    "phone_number": "+91 89717 95287",
+    "website": "https://grandstaygentspg.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "18/1, Nandram Singh Lane, Narayana Pillai Street, Cross, Commercial Street, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "area": "Bharati Nagar, Shivaji Nagar",
+    "latitude": 12.984047799999999,
+    "longitude": 77.6091935,
+    "place_id": "ChIJp-35lh0XrjsRg0badFlkOwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-35lh0XrjsRg0badFlkOwU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:23:46"
+  },
+  {
+    "business_name": "PG IN GREATER NOIDA",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "516505",
+    "phone_number": "+91 92101 09900",
+    "website": "https://sites.google.com/view/pgingreaternoida/home",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "House No, C 185, 3rd St, Alpha 1, Block C, Alpha I, Greater Noida, Uttar Pradesh 201310",
+    "area": "Alpha 1, Block C, Alpha I",
+    "latitude": 28.472659,
+    "longitude": 77.510515,
+    "place_id": "ChIJcRrNmH7qDDkRPoon8rsCawM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRrNmH7qDDkRPoon8rsCawM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:23:46"
+  }
+]

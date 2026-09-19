@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalakshmi Silver",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "517167",
+    "phone_number": "+91 74180 56700",
+    "website": "http://mlppt.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "41, Bazaar St, Pallipattu, Tamil Nadu 631207",
+    "area": "517167",
+    "latitude": 13.337067099999999,
+    "longitude": 79.4395278,
+    "place_id": "ChIJbX08ApFVTToREGoYDmPBDQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbX08ApFVTToREGoYDmPBDQI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:23"
+  },
+  {
+    "business_name": "Mahalakshmi Jewellery(Since 1984)",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Pawn shop",
+    "pincode": "517167",
+    "phone_number": "+91 82489 99747",
+    "website": "http://www.drag2bag.com/",
+    "rating": 4.2,
+    "reviews_count": 79,
+    "address": "42, Bazaar St, Pallipattu, Tamil Nadu 631207",
+    "area": "517167",
+    "latitude": 13.3371441,
+    "longitude": 79.4395301,
+    "place_id": "ChIJffyIAZFVTToR5HCiGfFMkZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffyIAZFVTToR5HCiGfFMkZo",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:23"
+  }
+]

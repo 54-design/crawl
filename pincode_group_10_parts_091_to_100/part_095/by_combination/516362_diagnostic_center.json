@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR DIAGNOSTIC CENTRE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "516362",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Srinivasa Nagar, Proddatur, Andhra Pradesh 516360",
+    "area": "Srinivasa Nagar",
+    "latitude": 14.748834299999999,
+    "longitude": 78.5569001,
+    "place_id": "ChIJrZlEh4N5tDsR_KPcxFudLvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZlEh4N5tDsR_KPcxFudLvs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:45:25"
+  },
+  {
+    "business_name": "Mahesh Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "516362",
+    "phone_number": "+91 72072 43433",
+    "website": "https://maheshdiagnostics.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Rd, beside HDFC Bank, Mannuru, Andhra Pradesh 516115",
+    "area": "516362",
+    "latitude": 14.203155899999999,
+    "longitude": 79.14996219999999,
+    "place_id": "ChIJR5CRb4wlszsRySx4KXTAzHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5CRb4wlszsRySx4KXTAzHI",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 06:45:27"
+  }
+]

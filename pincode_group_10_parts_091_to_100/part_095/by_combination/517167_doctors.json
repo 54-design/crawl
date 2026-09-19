@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Institute of Medical Sciences and Research",
+    "search_category": "Doctors",
+    "primary_category": "University",
+    "all_categories": "University, College",
+    "pincode": "517167",
+    "phone_number": "+91 85722 46666",
+    "website": "http://www.aimsrchittoor.edu.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Murakambattu, Andhra Pradesh 517127",
+    "area": "517167",
+    "latitude": 13.251200299999999,
+    "longitude": 79.1158172,
+    "place_id": "ChIJDcMKVStZrTsRX4AcGS4ifZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcMKVStZrTsRX4AcGS4ifZE",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:32"
+  },
+  {
+    "business_name": "Nagalamma devasthanam",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "517167",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "77MR+VQV, Srirangarajapuram, Pedakondepalle, Andhra Pradesh 517167",
+    "area": "517167",
+    "latitude": 13.284745899999999,
+    "longitude": 79.2919251,
+    "place_id": "ChIJG_pBIwBVrTsRj_3CSa-1gQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_pBIwBVrTsRj_3CSa-1gQ8",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:56:33"
+  }
+]

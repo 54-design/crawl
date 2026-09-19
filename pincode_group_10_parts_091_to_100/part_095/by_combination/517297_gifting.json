@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjith Toys",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "517297",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RJPV+44P, Gurramkonda, Cherlo Palle, Andhra Pradesh 517305",
+    "area": "517297",
+    "latitude": 13.8353457,
+    "longitude": 78.6428243,
+    "place_id": "ChIJ5YLTeABXsjsR5_hKalGu9bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YLTeABXsjsR5_hKalGu9bk",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:25:31"
+  },
+  {
+    "business_name": "SA Electronics, Home needs & Gift Centre",
+    "search_category": "Gifting",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "517297",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH 66, Peddamandem, Andhra Pradesh 517297",
+    "area": "517297",
+    "latitude": 13.928828,
+    "longitude": 78.5377894,
+    "place_id": "ChIJ9XDjJRZTsjsRYLgLsB0E6nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XDjJRZTsjsRYLgLsB0E6nM",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:25:33"
+  }
+]

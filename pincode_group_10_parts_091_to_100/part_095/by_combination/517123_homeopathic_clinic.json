@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Hospital",
+    "pincode": "517123",
+    "phone_number": "+91 80199 02902",
+    "website": "https://maheshhomeopathychirala.com/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "H-13/11/10, Paparajuthota, Chirala, Andhra Pradesh 523155",
+    "area": "Paparajuthota",
+    "latitude": 15.8286249,
+    "longitude": 80.3557799,
+    "place_id": "ChIJu9ymJ5ZFSjoRNmaBzlXP2B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9ymJ5ZFSjoRNmaBzlXP2B0",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:36:58"
+  },
+  {
+    "business_name": "Doctor Prakasam Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "517123",
+    "phone_number": "+91 495 236 8304",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 34,
+    "address": "6/190, Akkarakattil Wayanad Road, junction, near malabar Christian college, Kozhikode, Keralam 673011",
+    "area": "Vellayil",
+    "latitude": 11.2650844,
+    "longitude": 75.7793257,
+    "place_id": "ChIJ8b0hQDRZpjsRBrB50ZC0tnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8b0hQDRZpjsRBrB50ZC0tnU",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:36:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivas Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "517130",
+    "phone_number": "+91 99633 44130",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 18,
+    "address": "6-482, Road, Kamayyathopu, Chalasani Nagar, Kanuru, Andhra Pradesh 520007",
+    "area": "Kamayyathopu, Chalasani Nagar, Kanuru",
+    "latitude": 16.4861974,
+    "longitude": 80.6869428,
+    "place_id": "ChIJv2-sZ_77NToRxcDQqP5hTDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2-sZ_77NToRxcDQqP5hTDs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:12"
+  },
+  {
+    "business_name": "SARVODAYA MARKETING",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store, Art dealer, Art supply store, Display stand manufacturer, Drafting equipment supplier, Office supply store, Office supply wholesaler, Paintings store, Paper shredding machine supplier, Scrapbooking store",
+    "pincode": "517130",
+    "phone_number": "+91 63051 43994",
+    "website": "https://www.ps4u.in/",
+    "rating": 4.4,
+    "reviews_count": 232,
+    "address": "Global Hospital Complex, Gayatri Towers, 35, MG Rd, opp. Old Bus Stand, near police control room, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5111333,
+    "longitude": 80.61860879999999,
+    "place_id": "ChIJq6qqqqv6NToR4xpjNzGuR_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqqv6NToR4xpjNzGuR_E",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:50:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Padmavathi Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Wholesaler",
+    "pincode": "517172",
+    "phone_number": "+91 90105 42276",
+    "website": "http://www.sripadmavathijewellers.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7-2-599/600, Takara Basthi, Hissamganj, Monda Market, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Takara Basthi, Hissamganj, Monda Market, Shivaji Nagar",
+    "latitude": 17.434086999999998,
+    "longitude": 78.4937569,
+    "place_id": "ChIJiX6ayh6ayzsREwJragoiT0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiX6ayh6ayzsREwJragoiT0w",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:08"
+  },
+  {
+    "business_name": "Shubham Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "517172",
+    "phone_number": "+91 91213 55210",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 1060,
+    "address": "3-4-315/1, NH 65, Suvidha Arcade, RTC Colony, L. B. Nagar, Hyderabad, Telangana 500074",
+    "area": "Suvidha Arcade, RTC Colony, L. B. Nagar",
+    "latitude": 17.3483044,
+    "longitude": 78.54950869999999,
+    "place_id": "ChIJ__SaoKSYyzsR5diplAiKJco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__SaoKSYyzsR5diplAiKJco",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 07:58:09"
+  }
+]

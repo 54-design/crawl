@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517194",
+    "phone_number": "+91 94939 62156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mandapeta, Andhra Pradesh 533308",
+    "area": "517194",
+    "latitude": 16.8697294,
+    "longitude": 81.92779569999999,
+    "place_id": "ChIJ-xRz6pSWNzoRpZ4ThAULZbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xRz6pSWNzoRpZ4ThAULZbs",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:40"
+  },
+  {
+    "business_name": "K. Manikyachari Mechanic Works",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "517194",
+    "phone_number": "+91 98497 31693",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Santhi Nagar, Nidadavolu, Andhra Pradesh 534301",
+    "area": "Santhi Nagar",
+    "latitude": 16.906281,
+    "longitude": 81.6683127,
+    "place_id": "ChIJk309FkCwNzoRQKBqi-KyXHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk309FkCwNzoRQKBqi-KyXHg",
+    "part_id": "part_095",
+    "crawled_at": "2026-09-19 08:03:40"
+  }
+]
