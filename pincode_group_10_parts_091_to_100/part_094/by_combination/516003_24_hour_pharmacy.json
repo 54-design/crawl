@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Afsheen pharmacy & General store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "45/374-3, St 3, Balaji Nagar, Akkayapalle, Andhra Pradesh 516001",
+    "area": "Balaji Nagar",
+    "latitude": 14.4662496,
+    "longitude": 78.8172474,
+    "place_id": "ChIJtezV9d1zszsROtzbe3Sak6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtezV9d1zszsROtzbe3Sak6s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:23"
+  },
+  {
+    "business_name": "Subhan Medical Stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516003",
+    "phone_number": "+91 80081 42809",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "38/5001-11-4, near bramhaiah petrol bunk, Tilak Nagar, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "Tilak Nagar",
+    "latitude": 14.468017399999999,
+    "longitude": 78.862409,
+    "place_id": "ChIJi5B-oRtyszsRYA7Em1urPCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5B-oRtyszsRYA7Em1urPCQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:23"
+  }
+]

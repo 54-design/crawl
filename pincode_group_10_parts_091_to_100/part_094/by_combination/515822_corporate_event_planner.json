@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sitara Suppliers",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "515822",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "W7V3+RXC, Ranga St, Ward Number 10, Guzari Road, Uravakonda, Andhra Pradesh 515812",
+    "area": "Ward Number 10, Guzari Road",
+    "latitude": 14.944561799999999,
+    "longitude": 77.2548995,
+    "place_id": "ChIJxWb5UgrZtjsRJPcaqucc2_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWb5UgrZtjsRJPcaqucc2_w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:33:35"
+  },
+  {
+    "business_name": "Sri Veerabhadreshwara Shamiyana & lightings Suppliers Govindawada",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "515822",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st ward, Main Rd, D.Honnur, Andhra Pradesh 515812",
+    "area": "515822",
+    "latitude": 14.9192565,
+    "longitude": 77.1092429,
+    "place_id": "ChIJe7aaxV4ntzsRSTVp_3tnuwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7aaxV4ntzsRSTVp_3tnuwg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:33:35"
+  }
+]

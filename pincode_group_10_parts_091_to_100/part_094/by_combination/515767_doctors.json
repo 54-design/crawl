@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr C Govinda Rajulu",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GXCM+574, Mamadur, Santhekondapuram, Andhra Pradesh 515767",
+    "area": "Mamadur",
+    "latitude": 14.520390599999999,
+    "longitude": 76.98320439999999,
+    "place_id": "ChIJGbMgawTPsDsRCILkKxRdLfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbMgawTPsDsRCILkKxRdLfU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:40"
+  },
+  {
+    "business_name": "Nuni Madana mohan",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "F3H6+QQP, Chinnampalli, Yatakal, Andhra Pradesh 515761",
+    "area": "Chinnampalli",
+    "latitude": 14.4794322,
+    "longitude": 77.06194839999999,
+    "place_id": "ChIJ0f829yfbsDsRlRw1ffnvnA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0f829yfbsDsRlRw1ffnvnA0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:41"
+  }
+]

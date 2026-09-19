@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teluguness",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "515731",
+    "phone_number": "+91 73306 31919",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hitech City Main Rd, Surya Enclave, Silicon Valley, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Surya Enclave, Silicon Valley, Madhapur",
+    "latitude": 17.4470732,
+    "longitude": 78.3783156,
+    "place_id": "ChIJO2SHcauTyzsRicTycDCNGPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2SHcauTyzsRicTycDCNGPw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:16"
+  },
+  {
+    "business_name": "Lakshmi Tiffin Centre",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "515731",
+    "phone_number": "+91 86884 64335",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 241,
+    "address": "D No.6, 979, Kalyandurgam Rd, opp. Maruf Biryani Centre, Azad Nagar, Rudrampeta, Papampeta, Andhra Pradesh 515004",
+    "area": "Azad Nagar, Rudrampeta",
+    "latitude": 14.6835662,
+    "longitude": 77.5815113,
+    "place_id": "ChIJAcnMyLlKsTsRIKaSxh-HbpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcnMyLlKsTsRIKaSxh-HbpQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:18"
+  }
+]

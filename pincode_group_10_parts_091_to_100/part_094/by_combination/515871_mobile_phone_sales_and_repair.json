@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SJ MOBILE SALES & SERVICE",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store",
+    "pincode": "515871",
+    "phone_number": "+91 88478 30326",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dungdung Complex, Bombay Chowk, beside St Marry Primary School, Cox Colony, Jharsuguda, Odisha 768203",
+    "area": "Cox Colony",
+    "latitude": 21.8761655,
+    "longitude": 84.0153747,
+    "place_id": "ChIJebi1Df_nIDoRf3-5K0w7Yys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebi1Df_nIDoRf3-5K0w7Yys",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:12"
+  },
+  {
+    "business_name": "OPPO Service Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "515871",
+    "phone_number": "+91 80180 07849",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2nd Floor, Corporation Bank Building Dhaniram Business Park, Sarbahal Rd, Jharsuguda, Odisha 768201",
+    "area": "Marwari Para",
+    "latitude": 21.8460474,
+    "longitude": 84.01259569999999,
+    "place_id": "ChIJjXWc8jfnIDoRY4XvOb6d90c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXWc8jfnIDoRY4XvOb6d90c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:12"
+  }
+]

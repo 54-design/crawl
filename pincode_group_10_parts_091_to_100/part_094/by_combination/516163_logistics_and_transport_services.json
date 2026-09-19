@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "516163",
+    "phone_number": "+91 88866 79167",
+    "website": "http://www.navata.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "D.NO.1/38, MYDUKURU ROAD, KHAJIPETKADAPA (D.T)ANDHRA PRADESH,, KHAJIPET (C), Andhra Pradesh 516203",
+    "area": "516163",
+    "latitude": 14.654760399999999,
+    "longitude": 78.7697889,
+    "place_id": "ChIJk5I7vxB7szsR20c3JlTguy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5I7vxB7szsR20c3JlTguy8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:27"
+  },
+  {
+    "business_name": "Noida Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "516163",
+    "phone_number": "+91 92208 11717",
+    "website": "https://noidatransport.com/",
+    "rating": 5,
+    "reviews_count": 368,
+    "address": "Third Floor, Master Complex, T-1, Gali No.2, Harola, Sector 5, Noida, Uttar Pradesh 201301",
+    "area": "Harola, Sector 5",
+    "latitude": 28.5892393,
+    "longitude": 77.317405,
+    "place_id": "ChIJOShtq6TlDDkRhMtYLNG8JQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOShtq6TlDDkRhMtYLNG8JQw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:29"
+  }
+]

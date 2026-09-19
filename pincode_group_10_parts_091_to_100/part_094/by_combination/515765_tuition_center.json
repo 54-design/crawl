@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navodaya Coaching center",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "515765",
+    "phone_number": "+91 99807 95488",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SKPT Rd, Y N Hosakote, Karnataka 572141",
+    "area": "515765",
+    "latitude": 14.2811843,
+    "longitude": 77.1740444,
+    "place_id": "ChIJgeZsDSPhsDsRRTERZfM9g0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeZsDSPhsDsRRTERZfM9g0o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:58"
+  },
+  {
+    "business_name": "DWIJA ACADEMY",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "515765",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/channel/UCzr2N2jC5XSy0EdsiJ3LLJQ",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D.No: 1/74/3A , Tenagallu village , kundurpi Mandal, Tenagal, Andhra Pradesh 515765",
+    "area": "Tenagallu",
+    "latitude": 14.351576,
+    "longitude": 77.1104371,
+    "place_id": "ChIJjx4UJRLfsDsRe-8O-37orog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjx4UJRLfsDsRe-8O-37orog",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:58"
+  }
+]

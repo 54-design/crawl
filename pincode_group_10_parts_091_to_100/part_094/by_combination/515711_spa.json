@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eswar Hair Style",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "515711",
+    "phone_number": "+91 91777 36608",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anantapur, Alamuru, Andhra Pradesh 515722",
+    "area": "515711",
+    "latitude": 14.6250713,
+    "longitude": 77.5390128,
+    "place_id": "ChIJRxwXsMk1sTsRh_xFKaWfLIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxwXsMk1sTsRh_xFKaWfLIo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:03:35"
+  },
+  {
+    "business_name": "Natural Spa & Beauty",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515711",
+    "phone_number": "+91 89779 29089",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Amrutha Ville, Flat No - 308, Block B, opp. Yashoda Hospital, Somajiguda, Hyderabad, Telangana 500082",
+    "area": "Somajiguda",
+    "latitude": 17.42468,
+    "longitude": 78.4577798,
+    "place_id": "ChIJ94ZBClWXyzsRNCbDEBaV9no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94ZBClWXyzsRNCbDEBaV9no",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:03:35"
+  }
+]

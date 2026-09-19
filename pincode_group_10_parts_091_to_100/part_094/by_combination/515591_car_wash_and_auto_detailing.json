@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karthik Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515591",
+    "phone_number": "+91 99638 85669",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Nandha Moori Peta, Nuzividu, Andhra Pradesh 521201",
+    "area": "Nandha Moori Peta",
+    "latitude": 16.7776949,
+    "longitude": 80.8442585,
+    "place_id": "ChIJo57_7bd1NjoR1Glaxnmf8Tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo57_7bd1NjoR1Glaxnmf8Tc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:44:07"
+  },
+  {
+    "business_name": "Speed Car Wash And Ceramic",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515591",
+    "phone_number": "+91 77998 52222",
+    "website": "http://www.speedcarwash.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mini Bypass Road, opp. GVRR College, R R NAGAR, BV Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "R R NAGAR, BV Nagar",
+    "latitude": 14.408859399999999,
+    "longitude": 79.9632294,
+    "place_id": "ChIJP6Tlz3zzTDoR5XkqrytTt5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6Tlz3zzTDoR5XkqrytTt5M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:44:07"
+  }
+]

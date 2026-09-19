@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen exchange",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Media company",
+    "all_categories": "Media company, Consultant, Information services, Market researcher",
+    "pincode": "515671",
+    "phone_number": "+91 93100 19923",
+    "website": "https://www.cloudkitchenexchange.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Preet Vihar G block Rd, G-Block, Preet Vihar, Delhi, 110092",
+    "area": "G-Block, Preet Vihar",
+    "latitude": 28.641293299999997,
+    "longitude": 77.29859189999999,
+    "place_id": "ChIJ91Y-1I39DDkR3j0N3zt6eKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91Y-1I39DDkR3j0N3zt6eKM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:41"
+  },
+  {
+    "business_name": "Moms Cloud Kitchenn",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "515671",
+    "phone_number": "+91 89776 28082",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RK Villa, 36-72, Defence Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Defence Colony, Sainikpuri",
+    "latitude": 17.4869959,
+    "longitude": 78.5370382,
+    "place_id": "ChIJJRPmsEObyzsRRKXdNoUQSS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRPmsEObyzsRRKXdNoUQSS0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:41"
+  }
+]

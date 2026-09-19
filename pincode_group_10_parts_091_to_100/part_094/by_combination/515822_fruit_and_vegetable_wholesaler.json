@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Junnu Vejitable Market",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "515822",
+    "phone_number": "+91 81422 54523",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "333, ATP Rd, Gootu, Sollapuram, Andhra Pradesh 515822",
+    "area": "515822",
+    "latitude": 14.816367399999999,
+    "longitude": 77.1582186,
+    "place_id": "ChIJjZ0upTYptzsRmVDxUUDhbgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZ0upTYptzsRmVDxUUDhbgw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:32:31"
+  },
+  {
+    "business_name": "FARMERS 2 CUSTOMERS",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store, Vegetable wholesale market",
+    "pincode": "515822",
+    "phone_number": "+91 96116 41899",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "5th Cross, Hosapalaya, Muneshwara Nagar, Mangammanapalya, Bengaluru, Karnataka 560068",
+    "area": "Bandepalya, Mangammanapalya",
+    "latitude": 12.8983647,
+    "longitude": 77.6390256,
+    "place_id": "ChIJwTvKFjYVrjsR5KmMRwCjIHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTvKFjYVrjsR5KmMRwCjIHU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:32:33"
+  }
+]

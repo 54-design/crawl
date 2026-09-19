@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khuman Auto",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Two Wheeler Repair Shop",
+    "pincode": "515751",
+    "phone_number": "+91 70463 81966",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "01, Dahod Rd, Bapunagar Society, Godhra, Gujarat 389001",
+    "area": "Bapunagar Society",
+    "latitude": 22.775033699999998,
+    "longitude": 73.6400539,
+    "place_id": "ChIJj1W_jm-aYDkRJqpBdrkB2VA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1W_jm-aYDkRJqpBdrkB2VA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:12"
+  },
+  {
+    "business_name": "Mamta motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop",
+    "pincode": "515751",
+    "phone_number": "+91 99257 82180",
+    "website": "http://www.mamtamotors.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rahematulla masjid Khadi faliya rod Amdavad, highway, Godhra, Gujarat 389001",
+    "area": "Down Yard",
+    "latitude": 22.7833357,
+    "longitude": 73.6060397,
+    "place_id": "ChIJ6fxAtgGbYDkRQ1e83zLSGgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fxAtgGbYDkRQ1e83zLSGgw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:12"
+  }
+]

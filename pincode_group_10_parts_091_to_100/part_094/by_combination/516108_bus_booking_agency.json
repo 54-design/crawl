@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meghana Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "516108",
+    "phone_number": "+91 80084 04886",
+    "website": "https://www.meghanabus.in/",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "No. 3-2-842, beeside bank of maharashtra, 2, Kachiguda Station Rd, Barkatpura, Kachiguda, Hyderabad, Telangana 500027",
+    "area": "Barkatpura, Kachiguda",
+    "latitude": 17.3897866,
+    "longitude": 78.49651659999999,
+    "place_id": "ChIJZaUuwcmZyzsRFqb6sJtACUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaUuwcmZyzsRFqb6sJtACUA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:58"
+  },
+  {
+    "business_name": "New akbar travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator, Visa and passport office",
+    "pincode": "516108",
+    "phone_number": "+91 98475 50002",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "KAITHAVILAYIL BUILDING, opp. ICICI BANK, near NORTH PVT BUS STAND, Pela, Old Mavelikkara, Mavelikara, Keralam 690101",
+    "area": "Pela, Old Mavelikkara",
+    "latitude": 9.252613799999999,
+    "longitude": 76.53988509999999,
+    "place_id": "ChIJL0O1oEAfBjsRpUX8LXYsTVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0O1oEAfBjsRpUX8LXYsTVc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:59"
+  }
+]

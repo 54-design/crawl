@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "516115",
+    "phone_number": "+91 90327 12102",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Rajampet, Andhra Pradesh 516115",
+    "area": "516115",
+    "latitude": 14.1992715,
+    "longitude": 79.156798,
+    "place_id": "ChIJAQ2M_WElszsRnNb5n5-bilI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQ2M_WElszsRnNb5n5-bilI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:26"
+  },
+  {
+    "business_name": "Venkatesh Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "516115",
+    "phone_number": "+91 63012 18552",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vontimitta, Andhra Pradesh 516213",
+    "area": "516115",
+    "latitude": 14.397857499999999,
+    "longitude": 79.01715829999999,
+    "place_id": "ChIJcW7D3twVszsRTAHgl_3SlPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcW7D3twVszsRTAHgl_3SlPA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalaya Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Gift shop, Pen store, Toy store",
+    "pincode": "515631",
+    "phone_number": "+91 93983 10267",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tolichowki Road, near Honda Showroom, beside ToliChowki FlyOver, Hyderabad, Telangana 500008",
+    "area": "Daulat Gulshan Colony, Surya Nagar, Toli Chowki",
+    "latitude": 17.4005576,
+    "longitude": 78.41332659999999,
+    "place_id": "ChIJWd8CBMKWyzsRu91rcgZY6z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWd8CBMKWyzsRu91rcgZY6z8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:51:41"
+  },
+  {
+    "business_name": "Surya Darshan Book Stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Books Wholesaler",
+    "pincode": "515631",
+    "phone_number": "+91 91779 64781",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "28/26, Boya St, Old Town, Ananthapur, Anantapur, Andhra Pradesh 515001",
+    "area": "Old Town",
+    "latitude": 14.6765256,
+    "longitude": 77.60739869999999,
+    "place_id": "ChIJt1GooeNLsTsRnMn_sRRxvxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1GooeNLsTsRnMn_sRRxvxI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:51:41"
+  }
+]

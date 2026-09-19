@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saleem Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry designer",
+    "pincode": "516003",
+    "phone_number": "+91 97010 70933",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "#13, 534, YV Street, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "YV Street, Ganagapeta",
+    "latitude": 14.480780699999999,
+    "longitude": 78.8223802,
+    "place_id": "ChIJ8T2sNuRzszsR_Gwdxaa1CeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8T2sNuRzszsR_Gwdxaa1CeQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "FRIENDS JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "516003",
+    "phone_number": "+91 86881 63337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "back said jumma masjid, 13/320 C.K STREET, YV St, YV Street, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "YV Street, Ganagapeta",
+    "latitude": 14.481158299999999,
+    "longitude": 78.8216552,
+    "place_id": "ChIJ-VVMcGxzszsRYgxjgS0KMB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VVMcGxzszsRYgxjgS0KMB8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:17"
+  }
+]

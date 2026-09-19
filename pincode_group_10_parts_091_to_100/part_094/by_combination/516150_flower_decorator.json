@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iris Florists.",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "516150",
+    "phone_number": "+91 94487 70777",
+    "website": "https://irisflorists.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Majestic Commercial Complex, Bunts Hostel Rd, opp. Medicare Centre Complex, Boloor, Kodailbail, Mangaluru, Karnataka 575003",
+    "area": "Boloor, Kodailbail",
+    "latitude": 12.8760637,
+    "longitude": 74.8465959,
+    "place_id": "ChIJ69asmEtbozsRGwvg5iyDfkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69asmEtbozsRGwvg5iyDfkk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:36"
+  },
+  {
+    "business_name": "Ramya Flower Stall",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market, Dried flower shop, Flower delivery, Flower designer",
+    "pincode": "516150",
+    "phone_number": "+91 95810 86006",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "beside kanchi saree house, New Prakasham Bazar, Bottu Guda, Nalgonda, Telangana 508001",
+    "area": "New Prakasham Bazar, Bottu Guda",
+    "latitude": 17.051980099999998,
+    "longitude": 79.2683978,
+    "place_id": "ChIJg8kjGsgpyzsR6fiC60M5gYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8kjGsgpyzsR6fiC60M5gYs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:36"
+  }
+]

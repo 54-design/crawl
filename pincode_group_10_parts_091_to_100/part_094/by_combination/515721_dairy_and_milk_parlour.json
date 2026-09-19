@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milk Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "515721",
+    "phone_number": "+91 90002 88168",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 23,
+    "address": "Krishna Mahal Center, Venugonda, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "Venugonda",
+    "latitude": 16.0906277,
+    "longitude": 80.17027259999999,
+    "place_id": "ChIJWajF5GtjSjoR6folZkqml3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWajF5GtjSjoR6folZkqml3w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:28"
+  },
+  {
+    "business_name": "Nilagiris Diary Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service, Dairy store",
+    "pincode": "515721",
+    "phone_number": "+91 96768 39679",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MHJW+7X7, Near Reliance Digital, Subash Road, Anantapur - Tirupati Hwy, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6806541,
+    "longitude": 77.5974154,
+    "place_id": "ChIJdRyEQ9tKsTsRXUfhq-1FGEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRyEQ9tKsTsRXUfhq-1FGEQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai & CO, Wholesale",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515651",
+    "phone_number": "+91 98852 56699",
+    "website": "https://srisaico.in/",
+    "rating": 4,
+    "reviews_count": 306,
+    "address": "J99F+547, Saibaba Colony, Thatithopu, peruru, Andhra Pradesh 517505",
+    "area": "Saibaba Colony, Thatithopu",
+    "latitude": 13.6179201,
+    "longitude": 79.3728017,
+    "place_id": "ChIJz2NUY8S1sjsR0BYxr2smrlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2NUY8S1sjsR0BYxr2smrlQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:00"
+  },
+  {
+    "business_name": "Elahie egg Center",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Egg supplier",
+    "pincode": "515651",
+    "phone_number": "+91 99484 03525",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "Parthasaradhi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Parthasaradhi Nagar",
+    "latitude": 14.4092459,
+    "longitude": 77.71579849999999,
+    "place_id": "ChIJldhCZWxDsTsR5XOZtsKfPB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldhCZWxDsTsR5XOZtsKfPB8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:00"
+  }
+]

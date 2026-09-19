@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xerox Shop",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "516152",
+    "phone_number": "+91 98497 40663",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5shop, Vontimitta, Andhra Pradesh 516213",
+    "area": "5shop",
+    "latitude": 14.3940959,
+    "longitude": 79.02341969999999,
+    "place_id": "ChIJsyAfK9s_szsRB3isQj18nLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyAfK9s_szsRB3isQj18nLs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:23:23"
+  },
+  {
+    "business_name": "Photo Copy Xerox Center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop, Electronics store",
+    "pincode": "516152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 9,
+    "address": "FR3G+F9V, Purushottam Das Tandon Marg, Canton, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Civil Lines",
+    "latitude": 25.453742899999998,
+    "longitude": 81.82590979999999,
+    "place_id": "ChIJMX15CVTLmjkRkQzmUFjEqYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMX15CVTLmjkRkQzmUFjEqYg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:23:25"
+  }
+]

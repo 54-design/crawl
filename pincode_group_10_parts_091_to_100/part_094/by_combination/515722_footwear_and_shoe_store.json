@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fashion Shoe House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515722",
+    "phone_number": "+91 98869 90901",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MHMX+9GP DCMS Complex, Main Rd, opp. Rahim Auto Garage, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.6835078,
+    "longitude": 77.59883339999999,
+    "place_id": "ChIJ_yLvewBLsTsRI46J49Uq7CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yLvewBLsTsRI46J49Uq7CU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:34"
+  },
+  {
+    "business_name": "Classic Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "MJ82+7M6, Drivers Colony, Anantapur, Andhra Pradesh 515001",
+    "area": "Drivers Colony",
+    "latitude": 14.6656541,
+    "longitude": 77.6016416,
+    "place_id": "ChIJbYNbh-RKsTsRSdaEloqfXxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYNbh-RKsTsRSdaEloqfXxs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:34"
+  }
+]

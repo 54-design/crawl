@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor rmp",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "515751",
+    "phone_number": "+91 99594 96514",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Muddinayana palli, Andhra Pradesh 515787",
+    "area": "515751",
+    "latitude": 14.5550798,
+    "longitude": 77.2638242,
+    "place_id": "ChIJFw_hlYkpsTsRQp7M3ospHw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFw_hlYkpsTsRQp7M3ospHw0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:03"
+  },
+  {
+    "business_name": "Dr.B.Srikanth Achari",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515751",
+    "phone_number": "+91 98859 12398",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "2-55, ramayala Street, Karivena, Andhra Pradesh 518422",
+    "area": "515751",
+    "latitude": 15.853000499999998,
+    "longitude": 78.55861829999999,
+    "place_id": "ChIJ96RefqiYtTsRxJgMXDw77Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96RefqiYtTsRxJgMXDw77Ho",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:03"
+  }
+]

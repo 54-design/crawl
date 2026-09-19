@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Christy Sounds",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "516005",
+    "phone_number": "+91 98222 95612",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hill Mist Garden Cooperative Housing Society, off NIBM Road, near Kausar baug, Kausar Baugh, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Kausar Baugh, Kondhwa",
+    "latitude": 18.4758262,
+    "longitude": 73.8923186,
+    "place_id": "ChIJ3U3D0HzqwjsRf8mrQuidzBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3U3D0HzqwjsRf8mrQuidzBQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:56:35"
+  },
+  {
+    "business_name": "Rental Surat",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "516005",
+    "phone_number": "N/A",
+    "website": "https://rental-surat.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shavion Shopping Paradise, 115, Gaurav Path Road, Palanpur, Surat, Gujarat 395009",
+    "area": "Palanpur",
+    "latitude": 21.2064056,
+    "longitude": 72.76492019999999,
+    "place_id": "ChIJIfSP4ltN4DsR24jlcPYuIlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfSP4ltN4DsR24jlcPYuIlI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:56:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran's Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "516162",
+    "phone_number": "+91 83741 12727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R.R. COMPLEX , AMBEDKAR CIRCLE, Khajipet Sunkesula, Andhra Pradesh 516203",
+    "area": "516162",
+    "latitude": 14.652057699999999,
+    "longitude": 78.77708799999999,
+    "place_id": "ChIJtaKsUhpyszsRGmTQ3d2wEFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaKsUhpyszsRGmTQ3d2wEFs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:25"
+  },
+  {
+    "business_name": "Shree SVS Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "516162",
+    "phone_number": "+91 99491 72733",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Besides Redcross, near mattipeddapulli, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Ganagapeta",
+    "latitude": 14.4839817,
+    "longitude": 78.81852289999999,
+    "place_id": "ChIJNWy5pxtxszsRA4lKQxXMRqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWy5pxtxszsRA4lKQxXMRqk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:25"
+  }
+]

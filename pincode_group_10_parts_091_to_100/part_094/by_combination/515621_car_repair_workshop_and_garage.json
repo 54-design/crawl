@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Top tech car solution",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "515621",
+    "phone_number": "+91 98112 07575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "A 205, behind Vanasthali public school, Zeta I, Greater Noida, Uttar Pradesh 201310",
+    "area": "Zeta I",
+    "latitude": 28.4971034,
+    "longitude": 77.5236283,
+    "place_id": "ChIJk2gwX6zrDDkRdue5rx-Rhos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2gwX6zrDDkRdue5rx-Rhos",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:49:19"
+  },
+  {
+    "business_name": "Auto Professional",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Mechanic, Auto restoration service, RV repair shop",
+    "pincode": "515621",
+    "phone_number": "+91 98714 54733",
+    "website": "http://autoprofissional.info/",
+    "rating": 4.7,
+    "reviews_count": 142,
+    "address": "Auto professional, GT-85, Sector 117, Noida, Uttar Pradesh 201316",
+    "area": "Sector 117",
+    "latitude": 28.574197599999998,
+    "longitude": 77.3990105,
+    "place_id": "ChIJn4oWGn3vDDkRTFLJlxBg0Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4oWGn3vDDkRTFLJlxBg0Zo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:49:19"
+  }
+]

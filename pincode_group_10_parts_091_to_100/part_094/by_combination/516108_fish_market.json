@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kommri.siddareddy",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "516108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2763+H2, Gadela, Andhra Pradesh 516108",
+    "area": "516108",
+    "latitude": 14.0114029,
+    "longitude": 79.2526098,
+    "place_id": "ChIJ799tDADXsjsRIFMnI8tT6qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ799tDADXsjsRIFMnI8tT6qQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:21"
+  },
+  {
+    "business_name": "Vizag Fishing Harbour",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing pier",
+    "all_categories": "Fishing pier, Tourist attraction",
+    "pincode": "516108",
+    "phone_number": "N/A",
+    "website": "https://vizagfishingharbour.in/",
+    "rating": 4.2,
+    "reviews_count": 16446,
+    "address": "Fishing, garbarin, Port Area, Visakhapatnam, Andhra Pradesh 530001",
+    "area": "garbarin, Port Area",
+    "latitude": 17.6958239,
+    "longitude": 83.30251969999999,
+    "place_id": "ChIJfT3JbahDOToR30ce0D_Qz44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfT3JbahDOToR30ce0D_Qz44",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:22"
+  }
+]

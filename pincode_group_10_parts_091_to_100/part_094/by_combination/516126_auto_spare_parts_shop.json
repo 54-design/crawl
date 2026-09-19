@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramulgudi Gollipalli,mannur",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "516126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhavani Nagar, 8/146-E, Vidyuth Nagar, Rajampet, Mannuru, Andhra Pradesh 516115",
+    "area": "Vidyuth Nagar",
+    "latitude": 14.201601799999999,
+    "longitude": 79.1490599,
+    "place_id": "ChIJezhBUwAlszsR-wdtDfprXys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezhBUwAlszsR-wdtDfprXys",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:10:15"
+  },
+  {
+    "business_name": "Guru Autoparts Liqui Moly",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "516126",
+    "phone_number": "N/A",
+    "website": "http://www.instagram.com/liquimoly_kadapa",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Said Rasool complex, Kadapa Bypass Rd, Rajampet, Andhra Pradesh 516115",
+    "area": "Usman Nagar",
+    "latitude": 14.201285599999999,
+    "longitude": 79.15992349999999,
+    "place_id": "ChIJCcPJ6eklszsR-MoZzF9FxtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcPJ6eklszsR-MoZzF9FxtQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:10:18"
+  }
+]

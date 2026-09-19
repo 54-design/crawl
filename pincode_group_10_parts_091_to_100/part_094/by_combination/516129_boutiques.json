@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaif fancy store",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "516129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "XXPR+Q93, Rayavaram Main Rd, Rayavaram, Andhra Pradesh 516129",
+    "area": "516129",
+    "latitude": 13.9868869,
+    "longitude": 78.9909345,
+    "place_id": "ChIJh9XVbwDhsjsR2dbCpt7esak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9XVbwDhsjsR2dbCpt7esak",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:24"
+  },
+  {
+    "business_name": "MEGHANA BOUTIQUE",
+    "search_category": "Boutiques",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "516129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XWJ7+9H3, T. Sundupalli, Andhra Pradesh 516130",
+    "area": "516129",
+    "latitude": 13.980890299999999,
+    "longitude": 78.9139168,
+    "place_id": "ChIJV14iMADjsjsRX6OXdebTQow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV14iMADjsjsRX6OXdebTQow",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:27"
+  }
+]

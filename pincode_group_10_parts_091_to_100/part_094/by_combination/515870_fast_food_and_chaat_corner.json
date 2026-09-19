@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambala Chaat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "515870",
+    "phone_number": "+91 82839 39326",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 105,
+    "address": "Shop No. 22, Grand Trunk Rd, Model Town, Phagwara, Punjab 144401",
+    "area": "Model Town",
+    "latitude": 31.2129016,
+    "longitude": 75.7715626,
+    "place_id": "ChIJ98rU0Nr0GjkRm5fh8Tv6xCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98rU0Nr0GjkRm5fh8Tv6xCE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:20"
+  },
+  {
+    "business_name": "Srinivasa fast foods",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "515870",
+    "phone_number": "+91 94405 54555",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 214,
+    "address": "40-9/1-5, Vasavi Nagar, Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Vasavi Nagar, Patamata, Benz Circle",
+    "latitude": 16.499180799999998,
+    "longitude": 80.65640739999999,
+    "place_id": "ChIJh4a4xWj7NToRG9WHO7DMiXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4a4xWj7NToRG9WHO7DMiXE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:20"
+  }
+]

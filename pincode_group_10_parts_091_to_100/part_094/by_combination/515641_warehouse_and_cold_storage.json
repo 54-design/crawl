@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RackAnStack Warehouse for Rent",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "515641",
+    "phone_number": "+91 78421 34160",
+    "website": "http://www.rackanstack.com/",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Surampalli, Vijayawada, Andhra Pradesh 521212",
+    "area": "515641",
+    "latitude": 16.6007964,
+    "longitude": 80.7277972,
+    "place_id": "ChIJxQE2LN7jNToRsWtvFqXZRvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQE2LN7jNToRsWtvFqXZRvc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:53:46"
+  },
+  {
+    "business_name": "Divya Storage - Storage Service in Bangalore",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility, Cold storage facility, FMCG Goods Wholesaler, Self-storage facility, Warehouse",
+    "pincode": "515641",
+    "phone_number": "+91 87488 30833",
+    "website": "https://divyastorage.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NO B-116 D, devaraj urs truck terminal, Yeshwanthpur Industrial Suburb, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "Yeshwanthpur Industrial Suburb, Yeswanthpur",
+    "latitude": 13.0213597,
+    "longitude": 77.5376149,
+    "place_id": "ChIJs3BqrNA9rjsRnFFOu-tqDYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3BqrNA9rjsRnFFOu-tqDYs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:53:48"
+  }
+]

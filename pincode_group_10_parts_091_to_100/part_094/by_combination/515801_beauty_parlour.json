@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madirakshi makeup studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "515801",
+    "phone_number": "+91 87896 41079",
+    "website": "https://madirakshi-makeup-364203.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Allur Rd, Vidya Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Vidya Nagar",
+    "latitude": 15.1710924,
+    "longitude": 77.3628107,
+    "place_id": "ChIJZWnuPuLltjsRF7bOrIOQNkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWnuPuLltjsRF7bOrIOQNkk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:06"
+  },
+  {
+    "business_name": "Chikki beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "17, 1016, Tilak Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Tilak Nagar",
+    "latitude": 15.164467799999999,
+    "longitude": 77.3794724,
+    "place_id": "ChIJX94zbQDvtjsRO_bQQi3zm_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX94zbQDvtjsRO_bQQi3zm_s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:07"
+  }
+]

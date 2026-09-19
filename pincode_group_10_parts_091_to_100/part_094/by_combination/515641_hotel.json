@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Ashok",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515641",
+    "phone_number": "+91 95422 04053",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "CJQH+2G2, Gita Bhawan Rd, Mamillapalle, Mukthapuram, Andhra Pradesh 515641",
+    "area": "Mamillapalle",
+    "latitude": 14.4375222,
+    "longitude": 77.6287548,
+    "place_id": "ChIJS3Umu8dGsTsR-vTM4tE27UU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3Umu8dGsTsR-vTM4tE27UU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:53:19"
+  },
+  {
+    "business_name": "CHAND MEWAT HOTEL SHAHID SINGARYA",
+    "search_category": "Hotel",
+    "primary_category": "Indian Muslim restaurant",
+    "all_categories": "Indian Muslim restaurant",
+    "pincode": "515641",
+    "phone_number": "+91 90177 49402",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "Penubolu Nh44 ANANTAPUR, Hyderabad - Bengaluru Hwy, Andhra Pradesh 515101",
+    "area": "515641",
+    "latitude": 14.359533599999999,
+    "longitude": 77.6404191,
+    "place_id": "ChIJG3A4KN9BsTsRmeyMEG4Pwk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3A4KN9BsTsRmeyMEG4Pwk8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:53:19"
+  }
+]

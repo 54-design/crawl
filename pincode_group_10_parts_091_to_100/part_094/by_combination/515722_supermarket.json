@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amma Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515722",
+    "phone_number": "+91 90003 87070",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "JJMC+XRP, Bangalore - Hyderabad Hwy, near Pangal Road, Ram Nagar, Rapthadu, Andhra Pradesh 515003",
+    "area": "Ram Nagar",
+    "latitude": 14.634945,
+    "longitude": 77.6220111,
+    "place_id": "ChIJQe2Gx5FLsTsRMQ-d7dDENZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQe2Gx5FLsTsRMQ-d7dDENZ4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:13"
+  },
+  {
+    "business_name": "Village Freshh Supermarkets",
+    "search_category": "Supermarket",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "515722",
+    "phone_number": "+91 96978 29829",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Grameen Mart/ Discount Box, Bellary - Uravakonda - Anantapur Rd, Industrial Estate, syndicate nagar, Anantapur, Andhra Pradesh 515004",
+    "area": "Industrial Estate, syndicate nagar",
+    "latitude": 14.690911499999999,
+    "longitude": 77.57460499999999,
+    "place_id": "ChIJrfLoHQNLsTsRWf0QEcm74I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfLoHQNLsTsRWf0QEcm74I4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:16"
+  }
+]

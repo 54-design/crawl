@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Signature Club Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "516110",
+    "phone_number": "+91 99723 05352",
+    "website": "http://www.signatureclubresort.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Brigade Orchards Spinal Rd, Devanahalli, Bangalore, Rayasandra, Karnataka 562110",
+    "area": "Devanahalli",
+    "latitude": 13.228060399999999,
+    "longitude": 77.7205656,
+    "place_id": "ChIJ8ZRsYmodrjsRq_o6qMg3yg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZRsYmodrjsRq_o6qMg3yg8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:07:11"
+  },
+  {
+    "business_name": "SriTulasi Eco Farm Stay",
+    "search_category": "Resort",
+    "primary_category": "Farm",
+    "all_categories": "Farm, Resort hotel",
+    "pincode": "516110",
+    "phone_number": "+91 99634 33337",
+    "website": "https://www.instagram.com/sritulasifarmstaynresort/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House no: 372, Mamidipalli, Thimiram, Andhra Pradesh 531075",
+    "area": "516110",
+    "latitude": 17.9174587,
+    "longitude": 82.9682876,
+    "place_id": "ChIJ8z7vWE5_OToRe4YdqZRDeVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8z7vWE5_OToRe4YdqZRDeVs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:07:12"
+  }
+]

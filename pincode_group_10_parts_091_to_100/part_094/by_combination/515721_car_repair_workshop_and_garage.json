@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Valvoline Truck Xpert - Muniswamy Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Oil change service",
+    "all_categories": "Oil change service, Truck repair shop",
+    "pincode": "515721",
+    "phone_number": "+91 99490 89327",
+    "website": "https://www.valvolineglobal.com/en-in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Autonagar, NH 44, nearby Gupta Tractor, Rapthadu, Anantapur, Andhra Pradesh 515722",
+    "area": "515721",
+    "latitude": 14.6094802,
+    "longitude": 77.6057848,
+    "place_id": "ChIJ4_d_6j5LsTsRk0CY1hRxNHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_d_6j5LsTsRk0CY1hRxNHk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:05"
+  },
+  {
+    "business_name": "Auto Nagar",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "515721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 183,
+    "address": "JJ54+VQW, Anantapur, Rapthadu, Andhra Pradesh 515722",
+    "area": "515721",
+    "latitude": 14.609745799999999,
+    "longitude": 77.606945,
+    "place_id": "ChIJGdclOitKsTsReIUVmag5G4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdclOitKsTsReIUVmag5G4g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:05"
+  }
+]

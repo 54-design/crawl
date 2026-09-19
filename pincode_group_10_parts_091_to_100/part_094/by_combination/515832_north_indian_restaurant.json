@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NH7 Refuel Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Biryani restaurant, Breakfast restaurant, Catering food and drink supplier, Chinese bakery, Delivery service",
+    "pincode": "515832",
+    "phone_number": "+91 99452 43000",
+    "website": "https://nh7refuel.com/",
+    "rating": 3.9,
+    "reviews_count": 4632,
+    "address": "Hyderabad - Bengaluru Hwy, Devanahalli, Karnataka 562110",
+    "area": "Devanahalli",
+    "latitude": 13.262185299999999,
+    "longitude": 77.71630069999999,
+    "place_id": "ChIJ4Z_WWZHisTsRFfsO3tqWTTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z_WWZHisTsRFfsO3tqWTTI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:34:25"
+  },
+  {
+    "business_name": "Rushi Valley Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Dhaba",
+    "pincode": "515832",
+    "phone_number": "+91 94419 39555",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 4562,
+    "address": "D.no:7-72/1, near Sri Sri Sri polamamba ammavarla aalayam, Pedda Rushikonda, Rushikonda, Andhra Pradesh 530045",
+    "area": "Pedda Rushikonda, Rushikonda",
+    "latitude": 17.7915474,
+    "longitude": 83.3872842,
+    "place_id": "ChIJ1Z77avxaOToRvFr1Y-UCGRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Z77avxaOToRvFr1Y-UCGRE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:34:25"
+  }
+]

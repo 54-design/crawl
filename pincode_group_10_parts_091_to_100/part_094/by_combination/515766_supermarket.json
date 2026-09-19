@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pruthviraj Poultry Form",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515766",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "72JQ+RQG, Anantapuram, Kundurpi Mandal, Andhra Pradesh 515766",
+    "area": "515766",
+    "latitude": 14.282064,
+    "longitude": 77.03946479999999,
+    "place_id": "ChIJ-bnAnpbnsDsRocdw0HUBIVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bnAnpbnsDsRocdw0HUBIVY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:18:32"
+  },
+  {
+    "business_name": "Big Basket Cc - Kundurpi",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515766",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "72RP+C4G, Kundurpi Mandal, Andhra Pradesh 515766",
+    "area": "515766",
+    "latitude": 14.2910601,
+    "longitude": 77.0353422,
+    "place_id": "ChIJjdV1GQDnsDsR9Uhba_JWTZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdV1GQDnsDsR9Uhba_JWTZM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:18:32"
+  }
+]

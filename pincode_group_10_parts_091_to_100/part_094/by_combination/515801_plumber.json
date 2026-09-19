@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Usman Electrical & Plumbing (Sales & Services)",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "515801",
+    "phone_number": "+91 85522 27404",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6/290-C-10-1, Darga Rd, Aravinda Nagar, Vidya Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Aravinda Nagar, Vidya Nagar",
+    "latitude": 15.1708181,
+    "longitude": 77.3641073,
+    "place_id": "ChIJGeZDTQDltjsR2O4N1o5GoPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeZDTQDltjsR2O4N1o5GoPA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:00"
+  },
+  {
+    "business_name": "Bhargavi Electricals",
+    "search_category": "Plumber",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Plumbing supply store",
+    "pincode": "515801",
+    "phone_number": "+91 98661 71278",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Rd, NTR Circle, Kesava Colony, Guntakal, Andhra Pradesh 515801",
+    "area": "NTR Circle, Kesava Colony",
+    "latitude": 15.167908299999999,
+    "longitude": 77.3763117,
+    "place_id": "ChIJ57UJLLfltjsRuLGF1S4mqZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57UJLLfltjsRuLGF1S4mqZ4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:02"
+  }
+]

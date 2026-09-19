@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPANDANA HOTEL & RESTAURANT (స్పందన హోటల్ & రెస్టరెంట్)",
+    "search_category": "Hotel",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "516127",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/SPANDANAHOTEL/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajampet,besthapali, Penagaluru, Andhra Pradesh 516128",
+    "area": "516127",
+    "latitude": 14.267494999999998,
+    "longitude": 79.21562809999999,
+    "place_id": "ChIJvf-8FVcxszsRy15dv_1TMrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvf-8FVcxszsRy15dv_1TMrI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:12:33"
+  },
+  {
+    "business_name": "Chitty Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near pothuluri Veera bramhendra swamy temple, Chakrampeta, Pondaluru, Andhra Pradesh 516128",
+    "area": "Chakrampeta",
+    "latitude": 14.2483398,
+    "longitude": 79.2347964,
+    "place_id": "ChIJFUqH8BsxszsR7opQk_TPG5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUqH8BsxszsR7opQk_TPG5E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:12:33"
+  }
+]

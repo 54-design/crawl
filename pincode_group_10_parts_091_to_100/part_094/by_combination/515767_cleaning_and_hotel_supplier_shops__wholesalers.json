@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KLEEN KARE",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Household chemicals supplier, Industrial chemicals wholesaler, Industrial equipment supplier",
+    "pincode": "515767",
+    "phone_number": "+91 99870 90888",
+    "website": "http://kleenkare.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "G7, Bharathi Greens 2, Nikkilagudde Road, Bharathi Grns Rd, Malemar, Derebail, Mangaluru, Karnataka 575006",
+    "area": "Malemar, Derebail",
+    "latitude": 12.9065719,
+    "longitude": 74.8415871,
+    "place_id": "ChIJ2bj2jvFbozsReazQHt1CQhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bj2jvFbozsReazQHt1CQhU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:21:21"
+  },
+  {
+    "business_name": "Hk Mart india",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "515767",
+    "phone_number": "+91 99625 02438",
+    "website": "http://www.hkmartindia.com/",
+    "rating": 5,
+    "reviews_count": 54,
+    "address": "6/47, Korattur Railway Station Rd, Gopalakrishna Nagar, Agraharam, Korattur, Chennai, Puthagaram, Tamil Nadu 600076",
+    "area": "Gopalakrishna Nagar, Agraharam, Korattur",
+    "latitude": 13.1189,
+    "longitude": 80.19040389999999,
+    "place_id": "ChIJyUcfSNZlUjoRWe3qX1UXOJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUcfSNZlUjoRWe3qX1UXOJM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:21:22"
+  }
+]

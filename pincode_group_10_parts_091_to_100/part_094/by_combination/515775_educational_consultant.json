@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kakumanu Basil",
+    "search_category": "Educational Consultant",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service, Accountant",
+    "pincode": "515775",
+    "phone_number": "+91 99592 11725",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MPR Site, near NER high School, Penakacherla, Garladinne, Anantapur, Penakacherla, Andhra Pradesh 515731",
+    "area": "Penakacherla, Garladinne",
+    "latitude": 14.8779363,
+    "longitude": 77.4312159,
+    "place_id": "ChIJ_ZppEDzFtjsRgOZ_RoT3Vaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZppEDzFtjsRgOZ_RoT3Vaw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:56"
+  },
+  {
+    "business_name": "SAHASRA OVERSEAS PVT LTD",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "515775",
+    "phone_number": "+91 91219 11116",
+    "website": "http://www.sahasraoverseas.com/",
+    "rating": 4.6,
+    "reviews_count": 24,
+    "address": "3RD FLOOR, AS RAO BUILDING, 59A-21/3-7D, MURTHY COLONY, Maruti Colony, Patamata, Vijayawada, Andhra Pradesh 520007",
+    "area": "Maruti Colony, Patamata",
+    "latitude": 16.4976672,
+    "longitude": 80.6663184,
+    "place_id": "ChIJ30-3ig_7NToRrtzp_jzshSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30-3ig_7NToRrtzp_jzshSE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:58"
+  }
+]

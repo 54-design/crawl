@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER CARZ",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "515867",
+    "phone_number": "+91 80997 29702",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Balkampet Rd, opp. Green Land, BK Guda, Hotel, Hyderabad, Telangana 500038",
+    "area": "BK Guda, Hotel",
+    "latitude": 17.4441748,
+    "longitude": 78.44861759999999,
+    "place_id": "ChIJM-ypy8aQyzsR3iKbe4Gt8jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-ypy8aQyzsR3iKbe4Gt8jk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:41:59"
+  },
+  {
+    "business_name": "Gurukripa Autodeal & Property Deal",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto insurance agency, Car finance and loan company, Real estate consultant, Real estate rental agency",
+    "pincode": "515867",
+    "phone_number": "+91 93006 41144",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "C-12, GE Rd, Dakshin Gangotri, Supela, Bhilai, Chhattisgarh 490023",
+    "area": "Dakshin Gangotri, Supela",
+    "latitude": 21.206261299999998,
+    "longitude": 81.3488309,
+    "place_id": "ChIJP0wFRagjKToRK6nZJ6qguUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0wFRagjKToRK6nZJ6qguUw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:42:00"
+  }
+]

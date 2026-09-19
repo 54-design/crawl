@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hussain General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "516163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MQ2F+W39, Pullur, Andhra Pradesh 516203",
+    "area": "516163",
+    "latitude": 14.652275699999999,
+    "longitude": 78.7727249,
+    "place_id": "ChIJnQSxUvN7szsR9d43d1qsJm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQSxUvN7szsR9d43d1qsJm0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:25:45"
+  },
+  {
+    "business_name": "ARMADA MART",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "516163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FRQ7+7C8, Almaspet Cir, Almaspet, Ayesha Nagar, Guduru, Andhra Pradesh 516003",
+    "area": "Almaspet, Ayesha Nagar",
+    "latitude": 14.4881741,
+    "longitude": 78.8135765,
+    "place_id": "ChIJgawMbYtxszsRbMiSbMLCEys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgawMbYtxszsRbMiSbMLCEys",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:25:47"
+  }
+]

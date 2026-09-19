@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thancos natural ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "515721",
+    "phone_number": "+91 99165 02035",
+    "website": "http://www.thancosnatural.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "JHMQ+FV8, Hyderabad - Bengaluru Hwy, Rapthadu, Andhra Pradesh 515002",
+    "area": "515721",
+    "latitude": 14.6336683,
+    "longitude": 77.5897172,
+    "place_id": "ChIJExYjQ0FKsTsR0bTGTNWAj9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExYjQ0FKsTsR0bTGTNWAj9s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:38"
+  },
+  {
+    "business_name": "Amul Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "515721",
+    "phone_number": "+91 1800 258 3333",
+    "website": "https://amul.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "JHMQ+4PF, Rapthadu, Andhra Pradesh 515002",
+    "area": "515721",
+    "latitude": 14.6328202,
+    "longitude": 77.5893023,
+    "place_id": "ChIJgXXmww5LsTsRG06yXCdu4cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXXmww5LsTsRG06yXCdu4cU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:38"
+  }
+]

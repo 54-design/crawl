@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect car mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "515711",
+    "phone_number": "+91 90307 27250",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "New, Prashanth Nagar, Chittoor, Andhra Pradesh 517128",
+    "area": "Prashanth Nagar",
+    "latitude": 13.1783444,
+    "longitude": 79.0913722,
+    "place_id": "ChIJ_-JFLcxdrTsRCOOib_a0bfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-JFLcxdrTsRCOOib_a0bfY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:03:16"
+  },
+  {
+    "business_name": "giri car garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "515711",
+    "phone_number": "+91 93913 60004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 34,
+    "address": "OPP venkusa, Kattamanchi, Chittoor, Andhra Pradesh 517001",
+    "area": "Kattamanchi",
+    "latitude": 13.229477,
+    "longitude": 79.1115279,
+    "place_id": "ChIJRQplMFtZrTsRUoiCPpviNxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQplMFtZrTsRUoiCPpviNxY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:03:16"
+  }
+]

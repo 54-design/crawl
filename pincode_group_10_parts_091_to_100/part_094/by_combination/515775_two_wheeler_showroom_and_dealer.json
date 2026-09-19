@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajaj Auto Limited",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "515775",
+    "phone_number": "+91 96666 44202",
+    "website": "https://www.bajajauto.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "XH2V+QC9, BCC Rd, Gupta Colony, Pamidi, Andhra Pradesh 515775",
+    "area": "Gupta Colony",
+    "latitude": 14.9518857,
+    "longitude": 77.5935999,
+    "place_id": "ChIJhZnzAMO4tjsRmAc0D_BWA1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZnzAMO4tjsRmAc0D_BWA1k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:20"
+  },
+  {
+    "business_name": "Yuvaraj Bike Mechanic Shop",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "515775",
+    "phone_number": "+91 81790 52006",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gupta Colony, Pamidi, Andhra Pradesh 515775",
+    "area": "Gupta Colony",
+    "latitude": 14.9521225,
+    "longitude": 77.59479639999999,
+    "place_id": "ChIJG2HiAIi5tjsRdMqTf1fR2r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2HiAIi5tjsRdMqTf1fR2r4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:20"
+  }
+]

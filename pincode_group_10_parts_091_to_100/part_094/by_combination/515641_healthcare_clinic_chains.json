@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinca Health Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515641",
+    "phone_number": "+91 95582 23334",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 61,
+    "address": "Chintalapudi - Eluru Rd, beside STATE BANK OF INDIA, opp. to Govt Junior College, Eluru, Chintalapudi, Andhra Pradesh 534460",
+    "area": "515641",
+    "latitude": 17.0760157,
+    "longitude": 80.9888486,
+    "place_id": "ChIJGVDxP41jNjoRCRDkly9NKPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVDxP41jNjoRCRDkly9NKPA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:52:46"
+  },
+  {
+    "business_name": "Sreshta Diagnostics",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "515641",
+    "phone_number": "+91 93915 09079",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "First Floor, next to Sloka Hospital, opposite Swathi Theatre Road, Bhavanipuram, Housing Board Colony, Vijayawada, Andhra Pradesh 520012",
+    "area": "Bhavanipuram, Housing Board Colony",
+    "latitude": 16.5268139,
+    "longitude": 80.59424969999999,
+    "place_id": "ChIJrUP91R_vNToRXVK4X74GtD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUP91R_vNToRXVK4X74GtD4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:52:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Annapoorna Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "516126",
+    "phone_number": "+91 90006 93420",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "NCS Rd, NCS Area, Chinna Veedhi, Santha Pet, Vizianagaram, Andhra Pradesh 535001",
+    "area": "NCS Area, Chinna Veedhi, Santha Pet",
+    "latitude": 18.1178849,
+    "longitude": 83.4006407,
+    "place_id": "ChIJ1XKthN7lOzoRdt78ddXaRAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XKthN7lOzoRdt78ddXaRAY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:46"
+  },
+  {
+    "business_name": "Kasturi Pure Veg. Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "516126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 251,
+    "address": "8, 12-1, RTC Complex Area, Gadi Khana, Balaji Nagar, Vizianagaram, Andhra Pradesh 535003",
+    "area": "RTC Complex Area, Gadi Khana, Balaji Nagar",
+    "latitude": 18.1084493,
+    "longitude": 83.4007958,
+    "place_id": "ChIJbbYOO87lOzoRbWJWvVwZfQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbYOO87lOzoRbWJWvVwZfQE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Restaurant & Lodge",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Rajasthani Restaurant",
+    "pincode": "516128",
+    "phone_number": "+91 94409 64099",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "30-11-2, first left lane before hdfc bank, Daba Gardens, 530020, 11-2, Lakshmi St, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.7156716,
+    "longitude": 83.30161919999999,
+    "place_id": "ChIJ4SdanBlDOToRX1tGQe5iCvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SdanBlDOToRX1tGQe5iCvM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:23"
+  },
+  {
+    "business_name": "Subbayya Gari Hotel visakhapatnam",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Caterer, Vegan restaurant, South Indian restaurant",
+    "pincode": "516128",
+    "phone_number": "+91 91004 16678",
+    "website": "https://subbayyagarihotel.in/vegetarian-restaurants-in-visakhapatnam.php",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "SAVITRI SUMMIT D-N0:47-3-12, DWARAKA NAGAR 5TH LANE, near DIAMOND PARK, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dwaraka Nagar",
+    "latitude": 17.7288805,
+    "longitude": 83.3042546,
+    "place_id": "ChIJDeLiZrFDOToRl1iHmDWYF38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeLiZrFDOToRl1iHmDWYF38",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:24"
+  }
+]

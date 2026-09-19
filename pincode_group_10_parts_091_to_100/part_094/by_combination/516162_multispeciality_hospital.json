@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heera Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516162",
+    "phone_number": "+91 98853 62355",
+    "website": "http://heerahospital.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bellary Road, Agadi 4 Roads, Ayesha Nagar, Kadapa, Guduru, Andhra Pradesh 516001",
+    "area": "Ayesha Nagar",
+    "latitude": 14.4870325,
+    "longitude": 78.81575769999999,
+    "place_id": "ChIJy5-ZICRxszsRBgr44qhzI2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5-ZICRxszsRBgr44qhzI2o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:24"
+  },
+  {
+    "business_name": "Kishore multispeciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516162",
+    "phone_number": "+91 89788 37226",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "ST Antony School, Reddy Nagar, Porumamilla, Andhra Pradesh 516193",
+    "area": "Reddy Nagar",
+    "latitude": 15.0001337,
+    "longitude": 78.9894418,
+    "place_id": "ChIJU877k0yWtDsRYDd2XVb4QLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU877k0yWtDsRYDd2XVb4QLs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:25"
+  }
+]

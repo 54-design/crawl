@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEA TIME",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "516128",
+    "phone_number": "+91 99769 63080",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 39,
+    "address": "HP6F+5CQ Sarvice, East Coast Rd, Periyapattu, Tamil Nadu 608801",
+    "area": "516128",
+    "latitude": 11.560471,
+    "longitude": 79.7236238,
+    "place_id": "ChIJy1TFfQC_VDoRoXO3Y6jNkUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1TFfQC_VDoRoXO3Y6jNkUY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:25"
+  },
+  {
+    "business_name": "TEA TIME",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516128",
+    "phone_number": "+91 98801 18040",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 209,
+    "address": "14/1A, post, moorthiyur village, Mandalavadi, Ponneri, Tamil Nadu 635851",
+    "area": "moorthiyur village",
+    "latitude": 12.606732599999999,
+    "longitude": 78.5965399,
+    "place_id": "ChIJwaIFk8errTsRw8XEAlvyPP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaIFk8errTsRw8XEAlvyPP8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:25"
+  }
+]

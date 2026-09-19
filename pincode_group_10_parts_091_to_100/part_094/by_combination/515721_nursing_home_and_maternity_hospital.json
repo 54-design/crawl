@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaya bharath multispeciality hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515721",
+    "phone_number": "+91 98661 16121",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kota Reddy Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Kota Reddy Nagar",
+    "latitude": 15.213205299999998,
+    "longitude": 79.9030542,
+    "place_id": "ChIJGXacwzUTSzoRP1ifopD__Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXacwzUTSzoRP1ifopD__Jk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:52"
+  },
+  {
+    "business_name": "Sakthi Children's Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515721",
+    "phone_number": "+91 94411 25999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 148,
+    "address": "opposite adithya resturant, DV Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "DV Nagar",
+    "latitude": 15.2149979,
+    "longitude": 79.9047473,
+    "place_id": "ChIJ73z4vd0TSzoRkexKV5cz-7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73z4vd0TSzoRkexKV5cz-7I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:52"
+  }
+]

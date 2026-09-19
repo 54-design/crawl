@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rane Kitchen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Caterer",
+    "pincode": "516162",
+    "phone_number": "+91 87673 78984",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 93,
+    "address": "Navghar Manikpur, Manickpur, Naka, Vasai-Virar, Maharashtra 401202",
+    "area": "Navghar Manikpur, Manickpur, Naka",
+    "latitude": 19.3761851,
+    "longitude": 72.825424,
+    "place_id": "ChIJ_yRtPfGv5zsRBRv3o7HVce8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yRtPfGv5zsRBRv3o7HVce8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:08"
+  },
+  {
+    "business_name": "Tifin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "516162",
+    "phone_number": "+91 70001 51529",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 29,
+    "address": "3XXX+CVC, Dharmapur, Chhattisgarh 494001",
+    "area": "516162",
+    "latitude": 19.0985747,
+    "longitude": 81.9996319,
+    "place_id": "ChIJBbhndC0SMDoRXh-jFF2toFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbhndC0SMDoRXh-jFF2toFk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:10"
+  }
+]

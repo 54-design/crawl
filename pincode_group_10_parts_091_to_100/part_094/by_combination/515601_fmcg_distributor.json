@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamax Marketing Distributor",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "515601",
+    "phone_number": "N/A",
+    "website": "https://kamaxmarketing.com/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "5, First floor, 12th A main, Kodichikkanahalli Main Rd, Bommanahalli, Bengaluru, Karnataka 560068",
+    "area": "Kaveri Nagar, Bommanahalli",
+    "latitude": 12.9002783,
+    "longitude": 77.6207854,
+    "place_id": "ChIJ1Xm1_7IVrjsRt-E2VPbmA0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Xm1_7IVrjsRt-E2VPbmA0I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:45:18"
+  },
+  {
+    "business_name": "MOUNTAIN NATURALS",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "515601",
+    "phone_number": "+91 98379 46812",
+    "website": "https://mountainnaturals.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Laxman Vihar, Laxman Vihar Colony, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Laxman Vihar Colony, Civil Lines South",
+    "latitude": 29.4568218,
+    "longitude": 77.70956079999999,
+    "place_id": "ChIJA3KMhycbDDkR8Cir6uXVE7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3KMhycbDDkR8Cir6uXVE7M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:45:19"
+  }
+]

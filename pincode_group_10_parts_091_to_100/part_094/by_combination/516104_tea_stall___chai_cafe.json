@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ticoo, Kasavanhalli",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "516104",
+    "phone_number": "+91 80759 42973",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 85,
+    "address": "SW@, Ground Floor, Aadeshwar Chambers, Kasavanahalli Main Rd, Kasavanahalli, Eastwood Twp, Bengaluru, Karnataka 560035",
+    "area": "Kasavanahalli, Eastwood Township",
+    "latitude": 12.9048909,
+    "longitude": 77.67583379999999,
+    "place_id": "ChIJxX58rxwTrjsRY8JCiQ7r9Bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxX58rxwTrjsRY8JCiQ7r9Bc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:12"
+  },
+  {
+    "business_name": "The tea spot",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "516104",
+    "phone_number": "+91 99808 60298",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 59,
+    "address": "1830/F, 4th Main Rd, HAL 6rd Stage, Stage 3, New Thippasandra, Bengaluru, Karnataka 560075",
+    "area": "HAL 6rd Stage, Stage 3, New Thippasandra",
+    "latitude": 12.9716314,
+    "longitude": 77.6510225,
+    "place_id": "ChIJKzAjLwAXrjsRszPt0w_TE2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzAjLwAXrjsRszPt0w_TE2I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:12"
+  }
+]

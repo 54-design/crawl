@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance Services Co.",
+    "search_category": "Insurance Agent",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner, Investment service",
+    "pincode": "516152",
+    "phone_number": "+91 77142 83509",
+    "website": "http://www.insuranceservicesindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 116-117, First Floor, Guru Ghasidas Plaza, Amapara, Raipur, Chhattisgarh 492001",
+    "area": "Amapara",
+    "latitude": 21.2405004,
+    "longitude": 81.6241912,
+    "place_id": "ChIJH7kBcIkC_hMRKabdjhxLuCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7kBcIkC_hMRKabdjhxLuCQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:23:32"
+  },
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "516152",
+    "phone_number": "+91 70959 02973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8, patra palli, vontimetta mandal, Chintarajupalle, Andhra Pradesh 516152",
+    "area": "516152",
+    "latitude": 14.307849599999999,
+    "longitude": 79.016891,
+    "place_id": "ChIJ8bJ6Gp0XszsR3TBLhN4d9i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bJ6Gp0XszsR3TBLhN4d9i4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:23:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijayawada Books And Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "515842",
+    "phone_number": "+91 866 243 0525",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "No. 23-10-6, 23, Museum Rd, Near Ramamandiram, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near Ramamandiram, Arundalpet, Governor Peta",
+    "latitude": 16.513727799999998,
+    "longitude": 80.6293869,
+    "place_id": "ChIJjVMeN_7vNToRZFIeeVXuNTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVMeN_7vNToRZFIeeVXuNTw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:37:15"
+  },
+  {
+    "business_name": "SRI JAYA DURGA ENTERPRISES",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store, Bookbinder, Envelope supplier, Office Accessories Wholesaler, Office supply store, Office supply wholesaler, Stationery wholesaler",
+    "pincode": "515842",
+    "phone_number": "+91 98491 86401",
+    "website": "https://hitechstationery.in/",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "D, 22-12-18, VURAVARI STREET, Lalapet, Guntur, Andhra Pradesh 522002",
+    "area": "Lalapet",
+    "latitude": 16.2917009,
+    "longitude": 80.4495104,
+    "place_id": "ChIJq-DTzsJ1SjoR_19T5OGDAFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-DTzsJ1SjoR_19T5OGDAFs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:37:16"
+  }
+]

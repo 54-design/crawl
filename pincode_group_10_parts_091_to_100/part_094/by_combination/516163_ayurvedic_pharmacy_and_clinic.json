@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fariyya Ayurvedic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "516163",
+    "phone_number": "+91 98602 61024",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No.36 Magdum Nagar Near Tirupati Nagar Unn, behind of Masjid E, Gaosiya, Surat, Gujarat 394210",
+    "area": "Tirupati Nagar, Gaosiya, Udhana",
+    "latitude": 21.115011799999998,
+    "longitude": 72.86386449999999,
+    "place_id": "ChIJJQTZch9R4DsRrs3UOC_oQ4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQTZch9R4DsRrs3UOC_oQ4g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:11"
+  },
+  {
+    "business_name": "Ayurmayi Ayurveda Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner, Alternative Medicine Clinic, Ayurvedic clinic, Doctor, Hospital, Massage therapist, Pregnancy care center",
+    "pincode": "516163",
+    "phone_number": "+91 62388 47287",
+    "website": "https://ayurmayi.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Post Office, Rose Nagar Road, near Sreekariyam, Rose Nagar, Sreekaryam, Thiruvananthapuram, Kerala 695017",
+    "area": "Rose Nagar, Sreekaryam",
+    "latitude": 8.5517112,
+    "longitude": 76.916298,
+    "place_id": "ChIJv1-K4OS5BTsRlDaSgOJiaek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1-K4OS5BTsRlDaSgOJiaek",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:12"
+  }
+]

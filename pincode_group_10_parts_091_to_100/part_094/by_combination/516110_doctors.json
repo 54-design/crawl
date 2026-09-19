@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Kalavathi",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 10,
+    "address": "FRFH+CJP, R K Nagar, Maria Puram, Co-operative Colony, Kadapa, Andhra Pradesh 516001",
+    "area": "R K Nagar, Maria Puram, Co-operative Colony",
+    "latitude": 14.4735857,
+    "longitude": 78.8290806,
+    "place_id": "ChIJVVVVBQVyszsRJC2HFpeYXTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBQVyszsRJC2HFpeYXTs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:06:32"
+  },
+  {
+    "business_name": "Dr.YSR Horticultural Research Station",
+    "search_category": "Doctors",
+    "primary_category": "College",
+    "all_categories": "College, Research institute",
+    "pincode": "516110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "X8VJ+H83, Kadapa - Tirupati Rd, Thunga Vari Palli, Thambella Vari Palli, kodurजुपेता, Anantharajupeta, Andhra Pradesh 516105",
+    "area": "Thunga Vari Palli, Thambella Vari Palli",
+    "latitude": 13.993892599999999,
+    "longitude": 79.3307985,
+    "place_id": "ChIJj81rPVfUsjsRVGyjEaohqRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj81rPVfUsjsRVGyjEaohqRo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:06:33"
+  }
+]

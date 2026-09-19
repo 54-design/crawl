@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palani Sweets",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515671",
+    "phone_number": "+91 76759 16247",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "458, Kothapeta, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Kothapeta",
+    "latitude": 14.4243717,
+    "longitude": 77.7139637,
+    "place_id": "ChIJQZdtOmFDsTsR_bLMYBEbg_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZdtOmFDsTsR_bLMYBEbg_4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:34"
+  },
+  {
+    "business_name": "Sai Kumar",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "515671",
+    "phone_number": "+91 63004 48958",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RTC Bus Stand, Main Road, Parthasaradhi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Parthasaradhi Nagar",
+    "latitude": 14.4124395,
+    "longitude": 77.71585069999999,
+    "place_id": "ChIJHY5cozhDsTsR_RnLHmfDx1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHY5cozhDsTsR_RnLHmfDx1A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:35"
+  }
+]

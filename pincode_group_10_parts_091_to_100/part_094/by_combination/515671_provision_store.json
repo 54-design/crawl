@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUBASRI SUPERMARKET",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515671",
+    "phone_number": "+91 79042 60545",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "972, E Pondy Rd, SVS Avenue, Maharajapuram, Viluppuram, Tamil Nadu 605602",
+    "area": "SVS Avenue",
+    "latitude": 11.937694599999999,
+    "longitude": 79.5112168,
+    "place_id": "ChIJySYvRrNXUzoRZTHLPqVWDhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySYvRrNXUzoRZTHLPqVWDhs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:27"
+  },
+  {
+    "business_name": "Kirana",
+    "search_category": "Provision Store",
+    "primary_category": "Childrens Store",
+    "all_categories": "Childrens Store",
+    "pincode": "515671",
+    "phone_number": "+91 82979 24506",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shanthi Nagar Main Rd, Shanthi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Shanthi Nagar",
+    "latitude": 14.4281814,
+    "longitude": 77.7249992,
+    "place_id": "ChIJxbrLeFNDsTsRM_f-IZeqCKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbrLeFNDsTsRM_f-IZeqCKg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anwar Rajampeta",
+    "search_category": "Shops",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "516115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "behind RTC Bus depot, Sainagar, Rajampet, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.198895499999999,
+    "longitude": 79.1540079,
+    "place_id": "ChIJ4VQNLzclszsRgo3HdVY2-mU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VQNLzclszsRgo3HdVY2-mU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:35"
+  },
+  {
+    "business_name": "Shree Pooja Readymade Showroom Rajampet",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "710-A, Akula St, Veedhi, Sainagar, Rajampet, Andhra Pradesh 516115",
+    "area": "Veedhi, Sainagar",
+    "latitude": 14.1943348,
+    "longitude": 79.1603324,
+    "place_id": "ChIJObjQDAAlszsRB3FfNTRzhnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObjQDAAlszsRB3FfNTRzhnc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:35"
+  }
+]

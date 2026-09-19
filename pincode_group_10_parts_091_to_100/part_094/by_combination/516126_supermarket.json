@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SuperK - Sammeta Supermarket Nandalur",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516126",
+    "phone_number": "N/A",
+    "website": "https://www.superk.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward 4, 4/138-L-8, Nandhaluru Thogurpeta Rd, near Canara Bank, Aravapalle, Nandalur, Nagireddipalle, Andhra Pradesh 516150",
+    "area": "Aravapalle",
+    "latitude": 14.2695741,
+    "longitude": 79.10888539999999,
+    "place_id": "ChIJHWmumW49szsRGkxmJiV_2W0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWmumW49szsRGkxmJiV_2W0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:36"
+  },
+  {
+    "business_name": "Superk - Sri Lakshmi Venkateswara Supermarket Boyanapalle",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516126",
+    "phone_number": "N/A",
+    "website": "https://www.superk.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3-62, Boyanapalli, Tallapaka, Andhra Pradesh 516126",
+    "area": "Boyanapalli",
+    "latitude": 14.2222803,
+    "longitude": 79.1352344,
+    "place_id": "ChIJrZNtsHklszsR22Dcd1WkdpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZNtsHklszsR22Dcd1WkdpA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:36"
+  }
+]

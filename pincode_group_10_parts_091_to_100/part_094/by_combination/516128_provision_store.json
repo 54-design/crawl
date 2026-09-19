@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkateswara Kirana",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516128",
+    "phone_number": "+91 83176 00261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Padupalem, Anandapuram, Andhra Pradesh 530052",
+    "area": "Padupalem",
+    "latitude": 17.893027,
+    "longitude": 83.37409749999999,
+    "place_id": "ChIJC3MApf5YOToRAAAAMGbbLws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3MApf5YOToRAAAAMGbbLws",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:14"
+  },
+  {
+    "business_name": "City Mart",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "516128",
+    "phone_number": "+91 95334 39643",
+    "website": "https://www.citymart.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "19-3-13/1, 19-3, Renigunta Rd, Postal Colony, Korramenugunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Postal Colony, Korramenugunta",
+    "latitude": 13.6287918,
+    "longitude": 79.43728759999999,
+    "place_id": "ChIJTxBKxw1LTToRFyrse3bwBqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxBKxw1LTToRFyrse3bwBqY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:15"
+  }
+]

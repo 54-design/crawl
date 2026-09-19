@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartheek",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "515801",
+    "phone_number": "+91 90004 24079",
+    "website": "https://www.jio.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KVB bank, near Bharath petrol bunk, Tilak Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Tilak Nagar",
+    "latitude": 15.1661454,
+    "longitude": 77.3770151,
+    "place_id": "ChIJL86xc6fltjsRDAq9V9WSjoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL86xc6fltjsRDAq9V9WSjoE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:52"
+  },
+  {
+    "business_name": "ShopsLoot Online Services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "E - Commerce Agency",
+    "all_categories": "E - Commerce Agency, Shopping mall",
+    "pincode": "515801",
+    "phone_number": "+91 85007 85005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Noorani Masjid Line, Main Road Guntakal, Guntakal, Andhra Pradesh 515801",
+    "area": "Aravinda Nagar",
+    "latitude": 15.1674127,
+    "longitude": 77.3736476,
+    "place_id": "ChIJC9VqQovltjsR_BjtBYR-HN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9VqQovltjsR_BjtBYR-HN0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:53"
+  }
+]

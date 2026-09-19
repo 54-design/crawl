@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "516003",
+    "phone_number": "+91 94408 75826",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "41/451-1-22-1, Ganjikunta Colony Rd, Ghouse Nagar, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "Ghouse Nagar",
+    "latitude": 14.4837998,
+    "longitude": 78.835419,
+    "place_id": "ChIJ9w-npstzszsRBgrDlvBI7IY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w-npstzszsRBgrDlvBI7IY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:08"
+  },
+  {
+    "business_name": "A&Msweetdelights",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near akifa chicken center, Ashok Nagar, Chinna Chowk, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "Ashok Nagar, Chinna Chowk",
+    "latitude": 14.4736915,
+    "longitude": 78.84610789999999,
+    "place_id": "ChIJP5bwY9RtszsRHfVfyrUPtMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5bwY9RtszsRHfVfyrUPtMo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:09"
+  }
+]

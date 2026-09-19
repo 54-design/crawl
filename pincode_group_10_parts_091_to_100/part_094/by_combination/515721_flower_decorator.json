@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bangalore Flower Bokeh",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "515721",
+    "phone_number": "+91 96664 69477",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Door No.15-122, 15/120, Subash Rd, opp. Hotel Namdini, Kamalanagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.678760899999999,
+    "longitude": 77.601179,
+    "place_id": "ChIJZT4fF9xKsTsRlJggG6qEnaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT4fF9xKsTsRlJggG6qEnaU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:28"
+  },
+  {
+    "business_name": "Royal Flower Decorations",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "515721",
+    "phone_number": "+91 97040 80109",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GJJ4+MCV, Vidhyadharapuram Main Rd, RTC Colony, V D Puram, Vijayawada, Andhra Pradesh 520012",
+    "area": "RTC Colony, V D Puram",
+    "latitude": 16.531743499999997,
+    "longitude": 80.60605799999999,
+    "place_id": "ChIJFY8M2MDvNToRI8YBbAfMq4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFY8M2MDvNToRI8YBbAfMq4U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:31"
+  }
+]

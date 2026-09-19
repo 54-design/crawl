@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CITY GRANITES",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "515765",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "H47F+V6Q, Kalyandurg, Andhra Pradesh 515761",
+    "area": "515765",
+    "latitude": 14.5647028,
+    "longitude": 77.12311749999999,
+    "place_id": "ChIJq34AUFbXsDsRodiFHbLoW8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq34AUFbXsDsRodiFHbLoW8U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:33"
+  },
+  {
+    "business_name": "Royal Granites",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "515765",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anantapur Rd, Kalyandurg, Andhra Pradesh 515761",
+    "area": "515765",
+    "latitude": 14.566007299999999,
+    "longitude": 77.1257856,
+    "place_id": "ChIJj57UTgDXsDsRNXtbaDZBCJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj57UTgDXsDsRNXtbaDZBCJ0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:33"
+  }
+]

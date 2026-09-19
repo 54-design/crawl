@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "C242+X47, Shakarajupalle, Andhra Pradesh 516247",
+    "area": "516152",
+    "latitude": 14.4073817,
+    "longitude": 79.0002887,
+    "place_id": "ChIJN7WgJwBrszsRjCvr8ISFIks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7WgJwBrszsRjCvr8ISFIks",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:42"
+  },
+  {
+    "business_name": "Friends fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516152",
+    "phone_number": "+91 96667 89973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Upparapalli, Kadapa - Tirupati Rd, Kadapa, Peddapalle, Andhra Pradesh 516247",
+    "area": "516152",
+    "latitude": 14.410217699999999,
+    "longitude": 78.9896503,
+    "place_id": "ChIJfcpUa35rszsRUbpR1v3Cqp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcpUa35rszsRUbpR1v3Cqp0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:42"
+  }
+]

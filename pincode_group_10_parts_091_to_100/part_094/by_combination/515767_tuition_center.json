@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IASTER",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Venganoor, Keralam 695523",
+    "area": "515767",
+    "latitude": 8.4101875,
+    "longitude": 77.0116875,
+    "place_id": "ChIJm_53DYivBTsR04Iv7TTUERI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_53DYivBTsR04Iv7TTUERI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:21:26"
+  },
+  {
+    "business_name": "JC Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "515767",
+    "phone_number": "+91 85940 54156",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 97,
+    "address": "40/196, 2 nd floor, near juma masjid, areekkad, po, Nallalam, Kozhikode, Keralam 673027",
+    "area": "Juma Masjid, Nallalam",
+    "latitude": 11.2131823,
+    "longitude": 75.804799,
+    "place_id": "ChIJ35HixKZZpjsREdZIilskrO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35HixKZZpjsREdZIilskrO4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:21:27"
+  }
+]

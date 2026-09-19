@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taqi Qureshi Beef Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "515631",
+    "phone_number": "+91 97038 61127",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/E/63, 5-4, Shiva Shakthi Nagar, Tayyabnagar, Ramaiah Bowli, Mahbubnagar, Telangana 509001",
+    "area": "Shiva Shakthi Nagar, Tayyabnagar, Ramaiah Bowli",
+    "latitude": 16.7394198,
+    "longitude": 77.9911667,
+    "place_id": "ChIJD0s5JionyjsRvTwDSWE4YoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0s5JionyjsRvTwDSWE4YoQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:50:32"
+  },
+  {
+    "business_name": "S K Poultry Chicken Market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Chicken & Mutton Shop",
+    "pincode": "515631",
+    "phone_number": "+91 95422 22676",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 186,
+    "address": "53, Narsingi - Puppalaguda Main Rd, Narsingi, Hyderabad, Narsingi, Telangana 500089",
+    "area": "Narsingi",
+    "latitude": 17.386556499999998,
+    "longitude": 78.356419,
+    "place_id": "ChIJV1VlDkaUyzsRa3yZ78jskBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VlDkaUyzsRa3yZ78jskBw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:50:33"
+  }
+]

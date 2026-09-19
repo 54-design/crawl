@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Non-Veg Tiffins & Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "515842",
+    "phone_number": "+91 89785 13100",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "beside SR Milk Dairy, Tilak Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Tilak Nagar",
+    "latitude": 15.1645536,
+    "longitude": 77.37964629999999,
+    "place_id": "ChIJDbOuCdHvtjsRCwCFelTcLPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbOuCdHvtjsRCwCFelTcLPU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:12"
+  },
+  {
+    "business_name": "Maruthi Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515842",
+    "phone_number": "+91 70320 02324",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chippagiri, Andhra Pradesh 518396",
+    "area": "515842",
+    "latitude": 15.228008099999998,
+    "longitude": 77.3167019,
+    "place_id": "ChIJR5SCiNTltjsRaqvnWuUqtgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5SCiNTltjsRaqvnWuUqtgM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:15"
+  }
+]

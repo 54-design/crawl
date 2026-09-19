@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Retail Way",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "515701",
+    "phone_number": "+91 99101 49915",
+    "website": "https://retailway.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Mez & 1st Floor, A83, Pocket D, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Pocket D, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5386293,
+    "longitude": 77.26949259999999,
+    "place_id": "ChIJg1AjEbrjDDkR646zdv-xQzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1AjEbrjDDkR646zdv-xQzU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:02:40"
+  },
+  {
+    "business_name": "More Supermarket - Holalkere Road Chitradurga",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Discount supermarket, Gourmet grocery store, Grocery delivery service",
+    "pincode": "515701",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "No.2348/4252/A, Sri Renuka Yellamma Temple, Holalkere Rd, Chickpet, Chitradurga, Karnataka 577501",
+    "area": "Chickpet",
+    "latitude": 14.221708399999999,
+    "longitude": 76.39124009999999,
+    "place_id": "ChIJLW7w_Dl1ujsRVFOSdOmGeVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLW7w_Dl1ujsRVFOSdOmGeVo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:02:41"
+  }
+]

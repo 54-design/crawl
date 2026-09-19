@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAMESH BABU STORES",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516101",
+    "phone_number": "+91 79894 36459",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3, Chitvel Rd, Sodisetti nagar, Jagadampalli, Koduru, Andhra Pradesh 516101",
+    "area": "Sodisetti nagar, Jagadampalli",
+    "latitude": 13.962536799999999,
+    "longitude": 79.35132019999999,
+    "place_id": "ChIJBffB4dDVsjsR85gnNTM5Des",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBffB4dDVsjsR85gnNTM5Des",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:04"
+  },
+  {
+    "business_name": "Sai Baba Enterprises",
+    "search_category": "Shops",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Appliance store",
+    "pincode": "516101",
+    "phone_number": "+91 90305 60629",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "police station, 0pp, MG Rd, Koduru, Andhra Pradesh 516101",
+    "area": "Jagadampalli",
+    "latitude": 13.955897499999999,
+    "longitude": 79.3516941,
+    "place_id": "ChIJfbEgLGLTsjsRu05Na3HuTzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbEgLGLTsjsRu05Na3HuTzQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:05"
+  }
+]

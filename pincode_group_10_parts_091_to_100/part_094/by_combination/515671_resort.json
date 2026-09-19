@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haritha Sahasra Beach Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Beach entertainment shop",
+    "pincode": "515671",
+    "phone_number": "+91 99055 96694",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "8HVM+RM, Perupalem, Andhra Pradesh 534281",
+    "area": "515671",
+    "latitude": 16.3445625,
+    "longitude": 81.5841875,
+    "place_id": "ChIJGe4vPgArSDoRAb-rQjxP5gA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGe4vPgArSDoRAb-rQjxP5gA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:58:28"
+  },
+  {
+    "business_name": "Spree One Resorts and Conventions",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "515671",
+    "phone_number": "+91 88801 58158",
+    "website": "https://spreehotels.com/new/spree-one-resort-convention/",
+    "rating": 4.3,
+    "reviews_count": 1374,
+    "address": "A, Sankavaram Mandal, Annavaram, Arempudi, Andhra Pradesh 533406",
+    "area": "A, Sankavaram Mandal",
+    "latitude": 17.2962346,
+    "longitude": 82.41835119999999,
+    "place_id": "ChIJyUt-wn7POToRUHxX_VX52ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUt-wn7POToRUHxX_VX52ug",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:58:28"
+  }
+]

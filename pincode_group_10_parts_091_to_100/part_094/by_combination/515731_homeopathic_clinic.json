@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Homeo Planet",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Homeopathic pharmacy",
+    "pincode": "515731",
+    "phone_number": "+91 76763 48250",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hosa Rd, Naganathapura, Rayasandra, Bengaluru, Karnataka 560100",
+    "area": "Naganathapura, Rayasandra",
+    "latitude": 12.8764457,
+    "longitude": 77.6713795,
+    "place_id": "ChIJvW6XvEVtrjsRjaO9ZQHSiko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvW6XvEVtrjsRjaO9ZQHSiko",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:31"
+  },
+  {
+    "business_name": "Dinakar Home Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515731",
+    "phone_number": "+91 90004 64207",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near Neelima complex, near saifulla bridge, Rangaswamy Nagar, Anantapur, Andhra Pradesh 515004",
+    "area": "Rangaswamy Nagar",
+    "latitude": 14.6907336,
+    "longitude": 77.5960059,
+    "place_id": "ChIJU16jBs5KsTsRXSoX0PS9zJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU16jBs5KsTsRXSoX0PS9zJM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:32"
+  }
+]

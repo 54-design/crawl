@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajini tea point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "515872",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WRJ6+WV, Swamikere, Karnataka 577540",
+    "area": "515872",
+    "latitude": 14.9332899,
+    "longitude": 76.8125309,
+    "place_id": "ChIJ689LOwBBtzsR6IUofWs0ZDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ689LOwBBtzsR6IUofWs0ZDE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:53"
+  },
+  {
+    "business_name": "Cha Kafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "515872",
+    "phone_number": "N/A",
+    "website": "https://chakafe.lovable.app/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop no. 1, Cha Kafe, GVMC School, Chinna Waltair Main Rd, near Masjid, opp. Prince Apartments, Chinna Waltair, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Chinna Waltair, Pedda Waltair",
+    "latitude": 17.7234412,
+    "longitude": 83.3316172,
+    "place_id": "ChIJJfiuuPlDOToRNJULM98N8eA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfiuuPlDOToRNJULM98N8eA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:54"
+  }
+]

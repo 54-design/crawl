@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Namma theneer kadai tea snacks",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "516129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "main road, Pichavaram, Killlai, Tamil Nadu 608102",
+    "area": "516129",
+    "latitude": 11.448106899999999,
+    "longitude": 79.7672728,
+    "place_id": "ChIJdzJKsazrVDoRBd3uXgyE0rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzJKsazrVDoRBd3uXgyE0rs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:11"
+  },
+  {
+    "business_name": "Tea park",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "516129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7HXF+9P, Elleri, Elleri West, Tamil Nadu 608303",
+    "area": "516129",
+    "latitude": 11.2987164,
+    "longitude": 79.57428,
+    "place_id": "ChIJU0Z_ZwDbVDoRnPyi3O3jJoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0Z_ZwDbVDoRnPyi3O3jJoU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:11"
+  }
+]

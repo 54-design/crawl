@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kundapura Caterers & Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "515766",
+    "phone_number": "+91 99643 81449",
+    "website": "http://kundapura.udupicaterers.in/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Sangam -Basrur Road, Kundapura, Basrur, Karnataka 576211",
+    "area": "515766",
+    "latitude": 13.633110199999999,
+    "longitude": 74.7271323,
+    "place_id": "ChIJI0RCA-WPvDsRCV7nWp50ZlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0RCA-WPvDsRCV7nWp50ZlI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:19:32"
+  },
+  {
+    "business_name": "Karkunje Catering and Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "515766",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JMGR+4WM, Vaderhobli, Kundapur, Karnataka 576201",
+    "area": "Vaderhobli",
+    "latitude": 13.625335699999999,
+    "longitude": 74.6923048,
+    "place_id": "ChIJW_XApQaOvDsRGPBcOsQE53w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_XApQaOvDsRGPBcOsQE53w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:19:32"
+  }
+]

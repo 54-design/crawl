@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Greenply Industries Limited",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Corporate office, Manufacturer",
+    "pincode": "515721",
+    "phone_number": "+91 1800 103 4050",
+    "website": "https://www.greenply.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st Floor, Pusapati Enclave, 27-8-22, Masjid St, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Arundalpet, Governor Peta",
+    "latitude": 16.5147162,
+    "longitude": 80.6293231,
+    "place_id": "ChIJFSW1KQDvNToRSZ1SkKTr2ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSW1KQDvNToRSZ1SkKTr2ag",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:13"
+  },
+  {
+    "business_name": "Sreenath Plylam and Hardware",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Acrylic Dealer, Hardware store, Modular home dealer",
+    "pincode": "515721",
+    "phone_number": "+91 95025 76229",
+    "website": "https://www.instagram.com/sreenath_plylam_and_hardware?igsh=ajdxb2d2MzMxZzYx",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "27-37-16, MG Rd, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5115935,
+    "longitude": 80.62170739999999,
+    "place_id": "ChIJ_2Njzvj7NToRllRw3uJsBZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2Njzvj7NToRllRw3uJsBZk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:15"
+  }
+]

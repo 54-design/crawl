@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satya Prakash Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop, Cash and carry wholesaler, Supplier, Exporter, Farm, Food Processing Company, Rice mill, Rice wholesaler, Warehouse",
+    "pincode": "515870",
+    "phone_number": "+91 94901 96589",
+    "website": "https://www.vvrrice.com/",
+    "rating": 5,
+    "reviews_count": 65,
+    "address": "14/335, PostOffice-Road, Loyaada, Gudivada, Andhra Pradesh 521301",
+    "area": "Loyaada",
+    "latitude": 16.4328715,
+    "longitude": 80.9870772,
+    "place_id": "ChIJg8qoMlUDNjoRfCGkxto7CYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8qoMlUDNjoRfCGkxto7CYs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:11"
+  },
+  {
+    "business_name": "Grainskart",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "515870",
+    "phone_number": "+91 82962 76070",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chinnaswamy Building, 30/1, New Road, nearby Shanthipura Panchayat Office & Water Tank APMC Fruit Market, Shanthipura, Phase-02, Electronic City, Bhovi Palya, Karnataka 560099",
+    "area": "Shanthipura, Phase-02, Electronic City",
+    "latitude": 12.8473103,
+    "longitude": 77.685079,
+    "place_id": "ChIJawqRQJdtrjsRFZs_l8rQ6s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawqRQJdtrjsRFZs_l8rQ6s8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:12"
+  }
+]

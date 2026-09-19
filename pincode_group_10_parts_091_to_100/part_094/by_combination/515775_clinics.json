@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RLN Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "515775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W9RF+F97, Venkatampalle, Andhra Pradesh 515832",
+    "area": "515775",
+    "latitude": 14.9411574,
+    "longitude": 77.373434,
+    "place_id": "ChIJLQtFRADbtjsRY7DIsuF7cwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQtFRADbtjsRY7DIsuF7cwE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:10"
+  },
+  {
+    "business_name": "Sunil Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X9CR+GPH, Pandikunta, Andhra Pradesh 515832",
+    "area": "515775",
+    "latitude": 14.9713167,
+    "longitude": 77.3918672,
+    "place_id": "ChIJf32NTULDtjsR9t0j79vXeJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf32NTULDtjsR9t0j79vXeJQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:13"
+  }
+]

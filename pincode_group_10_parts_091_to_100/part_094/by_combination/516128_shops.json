@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokesh",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516128",
+    "phone_number": "+91 78422 82090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chakrampet, Chakrampeta, Kadapa, Andhra Pradesh 516128",
+    "area": "Chakrampeta",
+    "latitude": 14.243333199999999,
+    "longitude": 79.2421166,
+    "place_id": "ChIJiR75VuUxszsR2z9vEoWuof4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiR75VuUxszsR2z9vEoWuof4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:00"
+  },
+  {
+    "business_name": "Vivekananda colony",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "765C+59W, Nallapureddy Palli, Andhra Pradesh 516128",
+    "area": "516128",
+    "latitude": 14.257981899999999,
+    "longitude": 79.220964,
+    "place_id": "ChIJ9fdodQAxszsR0e2W4lDne7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fdodQAxszsR0e2W4lDne7Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:02"
+  }
+]

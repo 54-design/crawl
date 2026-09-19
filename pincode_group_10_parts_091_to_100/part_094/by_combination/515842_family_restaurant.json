@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Muntaj Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Indian restaurant",
+    "pincode": "515842",
+    "phone_number": "+91 89662 65265",
+    "website": "https://hotel-muntaj-website--mvkraju1.replit.app/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Araku - Visakhapatnam Rd, Srungavarapu kota, Andhra Pradesh 535145",
+    "area": "515842",
+    "latitude": 18.104829199999998,
+    "longitude": 83.1385513,
+    "place_id": "ChIJWy95TjfbOzoRWjZAeb8DcVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWy95TjfbOzoRWjZAeb8DcVg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:17"
+  },
+  {
+    "business_name": "SVR Family Restaurant A/c",
+    "search_category": "Family Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Chinese noodle restaurant, Meal delivery",
+    "pincode": "515842",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "4M7P+HJ5, Ichchapuram, Andhra Pradesh 532312",
+    "area": "515842",
+    "latitude": 19.1137543,
+    "longitude": 84.6866989,
+    "place_id": "ChIJu_KhkvpBPToRpZ0U9sBXl0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_KhkvpBPToRpZ0U9sBXl0Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:17"
+  }
+]

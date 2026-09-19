@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BISMILLAH CHICKEN CENTER",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "516129",
+    "phone_number": "+91 93815 03611",
+    "website": "http://www.bismillahchickengkrp.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bus Stop, G K Rachapalli, Maditadu, Andhra Pradesh 516130",
+    "area": "G K Rachapalli",
+    "latitude": 13.9861477,
+    "longitude": 78.9429457,
+    "place_id": "ChIJJQrP4UHhsjsRhVmJq3nu-do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQrP4UHhsjsRhVmJq3nu-do",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:05"
+  },
+  {
+    "business_name": "Gaffar Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "516129",
+    "phone_number": "+91 70323 22372",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G K Rachapalli, Maditadu, Andhra Pradesh 516130",
+    "area": "G K Rachapalli",
+    "latitude": 13.9831408,
+    "longitude": 78.9377751,
+    "place_id": "ChIJDYojwJXhsjsRndzXdLWMg5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYojwJXhsjsRndzXdLWMg5k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:15:05"
+  }
+]

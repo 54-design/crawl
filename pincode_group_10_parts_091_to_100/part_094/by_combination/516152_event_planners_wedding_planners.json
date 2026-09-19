@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vennus Weddings",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "516152",
+    "phone_number": "+91 99119 33777",
+    "website": "http://www.vennusweddings.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th floor, Cloud 9 Towers, 454, Sector-1, Vaishali, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Sector-1, Vaishali",
+    "latitude": 28.6393061,
+    "longitude": 77.3352243,
+    "place_id": "ChIJL-InBGX7DDkRwlwX-6n-gCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-InBGX7DDkRwlwX-6n-gCA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:23:10"
+  },
+  {
+    "business_name": "Elegant Weddings",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "516152",
+    "phone_number": "+91 98861 45529",
+    "website": "http://www.fb.com/elegantweddingsindia",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "29, C K Gardens, Thomas Town, Cooke Town, Bengaluru, Karnataka 560084",
+    "area": "C K Gardens, Thomas Town, Cooke Town",
+    "latitude": 13.005695699999999,
+    "longitude": 77.6261123,
+    "place_id": "ChIJAQAAwB0XrjsRNofEuQq9-iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwB0XrjsRNofEuQq9-iU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:23:10"
+  }
+]

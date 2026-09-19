@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshaya Family Garden Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "515671",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 101,
+    "address": "MHQG+W7V, Bellary-Anantapur Rd, Industrial Estate, Pilligundla, Narayanapuram, Andhra Pradesh 515004",
+    "area": "Industrial Estate, Pilligundla",
+    "latitude": 14.6898593,
+    "longitude": 77.5756677,
+    "place_id": "ChIJTyaZh7FKsTsRZ6gNfvK-2VY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyaZh7FKsTsRZ6gNfvK-2VY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:35"
+  },
+  {
+    "business_name": "MURARI VEG",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515671",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CP9C+FGF, Gita Bhawan Rd, Sanjay Nager, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Sanjay Nager",
+    "latitude": 14.418692,
+    "longitude": 77.7212832,
+    "place_id": "ChIJnQDO0YtDsTsRGVoZVulyq0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQDO0YtDsTsRGVoZVulyq0o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515671",
+    "phone_number": "+91 96661 77308",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bypass Road, beside Railway Gate, Mentay Vari Thota, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Mentay Vari Thota",
+    "latitude": 16.551822899999998,
+    "longitude": 81.5313686,
+    "place_id": "ChIJgwK7PgfNNzoR0C0-t3Gdfcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwK7PgfNNzoR0C0-t3Gdfcw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:58:02"
+  },
+  {
+    "business_name": "3S Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515671",
+    "phone_number": "+91 92911 88786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "26-13-337, SAIBABA Temple Backside, B.V.Nagar, NGO Colony, Nellore, Andhra Pradesh 524004",
+    "area": "B.V.Nagar, NGO Colony",
+    "latitude": 14.4184629,
+    "longitude": 79.9674746,
+    "place_id": "ChIJSXaoO3DzTDoRHIFI2sABYbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXaoO3DzTDoRHIFI2sABYbo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:58:02"
+  }
+]

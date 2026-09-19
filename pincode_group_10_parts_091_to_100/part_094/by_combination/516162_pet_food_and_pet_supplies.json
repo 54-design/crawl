@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madeena Pets aquarium shop Kadapa",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "516162",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FRM8+P9V, Almaspet Rd, Ganagapeta, Guduru, Andhra Pradesh 516001",
+    "area": "Ganagapeta",
+    "latitude": 14.484363199999999,
+    "longitude": 78.8159153,
+    "place_id": "ChIJ8Z4TUgBxszsRvk5c4djoQH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z4TUgBxszsRvk5c4djoQH0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:04"
+  },
+  {
+    "business_name": "Vemaiah pet and general shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "516162",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9/310-7, Alpha Nagar, Saipet, Kadapa, Andhra Pradesh 516003",
+    "area": "Alpha Nagar, Saipet",
+    "latitude": 14.4904745,
+    "longitude": 78.818399,
+    "place_id": "ChIJI7_GUv9xszsRezs9hZW3g30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7_GUv9xszsRezs9hZW3g30",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:04"
+  }
+]

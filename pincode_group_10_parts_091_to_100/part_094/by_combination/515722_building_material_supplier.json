@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Lakshmi Venkateswara Associates",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "515722",
+    "phone_number": "+91 94926 76394",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "D.No 1-1143, Main Rd, Rudrampeta, Alamuru, Anantapur, Andhra Pradesh 515004",
+    "area": "Rudrampeta",
+    "latitude": 14.6671582,
+    "longitude": 77.5776155,
+    "place_id": "ChIJ90KHRgBLsTsRaBhwyyKDHKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90KHRgBLsTsRaBhwyyKDHKc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:07:03"
+  },
+  {
+    "business_name": "SS COLOUR WORLD",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "515722",
+    "phone_number": "+91 94927 86919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rudrampeta Rd, Srinagar Colony, Anantapur, Andhra Pradesh 515001",
+    "area": "Srinagar Colony",
+    "latitude": 14.667441,
+    "longitude": 77.5811157,
+    "place_id": "ChIJcQ3k8OpLsTsREaxfcBgQ9Eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQ3k8OpLsTsREaxfcBgQ9Eo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:07:04"
+  }
+]

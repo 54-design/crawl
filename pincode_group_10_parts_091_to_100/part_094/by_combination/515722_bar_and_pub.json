@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandu Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "515722",
+    "phone_number": "+91 83414 12223",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FCG, JJW4, JNTU Rd, Chinmaya Nagar, Prasannaya Palli, Rapthadu, Andhra Pradesh 515002",
+    "area": "Chinmaya Nagar, Prasannaya Palli",
+    "latitude": 14.6389939,
+    "longitude": 77.60905799999999,
+    "place_id": "ChIJ50y1aUJLsTsRtX27BXja7io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50y1aUJLsTsRtX27BXja7io",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:28"
+  },
+  {
+    "business_name": "Tipsy Tap",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "515722",
+    "phone_number": "+91 94342 17097",
+    "website": "https://www.facebook.com/profile.php?id=61556559210695",
+    "rating": 4.5,
+    "reviews_count": 315,
+    "address": "Plot No - 128, Sahapur Bypass, Nageshwarpur, Malda, West Bengal 732142",
+    "area": "515722",
+    "latitude": 25.0016477,
+    "longitude": 88.1649971,
+    "place_id": "ChIJ_QJnPgD9-jkR8fh2HJx6aIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QJnPgD9-jkR8fh2HJx6aIs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:29"
+  }
+]

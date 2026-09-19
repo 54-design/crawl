@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal Game Zone",
+    "search_category": "Internet Cafe",
+    "primary_category": "Game store",
+    "all_categories": "Game store",
+    "pincode": "516004",
+    "phone_number": "+91 80747 79263",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dr lakshmanna house Upstairs, near chowdesvaridevi tempel, Gandhinagar, Yerramukkapalli, Kadapa, Andhra Pradesh 516001",
+    "area": "Gandhinagar, Yerramukkapalli",
+    "latitude": 14.458257099999999,
+    "longitude": 78.8225223,
+    "place_id": "ChIJeQ-TLZhzszsRg75vZMRnlMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ-TLZhzszsRg75vZMRnlMs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:55:04"
+  },
+  {
+    "business_name": "Galaxy Gaming Zone",
+    "search_category": "Internet Cafe",
+    "primary_category": "Amusement center",
+    "all_categories": "Amusement center",
+    "pincode": "516004",
+    "phone_number": "+91 98498 89810",
+    "website": "https://www.galaxygamingzone.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sri Hanuman Nagar, Rajampet, Mannuru, Andhra Pradesh 516115",
+    "area": "516004",
+    "latitude": 14.208858699999999,
+    "longitude": 79.1498096,
+    "place_id": "ChIJTV7YCXclszsRbLzkP0c7TW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV7YCXclszsRbLzkP0c7TW0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:55:05"
+  }
+]

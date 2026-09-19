@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Chat Point",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "515761",
+    "phone_number": "+91 96864 28270",
+    "website": "https://6190f2d9a3ca9.site123.me/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "306, 3rd A Cross Rd, HRBR Layout 1st Block, HRBR Layout, Banaswadi, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 1st Block, HRBR Layout, Banaswadi",
+    "latitude": 13.018537799999999,
+    "longitude": 77.65345429999999,
+    "place_id": "ChIJXcn2LCsXrjsR62Lc-yMQ2j0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcn2LCsXrjsR62Lc-yMQ2j0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:33"
+  },
+  {
+    "business_name": "LVS Café",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "515761",
+    "phone_number": "+91 63031 61659",
+    "website": "https://www.lvscafe.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "9-5-635/A Plot no 1, J.R.S Colony, Rayadurgam, Andhra Pradesh 515865",
+    "area": "J.R.S Colony",
+    "latitude": 14.6956463,
+    "longitude": 76.8575307,
+    "place_id": "ChIJl_8MIjk1tzsRxTk0FjenjWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_8MIjk1tzsRxTk0FjenjWo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:33"
+  }
+]

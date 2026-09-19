@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto Mobiles",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "515774",
+    "phone_number": "+91 94493 85245",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "6-411 BELLARY BYPASS, ROAD, Anantapur, Andhra Pradesh 515004",
+    "area": "LB Nagar, Somanath Nagar",
+    "latitude": 14.684361599999999,
+    "longitude": 77.58716799999999,
+    "place_id": "ChIJARxW0MdKsTsRAAAA0F4WXU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARxW0MdKsTsRAAAA0F4WXU8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:22:42"
+  },
+  {
+    "business_name": "SRI SURYA CHANDRA BATTERY AGENCIES",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "515774",
+    "phone_number": "+91 96409 05269",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Samvatsaragudem, Nidadavolu, Andhra Pradesh 534302",
+    "area": "Samvatsaragudem",
+    "latitude": 16.9087079,
+    "longitude": 81.6871172,
+    "place_id": "ChIJN27rNQuwNzoRaYuX2DBB6IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN27rNQuwNzoRaYuX2DBB6IM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:22:44"
+  }
+]

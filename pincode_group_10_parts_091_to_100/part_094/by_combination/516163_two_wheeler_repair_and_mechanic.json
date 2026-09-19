@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOTO HUB",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "516163",
+    "phone_number": "+91 75920 42843",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Collagepadi, Road, opposite More Supermarket, Nadackal, Pala, Keralam 686121",
+    "area": "Nadackal",
+    "latitude": 9.6933823,
+    "longitude": 76.7714246,
+    "place_id": "ChIJ31vNSivLBzsRRfweMJuIC1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31vNSivLBzsRRfweMJuIC1A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:19"
+  },
+  {
+    "business_name": "Strokers Garage",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Motorcycle parts store",
+    "pincode": "516163",
+    "phone_number": "+91 80756 88036",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 230,
+    "address": "po sarathy buildings, near vattamoodu bridge, S.H. Mount, Nattassery, Kottayam, Keralam 686006",
+    "area": "S.H. Mount, Nattassery",
+    "latitude": 9.6028355,
+    "longitude": 76.5346522,
+    "place_id": "ChIJkSEi3Q8rBjsREOFldasd4uY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSEi3Q8rBjsREOFldasd4uY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:21"
+  }
+]

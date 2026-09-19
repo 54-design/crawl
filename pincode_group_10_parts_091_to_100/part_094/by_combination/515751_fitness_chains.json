@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Slimlifegym & fitness centre A/c",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515751",
+    "phone_number": "+91 90320 41983",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "FX3C+FHR, Walker's Rd, Kotamitta, Nellore, Andhra Pradesh 524001",
+    "area": "Kotamitta",
+    "latitude": 14.453729099999999,
+    "longitude": 79.9714047,
+    "place_id": "ChIJjcS6vRyNTDoR0bDVNDziwHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcS6vRyNTDoR0bDVNDziwHo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:10"
+  },
+  {
+    "business_name": "UFC GYM Vijayawada",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "515751",
+    "phone_number": "+91 99487 33633",
+    "website": "https://www.ufcgym.in/",
+    "rating": 4.7,
+    "reviews_count": 50,
+    "address": "Dr Ramesh Hospital Rd, Prashant Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Prashant Nagar, Benz Circle",
+    "latitude": 16.5070479,
+    "longitude": 80.65575989999999,
+    "place_id": "ChIJyxMWUUD7NToRajtEcwBuo7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxMWUUD7NToRajtEcwBuo7Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:11"
+  }
+]

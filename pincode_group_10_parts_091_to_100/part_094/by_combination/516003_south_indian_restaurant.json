@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ఆంటి Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, Andhra restaurant, Breakfast restaurant, Country food restaurant",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FQJC+66J, Krishnapuram, Andhra Pradesh 516005",
+    "area": "516003",
+    "latitude": 14.480586299999999,
+    "longitude": 78.7705044,
+    "place_id": "ChIJ9-DX499zszsRfBxAJuGryLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-DX499zszsRfBxAJuGryLM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:10"
+  },
+  {
+    "business_name": "గంగమ్మ బాలుర బోజన శాల",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FQJ8+9PG, శివ సంధ్య నగరం, ksrm college of engineering ఎదురుగ, Krishnapuram, Andhra Pradesh 516005",
+    "area": "Siva Sandhya Nagar",
+    "latitude": 14.4809337,
+    "longitude": 78.7668406,
+    "place_id": "ChIJ4fNf0OFzszsRJvpU_El_yKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fNf0OFzszsRJvpU_El_yKk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:10"
+  }
+]

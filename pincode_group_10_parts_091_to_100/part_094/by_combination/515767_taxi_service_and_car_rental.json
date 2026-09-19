@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khajuraho Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Taxi service, Taxi stand, Travel agency",
+    "pincode": "515767",
+    "phone_number": "+91 78698 81961",
+    "website": "https://sites.google.com/view/khajurahotaxi/home",
+    "rating": 5,
+    "reviews_count": 142,
+    "address": "Plot 555, Lalguwa Rd, Manjoor Nagar, Khajuraho, Madhya Pradesh 471606",
+    "area": "Manjoor Nagar",
+    "latitude": 24.8555256,
+    "longitude": 79.9178032,
+    "place_id": "ChIJy7WaYlDpgjkROcKJ8E2P6OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7WaYlDpgjkROcKJ8E2P6OA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:53"
+  },
+  {
+    "business_name": "Guntur Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "515767",
+    "phone_number": "+91 99499 29049",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Housing board coloney, NGO Colony, Guntur, Andhra Pradesh 522004",
+    "area": "NGO Colony",
+    "latitude": 16.3014097,
+    "longitude": 80.40896099999999,
+    "place_id": "ChIJ0Rk6FZB1SjoRgIeTVjg7lP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Rk6FZB1SjoRgIeTVjg7lP4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:54"
+  }
+]

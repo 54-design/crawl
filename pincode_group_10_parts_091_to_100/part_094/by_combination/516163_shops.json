@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New paragon shoe mart",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516163",
+    "phone_number": "+91 98852 24918",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, old bank street, opposite on market road, near police station, Khajipet Sunkesula, Andhra Pradesh 516203",
+    "area": "516163",
+    "latitude": 14.651808899999999,
+    "longitude": 78.7701544,
+    "place_id": "ChIJef3CUUN7szsRBhQThki0Vek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJef3CUUN7szsRBhQThki0Vek",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:27:33"
+  },
+  {
+    "business_name": "ELEGANT FASHIONS",
+    "search_category": "Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "516163",
+    "phone_number": "+91 95814 36686",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Shop3, Maria Puram, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Kadapa",
+    "latitude": 14.4744972,
+    "longitude": 78.8237996,
+    "place_id": "ChIJW1yhMRJzszsRa8FIJwJeBZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1yhMRJzszsRa8FIJwJeBZM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:27:35"
+  }
+]

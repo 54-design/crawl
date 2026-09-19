@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JSM Car Care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto body shop, Auto broker, Auto radiator repair service, Auto repair shop, Auto restoration service, Chauffeur service, Car wash, Mechanic, Garage",
+    "pincode": "515651",
+    "phone_number": "+91 98480 78868",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ravi Nagar, Naidu Thota, Vepagunta, Andhra Pradesh 530047",
+    "area": "Ravi Nagar, Naidu Thota",
+    "latitude": 17.7685423,
+    "longitude": 83.21351399999999,
+    "place_id": "ChIJCZR2m7ZnOToR2I9MyQYd3PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZR2m7ZnOToR2I9MyQYd3PU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:36"
+  },
+  {
+    "business_name": "MyTVS Jyothi Car Care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "515651",
+    "phone_number": "+91 92466 24491",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ronaki Complex, Green Gardens, Hussain Nagar, FCI Nagar, Sai Nagar, Marripalem, Visakhapatnam, Andhra Pradesh 530018",
+    "area": "Hussain Nagar, FCI Nagar, Sai Nagar, Marripalem",
+    "latitude": 17.7450921,
+    "longitude": 83.2532611,
+    "place_id": "ChIJ8f__P1VdOToRY7hrmLoQLO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8f__P1VdOToRY7hrmLoQLO8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:36"
+  }
+]

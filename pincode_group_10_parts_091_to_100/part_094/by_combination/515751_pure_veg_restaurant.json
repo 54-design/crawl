@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Geetha Bhavan",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant",
+    "pincode": "515751",
+    "phone_number": "+91 86606 33029",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "VJH2+J8G, Dornala - Atmakur Rd, Vaddla Peta, Atmakur, Andhra Pradesh 518422",
+    "area": "Vaddla Peta",
+    "latitude": 15.8790652,
+    "longitude": 78.6008377,
+    "place_id": "ChIJM8r4Ug2ftTsR2MKZslrlWvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8r4Ug2ftTsR2MKZslrlWvc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:11:46"
+  },
+  {
+    "business_name": "Hotel Amaravathi Vegetarian Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "515751",
+    "phone_number": "+91 78939 64408",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "WW42+3G8, SH 61, L.A.Sagaram, Vinnamala, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.905156499999999,
+    "longitude": 79.9013274,
+    "place_id": "ChIJsXZVbrwaTToRNDKr3sgJRLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXZVbrwaTToRNDKr3sgJRLU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:11:46"
+  }
+]

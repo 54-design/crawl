@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lekha Wellness World",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness Center",
+    "all_categories": "Wellness Center",
+    "pincode": "516126",
+    "phone_number": "+91 94413 22406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "55V4+P6H, Noonevari Palli Road, Sainagar, Rajampet, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.194304599999999,
+    "longitude": 79.1556241,
+    "place_id": "ChIJBf-7kh0lszsRC0x7SrNlAT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBf-7kh0lszsRC0x7SrNlAT4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:10:40"
+  },
+  {
+    "business_name": "AYUSHMAN BHARATH HEALTH WELLNESS CENTER",
+    "search_category": "Wellness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Edigapalem, Rajampet, Andhra Pradesh 516115",
+    "area": "Edigapalem",
+    "latitude": 14.1979755,
+    "longitude": 79.1627285,
+    "place_id": "ChIJf4xuDhklszsRd4n5e7RChWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4xuDhklszsRd4n5e7RChWo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:10:40"
+  }
+]

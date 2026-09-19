@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion world",
+    "search_category": "Exporters",
+    "primary_category": "Garment Exporter",
+    "all_categories": "Garment Exporter",
+    "pincode": "515591",
+    "phone_number": "+91 73373 12753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4565+CWJ, Valisab Rd, Revenue Colony, Kadiri, Andhra Pradesh 515591",
+    "area": "Revenue Colony",
+    "latitude": 14.1110774,
+    "longitude": 78.1597723,
+    "place_id": "ChIJ7-6HIazPszsRCJhNDS5dw0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-6HIazPszsRCJhNDS5dw0c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:45:05"
+  },
+  {
+    "business_name": "NGO Colony",
+    "search_category": "Exporters",
+    "primary_category": "Exporters",
+    "all_categories": "Exporters",
+    "pincode": "515591",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SV Nagar, Kadiri, Andhra Pradesh 515591",
+    "area": "NGO Colony, SV Nagar",
+    "latitude": 14.120264899999999,
+    "longitude": 78.1543054,
+    "place_id": "ChIJPQLSo1fOszsRXRYRfioqiKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQLSo1fOszsRXRYRfioqiKI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:45:05"
+  }
+]

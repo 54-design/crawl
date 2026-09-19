@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxe Wellness Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa",
+    "pincode": "515801",
+    "phone_number": "+91 63782 53878",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st floor, Datta prime business centre, Mulgund Rd, behind dominos pizza, Betageri, Zakir Hussain Colony, Hudco Colony, Gadag-Betageri, Karnataka 582101",
+    "area": "Betageri, Zakir Hussain Colony, Hudco Colony",
+    "latitude": 15.417114999999999,
+    "longitude": 75.62149169999999,
+    "place_id": "ChIJi4Cdqxz5uDsRWgWz06fdPG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4Cdqxz5uDsRWgWz06fdPG4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:11"
+  },
+  {
+    "business_name": "KAYAKALPA WELLNESS CENTRE AND SPA",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515801",
+    "phone_number": "+91 85904 55321",
+    "website": "https://kayakalpaspa.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "X6GH+PQP, KSHB Colony, Perinthalmanna, Keralam 679322",
+    "area": "KSHB Colony",
+    "latitude": 10.976813,
+    "longitude": 76.229427,
+    "place_id": "ChIJZaXdhvXNpzsRZ1LRqHkByH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaXdhvXNpzsRZ1LRqHkByH4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:28:11"
+  }
+]

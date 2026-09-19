@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkatesulu Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "515761",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "H437+CM7, Jaynagar, Kalyandurg, Andhra Pradesh 515761",
+    "area": "Jaynagar",
+    "latitude": 14.5535254,
+    "longitude": 77.1141646,
+    "place_id": "ChIJ2UDPy8fWsDsRI9QnLZjtp6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UDPy8fWsDsRI9QnLZjtp6s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:23"
+  },
+  {
+    "business_name": "Sadguru Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "515761",
+    "phone_number": "+91 97404 12092",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Government school road, Dasarlahally, Obalapura, Karnataka 577537",
+    "area": "Dasarlahally",
+    "latitude": 14.4801535,
+    "longitude": 76.9132825,
+    "place_id": "ChIJxaQGosbJsDsRHzp0CgBo1l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaQGosbJsDsRHzp0CgBo1l8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:23"
+  }
+]

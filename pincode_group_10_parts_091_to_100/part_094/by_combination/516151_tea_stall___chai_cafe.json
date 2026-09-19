@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Tea Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Restaurant",
+    "pincode": "516151",
+    "phone_number": "+91 98669 47263",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5-2-42, Ghanapurward, Tandur, Telangana 501141",
+    "area": "Ghanapurward",
+    "latitude": 17.2584011,
+    "longitude": 77.5834285,
+    "place_id": "ChIJ3_BC679qyTsR1zjr-mO2T-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_BC679qyTsR1zjr-mO2T-4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:34"
+  },
+  {
+    "business_name": "Chef Saru Bellam tea Mangalagiri",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516151",
+    "phone_number": "+91 99898 97161",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2-68, SASAN STAMBAM, Near Gali Gopuram, Mangalagiri, Andhra Pradesh 522503",
+    "area": "Near Gali Gopuram",
+    "latitude": 16.435674499999998,
+    "longitude": 80.5660017,
+    "place_id": "ChIJC5SzJ1PxNToRd9bBo7vlO1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5SzJ1PxNToRd9bBo7vlO1o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RasineniAbhishe hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "515741",
+    "phone_number": "+91 99890 33154",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BC-Colony, Anantapur, Seerpi, Andhra Pradesh 515741",
+    "area": "BC-Colony",
+    "latitude": 14.677409899999999,
+    "longitude": 77.1610475,
+    "place_id": "ChIJP2KkgxsrtzsRbOEdLG-HdFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2KkgxsrtzsRbOEdLG-HdFk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:55"
+  },
+  {
+    "business_name": "Eswarappa Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "515741",
+    "phone_number": "+91 83743 85505",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Blg, Anantapur, Beluguppa, Andhra Pradesh 515741",
+    "area": "Blg",
+    "latitude": 14.7140825,
+    "longitude": 77.1347084,
+    "place_id": "ChIJizPayBYrtzsRlGvq4SV_og8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizPayBYrtzsRlGvq4SV_og8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:58"
+  }
+]

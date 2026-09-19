@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyothi hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "515775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 35,
+    "address": "CMMW+22X, Gandhi Nagar-II, Narsapur, Andhra Pradesh 534275",
+    "area": "Gandhi Nagar-II",
+    "latitude": 16.432619799999998,
+    "longitude": 81.6950943,
+    "place_id": "ChIJ1-75BsvZNzoRMHlNErJgubE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-75BsvZNzoRMHlNErJgubE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:47"
+  },
+  {
+    "business_name": "KGBV KESHAMPET girl's hostal",
+    "search_category": "Hostels",
+    "primary_category": "School house",
+    "all_categories": "School house",
+    "pincode": "515775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XH8W+3CG, Keshampet, Pamidi, Telangana 515775",
+    "area": "515775",
+    "latitude": 14.9651825,
+    "longitude": 77.596068,
+    "place_id": "ChIJhbDgjku5tjsRK2y6k81jZZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbDgjku5tjsRK2y6k81jZZI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:47"
+  }
+]

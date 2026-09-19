@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "musa car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515763",
+    "phone_number": "+91 94937 89290",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 18,
+    "address": "bus stand, Molakalmuru Rd, behind rani chatr Republic of India, J.R.S Colony, Rayadurgam, Andhra Pradesh 515865",
+    "area": "J.R.S Colony",
+    "latitude": 14.6971382,
+    "longitude": 76.8497005,
+    "place_id": "ChIJ85CxMAs1tzsRMgui29QtfGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85CxMAs1tzsRMgui29QtfGk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:15:39"
+  },
+  {
+    "business_name": "Speed Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "515763",
+    "phone_number": "+91 70064 57020",
+    "website": "http://www.speedcarwash.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "baran, Bantalab Road, Jammu, Jammu and Kashmir 181122",
+    "area": "515763",
+    "latitude": 32.8554641,
+    "longitude": 74.80488199999999,
+    "place_id": "ChIJe18wUAGHHjkRx4ksXXjPAL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe18wUAGHHjkRx4ksXXjPAL0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:15:40"
+  }
+]

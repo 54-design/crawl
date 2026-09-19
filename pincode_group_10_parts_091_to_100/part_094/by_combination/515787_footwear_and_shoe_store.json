@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel feet foot wear shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515787",
+    "phone_number": "+91 97461 76302",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Amachal, Kattakkada, Keralam 695125",
+    "area": "Amachal",
+    "latitude": 8.4961165,
+    "longitude": 77.109948,
+    "place_id": "ChIJV6FusR6zBTsRy6n6KDd2SU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6FusR6zBTsRy6n6KDd2SU8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:50"
+  },
+  {
+    "business_name": "Posh lace-up",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515787",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Mall Of Kallat, Mananthavady, Keralam 670645",
+    "area": "515787",
+    "latitude": 11.8034044,
+    "longitude": 76.0082311,
+    "place_id": "ChIJK78AGp3fpTsRGm-HIBvxYro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK78AGp3fpTsRGm-HIBvxYro",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:50"
+  }
+]

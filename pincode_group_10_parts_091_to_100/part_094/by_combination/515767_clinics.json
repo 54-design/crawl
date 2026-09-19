@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Health counselor",
+    "all_categories": "Health counselor",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JWX9+84G, Nethrapalli, Belodu, Andhra Pradesh 515867",
+    "area": "Nethrapalli",
+    "latitude": 14.6483148,
+    "longitude": 76.9178395,
+    "place_id": "ChIJBYWyPADLsDsRi_-ernqz-dE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYWyPADLsDsRi_-ernqz-dE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:42"
+  },
+  {
+    "business_name": "Village Clinic Hospital",
+    "search_category": "Clinics",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GVX8+PF6, Gundiganihalli, Andhra Pradesh 515863",
+    "area": "515767",
+    "latitude": 14.549605199999998,
+    "longitude": 76.8663322,
+    "place_id": "ChIJxStOsILJsDsRRS9UlCWvblw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxStOsILJsDsRRS9UlCWvblw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:42"
+  }
+]

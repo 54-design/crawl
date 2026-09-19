@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Day care center SVICCAR",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Day care center",
+    "pincode": "516128",
+    "phone_number": "+91 1800 103 6123",
+    "website": "https://sviccar.org/",
+    "rating": 4.4,
+    "reviews_count": 131,
+    "address": "SH 61, Prakasam Nagar Colony, Sri Padmavati Mahila Visvavidyalayam, Tirupati, Andhra Pradesh 517502",
+    "area": "Prakasam Nagar Colony, Sri Padmavati Mahila Visvavidyalayam",
+    "latitude": 13.6291253,
+    "longitude": 79.37998569999999,
+    "place_id": "ChIJF8ia-IG1sjsR7sWV6Ik-pFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8ia-IG1sjsR7sWV6Ik-pFw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:48"
+  },
+  {
+    "business_name": "Care Health Solutions",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical billing service",
+    "all_categories": "Medical billing service",
+    "pincode": "516128",
+    "phone_number": "+91 91829 53488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Asilmetta, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "Asilmetta",
+    "latitude": 17.7248372,
+    "longitude": 83.3161138,
+    "place_id": "ChIJtehyhzbM3owRpUoUgTl3IFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtehyhzbM3owRpUoUgTl3IFw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:50"
+  }
+]

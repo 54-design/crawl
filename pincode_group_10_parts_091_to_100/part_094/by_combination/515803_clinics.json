@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Siddhi Vinayaka Medical Stores",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515803",
+    "phone_number": "+91 96182 03461",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "596H+QJP, Tilak Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Tilak Nagar",
+    "latitude": 15.1619605,
+    "longitude": 77.3790707,
+    "place_id": "ChIJtW02XV_vtjsRXDILcLLFpQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW02XV_vtjsRXDILcLLFpQI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:29:25"
+  },
+  {
+    "business_name": "K.K Clinic First Aid Centre",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515803",
+    "phone_number": "+91 93940 82143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vidya Nagar, Guntakal, Andhra Pradesh 515801",
+    "area": "Vidya Nagar",
+    "latitude": 15.1578076,
+    "longitude": 77.3709743,
+    "place_id": "ChIJ8UUPGfHltjsRKVNh7urwcZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UUPGfHltjsRKVNh7urwcZI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:29:25"
+  }
+]

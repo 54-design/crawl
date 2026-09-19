@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAMMA ANGADI ORGANICS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Gourmet grocery store",
+    "pincode": "515631",
+    "phone_number": "+91 91821 04315",
+    "website": "http://www.nammaangadiorganics.com/",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "1025 - B, 3rd Main Rd, MMDA, Bharathi Nagar, Manali, Mathur, Chennai, Tamil Nadu 600068",
+    "area": "MMDA, Bharathi Nagar, Manali",
+    "latitude": 13.1728743,
+    "longitude": 80.24924469999999,
+    "place_id": "ChIJN5z4hxZ7UjoR_8zm2DQp64c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5z4hxZ7UjoR_8zm2DQp64c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:50:31"
+  },
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Bathalapalli",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "515631",
+    "phone_number": "+91 97049 00052",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No 256/1, Kadiri - Ananthapur Hwy, near ZP High School, Bathalapalli, Andhra Pradesh 515661",
+    "area": "515631",
+    "latitude": 14.5140038,
+    "longitude": 77.7686021,
+    "place_id": "ChIJXVTryH5bsTsRR3mw9BXl4IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVTryH5bsTsRR3mw9BXl4IU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:50:32"
+  }
+]

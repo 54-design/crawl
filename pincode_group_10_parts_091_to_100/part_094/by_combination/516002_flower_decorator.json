@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muhurtham Events",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Revenue Ward, 1/2107, Railway Station Rd, near Visvesvaraya Circle, Prakash Nagar, Kadapa, Andhra Pradesh 516001",
+    "area": "Prakash Nagar",
+    "latitude": 14.458713,
+    "longitude": 78.82885399999999,
+    "place_id": "ChIJEyjsM81zszsRZ5pANIC6b9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyjsM81zszsRZ5pANIC6b9I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:17"
+  },
+  {
+    "business_name": "Muthu's flower shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "number 2, 1, road, Sankarapuram, Kadapa, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "Sankarapuram, Kadapa",
+    "latitude": 14.483763199999999,
+    "longitude": 78.8342385,
+    "place_id": "ChIJLxVghMJzszsR_erYmx2fIm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxVghMJzszsR_erYmx2fIm0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:17"
+  }
+]

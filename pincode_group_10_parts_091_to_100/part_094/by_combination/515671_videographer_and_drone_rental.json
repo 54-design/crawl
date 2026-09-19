@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aurum Camera Rentals",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Camera store",
+    "all_categories": "Camera store",
+    "pincode": "515671",
+    "phone_number": "+91 75690 85565",
+    "website": "https://aurum-camera-rentals.vercel.app/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Nachuvari centre, Gunupudi, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Gunupudi",
+    "latitude": 16.5403351,
+    "longitude": 81.5322635,
+    "place_id": "ChIJuS19d77TNzoRlgX_8372zpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuS19d77TNzoRlgX_8372zpM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:58:29"
+  },
+  {
+    "business_name": "drony.in",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Mapping service",
+    "all_categories": "Mapping service, Aerial photographer, Drone shop",
+    "pincode": "515671",
+    "phone_number": "+91 89199 40257",
+    "website": "http://www.drony.in/",
+    "rating": 5,
+    "reviews_count": 165,
+    "address": "Plot No: 240, Suchitra, Petbasheerabad, Phase 1, Dandamudi Enclave, Jeedimetla, Hyderabad, Telangana 500067",
+    "area": "Phase 1, Dandamudi Enclave, Jeedimetla",
+    "latitude": 17.5182549,
+    "longitude": 78.47220039999999,
+    "place_id": "ChIJne17E96RyzsRET-XhmEsj6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJne17E96RyzsRET-XhmEsj6w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:58:29"
+  }
+]

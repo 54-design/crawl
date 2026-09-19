@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S mart",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RS Rd, Aravapalli, Nagireddipalle, Andhra Pradesh 516150",
+    "area": "Aravapalli",
+    "latitude": 14.2696315,
+    "longitude": 79.108167,
+    "place_id": "ChIJKc-OcDA9szsRKLtIE5JRynw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKc-OcDA9szsRKLtIE5JRynw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:18:33"
+  },
+  {
+    "business_name": "Arava Sundar",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "516150",
+    "phone_number": "+91 70369 27920",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rmp Bangla, Aravapalli, Nandalur, Kadapa, Andhra Pradesh 516150",
+    "area": "Rmp Bangla, Aravapalli",
+    "latitude": 14.271098199999999,
+    "longitude": 79.1056297,
+    "place_id": "ChIJU7nghIY9szsRHacKctwCkA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7nghIY9szsRHacKctwCkA8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:18:33"
+  }
+]

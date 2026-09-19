@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Federal Bank",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Car finance and loan company, Financial institution, Investment service, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "516107",
+    "phone_number": "+91 1800 425 1199",
+    "website": "https://www.federal.bank.in/?utm_source=branch_locator&utm_medium=brand_website",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "No 6/460 & 461, Railway Station Road, opposite DRL Residency, Kadapa, Rajampet, Andhra Pradesh 516115",
+    "area": "516107",
+    "latitude": 14.1881088,
+    "longitude": 79.15629489999999,
+    "place_id": "ChIJ7eefqd0lszsRHQ8M5DblmFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7eefqd0lszsRHQ8M5DblmFw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:03:50"
+  },
+  {
+    "business_name": "Orson Automation Pvt Ltd",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "516107",
+    "phone_number": "+91 44 2481 2288",
+    "website": "http://www.orsonautomation.com/",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "143, 2nd Floor, Arcot Rd, near Ram Theatre & Power House, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "area": "Kodambakkam",
+    "latitude": 13.0514944,
+    "longitude": 80.217714,
+    "place_id": "ChIJJdtuge5mUjoR2cUhlFANRY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdtuge5mUjoR2cUhlFANRY4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:03:50"
+  }
+]

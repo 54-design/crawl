@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haritha Hotel APTDC",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516150",
+    "phone_number": "N/A",
+    "website": "https://tourism.ap.gov.in/",
+    "rating": 3.3,
+    "reviews_count": 542,
+    "address": "92RG+5R2, Naama Vari St, Vontimitta, Andhra Pradesh 516213",
+    "area": "516150",
+    "latitude": 14.390378,
+    "longitude": 79.0270242,
+    "place_id": "ChIJrwS8zOQ_szsRzzj837q3VhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwS8zOQ_szsRzzj837q3VhE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:38"
+  },
+  {
+    "business_name": "Hotel Ramana",
+    "search_category": "Hotel",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "516150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "74C7+75H, NH 716, Nandalur, Andhra Pradesh 516150",
+    "area": "516150",
+    "latitude": 14.270245899999999,
+    "longitude": 79.1130725,
+    "place_id": "ChIJfWT0BwA7szsR1B0MCn8SRpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWT0BwA7szsR1B0MCn8SRpQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:41"
+  }
+]

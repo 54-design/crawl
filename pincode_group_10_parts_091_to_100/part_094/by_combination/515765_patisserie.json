@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515765",
+    "phone_number": "+91 70199 96194",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Atp, Andhra Pradesh 515765",
+    "area": "515765",
+    "latitude": 14.3817686,
+    "longitude": 77.11417809999999,
+    "place_id": "ChIJf91-4KvfsDsRGeLha056wDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf91-4KvfsDsRGeLha056wDs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:16:56"
+  },
+  {
+    "business_name": "food & Restaurant",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515765",
+    "phone_number": "+91 75694 75978",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rakesh Bakery, Bc colony, Anantapur, Thimmapuram, Andhra Pradesh 515765",
+    "area": "Bc colony",
+    "latitude": 14.3724891,
+    "longitude": 77.1724212,
+    "place_id": "ChIJY7OY6tLfsDsRn540IuyzDgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7OY6tLfsDsRn540IuyzDgU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:16:56"
+  }
+]

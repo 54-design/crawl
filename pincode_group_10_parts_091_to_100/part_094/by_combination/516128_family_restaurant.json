@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Da Spot",
+    "search_category": "Family Restaurant",
+    "primary_category": "Continental restaurant",
+    "all_categories": "Continental restaurant",
+    "pincode": "516128",
+    "phone_number": "+91 80077 40803",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Junction, opp. Indian oil Petrol Bunk, Opposite Petrol Bunk, Isukathota, Maddilapalem, Visakhapatnam, Andhra Pradesh 530022",
+    "area": "Opposite Petrol Bunk, Isukathota, Maddilapalem",
+    "latitude": 17.7411279,
+    "longitude": 83.3273761,
+    "place_id": "ChIJQQqsYgBDOToR5FCEyQRk0rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQqsYgBDOToR5FCEyQRk0rU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:28"
+  },
+  {
+    "business_name": "Horizon Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Andhra restaurant, Buffet restaurant, Chinese restaurant, Continental restaurant, Family restaurant, Live music bar, Seafood restaurant, Wine bar",
+    "pincode": "516128",
+    "phone_number": "+91 81210 13707",
+    "website": "https://www.dolphinhotelsvizag.com/horizon",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7th floor, Dolphin Hotel, 75 Feet Road, Daba Garden Rd, Dolphin Area, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Dolphin Area, Daba Gardens, 104 Area",
+    "latitude": 17.713283699999998,
+    "longitude": 83.2974672,
+    "place_id": "ChIJU2WKahxDOToRLGbv-_IO5dU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2WKahxDOToRLGbv-_IO5dU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:28"
+  }
+]

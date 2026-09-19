@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thrinethra Garden Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "515651",
+    "phone_number": "+91 91822 25794",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "8MXH+X9W, N S Gate Rd, yarragunta, Dharmavaram, Pyadindi, Andhra Pradesh 515651",
+    "area": "yarragunta",
+    "latitude": 14.3499757,
+    "longitude": 77.67846829999999,
+    "place_id": "ChIJ_6sAq19DsTsRTZhjhFcWczY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6sAq19DsTsRTZhjhFcWczY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:08"
+  },
+  {
+    "business_name": "Kondapalli cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515651",
+    "phone_number": "N/A",
+    "website": "https://grthotels.com/dining/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "No. 21 1, 2/4, Temple St, opp. Municipal Corporation Girls H School, Salipeta, Rama Rao Peta, Kakinada, Andhra Pradesh 533001",
+    "area": "Salipeta, Rama Rao Peta",
+    "latitude": 16.9556035,
+    "longitude": 82.2331628,
+    "place_id": "ChIJgVSDZAApODoRL8QiEC57Oho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVSDZAApODoRL8QiEC57Oho",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:09"
+  }
+]

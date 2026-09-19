@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FALA HARDWARE",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "516004",
+    "phone_number": "+91 93922 25399",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "1, near Iqbal Rice Mill, Akkayapalle, Andhra Pradesh 516001",
+    "area": "Ravindra Nagar",
+    "latitude": 14.468885199999999,
+    "longitude": 78.81507739999999,
+    "place_id": "ChIJKW6cfXtzszsRUkzFqTb2QV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW6cfXtzszsRUkzFqTb2QV4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:54:31"
+  },
+  {
+    "business_name": "SS ENTERPRISES",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "516004",
+    "phone_number": "+91 86993 83143",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FR88+XX4, ITI Cir, Kagithala Penta, Ravindra Nagar, Nagarajupeta, Andhra Pradesh 516001",
+    "area": "Kagithala Penta, Ravindra Nagar",
+    "latitude": 14.4673793,
+    "longitude": 78.8174566,
+    "place_id": "ChIJM1Qy2c5zszsRW3F9eSGUVus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1Qy2c5zszsRW3F9eSGUVus",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:54:33"
+  }
+]

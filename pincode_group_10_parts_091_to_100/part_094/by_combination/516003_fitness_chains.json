@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "San Fitness hub",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "516003",
+    "phone_number": "+91 80989 73618",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "main road, nearby sabai, G.P nagar, Vadalur, Parvathipuram, Tamil Nadu 607303",
+    "area": "G.P nagar",
+    "latitude": 11.553316299999999,
+    "longitude": 79.54426219999999,
+    "place_id": "ChIJ4QnuKS23VDoRRtCWMjyYaAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QnuKS23VDoRRtCWMjyYaAg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:34"
+  },
+  {
+    "business_name": "Mr & Mrs. Muscle’s Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "516003",
+    "phone_number": "+91 97513 45134",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "13D / 2 sasthri road, 11th Cross E Rd, near sarathambal temple, Tiruchirappalli, Tamil Nadu 620017",
+    "area": "Tennur",
+    "latitude": 10.8194994,
+    "longitude": 78.6888215,
+    "place_id": "ChIJHyBOU6b1qjsRMj33d0EM-70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyBOU6b1qjsRMj33d0EM-70",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:34"
+  }
+]

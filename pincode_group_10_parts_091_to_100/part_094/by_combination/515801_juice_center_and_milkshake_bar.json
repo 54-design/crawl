@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Cool Drinks",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "515801",
+    "phone_number": "+91 72889 78999",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 301,
+    "address": "Ashok Nagar, Guntur, Andhra Pradesh 522002",
+    "area": "Ashok Nagar",
+    "latitude": 16.3127738,
+    "longitude": 80.4230334,
+    "place_id": "ChIJUSENFmN1SjoRQxpHw5KFONA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSENFmN1SjoRQxpHw5KFONA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:27:23"
+  },
+  {
+    "business_name": "Mounika Fruit Juice & Cool Drinks",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "515801",
+    "phone_number": "+91 98666 87987",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 43,
+    "address": "8C2P+RX4, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.3020229,
+    "longitude": 80.43744269999999,
+    "place_id": "ChIJcV1LdkR1SjoRLRlB80OTm00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcV1LdkR1SjoRLRlB80OTm00",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:27:23"
+  }
+]

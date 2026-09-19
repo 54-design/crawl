@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rj fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "516162",
+    "phone_number": "+91 93922 09022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Room09 Shalimar complex, Madras Rd, YV Street, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "YV Street, Ganagapeta",
+    "latitude": 14.479306699999999,
+    "longitude": 78.8222643,
+    "place_id": "ChIJrdNHVaNzszsR93jJAXz38OE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdNHVaNzszsR93jJAXz38OE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:21"
+  },
+  {
+    "business_name": "Shaaya Beatz",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "516162",
+    "phone_number": "+91 89199 65423",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nakash St, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Ganagapeta",
+    "latitude": 14.488674099999999,
+    "longitude": 78.8298437,
+    "place_id": "ChIJMbMp3z9xszsRBBMLzSM3X4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbMp3z9xszsRBBMLzSM3X4E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:24:21"
+  }
+]

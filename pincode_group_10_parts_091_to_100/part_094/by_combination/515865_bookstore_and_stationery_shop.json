@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HIMALAYA BOOK DEPOT",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Bag shop, Gift shop, Office supply store, Pen store, Toy store",
+    "pincode": "515865",
+    "phone_number": "+91 86887 96260",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1632,
+    "address": "Srinagar Colony Main Rd, opp. Narayanamma Engineering college, near D-Mart, AP Animal Husbandry Employees Colony, Shaikpet, Hyderabad, Telangana 500008",
+    "area": "AP Animal Husbandry Employees Colony, Shaikpet",
+    "latitude": 17.4100517,
+    "longitude": 78.39788159999999,
+    "place_id": "ChIJO1ubQbyXyzsRduTKCJj0ueQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1ubQbyXyzsRduTKCJj0ueQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:40:47"
+  },
+  {
+    "business_name": "Sri rahul books & stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Gift shop, Pen store",
+    "pincode": "515865",
+    "phone_number": "+91 96428 58591",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 36,
+    "address": "Guddimalkapur, Gudimalkapur, Hyderabad, Telangana 500006",
+    "area": "Ushodaya Colony, Gudi Malkapur, Gudimalkapur",
+    "latitude": 17.3845384,
+    "longitude": 78.4390841,
+    "place_id": "ChIJs6oDJOCXyzsRC6qblB4DnQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6oDJOCXyzsRC6qblB4DnQs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:40:47"
+  }
+]

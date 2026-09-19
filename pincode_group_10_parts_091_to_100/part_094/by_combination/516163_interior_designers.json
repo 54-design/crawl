@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "& Design Studios",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "516163",
+    "phone_number": "+91 93566 92053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "& Design Studios, 516163, India",
+    "area": "516163",
+    "latitude": 18.392239399999998,
+    "longitude": 76.7698374,
+    "place_id": "ChIJC6eJOzSSOksRbnH7Pql0OGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6eJOzSSOksRbnH7Pql0OGs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:38"
+  },
+  {
+    "business_name": "Designdude",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "516163",
+    "phone_number": "N/A",
+    "website": "https://www.designdude.ca/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Designdude, 516163, India",
+    "area": "516163",
+    "latitude": 62.6573279,
+    "longitude": -95.989235,
+    "place_id": "ChIJHSVwQsn5zUwRIVdS1Nx3dW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSVwQsn5zUwRIVdS1Nx3dW0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:38"
+  }
+]

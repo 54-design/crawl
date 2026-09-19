@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKGN FISH TRADERS",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Fast food restaurant",
+    "pincode": "516110",
+    "phone_number": "+91 81793 69753",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Fish Market, Jaggandha Puram, Ramanaidupet, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Jaggandha Puram, Ramanaidupet",
+    "latitude": 16.1818656,
+    "longitude": 81.1322891,
+    "place_id": "ChIJVRh1V7fnSToRWmsqDnYBjGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRh1V7fnSToRWmsqDnYBjGk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:06:10"
+  },
+  {
+    "business_name": "Kasimedu Meenavan (KF SEAFOOD)",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood wholesaler",
+    "all_categories": "Seafood wholesaler",
+    "pincode": "516110",
+    "phone_number": "+91 81242 89845",
+    "website": "http://kasimedumeenavan.com/",
+    "rating": 4.6,
+    "reviews_count": 41,
+    "address": "Kasimedu, Fishing Harbour, Chennai, Tamil Nadu 600013",
+    "area": "Fishing Harbour",
+    "latitude": 13.1289006,
+    "longitude": 80.2976978,
+    "place_id": "ChIJ38SQWmFvUjoRjQMFlJ6tCbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38SQWmFvUjoRjQMFlJ6tCbk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:06:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yanam Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "516151",
+    "phone_number": "+91 76600 74400",
+    "website": "http://yanamresort.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "River Bund, D.No: 5-3, Yanam-Pillilanka, Road, Tallarevu Mandal, Pillanka, Andhra Pradesh 533464",
+    "area": "Tallarevu Mandal",
+    "latitude": 16.7299652,
+    "longitude": 82.18471679999999,
+    "place_id": "ChIJk7YjBxT1NzoR-HngVAR1l6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7YjBxT1NzoR-HngVAR1l6A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:21:26"
+  },
+  {
+    "business_name": "Haritha Beach Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "516151",
+    "phone_number": "+91 95422 27828",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Beach Road, near Light House, Thammavaram, Andhra Pradesh 533005",
+    "area": "516151",
+    "latitude": 17.010545699999998,
+    "longitude": 82.2856611,
+    "place_id": "ChIJDxJwyCMpODoRTTTd94srskc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxJwyCMpODoRTTTd94srskc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:21:28"
+  }
+]

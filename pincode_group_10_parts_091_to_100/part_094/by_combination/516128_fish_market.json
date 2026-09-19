@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apparao Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "516128",
+    "phone_number": "+91 97050 00855",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "30-19-16, Kurmannapalem, Gajuwaka, Andhra Pradesh 530046",
+    "area": "Kurmannapalem",
+    "latitude": 17.687932099999998,
+    "longitude": 83.17058689999999,
+    "place_id": "ChIJc2_yoQRpOToRQKScTmtIkg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2_yoQRpOToRQKScTmtIkg8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:17"
+  },
+  {
+    "business_name": "A. G. R FISH POINT",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "516128",
+    "phone_number": "+91 94408 71701",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Santha Pet, Vizianagaram, Andhra Pradesh 535001",
+    "area": "Santha Pet",
+    "latitude": 18.1202085,
+    "longitude": 83.4061061,
+    "place_id": "ChIJoyBIKD3lOzoRIUJ9zcmwYnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyBIKD3lOzoRIUJ9zcmwYnc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:21"
+  }
+]

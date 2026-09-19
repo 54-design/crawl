@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sv Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "515775",
+    "phone_number": "+91 93981 82280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "658, Pamidi Guntakal Rd, Devarapalli, Andhra Pradesh 515775",
+    "area": "515775",
+    "latitude": 14.995325099999999,
+    "longitude": 77.5568378,
+    "place_id": "ChIJ8TtwMZnBtjsRJVhOsMRG8Cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TtwMZnBtjsRJVhOsMRG8Cg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:01"
+  },
+  {
+    "business_name": "M M Textiles (Nighties and Shirt piece Wholesale business)",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515775",
+    "phone_number": "+91 95059 53126",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 75,
+    "address": "Uttlamaan Street, Pamidi, Andhra Pradesh 515775",
+    "area": "515775",
+    "latitude": 14.9444479,
+    "longitude": 77.5915985,
+    "place_id": "ChIJzV4Faum4tjsRYU6wWZYNuwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzV4Faum4tjsRYU6wWZYNuwM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:24:02"
+  }
+]

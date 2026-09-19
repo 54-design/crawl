@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SpeakEasy",
+    "search_category": "Spoken English Institute",
+    "primary_category": "English language school",
+    "all_categories": "English language school, Grammar school",
+    "pincode": "516107",
+    "phone_number": "+91 77081 33111",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "219 Jusco Plaza 2nd Floor, Nethaji Rd, Manjakuppam, Cuddalore, Tamil Nadu 607001",
+    "area": "Rajambal Nagar, Allpettai, Manjakuppam",
+    "latitude": 11.7575915,
+    "longitude": 79.7638963,
+    "place_id": "ChIJsQgFmPKYVDoRWIhFF5xpboU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQgFmPKYVDoRWIhFF5xpboU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:03:41"
+  },
+  {
+    "business_name": "Spoken English Guru",
+    "search_category": "Spoken English Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "516107",
+    "phone_number": "+91 84484 43310",
+    "website": "http://www.spokenenglish.guru/",
+    "rating": 4.7,
+    "reviews_count": 110,
+    "address": "Phase 1, D-3, Transport Nagar, Subhash Nagar, Dehradun, Sewla Khurd, Uttarakhand 248002",
+    "area": "Transport Nagar, Subhash Nagar",
+    "latitude": 30.2818446,
+    "longitude": 77.9888825,
+    "place_id": "ChIJEzEEFeArCTkRpu9ehhqYH8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzEEFeArCTkRpu9ehhqYH8Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:03:42"
+  }
+]

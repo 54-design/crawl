@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pari's Beauty Salon",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "515651",
+    "phone_number": "+91 90000 08122",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Prakasraopeta, 28-22-6/2, Boddu naidu street, Andhra Pradesh 530020",
+    "area": "Prakasaraopeta, Jagadamba Junction",
+    "latitude": 17.7145157,
+    "longitude": 83.3023323,
+    "place_id": "ChIJ9Ro8pIRDOToR71sGJjb3w_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Ro8pIRDOToR71sGJjb3w_Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:55"
+  },
+  {
+    "business_name": "PLUSH Boutique & Beauty Lounge",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Boutique, Bridal shop, Charter school, Beauty Parlour, Nail salon, Wedding dress rental service",
+    "pincode": "515651",
+    "phone_number": "+91 95436 76444",
+    "website": "https://plushlounge.in/",
+    "rating": 4.7,
+    "reviews_count": 1371,
+    "address": "119, Arcot Rd, Rajeswari Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+    "area": "Rajeswari Nagar, Virugambakkam",
+    "latitude": 13.0467622,
+    "longitude": 80.1932133,
+    "place_id": "ChIJJQ4oUS5hUjoR5cl4v72yL9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQ4oUS5hUjoR5cl4v72yL9A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:54:55"
+  }
+]

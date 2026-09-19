@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Flowers Sales",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Flower designer",
+    "pincode": "515722",
+    "phone_number": "+91 80744 38835",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": 5,
+    "address": "Sai Flowers, Rudrampeta, Papampeta, Anantapur, Andhra Pradesh 515004",
+    "area": "Rudrampeta",
+    "latitude": 14.682823899999999,
+    "longitude": 77.5767018,
+    "place_id": "ChIJqUmCShtLsTsRFRULhGqLbNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUmCShtLsTsRFRULhGqLbNY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:07:16"
+  },
+  {
+    "business_name": "Just Rajanish Fusion Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Wedding planner",
+    "pincode": "515722",
+    "phone_number": "+91 99866 61547",
+    "website": "http://justrajanishflorals.com/",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "194, 17th Cross Road Lakkasandra, Jayanagar, 3rd Block, Wilson Garden, Bengaluru, Karnataka 560030",
+    "area": "Lakkasandra, 3rd Block, Wilson Garden",
+    "latitude": 12.9459311,
+    "longitude": 77.5994312,
+    "place_id": "ChIJxf9pypcVrjsRZDQA9AGIr-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxf9pypcVrjsRZDQA9AGIr-c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:07:19"
+  }
+]

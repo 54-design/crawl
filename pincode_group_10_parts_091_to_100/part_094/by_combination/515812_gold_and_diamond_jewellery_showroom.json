@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandanaz",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Gold dealer, Jewelry store",
+    "pincode": "515812",
+    "phone_number": "+91 90912 44244",
+    "website": "https://www.chandanaz.com/stores/proddatur",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "9/412, 8/696, Gandhi Rd, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Holmus Pet",
+    "latitude": 14.7512478,
+    "longitude": 78.5482711,
+    "place_id": "ChIJDZpLKYh5tDsRtJURsBprmMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZpLKYh5tDsRtJURsBprmMQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:31:02"
+  },
+  {
+    "business_name": "Carla diamonds",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "515812",
+    "phone_number": "+91 76720 21223",
+    "website": "https://www.carladiamonds.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "40-5-5, Chandra Mouli Puram, Sriram Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Chandra Mouli Puram, Sriram Nagar, Benz Circle",
+    "latitude": 16.499118499999998,
+    "longitude": 80.6483902,
+    "place_id": "ChIJ4RPBegD7NToRH7lvLp0mn0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RPBegD7NToRH7lvLp0mn0o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:31:03"
+  }
+]

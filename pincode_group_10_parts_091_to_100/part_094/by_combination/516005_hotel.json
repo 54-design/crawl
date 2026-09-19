@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Hashmi Residency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "516005",
+    "phone_number": "+91 124 620 1530",
+    "website": "https://www.oyorooms.com/88234/",
+    "rating": 3.6,
+    "reviews_count": 315,
+    "address": "Bus Stand, beside SBH BANK,Chennur, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Ganagapeta",
+    "latitude": 14.480858,
+    "longitude": 78.820155,
+    "place_id": "ChIJy3EWiR5yszsRNOWpQ5uCrIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3EWiR5yszsRNOWpQ5uCrIM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:56:37"
+  },
+  {
+    "business_name": "OYO Challa RESIDENCY",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "516005",
+    "phone_number": "+91 90104 49950",
+    "website": "http://vilekhari.blogspot.in/",
+    "rating": 3.6,
+    "reviews_count": 236,
+    "address": "21/437, VEERA SWAMY MUNDY STREET, Urlagattu Podu, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Urlagattu Podu, Ganagapeta",
+    "latitude": 14.4772942,
+    "longitude": 78.82400659999999,
+    "place_id": "ChIJnaqqqh5yszsRuJeUWuQbiEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaqqqh5yszsRuJeUWuQbiEY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:56:39"
+  }
+]

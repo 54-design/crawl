@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashvitha Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "515870",
+    "phone_number": "+91 91821 72486",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4, Opposite Benglore Iyangar Bakery, Near, Busstand Ananthapur Road, Karnataka 515870",
+    "area": "515870",
+    "latitude": 15.056111399999999,
+    "longitude": 77.18436319999999,
+    "place_id": "ChIJv5AJiOsftzsR-v5J_NQHYTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5AJiOsftzsR-v5J_NQHYTo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:23"
+  },
+  {
+    "business_name": "Blackberrys",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "515870",
+    "phone_number": "+91 96190 85903",
+    "website": "https://stores.blackberrys.com/blackberrys-clothing-stores-contonment-bellary-255048/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": 219,
+    "address": "No 52, W, No 31, Mig, opposite Vasavi School, KHB Colony, Cantonment, Ballari, Karnataka 583104",
+    "area": "KHB Colony, Housing Board Colony, Cantonment",
+    "latitude": 15.1534161,
+    "longitude": 76.9057356,
+    "place_id": "ChIJNVrFhD0TtzsR7deCVcsR668",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVrFhD0TtzsR7deCVcsR668",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:23"
+  }
+]

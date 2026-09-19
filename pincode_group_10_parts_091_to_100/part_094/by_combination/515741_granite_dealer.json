@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zenith Granites Shilp",
+    "search_category": "Granite Dealer",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "515741",
+    "phone_number": "+91 70135 80890",
+    "website": "https://www.zenithgranites.com/",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "Plot No 100/101, AIE, Venkannapalem, Pedagantyada, Gajuwaka, Andhra Pradesh 530044",
+    "area": "AIE, Venkannapalem, Pedagantyada",
+    "latitude": 17.6610236,
+    "longitude": 83.2148045,
+    "place_id": "ChIJGXls8P9pOToRcZcFgJKiotU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXls8P9pOToRcZcFgJKiotU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:40"
+  },
+  {
+    "business_name": "Rungta Granito",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "515741",
+    "phone_number": "+91 89194 00874",
+    "website": "https://www.rungtagranito.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haveli, 114/ A, Industrial Dldevelopment area, Khanapuram, Khammam, Telangana 507002",
+    "area": "Industrial Dldevelopment area, Khanapuram",
+    "latitude": 17.2629955,
+    "longitude": 80.1673009,
+    "place_id": "ChIJBfLYiYRZNDoR9ZfJYa5OUy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfLYiYRZNDoR9ZfJYa5OUy8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:40"
+  }
+]

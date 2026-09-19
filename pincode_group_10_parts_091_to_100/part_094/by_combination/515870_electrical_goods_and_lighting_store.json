@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathore Home Appliances",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store, Electrical repair shop",
+    "pincode": "515870",
+    "phone_number": "+91 95039 58939",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rf Road, Aravinda Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Aravinda Nagar",
+    "latitude": 14.68109,
+    "longitude": 77.60324949999999,
+    "place_id": "ChIJuw3qDmRLsTsRm5NO_9Myjtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuw3qDmRLsTsRm5NO_9Myjtg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:51"
+  },
+  {
+    "business_name": "Light N Light Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "515870",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sadar Bazar Donga, Ghat Chowk, Champa, Chhattisgarh 495671",
+    "area": "Ghat Chowk",
+    "latitude": 22.0338845,
+    "longitude": 82.6403225,
+    "place_id": "ChIJhXmtbL2_JzoRmCUckJfWFR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXmtbL2_JzoRmCUckJfWFR0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:53"
+  }
+]

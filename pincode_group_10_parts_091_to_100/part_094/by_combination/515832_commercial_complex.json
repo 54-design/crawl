@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ISMAIL FOOTWARE",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515832",
+    "phone_number": "+91 80081 40029",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "29GP+Q92, Vajrakarur, Andhra Pradesh 515832",
+    "area": "515832",
+    "latitude": 15.0268955,
+    "longitude": 77.38589619999999,
+    "place_id": "ChIJfRZUo8nCtjsRKULGlI21m4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRZUo8nCtjsRKULGlI21m4M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:00"
+  },
+  {
+    "business_name": "జీలాన్ క్లోత్స్ జిరాక్స్ సెంటర్",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515832",
+    "phone_number": "+91 99514 39747",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29GM+MH4, Vajrakarur, Andhra Pradesh 515832",
+    "area": "515832",
+    "latitude": 15.026641399999999,
+    "longitude": 77.383966,
+    "place_id": "ChIJpUmrKcrCtjsRjP-V8s8hoOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUmrKcrCtjsRjP-V8s8hoOA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:00"
+  }
+]

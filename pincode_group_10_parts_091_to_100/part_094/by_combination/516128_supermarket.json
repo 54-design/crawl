@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijetha Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "516128",
+    "phone_number": "+91 89787 66477",
+    "website": "http://vijetha.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Door No. 1-119, Ground Floor, Dr. JL Nair’s Complex, Baji Junction, Gopalapatnam, Visakhapatnam, Andhra Pradesh 530027",
+    "area": "Nad Junction, Gopalapatnam, NSTL",
+    "latitude": 17.7440846,
+    "longitude": 83.22925389999999,
+    "place_id": "ChIJxxzH199nOToRdtLfAP9lvVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxzH199nOToRdtLfAP9lvVE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:13"
+  },
+  {
+    "business_name": "SRUSHTI HYPER STORE",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Department store, Indian grocery store",
+    "pincode": "516128",
+    "phone_number": "+91 91336 90999",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kiranmouli Shopping Complex, GT Rd, opp. SVC Theatre, Rama Laxmana Area, Visakha B Colony, Sri Visakha Colony, Srikakulam, Andhra Pradesh 532001",
+    "area": "Rama Laxmana Area, Visakha B Colony, Sri Visakha Colony",
+    "latitude": 18.2989431,
+    "longitude": 83.9039253,
+    "place_id": "ChIJKzOXzeEVPDoRWP0ABqf_nGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzOXzeEVPDoRWP0ABqf_nGw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:13"
+  }
+]

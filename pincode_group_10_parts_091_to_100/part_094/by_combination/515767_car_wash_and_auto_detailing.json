@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Car Zone",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Wheel alignment service",
+    "pincode": "515767",
+    "phone_number": "+91 90590 83871",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hanuman Nagar 1st line, Chuttugunta, Road, Nallapadu Rural, Guntur, Andhra Pradesh 522004",
+    "area": "Ananda Theertha Agraharam",
+    "latitude": 16.2925881,
+    "longitude": 80.42263419999999,
+    "place_id": "ChIJZzTkIQB1SjoRvmyc85v5WVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzTkIQB1SjoRvmyc85v5WVw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "VR Automotive",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Auto repair shop, Auto restoration service, Car wash, Chemical wholesaler, Cleaning products supplier, Equipment supplier",
+    "pincode": "515767",
+    "phone_number": "+91 90035 45276",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Peelamedu, No 7A, VOC nagar, near pulsar care, Lakshmipuram, Coimbatore, Tamil Nadu 641004",
+    "area": "Andal Nagar, Lakshmipuram",
+    "latitude": 11.0166258,
+    "longitude": 77.0191783,
+    "place_id": "ChIJrxPpxAlXqDsRy2Z0GuJWgwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxPpxAlXqDsRy2Z0GuJWgwQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:51"
+  }
+]

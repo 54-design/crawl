@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAHAJA COLD STORAGE",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HQJ7+H7, Dachepalle, Andhra Pradesh 522414",
+    "area": "516002",
+    "latitude": 16.581485,
+    "longitude": 79.7631517,
+    "place_id": "ChIJUcswNABrNToRrZyRX1SFlPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcswNABrNToRrZyRX1SFlPE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:47"
+  },
+  {
+    "business_name": "Vijaya Adi Sakthi Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "193/3, 193/4, 193/5, 193/6, chebrolu Mandal, Chebrolu, Andhra Pradesh 522212",
+    "area": "516002",
+    "latitude": 16.2121076,
+    "longitude": 80.5182432,
+    "place_id": "ChIJFV8T3-cNSjoRQMA6TgoBZK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFV8T3-cNSjoRQMA6TgoBZK0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:47"
+  }
+]

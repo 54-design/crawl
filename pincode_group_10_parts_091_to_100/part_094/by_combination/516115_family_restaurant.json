@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SFC Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant",
+    "pincode": "516115",
+    "phone_number": "+91 96666 09129",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Noonevaripalli, Rajampet, Andhra Pradesh 516115",
+    "area": "Noonevaripalli",
+    "latitude": 14.1960699,
+    "longitude": 79.155613,
+    "place_id": "ChIJEdKJCB4lszsRfd3psOj9pCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdKJCB4lszsRfd3psOj9pCU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:06"
+  },
+  {
+    "business_name": "Snacks City Rjpt",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516115",
+    "phone_number": "+91 83282 56770",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "RS Rd, Kadapa, Rajampet, Andhra Pradesh 516115",
+    "area": "516115",
+    "latitude": 14.1929003,
+    "longitude": 79.1593542,
+    "place_id": "ChIJiWlqiOElszsR4UUm6UVtn_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWlqiOElszsR4UUm6UVtn_s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:06"
+  }
+]

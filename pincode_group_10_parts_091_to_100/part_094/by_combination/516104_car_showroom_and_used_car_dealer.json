@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Real Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "516104",
+    "phone_number": "+91 98118 90178",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "Near Manggu chiken, A2/52, Sector 17, Rohini, New Delhi, Delhi 110089",
+    "area": "Sector 17, Rohini",
+    "latitude": 28.7393054,
+    "longitude": 77.1153415,
+    "place_id": "ChIJD0i_qd8DDTkRJOXLizeVDT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0i_qd8DDTkRJOXLizeVDT8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:42"
+  },
+  {
+    "business_name": "Royal cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "516104",
+    "phone_number": "+91 91711 19119",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "699/1, T Nagar, Kongu Nagar, Ramanathapuram, Coimbatore, Tamil Nadu 641045",
+    "area": "T Nagar, Kongu Nagar",
+    "latitude": 10.9964923,
+    "longitude": 77.0017165,
+    "place_id": "ChIJmYNc8ZdZqDsR5kxOsSe2Vlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYNc8ZdZqDsR5kxOsSe2Vlg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:42"
+  }
+]

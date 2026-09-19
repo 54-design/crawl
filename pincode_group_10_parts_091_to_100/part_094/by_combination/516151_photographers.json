@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zoom Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "516151",
+    "phone_number": "+91 99893 25585",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 171,
+    "address": "Atmakur Rd, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.486042099999999,
+    "longitude": 78.4838626,
+    "place_id": "ChIJ7-MAg1GttTsRzvNSoSC5lsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-MAg1GttTsRzvNSoSC5lsA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:21:25"
+  },
+  {
+    "business_name": "Sri sivarama creations",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "516151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-90, Rd to Rachapalli, BC Colony, Rachapalle, Vontimitta, Andhra Pradesh 516213",
+    "area": "BC Colony",
+    "latitude": 14.3875193,
+    "longitude": 79.0426588,
+    "place_id": "ChIJ46hCewA_szsRKThCA7saPAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46hCewA_szsRKThCA7saPAs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:21:25"
+  }
+]

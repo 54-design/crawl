@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Ram's Homoeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "516127",
+    "phone_number": "+91 76930 77066",
+    "website": "https://drramshomoeopathy.com/",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Shop No 4, MIG-45, opposite Jain (Alok) Provision Store, Mahaveer Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Mahaveer Nagar",
+    "latitude": 21.230970499999998,
+    "longitude": 81.6670978,
+    "place_id": "ChIJ98PjUdndKDoRGZy1MZQu5Ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98PjUdndKDoRGZy1MZQu5Ss",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:11:51"
+  },
+  {
+    "business_name": "Popular Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "516127",
+    "phone_number": "+91 94505 96676",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "FVWC+4C8, Shivkuti Uptron Chouraha, Shikuti Road, Govindpur, Prayagraj, Uttar Pradesh 211004",
+    "area": "Govindpur, Teliarganj",
+    "latitude": 25.4952816,
+    "longitude": 81.8710858,
+    "place_id": "ChIJq4GqJkKDDRQRyikNs9blEl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4GqJkKDDRQRyikNs9blEl8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:11:51"
+  }
+]

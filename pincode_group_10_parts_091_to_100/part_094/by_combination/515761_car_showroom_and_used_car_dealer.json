@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "raju cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "515761",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "H436+27J, chiken market road, beside old municipal office, Kalyandurg, Andhra Pradesh 515761",
+    "area": "515761",
+    "latitude": 14.5525963,
+    "longitude": 77.110635,
+    "place_id": "ChIJXS7OqwzXsDsRiYUdMr-FMrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXS7OqwzXsDsRiYUdMr-FMrU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:55"
+  },
+  {
+    "business_name": "Mahesh Auto",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "515761",
+    "phone_number": "+91 93903 95148",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Belivers Church Area, 8-705/A, Main Road, Rtc Busstand, Jaynagar, Anantapur, Kalyandurg, Andhra Pradesh 515761",
+    "area": "Rtc Busstand, Jaynagar",
+    "latitude": 14.545266,
+    "longitude": 77.112629,
+    "place_id": "ChIJiYzvXjDXsDsRfDY_0_ivqqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYzvXjDXsDsRfDY_0_ivqqI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:55"
+  }
+]

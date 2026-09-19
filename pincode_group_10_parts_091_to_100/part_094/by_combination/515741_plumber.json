@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laksh Builders",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Building restoration service, Carpenter, Contractor, Electrical installation service, Glass shop, Interior construction contractor, Masonry contractor, Real Estate Builders & Construction Company, Tile contractor",
+    "pincode": "515741",
+    "phone_number": "+91 70200 80430",
+    "website": "https://www.lakshbuilder.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Cunchelim, Mapusa, Goa 403507",
+    "area": "Cunchelim",
+    "latitude": 15.618918599999999,
+    "longitude": 73.8158467,
+    "place_id": "ChIJFR5FWVLrvzsRTgdlksjDkfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFR5FWVLrvzsRTgdlksjDkfA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:41"
+  },
+  {
+    "business_name": "M.D Electrical & Plumbing Works",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrician, Repair service",
+    "pincode": "515741",
+    "phone_number": "+91 95354 99449",
+    "website": "http://www.m.delectricalworks.com/",
+    "rating": 5,
+    "reviews_count": 108,
+    "address": "Cowl Bazaar, Ballari, Karnataka 583102",
+    "area": "Cowl Bazaar",
+    "latitude": 15.137831499999999,
+    "longitude": 76.8977388,
+    "place_id": "ChIJvw6prNkTtzsRuR1y3-byE-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvw6prNkTtzsRuR1y3-byE-U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:42"
+  }
+]

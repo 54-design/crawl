@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Triveni Theatre Complex",
+    "search_category": "Media and Event",
+    "primary_category": "Movie theater",
+    "all_categories": "Movie theater",
+    "pincode": "515787",
+    "phone_number": "+91 89197 72627",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "18 - 273, Triveni Talkies Road, Old Town, Anantapur, Andhra Pradesh 515005",
+    "area": "Old Town",
+    "latitude": 14.6818838,
+    "longitude": 77.6036778,
+    "place_id": "ChIJu3OZf-lKsTsRWhq40L-rkns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3OZf-lKsTsRWhq40L-rkns",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:26:37"
+  },
+  {
+    "business_name": "Stylemyevent",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment, Event planner",
+    "pincode": "515787",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/stylemyevent.ng?igshid=YmMyMTA2M2Y=",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Stylemyevent, 515787, India",
+    "area": "515787",
+    "latitude": 9.0338725,
+    "longitude": 8.6707713,
+    "place_id": "ChIJFXthKfZ1ThAR6p1RNybnxXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXthKfZ1ThAR6p1RNybnxXk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:26:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badri oils",
+    "search_category": "Flour Mill",
+    "primary_category": "Oil refinery",
+    "all_categories": "Oil refinery, Flour mill",
+    "pincode": "516104",
+    "phone_number": "+91 89850 92508",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mainroad, opposite Sbi, Chitvel, Andhra Pradesh 516104",
+    "area": "516104",
+    "latitude": 14.172256899999999,
+    "longitude": 79.3292645,
+    "place_id": "ChIJ6yYgLVosszsRhn3gJyyEdDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yYgLVosszsRhn3gJyyEdDE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:06"
+  },
+  {
+    "business_name": "Desa subbareddy flour Mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "516104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Venkotarajupalle, Nagaripadu, Andhra Pradesh 516110",
+    "area": "Venkotarajupalle",
+    "latitude": 14.101972,
+    "longitude": 79.3575444,
+    "place_id": "ChIJo6WVafIrszsRuQ_xTLjOkPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6WVafIrszsRuQ_xTLjOkPw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SuperK - SLN Supermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "Hari Leela Residency, Vivekananda Nagar, Y.S.Nagar, Chinna Chauku, Andhra Pradesh 516001",
+    "area": "Vivekananda Nagar, Y.S.Nagar",
+    "latitude": 14.4639565,
+    "longitude": 78.8356933,
+    "place_id": "ChIJY0VvyVtzszsRNq0kP74gIrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0VvyVtzszsRNq0kP74gIrU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:57"
+  },
+  {
+    "business_name": "Tally9services -Tally Software Developer",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "516002",
+    "phone_number": "+91 83417 72407",
+    "website": "https://tally9services.com/",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "Ghouse Nagar, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "Ghouse Nagar",
+    "latitude": 14.483942899999999,
+    "longitude": 78.83330939999999,
+    "place_id": "ChIJSw4eHWhzszsRNa2eOC2uDEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSw4eHWhzszsRNa2eOC2uDEY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:58"
+  }
+]

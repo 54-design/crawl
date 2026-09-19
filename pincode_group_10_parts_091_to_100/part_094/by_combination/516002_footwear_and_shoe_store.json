@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foot vault",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FR8J+85C, Kadapa, Andhra Pradesh 516001",
+    "area": "Kadapa",
+    "latitude": 14.465809,
+    "longitude": 78.830376,
+    "place_id": "ChIJ2erACwBzszsREeVEmzfDdcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2erACwBzszsREeVEmzfDdcM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:50:34"
+  },
+  {
+    "business_name": "Sree Venkateswara Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Dairy store",
+    "pincode": "516002",
+    "phone_number": "+91 72071 31151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Mallepalli Road B. Mattam back chinna mattam,mallepalli road,b.mattam brahmam gari mattam, Andhra Pradesh 516503",
+    "area": "516002",
+    "latitude": 14.8211927,
+    "longitude": 78.87955459999999,
+    "place_id": "ChIJCfP79RGbtDsRAAAAsHTQyDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfP79RGbtDsRAAAAsHTQyDU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:50:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hi-Tech GYM Studio",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515751",
+    "phone_number": "+91 99494 61105",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 12,
+    "address": "Nellore Rd, Kamashi Nagar, Santhapeta, Kamakshi Nagar, Pothireddypalem, Andhra Pradesh 524137",
+    "area": "Kamashi Nagar, Santhapeta",
+    "latitude": 14.478997199999998,
+    "longitude": 79.982508,
+    "place_id": "ChIJuxBrDACNTDoR5TNuCA7Z3wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxBrDACNTDoR5TNuCA7Z3wU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:10"
+  },
+  {
+    "business_name": "Dynamic Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515751",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "FF8R+PHX, J V R Nagar, Lalitanagar, Nandyala, Andhra Pradesh 518502",
+    "area": "J V R Nagar, Lalitanagar",
+    "latitude": 15.4668581,
+    "longitude": 78.4914696,
+    "place_id": "ChIJucC_PLpStDsR0k266TTrCZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucC_PLpStDsR0k266TTrCZM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:12:12"
+  }
+]

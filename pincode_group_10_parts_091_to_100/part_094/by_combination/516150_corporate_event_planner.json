@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "gnsevents",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "516150",
+    "phone_number": "+91 90143 85170",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3/15, Aravapalli, nandaluru, Nagireddipalle, Andhra Pradesh 516150",
+    "area": "Aravapalli",
+    "latitude": 14.2704873,
+    "longitude": 79.1097683,
+    "place_id": "ChIJJ6TSOL47szsR4JT-1Q5uA1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6TSOL47szsR4JT-1Q5uA1U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:42"
+  },
+  {
+    "business_name": "KVS TENT HOUSE & SOUNDS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "516150",
+    "phone_number": "+91 84668 82312",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67W8+87H, Chitvel, Pondaluru, Andhra Pradesh 516128",
+    "area": "516150",
+    "latitude": 14.2462199,
+    "longitude": 79.26676239999999,
+    "place_id": "ChIJaYu0TgAxszsRn0BzIxDuHiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYu0TgAxszsRn0BzIxDuHiU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:45"
+  }
+]

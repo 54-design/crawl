@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Padmavathi Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "515871",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XXXH+WGQ, Bommanahal, Andhra Pradesh 515871",
+    "area": "515871",
+    "latitude": 14.9998442,
+    "longitude": 76.9788646,
+    "place_id": "ChIJb0svfxE9tzsRlJpZmCbqYqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0svfxE9tzsRlJpZmCbqYqE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:45:24"
+  },
+  {
+    "business_name": "MEDDEALER",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "515871",
+    "phone_number": "+91 94951 53900",
+    "website": "http://www.meddealer.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cosmo Plaza, B-19, Angamaly Municipal Rd, Angamaly, Keralam 683572",
+    "area": "515871",
+    "latitude": 10.1953275,
+    "longitude": 76.3893013,
+    "place_id": "ChIJOf3doSAHCDsRjfDDuAptb2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOf3doSAHCDsRjfDDuAptb2U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:45:25"
+  }
+]

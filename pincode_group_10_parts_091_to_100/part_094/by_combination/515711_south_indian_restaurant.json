@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkateshwara Family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "515711",
+    "phone_number": "+91 80965 69787",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bellary Road,Kodimi, Cross, Anantapur, Andhra Pradesh 515006",
+    "area": "515711",
+    "latitude": 14.7068506,
+    "longitude": 77.5430046,
+    "place_id": "ChIJ75deX8LLtjsR3S3GS6Lu-fI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75deX8LLtjsR3S3GS6Lu-fI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:02:53"
+  },
+  {
+    "business_name": "MAHARAJ FAMILY RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "515711",
+    "phone_number": "+91 95059 27601",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W7J3+GP9, Uravakonda, Andhra Pradesh 515812",
+    "area": "515711",
+    "latitude": 14.9312844,
+    "longitude": 77.25437339999999,
+    "place_id": "ChIJR8l-OwDZtjsRDAFPMa2STOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8l-OwDZtjsRDAFPMa2STOk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:02:53"
+  }
+]

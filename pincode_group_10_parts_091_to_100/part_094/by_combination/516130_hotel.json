@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bismillah S H Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "7, Anada Nagar, T. Sundupalli, Andhra Pradesh 516130",
+    "area": "Anada Nagar",
+    "latitude": 13.982250299999999,
+    "longitude": 78.9159858,
+    "place_id": "ChIJL-LNEAXjsjsRzeWkjp6DYBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-LNEAXjsjsRzeWkjp6DYBA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:17:53"
+  },
+  {
+    "business_name": "Raju hotel",
+    "search_category": "Hotel",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "516130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XWJ8+F5W, Rayachoty, T. Sundupalli, Andhra Pradesh 516130",
+    "area": "516130",
+    "latitude": 13.981247499999998,
+    "longitude": 78.9154531,
+    "place_id": "ChIJtRQ5EwDjsjsRgzBL_gS9X1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRQ5EwDjsjsRgzBL_gS9X1g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:17:53"
+  }
+]

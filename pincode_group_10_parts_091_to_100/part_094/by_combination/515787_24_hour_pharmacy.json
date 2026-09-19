@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DRUGS WINDOW MEDICAL",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "515787",
+    "phone_number": "+91 76098 78292",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HMRF+246, ହାଇସ୍କୁଲ ସାମନା, ବୁକୋମନା, ନୂଆପଡା, Pandarapathar, Odisha 766106",
+    "area": "515787",
+    "latitude": 20.5900471,
+    "longitude": 82.6727521,
+    "place_id": "ChIJCwlgABfHJToRHOgZ1yapoiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwlgABfHJToRHOgZ1yapoiQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:53"
+  },
+  {
+    "business_name": "Oxygen Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "515787",
+    "phone_number": "+91 80835 85585",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lane No. 10, near bus Stand, Laxmi Nagar, Jaysingpur, Maharashtra 416101",
+    "area": "Laxmi Nagar",
+    "latitude": 16.779467699999998,
+    "longitude": 74.5566777,
+    "place_id": "ChIJy9e3NQYfwTsRV4tvIV8e2WU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9e3NQYfwTsRV4tvIV8e2WU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:54"
+  }
+]

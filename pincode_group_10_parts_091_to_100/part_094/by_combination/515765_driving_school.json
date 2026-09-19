@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Manjunatha driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "515765",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "H437+236, Anantapur Rd, Jaynagar, Kalyandurg, Andhra Pradesh 515761",
+    "area": "Jaynagar",
+    "latitude": 14.552531499999999,
+    "longitude": 77.11264179999999,
+    "place_id": "ChIJmVo-ey7XsDsRfcm3fsL6VeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVo-ey7XsDsRfcm3fsL6VeE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:31"
+  },
+  {
+    "business_name": "Budmepalli vannur",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "515765",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G323+46X, Yatakal, Andhra Pradesh 515761",
+    "area": "515765",
+    "latitude": 14.4994208,
+    "longitude": 77.0526829,
+    "place_id": "ChIJcekxCCTRsDsRtAuLpakuxb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcekxCCTRsDsRtAuLpakuxb0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:31"
+  }
+]

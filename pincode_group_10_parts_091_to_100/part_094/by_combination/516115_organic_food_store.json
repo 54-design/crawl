@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Dairy store, Dairy Products Supplier, Food products supplier, Dairy, Ice cream shop, Milk delivery service",
+    "pincode": "516115",
+    "phone_number": "+91 98852 50815",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. 6-400a, A B Adeppa Reddy Colony Rd, opposite Brand Shopee, AB Adeppa Reddy Colony, Rajampet, Andhra Pradesh 516115",
+    "area": "AB Adeppa Reddy Colony",
+    "latitude": 14.1902221,
+    "longitude": 79.1576535,
+    "place_id": "ChIJp9BuGj0lszsRcVlokqNVw9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9BuGj0lszsRcVlokqNVw9Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:07:56"
+  },
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Nagireddipalle",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "516115",
+    "phone_number": "+91 90638 35317",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No 4/186-11, Rajampet Main Road, Nagireddipalle, Nandalur, Andhra Pradesh 516150",
+    "area": "516115",
+    "latitude": 14.266,
+    "longitude": 79.11099999999999,
+    "place_id": "ChIJCZa-KTE7szsRGvP_rGgL1iY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZa-KTE7szsRGvP_rGgL1iY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:07:56"
+  }
+]

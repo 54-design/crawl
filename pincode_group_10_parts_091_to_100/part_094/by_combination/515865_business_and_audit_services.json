@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One stop Accounting & Financial services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "515865",
+    "phone_number": "+91 89714 92958",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sona complex, Kalamma St, Cowl Bazaar, Ballari, Karnataka 583101",
+    "area": "Cowl Bazaar",
+    "latitude": 15.1403684,
+    "longitude": 76.92599489999999,
+    "place_id": "ChIJVcRzhP0RtzsRN5N2m4wwgpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcRzhP0RtzsRN5N2m4wwgpc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:41:01"
+  },
+  {
+    "business_name": "BPSSY & Co.,",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "515865",
+    "phone_number": "+91 97390 99117",
+    "website": "https://bpssy.carrd.co/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2ND FLOOR, SG Towers, PLOT NO 54/1, 2ND LINK ROAD, KHB Colony, Parvathi Nagar, Ballari, Karnataka 583103",
+    "area": "KHB Colony, Parvathi Nagar",
+    "latitude": 15.1523199,
+    "longitude": 76.9251512,
+    "place_id": "ChIJx4WgSHsRtzsRY6HT1jw2IOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4WgSHsRtzsRY6HT1jw2IOE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:41:03"
+  }
+]

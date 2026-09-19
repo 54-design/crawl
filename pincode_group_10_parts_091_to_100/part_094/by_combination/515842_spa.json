@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jolly Thai spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "515842",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pedapadu Rd, Sri Visakha Colony, Patrunivalasa, Andhra Pradesh 532001",
+    "area": "Sri Visakha Colony",
+    "latitude": 18.3034288,
+    "longitude": 83.91081799999999,
+    "place_id": "ChIJAUZY2xkVPDoRVeFXiw_x6EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUZY2xkVPDoRVeFXiw_x6EY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:56"
+  },
+  {
+    "business_name": "Horus International Spa & Salon",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "515842",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4th Floor, Pooja Marble Building, Rama Laxmana Rd, Visakha A Colony, Radha Krishna Nagar Colony, Srikakulam, Andhra Pradesh 532001",
+    "area": "Visakha A Colony, Radha Krishna Nagar Colony",
+    "latitude": 18.3021691,
+    "longitude": 83.9029769,
+    "place_id": "ChIJU7naCeYVPDoRzjfutfYJni0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7naCeYVPDoRzjfutfYJni0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:56"
+  }
+]

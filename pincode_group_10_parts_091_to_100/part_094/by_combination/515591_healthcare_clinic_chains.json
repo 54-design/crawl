@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KC HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Obstetrician-gynecologist, Orthopedic surgeon",
+    "pincode": "515591",
+    "phone_number": "+91 80909 05900",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 926,
+    "address": "2-24/11,Hospital road ,Kamathamur cross, opp. HONDA SHOWROOM, Bairaganipalle (Rural), Andhra Pradesh 517425",
+    "area": "515591",
+    "latitude": 12.752345,
+    "longitude": 78.3513938,
+    "place_id": "ChIJ1cqGrpW5rTsRXzHQ_NG7sIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cqGrpW5rTsRXzHQ_NG7sIo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:44:03"
+  },
+  {
+    "business_name": "MEDALL HEALTH CARE",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515591",
+    "phone_number": "+91 75501 77777",
+    "website": "https://www.medall.in/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "11-267, Car St, Revenue Colony, Kadiri, Andhra Pradesh 515591",
+    "area": "Revenue Colony",
+    "latitude": 14.1110431,
+    "longitude": 78.1578148,
+    "place_id": "ChIJtQUdlvXOszsRXWo7RKcp4iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQUdlvXOszsRXWo7RKcp4iU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:44:06"
+  }
+]

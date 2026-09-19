@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai shop",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515775",
+    "phone_number": "+91 63039 29638",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mani road ppt To rpm, Anantapur, Andhra Pradesh 515832",
+    "area": "515775",
+    "latitude": 14.9833547,
+    "longitude": 77.35940819999999,
+    "place_id": "ChIJc1173VTdtjsRLw5AqKFcECY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1173VTdtjsRLw5AqKFcECY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:27"
+  },
+  {
+    "business_name": "CHANDANA SHOPPING MALL",
+    "search_category": "Malls",
+    "primary_category": "Malls",
+    "all_categories": "Malls",
+    "pincode": "515775",
+    "phone_number": "+91 95734 52010",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalluru R S, Andhra Pradesh 515774",
+    "area": "515775",
+    "latitude": 14.9224971,
+    "longitude": 77.5849264,
+    "place_id": "ChIJ4XG6Kl64tjsRMS_CsggVDto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XG6Kl64tjsRMS_CsggVDto",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:27"
+  }
+]

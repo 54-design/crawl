@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "515767",
+    "phone_number": "+91 91754 72923",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Road, next to darul-ulm, Ardhapur, Maharashtra 431704",
+    "area": "515767",
+    "latitude": 19.2679877,
+    "longitude": 77.3685579,
+    "place_id": "ChIJhVKhuYfQ0TsRGjYOBePJ-6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVKhuYfQ0TsRGjYOBePJ-6U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:25"
+  },
+  {
+    "business_name": "VIP Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Breakfast restaurant, Chinese takeaway, Fast food restaurant, Food bank, Food manufacturer, Lunch restaurant, Restaurant, Soft drinks shop, Tea store",
+    "pincode": "515767",
+    "phone_number": "+91 74173 72284",
+    "website": "https://www.pdffiller.com/s/1VOioD-T",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "opposite RAILWAY STATION, Budh Bazaar, Moradabad, Uttar Pradesh 244001",
+    "area": "Budh Bazaar",
+    "latitude": 28.8324559,
+    "longitude": 78.7663662,
+    "place_id": "ChIJM2MYxgr_CjkRKah1Rl09H18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2MYxgr_CjkRKah1Rl09H18",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:25"
+  }
+]

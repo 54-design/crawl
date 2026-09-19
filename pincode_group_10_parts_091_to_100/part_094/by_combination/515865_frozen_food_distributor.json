@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMUL DISTRIBUTOR (Pavan Enterprises)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "515865",
+    "phone_number": "+91 82962 44397",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Raghavachari Rd, near Radhika talkies, Old Katte Gudda, Cowl Bazaar, Ballari, Karnataka 583101",
+    "area": "Old Katte Gudda, Cowl Bazaar",
+    "latitude": 15.1407425,
+    "longitude": 76.9302017,
+    "place_id": "ChIJw6-yGrERtzsR9f6PRgeC7lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6-yGrERtzsR9f6PRgeC7lQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:39:37"
+  },
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "515865",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-jsw-steel-plant-township-bellary-284273/Home",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Jsw Steel Plant, Gokul Square, SH 40 Sandur Main Road, Township, Karnataka 583123",
+    "area": "515865",
+    "latitude": 15.1931602,
+    "longitude": 76.6776082,
+    "place_id": "ChIJo6miSJhvtzsR4Ecm5XoGyuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6miSJhvtzsR4Ecm5XoGyuQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:39:37"
+  }
+]

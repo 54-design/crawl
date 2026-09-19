@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NARESH BIKE SERVICE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "515601",
+    "phone_number": "+91 99802 62009",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BCX, TXR56, Guluru Main Road, near BCM Hostel, 5th Cross, Vadigiravarapalli, Karnataka 561207",
+    "area": "5th Cross",
+    "latitude": 13.8001942,
+    "longitude": 77.80357479999999,
+    "place_id": "ChIJWTRCP9SFsTsRiyzq3urh4IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTRCP9SFsTsRiyzq3urh4IU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:45:51"
+  },
+  {
+    "business_name": "RATHI CYCLE MALL",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Exercise equipment store, Wheel alignment service",
+    "pincode": "515601",
+    "phone_number": "+91 257 221 4002",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 1029,
+    "address": "40, Fule Nagar Chitra, Rajkamal Road, Polan Peth, Shahunagar, Jalgaon, Maharashtra 425001",
+    "area": "Polan Peth, Shahunagar",
+    "latitude": 21.0129199,
+    "longitude": 75.5687387,
+    "place_id": "ChIJz17wo6YP2TsRuOF4CFlFVqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz17wo6YP2TsRuOF4CFlFVqM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:45:54"
+  }
+]

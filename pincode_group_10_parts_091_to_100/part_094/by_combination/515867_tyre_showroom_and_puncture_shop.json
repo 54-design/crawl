@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faizi Tyre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "515867",
+    "phone_number": "+91 84202 59496",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "38, Karaya Rd, Lower Range, Beck Bagan, Ballygunge, Kolkata, West Bengal 700017",
+    "area": "Lower Range, Beck Bagan, Ballygunge",
+    "latitude": 22.541376099999997,
+    "longitude": 88.3625569,
+    "place_id": "ChIJR1Qd4R93AjoRXU8HvbUiE9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1Qd4R93AjoRXU8HvbUiE9M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:41:59"
+  },
+  {
+    "business_name": "CEAT Shoppe, Harlalka Tyre & Co",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Tyre manufacturer, Tire repair shop, Tire service, Wheel alignment service, Wheel store",
+    "pincode": "515867",
+    "phone_number": "+91 98367 47672",
+    "website": "http://www.harlalkatyre.com/",
+    "rating": 4.8,
+    "reviews_count": 1222,
+    "address": "DA 4, Salt Lake Rd, DA Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "area": "DA Block, Sector 1, Bidhannagar",
+    "latitude": 22.5852286,
+    "longitude": 88.4005641,
+    "place_id": "ChIJVQMvneB3AjoRR8qOMuNghwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQMvneB3AjoRR8qOMuNghwQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:41:59"
+  }
+]

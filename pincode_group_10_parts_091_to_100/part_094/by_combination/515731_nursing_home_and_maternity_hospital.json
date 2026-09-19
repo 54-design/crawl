@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhansi Lakshmi Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "515731",
+    "phone_number": "+91 86472 23678",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Palnad Road, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Paturu",
+    "latitude": 16.2374003,
+    "longitude": 80.0476176,
+    "place_id": "ChIJI4LsdRyBSjoRVPB3v9mIxSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4LsdRyBSjoRVPB3v9mIxSk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:32"
+  },
+  {
+    "business_name": "Ravindra Uday Super Speciality Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "515731",
+    "phone_number": "+91 96769 47275",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ravindra building, Vinukonda road, Erragondapalem, Andhra Pradesh 523327",
+    "area": "515731",
+    "latitude": 16.0378695,
+    "longitude": 79.3063507,
+    "place_id": "ChIJv9rKuc5NtTsRcr-q2lV7SeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9rKuc5NtTsRcr-q2lV7SeI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:32"
+  }
+]

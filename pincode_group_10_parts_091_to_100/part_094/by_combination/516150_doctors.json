@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Arige subramanyam house",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "516150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "74C4+6J7, Nandhaluru Thogurpeta Rd, Nagireddipalle, Andhra Pradesh 516150",
+    "area": "516150",
+    "latitude": 14.2705322,
+    "longitude": 79.10654939999999,
+    "place_id": "ChIJ-aSYDdM9szsRzm6Y3YyBrtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aSYDdM9szsRzm6Y3YyBrtM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:00"
+  },
+  {
+    "business_name": "Doctor P.V.NARASIMHA RAO Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7496+PH6, RS Rd, Aravapalli, Nandalur, Andhra Pradesh 516150",
+    "area": "Aravapalli",
+    "latitude": 14.2692909,
+    "longitude": 79.1113847,
+    "place_id": "ChIJ5c5nHAA7szsR6cLuH5FSEz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5c5nHAA7szsR6cLuH5FSEz4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:00"
+  }
+]

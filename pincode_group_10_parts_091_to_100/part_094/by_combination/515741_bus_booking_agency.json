@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS Travels (Head Office)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515741",
+    "phone_number": "+91 80 2670 4272",
+    "website": "https://www.srsbooking.com/m/index.html#/nav/n4/home",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "321, Tippu Sultan Palace Rd, Opposite Bangalore Medical College, Kalasipalya, Bengaluru, Karnataka 560002",
+    "area": "Kalasipalya",
+    "latitude": 12.959865899999999,
+    "longitude": 77.5750262,
+    "place_id": "ChIJj93XcuQVrjsRAs0oaaYFUd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj93XcuQVrjsRAs0oaaYFUd0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:34"
+  },
+  {
+    "business_name": "SISAI BUS SERVICE",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "515741",
+    "phone_number": "+91 90542 57000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "84, Add. shop No, 108/2, Buterla, Sector 41B, Chandigarh, 160030",
+    "area": "Buterla, Sector 41B, Sector 41",
+    "latitude": 30.7317102,
+    "longitude": 76.7380618,
+    "place_id": "ChIJow8uR3XtDzkRz-4iZecEItE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow8uR3XtDzkRz-4iZecEItE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:35"
+  }
+]

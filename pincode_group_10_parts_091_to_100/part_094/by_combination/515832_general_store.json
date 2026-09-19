@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "515832",
+    "phone_number": "+91 74119 21662",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 63,
+    "address": "Near janatha deluxe hotel, W) road, 1st Cross Rd, Bhagavathi Nagar, kodialbail, Mangaluru, Karnataka 575003",
+    "area": "Bhagavathi Nagar, Ballalbagh, kodialbail",
+    "latitude": 12.880464499999999,
+    "longitude": 74.8381369,
+    "place_id": "ChIJVU-ORVtaozsR1G89FRxeBQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVU-ORVtaozsR1G89FRxeBQs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:34:19"
+  },
+  {
+    "business_name": "Hussain medical and General Store",
+    "search_category": "General Store",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "515832",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29GP+M4G, Pamidi Rd, Vajrakarur, Andhra Pradesh 515832",
+    "area": "515832",
+    "latitude": 15.0266766,
+    "longitude": 77.3853381,
+    "place_id": "ChIJU5FGWgDDtjsRpXkXJkfae3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5FGWgDDtjsRpXkXJkfae3I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:34:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VISHAL TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "515661",
+    "phone_number": "+91 76759 95678",
+    "website": "http://www.srikeerthanasaitravels.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Somavaram road,zattapureddituni, Narasingibilly, Andhra Pradesh 531055",
+    "area": "515661",
+    "latitude": 17.6070291,
+    "longitude": 82.8779876,
+    "place_id": "ChIJWT3XNoCfOToRGnO7p37dqK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWT3XNoCfOToRGnO7p37dqK8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:56:22"
+  },
+  {
+    "business_name": "Sri Shivanjaneya Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515661",
+    "phone_number": "+91 98887 69998",
+    "website": "http://srishivanjaneyatravels.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "8-113, Amalapuram - Indupalli Rd, Sakurru, Andhra Pradesh 533221",
+    "area": "515661",
+    "latitude": 16.571689199999998,
+    "longitude": 81.9756219,
+    "place_id": "ChIJmR1Wh2DvNzoRexAv7E0Shdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmR1Wh2DvNzoRexAv7E0Shdw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:56:23"
+  }
+]

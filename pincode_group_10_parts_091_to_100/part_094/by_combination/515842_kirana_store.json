@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIRESH SHOP",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515842",
+    "phone_number": "+91 93900 50744",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 1, Main Road, Gadekallu, Donekal, Andhra Pradesh 515842",
+    "area": "515842",
+    "latitude": 15.1326138,
+    "longitude": 77.1964376,
+    "place_id": "ChIJ5XGrZBrhtjsRoPR145v_QIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XGrZBrhtjsRoPR145v_QIo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:02"
+  },
+  {
+    "business_name": "MALYAM NAGARAJU TEE SHOP",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515842",
+    "phone_number": "+91 63003 18993",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 10, Vidapanakal - Gadekal Rd, Anantapur, Gadekallu, Andhra Pradesh 515842",
+    "area": "515842",
+    "latitude": 15.114344099999999,
+    "longitude": 77.2435752,
+    "place_id": "ChIJA6cuAx3htjsR54d841GrkRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6cuAx3htjsR54d841GrkRE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:02"
+  }
+]

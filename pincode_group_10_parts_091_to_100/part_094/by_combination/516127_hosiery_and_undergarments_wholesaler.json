@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chhabra Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store, Clothing store, Cosmetics store",
+    "pincode": "516127",
+    "phone_number": "+91 98117 38273",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No.4/4, Main Market Marg, opposite Gurudwara Singh Sabha, Block 4, Ramesh Nagar, New Delhi, Delhi 110015",
+    "area": "Block 4, Ramesh Nagar",
+    "latitude": 28.6503262,
+    "longitude": 77.13700159999999,
+    "place_id": "ChIJFZcM_w8DDTkRy0CeB8pXUDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZcM_w8DDTkRy0CeB8pXUDQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:11:49"
+  },
+  {
+    "business_name": "Eves Collection",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store",
+    "pincode": "516127",
+    "phone_number": "+91 93108 84627",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No.81, Central Market, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Central Market, Lajpat Nagar II, Lajpat Nagar",
+    "latitude": 28.5692873,
+    "longitude": 77.24166269999999,
+    "place_id": "ChIJK283Q63jDDkROXkKdn4E-Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK283Q63jDDkROXkKdn4E-Rc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:11:49"
+  }
+]

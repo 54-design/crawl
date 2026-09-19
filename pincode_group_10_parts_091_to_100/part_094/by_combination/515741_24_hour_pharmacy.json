@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alagu Pharmacy-S",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "515741",
+    "phone_number": "+91 422 436 4444",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "322-A, NSR Rd, Co-Operative Colony, Saibaba Colony, Coimbatore, Tamil Nadu 641011",
+    "area": "Co-Operative Colony, Saibaba Colony",
+    "latitude": 11.026051599999999,
+    "longitude": 76.94240789999999,
+    "place_id": "ChIJb1DKWoBZqDsRfke02qnL-v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1DKWoBZqDsRfke02qnL-v8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:18"
+  },
+  {
+    "business_name": "Ganesh Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "515741",
+    "phone_number": "+91 98422 14121",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Oppanakara St., Ukkadam, Coimbatore, Tamil Nadu 641001",
+    "area": "Ukkadam",
+    "latitude": 10.992357,
+    "longitude": 76.9599533,
+    "place_id": "ChIJSxz6_xpXqDsRzH-UFljwinQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxz6_xpXqDsRzH-UFljwinQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:18"
+  }
+]

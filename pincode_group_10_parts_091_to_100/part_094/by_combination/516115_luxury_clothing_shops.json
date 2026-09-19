@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaya Boutique & Matching Center",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "516115",
+    "phone_number": "+91 98492 56577",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Akula St, Sainagar, Rajampet, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.1944219,
+    "longitude": 79.1606734,
+    "place_id": "ChIJH1gzPQ4lszsRQQih8Svdt3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1gzPQ4lszsRQQih8Svdt3M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:14"
+  },
+  {
+    "business_name": "MAMATHA FANCY STORE",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "516115",
+    "phone_number": "+91 99662 01199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "FRCG+3QW, Sionpuram St, Maria Puram, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Kadapa",
+    "latitude": 14.470234399999999,
+    "longitude": 78.8269566,
+    "place_id": "ChIJ29g41A9yszsRn5MfO6CdzyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29g41A9yszsRn5MfO6CdzyA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Ghee Sweets And Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "516152",
+    "phone_number": "+91 86462 72532",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 25,
+    "address": "Shop No, 28/248, NRT Road, Kothapeta, Vinukonda, Andhra Pradesh 522647",
+    "area": "Kothapeta",
+    "latitude": 16.0507579,
+    "longitude": 79.74202919999999,
+    "place_id": "ChIJq6rx6CqWSjoRZ4bSZJ18c74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6rx6CqWSjoRZ4bSZJ18c74",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:16"
+  },
+  {
+    "business_name": "IndiaCakes",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516152",
+    "phone_number": "+91 20 6622 2222",
+    "website": "https://www.indiacakes.com/",
+    "rating": 1.4,
+    "reviews_count": 19,
+    "address": "F 7,First Floor, North Block, Wanowrie, Pune, Maharashtra 411040",
+    "area": "Wanowrie",
+    "latitude": 18.491732199999998,
+    "longitude": 73.90035259999999,
+    "place_id": "ChIJVapfXJfBwjsRSaLv7iQ2j-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVapfXJfBwjsRSaLv7iQ2j-I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "College Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer, Stationery store",
+    "pincode": "516127",
+    "phone_number": "+91 44 2224 2052",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 281,
+    "address": "X5JQ+J93, 4th Main Rd, NCBS Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+    "area": "NCBS Colony, Nanganallur",
+    "latitude": 12.9815171,
+    "longitude": 80.1884079,
+    "place_id": "ChIJP6GB5f1dUjoRD8y26sjxQ9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6GB5f1dUjoRD8y26sjxQ9g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:12:42"
+  },
+  {
+    "business_name": "Star Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "516127",
+    "phone_number": "+91 91826 31210",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "and start Xero Shop, 1st Line, line, Harinathpuram, Nellore, Andhra Pradesh 524003",
+    "area": "line, Harinathpuram",
+    "latitude": 14.440144799999999,
+    "longitude": 79.9807348,
+    "place_id": "ChIJO67UKZ3zTDoR5BqfJtudc6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO67UKZ3zTDoR5BqfJtudc6s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:12:42"
+  }
+]

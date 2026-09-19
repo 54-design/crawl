@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT DEPARTMENT",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "515721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MHCW+MM7, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "area": "Gulzarpet",
+    "latitude": 14.6716682,
+    "longitude": 77.5966663,
+    "place_id": "ChIJCzEVbgBLsTsR39_aPuw6EUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzEVbgBLsTsR39_aPuw6EUM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:00"
+  },
+  {
+    "business_name": "PG complex",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "15, Subash Rd, Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001",
+    "area": "Adimurthy Nagar, Gulzarpet",
+    "latitude": 14.6796379,
+    "longitude": 77.59932189999999,
+    "place_id": "ChIJ_wi2ryBLsTsRlR0cV8Uu2gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wi2ryBLsTsRlR0cV8Uu2gE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:05:00"
+  }
+]

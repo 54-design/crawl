@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acme Infolabs",
+    "search_category": "Local SEO Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, Marketing agency, Web hosting company, Website designer",
+    "pincode": "515671",
+    "phone_number": "+91 95604 94030",
+    "website": "https://www.acmeinfolabs.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D-BLOCK, 201, Plot No-13, Community Centre, Rd Number 44, Pitampura, New Delhi, Delhi 110034",
+    "area": "Saint Nagar Delhi, Rani Bagh, Pitampura",
+    "latitude": 28.688585,
+    "longitude": 77.1338447,
+    "place_id": "ChIJCdnbVYIDDTkRbAXA7N056dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdnbVYIDDTkRbAXA7N056dk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:59:00"
+  },
+  {
+    "business_name": "Webbitech",
+    "search_category": "Local SEO Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Branding agency, Graphic designer, Website designer, Marketing agency",
+    "pincode": "515671",
+    "phone_number": "+91 97892 39293",
+    "website": "https://webbitech.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Brooke Bond, 13/1b, Krishna samy Mudaliar Road, near Kikani Vidhya Mandir School, Layout, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "area": "Layout, R.S. Puram",
+    "latitude": 11.0108015,
+    "longitude": 76.9584457,
+    "place_id": "ChIJ05Gwwh9ZqDsRCjhfMwtfiq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05Gwwh9ZqDsRCjhfMwtfiq4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:59:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Idli n More",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "515765",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 42,
+    "address": "12-4-72, Vidyuth Nagar, Revenue Ward No 12, Sharada Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Vidyuth Nagar, Revenue Ward No 12, Sharada Nagar",
+    "latitude": 14.6662024,
+    "longitude": 77.5970561,
+    "place_id": "ChIJb2g5OABLsTsRyani_IoTq0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2g5OABLsTsRyani_IoTq0U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:16:59"
+  },
+  {
+    "business_name": "Kondanna Umadevi Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "515765",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 19,
+    "address": "94M6+956, Rudrampalli Rd, Enumuladoddi, Andhra Pradesh 515765",
+    "area": "515765",
+    "latitude": 14.383416599999999,
+    "longitude": 77.1104,
+    "place_id": "ChIJN00ZQqTesDsRj7t_gH1lv-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN00ZQqTesDsRj7t_gH1lv-M",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:16:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Bommanahal",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "515871",
+    "phone_number": "+91 97016 02013",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Door No 2, 102 Main Road, Uddehal, Andhra Pradesh 515871",
+    "area": "515871",
+    "latitude": 14.9428691,
+    "longitude": 76.97510919999999,
+    "place_id": "ChIJmSmeZcA9tzsR5VYj8x9ZaiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSmeZcA9tzsR5VYj8x9ZaiA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:44:52"
+  },
+  {
+    "business_name": "Dhartidhan",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "515871",
+    "phone_number": "+91 94396 37360",
+    "website": "https://dhartidhan.info/",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Ward No-2, Tali Pada Road, Bargarh, Odisha 768028",
+    "area": "515871",
+    "latitude": 21.3320389,
+    "longitude": 83.6146004,
+    "place_id": "ChIJCVhXXfBLIToRKJcP6UklfI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVhXXfBLIToRKJcP6UklfI8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:44:54"
+  }
+]

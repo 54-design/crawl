@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh tyres shop",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "515822",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V723+9P5, Amidala, Andhra Pradesh 515822",
+    "area": "515822",
+    "latitude": 14.8508798,
+    "longitude": 77.2543748,
+    "place_id": "ChIJm6znLgDXtjsRbIDi-gTy6v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6znLgDXtjsRbIDi-gTy6v8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:33:03"
+  },
+  {
+    "business_name": "River Service Attapur",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Scooter repair shop",
+    "all_categories": "Scooter repair shop, Motor scooter repair shop",
+    "pincode": "515822",
+    "phone_number": "+91 92402 57855",
+    "website": "https://www.rideriver.com/",
+    "rating": 4.9,
+    "reviews_count": 621,
+    "address": "Mandal & Municipality, Survey No. 112, Attapur, Tejaswi Nagar, Rajendranagar, Hyderabad, Telangana 500048",
+    "area": "Attapur, Tejaswi Nagar, Rajendranagar",
+    "latitude": 17.3639868,
+    "longitude": 78.4367506,
+    "place_id": "ChIJzQnvvm-XyzsR3MfSbPLJBN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQnvvm-XyzsR3MfSbPLJBN0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:33:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snoot Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet groomer, Pet store, Veterinary pharmacy",
+    "pincode": "515803",
+    "phone_number": "+91 88996 69977",
+    "website": "http://www.snoot.in/",
+    "rating": 4.9,
+    "reviews_count": 108,
+    "address": "Plot No.8, Hitex Road, Shilpa Layout, Izzathnagar, Shilpa Hills, Hyderabad, Telangana 500084",
+    "area": "Shilpa Layout, Izzathnagar, Shilpa Hills",
+    "latitude": 17.4685791,
+    "longitude": 78.3758885,
+    "place_id": "ChIJnSSR0saTyzsRSfTO5k2P6PE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSSR0saTyzsRSfTO5k2P6PE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:29:30"
+  },
+  {
+    "business_name": "Nishtha Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "515803",
+    "phone_number": "+91 88514 05943",
+    "website": "https://www.facebook.com/Nishtha-PET-Clinic-100655482435386/",
+    "rating": 4.8,
+    "reviews_count": 116,
+    "address": "J-89, J Block, Sector 41, Noida, Uttar Pradesh 201303",
+    "area": "J Block, Sector 41",
+    "latitude": 28.561125999999998,
+    "longitude": 77.3649669,
+    "place_id": "ChIJOccJWWDlDDkRx-bf773AHvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOccJWWDlDDkRx-bf773AHvY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:29:30"
+  }
+]

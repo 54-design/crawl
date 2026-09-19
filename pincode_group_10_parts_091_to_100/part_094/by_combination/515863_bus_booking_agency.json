@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P&C ENTERPRISES",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515863",
+    "phone_number": "+91 99010 60393",
+    "website": "http://pctravelss.in/",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Honnur V Devareddyhalli P, TQ, Challakere, Karnataka 577543",
+    "area": "Honnuru",
+    "latitude": 14.5002467,
+    "longitude": 76.7587155,
+    "place_id": "ChIJ8cjcI2-3sDsRm4qzFNkMcfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cjcI2-3sDsRm4qzFNkMcfE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:38:25"
+  },
+  {
+    "business_name": "Konasagara Bus Stop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "515863",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "JPQW+HJX, Konasagara Rd, Konsagara, Karnataka 577529",
+    "area": "515863",
+    "latitude": 14.6389847,
+    "longitude": 76.74661259999999,
+    "place_id": "ChIJX3wTLgC1sDsRgc4-2FRBdAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3wTLgC1sDsRgc4-2FRBdAM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:38:28"
+  }
+]

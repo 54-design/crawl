@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JSW Experience Centre",
+    "search_category": "Tradeshows",
+    "primary_category": "Learning center",
+    "all_categories": "Learning center",
+    "pincode": "515865",
+    "phone_number": "N/A",
+    "website": "http://www.jsw.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5JQR+2MQ, Central Ave, Vaddu, Karnataka 583275",
+    "area": "515865",
+    "latitude": 15.1875772,
+    "longitude": 76.6417294,
+    "place_id": "ChIJkRT2wU9vtzsR_rnIQbCC1hA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRT2wU9vtzsR_rnIQbCC1hA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:41:12"
+  },
+  {
+    "business_name": "DS GRAND EVENTS",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "515865",
+    "phone_number": "+91 70194 11159",
+    "website": "https://www.instagram.com/ds_grand_events/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Car St, Maruthi Colony, Cowl Bazaar, Ballari, Karnataka 583101",
+    "area": "Maruthi Colony, Cowl Bazaar",
+    "latitude": 15.1379167,
+    "longitude": 76.9251305,
+    "place_id": "ChIJI7E4cCoRtzsRKWyTck2RJwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7E4cCoRtzsRKWyTck2RJwE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:41:12"
+  }
+]

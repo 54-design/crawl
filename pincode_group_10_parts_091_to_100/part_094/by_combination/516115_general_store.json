@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavitha General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516115",
+    "phone_number": "+91 91770 74740",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Sai Cinemas, Rajampet, Andhra Pradesh 516115",
+    "area": "516115",
+    "latitude": 14.191527299999999,
+    "longitude": 79.1631312,
+    "place_id": "ChIJZyjhQcwlszsRPJQBdk9g7_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyjhQcwlszsRPJQBdk9g7_Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:07:57"
+  },
+  {
+    "business_name": "Chenrayudu General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516115",
+    "phone_number": "+91 98668 39382",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kolimi St, near Ramulavari Temple, Sainagar, Rajampet, Kadapa, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.1957544,
+    "longitude": 79.1583531,
+    "place_id": "ChIJNcqpsUElszsRrXIgICA54YA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcqpsUElszsRrXIgICA54YA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:07:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dizzzy Dragon",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "516163",
+    "phone_number": "+91 82980 48298",
+    "website": "https://dizzzy-dragon-gastro-pub.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ayat, TOWER-2, Chinar Park, Tegharia, Rajarhat, Kolkata, West Bengal 700052",
+    "area": "Chinar Park, Tegharia, Rajarhat",
+    "latitude": 22.624959399999998,
+    "longitude": 88.43887629999999,
+    "place_id": "ChIJkRTPHZ6f-DkRRvjlDPKGR3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRTPHZ6f-DkRRvjlDPKGR3Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:25:58"
+  },
+  {
+    "business_name": "Proxy Restobar - Kundanahalli",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Cocktail bar, Dance club, DJ service, Event venue, Family restaurant, Fine dining restaurant, Live music venue, Night club, Pub",
+    "pincode": "516163",
+    "phone_number": "+91 95133 97973",
+    "website": "https://proxyblr.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1st Floor, No. 43, 1st Floor, Bhagini Icon, Kundanahalli Gate, Maratahalli Main Road, 43, Kundalahalli Main Rd, Kundalahalli, Whitefield, Bengaluru, Karnataka 560037",
+    "area": "Kundalahalli, Whitefield",
+    "latitude": 12.9556808,
+    "longitude": 77.7144022,
+    "place_id": "ChIJJX1KYzkSrjsRAL3Rm0xIMgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJX1KYzkSrjsRAL3Rm0xIMgw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:25:59"
+  }
+]

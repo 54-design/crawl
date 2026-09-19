@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Korolimaata chaats bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "516151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "10-5-247, Doddapuram St, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6338986,
+    "longitude": 79.4188477,
+    "place_id": "ChIJO8bfzhlLTToRSCFJsbLo9bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8bfzhlLTToRSCFJsbLo9bY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:35"
+  },
+  {
+    "business_name": "Kumar Gobi and Chats Centre",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "516151",
+    "phone_number": "+91 90082 61772",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 139,
+    "address": "WGHQ+WP6, Banashankari 3rd Stage, Hosakerehalli, Bengaluru, Karnataka 560085",
+    "area": "Banashankari 3rd Stage, Hosakerehalli",
+    "latitude": 12.9297855,
+    "longitude": 77.5392646,
+    "place_id": "ChIJM961YUo_rjsRM4BIM2kqNDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM961YUo_rjsRM4BIM2kqNDg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:36"
+  }
+]

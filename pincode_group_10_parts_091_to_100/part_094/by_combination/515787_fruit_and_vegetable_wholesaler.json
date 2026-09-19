@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Fruit Shops",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "515787",
+    "phone_number": "+91 90395 07809",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "59VJ+3V3, Doman Hill, Chirimiri, Chhattisgarh 497557",
+    "area": "515787",
+    "latitude": 23.1926404,
+    "longitude": 82.382161,
+    "place_id": "ChIJ31nZP1F9iDkRGkgkjZGq5Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31nZP1F9iDkRGkgkjZGq5Og",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:32"
+  },
+  {
+    "business_name": "Raghava fruits and vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "515787",
+    "phone_number": "+91 90850 84596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "8-3-256, near Sai Balaji contraction, Engineers Colony, Sri Krishna Nagar, Yousufguda Basti, Yousufguda, Hyderabad, Telangana 500045",
+    "area": "Engineers Colony, Sri Krishna Nagar, Yousufguda Basti, Yousufguda",
+    "latitude": 17.435661,
+    "longitude": 78.4322617,
+    "place_id": "ChIJZVAAcz-RyzsRH054jr1drJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVAAcz-RyzsRH054jr1drJY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:25:33"
+  }
+]

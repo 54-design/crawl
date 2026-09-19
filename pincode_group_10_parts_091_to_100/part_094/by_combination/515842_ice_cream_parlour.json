@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Cool Drinks & Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Store",
+    "pincode": "515842",
+    "phone_number": "+91 99512 51207",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "598F+GFQ, T B Rd, Bhagya Nagar, Shanti Nagar, Kottayam, Guntakal, Andhra Pradesh 515801",
+    "area": "Bhagya Nagar, Shanti Nagar",
+    "latitude": 15.166334899999999,
+    "longitude": 77.37374899999999,
+    "place_id": "ChIJy6nwS4vltjsRD1C6UEoYjSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6nwS4vltjsRD1C6UEoYjSY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:15"
+  },
+  {
+    "business_name": "Diry Rich ice cream shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "515842",
+    "phone_number": "N/A",
+    "website": "https://search.google.com/local/writereview?placeid=ChIJj1WMg-fvtjsRSNbvqhVgwJI",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kasapuram road, SN Pet, Guntakal, Andhra Pradesh 515801",
+    "area": "SN Pet",
+    "latitude": 15.173755,
+    "longitude": 77.3804019,
+    "place_id": "ChIJj1WMg-fvtjsRSNbvqhVgwJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1WMg-fvtjsRSNbvqhVgwJI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:18"
+  }
+]

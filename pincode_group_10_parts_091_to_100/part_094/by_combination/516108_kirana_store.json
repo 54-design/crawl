@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KUMUDA REDDY TRADERS",
+    "search_category": "Kirana Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "516108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jagadampalli, Koduru, Andhra Pradesh 516101",
+    "area": "Jagadampalli",
+    "latitude": 13.9622835,
+    "longitude": 79.34853369999999,
+    "place_id": "ChIJhYeo7ZzUsjsRwE0s5w2saRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYeo7ZzUsjsRwE0s5w2saRI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:17"
+  },
+  {
+    "business_name": "Padipurakkal Wholesale Supermarket",
+    "search_category": "Kirana Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Wholesaler",
+    "pincode": "516108",
+    "phone_number": "+91 99460 13579",
+    "website": "https://padipurakkalgroup.com/industries/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Attingal, Keralam 695101",
+    "area": "516108",
+    "latitude": 8.6901216,
+    "longitude": 76.8183549,
+    "place_id": "ChIJo5C2GJ_rBTsR6F1LR26H6GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5C2GJ_rBTsR6F1LR26H6GQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:19"
+  }
+]

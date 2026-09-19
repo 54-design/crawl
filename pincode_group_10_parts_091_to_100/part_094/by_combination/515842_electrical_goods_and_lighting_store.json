@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "515842",
+    "phone_number": "+91 863 222 2377",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 195,
+    "address": "6/7 Lane Back side of Guruvaiah college, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Brodipet",
+    "latitude": 16.303107,
+    "longitude": 80.436033,
+    "place_id": "ChIJ3aKyCEN1SjoRQj-jk2y-Qm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aKyCEN1SjoRQj-jk2y-Qm4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:46"
+  },
+  {
+    "business_name": "Mukesh Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "515842",
+    "phone_number": "+91 863 223 3308",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 41,
+    "address": "3rd Lane, Brodipet, Guntur, Andhra Pradesh 522002",
+    "area": "Arundelpet",
+    "latitude": 16.3018273,
+    "longitude": 80.4394666,
+    "place_id": "ChIJ2Wpw6UF1SjoRP2-Oc6AIqFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Wpw6UF1SjoRP2-Oc6AIqFs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:36:47"
+  }
+]

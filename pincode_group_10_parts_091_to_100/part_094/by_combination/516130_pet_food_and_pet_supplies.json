@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR pet zone",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "516130",
+    "phone_number": "+91 70131 98399",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Nayab Sab St, Kothapeta, Rayachoty, Andhra Pradesh 516269",
+    "area": "Kothapeta",
+    "latitude": 14.0615125,
+    "longitude": 78.7487532,
+    "place_id": "ChIJnwqRZ88DszsRigJYhpsXGZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwqRZ88DszsRigJYhpsXGZE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:16:53"
+  },
+  {
+    "business_name": "MADINA AQUARIUM & BIRDS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "516130",
+    "phone_number": "+91 90593 30897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Near, Thana, Trunk Road, Balaji Nagar, Rayachoty, Andhra Pradesh 516269",
+    "area": "Balaji Nagar",
+    "latitude": 14.0604981,
+    "longitude": 78.7523318,
+    "place_id": "ChIJbUPGJCkCszsR_O3vE5gfibE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUPGJCkCszsR_O3vE5gfibE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:16:53"
+  }
+]

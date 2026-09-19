@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalyan durgam",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Public bathroom",
+    "all_categories": "Public bathroom",
+    "pincode": "515761",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "H426+Q7C, Kalyandurg, Andhra Pradesh 515761",
+    "area": "515761",
+    "latitude": 14.5519465,
+    "longitude": 77.1106475,
+    "place_id": "ChIJJ3QrXwDXsDsRFwSxtN3yarQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3QrXwDXsDsRFwSxtN3yarQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:45"
+  },
+  {
+    "business_name": "General store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "515761",
+    "phone_number": "+91 94402 01626",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi chowk, Kalyandurg, Andhra Pradesh 515761",
+    "area": "515761",
+    "latitude": 14.5519565,
+    "longitude": 77.1107476,
+    "place_id": "ChIJu2IWUgDXsDsRMJPN8x2L-EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2IWUgDXsDsRMJPN8x2L-EA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:13:45"
+  }
+]

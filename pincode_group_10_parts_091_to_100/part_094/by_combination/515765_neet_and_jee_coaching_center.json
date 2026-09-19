@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jupiter Academy",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Test preparation center",
+    "pincode": "515765",
+    "phone_number": "+91 73389 23999",
+    "website": "https://www.jupiteracademy.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "old no 1, Plot no c - 20, 2nd Ave, AD Block, Anna Nagar, Chennai, Tamil Nadu 600040",
+    "area": "AD Block, Anna Nagar",
+    "latitude": 13.084801599999999,
+    "longitude": 80.2099511,
+    "place_id": "ChIJPyPeV1hlUjoROD89iInoaQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyPeV1hlUjoROD89iInoaQY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:58"
+  },
+  {
+    "business_name": "JEE Classes",
+    "search_category": "NEET and JEE Coaching Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "515765",
+    "phone_number": "+91 93402 81382",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH - 2, NTPC, Vindhyanagar, Madhya Pradesh 486885",
+    "area": "NH - 2, NTPC",
+    "latitude": 24.0856705,
+    "longitude": 82.6536945,
+    "place_id": "ChIJgSupBisxjzkRicYsXM3feGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSupBisxjzkRicYsXM3feGI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:17:58"
+  }
+]

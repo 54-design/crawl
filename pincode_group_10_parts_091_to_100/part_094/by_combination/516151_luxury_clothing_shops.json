@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Park Avenue",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Jeans shop, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Men's clothing store, Youth clothing store",
+    "pincode": "516151",
+    "phone_number": "+91 80 4809 0950",
+    "website": "https://connaughtplace.myraymond.com/park-avenue/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Inner Cir, Block C, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Block C, Connaught Place",
+    "latitude": 28.634271899999998,
+    "longitude": 77.2201895,
+    "place_id": "ChIJBx2xxTf9DDkRd7UVF7kgCKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBx2xxTf9DDkRd7UVF7kgCKo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:46"
+  },
+  {
+    "business_name": "Style Union - Tirupati",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Children's clothing store, Jeans shop, Formal Clothing Store, Sportswear store, Tuxedo shop, Women's clothing store",
+    "pincode": "516151",
+    "phone_number": "+91 94296 92121",
+    "website": "https://stores.styleunion.in/style-union/stores-in-tirupati/stores-in-tata-nagar/style-union-in-tata-nagar-tirupati--423db47e-673a-4c34-8474-37d7c6ab50d4/home",
+    "rating": 4.9,
+    "reviews_count": 10755,
+    "address": "Naidu Complex, beside Sankalpa Hospital, Tata Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Tata Nagar",
+    "latitude": 13.6346399,
+    "longitude": 79.4271625,
+    "place_id": "ChIJ5cZw2AhLTToRk4zRpiMv13o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cZw2AhLTToRk4zRpiMv13o",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagarjuna Restaurant - Residency Road",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant, Indian restaurant",
+    "pincode": "515872",
+    "phone_number": "+91 80 2555 9848",
+    "website": "http://www.nagarjunarestaurants.com/",
+    "rating": 4.2,
+    "reviews_count": 22465,
+    "address": "44/1, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.9732028,
+    "longitude": 77.60913339999999,
+    "place_id": "ChIJ-2WNtoAWrjsRtXDAJnU_8AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2WNtoAWrjsRtXDAJnU_8AI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:49"
+  },
+  {
+    "business_name": "Shree Panjurli Family Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Seafood restaurant",
+    "pincode": "515872",
+    "phone_number": "+91 836 233 7666",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 3725,
+    "address": "Water Tank, Plot No 3, Sai Ram Plaza, Gokul Rd, near Nehru Nagar, Karnataka 580027",
+    "area": "Central Excise Colony, Gandhi Nagar",
+    "latitude": 15.352865,
+    "longitude": 75.096223,
+    "place_id": "ChIJPdiD08TWuDsRc9VgpPBgdE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdiD08TWuDsRc9VgpPBgdE0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:50"
+  }
+]

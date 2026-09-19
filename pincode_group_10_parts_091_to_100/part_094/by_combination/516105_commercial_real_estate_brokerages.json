@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naagarathnam Infraa",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Corporate office",
+    "pincode": "516105",
+    "phone_number": "+91 90003 00690",
+    "website": "http://realestatehub.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tiruchanoor Rd, Padmavathi Puram, Padmavathipuram, Tirupati, Andhra Pradesh 517503",
+    "area": "Padmavathi Puram, Padmavathipuram",
+    "latitude": 13.617930699999999,
+    "longitude": 79.43356659999999,
+    "place_id": "ChIJKWHwiJhLTToROHoT1c-TTbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWHwiJhLTToROHoT1c-TTbw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:02:11"
+  },
+  {
+    "business_name": "Tenspick",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Automation company, Computer security service, Computer support and services, Graphic designer, Video editing service, Web hosting company, Website designer",
+    "pincode": "516105",
+    "phone_number": "+91 73308 63893",
+    "website": "https://www.tenspick.com/",
+    "rating": 5,
+    "reviews_count": 84,
+    "address": "bazar, street, ananthampalli, rajampeta, Perigavaram, Andhra Pradesh 516107",
+    "area": "ananthampalli",
+    "latitude": 14.0962483,
+    "longitude": 79.22393509999999,
+    "place_id": "ChIJXRLG-pEpszsRT9fO3QSAdts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRLG-pEpszsRT9fO3QSAdts",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:02:11"
+  }
+]

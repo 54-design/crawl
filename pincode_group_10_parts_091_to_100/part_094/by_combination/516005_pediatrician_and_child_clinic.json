@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Vijay Muchhal",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Children's hospital, Doctor, Medical Center, Pediatric clinic",
+    "pincode": "516005",
+    "phone_number": "+91 91179 10911",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Panchavati Apartment, Yeshwant Niwas Rd, Opp.Amal Hospital, Maan Sarovar, Indore, Madhya Pradesh 452001",
+    "area": "Opp.Amal Hospital, Maan Sarovar",
+    "latitude": 22.7310269,
+    "longitude": 75.87448289999999,
+    "place_id": "ChIJrZmhiGn9YjkRYBk85azlGxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZmhiGn9YjkRYBk85azlGxI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:56:02"
+  },
+  {
+    "business_name": "Bachpan Mother and Child Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516005",
+    "phone_number": "+91 85170 77317",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Rajnigandha Enclave, Opposite to Sanchi Petrol Pump Morar /Kalpi road, Gole Ka Mandir Rd, Gwalior, Madhya Pradesh 474004",
+    "area": "Hanuman Nagar, Morar",
+    "latitude": 26.2341423,
+    "longitude": 78.2098176,
+    "place_id": "ChIJwyNd-PXBdjkRinJPn1c9rhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyNd-PXBdjkRinJPn1c9rhM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:56:03"
+  }
+]

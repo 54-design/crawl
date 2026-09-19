@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Auto Mobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "516003",
+    "phone_number": "+91 91771 13118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "38/166-3-1, near Padmashaali Kalyanamandapam, Maria Puram, Chinna Chowk, Area, Kadapa, Andhra Pradesh 516001",
+    "area": "Maria Puram, Chinna Chowk",
+    "latitude": 14.4721602,
+    "longitude": 78.8234231,
+    "place_id": "ChIJceRhIzFzszsRIDBZeZaBs8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceRhIzFzszsRIDBZeZaBs8I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:36"
+  },
+  {
+    "business_name": "Sekhar Car Decors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Car stereo store",
+    "all_categories": "Car stereo store",
+    "pincode": "516003",
+    "phone_number": "+91 98664 93220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4 Besides, sai baba temple, Door no 38, 166-3, Madras road, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "N.G.O Colony",
+    "latitude": 14.4689293,
+    "longitude": 78.8512344,
+    "place_id": "ChIJTY7bzr9tszsRU4za1wjpQEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTY7bzr9tszsRU4za1wjpQEg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VANITHA BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FR9Q+73C, Chinna Chowk Bypass Rd, Muthrasupalle, N.G.O Colony, Chinna Chauku, Andhra Pradesh 516001",
+    "area": "Muthrasupalle, N.G.O Colony",
+    "latitude": 14.4683099,
+    "longitude": 78.8376014,
+    "place_id": "ChIJf7rX1kZzszsRe2SQFplkJkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7rX1kZzszsRe2SQFplkJkc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:54"
+  },
+  {
+    "business_name": "Shannu beauty parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "516003",
+    "phone_number": "+91 77027 61832",
+    "website": "https://shannubeautyparlorcom.lovable.app/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "near auto stand and usmahal, Ravindra Nagar, Akkayapalle, Andhra Pradesh 516001",
+    "area": "Ravindra Nagar",
+    "latitude": 14.4760298,
+    "longitude": 78.8146507,
+    "place_id": "ChIJd-LqSXRzszsRgRxQTrmT1Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-LqSXRzszsRgRxQTrmT1Do",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:57"
+  }
+]

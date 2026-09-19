@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lickees ice Cream Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "516003",
+    "phone_number": "+91 85558 42077",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "FQH9+XFW, Kadapa Rd, Krishnapuram, Andhra Pradesh 516005",
+    "area": "516003",
+    "latitude": 14.480029,
+    "longitude": 78.76872209999999,
+    "place_id": "ChIJRytjUwBzszsRTcqMRWr1ngY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRytjUwBzszsRTcqMRWr1ngY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:12"
+  },
+  {
+    "business_name": "Amul Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 21,
+    "address": "FRMF+PH3, YV St, YV Street, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "YV Street, Ganagapeta",
+    "latitude": 14.4842692,
+    "longitude": 78.82392,
+    "place_id": "ChIJf7_dKvZxszsRbPcMJT_R0-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7_dKvZxszsRbPcMJT_R0-Y",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:12"
+  }
+]

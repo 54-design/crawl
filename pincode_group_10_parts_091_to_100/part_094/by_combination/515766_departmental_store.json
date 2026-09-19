@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ragavendra general stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515766",
+    "phone_number": "+91 94400 90509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amarapuram Rd, Amarapur, Andhra Pradesh 515281",
+    "area": "515766",
+    "latitude": 14.1295583,
+    "longitude": 76.9780871,
+    "place_id": "ChIJk5RL4n3vsDsRQmSWvtFSrgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5RL4n3vsDsRQmSWvtFSrgE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:18:34"
+  },
+  {
+    "business_name": "Sai Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "515766",
+    "phone_number": "+91 93924 17475",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madakasira Amarapuram Rd, Anantapur, Amarapur, Andhra Pradesh 515281",
+    "area": "515766",
+    "latitude": 14.1259222,
+    "longitude": 76.9725646,
+    "place_id": "ChIJbV4_AgDvsDsRuqenxbyn-YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbV4_AgDvsDsRuqenxbyn-YM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:18:34"
+  }
+]

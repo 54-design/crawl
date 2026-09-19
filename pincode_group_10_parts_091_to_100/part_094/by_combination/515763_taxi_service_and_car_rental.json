@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fort Auto Stand",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "515763",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 8,
+    "address": "MRXX+449, Fort Rd, Rayadurg, Rayadurgam, Andhra Pradesh 515865",
+    "area": "Rayadurg",
+    "latitude": 14.697776399999999,
+    "longitude": 76.84786319999999,
+    "place_id": "ChIJv3i93nQ1tzsRhS7mj0-Xv_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3i93nQ1tzsRhS7mj0-Xv_I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:15:43"
+  },
+  {
+    "business_name": "Vijayawada Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "515763",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GM52+79Q, Siddhartha Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Siddhartha Nagar, Benz Circle",
+    "latitude": 16.5082178,
+    "longitude": 80.650984,
+    "place_id": "ChIJez5QbwD7NToRSuj1Uv1GmCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJez5QbwD7NToRSuj1Uv1GmCU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:15:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "515611",
+    "phone_number": "+91 98494 96789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gangavaram, Andhra Pradesh 533355",
+    "area": "515611",
+    "latitude": 16.733095199999998,
+    "longitude": 82.050359,
+    "place_id": "ChIJRXgxNpjyNzoR9hOx3pUqNXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXgxNpjyNzoR9hOx3pUqNXY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:47:22"
+  },
+  {
+    "business_name": "బాలాజీ మెడికల్ & ఫ్యాన్సీ",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "515611",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Udayagiri, Andhra Pradesh 524226",
+    "area": "515611",
+    "latitude": 14.878334299999999,
+    "longitude": 79.30275929999999,
+    "place_id": "ChIJ0wRwjQistDsR-QqWKRuHfS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wRwjQistDsR-QqWKRuHfS0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:47:22"
+  }
+]

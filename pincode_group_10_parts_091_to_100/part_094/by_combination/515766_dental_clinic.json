@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkatesh Lab",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "515766",
+    "phone_number": "+91 97412 52700",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Circle, Pavagada, near Sbi Bank, Y N Hosakote, Karnataka 572141",
+    "area": "Hosakote",
+    "latitude": 14.2803218,
+    "longitude": 77.17529689999999,
+    "place_id": "ChIJ3ZQVAFzhsDsRIAc3hGeNs-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZQVAFzhsDsRIAc3hGeNs-w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:18:58"
+  },
+  {
+    "business_name": "Kiran Polyclinic and Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "515766",
+    "phone_number": "+91 73385 10483",
+    "website": "https://kiranpolyclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 1757,
+    "address": "1st floor, Canara Towers, Lombard Memorial Hospital Rd, Kadekoppala, Chitpady, Udupi, Karnataka 576101",
+    "area": "Kadekoppala, Chitpady",
+    "latitude": 13.3328131,
+    "longitude": 74.74854289999999,
+    "place_id": "ChIJcZmGVWy7vDsRx9bBxu9tIF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZmGVWy7vDsRx9bBxu9tIF4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:18:59"
+  }
+]

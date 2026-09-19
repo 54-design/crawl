@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pure Clean Sambalpur",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "515871",
+    "phone_number": "+91 78559 56088",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Back side of, Sai Mandir Rd, shantinagar, Budharaja, Sambalpur, Odisha 768004",
+    "area": "shantinagar, Budharaja",
+    "latitude": 21.4826336,
+    "longitude": 83.9755982,
+    "place_id": "ChIJk5ijUnsXIToRG0VA7zhUS0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5ijUnsXIToRG0VA7zhUS0w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:20"
+  },
+  {
+    "business_name": "Gasun Home Care",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency, Child care agency, Home health care service, Nursing agency, Patients support association",
+    "pincode": "515871",
+    "phone_number": "+91 80 6986 8516",
+    "website": "http://www.gasunhomecare.in/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Nehru Nagar Rd, Narmada Nagar, Bilaspur, Chhattisgarh 495001",
+    "area": "515871",
+    "latitude": 22.0900604,
+    "longitude": 82.1277561,
+    "place_id": "ChIJdcgSO6oLKDoRjWiP-txBttk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcgSO6oLKDoRjWiP-txBttk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:46:20"
+  }
+]

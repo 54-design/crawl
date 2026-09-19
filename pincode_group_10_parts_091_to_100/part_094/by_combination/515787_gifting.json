@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "515787",
+    "phone_number": "+91 63043 06684",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Housing Board Colony, Anantapur, Andhra Pradesh 515001",
+    "area": "Housing Board Colony",
+    "latitude": 14.6589444,
+    "longitude": 77.60324489999999,
+    "place_id": "ChIJWxJ9GPxLsTsRPkdduET6MHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxJ9GPxLsTsRPkdduET6MHo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:26:37"
+  },
+  {
+    "business_name": "OyeGifts",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Florist, Flower delivery, Novelty store",
+    "pincode": "515787",
+    "phone_number": "8010997070",
+    "website": "https://www.oyegifts.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "B-68 Mahavir Enclave Dwarka (Near By - Dashrath Puri Metro Station), 8010997070, New Delhi, Delhi 110045",
+    "area": "Block B 3, Mahavir Enclave Part 1, Mahavir Enclave",
+    "latitude": 28.602834299999998,
+    "longitude": 77.077527,
+    "place_id": "ChIJI66HFDYbDTkRttRfFDOfp6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI66HFDYbDTkRttRfFDOfp6s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:26:38"
+  }
+]

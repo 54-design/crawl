@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sivaji Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "516105",
+    "phone_number": "+91 98491 13189",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 55,
+    "address": "Tirupati Road, beside padmasaliya kalyana mandapam, Buddayapalli, Kadapa, Reddipalle, Andhra Pradesh 516107",
+    "area": "Buddayapalli",
+    "latitude": 14.088235399999999,
+    "longitude": 79.2297833,
+    "place_id": "ChIJq93vEO5tszsRFYsWfThJHP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq93vEO5tszsRFYsWfThJHP4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:01:24"
+  },
+  {
+    "business_name": "Friends Auto Garage",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "516105",
+    "phone_number": "+91 90522 70790",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Bypass road, Jagadampalli, Koduru, Andhra Pradesh 516101",
+    "area": "Jagadampalli",
+    "latitude": 13.9597733,
+    "longitude": 79.3499861,
+    "place_id": "ChIJK5jCpGPVsjsRAKW_VHW1Ze4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5jCpGPVsjsRAKW_VHW1Ze4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:01:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vara prakasam's clouD kitcheN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12-9-7, Prakasaraopeta, Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Prakasaraopeta, Jagadamba Junction",
+    "latitude": 17.7143139,
+    "longitude": 83.30487839999999,
+    "place_id": "ChIJ41SegHJDOToRTM9YMJ4-ZXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41SegHJDOToRTM9YMJ4-ZXg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:50:26"
+  },
+  {
+    "business_name": "Siddu's Family Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Near Urmisavitramma Hospital line ,Apsara to Y junction, kadapa, Kadapa, Andhra Pradesh 516002",
+    "area": "N.G.O Colony",
+    "latitude": 14.473107299999999,
+    "longitude": 78.8364514,
+    "place_id": "ChIJR_cEXkJtszsRHJ5q4JA_gpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_cEXkJtszsRHJ5q4JA_gpw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:50:27"
+  }
+]

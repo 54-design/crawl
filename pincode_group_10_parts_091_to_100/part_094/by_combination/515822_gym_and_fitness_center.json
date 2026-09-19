@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sport Life Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym, Health consultant",
+    "pincode": "515822",
+    "phone_number": "+91 63038 89740",
+    "website": "https://sportlifefitnessclubaattapur.lovable.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Floor Pillar No 86, Sophria Plaza, beside Sophria Private Limited, 13-6-431/D/88, Hyderabad, Telangana 500006",
+    "area": "Konijeti Enclave, Moghal Nagar, Gudimalkapur",
+    "latitude": 17.3820819,
+    "longitude": 78.4297042,
+    "place_id": "ChIJo6nOOiqXyzsR6BK76vNAIik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6nOOiqXyzsR6BK76vNAIik",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:33:04"
+  },
+  {
+    "business_name": "Open gym ఓపెన్ జిమ్",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "515822",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "5R94+M5H, Peddakammavaripalli, Puttaparthi, Andhra Pradesh 515134",
+    "area": "Peddakammavaripalli",
+    "latitude": 14.1680912,
+    "longitude": 77.8049612,
+    "place_id": "ChIJn40UPlFlsTsRgC-fgR517nQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn40UPlFlsTsRgC-fgR517nQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:33:05"
+  }
+]

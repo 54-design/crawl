@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Maggam Works",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "515774",
+    "phone_number": "+91 91236 06715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Obuladev Nagar, near Balu general store, Obuldev Nagar, Housing Board Colony, Anantapur, Andhra Pradesh 515001",
+    "area": "Obuldev Nagar, Housing Board Colony",
+    "latitude": 14.664473599999999,
+    "longitude": 77.5961337,
+    "place_id": "ChIJR6L-iO9KsTsRsCj_ajDYJl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6L-iO9KsTsRsCj_ajDYJl0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:22:26"
+  },
+  {
+    "business_name": "Gentlemen Tailor",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515774",
+    "phone_number": "+91 94949 95890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Kabarasthan Rd, Pamidi, Andhra Pradesh 515775",
+    "area": "515774",
+    "latitude": 14.945044099999999,
+    "longitude": 77.5917376,
+    "place_id": "ChIJ5WAnLZe5tjsRWARdBJvfimQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WAnLZe5tjsRWARdBJvfimQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:22:28"
+  }
+]

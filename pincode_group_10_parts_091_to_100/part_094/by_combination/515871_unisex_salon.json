@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Look Gent's Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Facial spa, Hair salon, Skin care clinic",
+    "pincode": "515871",
+    "phone_number": "+91 72051 77601",
+    "website": "http://uniquelookgentsparlour.blogspot.com/",
+    "rating": 4.6,
+    "reviews_count": 92,
+    "address": "Mandalia, Brajrajnagar, Odisha 768216",
+    "area": "Mandalia",
+    "latitude": 21.846432699999998,
+    "longitude": 83.9166133,
+    "place_id": "ChIJVVUVAeTdIDoRwJENLPipDAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUVAeTdIDoRwJENLPipDAY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:45:51"
+  },
+  {
+    "business_name": "Hair concepts jharsuguda",
+    "search_category": "Unisex Salon",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515871",
+    "phone_number": "+91 95835 56767",
+    "website": "http://www.hairconcepts.in/",
+    "rating": 5,
+    "reviews_count": 163,
+    "address": "Sri Krishna tower, Sarbahal Rd, Sunarimunda, Sarbahal, Jharsuguda, Odisha 768201",
+    "area": "Sunarimunda, Sarbahal",
+    "latitude": 21.8295749,
+    "longitude": 84.0136948,
+    "place_id": "ChIJ8arsmxDhIDoR9vNQa1ThTRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8arsmxDhIDoR9vNQa1ThTRM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:45:51"
+  }
+]

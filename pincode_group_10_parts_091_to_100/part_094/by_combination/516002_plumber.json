@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Servixo",
+    "search_category": "Plumber",
+    "primary_category": "Business center",
+    "all_categories": "Business center, Electrician, Plumber",
+    "pincode": "516002",
+    "phone_number": "N/A",
+    "website": "https://vamsinani.my.canva.site/servixo-home-services",
+    "rating": 4.8,
+    "reviews_count": 69,
+    "address": "Kadapa Rd, Akkayapalli, Kadapa, Chinthakommadinne, Andhra Pradesh 516003",
+    "area": "Akkayapalli",
+    "latitude": 14.447566199999999,
+    "longitude": 78.806811,
+    "place_id": "ChIJR08MYwVzszsRkY3tp0R7niA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR08MYwVzszsRkY3tp0R7niA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:02"
+  },
+  {
+    "business_name": "Ruhaan air conditioner",
+    "search_category": "Plumber",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "516002",
+    "phone_number": "+91 93913 80038",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "W-21-221-002, Pulivendula road, Built Up Rd, near Parameswara School, Vinayaka Nagar, Mariyapuram, Andhra Pradesh 516003",
+    "area": "Vinayaka Nagar",
+    "latitude": 14.4803947,
+    "longitude": 78.8001627,
+    "place_id": "ChIJ7TjYjRFzszsRa2p2WdIMb5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TjYjRFzszsRa2p2WdIMb5s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:51:02"
+  }
+]

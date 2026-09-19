@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manju Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515721",
+    "phone_number": "+91 94903 30288",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kanigiri Rd, opp. Keetrhi Medical, Kota Reddy Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Kota Reddy Nagar",
+    "latitude": 15.2166657,
+    "longitude": 79.90313359999999,
+    "place_id": "ChIJFyrYfI4SSzoRKS_4-1s-hRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFyrYfI4SSzoRKS_4-1s-hRQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:33"
+  },
+  {
+    "business_name": "5star bakery&sweets",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515721",
+    "phone_number": "+91 97001 11000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kanigiri Rd, Sai Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Sai Nagar",
+    "latitude": 15.218072,
+    "longitude": 79.9086444,
+    "place_id": "ChIJw8a1j4USSzoR34Qmhpf6css",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8a1j4USSzoR34Qmhpf6css",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:04:33"
+  }
+]

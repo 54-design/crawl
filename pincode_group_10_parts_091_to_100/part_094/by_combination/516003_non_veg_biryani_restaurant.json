@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subhan Chicken Pakoda",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 42,
+    "address": "Shop No 2, Krishna Hall, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Ganagapeta",
+    "latitude": 14.4784492,
+    "longitude": 78.8255114,
+    "place_id": "ChIJUawNZx1zszsRbn0iKfGQD5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUawNZx1zszsRbn0iKfGQD5w",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:10"
+  },
+  {
+    "business_name": "Raju Gari Royyala Pakodi and Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Seafood restaurant",
+    "all_categories": "Seafood restaurant",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 33,
+    "address": "Chinna Chowk Bypass Rd, Muthrasupalle, N.G.O Colony, Chinna Chauku, Andhra Pradesh 516002",
+    "area": "Muthrasupalle, N.G.O Colony",
+    "latitude": 14.469236899999999,
+    "longitude": 78.83797849999999,
+    "place_id": "ChIJvQKSXVJzszsRsnJ7uDMUh6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQKSXVJzszsRsnJ7uDMUh6s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:10"
+  }
+]

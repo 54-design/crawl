@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvanand Beauty Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "515701",
+    "phone_number": "+91 95557 37888",
+    "website": "https://www.sarvanandcosmetics.in/",
+    "rating": 4.9,
+    "reviews_count": 113,
+    "address": "32, Singalpur Village, West Shalimar Bagh, Shalimar Bagh, New Delhi, Delhi, 110088",
+    "area": "Singalpur Village, West Shalimar Bagh, Shalimar Bagh",
+    "latitude": 28.7056746,
+    "longitude": 77.1554159,
+    "place_id": "ChIJz91cbYoBDTkRDq9caqel0Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz91cbYoBDTkRDq9caqel0Yg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:01:53"
+  },
+  {
+    "business_name": "Navkar Beauty Center",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty product supplier",
+    "pincode": "515701",
+    "phone_number": "+91 76201 19088",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 171,
+    "address": "Shop no.1, Kate Puram Rd, Nandanvan Colony, Vinayak Nagar, New Sangavi, pune, Pimpri-Chinchwad, Maharashtra 411061",
+    "area": "Nandanvan Colony, Vinayak Nagar, New Sangavi",
+    "latitude": 18.5832968,
+    "longitude": 73.815636,
+    "place_id": "ChIJ9UGSjC25wjsRi_khg0k3xe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UGSjC25wjsRi_khg0k3xe4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:01:53"
+  }
+]

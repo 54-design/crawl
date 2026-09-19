@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Easy Drive",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Smog inspection station",
+    "pincode": "516163",
+    "phone_number": "+91 90258 22666",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 720,
+    "address": "100 Feet Rd, opp. JK Towers, adj. RAJIV GHANDHI HOSPITAL, Mohan Nagar, Aruthra Nagar, Puducherry, 605005",
+    "area": "Mohan Nagar, Aruthra Nagar",
+    "latitude": 11.9393759,
+    "longitude": 79.8078862,
+    "place_id": "ChIJOzbTGPeuBhERNI4YLzIhLhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzbTGPeuBhERNI4YLzIhLhY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:25"
+  },
+  {
+    "business_name": "Citadel Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Tire repair shop, Wheel alignment service, Wheel store",
+    "pincode": "516163",
+    "phone_number": "+91 89295 74544",
+    "website": "https://stores.yokohama-india.com/tyre-shop-vadakkevila-kollam-36585/home",
+    "rating": 4.7,
+    "reviews_count": 120,
+    "address": "Zamzam Nagar 293, Pallimukku, Old NH 47, Vadakkevila, Kollam, Keralam 691010",
+    "area": "Zamzam Nagar, Vadakkevila",
+    "latitude": 8.873745099999999,
+    "longitude": 76.6290645,
+    "place_id": "ChIJsfPToGj9BTsR0rLGf4wexAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfPToGj9BTsR0rLGf4wexAk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:26:25"
+  }
+]

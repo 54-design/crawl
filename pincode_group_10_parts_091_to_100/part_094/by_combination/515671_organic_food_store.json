@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siva Milk Dairy",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "515671",
+    "phone_number": "+91 98855 72842",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yarragunta, Dharmavaram, Andhra Pradesh 515671",
+    "area": "515671",
+    "latitude": 14.3961323,
+    "longitude": 77.70710319999999,
+    "place_id": "ChIJa8h2awRDsTsRvW_kft5bu7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8h2awRDsTsRvW_kft5bu7E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:27"
+  },
+  {
+    "business_name": "NVK Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Natural goods store",
+    "pincode": "515671",
+    "phone_number": "+91 89858 99696",
+    "website": "https://www.facebook.com/NVKOrganics/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "17-241, TheruBazar MainRoad, near Mula Hotel, Main Bazar, Akkpedianera, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Main Bazar, Akkpedianera",
+    "latitude": 14.4140184,
+    "longitude": 77.72437529999999,
+    "place_id": "ChIJ12rADAVDsTsRbwWZhmUJm-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12rADAVDsTsRbwWZhmUJm-k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:57:27"
+  }
+]

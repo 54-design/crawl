@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishan Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Bus ticket agency, Travel agency",
+    "pincode": "515787",
+    "phone_number": "+91 94283 45055",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 29,
+    "address": "Roowala Building, Kuvadva Rd, near Gokul Hospital, Bhagvati Park, Ranchhod Nagar, Rajkot, Gujarat 360003",
+    "area": "Bhagvati Park, Ranchhod Nagar",
+    "latitude": 22.3074282,
+    "longitude": 70.81679439999999,
+    "place_id": "ChIJaSD85AC2WTkRzLr902YGuG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSD85AC2WTkRzLr902YGuG4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:26:09"
+  },
+  {
+    "business_name": "Sahjanand Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515787",
+    "phone_number": "+91 99099 11306",
+    "website": "http://shreesahjanandtravels.com/",
+    "rating": 3.6,
+    "reviews_count": 296,
+    "address": "Manas Complex, Jodhpur, Ahmedabad, 4 Rasta, B-1, Satellite Rd, Jodhpur Village, Ahmedabad, Gujarat 380015",
+    "area": "Jodhpur Village",
+    "latitude": 23.025560499999997,
+    "longitude": 72.5252835,
+    "place_id": "ChIJDwlVM8yEXjkRfD4e2Zh-QWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwlVM8yEXjkRfD4e2Zh-QWo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:26:12"
+  }
+]

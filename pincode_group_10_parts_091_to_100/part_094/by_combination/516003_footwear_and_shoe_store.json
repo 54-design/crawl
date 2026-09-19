@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion foot wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516003",
+    "phone_number": "+91 70753 67075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Tilak Nagar, Balaji Nagar, Nagarajupeta, Andhra Pradesh 516001",
+    "area": "Tilak Nagar, Balaji Nagar",
+    "latitude": 14.465316999999999,
+    "longitude": 78.8170556,
+    "place_id": "ChIJE3JdaQBzszsRt2yEjLPEN7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3JdaQBzszsRt2yEjLPEN7E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:19"
+  },
+  {
+    "business_name": "Sri Rama Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "516003",
+    "phone_number": "+91 93472 07060",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Market yard complex, Cross road, Kamalapuram, Andhra Pradesh 516289",
+    "area": "516003",
+    "latitude": 14.5830775,
+    "longitude": 78.65674609999999,
+    "place_id": "ChIJrW7oqrODszsR4iaT0MRNFCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrW7oqrODszsR4iaT0MRNFCw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:19"
+  }
+]

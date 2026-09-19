@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premier Associates",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service",
+    "pincode": "516115",
+    "phone_number": "+91 97039 66885",
+    "website": "https://www.pawaterproofing.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House-no# 6, Vinayaka Complex, 10-28/1/D, Raju Colony Rd, Vinayak Nagar, Balanagar, Hyderabad, Telangana 500042",
+    "area": "Vinayak Nagar, Balanagar",
+    "latitude": 17.4654128,
+    "longitude": 78.4562469,
+    "place_id": "ChIJgV_J1laRyzsRx_PDqS8IM68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV_J1laRyzsRx_PDqS8IM68",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:44"
+  },
+  {
+    "business_name": "Shourya Waterproofing Solutions (Dr. Fixit and FOSROC)",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service",
+    "pincode": "516115",
+    "phone_number": "+91 99596 42060",
+    "website": "http://www.shouryawaterproofingsolutions.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "OU, 8-1-284, 209/A, opposite to HDFC Bank and SBI Bank ATM, OU Colony, Shaikpet, Hyderabad, Telangana 500008",
+    "area": "OU Colony, Shaikpet",
+    "latitude": 17.4088077,
+    "longitude": 78.3947264,
+    "place_id": "ChIJyV-ZsBqZyzsRgAV_eIfDX6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyV-ZsBqZyzsRgAV_eIfDX6A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:08:44"
+  }
+]

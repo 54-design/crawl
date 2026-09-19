@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VLNB world mafia",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515812",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Kottalapalli villege, Kottalapalli, bc colony, Velpumadugu, Andhra Pradesh 515870",
+    "area": "Kottalapalli, bc colony",
+    "latitude": 15.0147017,
+    "longitude": 77.2210356,
+    "place_id": "ChIJH0VQbYjftjsR8uup0-Ok-PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0VQbYjftjsR8uup0-Ok-PI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:31:23"
+  },
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "515812",
+    "phone_number": "+91 92480 17232",
+    "website": "http://www.navata.com/",
+    "rating": 2.8,
+    "reviews_count": 12,
+    "address": "D.NO.8-4-65, CVV NAGAR, Uravakonda, ANANTAPUR, Andhra Pradesh 515812",
+    "area": "CVV NAGAR",
+    "latitude": 14.9376047,
+    "longitude": 77.2642692,
+    "place_id": "ChIJeZun9SPZtjsRP2mzduyBA2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZun9SPZtjsRP2mzduyBA2E",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:31:25"
+  }
+]

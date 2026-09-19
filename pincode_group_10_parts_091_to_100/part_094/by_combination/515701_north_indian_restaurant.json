@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Mitra",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "515701",
+    "phone_number": "+91 84639 13135",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "1/143, Road No. 1, Georgepet, Rangaswamy Nagar, Anantapur, Andhra Pradesh 515004",
+    "area": "Georgepet, Rangaswamy Nagar",
+    "latitude": 14.6896236,
+    "longitude": 77.59442949999999,
+    "place_id": "ChIJmYLXac5KsTsReojNTJq6YFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYLXac5KsTsReojNTJq6YFU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:01:06"
+  },
+  {
+    "business_name": "ITIHAKALA RESTAURANT (Pure Veg) HALEBIDU / BELUR",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Lunch restaurant, Restaurant",
+    "pincode": "515701",
+    "phone_number": "+91 70193 55939",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 2612,
+    "address": "Itihakala, 1 km from Hoysaleshwara Temple Hagare, Road, Halebeedu, Karnataka 573121",
+    "area": "515701",
+    "latitude": 13.2052338,
+    "longitude": 75.9927998,
+    "place_id": "ChIJeztRCAzLujsR1X2DlVz0X9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeztRCAzLujsR1X2DlVz0X9Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:01:07"
+  }
+]

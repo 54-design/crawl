@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cupcake bakery (homemade)",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "516128",
+    "phone_number": "+91 90309 72258",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 199,
+    "address": "Madhava towers, Lakshmi St, opposite Income Tax Office, Daba Gardens, Allipuram, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.7159416,
+    "longitude": 83.3002362,
+    "place_id": "ChIJIbYdWABDOToRJPBdKNgPI6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbYdWABDOToRJPBdKNgPI6U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:23"
+  },
+  {
+    "business_name": "Sri Raja Rajeswari Distributors",
+    "search_category": "Patisserie",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "516128",
+    "phone_number": "+91 95532 39549",
+    "website": "http://srrbakersmart.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "NTR NAGAR-2, 8-1-107/4, opp. panthulugari meda, near VESPA Show Room, JOGAVANIPALEM, Gajuwaka, Andhra Pradesh 530026",
+    "area": "JOGAVANIPALEM, Gajuwaka",
+    "latitude": 17.6906864,
+    "longitude": 83.20728489999999,
+    "place_id": "ChIJ5W1kPelpOToRv0ObmJoajLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5W1kPelpOToRv0ObmJoajLA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:25"
+  }
+]

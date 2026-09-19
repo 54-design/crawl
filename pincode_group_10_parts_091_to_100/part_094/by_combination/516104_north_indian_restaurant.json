@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba, Punjabi restaurant",
+    "pincode": "516104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "589Q+C49, Chitvel - Pullampeta Rd, Chitvel, Andhra Pradesh 516104",
+    "area": "516104",
+    "latitude": 14.168526499999999,
+    "longitude": 79.3378487,
+    "place_id": "ChIJHxmNy_UsszsRTFzjCZnCIqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxmNy_UsszsRTFzjCZnCIqw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:13"
+  },
+  {
+    "business_name": "New Grand Arya Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "516104",
+    "phone_number": "+91 77948 03064",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH 716, Utukuru, Andhra Pradesh 516115",
+    "area": "516104",
+    "latitude": 14.186328,
+    "longitude": 79.1674154,
+    "place_id": "ChIJOwhO_sslszsR6QMUgUObd_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwhO_sslszsR6QMUgUObd_g",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:59:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSR Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515767",
+    "phone_number": "+91 74181 00313",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "IT CORRIDOR, EXPRESS WAY, 1/609, OMR Service Rd, Seevaram, Thoraipakkam, Tamil Nadu 600097",
+    "area": "Seevaram",
+    "latitude": 12.949485399999999,
+    "longitude": 80.2404066,
+    "place_id": "ChIJuyW5fgNdUjoRzRai8lYs2Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyW5fgNdUjoRzRai8lYs2Bw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:22:00"
+  },
+  {
+    "business_name": "CENTRAL",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "https://www.centralbankofindia.co.in/en",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Treasure Island Next Mall Regal Circle, RNT Marg, Indore, Madhya Pradesh 452001",
+    "area": "Flim Colony, South Tukoganj",
+    "latitude": 22.718134,
+    "longitude": 75.87129709999999,
+    "place_id": "ChIJSSd89_r9YjkR0FkhdqAAIjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSd89_r9YjkR0FkhdqAAIjg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:22:00"
+  }
+]

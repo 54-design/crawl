@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maity Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "515767",
+    "phone_number": "+91 73649 61044",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "New, Rakhaldas Market, Shyampur, Narikelabar, West Bengal 711314",
+    "area": "515767",
+    "latitude": 22.2964794,
+    "longitude": 88.0294385,
+    "place_id": "ChIJa1FxLwGNAjoRdP76KrB9VL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1FxLwGNAjoRdP76KrB9VL4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:55"
+  },
+  {
+    "business_name": "MANIKYASIRI TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "515767",
+    "phone_number": "+91 96114 63430",
+    "website": "http://mstbuses.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MANIKYASIRI TRAVELS, 515767, India",
+    "area": "515767",
+    "latitude": 18.052488999999998,
+    "longitude": 77.21850859999999,
+    "place_id": "ChIJd5TPZ241pyARNjkhCGO_DkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5TPZ241pyARNjkhCGO_DkA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "515803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22/292-1, Ankalamma Temple Street, Housing Board Colony, Donimukkala, Guntakal, Andhra Pradesh 515803",
+    "area": "Housing Board Colony, Donimukkala",
+    "latitude": 15.1507721,
+    "longitude": 77.3802774,
+    "place_id": "ChIJwRFSIQDvtjsRRKDpbv-Ozlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRFSIQDvtjsRRKDpbv-Ozlo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:29:24"
+  },
+  {
+    "business_name": "Abhayaprada Super Speciality Hospital in Mahbubnagar",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Emergency care service, Eye care center, Heart hospital",
+    "pincode": "515803",
+    "phone_number": "+91 85422 53999",
+    "website": "https://abhayapradahospitals.com/",
+    "rating": 4.7,
+    "reviews_count": 450,
+    "address": "1-4-2/F Near Setty Complex, 40 House Colony, Rajendra Nagar, New Town, Mahbubnagar, Telangana 509001",
+    "area": "Rajendra Nagar",
+    "latitude": 16.750804,
+    "longitude": 78.001648,
+    "place_id": "ChIJ____P6QoyjsRWi46adQIUHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P6QoyjsRWi46adQIUHM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:29:24"
+  }
+]

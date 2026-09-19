@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "U shiva",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "515870",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22CH+XWF, Siddarampuram, Andhra Pradesh 515871",
+    "area": "515870",
+    "latitude": 15.0224356,
+    "longitude": 77.0298001,
+    "place_id": "ChIJaRf-XgAjtzsRzHHffIflBOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRf-XgAjtzsRzHHffIflBOg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:20"
+  },
+  {
+    "business_name": "Srikanth hotel",
+    "search_category": "Bar and Pub",
+    "primary_category": "Night club",
+    "all_categories": "Night club",
+    "pincode": "515870",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "468V+XM3, Gadekallu, Andhra Pradesh 515842",
+    "area": "515870",
+    "latitude": 15.117377,
+    "longitude": 77.2441583,
+    "place_id": "ChIJV0YkSgDhtjsR9kmU5qgmAb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0YkSgDhtjsR9kmU5qgmAb8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:43:24"
+  }
+]

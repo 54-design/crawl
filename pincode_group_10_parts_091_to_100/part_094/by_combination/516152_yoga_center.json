@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parvati Nagar Yoga Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "516152",
+    "phone_number": "+91 70133 61157",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Parvathi Nagar, FCI Nagar, Marripalem, Visakhapatnam, Andhra Pradesh 530018",
+    "area": "Parvathi Nagar, FCI Nagar, Marripalem",
+    "latitude": 17.7453681,
+    "longitude": 83.2492149,
+    "place_id": "ChIJVbEX-rJnOToRIqCmXiXpT3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbEX-rJnOToRIqCmXiXpT3s",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:41"
+  },
+  {
+    "business_name": "Arjun yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "516152",
+    "phone_number": "+91 95501 70783",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near S3 sports arena, Sector 8, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Sector 8, MVP Colony",
+    "latitude": 17.7392839,
+    "longitude": 83.3371114,
+    "place_id": "ChIJZbY6uqRFOToRsYS0bJ9meq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbY6uqRFOToRsYS0bJ9meq8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:43"
+  }
+]

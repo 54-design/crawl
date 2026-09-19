@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Midoz Beauty Mart",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Beauty product supplier, Beauty Products Wholesaler, Cosmetics store, Cosmetics wholesaler",
+    "pincode": "515601",
+    "phone_number": "+91 98474 06080",
+    "website": "https://midozbeauty.com/",
+    "rating": 4.7,
+    "reviews_count": 891,
+    "address": "Ground Floor, Global Village, Bank Rd, Kannur, Keralam 670001",
+    "area": "515601",
+    "latitude": 11.8684508,
+    "longitude": 75.36583209999999,
+    "place_id": "ChIJlWz4tcoipDsRLYQk007aOxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWz4tcoipDsRLYQk007aOxM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:46:11"
+  },
+  {
+    "business_name": "Fusion Fly",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "515601",
+    "phone_number": "+91 62352 37452",
+    "website": "https://fusionflycosmeticsstore.com/",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Popular Building, 60/5691, Mooriyadu Rd, Puthiyapalam, Palayam, Kozhikode, Keralam 673002",
+    "area": "Puthiyapalam, Palayam",
+    "latitude": 11.2444922,
+    "longitude": 75.7935754,
+    "place_id": "ChIJpQ5RqxpZpjsRhIcufic6tvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQ5RqxpZpjsRhIcufic6tvI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:46:11"
+  }
+]

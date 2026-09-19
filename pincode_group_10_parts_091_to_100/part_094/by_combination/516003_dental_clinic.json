@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ira's dental care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "516003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D/no 56/215, beside sai baba school, near iti circle, Shastri Nagar, Ravindra Nagar, Kadapa, Akkayapalle, Andhra Pradesh 516001",
+    "area": "Shastri Nagar, Ravindra Nagar",
+    "latitude": 14.4670592,
+    "longitude": 78.8160616,
+    "place_id": "ChIJydBSawBzszsRfABkwBuq-yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydBSawBzszsRfABkwBuq-yc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:26"
+  },
+  {
+    "business_name": "Subhadra Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "516003",
+    "phone_number": "+91 70366 17979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "#21/462, Palem Papaiah St, Opposite Saibaba Iron Mart, Urlagattu Podu, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "Urlagattu Podu, Ganagapeta",
+    "latitude": 14.4775192,
+    "longitude": 78.82452889999999,
+    "place_id": "ChIJ0R5bcBtyszsRvMo-lqRPRV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0R5bcBtyszsRvMo-lqRPRV4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:52:29"
+  }
+]

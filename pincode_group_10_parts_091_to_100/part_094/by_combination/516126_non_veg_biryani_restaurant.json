@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani Inc.",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "516126",
+    "phone_number": "+91 75077 84848",
+    "website": "http://biryaniinc.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Biryani Inc, Bajaj Nagar Rd, opp. VNIT Colleges Gate, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1287442,
+    "longitude": 79.0582135,
+    "place_id": "ChIJXy7VUpbB1DsRuSqTEhNXemg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXy7VUpbB1DsRuSqTEhNXemg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:46"
+  },
+  {
+    "business_name": "Shivaji maharaj family restsurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "516126",
+    "phone_number": "+91 90004 06428",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 59,
+    "address": "74P7+3VR, Nandalur, Andhra Pradesh 516150",
+    "area": "516126",
+    "latitude": 14.2852474,
+    "longitude": 79.1146322,
+    "place_id": "ChIJ9ft1CwA7szsRReWlyVh3ibU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ft1CwA7szsRReWlyVh3ibU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:09:49"
+  }
+]

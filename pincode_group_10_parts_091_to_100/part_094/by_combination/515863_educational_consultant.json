@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OM Educational Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "515863",
+    "phone_number": "+91 90300 03416",
+    "website": "http://educationalguide.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "401, Gayathri Arcade, Nehru Nagar Colony, West Marredpally, Secunderabad, Telangana 500026",
+    "area": "Nehru Nagar Colony, West Marredpally",
+    "latitude": 17.4429834,
+    "longitude": 78.5047384,
+    "place_id": "ChIJqaoWcjuayzsRw0Ng7T24f9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqaoWcjuayzsRw0Ng7T24f9U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:38:58"
+  },
+  {
+    "business_name": "ULR Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "515863",
+    "phone_number": "+91 81420 11245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna Park, Palakonda Rd, New Colony, Srikakulam, Andhra Pradesh 532001",
+    "area": "New Colony",
+    "latitude": 18.298132,
+    "longitude": 83.8947542,
+    "place_id": "ChIJoRwv0HoVPDoRFAF6lxXGLto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRwv0HoVPDoRFAF6lxXGLto",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:38:58"
+  }
+]

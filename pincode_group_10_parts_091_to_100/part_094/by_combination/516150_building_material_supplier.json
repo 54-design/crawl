@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat paints",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "516150",
+    "phone_number": "+91 83097 62963",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "7495+WM4, Railway Station Rd, Nagireddipalle, Andhra Pradesh 516150",
+    "area": "516150",
+    "latitude": 14.269791,
+    "longitude": 79.1092393,
+    "place_id": "ChIJr0Twz6Y9szsRIamgwDVi5fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0Twz6Y9szsRIamgwDVi5fw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:24"
+  },
+  {
+    "business_name": "Royal enterpriceses",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "516150",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7495+X85, MDR29, Nagireddipalle, Andhra Pradesh 516150",
+    "area": "516150",
+    "latitude": 14.2698811,
+    "longitude": 79.1083666,
+    "place_id": "ChIJGTQRRFQ9szsRlZTUY_FSMJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTQRRFQ9szsRlZTUY_FSMJc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WHEELZ AUTO DETAILING",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto bodywork mechanic, Auto painting, Auto restoration service, Auto Accessories Store, Mechanic",
+    "pincode": "516151",
+    "phone_number": "+91 91768 82299",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Landmark, 30, Mudichur Rd, opp. to Annai Mathi Bakery, Chennai, Mudichur, Tamil Nadu 600048",
+    "area": "516151",
+    "latitude": 12.9094226,
+    "longitude": 80.06901549999999,
+    "place_id": "ChIJx1apHqz1UjoRyXc_TK7-YAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1apHqz1UjoRyXc_TK7-YAI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:58"
+  },
+  {
+    "business_name": "SK Auto-Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Tire shop",
+    "pincode": "516151",
+    "phone_number": "+91 75022 12121",
+    "website": "https://www.skautodetailing.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1/723, Mudichur Rd, Lingam Nagar, Mudichur, Tamil Nadu 600048",
+    "area": "Lingam Nagar",
+    "latitude": 12.9100808,
+    "longitude": 80.069668,
+    "place_id": "ChIJP-7TkLT1UjoRN7cV-i85sds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-7TkLT1UjoRN7cV-i85sds",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:20:58"
+  }
+]

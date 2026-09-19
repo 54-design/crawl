@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515741",
+    "phone_number": "+91 81793 41127",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Unnamed Road, Gangavaram, Andhra Pradesh 515761",
+    "area": "515741",
+    "latitude": 14.6415957,
+    "longitude": 77.1995597,
+    "place_id": "ChIJ53arinorsTsRUOCOEocoFuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53arinorsTsRUOCOEocoFuY",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:09:54"
+  },
+  {
+    "business_name": "yogi palace, hkl",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515741",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Q44Q+JFJ, Hanakanahal, Andhra Pradesh 515741",
+    "area": "515741",
+    "latitude": 14.756578,
+    "longitude": 77.1386521,
+    "place_id": "ChIJny403yQrtzsRwWHRKF-0V-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJny403yQrtzsRwWHRKF-0V-I",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:09:54"
+  }
+]

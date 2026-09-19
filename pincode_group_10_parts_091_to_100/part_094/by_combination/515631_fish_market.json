@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish",
+    "search_category": "Fish Market",
+    "primary_category": "Fish & chips restaurant",
+    "all_categories": "Fish & chips restaurant",
+    "pincode": "515631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GV4X+PCX, Marrimakula Palli, Chinnachigullarevu, Andhra Pradesh 515631",
+    "area": "Marrimakula Palli",
+    "latitude": 14.506850499999999,
+    "longitude": 77.89859539999999,
+    "place_id": "ChIJZbpdBtZZsTsRgxtE9kUKB2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbpdBtZZsTsRgxtE9kUKB2A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:50:32"
+  },
+  {
+    "business_name": "Atmakur Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "515631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 216,
+    "address": "8RR3+2XF, Atmakur, Telangana 509131",
+    "area": "515631",
+    "latitude": 16.340050299999998,
+    "longitude": 77.8049099,
+    "place_id": "ChIJmS4dBEP6yTsRn1Q6h5By5wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmS4dBEP6yTsRn1Q6h5By5wc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:50:34"
+  }
+]

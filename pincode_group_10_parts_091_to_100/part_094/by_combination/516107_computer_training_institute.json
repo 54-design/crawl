@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MMK COMPUTER EDUCATION AND TRAINING CENTRE",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Computer service, Education center, Game store, Internet cafe",
+    "pincode": "516107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6/861-A, Saraswathipuram, Rajampet, Andhra Pradesh 516115",
+    "area": "Saraswathipuram",
+    "latitude": 14.183895699999999,
+    "longitude": 79.1526009,
+    "place_id": "ChIJAZc2-VYlszsRWWj85vu7w5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZc2-VYlszsRWWj85vu7w5A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:03:40"
+  },
+  {
+    "business_name": "TrinityITS",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Software Training Institute",
+    "pincode": "516107",
+    "phone_number": "+91 84989 49089",
+    "website": "http://trinity-its.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, 3-125-15, Y.B.N Palli, Kadapa, Rajampet, Andhra Pradesh 516115",
+    "area": "Y.B.N Palli",
+    "latitude": 14.185093499999999,
+    "longitude": 79.16104059999999,
+    "place_id": "ChIJx7i_XmslszsR04aTdRfzm8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7i_XmslszsR04aTdRfzm8k",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:03:44"
+  }
+]

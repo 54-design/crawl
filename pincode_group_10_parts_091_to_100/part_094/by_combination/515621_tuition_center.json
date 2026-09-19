@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Silk forming",
+    "search_category": "Tuition Center",
+    "primary_category": "Private Tutor",
+    "all_categories": "Private Tutor",
+    "pincode": "515621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Motarchintalapalli, Motarchintalapalle, Andhra Pradesh 515621",
+    "area": "515621",
+    "latitude": 14.2288936,
+    "longitude": 77.3956524,
+    "place_id": "ChIJh08NlZYXsTsRB5LL3wrU9Zg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh08NlZYXsTsRB5LL3wrU9Zg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:49:54"
+  },
+  {
+    "business_name": "Kbr Gowtham Online Service",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "515621",
+    "phone_number": "+91 98857 61831",
+    "website": "https://www.kbrgowtham.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ysr Circle, Kambadur, Andhra Pradesh 515765",
+    "area": "515621",
+    "latitude": 14.3450511,
+    "longitude": 77.2288305,
+    "place_id": "ChIJuTTYqUIhsTsRiJgYdgEbRx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTTYqUIhsTsRiJgYdgEbRx4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:49:55"
+  }
+]

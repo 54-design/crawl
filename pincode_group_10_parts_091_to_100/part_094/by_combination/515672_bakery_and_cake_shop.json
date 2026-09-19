@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "515672",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 74,
+    "address": "Sri Sathya Sai Prasanthi Nilayam, Puttaparthi, Andhra Pradesh 515134",
+    "area": "515672",
+    "latitude": 14.1651157,
+    "longitude": 77.8071083,
+    "place_id": "ChIJv8VpO8lksTsRCamvHU28Sa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8VpO8lksTsRCamvHU28Sa8",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:59:15"
+  },
+  {
+    "business_name": "7th heaven",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "515672",
+    "phone_number": "+91 94403 68000",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "MJM2+299, Kamalanagar, near Srikantam circle, R.F road, beside Gupta pani puri center, Anantapur, Andhra Pradesh 515001",
+    "area": "Kamalanagar",
+    "latitude": 14.682546599999998,
+    "longitude": 77.60099249999999,
+    "place_id": "ChIJK4kYy39LsTsRH5VzTiFSCQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4kYy39LsTsRH5VzTiFSCQg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:59:18"
+  }
+]

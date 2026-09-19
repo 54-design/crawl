@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather world",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "515641",
+    "phone_number": "+91 94864 34786",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Shop No. 7, Lababin complex, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.500557399999998,
+    "longitude": 80.6419481,
+    "place_id": "ChIJT5hHtVv7NToRUuhVODneR2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5hHtVv7NToRUuhVODneR2U",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:52:32"
+  },
+  {
+    "business_name": "Vamsi Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Handbags shop, Luggage store, Watch store",
+    "pincode": "515641",
+    "phone_number": "+91 95813 73939",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 19,
+    "address": "Station Rd, opp MRO Office, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Ameensaheb Palem, Arundelpet",
+    "latitude": 16.2348641,
+    "longitude": 80.04781729999999,
+    "place_id": "ChIJiw09UxmBSjoRC7c59zYSLzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiw09UxmBSjoRC7c59zYSLzg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:52:32"
+  }
+]

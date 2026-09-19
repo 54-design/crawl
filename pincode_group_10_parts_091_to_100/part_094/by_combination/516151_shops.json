@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basha General Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "516151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Village, Tangutur - Bestapalli Cross Rd, opp. Masjid, Nandalur, Andhra Pradesh 516151",
+    "area": "516151",
+    "latitude": 14.2955727,
+    "longitude": 79.2220202,
+    "place_id": "ChIJ3x7-qg8xszsRxq7lfM4W0Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3x7-qg8xszsRxq7lfM4W0Ms",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:09"
+  },
+  {
+    "business_name": "Puncture shop Hindustan Tyre Works",
+    "search_category": "Shops",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "516151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "74F7+PX2, Nandalur, Andhra Pradesh 516150",
+    "area": "516151",
+    "latitude": 14.274262,
+    "longitude": 79.1148867,
+    "place_id": "ChIJOeY4OVw7szsRI7ysp6gAfNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeY4OVw7szsRI7ysp6gAfNM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:22:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Kumar",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "515766",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Busstand, Amarapur, Andhra Pradesh 515281",
+    "area": "515766",
+    "latitude": 14.1277583,
+    "longitude": 76.9779605,
+    "place_id": "ChIJ62kIYgXvsDsROiY3rfyIs6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62kIYgXvsDsROiY3rfyIs6Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:19:24"
+  },
+  {
+    "business_name": "DEW DROP SALOON & SPA",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "515766",
+    "phone_number": "+91 89043 13564",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "NH66, Trasi, Karnataka 576247",
+    "area": "515766",
+    "latitude": 13.687823199999999,
+    "longitude": 74.6566689,
+    "place_id": "ChIJC8s3pWeNvDsRyAvuC5XYdJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8s3pWeNvDsRyAvuC5XYdJ4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:19:27"
+  }
+]

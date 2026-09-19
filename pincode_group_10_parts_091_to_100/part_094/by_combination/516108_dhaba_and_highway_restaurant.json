@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeet Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dhaba, Punjabi restaurant",
+    "pincode": "516108",
+    "phone_number": "+91 90418 81038",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 957,
+    "address": "Near, Cross Road, Akepadu, Kadapa, Andhra Pradesh 516126",
+    "area": "516108",
+    "latitude": 14.2349306,
+    "longitude": 79.1222167,
+    "place_id": "ChIJ0bh19k87szsROyw97xr8NIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bh19k87szsROyw97xr8NIk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:27"
+  },
+  {
+    "business_name": "Kesariya Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "516108",
+    "phone_number": "+91 83682 54223",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 521,
+    "address": "Pocket-6, Sector-A/10, Sector A10, Narela, Delhi, 110040",
+    "area": "Pocket-6, Sector-A/10, Sector A10, Narela",
+    "latitude": 28.8437953,
+    "longitude": 77.100017,
+    "place_id": "ChIJz8TpxaepDTkRguq3eBt28Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8TpxaepDTkRguq3eBt28Ok",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:04:27"
+  }
+]

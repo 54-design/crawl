@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GALAXY GARMENTS",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "516105",
+    "phone_number": "+91 97045 88845",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop1, Dattasai Complex, YV Street, Ganagapeta, Kadapa, Andhra Pradesh 516001",
+    "area": "YV Street, Ganagapeta",
+    "latitude": 14.48081,
+    "longitude": 78.823166,
+    "place_id": "ChIJNe7xZIFzszsRj4YIpA6wmGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNe7xZIFzszsRj4YIpA6wmGs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:01:01"
+  },
+  {
+    "business_name": "Siva ready made cloth showroom",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "516105",
+    "phone_number": "+91 91004 48041",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pullampeta, Andhra Pradesh 516107",
+    "area": "516105",
+    "latitude": 14.123615899999999,
+    "longitude": 79.2079273,
+    "place_id": "ChIJIVtJNnwpszsRgtcu--nIPDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVtJNnwpszsRgtcu--nIPDs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:01:02"
+  }
+]

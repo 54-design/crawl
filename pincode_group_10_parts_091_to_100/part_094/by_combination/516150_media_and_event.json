@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Kanya Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "516150",
+    "phone_number": "+91 80998 77938",
+    "website": "https://instagram.com/srikanyaevents",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Housing board colony, opp. Good shepherd school, APHB Colony, Lalitanagar, Nandyala, Andhra Pradesh 518501",
+    "area": "APHB Colony, Lalitanagar",
+    "latitude": 15.4697319,
+    "longitude": 78.4962352,
+    "place_id": "ChIJTZLsSSNTtDsRkwLdYzLDe7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZLsSSNTtDsRkwLdYzLDe7Q",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:43"
+  },
+  {
+    "business_name": "Media Network Event GmbH",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "516150",
+    "phone_number": "0170 9009000",
+    "website": "http://www.media-network.de/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Media Network Event GmbH, 516150, India",
+    "area": "516150",
+    "latitude": 51.175807,
+    "longitude": 10.4541194,
+    "place_id": "ChIJR1oUwKFzno8RXsptOLzeawk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1oUwKFzno8RXsptOLzeawk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:19:44"
+  }
+]

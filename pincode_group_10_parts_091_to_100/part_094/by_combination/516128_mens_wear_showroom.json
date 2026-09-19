@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Max Fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "516128",
+    "phone_number": "+91 91338 43523",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "YBN Palli Rd, Sainagar, Rajampet, Andhra Pradesh 516115",
+    "area": "Sainagar",
+    "latitude": 14.1947048,
+    "longitude": 79.1611981,
+    "place_id": "ChIJvQND8hslszsRViTKw3z8EKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQND8hslszsRViTKw3z8EKU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:30"
+  },
+  {
+    "business_name": "Mark Tailors",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "516128",
+    "phone_number": "+91 63034 85750",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M, 1,bazzer Street Chakrampet Bazzer Street, Post, Chakrampeta, Penagaluru, Andhra Pradesh 516128",
+    "area": "Chakrampeta",
+    "latitude": 14.2464266,
+    "longitude": 79.2407095,
+    "place_id": "ChIJf9F8nskxszsRZKQrpJlL7Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9F8nskxszsRZKQrpJlL7Xc",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:13:30"
+  }
+]

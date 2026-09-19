@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "515722",
+    "phone_number": "+91 99667 77896",
+    "website": "https://www.hapdaily.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna Reddy Complex, No. 4-600-1/2, Kalyandurgam Bypass Rd, Rudrampeta, Anantapur, Andhra Pradesh 515004",
+    "area": "Rudrampeta",
+    "latitude": 14.6835046,
+    "longitude": 77.57897439999999,
+    "place_id": "ChIJcdL55MFLsTsRaPIf0d6qWkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdL55MFLsTsRaPIf0d6qWkA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:15"
+  },
+  {
+    "business_name": "Firangi falooda Anantapur",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "515722",
+    "phone_number": "+91 63054 06854",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "MHPW+5W9, beside Lakshmi ganapati temple, Azad Nagar, Srinivas Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Azad Nagar, Srinivas Nagar",
+    "latitude": 14.6854125,
+    "longitude": 77.5973594,
+    "place_id": "ChIJfS8ZjMVLsTsRJtsgjVHdXnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfS8ZjMVLsTsRJtsgjVHdXnI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:16"
+  }
+]

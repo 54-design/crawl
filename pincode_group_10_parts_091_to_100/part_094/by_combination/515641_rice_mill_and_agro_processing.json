@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SLV Modern Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "515641",
+    "phone_number": "+91 81211 11812",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Survey no.177-3D, Kunuthuru Rural, Dharmavaram, Andhra Pradesh 515672",
+    "area": "515641",
+    "latitude": 14.434213699999999,
+    "longitude": 77.6615879,
+    "place_id": "ChIJI9htjuZFsTsRzSFC0B2DaDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9htjuZFsTsRzSFC0B2DaDk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:53:45"
+  },
+  {
+    "business_name": "Gangi Reddy Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "515641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7-109, Pothukunta, Dharmavaram, Kunuthuru Rural, Andhra Pradesh 515672",
+    "area": "Pothukunta",
+    "latitude": 14.422403599999999,
+    "longitude": 77.6985576,
+    "place_id": "ChIJDRrCSwBDsTsRI8zZiywJgbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRrCSwBDsTsRI8zZiywJgbU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:53:45"
+  }
+]

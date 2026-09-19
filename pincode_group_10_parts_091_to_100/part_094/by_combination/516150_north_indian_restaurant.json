@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "McDee Restaurant - Nandalur Town",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "516150",
+    "phone_number": "+91 73967 68206",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 25,
+    "address": "Kadapa - Tirupati Rd, near Bus Stop, Nandalur, Andhra Pradesh 516150",
+    "area": "516150",
+    "latitude": 14.270089899999999,
+    "longitude": 79.1123369,
+    "place_id": "ChIJ-TaRK147szsRfeoIjeayVxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TaRK147szsRfeoIjeayVxw",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:18:44"
+  },
+  {
+    "business_name": "Indian Durbar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Bar",
+    "pincode": "516150",
+    "phone_number": "+91 96115 28693",
+    "website": "https://www.hilton.com/en/hotels/blrkrci-conrad-bengaluru/dining/indian-durbar/",
+    "rating": 4.6,
+    "reviews_count": 1115,
+    "address": "25/3, Kensington Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
+    "area": "Halasuru, Someshwarpura",
+    "latitude": 12.9755187,
+    "longitude": 77.6206687,
+    "place_id": "ChIJK_yk-IQXrjsR4JCQdRhZHYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_yk-IQXrjsR4JCQdRhZHYI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:18:45"
+  }
+]

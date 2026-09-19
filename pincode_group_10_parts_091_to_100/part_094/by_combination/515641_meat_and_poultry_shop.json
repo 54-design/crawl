@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Chicken shop, Poultry farm",
+    "pincode": "515641",
+    "phone_number": "+91 82470 57577",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "CP57+FR9, Dharmavaram-Puttaparthi Rd, Parthasaradhi Nagar, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Parthasaradhi Nagar",
+    "latitude": 14.4086565,
+    "longitude": 77.714608,
+    "place_id": "ChIJm_T_WGxDsTsRVVHPLjqjUK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_T_WGxDsTsRVVHPLjqjUK0",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:52:15"
+  },
+  {
+    "business_name": "Josya Poultry farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "515641",
+    "phone_number": "+91 62818 20737",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Lakshmi, Chennakesavapuram, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Chennakesavapuram",
+    "latitude": 14.3948357,
+    "longitude": 77.7052044,
+    "place_id": "ChIJoagPnYxDsTsRLRhtr3vMy6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoagPnYxDsTsRLRhtr3vMy6A",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 06:52:17"
+  }
+]

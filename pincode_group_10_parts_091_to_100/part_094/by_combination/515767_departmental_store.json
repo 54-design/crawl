@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kamasani ramireddy store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HW2W+XR2, bramhasumudram main road, Idukallu, Bhairasamudram, Andhra Pradesh 515767",
+    "area": "515767",
+    "latitude": 14.5523911,
+    "longitude": 76.9470219,
+    "place_id": "ChIJn4DfWB3PsDsRX9L9WPUGHR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4DfWB3PsDsRX9L9WPUGHR4",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:13"
+  },
+  {
+    "business_name": "Prabhakar Grocery Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C394+24F, SH 434, Cherlopalle, Khairevu, Andhra Pradesh 515766",
+    "area": "Cherlopalle",
+    "latitude": 14.4175533,
+    "longitude": 77.0553042,
+    "place_id": "ChIJxbp8eUrbsDsRc_eE7vTRUoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbp8eUrbsDsRc_eE7vTRUoI",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:14"
+  }
+]

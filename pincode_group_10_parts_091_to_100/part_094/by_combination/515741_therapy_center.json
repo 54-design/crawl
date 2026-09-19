@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Therapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center, Family counselor, Physiotherapy Center, Special education school",
+    "pincode": "515741",
+    "phone_number": "+91 84048 27010",
+    "website": "https://www.indiatherapycentre.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "India therapy centre, opp. Brahma Kumaris Marg, Doctor's Colony, Kusum Vihar, Jagjiwan Nagar, Saraidhella, Dhanbad, Jharkhand 826007",
+    "area": "Doctor's Colony, Kusum Vihar, Jagjiwan Nagar",
+    "latitude": 23.8080094,
+    "longitude": 86.4535593,
+    "place_id": "ChIJM4WFYAC99jkRdUPZl61TvhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4WFYAC99jkRdUPZl61TvhM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:52"
+  },
+  {
+    "business_name": "India Therapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center, Occupational health service, Physiotherapy Center, Psychoneurological specialized clinic, Speech & Hearing Specialist",
+    "pincode": "515741",
+    "phone_number": "+91 76678 70502",
+    "website": "https://indiatherapycentre.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Joraphatak Rd, near Shakti Mandir Road, Dhanbad, Jharkhand 826007",
+    "area": "515741",
+    "latitude": 23.7836224,
+    "longitude": 86.4214032,
+    "place_id": "ChIJM8f_auG99jkRBrRb3uQG0Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8f_auG99jkRBrRb3uQG0Jo",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:10:52"
+  }
+]

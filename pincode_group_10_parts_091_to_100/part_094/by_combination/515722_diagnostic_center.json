@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "515722",
+    "phone_number": "+91 91216 46793",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "RTO Office Rd, Adarsh Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Adarsh Nagar",
+    "latitude": 14.6577428,
+    "longitude": 77.60528579999999,
+    "place_id": "ChIJpUftYABLsTsRbe0EWD6cJug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUftYABLsTsRbe0EWD6cJug",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:44"
+  },
+  {
+    "business_name": "Devansh diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "515722",
+    "phone_number": "+91 63030 78308",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RTO Office Rd, Navodaya Colony, Anantapur, Andhra Pradesh 515001",
+    "area": "Navodaya Colony",
+    "latitude": 14.659818399999999,
+    "longitude": 77.60624399999999,
+    "place_id": "ChIJzbFBpepLsTsR6GTTt_opsTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbFBpepLsTsR6GTTt_opsTs",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:06:44"
+  }
+]

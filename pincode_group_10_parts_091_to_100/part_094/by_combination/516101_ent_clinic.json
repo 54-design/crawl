@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS ENT, Skin & LASER clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Dermatologist",
+    "pincode": "516101",
+    "phone_number": "+91 83417 13698",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 189,
+    "address": "opp. Rich Hospital, Gandhinagar, Pogathota, Nellore, Andhra Pradesh 524001",
+    "area": "Gandhinagar, Pogathota",
+    "latitude": 14.4499591,
+    "longitude": 79.98528739999999,
+    "place_id": "ChIJEx2Sn8yNTDoR1xq_QsVjtUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEx2Sn8yNTDoR1xq_QsVjtUg",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:57:49"
+  },
+  {
+    "business_name": "Modern E.N.T Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "516101",
+    "phone_number": "+91 861 232 5868",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Vijaya Mahal Gate, Brindavan Colony, Nellore, Andhra Pradesh 524001",
+    "area": "Brindavan Colony",
+    "latitude": 14.453166699999999,
+    "longitude": 79.9867833,
+    "place_id": "ChIJzZWpLraMTDoRM4icntNfr8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZWpLraMTDoRM4icntNfr8c",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:57:51"
+  }
+]

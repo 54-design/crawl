@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt. B. C. Boys Hostel",
+    "search_category": "Guesthouse",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "515872",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2R4M+MJ3, D.Hirehal, Andhra Pradesh 515872",
+    "area": "515872",
+    "latitude": 15.006641799999999,
+    "longitude": 76.83404139999999,
+    "place_id": "ChIJKw4iZAA_tzsRJE5osXH0MvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKw4iZAA_tzsRJE5osXH0MvM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:47:41"
+  },
+  {
+    "business_name": "venkatesh hotel",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "515872",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "2R6P+2CV, D.Hirehal, Andhra Pradesh 515872",
+    "area": "515872",
+    "latitude": 15.0101005,
+    "longitude": 76.8360458,
+    "place_id": "ChIJs0EAvvo_tzsRNvkcfeR6JAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0EAvvo_tzsRNvkcfeR6JAA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:47:43"
+  }
+]

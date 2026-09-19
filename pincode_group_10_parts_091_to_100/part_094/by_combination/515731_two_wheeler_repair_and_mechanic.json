@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Bike Point",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "515731",
+    "phone_number": "+91 97006 75556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "GAIGOLPADU, near Chaitanya College, Rajeshwari Nagar, Ramanayyapeta, Andhra Pradesh 533003",
+    "area": "Rajeshwari Nagar",
+    "latitude": 16.9889597,
+    "longitude": 82.2362916,
+    "place_id": "ChIJs9-FVZYpODoR2ptHQzW4pkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9-FVZYpODoR2ptHQzW4pkU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:42"
+  },
+  {
+    "business_name": "ROSHAN fit bike",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "515731",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MHWP+53G, Tapovanam, A.Narayana Puram, Papampeta, Andhra Pradesh 515004",
+    "area": "Tapovanam, A.Narayana Puram",
+    "latitude": 14.6954304,
+    "longitude": 77.5851964,
+    "place_id": "ChIJu5CLRQBLsTsRfESa_K6zbfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5CLRQBLsTsRfESa_K6zbfE",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:08:43"
+  }
+]

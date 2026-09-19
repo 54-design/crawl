@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Dye Store",
+    "all_categories": "Dye Store",
+    "pincode": "516130",
+    "phone_number": "+91 75699 03814",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanipaya, Andhra Pradesh 516130",
+    "area": "516130",
+    "latitude": 14.103600199999999,
+    "longitude": 78.9456072,
+    "place_id": "ChIJVwFMmDsfszsRTfaAA8g33lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwFMmDsfszsRTfaAA8g33lQ",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:16:44"
+  },
+  {
+    "business_name": "---",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "516130",
+    "phone_number": "+91 90599 73034",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 15,
+    "address": "Shastri Nagar, Ravindra Nagar, Akkayapalle, Andhra Pradesh 516001",
+    "area": "Shastri Nagar, Ravindra Nagar",
+    "latitude": 14.4702208,
+    "longitude": 78.8128601,
+    "place_id": "ChIJITZ-AfNzszsRxczvN4hezAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITZ-AfNzszsRxczvN4hezAA",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 08:16:46"
+  }
+]

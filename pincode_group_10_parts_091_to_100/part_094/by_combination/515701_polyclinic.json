@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karthika Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "515701",
+    "phone_number": "+91 85200 52424",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MJ75+PHC, 80 Feet Rd, opp. Sbi Atm Line, Navodaya Colony, Anantapur, Andhra Pradesh 515001",
+    "area": "Navodaya Colony",
+    "latitude": 14.6643074,
+    "longitude": 77.6088824,
+    "place_id": "ChIJxQBDQR1LsTsR4g8OjqQxMqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQBDQR1LsTsR4g8OjqQxMqM",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:01:26"
+  },
+  {
+    "business_name": "Shalom Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "515701",
+    "phone_number": "+91 81852 00777",
+    "website": "https://nearbyinfo.in/shalom-hospital-masthikatte-hosanagara/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Masthikatte, Khyrugundha, Karnataka 577425",
+    "area": "Masthikatte",
+    "latitude": 13.7426768,
+    "longitude": 75.0274963,
+    "place_id": "ChIJfbUaP5t-uzsRPgCtyBYEuTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbUaP5t-uzsRPgCtyBYEuTU",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:01:27"
+  }
+]

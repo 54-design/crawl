@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kick Bunk Garden Bar and Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "515767",
+    "phone_number": "+91 93737 59626",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 151,
+    "address": "JCJQ+722, Kothapalli, Tirupati, Andhra Pradesh 517501",
+    "area": "Kothapalli",
+    "latitude": 13.6309531,
+    "longitude": 79.4375349,
+    "place_id": "ChIJtzV_U2dLTToRhIktXvGrbGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzV_U2dLTToRhIktXvGrbGk",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:27"
+  },
+  {
+    "business_name": "Drinking Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "515767",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Pink Plaza Market, Hathi Gate, Katra Ahluwalia, Amritsar, Punjab 143001",
+    "area": "Pink Plaza Market, Hathi Gate, Katra Ahluwalia",
+    "latitude": 31.6319883,
+    "longitude": 74.87344159999999,
+    "place_id": "ChIJOf8TcqpkGTkRMPMCoW0-lso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOf8TcqpkGTkRMPMCoW0-lso",
+    "part_id": "part_094",
+    "crawled_at": "2026-09-19 07:20:29"
+  }
+]
