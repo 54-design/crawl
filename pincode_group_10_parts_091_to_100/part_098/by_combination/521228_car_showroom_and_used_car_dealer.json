@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAKSHMI TOYOTA MACHILIPATNAM",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Toyota dealer",
+    "all_categories": "Toyota dealer, Auto repair shop, Car dealer",
+    "pincode": "521228",
+    "phone_number": "+91 73311 00729",
+    "website": "https://lakshmitoyota.com/",
+    "rating": 5,
+    "reviews_count": 233,
+    "address": "Edepalli, Srinivas Nagar Colony, Sultannagaram, Machilipatnam, Andhra Pradesh 521003",
+    "area": "Edepalli, Srinivas Nagar Colony",
+    "latitude": 16.1898738,
+    "longitude": 81.1390284,
+    "place_id": "ChIJmUJicAznSToRmeDU959MjCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUJicAznSToRmeDU959MjCA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:26"
+  },
+  {
+    "business_name": "Aruna Motors Private Limited",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "521228",
+    "phone_number": "N/A",
+    "website": "http://www.arunamotors.com/",
+    "rating": 3.6,
+    "reviews_count": 10,
+    "address": "48-10-12, NH 16, Sri Ramachandra Nagar, Prasadampadu, Andhra Pradesh 520008",
+    "area": "Sri Ramachandra Nagar",
+    "latitude": 16.5162343,
+    "longitude": 80.7010152,
+    "place_id": "ChIJG7aACLpkUjoR5IdB7KkDp00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7aACLpkUjoR5IdB7KkDp00",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:29"
+  }
+]

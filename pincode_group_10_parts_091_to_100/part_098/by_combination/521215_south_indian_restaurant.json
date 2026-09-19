@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "521215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "RJPM+X34, Pulluru, Andhra Pradesh 521230",
+    "area": "521215",
+    "latitude": 16.8373942,
+    "longitude": 80.6327061,
+    "place_id": "ChIJdQI1zSrbNToRgCjFyKllQvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQI1zSrbNToRgCjFyKllQvo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:30"
+  },
+  {
+    "business_name": "Lakshmi Tiffin Shop",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "521215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "QJ5R+G37, Bandhgar Road, near Kanyakumari Hospital, Mylavaram, Andhra Pradesh 521230",
+    "area": "521215",
+    "latitude": 16.7587611,
+    "longitude": 80.6401923,
+    "place_id": "ChIJnysQAQDdNToRoxcO7hvpXbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnysQAQDdNToRoxcO7hvpXbo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:30"
+  }
+]

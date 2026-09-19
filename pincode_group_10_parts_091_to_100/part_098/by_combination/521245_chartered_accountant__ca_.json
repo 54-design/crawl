@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "C B Accounting",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Bookkeeping service",
+    "pincode": "521245",
+    "phone_number": "07734 084280",
+    "website": "https://www.cbaccounting.co.uk/",
+    "rating": 5,
+    "reviews_count": 57,
+    "address": "Harvest Cottage, Airfield Rd, Fersfield, Diss IP22 2FF, United Kingdom",
+    "area": "Fersfield",
+    "latitude": 52.4174192,
+    "longitude": 1.0487229999999998,
+    "place_id": "ChIJv5jQ613NlK8RM6kxfMe3r_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5jQ613NlK8RM6kxfMe3r_s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:31:44"
+  },
+  {
+    "business_name": "Adlan Accountants Limited",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "521245",
+    "phone_number": "07831 780311",
+    "website": "https://adlanaccountants.co.uk/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Adlan Accountants Limited, 521245, India",
+    "area": "521245",
+    "latitude": 52.3104412,
+    "longitude": -0.836977,
+    "place_id": "ChIJgUx7YHQTl68RDyvZ06mO42A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUx7YHQTl68RDyvZ06mO42A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:31:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MATURI RESIDENCE luxury hotel maturi Nuzvid Nuzvidu",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "521201",
+    "phone_number": "+91 99896 97869",
+    "website": "https://hotelmaturi.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hotel Maturi, 19/189, Nuzividu, Andhra Pradesh 521201",
+    "area": "521201",
+    "latitude": 16.7870865,
+    "longitude": 80.85061929999999,
+    "place_id": "ChIJfc2H34N1NjoRptFgdDROdcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfc2H34N1NjoRptFgdDROdcU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:31"
+  },
+  {
+    "business_name": "AMULYAA GRAND INN",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall",
+    "pincode": "521201",
+    "phone_number": "+91 91555 99901",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 146,
+    "address": "Nuziveedu Rd, Hanuman Junction, Bapulapadu, Andhra Pradesh 521105",
+    "area": "Hanuman Junction",
+    "latitude": 16.638534,
+    "longitude": 80.96987229999999,
+    "place_id": "ChIJs746c5cNNjoRNGCmqlDSI3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs746c5cNNjoRNGCmqlDSI3s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medicare Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "521185",
+    "phone_number": "+91 90970 44999",
+    "website": "https://www.medicarelabs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NTR Complex, Near, Bhavan, Old Busstand, Sattenapalle, Andhra Pradesh 522403",
+    "area": "521185",
+    "latitude": 16.393161,
+    "longitude": 80.1505024,
+    "place_id": "ChIJG3WFsEOBNToRDcfTfv1j1Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3WFsEOBNToRDcfTfv1j1Wk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:19"
+  },
+  {
+    "business_name": "Sri maatha clinical laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "521185",
+    "phone_number": "+91 98855 48476",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Datla brahmaraju street, Mutyalammapadu, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "area": "Mutyalammapadu, Satyaranayana Puram",
+    "latitude": 16.527001,
+    "longitude": 80.63786189999999,
+    "place_id": "ChIJpSgGJVrlNToRvv40Tp0nHQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSgGJVrlNToRvv40Tp0nHQ0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:22"
+  }
+]

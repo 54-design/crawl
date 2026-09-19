@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti Enterprises",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Corporate gift supplier, House clearance service, Toiletries Store",
+    "pincode": "521202",
+    "phone_number": "+91 90222 66792",
+    "website": "https://www.shantienterprisesindia.com/",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "Sri Sai Krupa nagar, 18, Chhatrapati Shivaji Rd, near Indian Oil Petrol Pump, Anand Nagar, Dahisar East, Mumbai, Maharashtra 400068",
+    "area": "Anand Nagar, Dahisar East",
+    "latitude": 19.2542734,
+    "longitude": 72.86596759999999,
+    "place_id": "ChIJL4KP_6Gx5zsR023lbm2qfYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4KP_6Gx5zsR023lbm2qfYg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:01:23"
+  },
+  {
+    "business_name": "Aadhunik Marketing",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "521202",
+    "phone_number": "+91 99111 23235",
+    "website": "https://www.aadhunikamenities.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "IIIrd Floor, Vardhman Fortune Mall, 328, GT Karnal Rd, near Metro Station Azadpur, Industrial Area, Azadpur, Delhi, 110033",
+    "area": "Industrial Area, Azadpur",
+    "latitude": 28.7016302,
+    "longitude": 77.181991,
+    "place_id": "ChIJNx3vCFEDDTkR3iZ2ILBkay8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNx3vCFEDDTkR3iZ2ILBkay8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:01:25"
+  }
+]

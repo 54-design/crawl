@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Telangana Spice Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Bar & grill, Lounge bar",
+    "pincode": "521184",
+    "phone_number": "+91 97335 52222",
+    "website": "https://telanganaspicekitchen.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Fourth floor, CVK Park Square, above Aptronix store, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4419906,
+    "longitude": 78.4898687,
+    "place_id": "ChIJSTvFupubyzsRfWbxmT6BgHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTvFupubyzsRfWbxmT6BgHE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:53:09"
+  },
+  {
+    "business_name": "Mana Mess & Catering",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant, Indian restaurant, Vegetarian restaurant",
+    "pincode": "521184",
+    "phone_number": "+91 91008 54120",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 2641,
+    "address": "64-9-1 Kanuru Nagabhushanam Building, Patamatalanka, and, near Eenadu Bus stop, NTR Circle, Between, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "NTR Circle, Between, Benz Circle",
+    "latitude": 16.4968261,
+    "longitude": 80.6564628,
+    "place_id": "ChIJCUG9q7j6NToRLNuOYiq0Yrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUG9q7j6NToRLNuOYiq0Yrs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:53:09"
+  }
+]

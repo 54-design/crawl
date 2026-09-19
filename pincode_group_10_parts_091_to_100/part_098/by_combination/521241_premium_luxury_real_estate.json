@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palm Springs",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex, Corporate office",
+    "pincode": "521241",
+    "phone_number": "+91 99666 87777",
+    "website": "http://jyothirmayeproperties.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D.No 25-11-6 G.T.Road Srinivasarao Pet, R Agraharam, Guntur, Andhra Pradesh 522004",
+    "area": "R Agraharam",
+    "latitude": 16.2916879,
+    "longitude": 80.43647039999999,
+    "place_id": "ChIJvcMxAz91SjoRGRYUE_CJxdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcMxAz91SjoRGRYUE_CJxdA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:58"
+  },
+  {
+    "business_name": "On The Market India",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "521241",
+    "phone_number": "+91 861 239 3001",
+    "website": "https://www.onthemarket.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MIG 18, Housing Board, Kallurupalli, Andhra Pradesh 524003",
+    "area": "Housing Board",
+    "latitude": 14.3817268,
+    "longitude": 79.9578659,
+    "place_id": "ChIJxXnTnY_zTDoRylFgjaU0JeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXnTnY_zTDoRylFgjaU0JeQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:58"
+  }
+]

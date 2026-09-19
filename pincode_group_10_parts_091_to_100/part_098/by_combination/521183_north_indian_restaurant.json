@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAKATHIYA FAMILY RESTURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Family restaurant, Indian restaurant",
+    "pincode": "521183",
+    "phone_number": "+91 95537 36800",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 463,
+    "address": "Nandigama, Andhra Pradesh 521185",
+    "area": "521183",
+    "latitude": 16.756945299999998,
+    "longitude": 80.2959991,
+    "place_id": "ChIJXSIpqb-8NToRXExxcD75Pp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSIpqb-8NToRXExxcD75Pp0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:49"
+  },
+  {
+    "business_name": "Hotel K",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Chinese restaurant, Dhaba, Food court, South Indian restaurant",
+    "pincode": "521183",
+    "phone_number": "+91 90594 85138",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 472,
+    "address": "NH-65, Balliparru - Elamarru Rd, Pamarru, Andhra Pradesh 521390",
+    "area": "521183",
+    "latitude": 16.337497199999998,
+    "longitude": 80.9478184,
+    "place_id": "ChIJrcaGTwv9SToR5WLi2LhcpuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcaGTwv9SToR5WLi2LhcpuE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:50"
+  }
+]

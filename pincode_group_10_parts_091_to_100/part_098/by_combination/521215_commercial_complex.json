@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Square Yards - Vijaywada",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "521215",
+    "phone_number": "+91 1800 208 3344",
+    "website": "https://www.squareyards.com/vijayawada-real-estate",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4th floor, Lalitha Jewelers, Polyclinic Rd, Kedareswarapeta, Siddhartha Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Kedareswarapeta, Siddhartha Nagar, Benz Circle",
+    "latitude": 16.5029407,
+    "longitude": 80.65238389999999,
+    "place_id": "ChIJO3Yg1AT7NToRUgWw1kjPF2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3Yg1AT7NToRUgWw1kjPF2g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:13:05"
+  },
+  {
+    "business_name": "GSR complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "521215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "NH 30, Cheemalapadu, Andhra Pradesh 521226",
+    "area": "521215",
+    "latitude": 16.8935967,
+    "longitude": 80.6435941,
+    "place_id": "ChIJtw-42nrRNToRN6pOMsDbhkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtw-42nrRNToRN6pOMsDbhkw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:13:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House Of Luxury Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer, Motor vehicle dealer",
+    "pincode": "521226",
+    "phone_number": "+91 92345 45678",
+    "website": "https://houseofluxurycars.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Survey No. 19, Kukatpally Housing Board - Hitech City Rd, opposite to Yashoda Hospital, Siddhi Vinayak Nagar, Madhapur, Khanammet, Hyderabad, Telangana 500081",
+    "area": "Siddhi Vinayak Nagar, Madhapur",
+    "latitude": 17.4594651,
+    "longitude": 78.38504669999999,
+    "place_id": "ChIJR1i9zryRyzsRIxwdfkkW3g4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1i9zryRyzsRIxwdfkkW3g4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:42"
+  },
+  {
+    "business_name": "FAMOUS USED CARS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "521226",
+    "phone_number": "+91 94473 18093",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sankaramangalam, Keralam 679303",
+    "area": "521226",
+    "latitude": 10.823425799999999,
+    "longitude": 76.18577239999999,
+    "place_id": "ChIJ7Qz8lN3FpzsRQ5gZGekm28s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Qz8lN3FpzsRQ5gZGekm28s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:45"
+  }
+]

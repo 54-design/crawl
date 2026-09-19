@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GEETHA COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer networking service, Computer Rental Agency, Computer security service, Computer software store, Computer store, Computer Wholesaler, Educational institution, Security system installation service, Training center",
+    "pincode": "521185",
+    "phone_number": "+91 92472 77353",
+    "website": "https://geethacomputers.org/",
+    "rating": 5,
+    "reviews_count": 634,
+    "address": "25/518 UPSTAIRS, Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.4861056,
+    "longitude": 78.48520859999999,
+    "place_id": "ChIJ8xZzramttTsROpl9clumMj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xZzramttTsROpl9clumMj8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:56:08"
+  },
+  {
+    "business_name": "Futuretech Systems",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "521185",
+    "phone_number": "+91 98482 13367",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 60,
+    "address": "Gokul Circle, Room -2, Gokul Complex, Potti Sriramulu St, opp. Ashoka Hotel, Kadapa, Andhra Pradesh 516001",
+    "area": "Ganagapeta",
+    "latitude": 14.478466599999999,
+    "longitude": 78.8242696,
+    "place_id": "ChIJgcexzjJzszsRKDbzC3SlvKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcexzjJzszsRKDbzC3SlvKc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:56:08"
+  }
+]

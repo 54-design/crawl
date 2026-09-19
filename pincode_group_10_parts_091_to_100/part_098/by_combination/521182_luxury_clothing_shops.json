@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Vigneswara Botique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "521182",
+    "phone_number": "+91 83176 98321",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "10-31 Oop Grren Land Apartment, CM Rd, Andhra Pradesh 521185",
+    "area": "521182",
+    "latitude": 16.768221699999998,
+    "longitude": 80.2884856,
+    "place_id": "ChIJ0-Wbi0e9NToRbf66iGUgMXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-Wbi0e9NToRbf66iGUgMXE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:48:35"
+  },
+  {
+    "business_name": "LS Vastra Designer Studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "521182",
+    "phone_number": "+91 93913 47989",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 114,
+    "address": "LS Vastra Designer Studio, Metro Ln, Venkateswara Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Venkateswara Colony, Uppal",
+    "latitude": 17.3986274,
+    "longitude": 78.56132939999999,
+    "place_id": "ChIJeUMk6qOZyzsR9kXzjl8DgSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUMk6qOZyzsR9kXzjl8DgSo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:48:36"
+  }
+]

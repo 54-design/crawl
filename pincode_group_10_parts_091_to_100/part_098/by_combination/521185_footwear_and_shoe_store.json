@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BG FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Shopping mall",
+    "pincode": "521185",
+    "phone_number": "+91 80085 73115",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "3-22,Main Road, Thullur, Andhra Pradesh 522237",
+    "area": "Thullur",
+    "latitude": 16.529208699999998,
+    "longitude": 80.4701268,
+    "place_id": "ChIJkU5vmDjtNToRsOrrknw1ucY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkU5vmDjtNToRsOrrknw1ucY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:08"
+  },
+  {
+    "business_name": "Chandu Ten Sports",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "521185",
+    "phone_number": "+91 81219 98468",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "24-93, Main Road, opp. HERO Showroom, Bhimaraju Gutta, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "Bhimaraju Gutta",
+    "latitude": 16.591098499999998,
+    "longitude": 80.5218091,
+    "place_id": "ChIJBa4EUyntNToR-T8ih2Nfj-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBa4EUyntNToR-T8ih2Nfj-k",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:09"
+  }
+]

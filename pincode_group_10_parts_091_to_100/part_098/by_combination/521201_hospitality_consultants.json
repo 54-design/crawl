@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanvi Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "521201",
+    "phone_number": "+91 98481 75009",
+    "website": "http://dhanviconsultancyservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D, 1-177/9, KANF Rd - Rameswaram, Rajendra Nagar, Ramanayyapeta, Andhra Pradesh 533005",
+    "area": "Rajendra Nagar",
+    "latitude": 16.9961982,
+    "longitude": 82.2339105,
+    "place_id": "ChIJKztaszUoODoRAwjQwHqDsIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKztaszUoODoRAwjQwHqDsIs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:35"
+  },
+  {
+    "business_name": "Hospitality Consultants (India) Pvt. Ltd.",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "521201",
+    "phone_number": "+91 124 400 1070",
+    "website": "http://www.hcipl.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1405, Ocus Quantum, Sector 51, Gurugram, Samaspur, Haryana 122018",
+    "area": "Sector 51",
+    "latitude": 28.424688,
+    "longitude": 77.068198,
+    "place_id": "ChIJew8T93ciDTkRcyJxrT6jEdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJew8T93ciDTkRcyJxrT6jEdQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:36"
+  }
+]

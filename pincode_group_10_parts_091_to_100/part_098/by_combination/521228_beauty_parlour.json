@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANTHOSHI BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "521228",
+    "phone_number": "+91 79819 17013",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Shop No 1,1st Floor, opp. Bajaj Show Room, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "Bhimaraju Gutta",
+    "latitude": 16.5916365,
+    "longitude": 80.5242937,
+    "place_id": "ChIJiWnETCbtNToRQI4cVkU_Mg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWnETCbtNToRQI4cVkU_Mg0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:44"
+  },
+  {
+    "business_name": "Queenz Beautyparlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JG8Q+6VF, Kondapalli, Andhra Pradesh 521456",
+    "area": "521228",
+    "latitude": 16.6156047,
+    "longitude": 80.5393891,
+    "place_id": "ChIJCWK-wZLrNToRmqdzV_AMs2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWK-wZLrNToRmqdzV_AMs2Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:44"
+  }
+]

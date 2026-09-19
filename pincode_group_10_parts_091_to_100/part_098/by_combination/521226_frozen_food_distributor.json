@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N.K. Foods & Beverages",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Beverage Store",
+    "pincode": "521226",
+    "phone_number": "+91 413 420 0307",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "166, South Boulevard, Colas Nagar, Puducherry, 605001",
+    "area": "Colas Nagar",
+    "latitude": 11.926784,
+    "longitude": 79.82504,
+    "place_id": "ChIJ16FHs4ZhUzoRvoXJiWSYJf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16FHs4ZhUzoRvoXJiWSYJf8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:11"
+  },
+  {
+    "business_name": "FROZEN FOOD - FROZENA ENTERPRISES",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "521226",
+    "phone_number": "+91 77990 01935",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "17-1-41/B, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059",
+    "area": "New Santoshnagar, Santosh Nagar",
+    "latitude": 17.348599,
+    "longitude": 78.5068046,
+    "place_id": "ChIJO0SSv-CZyzsRphbTBwN5QGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0SSv-CZyzsRphbTBwN5QGc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:11"
+  }
+]

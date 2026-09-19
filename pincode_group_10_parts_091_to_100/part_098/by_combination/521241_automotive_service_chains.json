@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ram Motor Cycle",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Store",
+    "all_categories": "Store, Motorcycle parts store",
+    "pincode": "521241",
+    "phone_number": "+91 94904 14141",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "29-2-14, Rama Mandiram St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.512865599999998,
+    "longitude": 80.6300878,
+    "place_id": "ChIJHRNQRenvNToRIppCvdMKDng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRNQRenvNToRIppCvdMKDng",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:09"
+  },
+  {
+    "business_name": "Royal Auto Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Automotive Service Chains",
+    "all_categories": "Automotive Service Chains",
+    "pincode": "521241",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2b, RTC Workshop Rd, Ramarajya Nagar, Kamakoti Nagar, V D Puram, Vijayawada, Andhra Pradesh 520012",
+    "area": "Ramarajya Nagar, Kamakoti Nagar, V D Puram",
+    "latitude": 16.528065299999998,
+    "longitude": 80.59990979999999,
+    "place_id": "ChIJLQq3_8_vNToRKk9cFH_Vehc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQq3_8_vNToRKk9cFH_Vehc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:09"
+  }
+]

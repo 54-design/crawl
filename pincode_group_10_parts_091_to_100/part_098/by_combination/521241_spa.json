@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R1 International Spa",
+    "search_category": "Spa",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "521241",
+    "phone_number": "+91 80194 83366",
+    "website": "https://r1internationalspa.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "TFDGP square, 21/1/109/11, Kolanukonda Rd, Vaddeswaram, Kolanukonda, Andhra Pradesh 522501",
+    "area": "Vaddeswaram, Kolanukonda",
+    "latitude": 16.456616399999998,
+    "longitude": 80.60781419999999,
+    "place_id": "ChIJk5LQmgHxNToRXiYvTp2CfS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5LQmgHxNToRXiYvTp2CfS0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:20"
+  },
+  {
+    "business_name": "SOWMYA DIAGNOSTICS",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "521241",
+    "phone_number": "+91 99120 23314",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D. No. 6, Bangaraiah Kottu Senter, 21-20, Vijayawada, Andhra Pradesh 520001",
+    "area": "Vinchipeta",
+    "latitude": 16.5284193,
+    "longitude": 80.6112868,
+    "place_id": "ChIJC5hU_fXvNToRSnkrGffD9T4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5hU_fXvNToRSnkrGffD9T4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:20"
+  }
+]

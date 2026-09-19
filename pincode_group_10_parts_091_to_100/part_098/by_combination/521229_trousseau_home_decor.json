@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Aesthetic Box",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "521229",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/the_aestheticbox?igshid=YmMyMTA2M2Y=",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "1 Town, Kaleswara Rao Market, Tarapet, Vijayawada, Andhra Pradesh 520001",
+    "area": "1 Town, Kaleswara Rao Market, Tarapet",
+    "latitude": 16.5139607,
+    "longitude": 80.61257069999999,
+    "place_id": "ChIJHzEcUtHvNToRru-wrKMEv0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzEcUtHvNToRru-wrKMEv0I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:52"
+  },
+  {
+    "business_name": "Hyderabad Wedding Decorators",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Service establishment, Event planner, Wedding planner",
+    "pincode": "521229",
+    "phone_number": "N/A",
+    "website": "https://hyderabadweddingdecorators.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Hyderabad Wedding Decorators, 521229, India",
+    "area": "521229",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJf8kV-DORyzsR3IXCYlvVkBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8kV-DORyzsR3IXCYlvVkBk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:52"
+  }
+]

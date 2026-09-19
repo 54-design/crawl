@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Masulipatnam",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521229",
+    "phone_number": "+91 76809 21585",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3, patcha, 26-6, Papaiah St, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.517222699999998,
+    "longitude": 80.6242683,
+    "place_id": "ChIJ63yIewDvNToRcVZKZFHp_Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63yIewDvNToRcVZKZFHp_Ho",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:20:50"
+  },
+  {
+    "business_name": "Vachi Thini Po South Indian Tiffins",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521229",
+    "phone_number": "+91 93944 31144",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Opp. APSRTC Bus Stand, Krishnalanka, Vijayawada, Andhra Pradesh 520013",
+    "area": "Opp. APSRTC Bus Stand, Krishnalanka",
+    "latitude": 16.5066021,
+    "longitude": 80.61549749999999,
+    "place_id": "ChIJhWIcTdjxNToRk1l8rsBwmhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWIcTdjxNToRk1l8rsBwmhk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:20:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor's Hair Transplantation Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Hair replacement service",
+    "pincode": "521190",
+    "phone_number": "+91 96767 28476",
+    "website": "http://www.drhairstudio.com/",
+    "rating": 4.9,
+    "reviews_count": 50,
+    "address": "Gvr paradise, Champapet Rd, beside Tata motors, Saroornagar, Sai Nagar, Saroor Nagar East, Kharmanghat, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Sai Nagar, Saroor Nagar East",
+    "latitude": 17.3447226,
+    "longitude": 78.5308739,
+    "place_id": "ChIJZdXXt6aZyzsRJfKz-lbHepU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdXXt6aZyzsRJfKz-lbHepU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:57:39"
+  },
+  {
+    "business_name": "Naveen Hair and Face Clinic, Hair transplant centre",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Hair removal service, Hospital",
+    "pincode": "521190",
+    "phone_number": "+91 95509 37897",
+    "website": "https://www.naveenhfc.com/",
+    "rating": 4.8,
+    "reviews_count": 127,
+    "address": "5-4-76/6, gokhale street, College Rd, behind fbb showroom, Amalapuram, Andhra Pradesh 533201",
+    "area": "Bhupaiah Agraharam",
+    "latitude": 16.571142599999998,
+    "longitude": 82.0020396,
+    "place_id": "ChIJi2waf5nvNzoRO4vUjsPgV2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2waf5nvNzoRO4vUjsPgV2A",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:57:39"
+  }
+]

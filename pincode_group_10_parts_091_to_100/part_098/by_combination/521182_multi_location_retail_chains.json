@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Supermarket - PUNGANUR",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Discount supermarket, Gourmet grocery store, Grocery delivery service",
+    "pincode": "521182",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.9,
+    "reviews_count": 679,
+    "address": "9HG9+7GQ, Kothaindlu, Punganur, Andhra Pradesh 517247",
+    "area": "Kothaindlu",
+    "latitude": 13.372881699999999,
+    "longitude": 78.56888339999999,
+    "place_id": "ChIJz-xuRMt_sjsRdv76YTnj_h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-xuRMt_sjsRdv76YTnj_h4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:31"
+  },
+  {
+    "business_name": "DMart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Hypermarket, Shopping mall",
+    "pincode": "521182",
+    "phone_number": "+91 22 3340 0500",
+    "website": "https://www.dmartindia.com/",
+    "rating": 4,
+    "reviews_count": 17019,
+    "address": "NH16, beside Celebrations Function Hall, Kalinganagar, Madhavadhara, Visakhapatnam, Andhra Pradesh 530007",
+    "area": "Kalinganagar, Madhavadhara",
+    "latitude": 17.744276499999998,
+    "longitude": 83.2583768,
+    "place_id": "ChIJ8XazIVNdOToRmlwwdPJEDBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XazIVNdOToRmlwwdPJEDBg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:31"
+  }
+]

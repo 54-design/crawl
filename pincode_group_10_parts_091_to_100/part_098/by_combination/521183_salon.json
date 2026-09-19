@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Rose Hair & Beauty salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521183",
+    "phone_number": "+91 98495 77172",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 94,
+    "address": "8-41/1, 8-41/1, Prasadampadu, currency nagar, Ramavarappadu, Andhra Pradesh 521108",
+    "area": "Prasadampadu, currency nagar",
+    "latitude": 16.5191654,
+    "longitude": 80.687742,
+    "place_id": "ChIJZfUmgqnlNToRJK7suGWi1Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfUmgqnlNToRJK7suGWi1Lo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:51:54"
+  },
+  {
+    "business_name": "Siva Lakshmi beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521183",
+    "phone_number": "+91 93912 61702",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 151,
+    "address": "Mani enterprises book shop back side, eluru road, Hanuman Junction, Appanaveedu, Tallamudi, Andhra Pradesh 521105",
+    "area": "Hanuman Junction, Appanaveedu",
+    "latitude": 16.6354144,
+    "longitude": 80.9727192,
+    "place_id": "ChIJY_VEYOANNjoRM8_FsSBbLzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_VEYOANNjoRM8_FsSBbLzo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:51:54"
+  }
+]

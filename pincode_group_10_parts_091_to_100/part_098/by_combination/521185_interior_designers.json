@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "artiv interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "521185",
+    "phone_number": "+91 80743 28479",
+    "website": "http://artivinteriors.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "18-4-12 Lingampeta, Street No. 4, Krishna nagar, Aryapuram, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Krishna nagar, Aryapuram",
+    "latitude": 17.0165352,
+    "longitude": 81.7739011,
+    "place_id": "ChIJxVACKO2jNzoREoStf-5hqoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVACKO2jNzoREoStf-5hqoU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:41"
+  },
+  {
+    "business_name": "Ayas Architecture",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior construction contractor, Architecture firm",
+    "pincode": "521185",
+    "phone_number": "+91 79975 14382",
+    "website": "http://ayasarchitecture.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "27-17-13/9, FLAT 401 SRI LATHA APARTMENT, 36TH WARD, ASR Nagar, Bhimavaram, Andhra Pradesh 534202",
+    "area": "ASR Nagar",
+    "latitude": 16.5401028,
+    "longitude": 81.50944009999999,
+    "place_id": "ChIJ06aP7TQtNjoR2A8U0AC0THM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06aP7TQtNjoR2A8U0AC0THM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:41"
+  }
+]

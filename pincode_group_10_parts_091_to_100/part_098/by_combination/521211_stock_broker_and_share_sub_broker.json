@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Profitmart Visakhapatnam",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "521211",
+    "phone_number": "+91 891 666 6991",
+    "website": "https://profitmart.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4th Floor, D. No. 47-7-24/1, 4th Ln, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dwaraka Nagar",
+    "latitude": 17.728205799999998,
+    "longitude": 83.304313,
+    "place_id": "ChIJrY6sIzBDOToR7wKMrv5im9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrY6sIzBDOToR7wKMrv5im9w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:05:22"
+  },
+  {
+    "business_name": "Maxiom Wealth",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial institution, Financial planner, Investment company, Investment service",
+    "pincode": "521211",
+    "phone_number": "+91 94296 92332",
+    "website": "https://maxiomwealth.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd Floor, AWFIS, c2, Road No. 36, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "CBI Colony, Jubilee Hills",
+    "latitude": 17.433875999999998,
+    "longitude": 78.404275,
+    "place_id": "ChIJwYgwzXGTyzsR-6Gm6FNDHgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYgwzXGTyzsR-6Gm6FNDHgA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:05:23"
+  }
+]

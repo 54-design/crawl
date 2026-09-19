@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cicely",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Continental restaurant, Korean restaurant, Pan-Asian restaurant",
+    "pincode": "521185",
+    "phone_number": "+91 92949 42828",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ground floor, Food republic Lane, 40-3/1-43, near Fortune Murali Park, Mogalrajapuram, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Sidhartha Nagar, Labbipet",
+    "latitude": 16.5019989,
+    "longitude": 80.64679749999999,
+    "place_id": "ChIJQcPQNN37NToRIZ9f0gnAu4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcPQNN37NToRIZ9f0gnAu4o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:54:59"
+  },
+  {
+    "business_name": "Zaatar Arabian Mandi Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Arab restaurant",
+    "all_categories": "Arab restaurant",
+    "pincode": "521185",
+    "phone_number": "+91 82476 96181",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2, Enikepadu, Ramavarappadu, Andhra Pradesh 521108",
+    "area": "Enikepadu",
+    "latitude": 16.5200377,
+    "longitude": 80.6940709,
+    "place_id": "ChIJ83vnBonlNToRGNxrpTSc9Uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83vnBonlNToRGNxrpTSc9Uo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:54:59"
+  }
+]

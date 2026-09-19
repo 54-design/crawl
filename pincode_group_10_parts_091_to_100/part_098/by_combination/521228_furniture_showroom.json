@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dhanalakshmi timber depot",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "521228",
+    "phone_number": "+91 88977 75510",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "JHH2+8CX, Kondapalli, Andhra Pradesh 521228",
+    "area": "521228",
+    "latitude": 16.6283638,
+    "longitude": 80.5511027,
+    "place_id": "ChIJc5GRHmfpNToRUR1gxq2Xl9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5GRHmfpNToRUR1gxq2Xl9o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:43"
+  },
+  {
+    "business_name": "Kumari Furnitures",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "521228",
+    "phone_number": "+91 81217 57966",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Karimikonda Balaji Rd, Kondapalli, Andhra Pradesh 521228",
+    "area": "521228",
+    "latitude": 16.6181469,
+    "longitude": 80.5417763,
+    "place_id": "ChIJbfNJOOLrNToRdrEc5vWFAdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfNJOOLrNToRdrEc5vWFAdI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:45"
+  }
+]

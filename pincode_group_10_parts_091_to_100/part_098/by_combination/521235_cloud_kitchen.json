@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "6V'S Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "521235",
+    "phone_number": "+91 90107 88867",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flat no 204, Sri Sai Balaji Apartment, Sowbhagya Nagar, Vuyyuru, Andhra Pradesh 521165",
+    "area": "Sowbhagya Nagar",
+    "latitude": 16.3545455,
+    "longitude": 80.84786629999999,
+    "place_id": "ChIJX_zRGEkBNjoRGPk3el8hBIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_zRGEkBNjoRGPk3el8hBIk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:26:41"
+  },
+  {
+    "business_name": "Food guru cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "521235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11-19-73/2, Mastan Manyam Colony, Venna Valli Vari Peta, Eluru, Andhra Pradesh 534001",
+    "area": "Mastan Manyam Colony, Venna Valli Vari Peta",
+    "latitude": 16.71125,
+    "longitude": 81.118028,
+    "place_id": "ChIJl5SNegAVNjoRkc7LxSePQMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5SNegAVNjoRkc7LxSePQMI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:26:41"
+  }
+]

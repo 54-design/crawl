@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI SAREE HOUSE",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "521183",
+    "phone_number": "+91 99892 26173",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop -6, Ravuri Complex, CM Rd, Nandigama, Andhra Pradesh 521185",
+    "area": "521183",
+    "latitude": 16.7682362,
+    "longitude": 80.2876739,
+    "place_id": "ChIJQ4XA0jS9NToR9zM99WBhqFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4XA0jS9NToR9zM99WBhqFo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:54"
+  },
+  {
+    "business_name": "Bapanapalli Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521183",
+    "phone_number": "+91 93962 25293",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 48,
+    "address": "Bapanapalli Sarees, Maddiboinavaripalem, Bapatla, Andhra Pradesh 522101",
+    "area": "Maddiboinavaripalem",
+    "latitude": 15.899102399999999,
+    "longitude": 80.467074,
+    "place_id": "ChIJr36n0nc_SjoRiL9I5th7Svg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr36n0nc_SjoRiL9I5th7Svg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meena kids wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "521226",
+    "phone_number": "+91 92847 38805",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Dharmaraja Koil St, next to Taj Hotel, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "area": "Bharati Nagar, Shivaji Nagar",
+    "latitude": 12.985181299999999,
+    "longitude": 77.6075877,
+    "place_id": "ChIJbZtpgGsXrjsRgP3PVIfxR2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZtpgGsXrjsRgP3PVIfxR2E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:22"
+  },
+  {
+    "business_name": "Born Babies AS RAO NAGAR",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store, Baby clothing store",
+    "pincode": "521226",
+    "phone_number": "+91 98488 33361",
+    "website": "https://bornbabies.com/",
+    "rating": 4.7,
+    "reviews_count": 291,
+    "address": "1-7-90/2, Trimulgherry - ECIL Rd, near Ragavendra Hospital, South Kamala Nagar, Kamalanagar, AS Rao Nagar, Secunderabad, Telangana 500062",
+    "area": "South Kamala Nagar, Kamalanagar, AS Rao Nagar",
+    "latitude": 17.47531,
+    "longitude": 78.567784,
+    "place_id": "ChIJA10MFH-cyzsRtXF4iz4Gygw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA10MFH-cyzsRtXF4iz4Gygw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:22"
+  }
+]

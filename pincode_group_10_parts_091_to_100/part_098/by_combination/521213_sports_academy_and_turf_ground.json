@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rayala Sports",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "521213",
+    "phone_number": "+91 96768 80517",
+    "website": "https://rayala.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nandikotkur Road, opp. ZPH School, Military Colony, Puricherla, Andhra Pradesh 518452",
+    "area": "Military Colony",
+    "latitude": 15.792254499999999,
+    "longitude": 78.1022318,
+    "place_id": "ChIJK7STefzdtTsRARSxG4ObecA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7STefzdtTsRARSxG4ObecA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:08:56"
+  },
+  {
+    "business_name": "VS CRICKET & FITNESS ACADEMY",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "521213",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/vs_cricket_academy",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "75GJ+49G, Pandurangapuram, Ballepally, Telangana 507002",
+    "area": "Pandurangapuram",
+    "latitude": 17.275309699999998,
+    "longitude": 80.1809531,
+    "place_id": "ChIJq7LuOVtZNDoRD-GL59Iox-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7LuOVtZNDoRD-GL59Iox-4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:08:57"
+  }
+]

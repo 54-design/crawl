@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavya Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "521183",
+    "phone_number": "+91 77999 90219",
+    "website": "http://bhavyaeventstpt.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8-1-11/A, 140a, Panta St, And, Varadaraja Nagar, Tirupati, Hyderabad, Andhra Pradesh 517501",
+    "area": "And, Varadaraja Nagar",
+    "latitude": 13.6324388,
+    "longitude": 79.4164591,
+    "place_id": "ChIJlyaIfZhLTToRPBNFuzpdM-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyaIfZhLTToRPBNFuzpdM-0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:52:13"
+  },
+  {
+    "business_name": "Rainbow Events - Event Management Company & Wedding Planners in Tirupati",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Catering food and drink supplier, Event venue, Photography studio, Wedding planner",
+    "pincode": "521183",
+    "phone_number": "+91 95813 22888",
+    "website": "https://rainboweventstirupati.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rainbow events, Tiruchanoor Rd, near by Navajeevan Eye Hospital, Tiruchanur, Andhra Pradesh 517503",
+    "area": "Tiruchanur",
+    "latitude": 13.610165799999999,
+    "longitude": 79.44623039999999,
+    "place_id": "ChIJiyb5cb5LTToRdCrGMiIYBXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyb5cb5LTToRdCrGMiIYBXs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:52:13"
+  }
+]

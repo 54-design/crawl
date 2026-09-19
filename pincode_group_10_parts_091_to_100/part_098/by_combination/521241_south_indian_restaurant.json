@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kotaiah Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "521241",
+    "phone_number": "+91 90327 77177",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 888,
+    "address": "GJ7H+6XV, Rama Mandiram St, Venkatswara Rao Street, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Venkatswara Rao Street, Governor Peta",
+    "latitude": 16.5131749,
+    "longitude": 80.630365,
+    "place_id": "ChIJtwD8FlXlNToRK74-_vr3Tbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwD8FlXlNToRK74-_vr3Tbo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:30"
+  },
+  {
+    "business_name": "Udupi Aahar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, Vegan restaurant",
+    "pincode": "521241",
+    "phone_number": "+91 98485 89949",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 210,
+    "address": "Backside of Jayaram Theatre, Samba Murthy Rd, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520003",
+    "area": "Arundalpet, Governor Peta",
+    "latitude": 16.5164945,
+    "longitude": 80.6306275,
+    "place_id": "ChIJIWLqPJDvNToRJKCvr8Fm0aA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWLqPJDvNToRJKCvr8Fm0aA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:30"
+  }
+]

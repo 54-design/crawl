@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Online Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "521183",
+    "phone_number": "+91 63536 38983",
+    "website": "https://sites.google.com/view/apnadigiseva",
+    "rating": 5,
+    "reviews_count": 217,
+    "address": "Razi Residency, 201, Relief Rd, above Vagh-Bakri tea shop, opp. Khadim, Old City, Gheekanta, Lal Darwaja, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Gheekanta, Lal Darwaja",
+    "latitude": 23.0265238,
+    "longitude": 72.5827001,
+    "place_id": "ChIJa-IFhIGFXjkRzzgqiYvmw6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-IFhIGFXjkRzzgqiYvmw6Q",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:52:24"
+  },
+  {
+    "business_name": "DIgital Seva Centre ( CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "521183",
+    "phone_number": "+91 74067 62323",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "New, 80feet vajpayee road, Maithri Layout, Kadugodi, Bengaluru, Karnataka 560067",
+    "area": "Maithri Layout, Kadugodi",
+    "latitude": 12.9893182,
+    "longitude": 77.7597456,
+    "place_id": "ChIJGdOUsl4RrjsRgsGi5TgDvGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdOUsl4RrjsRgsGi5TgDvGc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:52:24"
+  }
+]

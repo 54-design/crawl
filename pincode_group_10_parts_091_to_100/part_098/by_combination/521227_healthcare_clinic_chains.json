@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Allada Hospitals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521227",
+    "phone_number": "+91 94403 76333",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "8-4, Vijayawada Rd, opposite Sri Lalitha Convention Hall, beside Pampula cheruvu, Godugupeta, Municipal Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Godugupeta, Municipal Quarters",
+    "latitude": 16.1855407,
+    "longitude": 81.12635639999999,
+    "place_id": "ChIJVbG4F7bnSToRZcXAfdvjXcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbG4F7bnSToRZcXAfdvjXcQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:17:30"
+  },
+  {
+    "business_name": "Sai Sri Ram Hospitals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521227",
+    "phone_number": "+91 97003 52020",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "near shakthi temple ,fire station, beside road, Edepalli, Srinivas Nagar Colony, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Edepalli, Srinivas Nagar Colony",
+    "latitude": 16.189914299999998,
+    "longitude": 81.1335896,
+    "place_id": "ChIJyVUBebnnSToRo6eCO_vP1eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVUBebnnSToRo6eCO_vP1eM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:17:30"
+  }
+]

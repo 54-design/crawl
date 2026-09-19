@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhavi Flour Mill , మాధవి పిండిమర",
+    "search_category": "Flour Mill",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer, Restaurant supply store",
+    "pincode": "521246",
+    "phone_number": "+91 94924 92849",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panchayat opposite road, Garikaparru, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521246",
+    "latitude": 16.3448668,
+    "longitude": 80.83305589999999,
+    "place_id": "ChIJlUzHufYBNjoRXbt4INkKo0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUzHufYBNjoRXbt4INkKo0E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:32:12"
+  },
+  {
+    "business_name": "Trivandrum Flour Mills Pvt. Ltd.",
+    "search_category": "Flour Mill",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "521246",
+    "phone_number": "+91 99619 93839",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "Kalpana Colony Menamkulam, CHITTATTUMUKKU, P O, Kazhakkoottam, Keralam 695582",
+    "area": "CHITTATTUMUKKU, P O",
+    "latitude": 8.5665559,
+    "longitude": 76.8528829,
+    "place_id": "ChIJe-tDwbS_BTsRVbYN_qVag74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-tDwbS_BTsRVbYN_qVag74",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:32:13"
+  }
+]

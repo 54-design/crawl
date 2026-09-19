@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadugu events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "521211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-151c, Ammavarigudem, Agiripally, Andhra Pradesh 521211",
+    "area": "Ammavarigudem",
+    "latitude": 16.6785361,
+    "longitude": 80.78262509999999,
+    "place_id": "ChIJsStYn2_hNToRmxPV93xA8TA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsStYn2_hNToRmxPV93xA8TA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:05:03"
+  },
+  {
+    "business_name": "Bank srinivasrao ,oc area",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "521211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "State Highway 236, Edulagudem, Andhra Pradesh 521211",
+    "area": "521211",
+    "latitude": 16.6918155,
+    "longitude": 80.8441647,
+    "place_id": "ChIJs1oCf4ILNjoRDUB9L0F6yxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1oCf4ILNjoRDUB9L0F6yxc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:05:03"
+  }
+]

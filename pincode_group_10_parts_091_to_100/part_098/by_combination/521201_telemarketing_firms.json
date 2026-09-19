@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "521201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hanuman Jct Rd, Nuzividu, Andhra Pradesh 521201",
+    "area": "521201",
+    "latitude": 16.7870384,
+    "longitude": 80.8523818,
+    "place_id": "ChIJfy4y8Mx1NjoRFzAkAVYDhSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfy4y8Mx1NjoRFzAkAVYDhSQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:10"
+  },
+  {
+    "business_name": "CertiCart",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Website designer",
+    "pincode": "521201",
+    "phone_number": "N/A",
+    "website": "https://www.certicart.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D-no, 1-2A, Nuzividu, Andhra Pradesh 521201",
+    "area": "521201",
+    "latitude": 16.7964624,
+    "longitude": 80.8395444,
+    "place_id": "ChIJuyXSY9l1NjoR6oTNMY2lIpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyXSY9l1NjoR6oTNMY2lIpk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:10"
+  }
+]

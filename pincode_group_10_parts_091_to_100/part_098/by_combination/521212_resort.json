@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel MN Stays",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "521212",
+    "phone_number": "+91 73068 56789",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Eluru Rd, behind Vijay Digital, Opposite Andhra Bank, Gunadala, Vijayawada, Andhra Pradesh 520004",
+    "area": "Opposite Andhra Bank, Gunadala",
+    "latitude": 16.5232903,
+    "longitude": 80.66160029999999,
+    "place_id": "ChIJWfSX4bj7NToR1ltXNcXXihA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfSX4bj7NToR1ltXNcXXihA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:06:56"
+  },
+  {
+    "business_name": "La Villa The pool stay",
+    "search_category": "Resort",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "521212",
+    "phone_number": "+91 99630 30933",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "JMFM+RP, Pathapadu, Nunna, Andhra Pradesh 521212",
+    "area": "521212",
+    "latitude": 16.6245048,
+    "longitude": 80.684263,
+    "place_id": "ChIJeyEORADnNToRChl6grqR3Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyEORADnNToRChl6grqR3Ns",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:06:56"
+  }
+]

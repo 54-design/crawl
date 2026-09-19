@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KASOORI - North Indian Rooftop Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521226",
+    "phone_number": "+91 79950 10208",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 240,
+    "address": "6th floor, Glacier building Circle, no: 20, premises, opposite google office, Kondapur, Whitefields, Gachibowli, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Whitefields, Gachibowli",
+    "latitude": 17.4575326,
+    "longitude": 78.3720481,
+    "place_id": "ChIJsa_2yzOTyzsR_YdmI3RFdxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsa_2yzOTyzsR_YdmI3RFdxk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:14"
+  },
+  {
+    "business_name": "Srinivasa Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant, Fast food restaurant",
+    "pincode": "521226",
+    "phone_number": "+91 866 283 1539",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 972,
+    "address": "HG8X+H9J, Main Road,, Guntupalli, Ibrahimpatnam Mandal, Andhra Pradesh 521241",
+    "area": "521226",
+    "latitude": 16.5664665,
+    "longitude": 80.5483813,
+    "place_id": "ChIJKwGHOIPuNToRS2DRK0iIoIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwGHOIPuNToRS2DRK0iIoIg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:15:14"
+  }
+]

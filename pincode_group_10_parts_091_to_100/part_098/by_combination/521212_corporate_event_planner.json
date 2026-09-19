@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS EVENTS AND PLANNERS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "521212",
+    "phone_number": "N/A",
+    "website": "https://ss-events-ten.vercel.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narayana Raju St, near government press, Teachers Colony, Mutyalammapadu, Satyaranayana Puram, Vijayawada, Andhra Pradesh 520011",
+    "area": "Teachers Colony, Mutyalammapadu, Satyaranayana Puram",
+    "latitude": 16.5287733,
+    "longitude": 80.6411226,
+    "place_id": "ChIJhY2UPP7lNToROEDVK1ES_V8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhY2UPP7lNToROEDVK1ES_V8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:06:57"
+  },
+  {
+    "business_name": "M.S.R CONVENTION",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Convention center",
+    "pincode": "521212",
+    "phone_number": "+91 94911 15642",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 48,
+    "address": "Ground Area, Main Road, Prashanthi Nagar, Prakashnagar, Payakapuram, Vijayawada, Payikapuram, Andhra Pradesh 520015",
+    "area": "Prashanthi Nagar, Prakashnagar, Payakapuram",
+    "latitude": 16.5470072,
+    "longitude": 80.651421,
+    "place_id": "ChIJp9FidQDlNToRMRcldhe9f5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9FidQDlNToRMRcldhe9f5o",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:06:59"
+  }
+]

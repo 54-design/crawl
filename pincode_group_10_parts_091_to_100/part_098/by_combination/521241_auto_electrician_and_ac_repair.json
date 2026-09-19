@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Savera Car Cool Centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "521241",
+    "phone_number": "+91 98855 11178",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhavani Nagar, Moosapet, Hyderabad, Telangana 500018",
+    "area": "Bhavani Nagar, Moosapet",
+    "latitude": 17.469664899999998,
+    "longitude": 78.42826459999999,
+    "place_id": "ChIJ2XWV_fuQyzsRefkorQ6_Hcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XWV_fuQyzsRefkorQ6_Hcg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:03"
+  },
+  {
+    "business_name": "Sonovision Vinoda Store",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "521241",
+    "phone_number": "N/A",
+    "website": "http://www.sonovision.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "GJ7H+RGW, Vishnu Vardhana Rao St, Arundalpet, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Arundalpet, Governor Peta",
+    "latitude": 16.5146089,
+    "longitude": 80.6288371,
+    "place_id": "ChIJnT5dQ_7vNToR2-RPL63zoT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT5dQ_7vNToR2-RPL63zoT8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:03"
+  }
+]

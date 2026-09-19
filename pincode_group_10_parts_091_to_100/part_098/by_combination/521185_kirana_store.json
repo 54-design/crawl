@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI LAKSHMI NARASIMHA KIRANA",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "521185",
+    "phone_number": "+91 92472 95969",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Mukoti Mandapam Back Side, nr. Anjaneya Swamy Temple, Nandigama, Andhra Pradesh 521185",
+    "area": "521185",
+    "latitude": 16.7755284,
+    "longitude": 80.2858456,
+    "place_id": "ChIJ5elDtKu9NToRKHu1nIEdVRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5elDtKu9NToRKHu1nIEdVRk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:54:48"
+  },
+  {
+    "business_name": "More Supermarket - Jaggaiahpet",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Discount supermarket, Gourmet grocery store, Grocery delivery service",
+    "pincode": "521185",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ground Floor, D No. 6-1195, Seetharamapuram, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "521185",
+    "latitude": 16.8947221,
+    "longitude": 80.0977394,
+    "place_id": "ChIJyS2qUaepNToRaVv2dgkWBLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyS2qUaepNToRaVv2dgkWBLc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:54:49"
+  }
+]

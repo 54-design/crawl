@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Ice Factory",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Ice supplier",
+    "all_categories": "Ice supplier",
+    "pincode": "521235",
+    "phone_number": "+91 99493 28179",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "13-80/a,Khankhanpet, Kalluru, Telangana 507209",
+    "area": "521235",
+    "latitude": 17.1993614,
+    "longitude": 80.56374579999999,
+    "place_id": "ChIJD6gQ2iIxNDoRrXTylalrKeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6gQ2iIxNDoRrXTylalrKeE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:06"
+  },
+  {
+    "business_name": "SRI KIRAN ELECTRICALS CRI PUMPS",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "521235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-325, మెయిన్ రోడ్, కల్లూరు, Tiruvuru, Kalluru, Andhra Pradesh 507209",
+    "area": "కల్లూరు",
+    "latitude": 17.1999626,
+    "longitude": 80.543936,
+    "place_id": "ChIJg8FpLS0xNDoRkghmPYlUvMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8FpLS0xNDoRkghmPYlUvMM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:08"
+  }
+]

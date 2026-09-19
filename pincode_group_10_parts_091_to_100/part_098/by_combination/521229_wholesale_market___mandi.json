@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BNR Fruits",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "521229",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fruit Market, #18-1-58, opp. Raitu Bazaar, Kedareswarapeta, Vijayawada, Andhra Pradesh 520003",
+    "area": "Ramalingeswarapet, Kedareswarapeta, Kedareswar Pet",
+    "latitude": 16.525613,
+    "longitude": 80.628529,
+    "place_id": "ChIJGR3MTMLvNToRCL2biAj5jBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGR3MTMLvNToRCL2biAj5jBs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:22:35"
+  },
+  {
+    "business_name": "Government Market Yard",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "521229",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 33,
+    "address": "Mandavalli, Andhra Pradesh 521345",
+    "area": "521229",
+    "latitude": 16.5186663,
+    "longitude": 81.1645968,
+    "place_id": "ChIJUbTETaciNjoRFULuCA1qZNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbTETaciNjoRFULuCA1qZNc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:22:36"
+  }
+]

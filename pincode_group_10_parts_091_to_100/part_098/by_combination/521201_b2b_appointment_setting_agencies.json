@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel BPO",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "521201",
+    "phone_number": "+91 98910 57170",
+    "website": "http://www.travelsbpo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Travel BPO, 521201, India",
+    "area": "521201",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_3SC5BcbDTkRMBAm3wRJgLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3SC5BcbDTkRMBAm3wRJgLk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:11"
+  },
+  {
+    "business_name": "Krono",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, BPO Company, Call center, Internet marketing service, Telephone Marketing Agency",
+    "pincode": "521201",
+    "phone_number": "+91 91670 77067",
+    "website": "http://www.kronoiinc.com/",
+    "rating": 4.3,
+    "reviews_count": 105,
+    "address": "423 Kaliandas Udyog Bhavan, 302/303, Sadanand Hasu Tandel Marg, Century Bazaar, Prabhadevi, Mumbai, Maharashtra 400025",
+    "area": "Century Bazaar, Prabhadevi",
+    "latitude": 19.011486899999998,
+    "longitude": 72.82431439999999,
+    "place_id": "ChIJnY8jF73oWhERmrlidEx6VG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnY8jF73oWhERmrlidEx6VG0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:11"
+  }
+]

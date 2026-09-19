@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro wholesale market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "521182",
+    "phone_number": "+91 79812 60972",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 756,
+    "address": "Sitaram Nagar, Guntur, Andhra Pradesh 522001",
+    "area": "Sitaram Nagar",
+    "latitude": 16.3035543,
+    "longitude": 80.460793,
+    "place_id": "ChIJPdFCg74LSjoRm2u8XeZun4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdFCg74LSjoRm2u8XeZun4w",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:32"
+  },
+  {
+    "business_name": "Tenali Market Yard",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "521182",
+    "phone_number": "+91 86442 28380",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 647,
+    "address": "6JVJ+592, Guntur -Tenali Rd, government hospatal, Sulthanabad, Tenali, Andhra Pradesh 522202",
+    "area": "government hospatal, Sulthanabad",
+    "latitude": 16.242875599999998,
+    "longitude": 80.630883,
+    "place_id": "ChIJ63vJQ6gISjoRJinh2qxc2V8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63vJQ6gISjoRJinh2qxc2V8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:32"
+  }
+]

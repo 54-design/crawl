@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "silpa beauty parler",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521183",
+    "phone_number": "+91 63018 11749",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "Main Rd, near masjid complex, Y.Y. Colony, Jaggaiahpet, Andhra Pradesh 521175",
+    "area": "Y.Y. Colony",
+    "latitude": 16.8917861,
+    "longitude": 80.0961085,
+    "place_id": "ChIJmfG1VMcHNToR7CvtaYCTmRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfG1VMcHNToR7CvtaYCTmRs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:51:55"
+  },
+  {
+    "business_name": "Seven Eleven Beauty Shop",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "521183",
+    "phone_number": "+91 79813 04353",
+    "website": "https://instagram.com/seven_eleven_beauty_shop?igshid=NzZlODBkYWE4Ng==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tk street, near sai baba temple, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6359169,
+    "longitude": 79.4181433,
+    "place_id": "ChIJ5amc865LTToRay1MAXgfmU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5amc865LTToRay1MAXgfmU0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:51:56"
+  }
+]

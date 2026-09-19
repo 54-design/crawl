@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Computer & Tutions",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "521235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4J55+WQJ, Tiruvuru, Andhra Pradesh 521235",
+    "area": "521235",
+    "latitude": 17.1098368,
+    "longitude": 80.60937559999999,
+    "place_id": "ChIJhzIJ1I0zNDoRdi62jOcyrBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzIJ1I0zNDoRdi62jOcyrBw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:27:40"
+  },
+  {
+    "business_name": "KKCC Info Systems",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "521235",
+    "phone_number": "+91 98485 17191",
+    "website": "http://www.kkccinfo.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "14th ,8-237, Lawyer Pet, Ongole, Andhra Pradesh 523002",
+    "area": "Lawyer Pet",
+    "latitude": 15.5064365,
+    "longitude": 80.0315188,
+    "place_id": "ChIJD1Ha1QoBSzoRS1ZMznN4nxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1Ha1QoBSzoRS1ZMznN4nxY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:27:43"
+  }
+]

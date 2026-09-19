@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramakrishna Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "521241",
+    "phone_number": "+91 70934 05409",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 48,
+    "address": "174 Ramakrishna Bakery, Gandhi Rd, Tirupati, Andhra Pradesh 517501",
+    "area": "Balaji Colony",
+    "latitude": 13.6310539,
+    "longitude": 79.4155773,
+    "place_id": "ChIJCwATFQVLTToRCzUJ-Un8Y7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwATFQVLTToRCzUJ-Un8Y7k",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:27"
+  },
+  {
+    "business_name": "Red Cherry Bakers & Restaurant",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Fast food restaurant, Pastry shop, Pizza restaurant, Restaurant",
+    "pincode": "521241",
+    "phone_number": "+91 78933 33733",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 2889,
+    "address": "Chaitanya Nagar, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Chaitanya Nagar, Gajuwaka",
+    "latitude": 17.6845183,
+    "longitude": 83.2030166,
+    "place_id": "ChIJI2MTfAZpOToRvo9haGlJJ5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2MTfAZpOToRvo9haGlJJ5U",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:27"
+  }
+]

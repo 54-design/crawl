@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "521230",
+    "phone_number": "+91 95533 14779",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-54, near Union Bank, Mylavaram, Andhra Pradesh 521230",
+    "area": "521230",
+    "latitude": 16.7546097,
+    "longitude": 80.6452687,
+    "place_id": "ChIJeXd_hXDdNToRUFDkb0FDLl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXd_hXDdNToRUFDkb0FDLl4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:23:25"
+  },
+  {
+    "business_name": "SUSILA AUTOMOBILES",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "521230",
+    "phone_number": "+91 94949 42753",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near RCM Church, Thotamoola, Gampalagudem, Peda Komira, Andhra Pradesh 521403",
+    "area": "Thotamoola",
+    "latitude": 16.985279,
+    "longitude": 80.5180005,
+    "place_id": "ChIJy8RnRH7LNToRdRDDQIPyl4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8RnRH7LNToRdRDDQIPyl4s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:23:26"
+  }
+]

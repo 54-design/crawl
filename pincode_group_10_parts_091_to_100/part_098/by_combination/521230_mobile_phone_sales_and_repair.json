@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chitluri mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "521230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Post Office Rd, beside police control room, [no name], Mylavaram, Andhra Pradesh 521230",
+    "area": "[no name]",
+    "latitude": 16.7560489,
+    "longitude": 80.6414006,
+    "place_id": "ChIJXVg9WbfdNToRuWOPpQFOZtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVg9WbfdNToRuWOPpQFOZtQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:23:59"
+  },
+  {
+    "business_name": "Laxmi Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521230",
+    "phone_number": "+91 99517 07376",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 139,
+    "address": "5 Road Junction, Ramanaidupet, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Ramanaidupet",
+    "latitude": 16.1827961,
+    "longitude": 81.1344577,
+    "place_id": "ChIJa_S8-1rnSToRr-OjAukpAWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_S8-1rnSToRr-OjAukpAWQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:24:00"
+  }
+]

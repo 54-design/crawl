@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHANMUKHA CAR CARE",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "521229",
+    "phone_number": "+91 99125 23333",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "NH 65 WESTIBRAHIMPATNAM IBRAHIMPATNAM MANDAL, Vijayawada, Andhra Pradesh 521456",
+    "area": "521229",
+    "latitude": 16.594013,
+    "longitude": 80.51365299999999,
+    "place_id": "ChIJqc_8J3fsNToR5e8i9joLFvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc_8J3fsNToR5e8i9joLFvQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:17"
+  },
+  {
+    "business_name": "Hari car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "521229",
+    "phone_number": "+91 63045 76767",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "RTC colony, Ferry Rd, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "Kothapet",
+    "latitude": 16.5869317,
+    "longitude": 80.5187906,
+    "place_id": "ChIJ31fkFhPtNToRW0cc_i_-oLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31fkFhPtNToRW0cc_i_-oLQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:17"
+  }
+]

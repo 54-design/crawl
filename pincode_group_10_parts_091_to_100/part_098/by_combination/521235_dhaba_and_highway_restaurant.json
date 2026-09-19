@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orissa Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "521235",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "67GG+7P8, Suryapeta - Badrachalam Rd, Telangana 507305",
+    "area": "521235",
+    "latitude": 17.2256659,
+    "longitude": 80.27684049999999,
+    "place_id": "ChIJwf8Z_uFPNDoRD3Of8MdIJKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwf8Z_uFPNDoRD3Of8MdIJKo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:26:38"
+  },
+  {
+    "business_name": "Kamath Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "521235",
+    "phone_number": "+91 99126 27267",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "SH-44, Eluru - Jangareddygudem Rd, Denduluru, Jogannapuram, Denduluru, Andhra Pradesh 534450",
+    "area": "Denduluru",
+    "latitude": 16.8207935,
+    "longitude": 81.1568011,
+    "place_id": "ChIJj8PcaflpNjoRmOo_TjtSXu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8PcaflpNjoRmOo_TjtSXu4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:26:41"
+  }
+]

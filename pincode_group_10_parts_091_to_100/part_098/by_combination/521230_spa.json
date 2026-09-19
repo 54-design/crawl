@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Bella Wellness Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa",
+    "pincode": "521230",
+    "phone_number": "+91 88860 83337",
+    "website": "https://labellawellnessspa.in/",
+    "rating": 4.8,
+    "reviews_count": 499,
+    "address": "p.no 5, Laxminarasimha puram, Nagarjuna Sagar Rd, above the arvind store, beside Croma Store, Hasthinapuram Central, Laxmi Narashima Puram Colony, Hastinapuram, Hyderabad, Telangana 500079",
+    "area": "Hasthinapuram Central, Laxmi Narashima Puram Colony, Hastinapuram",
+    "latitude": 17.330481799999998,
+    "longitude": 78.55283519999999,
+    "place_id": "ChIJe-FiIxujyzsR8QYUK0Gmd-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-FiIxujyzsR8QYUK0Gmd-I",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:23:36"
+  },
+  {
+    "business_name": "THE RELAX & GO",
+    "search_category": "Spa",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Massage spa",
+    "pincode": "521230",
+    "phone_number": "+91 94949 43225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 05 Ramachandra compex, near sangamithra, Andhra Pradesh 521230",
+    "area": "521230",
+    "latitude": 16.7577395,
+    "longitude": 80.64176169999999,
+    "place_id": "ChIJ7aNG8kfdNToRTCfEAEERVaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7aNG8kfdNToRTCfEAEERVaY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:23:37"
+  }
+]

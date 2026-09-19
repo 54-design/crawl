@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.A. Auto Electrical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Electrical repair shop",
+    "pincode": "521231",
+    "phone_number": "+91 98664 13510",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "H.No:11-1-145/7, Patwari Enclav Gandhinagar Road, Jeedimetla Main Road, opp. IDPL Colony, Balanagar, Hyderabad, Telangana 500037",
+    "area": "Patwari Enclave, Adarsh Nagar, Gurumurthy Nagar, Balanagar",
+    "latitude": 17.4882263,
+    "longitude": 78.4481395,
+    "place_id": "ChIJx3SllUOQyzsRXR6-EOhhB6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3SllUOQyzsRXR6-EOhhB6Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:25:14"
+  },
+  {
+    "business_name": "Deep Auto",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service, Alternator supplier, Auto electrical service, Car battery store",
+    "pincode": "521231",
+    "phone_number": "+91 98258 49012",
+    "website": "http://www.deep-auto.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Deep Auto, G/F Shop No.B.14, Arjune Aligance AEC Cross Road, Navneetbhai Patel Marg, opp. Bhagirath Society, near Divyapath School, Ahmedabad, Gujarat 380013",
+    "area": "Naranpura",
+    "latitude": 23.0522308,
+    "longitude": 72.5448881,
+    "place_id": "ChIJlyL8E5iEXjkR8D45Teh9Wuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyL8E5iEXjkR8D45Teh9Wuc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:25:14"
+  }
+]

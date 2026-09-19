@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Cheemalapadu",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "521215",
+    "phone_number": "+91 93473 72862",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, I.V. Sudhakar Complex, Cheemalapadu, Andhra Pradesh 521226",
+    "area": "521215",
+    "latitude": 16.893305599999998,
+    "longitude": 80.6433029,
+    "place_id": "ChIJA0jJoSfRNToRa3RSbcmUPPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0jJoSfRNToRa3RSbcmUPPg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:12:46"
+  },
+  {
+    "business_name": "DSK GLOBAL Express Pvt Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "521215",
+    "phone_number": "+91 94413 00231",
+    "website": "http://www.dskglobal.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no : 2-52/1, Ground floor ,Opp Metro Pillar C1728 and EASTIN Hotels , Madhapur, HITEC City, Hyderabad, Telangana 500081",
+    "area": "Megha Hills, Sri Sai Nagar, HITEC City",
+    "latitude": 17.4411006,
+    "longitude": 78.3921124,
+    "place_id": "ChIJH8XqR06RyzsRsWgnQtzK1fY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8XqR06RyzsRsWgnQtzK1fY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:12:46"
+  }
+]

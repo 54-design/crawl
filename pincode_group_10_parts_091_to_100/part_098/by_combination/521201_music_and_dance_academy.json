@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Feet On Fire Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "521201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22/43, Azad Rd, Municipal Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Municipal Quarters",
+    "latitude": 16.174864,
+    "longitude": 81.123381,
+    "place_id": "ChIJK87TsM3nSToRCkxBKQiMzMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK87TsM3nSToRCkxBKQiMzMA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:41"
+  },
+  {
+    "business_name": "Melody makers School of music",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "521201",
+    "phone_number": "+91 89193 03311",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "Korlagunta, Maruthi Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Korlagunta, Maruthi Nagar",
+    "latitude": 13.6367623,
+    "longitude": 79.42828999999999,
+    "place_id": "ChIJUfT-HvxLTToRGDNbtGV57gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfT-HvxLTToRGDNbtGV57gw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:42"
+  }
+]

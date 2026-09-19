@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AKBAR CYCLE STORES",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "521201",
+    "phone_number": "+91 92920 09143",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 6,
+    "address": "Bus stand road, Nuzvid Rd, Nuzividu, Andhra Pradesh 521201",
+    "area": "521201",
+    "latitude": 16.786164799999998,
+    "longitude": 80.84875559999999,
+    "place_id": "ChIJHd4qat91NjoR5RwqCRNOCo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHd4qat91NjoR5RwqCRNOCo0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:06"
+  },
+  {
+    "business_name": "Uma Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "521201",
+    "phone_number": "+91 97019 24477",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mylavaram Rd, Nuzividu, Andhra Pradesh 521201",
+    "area": "521201",
+    "latitude": 16.7903949,
+    "longitude": 80.8392812,
+    "place_id": "ChIJySCt1XZ1NjoRMckpM46UMXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySCt1XZ1NjoRMckpM46UMXM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:59:06"
+  }
+]

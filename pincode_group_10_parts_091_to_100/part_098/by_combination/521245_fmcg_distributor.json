@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vini Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "521245",
+    "phone_number": "+91 81218 60233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "40/448 –D, R.S.ROAD, opp. STBC College Road, Gypson Colony, Gandhi Nagar, Kurnool, Andhra Pradesh 518001",
+    "area": "Gypson Colony, Gandhi Nagar",
+    "latitude": 15.831895999999999,
+    "longitude": 78.03797399999999,
+    "place_id": "ChIJX-dzFVzntTsRxVcppY7PDgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-dzFVzntTsRxVcppY7PDgk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:30:23"
+  },
+  {
+    "business_name": "Sunsip Agro Processors - Factory",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "521245",
+    "phone_number": "+91 80565 51557",
+    "website": "http://www.sunsipagro.com/",
+    "rating": 4.1,
+    "reviews_count": 23,
+    "address": "Bovinachapalli Village, Chintamani Rd, Srinivaspur, Karnataka 563135",
+    "area": "Boyinachapalli",
+    "latitude": 13.3441774,
+    "longitude": 78.193275,
+    "place_id": "ChIJhX-uXxwJsjsReRe8Uksa3HQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhX-uXxwJsjsReRe8Uksa3HQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:30:23"
+  }
+]

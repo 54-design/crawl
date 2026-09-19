@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAPHAL CAR TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "521185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 3B/268, Vasavi Pharmacy Market Complex, Ganganamma Temple Rd, opp. Sneha Towers, Gollapudi, Andhra Pradesh 521225",
+    "area": "Gollapudi",
+    "latitude": 16.5425121,
+    "longitude": 80.5770806,
+    "place_id": "ChIJj7p2W1PvNToRjIxY5BhSQc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7p2W1PvNToRjIxY5BhSQc8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:30"
+  },
+  {
+    "business_name": "A1 CAR TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "521185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XXW8+H4F Kondapur, Nayanagar, Kodad, Telangana 508206",
+    "area": "Nayanagar",
+    "latitude": 16.9964272,
+    "longitude": 79.9652898,
+    "place_id": "ChIJBwJolcYDNToR_bvYa8MXJyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwJolcYDNToR_bvYa8MXJyg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:32"
+  }
+]

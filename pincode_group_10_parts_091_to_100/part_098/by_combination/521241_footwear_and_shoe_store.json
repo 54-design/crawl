@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADITYA SHOE MART",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521241",
+    "phone_number": "+91 96666 69383",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aditya Footwear, Ferry Rd, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "521241",
+    "latitude": 16.5883906,
+    "longitude": 80.5200876,
+    "place_id": "ChIJVThMK1rtNToRLdyAgt2RiFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVThMK1rtNToRLdyAgt2RiFQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:40"
+  },
+  {
+    "business_name": "PARAGON SHOE MART",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "521241",
+    "phone_number": "+91 95732 80225",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 532,
+    "address": "22-4-58/2, Karakambadi Rd, Bank Employees Colony, Mangalam, Tirupati, Andhra Pradesh 517501",
+    "area": "Bank Employees Colony, Mangalam",
+    "latitude": 13.6478559,
+    "longitude": 79.4451338,
+    "place_id": "ChIJdU4aYQhLTToR-PNNYwx0Dik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdU4aYQhLTToR-PNNYwx0Dik",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:40"
+  }
+]

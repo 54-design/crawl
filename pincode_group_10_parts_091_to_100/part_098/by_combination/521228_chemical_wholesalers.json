@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siri resins industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "521228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JHV4+2J8, Kondapalli IDA, Kavuluru, Andhra Pradesh 521228",
+    "area": "Kondapalli IDA",
+    "latitude": 16.6425159,
+    "longitude": 80.5565716,
+    "place_id": "ChIJU4Q5GgDpNToRBDoCM-w98m0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4Q5GgDpNToRBDoCM-w98m0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:20:23"
+  },
+  {
+    "business_name": "Surya Teja Agro Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "521228",
+    "phone_number": "+91 98499 82507",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Flat number: 34, Door number. 19, 34, Agro Nagar, Tummalapalem, Vijayawada, Andhra Pradesh 521241",
+    "area": "Agro Nagar",
+    "latitude": 16.578769599999998,
+    "longitude": 80.5337639,
+    "place_id": "ChIJ1Wws0antNToRwPJnk5nngS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Wws0antNToRwPJnk5nngS8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:20:25"
+  }
+]

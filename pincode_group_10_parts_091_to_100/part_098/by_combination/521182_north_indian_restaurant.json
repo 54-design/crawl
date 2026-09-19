@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kothaiah Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Fast food restaurant",
+    "pincode": "521182",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 196,
+    "address": "Nandigama, Andhra Pradesh 521185",
+    "area": "521182",
+    "latitude": 16.777262699999998,
+    "longitude": 80.28594269999999,
+    "place_id": "ChIJQ35Z2le7NToR2P5443zNMuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ35Z2le7NToR2P5443zNMuQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:48:18"
+  },
+  {
+    "business_name": "Chowdary military Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521182",
+    "phone_number": "+91 95050 86333",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 1230,
+    "address": "Q7GP+Q8P, Main Bazar Rd, Nandigama, Andhra Pradesh 521185",
+    "area": "521182",
+    "latitude": 16.776950199999998,
+    "longitude": 80.2858418,
+    "place_id": "ChIJQe1ygSK7NToRwNVrwOJ6DJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQe1ygSK7NToRwNVrwOJ6DJY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:48:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vishnu Palace",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Chinese restaurant, Diner, Lunch restaurant, Self service restaurant, South Indian restaurant",
+    "pincode": "521215",
+    "phone_number": "+91 94828 52301",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 5233,
+    "address": "# 39/3, junction, Doddanekkundi, Bengaluru, Karnataka 560037",
+    "area": "Ferns City, Doddanekkundi",
+    "latitude": 12.9794118,
+    "longitude": 77.6953475,
+    "place_id": "ChIJue5X7Y8RrjsR6YPSyMZnW1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJue5X7Y8RrjsR6YPSyMZnW1s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:30"
+  },
+  {
+    "business_name": "Saviruchi Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "521215",
+    "phone_number": "+91 98441 40434",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 3911,
+    "address": "Sri Venkateshwara Arcade, Malavalli, Karnataka 571430",
+    "area": "521215",
+    "latitude": 12.3847192,
+    "longitude": 77.05317099999999,
+    "place_id": "ChIJnajU4S4FrzsRrI3PdrXQxjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnajU4S4FrzsRrI3PdrXQxjI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:30"
+  }
+]

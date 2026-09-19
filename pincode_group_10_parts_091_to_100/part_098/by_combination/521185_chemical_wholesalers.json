@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasavi Chemical Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Chemical wholesaler",
+    "pincode": "521185",
+    "phone_number": "+91 86492 52385",
+    "website": "http://vasavilime.com/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "13, 148, opp. Shirdi Sai Temple, Piduguralla, Andhra Pradesh 522413",
+    "area": "521185",
+    "latitude": 16.4948409,
+    "longitude": 79.8990585,
+    "place_id": "ChIJb-BNr4lvNToRozlO4n1d1cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-BNr4lvNToRozlO4n1d1cQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:56:22"
+  },
+  {
+    "business_name": "P.V.R Varalu Company",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "521185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Magallu, Andhra Pradesh 521184",
+    "area": "521185",
+    "latitude": 16.8135305,
+    "longitude": 80.31265979999999,
+    "place_id": "ChIJH7gciQG7NToR8yk3ZzTWGaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7gciQG7NToR8yk3ZzTWGaM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:56:22"
+  }
+]

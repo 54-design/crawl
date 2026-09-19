@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PHC Bantumilli",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "521228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "Unnamed Road, Janakiramapuram, Pendurru, Bantumilli, Andhra Pradesh 521324",
+    "area": "Janakiramapuram",
+    "latitude": 16.371809799999998,
+    "longitude": 81.2657064,
+    "place_id": "ChIJqfWI4pknNjoRSOyK0Jf1pUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfWI4pknNjoRSOyK0Jf1pUQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:14"
+  },
+  {
+    "business_name": "PHC MOVVA",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "6WH7+P3Q, Movva, Andhra Pradesh 521135",
+    "area": "521228",
+    "latitude": 16.2293312,
+    "longitude": 80.9127347,
+    "place_id": "ChIJt3Dp4O77SToRqVvjWuHbUZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3Dp4O77SToRqVvjWuHbUZU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:14"
+  }
+]

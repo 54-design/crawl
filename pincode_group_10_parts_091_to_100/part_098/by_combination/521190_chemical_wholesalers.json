@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mythri organics and chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521190",
+    "phone_number": "+91 95029 33527",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "W7VF+VJJ, Kambhampadu, Andhra Pradesh 521402",
+    "area": "521190",
+    "latitude": 16.9447099,
+    "longitude": 80.27401359999999,
+    "place_id": "ChIJ615BfR6uNToRq57EFaggckk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ615BfR6uNToRq57EFaggckk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:58:12"
+  },
+  {
+    "business_name": "Fabchem India, Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Household chemicals supplier, Industrial chemicals wholesaler",
+    "pincode": "521190",
+    "phone_number": "+91 97779 96481",
+    "website": "http://www.fabchemindia.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "6-113, Vepagunta - Sabbavaram Rd, Nera, Vidyanagar, Vepagunta, Andhra Pradesh 530047",
+    "area": "Nera, Vidyanagar",
+    "latitude": 17.7732177,
+    "longitude": 83.2168712,
+    "place_id": "ChIJhQgKCkBnOToRF0Y1gTgRseU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQgKCkBnOToRF0Y1gTgRseU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:58:13"
+  }
+]

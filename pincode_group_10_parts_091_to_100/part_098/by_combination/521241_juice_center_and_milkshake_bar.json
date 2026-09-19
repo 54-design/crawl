@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Visakha Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "521241",
+    "phone_number": "+91 90326 35012",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "opposite Green Apple Hotel, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Gajuwaka",
+    "latitude": 17.6881895,
+    "longitude": 83.2130952,
+    "place_id": "ChIJU1VVValpOToRka1SM5pwFSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1VVValpOToRka1SM5pwFSI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:30"
+  },
+  {
+    "business_name": "Skml Juice Center Venkojipalem",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "521241",
+    "phone_number": "+91 97018 85600",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 18,
+    "address": "Sector- 6, Venkojipalem, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Sector- 6, Venkojipalem",
+    "latitude": 17.7473659,
+    "longitude": 83.3312718,
+    "place_id": "ChIJ3YnOZKtcOToRA7NhjA4DKMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YnOZKtcOToRA7NhjA4DKMU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:31"
+  }
+]

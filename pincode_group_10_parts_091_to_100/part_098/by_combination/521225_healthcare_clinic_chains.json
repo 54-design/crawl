@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr T V S Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Doctor",
+    "pincode": "521225",
+    "phone_number": "+91 866 257 3159",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "14-14-30, Hanuman Pet,, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.5161332,
+    "longitude": 80.6232102,
+    "place_id": "ChIJi81nCfzvNToR-08RzpNu47g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi81nCfzvNToR-08RzpNu47g",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:13:45"
+  },
+  {
+    "business_name": "CC Life Care Diagnostics",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Medical diagnostic imaging center, Paternity testing service, Pathologist, STD testing service",
+    "pincode": "521225",
+    "phone_number": "+91 1800 309 7777",
+    "website": "https://ampath.com/?utm_source=GMP",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No.29-10-40/1, Thadikondala Towers, 1St Floor, Narsimhanaidu Street Suryapet Rao Krishna Vijayawad, VIJAYAWADA, Andhra Pradesh 520002",
+    "area": "521225",
+    "latitude": 16.5665552,
+    "longitude": 80.5475541,
+    "place_id": "ChIJ-yYgfvnvNToRNAvlX08pP6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yYgfvnvNToRNAvlX08pP6Y",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:13:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Event Management",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Entertainment agency, Event venue",
+    "pincode": "521228",
+    "phone_number": "+91 79975 55522",
+    "website": "https://sunshineevents.net/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "14-52 Tulasi Nagar, 3rd Line, opp. to Mounica Hosipatals Corner point, Kanuru, Vijayawada, Andhra Pradesh 520007",
+    "area": "Siddiq Nagar, Kanuru",
+    "latitude": 16.4923276,
+    "longitude": 80.6780321,
+    "place_id": "ChIJc2_18FL7NToRX0B55NU3y30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2_18FL7NToRX0B55NU3y30",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:58"
+  },
+  {
+    "business_name": "Subham events and catering",
+    "search_category": "Media and Event",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "521228",
+    "phone_number": "+91 95021 46308",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W55X+RG3, Penuguduru, Andhra Pradesh 533016",
+    "area": "521228",
+    "latitude": 16.9095069,
+    "longitude": 82.1987978,
+    "place_id": "ChIJoy3_NwCJNzoRh02UFI6aGW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoy3_NwCJNzoRh02UFI6aGW0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:20:01"
+  }
+]

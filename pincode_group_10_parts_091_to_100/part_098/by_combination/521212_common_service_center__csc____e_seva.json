@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SREE COMMUNICATIONS",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center, Government office",
+    "pincode": "521212",
+    "phone_number": "N/A",
+    "website": "https://ap.meeseva.gov.in/IMeeSeva2/IMeesevaHome.aspx",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Sree communications,9-2, Main Road, beside panchayathi office, Prasadampadu, Ramavarappadu, Andhra Pradesh 521108",
+    "area": "Prasadampadu, currency nagar",
+    "latitude": 16.522670599999998,
+    "longitude": 80.6879962,
+    "place_id": "ChIJK2HF3tHkNToRLjhBCPcnZB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2HF3tHkNToRLjhBCPcnZB8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:07:07"
+  },
+  {
+    "business_name": "CSC COMMON SERVICE CENTRE",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Common Service Center (CSC) / E-Seva",
+    "all_categories": "Common Service Center (CSC) / E-Seva",
+    "pincode": "521212",
+    "phone_number": "+91 96665 16416",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Gaddiannaram Colony, Sahithi Nagar, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "New Gaddiannaram Colony, Sahithi Nagar, Dilsukhnagar",
+    "latitude": 17.3622156,
+    "longitude": 78.52218359999999,
+    "place_id": "ChIJIdE8dPWYyzsRwCYmdQwD-SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdE8dPWYyzsRwCYmdQwD-SY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:07:08"
+  }
+]

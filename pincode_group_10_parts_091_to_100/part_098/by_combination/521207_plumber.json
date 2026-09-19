@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhakar Electrical and Plumbing Works",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Electrical installation service",
+    "pincode": "521207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhinagar Rd, Vijayarai, Andhra Pradesh 534475",
+    "area": "521207",
+    "latitude": 16.8214091,
+    "longitude": 81.03739639999999,
+    "place_id": "ChIJj-p-CQBvNjoRm11FBSX2-c8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-p-CQBvNjoRm11FBSX2-c8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:02:54"
+  },
+  {
+    "business_name": "lucky plumbing works",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "521207",
+    "phone_number": "+91 82474 06591",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 56,
+    "address": "Dinnedevarapadu, Kurnool, Dinnedevarapadu, Andhra Pradesh 518002",
+    "area": "Dinnedevarapadu",
+    "latitude": 15.772403299999999,
+    "longitude": 78.0372707,
+    "place_id": "ChIJ8266A8bdtTsRbtoJ2Jqn-mY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8266A8bdtTsRbtoJ2Jqn-mY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:02:55"
+  }
+]

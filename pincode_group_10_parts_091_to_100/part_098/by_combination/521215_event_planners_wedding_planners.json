@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parinay Weddings & Events IQ",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Party planner, Wedding photographer, Wedding service",
+    "pincode": "521215",
+    "phone_number": "+91 94477 08597",
+    "website": "http://www.parinayweddings.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Events IQ TC.11/1556(3), Devaswom Board Junction, Nanthancode, Trivandrum, Thiruvananthapuram, Keralam 695003",
+    "area": "Nanthancodu",
+    "latitude": 8.5186028,
+    "longitude": 76.955321,
+    "place_id": "ChIJ-dlPROu6BTsRdRpQQCmvyfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dlPROu6BTsRdRpQQCmvyfE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:12:24"
+  },
+  {
+    "business_name": "Red Dot Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Florist, Photography service, Stage, Event management company, Wedding service",
+    "pincode": "521215",
+    "phone_number": "+91 87147 73330",
+    "website": "https://www.reddotevents.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, Grand Mansion Building, Thadathil Padi, Karuvatta, Adoor, Keralam 691523",
+    "area": "Karuvatta",
+    "latitude": 9.1539076,
+    "longitude": 76.72357339999999,
+    "place_id": "ChIJ00io9WkOBjsRQt5sBcZR3ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00io9WkOBjsRQt5sBcZR3ZA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:12:24"
+  }
+]

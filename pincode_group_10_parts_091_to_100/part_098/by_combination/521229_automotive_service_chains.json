@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeep-Turbo Automotives Private Limited",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Repair service",
+    "pincode": "521229",
+    "phone_number": "+91 92985 05555",
+    "website": "https://www.jeep-india.com/",
+    "rating": 4.3,
+    "reviews_count": 31,
+    "address": "Panchyat Office, No.195/4 N 195/5, NH-5 Road, Rural, opp. Enikepadu, Enikepadu, Prasadampadu, Andhra Pradesh 521108",
+    "area": "Enikepadu",
+    "latitude": 16.514968,
+    "longitude": 80.70494099999999,
+    "place_id": "ChIJmUOMODL7NToRpXcZd69dYHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUOMODL7NToRpXcZd69dYHc",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:28"
+  },
+  {
+    "business_name": "Manoj Car Accessories",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "521229",
+    "phone_number": "+91 98495 04092",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "Bus Stop, KCP, Vijayawada Rd, KCP Colony, Poranki, Kanuru, Andhra Pradesh 521134",
+    "area": "KCP Colony, Poranki",
+    "latitude": 16.4807269,
+    "longitude": 80.6946378,
+    "place_id": "ChIJx7Lv4577NToRla4lnxNR3Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7Lv4577NToRla4lnxNR3Ik",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:28"
+  }
+]

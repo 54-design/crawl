@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PC Technology",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "POS terminal supplier",
+    "all_categories": "POS terminal supplier, Commercial printer",
+    "pincode": "521229",
+    "phone_number": "+91 92913 51444",
+    "website": "https://www.pctechnology.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "28-16-20, 1st Floor, Chinatavari Street, Eluru Rd, Near Ramamandiram, Arundalpet, Vijayawada, Andhra Pradesh 520002",
+    "area": "Near Ramamandiram, Arundalpet, Governor Peta",
+    "latitude": 16.514442199999998,
+    "longitude": 80.63006999999999,
+    "place_id": "ChIJI7YaEUzlNToRa14E4t0U3Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7YaEUzlNToRa14E4t0U3Jk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:22:06"
+  },
+  {
+    "business_name": "South Indian Bank - Vijayawada Branch",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Business banking service, Car finance and loan company, Financial institution, Investment bank, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "521229",
+    "phone_number": "+91 866 256 8484",
+    "website": "https://www.southindianbank.bank.in/",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "No. 9-61-17, Babu Rajendra Prasad Rd, Islampet, Vijayawada, Andhra Pradesh 520001",
+    "area": "Islampet",
+    "latitude": 16.5205,
+    "longitude": 80.6154296,
+    "place_id": "ChIJkSzQMOHvNToRUY12ozKJL3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSzQMOHvNToRUY12ozKJL3E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:22:08"
+  }
+]

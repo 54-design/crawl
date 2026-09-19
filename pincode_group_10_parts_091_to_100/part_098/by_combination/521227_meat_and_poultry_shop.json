@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rs chicken center k. Bitragunta",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "521227",
+    "phone_number": "+91 77020 10844",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "K Bitragunta, Andhra Pradesh 532101",
+    "area": "521227",
+    "latitude": 15.3048342,
+    "longitude": 80.0239659,
+    "place_id": "ChIJDxiH0oYJSzoRQN06dI260r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxiH0oYJSzoRQN06dI260r0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:17:00"
+  },
+  {
+    "business_name": "Andhra Poultry Needs",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store, Poultry farm",
+    "pincode": "521227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 15,
+    "address": "Door No. 64-9-1, No. 3, Kanuru Nagabhushanam Building, K Bapaiah Building, M G Road, Near Eenadu, Patamatalanka, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+    "area": "Patamatalanka",
+    "latitude": 16.4968476,
+    "longitude": 80.6563541,
+    "place_id": "ChIJVVVVlcH6NToRLNHuVFQCSHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlcH6NToRLNHuVFQCSHE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:17:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keerti children's hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "521211",
+    "phone_number": "+91 86762 53000",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 33,
+    "address": "Main road(opp Shanti theater or cinema hall center, Roy Nagar, Gannavaram, Andhra Pradesh 521101",
+    "area": "Roy Nagar",
+    "latitude": 16.5425552,
+    "longitude": 80.8052206,
+    "place_id": "ChIJxZu7XZ_iNToRyOaHxapP0vY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZu7XZ_iNToRyOaHxapP0vY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:04:24"
+  },
+  {
+    "business_name": "Dr Srimukhi Anumolu",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Neonatal physician",
+    "pincode": "521211",
+    "phone_number": "N/A",
+    "website": "https://www.manipalhospitals.com/vijayawada/doctors/dr-srimukhi-anumolu-paediatric-neonatologist/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Manipal Hospitals, 12-570, near Kanakadurga Varadhi, Tadepalle, Vijayawada, Andhra Pradesh 522501",
+    "area": "Tadepalle",
+    "latitude": 16.4844392,
+    "longitude": 80.616929,
+    "place_id": "ChIJoVpaqfT7NToRxBCgMBBFEcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVpaqfT7NToRxBCgMBBFEcs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:04:25"
+  }
+]

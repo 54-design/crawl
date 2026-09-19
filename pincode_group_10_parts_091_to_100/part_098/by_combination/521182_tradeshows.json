@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Expo City",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "521182",
+    "phone_number": "+91 97171 10033",
+    "website": "https://indiaexpocity.com/",
+    "rating": 4.6,
+    "reviews_count": 40,
+    "address": "J5H5+VJV AMTZ Campus, Pragathi Maidan, Siddeswaram, Nadupuru Reserve Forest, Nadupuru, Andhra Pradesh 530031",
+    "area": "Siddeswaram, Nadupuru Reserve Forest",
+    "latitude": 17.6300161,
+    "longitude": 83.1581333,
+    "place_id": "ChIJr0R_49NtOToRWdgFcbNcnXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0R_49NtOToRWdgFcbNcnXQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:19"
+  },
+  {
+    "business_name": "BookMyStall",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event technology service, Event venue, Exhibit, Exhibition and trade center, Exhibition planner, Flea market",
+    "pincode": "521182",
+    "phone_number": "+91 97039 49871",
+    "website": "https://www.bookmystall.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Akshay Apartment, 4th Floor Space, Plot No - 13, RBI Colony, Phase 2, Kavuri Hills, Madhapur, Telangana 500033",
+    "area": "RBI Colony, Phase 2, Kavuri Hills, Madhapur",
+    "latitude": 17.4382139,
+    "longitude": 78.39302839999999,
+    "place_id": "ChIJKeEIoduQyzsRh6P_zNVxqZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeEIoduQyzsRh6P_zNVxqZU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:21"
+  }
+]

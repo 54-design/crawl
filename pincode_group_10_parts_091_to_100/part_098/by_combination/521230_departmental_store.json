@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eswar Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521230",
+    "phone_number": "+91 96034 13643",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 13,
+    "address": "Unnamed Road, Ganapavaram, Andhra Pradesh 521230",
+    "area": "521230",
+    "latitude": 16.7338603,
+    "longitude": 80.69172119999999,
+    "place_id": "ChIJEZ4isrvdNToRpgsPVenfbOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZ4isrvdNToRpgsPVenfbOM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:22:37"
+  },
+  {
+    "business_name": "VENKATESWARAO COOL DRINKS",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "521230",
+    "phone_number": "+91 89854 65288",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11-23, Mylavaram, Andhra Pradesh 521230",
+    "area": "521230",
+    "latitude": 16.7620924,
+    "longitude": 80.64205969999999,
+    "place_id": "ChIJiVoitxbdNToRoVvQ_VI6gUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVoitxbdNToRoVvQ_VI6gUQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:22:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Day",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521241",
+    "phone_number": "+91 99481 97874",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 75,
+    "address": "Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2957018,
+    "longitude": 80.4489746,
+    "place_id": "ChIJp6-qQKF1SjoREc8hRlhAPpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6-qQKF1SjoREc8hRlhAPpM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:31"
+  },
+  {
+    "business_name": "TNR THE CHAI WALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "521241",
+    "phone_number": "+91 95157 05298",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 33,
+    "address": "Plot No 18, Padma Sri Gardens Layout, Gowlidoddy, Hyderabad, Telangana 500032",
+    "area": "Padma Sri Gardens Layout, Gowlidoddy",
+    "latitude": 17.4261292,
+    "longitude": 78.3268609,
+    "place_id": "ChIJBxkhgiWTyzsRIoxzZMLTbLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxkhgiWTyzsRIoxzZMLTbLE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:28:31"
+  }
+]

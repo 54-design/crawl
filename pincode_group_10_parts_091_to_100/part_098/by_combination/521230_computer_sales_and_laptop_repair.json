@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HP World - New Indira Nagar",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "521230",
+    "phone_number": "+91 86575 68648",
+    "website": "https://www.hpworldstores.in/hp-world-sv-technologies-laptop-store-grant-trunk-main-rd-tirupati-517501/Home",
+    "rating": 4.9,
+    "reviews_count": 2508,
+    "address": "No 19/10/1C, Door, Air Bypass Rd, near Big Bazar, New Indira Nagar, STV Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "New Indira Nagar, STV Nagar",
+    "latitude": 13.6226304,
+    "longitude": 79.4258266,
+    "place_id": "ChIJv4sJw85lUjoRI0uPi2y_utw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4sJw85lUjoRI0uPi2y_utw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:24:01"
+  },
+  {
+    "business_name": "Kiran Computers Mylavaram",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "521230",
+    "phone_number": "+91 99665 53254",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 59,
+    "address": "Post Office Rd, [no name], Mylavaram, Andhra Pradesh 521230",
+    "area": "[no name]",
+    "latitude": 16.756931899999998,
+    "longitude": 80.6415189,
+    "place_id": "ChIJ9RfkTLPdNToRgUOiKyL_xio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RfkTLPdNToRgUOiKyL_xio",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:24:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chocolate Mobiles",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "521228",
+    "phone_number": "+91 99081 03104",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 15,
+    "address": "Main Road,Kondapalli, Vijayawada, Andhra Pradesh 521456",
+    "area": "Malkapuram",
+    "latitude": 16.613282899999998,
+    "longitude": 80.5397165,
+    "place_id": "ChIJh8YDtvzrNToR2OoCl0RqRGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8YDtvzrNToR2OoCl0RqRGY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:10"
+  },
+  {
+    "business_name": "KALKATTA WATCH & MOBILES",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "521228",
+    "phone_number": "+91 89191 83846",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No, 1, Azad Rd, Police Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Police Quarters",
+    "latitude": 16.179102099999998,
+    "longitude": 81.12856889999999,
+    "place_id": "ChIJkz_4FaXnSToR_fzPcu3Xr84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkz_4FaXnSToR_fzPcu3Xr84",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:19:11"
+  }
+]

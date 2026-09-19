@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yes Cube Hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Corporate office",
+    "pincode": "521229",
+    "phone_number": "N/A",
+    "website": "http://yescubehospitality.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8 KRISHNA, D.NO 26-4/1, Murthy St, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Gandhi Nagar",
+    "latitude": 16.5191518,
+    "longitude": 80.6259802,
+    "place_id": "ChIJm4ijEV7vNToRmPuov1lMVHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4ijEV7vNToRmPuov1lMVHU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:55"
+  },
+  {
+    "business_name": "Aviate Abroad Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "521229",
+    "phone_number": "07423 234191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Shop No 1,PVNR COMPLEX, near Veternary Hospital, Mylavaram, Andhra Pradesh 521230",
+    "area": "521229",
+    "latitude": 16.7587977,
+    "longitude": 80.64139829999999,
+    "place_id": "ChIJY1HiYaLdNToRatbRzaWduII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1HiYaLdNToRatbRzaWduII",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:21:55"
+  }
+]

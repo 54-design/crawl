@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of detailers",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto painting, Auto repair shop, Auto restoration service",
+    "pincode": "521215",
+    "phone_number": "+91 96383 26826",
+    "website": "https://www.instagram.com/houseofdetailers/",
+    "rating": 4.9,
+    "reviews_count": 109,
+    "address": "Naroli Rd, near reliance petroleum, beside pramukh tata, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396235",
+    "area": "521215",
+    "latitude": 20.269046799999998,
+    "longitude": 72.9760016,
+    "place_id": "ChIJPb6EHsTN4DsRIs5cbH-EKuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb6EHsTN4DsRIs5cbH-EKuU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:57"
+  },
+  {
+    "business_name": "Carmor Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto bodywork mechanic, Auto painting, Auto window tinting service, Bike wash, Vacuum cleaner store",
+    "pincode": "521215",
+    "phone_number": "+91 76038 64116",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 74,
+    "address": "3/209, Bismillah Nagar, Vettuvankeni, Chennai, Tamil Nadu 600115 near, Towards, Olive Beach, Chennai, Tamil Nadu 600115",
+    "area": "Bismillah Nagar, Teachers Colony, Neelankarai",
+    "latitude": 12.937649799999999,
+    "longitude": 80.2541954,
+    "place_id": "ChIJPeJVriddUjoRKHbG2essZyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeJVriddUjoRKHbG2essZyY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:57"
+  }
+]

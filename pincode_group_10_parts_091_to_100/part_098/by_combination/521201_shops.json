@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop No 01",
+    "search_category": "Shops",
+    "primary_category": "Shops",
+    "all_categories": "Shops",
+    "pincode": "521201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rd, Nuzividu, Andhra Pradesh 521201",
+    "area": "521201",
+    "latitude": 16.7862793,
+    "longitude": 80.84878719999999,
+    "place_id": "ChIJT9BjoM51NjoRIdI60Uuq_yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9BjoM51NjoRIdI60Uuq_yw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:14"
+  },
+  {
+    "business_name": "P S Rao & Sons",
+    "search_category": "Shops",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "521201",
+    "phone_number": "+91 98485 38824",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 21,
+    "address": "Hanuman Jct Rd, opp. S.R.R.Z.P.H.Boys School, Nuzividu, Andhra Pradesh 521201",
+    "area": "521201",
+    "latitude": 16.7881583,
+    "longitude": 80.8467639,
+    "place_id": "ChIJ4T5VV851NjoRfr7tHyTjKes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4T5VV851NjoRfr7tHyTjKes",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:16"
+  }
+]

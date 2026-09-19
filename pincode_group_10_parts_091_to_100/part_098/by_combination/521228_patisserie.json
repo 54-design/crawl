@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon House premium bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "521228",
+    "phone_number": "+91 91805 28886",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21-123, Ibrahimpatnam, Andhra Pradesh 521456",
+    "area": "521228",
+    "latitude": 16.5927872,
+    "longitude": 80.5228463,
+    "place_id": "ChIJI53MuEHtNToR9Or8a8GtU1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI53MuEHtNToR9Or8a8GtU1k",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:18:56"
+  },
+  {
+    "business_name": "Kavuluru",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "521228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JJ59+Q8Q Vijayawada, Kotturu Tadepalli, Andhra Pradesh 520012",
+    "area": "521228",
+    "latitude": 16.609047,
+    "longitude": 80.618467,
+    "place_id": "ChIJOaTgbgDpNToRJ9Zo86h56os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaTgbgDpNToRJ9Zo86h56os",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:18:56"
+  }
+]

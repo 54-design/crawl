@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJANTHA HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521185",
+    "phone_number": "+91 99122 44349",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Q79R+C7G GANDHI CENTRE, Nandigama, Andhra Pradesh 521185",
+    "area": "521185",
+    "latitude": 16.7685563,
+    "longitude": 80.290691,
+    "place_id": "ChIJa00493y9NToRR_HLbBHyDPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa00493y9NToRR_HLbBHyDPE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:57"
+  },
+  {
+    "business_name": "KONDA HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "521185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 29,
+    "address": "Q7GP+W6J, Nandigama, Andhra Pradesh 521185",
+    "area": "521185",
+    "latitude": 16.777335,
+    "longitude": 80.2855043,
+    "place_id": "ChIJ_e3xrI27NToR1hrxtDdOyUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_e3xrI27NToR1hrxtDdOyUg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:55:57"
+  }
+]

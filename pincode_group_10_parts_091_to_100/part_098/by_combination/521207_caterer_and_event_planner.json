@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avenuedish",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Home health care service, Meal delivery",
+    "pincode": "521207",
+    "phone_number": "+91 94912 35161",
+    "website": "https://avenuedish.godaddysites.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "3-158-1720, Avenuedish, Danavaigudem Colony, Khammam, Telangana 507003",
+    "area": "Avenuedish, Danavaigudem Colony",
+    "latitude": 17.279746,
+    "longitude": 80.1420638,
+    "place_id": "ChIJq5P8xbxZNDoR4hWIOQ0MClw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5P8xbxZNDoR4hWIOQ0MClw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:03:07"
+  },
+  {
+    "business_name": "Sri Sai Caterers and Event Management",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "521207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D.No.3/126/a, OC Colony, Pedapalaparru, Mudinepalli, Moturu, Krishna(D, Andhra Pradesh 521207",
+    "area": "521207",
+    "latitude": 16.7819376,
+    "longitude": 81.02587129999999,
+    "place_id": "ChIJQXA72sttNjoR64kNMUjPTmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXA72sttNjoR64kNMUjPTmo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:03:09"
+  }
+]

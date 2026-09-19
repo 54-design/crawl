@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRCR Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "521241",
+    "phone_number": "+91 93937 22234",
+    "website": "https://www.vrcrbus.com/",
+    "rating": 3.7,
+    "reviews_count": 24,
+    "address": "Old, Busstand Back Side, beside Mamatha Hotel, Fraserpeta, Vijayawada, Andhra Pradesh 520001",
+    "area": "Fraserpeta",
+    "latitude": 16.536825099999998,
+    "longitude": 80.61401579999999,
+    "place_id": "ChIJp4Sf6JTvNToR-ybnXyIrsQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4Sf6JTvNToR-ybnXyIrsQg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:03"
+  },
+  {
+    "business_name": "Sri Ganesh Enterprises",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel clinic",
+    "all_categories": "Travel clinic, Airline ticket agency, Bus ticket agency, Cell phone store, Print shop, Railway Ticket Agent, Travel agency",
+    "pincode": "521241",
+    "phone_number": "+91 99855 72744",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "GJGM+RMP, CK Reddy Rd, beside Raghavendra theater, Ramalingeswarapet, Ayodhya Nagar, Vijayawada, Andhra Pradesh 520003",
+    "area": "Ramalingeswarapet, Ayodhya Nagar",
+    "latitude": 16.527084,
+    "longitude": 80.634215,
+    "place_id": "ChIJBSGXX1jlNToR_sikWMOI9wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSGXX1jlNToR_sikWMOI9wg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:29:05"
+  }
+]

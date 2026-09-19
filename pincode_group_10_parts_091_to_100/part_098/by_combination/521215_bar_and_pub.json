@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cock & Bull Hyderabad",
+    "search_category": "Bar and Pub",
+    "primary_category": "Irish pub",
+    "all_categories": "Irish pub, Bar",
+    "pincode": "521215",
+    "phone_number": "+91 91542 85001",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Towers, Upper Ground Floor, The Skyview 10, Silpa Gram Craft Village, Madhapur, Rai Durg, Hyderabad, Telangana 500032",
+    "area": "Silpa Gram Craft Village, Madhapur",
+    "latitude": 17.4327129,
+    "longitude": 78.3753627,
+    "place_id": "ChIJY0xs4TiTyzsRs5BUy67L2ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0xs4TiTyzsRs5BUy67L2ok",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:34"
+  },
+  {
+    "business_name": "Blue Fox Restaurant & Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Chinese restaurant",
+    "pincode": "521215",
+    "phone_number": "+91 92480 11611",
+    "website": "http://bluefoxrestaurant.com/",
+    "rating": 3.8,
+    "reviews_count": 548,
+    "address": "Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Labbipet",
+    "latitude": 16.5032507,
+    "longitude": 80.6388626,
+    "place_id": "ChIJZbtm5a_6NToRF3pBRS7plYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbtm5a_6NToRF3pBRS7plYE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:11:35"
+  }
+]

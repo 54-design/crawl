@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Promise Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Service establishment",
+    "pincode": "521211",
+    "phone_number": "+91 94903 32838",
+    "website": "http://www.promisebags.com/",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "Promise Bags, 521211, India",
+    "area": "521211",
+    "latitude": 41.5106594,
+    "longitude": 0,
+    "place_id": "ChIJvfFqwz_iNToR0EROS-stMh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfFqwz_iNToR0EROS-stMh4",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:04:13"
+  },
+  {
+    "business_name": "Hidesign",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "521211",
+    "phone_number": "+91 94442 74242",
+    "website": "http://hidesign.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Vijayawada International Airport, NH16, Gannavaram, Vijayawada, Andhra Pradesh 521102",
+    "area": "521211",
+    "latitude": 16.5239249,
+    "longitude": 80.7916175,
+    "place_id": "ChIJZ9gLkS7jNToR_ZzOXjsVCWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9gLkS7jNToR_ZzOXjsVCWE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:04:15"
+  }
+]

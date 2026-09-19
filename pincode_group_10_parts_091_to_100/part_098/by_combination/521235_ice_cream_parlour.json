@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Ice Cream & Kulfi",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "521235",
+    "phone_number": "+91 63025 50722",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Khan khan pet, Kalluru, Telangana 507209",
+    "area": "521235",
+    "latitude": 17.2001417,
+    "longitude": 80.56374339999999,
+    "place_id": "ChIJ6XJ9IKQxNDoR-M-EoCId5FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XJ9IKQxNDoR-M-EoCId5FI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:26:43"
+  },
+  {
+    "business_name": "Flavours Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "521235",
+    "phone_number": "+91 95020 62554",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P38R+C9X, Ameenapet, Eluru, Andhra Pradesh 534006",
+    "area": "Ameenapet",
+    "latitude": 16.7161072,
+    "longitude": 81.09097589999999,
+    "place_id": "ChIJ_Tg7mrMUNjoRy0ID7NNqt_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Tg7mrMUNjoRy0ID7NNqt_s",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:26:44"
+  }
+]

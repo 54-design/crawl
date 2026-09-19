@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBC ENTERPRISES",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "521190",
+    "phone_number": "+91 96141 13333",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Katta Venkatanarasimharao, 3-170/1, Sivalayam Street, Penuganchiprolu, Gowarawaram, Andhra Pradesh 521178",
+    "area": "521190",
+    "latitude": 16.8551662,
+    "longitude": 80.1991378,
+    "place_id": "ChIJvWU-_rylNToRDIjm-zLrWNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWU-_rylNToRDIjm-zLrWNY",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:58:22"
+  },
+  {
+    "business_name": "A.K.Digitals Marketing Services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "521190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Madhira - Wyra Rd, Opposte Indian Oil Petrol Pumpp, Madhira, Telangana 507203",
+    "area": "Opposte Indian Oil Petrol Pumpp",
+    "latitude": 16.9287158,
+    "longitude": 80.3643738,
+    "place_id": "ChIJn-ldU_KxNToRTNgTfA-NFWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-ldU_KxNToRTNgTfA-NFWU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:58:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GK CABS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport, Bus tour agency, Car leasing service, Car rental agency, Minibus taxi service, Tour operator, Transportation service, Travel agency",
+    "pincode": "521202",
+    "phone_number": "+91 98666 00720",
+    "website": "https://www.gkcabs.com/",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "H, NO. 4-207/1, BUS STOP, near JALPALLY, Sri Rama Colony, Pardhi Guda, Katedhan, Hyderabad, Telangana 500077",
+    "area": "Sri Rama Colony, Pardhi Guda",
+    "latitude": 17.2929863,
+    "longitude": 78.4415513,
+    "place_id": "ChIJJ5zxCvm9yzsRFPPdj33jxVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5zxCvm9yzsRFPPdj33jxVg",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:55"
+  },
+  {
+    "business_name": "Ashapura Car Rentals in Ahmedabad",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Taxi service, Travel agency",
+    "pincode": "521202",
+    "phone_number": "+91 70162 17398",
+    "website": "https://ashapuracarrentals.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Komal park society, A 20, Bapa Sitaram Chowk Rd, Parshwanath Township, Nava Naroda, Ahmedabad, Gujarat 382345",
+    "area": "Parshwanath Township, Nava Naroda",
+    "latitude": 23.0543743,
+    "longitude": 72.6581935,
+    "place_id": "ChIJVzglzXGHXjkRP3dveRtjENI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzglzXGHXjkRP3dveRtjENI",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:56"
+  }
+]

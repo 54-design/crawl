@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameeksha Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Alternative Medicine Clinic, Cancer treatment center, Holistic medicine practitioner, Pain management physician, Skin care clinic",
+    "pincode": "521184",
+    "phone_number": "+91 80197 62070",
+    "website": "http://sameekshaayurvedavijayawada.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Puchalapalli Sundaraiah St, behind SBI, near Petrol Bunk, Ramavarapadu, Ramavarappadu, Andhra Pradesh 521108",
+    "area": "Ramavarapadu",
+    "latitude": 16.521891399999998,
+    "longitude": 80.6792495,
+    "place_id": "ChIJ2ZuZltDkNToRi09stOgGDWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZuZltDkNToRi09stOgGDWw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:53:28"
+  },
+  {
+    "business_name": "DR KRISHNA'S POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "521184",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Road No 2,Cheruku thota Colony, near TTD Kalyana Mandapam, Chaitanya Puri Colony, Hyderabad, Telangana 500060",
+    "area": "Veerabhadra Ads, Chaitanya Puri Colony, Dilsukhnagar",
+    "latitude": 17.3622502,
+    "longitude": 78.5336959,
+    "place_id": "ChIJM5QUtx-ZyzsRiwB3JCX3ksA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5QUtx-ZyzsRiwB3JCX3ksA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:53:29"
+  }
+]

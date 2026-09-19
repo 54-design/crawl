@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMB Solutions (India)",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "521201",
+    "phone_number": "+91 22 6637 6652",
+    "website": "http://www.smbsolutions.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kashiram Jamnadas Building, 7, 5, P D'Mello Rd, near Princess Dock, East, Masjid Bandar, Mumbai, Maharashtra 400009",
+    "area": "Princess Dock, East, Masjid Bandar",
+    "latitude": 18.9547772,
+    "longitude": 72.8422093,
+    "place_id": "ChIJreE9DE_P5zsRB05yN8UCJEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreE9DE_P5zsRB05yN8UCJEk",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:10"
+  },
+  {
+    "business_name": "Viba Solutions",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Advertising agency, Computer support and services, Internet marketing service, Website designer",
+    "pincode": "521201",
+    "phone_number": "+91 99668 68143",
+    "website": "https://www.vibasolutions.in/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "MIG - 212, 5th floor, above my health hospital KPHB road Number 1 Kukatpally, near KPHB, metrostation, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, metrostation",
+    "latitude": 17.4928211,
+    "longitude": 78.4017446,
+    "place_id": "ChIJGxz5R9ORyzsRs4UVR1iBAxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxz5R9ORyzsRs4UVR1iBAxs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:00:14"
+  }
+]

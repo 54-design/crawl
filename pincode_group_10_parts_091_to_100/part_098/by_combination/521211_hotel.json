@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SJ Guest amenities And Hotel supplies",
+    "search_category": "Hotel",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "521211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JR6J+QR, Veerapanenigudem, Andhra Pradesh 521286",
+    "area": "521211",
+    "latitude": 16.613035,
+    "longitude": 80.83290749999999,
+    "place_id": "ChIJ2S95KQAJNjoRfmGih0okAGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2S95KQAJNjoRfmGih0okAGM",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:05:02"
+  },
+  {
+    "business_name": "Rama Krishna Meals hotel",
+    "search_category": "Hotel",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "521211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 15,
+    "address": "MP3J+HPX, Adavinekkalam, Andhra Pradesh 521212",
+    "area": "521211",
+    "latitude": 16.653992799999997,
+    "longitude": 80.7318657,
+    "place_id": "ChIJZ0AlhijhNToRGLPC7Qs9jJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0AlhijhNToRGLPC7Qs9jJ0",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:05:02"
+  }
+]

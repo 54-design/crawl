@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Polar Bear Ice Cream Sundaes - Panathur",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Confectionery store, Sweets and dessert buffet, Frozen yogurt shop",
+    "pincode": "521183",
+    "phone_number": "+91 86601 66304",
+    "website": "https://polarbear.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No - 002, Block - C, Kelvadi Complex, Ground Floor, Main Road, near Orchid International School, Panathur, Bengaluru, Karnataka 560037",
+    "area": "Kadubeesanahalli, Panathur",
+    "latitude": 12.937263399999999,
+    "longitude": 77.70275149999999,
+    "place_id": "ChIJ5RybiAUTrjsRw9m1PIsK3-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RybiAUTrjsRw9m1PIsK3-c",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:54"
+  },
+  {
+    "business_name": "Polar Bear Ice Cream Sundaes - Chinthal",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Confectionery store, Sweets and dessert buffet, Frozen yogurt shop",
+    "pincode": "521183",
+    "phone_number": "+91 96061 00315",
+    "website": "https://polarbear.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4, 5, 12, Pawar Estate, HMT Rd, Sri Sai Colony, Surya Nagar, Chinthal, Balanagar, Hyderabad, Telangana 500037",
+    "area": "Sri Sai Colony, Surya Nagar, Chinthal, Balanagar",
+    "latitude": 17.490123399999998,
+    "longitude": 78.45124299999999,
+    "place_id": "ChIJNWe0vNmRyzsRTRog9b_A-gA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWe0vNmRyzsRTRog9b_A-gA",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:54"
+  }
+]

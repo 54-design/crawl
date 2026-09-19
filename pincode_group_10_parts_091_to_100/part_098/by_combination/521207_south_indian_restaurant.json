@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of setty's",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Biryani restaurant, Chicken wings restaurant, Chinese restaurant, Dhaba, Fast food restaurant, Non Vegetarian Restaurant, Party store, Restaurant, Vegetarian restaurant",
+    "pincode": "521207",
+    "phone_number": "+91 88866 69429",
+    "website": "https://www.instagram.com/house_of_settys?igsh=eGFxbTdmbGlvdGJ1",
+    "rating": 4.8,
+    "reviews_count": 244,
+    "address": "Anand Nagar, Madhurawada, Potinamallayyapalem, Andhra Pradesh 530041",
+    "area": "Anand Nagar, Madhurawada",
+    "latitude": 17.8027864,
+    "longitude": 83.3493311,
+    "place_id": "ChIJD6aAYYBbOToR_AgGxzufdTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6aAYYBbOToR_AgGxzufdTw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:02:16"
+  },
+  {
+    "business_name": "KONASEEMA VANTILLU",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "521207",
+    "phone_number": "+91 89193 37947",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12169,
+    "address": "325, High Tension Line Rd, Srinivas Colony, Aditya Nagar, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Srinivas Colony, Aditya Nagar, Kukatpally",
+    "latitude": 17.5057953,
+    "longitude": 78.392288,
+    "place_id": "ChIJRUjHYm-RyzsRcxtdE3jziz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUjHYm-RyzsRcxtdE3jziz8",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:02:16"
+  }
+]

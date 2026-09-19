@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Anu Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "521213",
+    "phone_number": "+91 90003 20697",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 62,
+    "address": "Tiruvuru Rd, near bus stand, opposite to Vijaya medical stores, Vissannapeta, Andhra Pradesh 521215",
+    "area": "521213",
+    "latitude": 16.9399209,
+    "longitude": 80.78528589999999,
+    "place_id": "ChIJ6Q801UrWNToRmHwdJqWl42E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Q801UrWNToRmHwdJqWl42E",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:07:51"
+  },
+  {
+    "business_name": "CELEBRATIONS FINE DINE-IN & RESORT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Biryani restaurant, Diner",
+    "pincode": "521213",
+    "phone_number": "+91 89779 29909",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kushalapuram, Kusharapuram, Andhra Pradesh 532410",
+    "area": "Kushalapuram",
+    "latitude": 18.2982913,
+    "longitude": 83.8706131,
+    "place_id": "ChIJ-cpVD9EVPDoRk3EaFNzxaRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cpVD9EVPDoRk3EaFNzxaRw",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:07:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big Bull Securities Pvt Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "521182",
+    "phone_number": "+91 93937 09696",
+    "website": "https://www.bigbullsecurities.com/",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "405,Fourth Floor, JNTU - Hitech City Rd, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally",
+    "latitude": 17.491839,
+    "longitude": 78.393591,
+    "place_id": "ChIJ79t7CQ2RyzsRe7fTf7x-zbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79t7CQ2RyzsRe7fTf7x-zbs",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:02"
+  },
+  {
+    "business_name": "Keastox Technologies Private Limited",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Consultant, Financial planner, Investment company, Software company",
+    "pincode": "521182",
+    "phone_number": "+91 89891 81898",
+    "website": "http://www.keastox.com/",
+    "rating": 4.9,
+    "reviews_count": 122,
+    "address": "Money Plant High Street, 1061, Jagatpur Rd, Gota, Ahmedabad, Gujarat 382470",
+    "area": "Gota",
+    "latitude": 23.1135551,
+    "longitude": 72.53868179999999,
+    "place_id": "ChIJ0UWKIWudXjkR_EPp2ueTPec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UWKIWudXjkR_EPp2ueTPec",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 08:50:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon Hub",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "521207",
+    "phone_number": "+91 63614 13579",
+    "website": "http://www.balloonhub.in/",
+    "rating": 5,
+    "reviews_count": 138,
+    "address": "Opp:max showroom, Station Rd, Azad Nagar, Raichur, Karnataka 584101",
+    "area": "Azad Nagar",
+    "latitude": 16.1951574,
+    "longitude": 77.3430059,
+    "place_id": "ChIJaSqU4IjXyTsRCDde7BoM_pE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSqU4IjXyTsRCDde7BoM_pE",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:03:07"
+  },
+  {
+    "business_name": "EVESPOT",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Party equipment rental service, Party store",
+    "pincode": "521207",
+    "phone_number": "+91 75026 42116",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 51,
+    "address": "Eve spot, 40 ft road, near Pallavi Super Market, Indira Nagar, Hosur, Avalapalli Hudco, Tamil Nadu 635109",
+    "area": "Indira Nagar",
+    "latitude": 12.7377498,
+    "longitude": 77.8296427,
+    "place_id": "ChIJa7WgmuhxrjsRj312JKDQofU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7WgmuhxrjsRj312JKDQofU",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:03:07"
+  }
+]

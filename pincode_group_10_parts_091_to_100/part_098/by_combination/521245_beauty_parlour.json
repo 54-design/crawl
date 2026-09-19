@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHERRYS BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521245",
+    "phone_number": "+91 70138 38290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9R6R+PGG KOTA COMPLEX, Shivalayam Rd, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521245",
+    "latitude": 16.3608503,
+    "longitude": 80.84152859999999,
+    "place_id": "ChIJNzovbAABNjoRywpCGABZ2rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzovbAABNjoRywpCGABZ2rQ",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:31:14"
+  },
+  {
+    "business_name": "Naga Durga Beauty Palace",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "521245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "9R6R+9X3, Ravi chettu center, Vuyyuru, Andhra Pradesh 521165",
+    "area": "521245",
+    "latitude": 16.3608822,
+    "longitude": 80.8424117,
+    "place_id": "ChIJRRPxgkgANjoRmmQO4r_3Ogo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRPxgkgANjoRmmQO4r_3Ogo",
+    "part_id": "part_098",
+    "crawled_at": "2026-09-19 09:31:15"
+  }
+]
