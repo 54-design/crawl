@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "laxmienterprises",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Tractor parts store",
+    "all_categories": "Tractor parts store",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Allipuram Rd, Mustafa Nagar, Khammam, Khanapuram Haveli Rural, Telangana 507003",
+    "area": "Mustafa Nagar",
+    "latitude": 17.2269118,
+    "longitude": 80.1566011,
+    "place_id": "ChIJb9K5jvpXNDoROdO6kmDNeqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9K5jvpXNDoROdO6kmDNeqE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:44:41"
+  },
+  {
+    "business_name": "Jay automobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Rotary Nagar",
+    "latitude": 17.2452467,
+    "longitude": 80.1760862,
+    "place_id": "ChIJv13x0ztZNDoRbp0nj2Bw2BA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv13x0ztZNDoRbp0nj2Bw2BA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:44:41"
+  }
+]

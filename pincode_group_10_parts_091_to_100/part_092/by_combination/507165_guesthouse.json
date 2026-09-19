@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nallamothu Nageswar rao house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "507165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "2-6, Vallapuram, Wyra, Telangana 507304",
+    "area": "507165",
+    "latitude": 17.0719356,
+    "longitude": 80.3075386,
+    "place_id": "ChIJQ9s0R4BNNDoR60VcOT2r4g0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9s0R4BNNDoR60VcOT2r4g0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:05:33"
+  },
+  {
+    "business_name": "Venodh noodles point",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "59V6+5JJ, Leela Sundaraiah Nagar, Duddepudi, Wyra, Telangana 507165",
+    "area": "Leela Sundaraiah Nagar",
+    "latitude": 17.192954099999998,
+    "longitude": 80.36150839999999,
+    "place_id": "ChIJW_wpysRPNDoRyuSefapuUsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_wpysRPNDoRyuSefapuUsc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:05:36"
+  }
+]

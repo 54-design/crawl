@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Hyundai",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "507306",
+    "phone_number": "+91 77338 88999",
+    "website": "https://www.bharathyundai.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D NO: 19-1-153/1, Charla Rd, beside KK Function Hall, Rajupeta Colony, Bhadrachalam, Lakshmidevipeta, Telangana 507111",
+    "area": "Rajupeta Colony",
+    "latitude": 17.678036799999997,
+    "longitude": 80.9050908,
+    "place_id": "ChIJWZViRzSvNjoRICCd4vXeArc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZViRzSvNjoRICCd4vXeArc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:10"
+  },
+  {
+    "business_name": "TATA.CARS Showroom - Venkata Automobiles, Lakshmidevipally",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Accessories Store, Electric motor vehicle dealer",
+    "pincode": "507306",
+    "phone_number": "+91 91670 26287",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-cars-showroom-venkata-automobiles-lakshmidevipally-car-dealer-lakshmidevipally-kothagudem-91215/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Veeraiah Chowdary Complex, Lakshmidevipally, Kothagudem, Laxmidevipally, Telangana 507101",
+    "area": "Lakshmidevipally",
+    "latitude": 17.563976999999998,
+    "longitude": 80.62147999999999,
+    "place_id": "ChIJf8eJgqIQNDoRG-oZowJAsGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8eJgqIQNDoRG-oZowJAsGk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:11"
+  }
+]

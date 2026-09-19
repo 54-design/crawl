@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Fitness Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WV2F+5RP New bustand, Huzur Nagar, Telangana 508204",
+    "area": "508114",
+    "latitude": 16.900460199999998,
+    "longitude": 79.8745659,
+    "place_id": "ChIJQZ7hBwAbNToR_jP1GkzToTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZ7hBwAbNToR_jP1GkzToTI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:28"
+  },
+  {
+    "business_name": "Golden Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7V3W+9H8, Choutuppal, Lakkaram, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.253418699999997,
+    "longitude": 78.8964567,
+    "place_id": "ChIJm4NSYGURyzsRiZxLyf53fpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4NSYGURyzsRiZxLyf53fpA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:28"
+  }
+]

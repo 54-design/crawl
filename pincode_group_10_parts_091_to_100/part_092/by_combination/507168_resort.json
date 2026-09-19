@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brundavanam family Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "507168",
+    "phone_number": "+91 81060 03456",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nachupally x Road, Nachupalli, Kondagattu, Telangana 505501",
+    "area": "507168",
+    "latitude": 18.650845,
+    "longitude": 78.92015359999999,
+    "place_id": "ChIJiWwCPxoazTsRdHkncySCR8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWwCPxoazTsRdHkncySCR8M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:47"
+  },
+  {
+    "business_name": "NR Comforts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507168",
+    "phone_number": "+91 83748 73456",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 503,
+    "address": "Door No. 12-98/5, Near Ranga Theatre, Huzur Nagar Road, Kodad, Telangana 508206",
+    "area": "Mathanagar",
+    "latitude": 16.999486,
+    "longitude": 79.959312,
+    "place_id": "ChIJidFXsP4CNToRDIdJmHXaj9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidFXsP4CNToRDIdJmHXaj9w",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahadeva Reddy Sweets & Snacks",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Breakfast restaurant",
+    "pincode": "507183",
+    "phone_number": "+91 40 4017 1516",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1942,
+    "address": "16-11-740/9/A/38, Gaddiannaram, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Gaddiannaram, Dilsukhnagar",
+    "latitude": 17.367516,
+    "longitude": 78.5202185,
+    "place_id": "ChIJ-XrcN_aYyzsRmkXR3VgawJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XrcN_aYyzsRmkXR3VgawJA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:47"
+  },
+  {
+    "business_name": "Balaji Ram Ratan Mithai Bhandar",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweets and dessert buffet",
+    "all_categories": "Sweets and dessert buffet, Sweet shop, Panipuri shop",
+    "pincode": "507183",
+    "phone_number": "+91 80198 17437",
+    "website": "http://scn.eksecond.com/api/QrScanTracking?gid=6a313f0efc77225f15adf4fb",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7-21, Konark Theatre Ln, beside Konark Theatre, Gaddiannaram, Madhura Puri Colony, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Gaddiannaram, Madhura Puri Colony, Dilsukhnagar",
+    "latitude": 17.3674808,
+    "longitude": 78.5248227,
+    "place_id": "ChIJWVSRlfaYyzsRGBfAZSYwSek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVSRlfaYyzsRGBfAZSYwSek",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:47"
+  }
+]

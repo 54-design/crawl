@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aaradhya electrical and plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "508113",
+    "phone_number": "+91 62811 84042",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "no 1-175, Bhuvanagiri-Nalgonda Rd, Chityala, Telangana 508114",
+    "area": "508113",
+    "latitude": 17.235997599999997,
+    "longitude": 79.1219711,
+    "place_id": "ChIJX8rALgA7yzsRlWNlyBiBtmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8rALgA7yzsRlWNlyBiBtmY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:59:00"
+  },
+  {
+    "business_name": "Sathiri Shiva",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "508113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "56WM+2X3, Akkinepallivari Lingotam, Telangana 508254",
+    "area": "508113",
+    "latitude": 17.1950142,
+    "longitude": 79.23490749999999,
+    "place_id": "ChIJFV-0GQAxyzsRC2lNgw6If6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFV-0GQAxyzsRC2lNgw6If6U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:59:00"
+  }
+]

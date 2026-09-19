@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REFRESH COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer store, Printer repair service",
+    "pincode": "507201",
+    "phone_number": "+91 99660 08856",
+    "website": "https://refreshcomputers.netlify.app/",
+    "rating": 4.7,
+    "reviews_count": 98,
+    "address": "1st floor, Pathuri Building, 9-4-1, M.G Road, above Rupa Bakery, opp. Prakasam Stadium, Post Office Area, Ganeshbasthi, Kothagudem, Telangana 507101",
+    "area": "Post Office Area, Ganeshbasthi",
+    "latitude": 17.5449125,
+    "longitude": 80.6181112,
+    "place_id": "ChIJ815N_rIQNDoRkp3grLevO_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ815N_rIQNDoRkp3grLevO_I",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:19:38"
+  },
+  {
+    "business_name": "Global Computer Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer Hardware Company, Computer store, Computer service, Computer Wholesaler",
+    "pincode": "507201",
+    "phone_number": "+91 90524 23969",
+    "website": "https://fasikhan38.wixsite.com/gcskgm",
+    "rating": 4.7,
+    "reviews_count": 95,
+    "address": "Market yard, R. No 3, Laxmidevipalle, Opp Tvs Showroom Kothagudem, Kothagudem, Telangana 507101",
+    "area": "507201",
+    "latitude": 17.5624867,
+    "longitude": 80.6229003,
+    "place_id": "ChIJC20HILoQNDoRUAbYITJhr0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC20HILoQNDoRUAbYITJhr0g",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:19:38"
+  }
+]

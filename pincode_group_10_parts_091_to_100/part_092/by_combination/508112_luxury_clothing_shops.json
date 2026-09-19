@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaladhar Couture",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Boutique, Designer Clothing Store, Fabric store, Youth clothing store",
+    "pincode": "508112",
+    "phone_number": "+91 76749 82900",
+    "website": "https://www.mykaladhar.com/",
+    "rating": 4.9,
+    "reviews_count": 303,
+    "address": "Metro Pillar A1621, 8-117, near Victoria Memorial Metro Station, beside Linen Club, Saroornagar, Narsimha Puri Colony, Huda Colony, Kothapet, Hyderabad, Telangana 500035",
+    "area": "Saroornagar, Narsimha Puri Colony, Huda Colony, Kothapet",
+    "latitude": 17.3622118,
+    "longitude": 78.543534,
+    "place_id": "ChIJU4KxJx-ZyzsRIaTJNs9EXt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4KxJx-ZyzsRIaTJNs9EXt8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:53"
+  },
+  {
+    "business_name": "Vignesh collections",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "508112",
+    "phone_number": "+91 93937 96979",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Vignesh collections ,62,63,84,85 shop no LPT market, Tirumala Theatre Rd, Nalgonda, Telangana 508001",
+    "area": "Sri Lakshmi Nagar Colony, Housing Board Colony",
+    "latitude": 17.0605702,
+    "longitude": 79.26555669999999,
+    "place_id": "ChIJy2foUnopyzsR1UXi-CcPOkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2foUnopyzsR1UXi-CcPOkc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:53"
+  }
+]

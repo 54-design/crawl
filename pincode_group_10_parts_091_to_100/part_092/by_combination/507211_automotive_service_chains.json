@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pasha Tyre Shop",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "market yard, Narsampet Rd, near ysr statue, Mahabubabad, Telangana 506101",
+    "area": "507211",
+    "latitude": 17.5939658,
+    "longitude": 80.01002559999999,
+    "place_id": "ChIJ8z6cYdyJNDoR7lU6SXVf5To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8z6cYdyJNDoR7lU6SXVf5To",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:59"
+  },
+  {
+    "business_name": "RKS AUTO",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507211",
+    "phone_number": "+91 89857 68484",
+    "website": "https://rksauto.in/",
+    "rating": 4.7,
+    "reviews_count": 248,
+    "address": "Block No 5, Part of Telangana Spinning Mill, Survey No-145, X Road, IDPL, Chandra Nagar, Chinthal, Hyderabad, Telangana 500037",
+    "area": "IDPL, Chandra Nagar, Chinthal, Balanagar",
+    "latitude": 17.489369099999998,
+    "longitude": 78.4497186,
+    "place_id": "ChIJ2wuj-Q-RyzsR12y5_r0hqSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wuj-Q-RyzsR12y5_r0hqSY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:31:00"
+  }
+]

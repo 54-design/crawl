@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.no:5, 95, Bangarigadda Rd, beside Church, Choutuppal, Lakkaram, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.2513067,
+    "longitude": 78.8947309,
+    "place_id": "ChIJSwLIfgMRyzsRWZm_7Wem5m0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwLIfgMRyzsRWZm_7Wem5m0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:01:23"
+  },
+  {
+    "business_name": "Admixture plant",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dec industries Pvt ltd, Admixture plant, near Aipoor, Aepoor, Telangana 508114",
+    "area": "508114",
+    "latitude": 17.1950377,
+    "longitude": 79.002342,
+    "place_id": "ChIJ6-tEdOcXyzsReiFL4R47KVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-tEdOcXyzsReiFL4R47KVo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:01:23"
+  }
+]

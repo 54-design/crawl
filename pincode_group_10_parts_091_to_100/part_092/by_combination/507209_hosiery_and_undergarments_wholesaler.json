@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jockey Store",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507209",
+    "phone_number": "+91 89771 11054",
+    "website": "https://www.jockeyindia.com/",
+    "rating": 3.9,
+    "reviews_count": 120,
+    "address": "A-3-214, Wyra Rd, opp. Buggaveti ENT hospital, Nizampet, Khammam, Telangana 507001",
+    "area": "Nizampet",
+    "latitude": 17.247468299999998,
+    "longitude": 80.14954259999999,
+    "place_id": "ChIJ-S5P69FZNDoRNPOzfRo5TG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S5P69FZNDoRNPOzfRo5TG8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:27:15"
+  },
+  {
+    "business_name": "Jockey Juniors Exclusive Store",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Children's clothing store, Underwear store",
+    "pincode": "507209",
+    "phone_number": "+91 40 4567 8008",
+    "website": "https://stores.jockey.in/jockey-juniors-exclusive-store-venkateswarapuram-vijayawada-6490/home",
+    "rating": 4.8,
+    "reviews_count": 299,
+    "address": "Door No 40 - 6, 2 - 9, A S Rama Rao Rd, Moghalrajpuram, Sidhartha Nagar, Venkateswarapuram, Vijayawada, Andhra Pradesh 520010",
+    "area": "Moghalrajpuram, Sidhartha Nagar, Venkateswarapuram",
+    "latitude": 16.5063455,
+    "longitude": 80.6458945,
+    "place_id": "ChIJuWq31w77NToRC2ArJTO5kGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWq31w77NToRC2ArJTO5kGY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:27:15"
+  }
+]

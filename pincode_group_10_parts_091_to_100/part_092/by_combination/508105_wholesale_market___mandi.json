@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nithyanandam Chicken Center",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "508105",
+    "phone_number": "+91 99853 54442",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 4, near Gandi Statue, Rajapeta, Jangaon, Telangana 508105",
+    "area": "508105",
+    "latitude": 17.731758499999998,
+    "longitude": 78.9210518,
+    "place_id": "ChIJfYz8CGZjyzsRXvEZcUS-_g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYz8CGZjyzsRXvEZcUS-_g8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:54:40"
+  },
+  {
+    "business_name": "Wholesale vegetable",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "508105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CCWW+6FC, S R Nagar Internal Rd, BK Guda, Sanjeeva Reddy Nagar, Hyderabad, Telangana 500038",
+    "area": "BK Guda, Sanjeeva Reddy Nagar",
+    "latitude": 17.4455702,
+    "longitude": 78.4461331,
+    "place_id": "ChIJnccCUACRyzsR46qlnKxgZJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnccCUACRyzsR46qlnKxgZJ4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:54:41"
+  }
+]

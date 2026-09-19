@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market,Maripeda (చేపలు)",
+    "search_category": "Fish Market",
+    "primary_category": "Fish processing",
+    "all_categories": "Fish processing",
+    "pincode": "507161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Maripeda Bunglow, Maripeda, Telangana 506315",
+    "area": "Maripeda Bunglow",
+    "latitude": 17.3892985,
+    "longitude": 79.893819,
+    "place_id": "ChIJKewkMQDtNDoRrrgTvAvkERk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKewkMQDtNDoRrrgTvAvkERk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:59:11"
+  },
+  {
+    "business_name": "NR DRY FISH and Rice murchant",
+    "search_category": "Fish Market",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "507161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8V2X+M48, Bachodu, Telangana 507161",
+    "area": "507161",
+    "latitude": 17.3018069,
+    "longitude": 79.8976196,
+    "place_id": "ChIJC3MtUYfvNDoRQ_PGPGxxj2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3MtUYfvNDoRQ_PGPGxxj2c",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:59:11"
+  }
+]

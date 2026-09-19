@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zenith Watch Co",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "507169",
+    "phone_number": "+91 99401 31945",
+    "website": "https://zenithwatchco.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "New No.239, Kutchery Rd, Luz Corner, Kapali Thottam, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Luz Corner, Kapali Thottam, Mylapore",
+    "latitude": 13.036593,
+    "longitude": 80.26806409999999,
+    "place_id": "ChIJuUtgLNNnUjoRZBle0gLPKiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUtgLNNnUjoRZBle0gLPKiI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:50"
+  },
+  {
+    "business_name": "Saravana Watch World",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "507169",
+    "phone_number": "+91 98849 77888",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "17/1 BAZ, Madipakkam Main Rd, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+    "area": "Sadasiva Nagar, Madipakkam",
+    "latitude": 12.9654379,
+    "longitude": 80.2060085,
+    "place_id": "ChIJN0H028FdUjoRuAoB8TNG0Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0H028FdUjoRuAoB8TNG0Q8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:50"
+  }
+]

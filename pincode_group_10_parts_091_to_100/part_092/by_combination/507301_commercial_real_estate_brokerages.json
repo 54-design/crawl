@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Infra Developers",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Service establishment",
+    "pincode": "507301",
+    "phone_number": "N/A",
+    "website": "https://www.nareshinfradevelopers.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naresh Infra Developers, 507301, India",
+    "area": "507301",
+    "latitude": 17.4123487,
+    "longitude": 78.4080456,
+    "place_id": "ChIJub7CLwStSoURX6sT8FMm8Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJub7CLwStSoURX6sT8FMm8Aw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:27"
+  },
+  {
+    "business_name": "Dream Infra",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "507301",
+    "phone_number": "+91 82794 66581",
+    "website": "http://dreaminfra.in/",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "47C8+42V, Jangareddygudem, Chakradevarapalle, Andhra Pradesh 534455",
+    "area": "507301",
+    "latitude": 17.1203571,
+    "longitude": 81.26504849999999,
+    "place_id": "ChIJPySgNxL2NjoRCDL8yLliNp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPySgNxL2NjoRCDL8yLliNp8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:29"
+  }
+]

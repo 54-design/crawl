@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marit Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "507169",
+    "phone_number": "N/A",
+    "website": "https://www.maritdecor.com/",
+    "rating": 4.7,
+    "reviews_count": 55,
+    "address": "83a, Girija Devi Marg, Block A, Kamla Nagar, Delhi, 110007",
+    "area": "Block A, Kamla Nagar",
+    "latitude": 28.681913899999998,
+    "longitude": 77.2001834,
+    "place_id": "ChIJj5o51Yj9DDkRug2yJ7tbhZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5o51Yj9DDkRug2yJ7tbhZ4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:12:31"
+  },
+  {
+    "business_name": "Amba Handicraft - Exclusive Wedding and Festive Store",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft, Gift shop, Handicraft Exporter, Home improvement store, Scrapbooking store, Wedding store",
+    "pincode": "507169",
+    "phone_number": "+91 99981 22261",
+    "website": "http://www.ambahandicrafts.com/",
+    "rating": 4.8,
+    "reviews_count": 628,
+    "address": "Maruti Tower, LL 6-7, Opp BRTS, Satellite Rd, Shivranjani, Ambawadi, Ahmedabad, Gujarat 380015",
+    "area": "Shivranjani, Ambawadi",
+    "latitude": 23.024005199999998,
+    "longitude": 72.5313181,
+    "place_id": "ChIJ3_Vo5c-EXjkRCMDrB7bzTYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_Vo5c-EXjkRCMDrB7bzTYA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:12:32"
+  }
+]

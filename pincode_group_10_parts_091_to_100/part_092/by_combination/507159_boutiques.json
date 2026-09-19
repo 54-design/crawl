@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "USHA DESIGNER BOTIQUE",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "507159",
+    "phone_number": "+91 63021 73406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7546+W33, Bank Colony, Khammam, Telangana 507002",
+    "area": "Bank Colony",
+    "latitude": 17.2572646,
+    "longitude": 80.16017579999999,
+    "place_id": "ChIJrbNuAQBZNDoRD5_D-npgk8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbNuAQBZNDoRD5_D-npgk8Q",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:55:48"
+  },
+  {
+    "business_name": "SixthHabit",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507159",
+    "phone_number": "+91 81258 06650",
+    "website": "https://sixthhabit.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-172, Kusumanchi - Nelakondapally Rd, opp. Police Station, Kusumanchi, Telangana 507159",
+    "area": "507159",
+    "latitude": 17.2237325,
+    "longitude": 79.95795629999999,
+    "place_id": "ChIJS1ktdAD7NDoRkL5_F4L_d3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1ktdAD7NDoRkL5_F4L_d3I",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:55:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kolkata juice and Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "507164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "155b, Mahatma Gandhi Rd, Block C, Jorasanko, Kolkata, West Bengal 700073",
+    "area": "Block C, Jorasanko",
+    "latitude": 22.5794191,
+    "longitude": 88.35836169999999,
+    "place_id": "ChIJU7SzGAB3AjoR7fAlo3sim5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7SzGAB3AjoR7fAlo3sim5U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:54"
+  },
+  {
+    "business_name": "R K Cool Point",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "507164",
+    "phone_number": "+91 99661 25144",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 1968,
+    "address": "10-4-7711/91, x road, Owaisi Pura, Masab Tank, Hyderabad, Telangana 500028",
+    "area": "Owaisi Pura, Masab Tank",
+    "latitude": 17.402595599999998,
+    "longitude": 78.44640509999999,
+    "place_id": "ChIJf5_f-D2XyzsRBmdDZdkhk_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5_f-D2XyzsRBmdDZdkhk_s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Di Hatti",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "507164",
+    "phone_number": "+91 75582 93270",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 445,
+    "address": "Shop No S-01, Airport Residency, Airport Rd, Adarsh Nagar, Mormugao, New Vaddem, Goa 403802",
+    "area": "Adarsh Nagar",
+    "latitude": 15.396064299999999,
+    "longitude": 73.8327757,
+    "place_id": "ChIJazdy6AjHvzsRqnat5bck53o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazdy6AjHvzsRqnat5bck53o",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:57"
+  },
+  {
+    "business_name": "FastFood Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CJVH+5GW, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "507164",
+    "latitude": 31.442978399999998,
+    "longitude": 77.6288142,
+    "place_id": "ChIJ3exBbgDBBTkRjMTSOB3dmW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3exBbgDBBTkRjMTSOB3dmW8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:57"
+  }
+]

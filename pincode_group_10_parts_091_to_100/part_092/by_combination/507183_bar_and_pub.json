@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Over The Flow",
+    "search_category": "Bar and Pub",
+    "primary_category": "Sports bar",
+    "all_categories": "Sports bar, Restaurant",
+    "pincode": "507183",
+    "phone_number": "+91 92481 94446",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3170,
+    "address": "LB Nagar Service Rd, polkampally, NTR Nagar, L. B. Nagar, Hyderabad, Telangana 500102",
+    "area": "polkampally, NTR Nagar, L. B. Nagar",
+    "latitude": 17.363679599999998,
+    "longitude": 78.5439157,
+    "place_id": "ChIJpbkoMMCYyzsRBZ8kh8S88EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbkoMMCYyzsRBZ8kh8S88EA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:55"
+  },
+  {
+    "business_name": "Bob's Bar - Kalyan Nagar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "507183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 3293,
+    "address": "3rd Floor, No. 7M-322, Landmark, 7th Main Rd, HRBR Layout 1st Block, 1st block, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 1st Block, 1st block, HRBR Layout, Kalyan Nagar",
+    "latitude": 13.0196083,
+    "longitude": 77.64355859999999,
+    "place_id": "ChIJP68m-jwXrjsRRFfc9qh5Yl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP68m-jwXrjsRRFfc9qh5Yl4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:55"
+  }
+]

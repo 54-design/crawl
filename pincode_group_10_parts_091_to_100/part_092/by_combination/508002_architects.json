@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Make Your Own Craft",
+    "search_category": "Architects",
+    "primary_category": "Art studio",
+    "all_categories": "Art studio, Architectural and engineering model maker, Art restoration service, Design engineer, Do-it-yourself shop, Furniture maker, Handicraft, Handicraft school, Model design company",
+    "pincode": "508002",
+    "phone_number": "N/A",
+    "website": "http://mark4ai.webflow.io/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rd Number 1, opp. Royal Enfield showroom, Meerbagh Colony, Ravindra Nagar, Nalgonda, Telangana 508001",
+    "area": "Meerbagh Colony, Ravindra Nagar",
+    "latitude": 17.0672712,
+    "longitude": 79.2639921,
+    "place_id": "ChIJDXcIqnnhk04RmqjsZKpXM0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXcIqnnhk04RmqjsZKpXM0M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:48:34"
+  },
+  {
+    "business_name": "G5 Interiors",
+    "search_category": "Architects",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "508002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VH73+2W2, Sagar Rd, Miryalaguda, Telangana 508207",
+    "area": "508002",
+    "latitude": 16.8625083,
+    "longitude": 79.5547514,
+    "place_id": "ChIJG_NZpRAvNToRde0CG0i7S-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_NZpRAvNToRde0CG0i7S-M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:48:34"
+  }
+]

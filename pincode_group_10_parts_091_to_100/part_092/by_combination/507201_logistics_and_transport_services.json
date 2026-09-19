@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "507201",
+    "phone_number": "+91 90638 35348",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "2P9P+QX9, Bayyaram, Bommarajupalli, Telangana 507117",
+    "area": "507201",
+    "latitude": 18.0194167,
+    "longitude": 80.73747999999999,
+    "place_id": "ChIJ35CdGcbjMzoRwBgDFp0fY_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35CdGcbjMzoRwBgDFp0fY_s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:19:05"
+  },
+  {
+    "business_name": "SUPER FAST CARRIER",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "507201",
+    "phone_number": "+91 93894 81698",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khammam, Chintala Gudem, Andhra Pradesh 533352",
+    "area": "507201",
+    "latitude": 17.718975999999998,
+    "longitude": 80.920774,
+    "place_id": "ChIJS1VVVZWuNjoR-gIsDEVHT4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1VVVZWuNjoR-gIsDEVHT4s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:19:05"
+  }
+]

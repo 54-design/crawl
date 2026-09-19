@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhaava Ayurveda Kendra",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "508112",
+    "phone_number": "+91 91217 88193",
+    "website": "http://www.bhaavawellness.com/",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "Jeeva Campus Sree Ramanagaram, Muchintal, Venkannaguda, Telangana 509325",
+    "area": "508112",
+    "latitude": 17.1869028,
+    "longitude": 78.3278512,
+    "place_id": "ChIJCS_BIla4yzsROyo4XDC60_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCS_BIla4yzsROyo4XDC60_s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:57:22"
+  },
+  {
+    "business_name": "Ayurveda Vaidyamu",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "508112",
+    "phone_number": "+91 93468 20481",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-15, Bhongiri, Hyderabad, Bhuvanagiri, Telangana 508116",
+    "area": "Bhongiri",
+    "latitude": 17.5076446,
+    "longitude": 78.8806571,
+    "place_id": "ChIJ-WWMiqhvyzsRvB9rXdpjAsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WWMiqhvyzsRvB9rXdpjAsI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:57:24"
+  }
+]

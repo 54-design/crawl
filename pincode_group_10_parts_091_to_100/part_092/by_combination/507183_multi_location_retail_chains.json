@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Retail Way",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507183",
+    "phone_number": "+91 99101 49915",
+    "website": "https://retailway.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mez & 1st Floor, A83, Pocket D, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Pocket D, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5386293,
+    "longitude": 77.26949259999999,
+    "place_id": "ChIJg1AjEbrjDDkR646zdv-xQzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1AjEbrjDDkR646zdv-xQzU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:18:23"
+  },
+  {
+    "business_name": "RD retail India Pvt LTD",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Department store, Exporter, Media house",
+    "pincode": "507183",
+    "phone_number": "+91 99901 57999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "number 2/4, Khasra, Bijapur Village Rd, Budhpur, Delhi, 110054",
+    "area": "Budhpur",
+    "latitude": 28.783328299999997,
+    "longitude": 77.13967269999999,
+    "place_id": "ChIJa8RXeRwBDTkR-fYydWk6-ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8RXeRwBDTkR-fYydWk6-ys",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:18:23"
+  }
+]

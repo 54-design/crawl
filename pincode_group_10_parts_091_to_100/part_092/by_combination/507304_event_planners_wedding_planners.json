@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magnet Event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "507304",
+    "phone_number": "+91 98246 50007",
+    "website": "http://magnetevent.in/",
+    "rating": 4.7,
+    "reviews_count": 41,
+    "address": "Shreeji Estate, 9, nr. Shree Bunglow, nr. Balia dev Temple, Gam, Ognaj, Ahmedabad, Gujarat 380060",
+    "area": "Gam, Ognaj",
+    "latitude": 23.1183561,
+    "longitude": 72.52147219999999,
+    "place_id": "ChIJO77cnz-DXjkR-VnOBIbJ9ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO77cnz-DXjkR-VnOBIbJ9ww",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:38:11"
+  },
+  {
+    "business_name": "Show Makers India",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "507304",
+    "phone_number": "+91 99280 22044",
+    "website": "http://www.showmakersindia.com/",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Silver Heights, A-29, G:-2, opposite Hotel Raj Laxmi, Sunder Singh Bhandari Nagar, Sodala, Jaipur, Rajasthan 302019",
+    "area": "Sunder Singh Bhandari Nagar, Ganesh Nagar, Sodala",
+    "latitude": 26.8917522,
+    "longitude": 75.7713524,
+    "place_id": "ChIJq0ixlmm1bTkRhlmgstvdHKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0ixlmm1bTkRhlmgstvdHKo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:38:11"
+  }
+]

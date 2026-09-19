@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Shekhar Biswas",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Neonatal physician",
+    "pincode": "507167",
+    "phone_number": "+91 90133 30596",
+    "website": "https://drshekharbiswas.inspiroxindia.in/",
+    "rating": 4.9,
+    "reviews_count": 624,
+    "address": "first floor, Sector 17, 8, Pocket A-1, Pocket 1, Sector 17A, Rohini, New Delhi, Delhi, 110089",
+    "area": "Pocket A-1, Pocket 1, Sector 17A, Rohini",
+    "latitude": 28.738190099999997,
+    "longitude": 77.1168589,
+    "place_id": "ChIJHZ8doCQBDTkRTyy_dXcybuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZ8doCQBDTkRTyy_dXcybuo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:08:28"
+  },
+  {
+    "business_name": "Little Step's Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "507167",
+    "phone_number": "+91 84828 57595",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 4, Bhondve Empire, Ganesh Nagar, Ravet, Pune, Pimpri-Chinchwad, Maharashtra 412101",
+    "area": "Ganesh Nagar, Ravet",
+    "latitude": 18.6531029,
+    "longitude": 73.75241059999999,
+    "place_id": "ChIJ2f-oOwW5wjsRIz4NkCCH30w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2f-oOwW5wjsRIz4NkCCH30w",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:08:29"
+  }
+]

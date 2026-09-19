@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Multispeciality Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "507203",
+    "phone_number": "+91 90598 04957",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "St Francis School Rd, Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.9268818,
+    "longitude": 80.3642278,
+    "place_id": "ChIJnQ6xmyyxNToRrVpKIEV58qM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQ6xmyyxNToRrVpKIEV58qM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:14"
+  },
+  {
+    "business_name": "Ramesh Babu Eye & Dental Hospital",
+    "search_category": "Dental Clinic",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "507203",
+    "phone_number": "+91 94419 79575",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-164, Madhira - Wyra Rd, Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.9270182,
+    "longitude": 80.3641833,
+    "place_id": "ChIJZ2faHzuzNToR7Tku1L-tvx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2faHzuzNToR7Tku1L-tvx4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:14"
+  }
+]

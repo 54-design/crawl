@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Naveen Pet Needs",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "507169",
+    "phone_number": "+91 93483 22950",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3-6-280/A/2, New Naveen Pet Needs, Old MLA Quarters Rd, beside Caiifomia Burrito, AP State Housing Board, Himayatnagar, Hyderguda, Hyderabad, Telangana 500029",
+    "area": "AP State Housing Board, Himayatnagar",
+    "latitude": 17.3978395,
+    "longitude": 78.48385689999999,
+    "place_id": "ChIJoUc4dtuZyzsREZGxjl843u4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUc4dtuZyzsREZGxjl843u4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:34"
+  },
+  {
+    "business_name": "Sai krishna Pets & More",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "507169",
+    "phone_number": "+91 93948 14339",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop number 12, metro pillar no 875, 6-36/4, opposite to RTC Bus depot, Pragathi Nagar, Moosapet, Hyderabad, Telangana 500018",
+    "area": "Pragathi Nagar, Moosapet",
+    "latitude": 17.4734043,
+    "longitude": 78.424762,
+    "place_id": "ChIJT_eJnHmRyzsRxwC5a8uA67A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_eJnHmRyzsRxwC5a8uA67A",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:35"
+  }
+]

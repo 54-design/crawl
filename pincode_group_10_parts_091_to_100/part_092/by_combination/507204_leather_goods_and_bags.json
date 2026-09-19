@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N N Leathers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "507204",
+    "phone_number": "+91 80 4091 9013",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 360,
+    "address": "#204, 1st Main Rd, near Sai Baba Temple, 7th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "7th Block, Koramangala",
+    "latitude": 12.9367679,
+    "longitude": 77.6134076,
+    "place_id": "ChIJ8QwdeU4UrjsR49zsx0XNOBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QwdeU4UrjsR49zsx0XNOBo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:23:48"
+  },
+  {
+    "business_name": "Variety Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "507204",
+    "phone_number": "+91 98495 23717",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Shop no: C-3, near Rajiv Chowk, below new peacock restaurant, Ashoknagar, Karimnagar, Telangana 505001",
+    "area": "Ashoknagar",
+    "latitude": 18.435414299999998,
+    "longitude": 79.1354459,
+    "place_id": "ChIJaSgH7BfZzDsRmo-5POaO460",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSgH7BfZzDsRmo-5POaO460",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:23:48"
+  }
+]

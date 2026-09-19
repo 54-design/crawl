@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LA Ceilings",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor, Service establishment",
+    "pincode": "508101",
+    "phone_number": "N/A",
+    "website": "https://www.laceilings.com/",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "LA Ceilings, 508101, India",
+    "area": "508101",
+    "latitude": 33.982617499999996,
+    "longitude": -118.30430799999999,
+    "place_id": "ChIJ9QycL8vC6YEREX7qjvKdsAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QycL8vC6YEREX7qjvKdsAk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:05"
+  },
+  {
+    "business_name": "CEILING DOCTOR BY JULIAN",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Ceiling supplier",
+    "all_categories": "Ceiling supplier, Service establishment",
+    "pincode": "508101",
+    "phone_number": "N/A",
+    "website": "http://www.roofandceilingdoctor.com/",
+    "rating": 4.7,
+    "reviews_count": 50,
+    "address": "CEILING DOCTOR BY JULIAN, 508101, India",
+    "area": "508101",
+    "latitude": 33.4528119,
+    "longitude": -82.09091699999999,
+    "place_id": "ChIJQ8NR5GHU-YgR2epz4emdGws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8NR5GHU-YgR2epz4emdGws",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:07"
+  }
+]

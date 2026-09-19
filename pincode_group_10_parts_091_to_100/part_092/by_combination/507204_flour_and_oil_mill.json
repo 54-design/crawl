@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayaka Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "507204",
+    "phone_number": "+91 94492 02163",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "CWVG+5PQ, Shivakumara Swamy Nagara, Davangere, Karnataka 577005",
+    "area": "Shivakumara Swamy Nagara",
+    "latitude": 14.442972099999999,
+    "longitude": 75.926862,
+    "place_id": "ChIJB-8nrj8lujsRGgzrXDdAly4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-8nrj8lujsRGgzrXDdAly4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:57"
+  },
+  {
+    "business_name": "Prasad oils",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "507204",
+    "phone_number": "+91 97043 43143",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zph school, opp. Rajapudi, Jaggampeta, Rajapudi, Andhra Pradesh 533435",
+    "area": "507204",
+    "latitude": 17.2119578,
+    "longitude": 82.0067839,
+    "place_id": "ChIJEXaWgbZ3NzoRI9X7iqqyCBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXaWgbZ3NzoRI9X7iqqyCBI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:57"
+  }
+]

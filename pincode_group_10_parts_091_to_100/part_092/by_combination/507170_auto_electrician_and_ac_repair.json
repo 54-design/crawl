@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V N motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507170",
+    "phone_number": "+91 84649 49303",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FCI Godown, Bypass Rd, opposite Khammam, MB Garden, Sarathi Nagar, Khammam, Telangana 507003",
+    "area": "MB Garden, Sarathi Nagar",
+    "latitude": 17.265258,
+    "longitude": 80.13431609999999,
+    "place_id": "ChIJyeP9JglZNDoRnaaL9v2eKZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeP9JglZNDoRnaaL9v2eKZE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:49"
+  },
+  {
+    "business_name": "Godrej Service Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "507170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Kaman Bazar Rd, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2437137,
+    "longitude": 80.1406243,
+    "place_id": "ChIJp82Uk3tZNDoRtegtyp3lJuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp82Uk3tZNDoRtegtyp3lJuI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:50"
+  }
+]

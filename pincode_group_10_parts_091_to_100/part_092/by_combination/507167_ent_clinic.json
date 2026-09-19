@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New India Surgical Co",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "507167",
+    "phone_number": "+91 98485 12193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No: Opp: Sunshin Grand,, 2-4-1113/66, Kachiguda Station Rd, Railway Quarters, Kachiguda, Hyderabad, Telangana 500027",
+    "area": "Railway Quarters, Kachiguda",
+    "latitude": 17.3883986,
+    "longitude": 78.4964731,
+    "place_id": "ChIJB3Y3D8mZyzsRsjcya-tiK6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3Y3D8mZyzsRsjcya-tiK6s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:08:32"
+  },
+  {
+    "business_name": "Arise SURGICALS",
+    "search_category": "ENT Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "507167",
+    "phone_number": "+91 93945 57357",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "4-4-212/2 And 4, Inder Bagh Rd, Sultan Bazar, Koti, Hyderabad, Telangana 500001",
+    "area": "Sultan Bazar, Koti",
+    "latitude": 17.3859073,
+    "longitude": 78.4847104,
+    "place_id": "ChIJJSTH0XOZyzsRuPNAF_hvmiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSTH0XOZyzsRuPNAF_hvmiI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:08:32"
+  }
+]

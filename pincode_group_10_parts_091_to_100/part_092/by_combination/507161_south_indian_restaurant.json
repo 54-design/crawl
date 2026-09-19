@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaadhale - Pure Vegetarian Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507161",
+    "phone_number": "+91 88857 01851",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1-1, 8, Sarojini Devi Rd, opp. Clock Tower, Kummari Guda, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Kummari Guda, Shivaji Nagar",
+    "latitude": 17.4406602,
+    "longitude": 78.4974663,
+    "place_id": "ChIJTWd3g86byzsRpEdyHTwh2kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWd3g86byzsRpEdyHTwh2kk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:59:18"
+  },
+  {
+    "business_name": "Telangana Spice Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Bar & grill, Lounge bar",
+    "pincode": "507161",
+    "phone_number": "+91 97335 52222",
+    "website": "https://telanganaspicekitchen.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Fourth floor, CVK Park Square, above Aptronix store, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4419906,
+    "longitude": 78.4898687,
+    "place_id": "ChIJSTvFupubyzsRfWbxmT6BgHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTvFupubyzsRfWbxmT6BgHE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:59:18"
+  }
+]

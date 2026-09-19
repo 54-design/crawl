@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivera Junction",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 347,
+    "address": "6568+XHV, NH 65, Narketpally, Gopalayapalli, Telangana 508254",
+    "area": "508114",
+    "latitude": 17.2123495,
+    "longitude": 79.1664758,
+    "place_id": "ChIJ1eA6WQA7yzsR07FaxCToKhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1eA6WQA7yzsR07FaxCToKhs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:07"
+  },
+  {
+    "business_name": "SOUTH INDIAN FILTER COFFEE-KATTANGUR",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 5,
+    "address": "579Q+CP3, Manikyala Gudem, Telangana 508205",
+    "area": "508114",
+    "latitude": 17.1685625,
+    "longitude": 79.2893125,
+    "place_id": "ChIJ9bKPKu8vyzsR9N6lYd58YYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bKPKu8vyzsR9N6lYd58YYU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:08"
+  }
+]

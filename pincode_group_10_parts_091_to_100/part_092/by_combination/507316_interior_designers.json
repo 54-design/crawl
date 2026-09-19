@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarah Cox Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "507316",
+    "phone_number": "01392 240780",
+    "website": "http://www.sarahcoxinteriors.co.uk/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Sarah Cox Interiors, 507316, India",
+    "area": "507316",
+    "latitude": 50.9885513,
+    "longitude": -3.9523926,
+    "place_id": "ChIJMQTbaQMHbUgRJQuozRZF9o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQTbaQMHbUgRJQuozRZF9o0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:10"
+  },
+  {
+    "business_name": "Design & Conker Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "507316",
+    "phone_number": "07766 227911",
+    "website": "http://www.designandconker.co.uk/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Design & Conker Interiors, 507316, India",
+    "area": "507316",
+    "latitude": 51.423143599999996,
+    "longitude": -0.4465085,
+    "place_id": "ChIJNaaTE6Wt3Y8Rr2XTCD3X3kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaaTE6Wt3Y8Rr2XTCD3X3kM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:10"
+  }
+]

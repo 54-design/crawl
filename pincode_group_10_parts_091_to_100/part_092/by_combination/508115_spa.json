@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pride health village",
+    "search_category": "Spa",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "508115",
+    "phone_number": "+91 70934 32651",
+    "website": "https://pridehealthvillage.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "behind capol hospital,kondamadugu village,on warangal highway,bibinagar mandal nalgonda distrist, hyderabad, Telangana 501301",
+    "area": "508115",
+    "latitude": 17.475457,
+    "longitude": 78.74977,
+    "place_id": "ChIJ9fvR_DJxyzsRBp1xjcDwoFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fvR_DJxyzsRBp1xjcDwoFk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:02:33"
+  },
+  {
+    "business_name": "DrKarthik Reddy",
+    "search_category": "Spa",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Acupuncture clinic, Massage spa, Yoga studio",
+    "pincode": "508115",
+    "phone_number": "+91 92907 01674",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Bibinagar, Telangana 508126",
+    "area": "508115",
+    "latitude": 17.4658125,
+    "longitude": 78.7878125,
+    "place_id": "ChIJE3CWswpxyzsRjDITitkLIu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3CWswpxyzsRjDITitkLIu4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:02:33"
+  }
+]

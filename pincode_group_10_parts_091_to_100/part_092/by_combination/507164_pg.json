@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Better Inn",
+    "search_category": "PG",
+    "primary_category": "Youth Hostel",
+    "all_categories": "Youth Hostel, Boys' hostel, Girls' hostel, Backpacker Hostel, Hotel, Motel, Serviced accommodation, Student housing center, Working women's hostel",
+    "pincode": "507164",
+    "phone_number": "+91 96668 79025",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "23-111/2/B, Madhura Nagar, Shamshabad, Hyderabad, Telangana 501218",
+    "area": "Madhura Nagar, Shamshabad",
+    "latitude": 17.262276699999997,
+    "longitude": 78.3863841,
+    "place_id": "ChIJr6FbJga9yzsRMPiCvWLRceM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6FbJga9yzsRMPiCvWLRceM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:48"
+  },
+  {
+    "business_name": "Amrutha PG Hostel for Ladies & Gents",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Boys' hostel, Girls' hostel, Backpacker Hostel, Youth Hostel",
+    "pincode": "507164",
+    "phone_number": "+91 90350 90413",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Maruthi Venture, near Little Village Restaurant, Chinnakakani, Andhra Pradesh 522508",
+    "area": "507164",
+    "latitude": 16.409274,
+    "longitude": 80.5595153,
+    "place_id": "ChIJJ-xiCwD3NToRjbEj3qdm5dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-xiCwD3NToRjbEj3qdm5dA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:48"
+  }
+]

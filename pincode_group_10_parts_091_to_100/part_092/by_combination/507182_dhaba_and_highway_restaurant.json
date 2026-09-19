@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan Dhaba Hyderabad",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "507182",
+    "phone_number": "+91 79817 48383",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6710,
+    "address": "ayodya x road, beside madhan bar, Gundlapochampally, Hyderabad, Telangana 500100",
+    "area": "Gundlapochampally",
+    "latitude": 17.5880851,
+    "longitude": 78.47393799999999,
+    "place_id": "ChIJp6pHNmCPyzsRRldwBkUtxwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6pHNmCPyzsRRldwBkUtxwU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:15:08"
+  },
+  {
+    "business_name": "Highway Dev Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "507182",
+    "phone_number": "+91 80950 55799",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 289,
+    "address": "3Q6C+38M, Amanidoddakere, Karnataka 562114",
+    "area": "507182",
+    "latitude": 13.0602197,
+    "longitude": 77.7707959,
+    "place_id": "ChIJU6bygIwPrjsRJEbOlx6Nkxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6bygIwPrjsRJEbOlx6Nkxo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:15:09"
+  }
+]

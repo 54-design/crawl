@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanvantari medical fancy and general stores",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "507304",
+    "phone_number": "+91 95812 58181",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siripuram (PM), Telangana 507304",
+    "area": "507304",
+    "latitude": 17.0001504,
+    "longitude": 80.3579855,
+    "place_id": "ChIJBbYZmdWzNToRjvtsC0QbfLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbYZmdWzNToRjvtsC0QbfLw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:41"
+  },
+  {
+    "business_name": "Sri Lakshmi Medical & General Stores",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Public medical center",
+    "all_categories": "Public medical center",
+    "pincode": "507304",
+    "phone_number": "+91 94414 18107",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M, Door No : 1-176, DundiralaPadu (V), MainRoad, GampalaGudem, Vijayawada, Andhra Pradesh 521401",
+    "area": "507304",
+    "latitude": 17.003052399999998,
+    "longitude": 80.4092391,
+    "place_id": "ChIJm1cFOlS1NToRn0fVnZH0hHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1cFOlS1NToRn0fVnZH0hHw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarath & Associates",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Auditor",
+    "pincode": "508101",
+    "phone_number": "+91 40 2335 4322",
+    "website": "http://www.sarathcas.in/",
+    "rating": 4.8,
+    "reviews_count": 22,
+    "address": "4th Floor, MAAS Heights, Road No. 8, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Zahara Nagar, Banjara Hills",
+    "latitude": 17.4177113,
+    "longitude": 78.4469895,
+    "place_id": "ChIJgY6HzTaXyzsRgbwpXVlWUhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgY6HzTaXyzsRgbwpXVlWUhY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:33"
+  },
+  {
+    "business_name": "The Institute of Chartered Accountants of India",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Educational institution, Government office",
+    "pincode": "508101",
+    "phone_number": "+91 40 2970 7026",
+    "website": "https://hydicai.org/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "11-5-398/C, near Niloufer Hospital, Red Hills, Lakdikapul, Hyderabad, Telangana 500004",
+    "area": "Red Hills, Lakdikapul",
+    "latitude": 17.400225799999998,
+    "longitude": 78.46332439999999,
+    "place_id": "ChIJsVZVhmiXyzsRYZbtlTeBLGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVZVhmiXyzsRYZbtlTeBLGw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:34"
+  }
+]

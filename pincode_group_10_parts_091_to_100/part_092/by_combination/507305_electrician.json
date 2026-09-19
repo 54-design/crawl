@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramarao Electrical Repair Works",
+    "search_category": "Electrician",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "507305",
+    "phone_number": "+91 97044 53671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5795+J98, BC Rd, Pedda Gopathi, Telangana 507305",
+    "area": "507305",
+    "latitude": 17.1690391,
+    "longitude": 80.2584536,
+    "place_id": "ChIJgbRjtutRNDoRyWL8va4qGt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbRjtutRNDoRyWL8va4qGt0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:40"
+  },
+  {
+    "business_name": "Banoth'S Den",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "507305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "66RG+CXV, V.Venkatayapalem, Telangana 507318",
+    "area": "507305",
+    "latitude": 17.2411198,
+    "longitude": 80.2274248,
+    "place_id": "ChIJCzX4UABbNDoRBVjGVKFMRd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzX4UABbNDoRBVjGVKFMRd0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:42"
+  }
+]

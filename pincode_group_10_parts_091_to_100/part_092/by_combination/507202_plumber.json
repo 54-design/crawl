@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "click solver",
+    "search_category": "Plumber",
+    "primary_category": "Handyman/Handywoman/Handyperson",
+    "all_categories": "Handyman/Handywoman/Handyperson, Service establishment",
+    "pincode": "507202",
+    "phone_number": "N/A",
+    "website": "https://clicksolver.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "click solver, 507202, India",
+    "area": "507202",
+    "latitude": 16.6986032,
+    "longitude": 81.431235,
+    "place_id": "ChIJBW8YLwJVIGoRysBCbYcqrNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBW8YLwJVIGoRysBCbYcqrNU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:20:53"
+  },
+  {
+    "business_name": "Ashok Emergency Plumbing & Waterproof Solution",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "507202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "H No:- 33, 2-41/1, Warangal, Thimmapur, Telangana 506005",
+    "area": "507202",
+    "latitude": 17.926726,
+    "longitude": 79.5731022,
+    "place_id": "ChIJX8_YfddbMzoRmANx1fioD10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8_YfddbMzoRmANx1fioD10",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:20:53"
+  }
+]

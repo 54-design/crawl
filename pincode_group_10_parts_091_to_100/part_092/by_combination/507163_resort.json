@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Townhouse Khammam formerly Bluemoon",
+    "search_category": "Resort",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging, Vacation rental",
+    "pincode": "507163",
+    "phone_number": "N/A",
+    "website": "https://br.bluepillow.com/search/67a23ee1905c444f2d086de4?dest=ago&cat=Vacation+rental+(other)&lat=17.31814&lng=80.13169&language=pt",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Telangana 507003",
+    "area": "507163",
+    "latitude": 17.31814,
+    "longitude": 80.13169099999999,
+    "place_id": "ChIJczFVVcVYNDoRTX9lbYgBeHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczFVVcVYNDoRTX9lbYgBeHk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:05"
+  },
+  {
+    "business_name": "VBK Residency",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Apartment building",
+    "pincode": "507163",
+    "phone_number": "+91 97008 75300",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "VB house, Trunk Rd, beside RJC College, opposite Rama mess, Ramachandra Nagar Colony, Moti Nagar, Khammam, Telangana 507003",
+    "area": "Ramachandra Nagar Colony, Moti Nagar",
+    "latitude": 17.2509041,
+    "longitude": 80.1363196,
+    "place_id": "ChIJVQpbnDFYNDoRiVTkLH8yV_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQpbnDFYNDoRiVTkLH8yV_s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:06"
+  }
+]

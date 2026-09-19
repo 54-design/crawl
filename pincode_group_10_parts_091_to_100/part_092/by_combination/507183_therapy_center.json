@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "InnerHeal Therapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "507183",
+    "phone_number": "+91 73964 35552",
+    "website": "https://www.innerhealtherapy.com/",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "address": "1A, no. 8-2-350/13A/3D, plot no 37, Rd Number 3, near KORA, Lane, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Lane, Banjara Hills",
+    "latitude": 17.4264945,
+    "longitude": 78.444474,
+    "place_id": "ChIJqc1U1NuXyzsR0Yz_gmnKPL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc1U1NuXyzsR0Yz_gmnKPL8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:17:39"
+  },
+  {
+    "business_name": "The Psychcare Therapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service",
+    "pincode": "507183",
+    "phone_number": "+91 88858 00560",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "5th floor, Sri Keertis Residency, Seshadri Marg, behind Mataji Traders, Park Avenue Colony, Raja Rajeshwara Nagar, Gachibowli, Hyderabad, Telangana 500084",
+    "area": "Park Avenue Colony, Raja Rajeshwara Nagar, Gachibowli",
+    "latitude": 17.4695341,
+    "longitude": 78.35598569999999,
+    "place_id": "ChIJS74tbQaTyzsRiMZnNLoaCsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS74tbQaTyzsRiMZnNLoaCsY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:17:39"
+  }
+]

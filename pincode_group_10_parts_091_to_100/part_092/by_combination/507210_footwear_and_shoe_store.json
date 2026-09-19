@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "507210",
+    "phone_number": "+91 96426 60786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No 6, 56, Main Rd, Dornakal, Telangana 506381",
+    "area": "507210",
+    "latitude": 17.4439952,
+    "longitude": 80.1511297,
+    "place_id": "ChIJB2Ruto5hNDoRtNrSzwKKaAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2Ruto5hNDoRtNrSzwKKaAc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:55"
+  },
+  {
+    "business_name": "Pioneer Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler, Store",
+    "pincode": "507210",
+    "phone_number": "+91 99083 33000",
+    "website": "http://www.pioneershoes.in/",
+    "rating": 4.3,
+    "reviews_count": 859,
+    "address": "30-10-2, Daba Garden Rd, Daba Gardens, Allipuram, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.7163786,
+    "longitude": 83.3019274,
+    "place_id": "ChIJX_N2oRlDOToRKBAKGDFJjtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_N2oRlDOToRKBAKGDFJjtM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:56"
+  }
+]

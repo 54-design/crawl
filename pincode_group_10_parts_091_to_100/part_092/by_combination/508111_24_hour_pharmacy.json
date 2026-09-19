@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anvik medical hall",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "508111",
+    "phone_number": "+91 99594 72708",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "85C4+F5J, Mangamma Rd, Munipampula, Telangana 508113",
+    "area": "508111",
+    "latitude": 17.3212118,
+    "longitude": 79.1553904,
+    "place_id": "ChIJo34DuV85yzsRbvjVHsHuapg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo34DuV85yzsRbvjVHsHuapg",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:08"
+  },
+  {
+    "business_name": "ABHISRI medical & general store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "508111",
+    "phone_number": "+91 95054 32312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.no-2-41, Koyalagudem, Telangana 508252",
+    "area": "508111",
+    "latitude": 17.260206999999998,
+    "longitude": 78.8436808,
+    "place_id": "ChIJNciOGv0RyzsR6EIRJq01ClM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNciOGv0RyzsR6EIRJq01ClM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:08"
+  }
+]

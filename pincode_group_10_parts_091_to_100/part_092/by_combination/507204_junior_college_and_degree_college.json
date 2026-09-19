@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharath Junior College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "507204",
+    "phone_number": "+91 87492 73288",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 10,
+    "address": "near Railway Station, opp. Congress Office, Madhira, Telangana 507203",
+    "area": "507204",
+    "latitude": 16.920810499999998,
+    "longitude": 80.3643304,
+    "place_id": "ChIJ_5q4mCqxNToR89Gssn-2N70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5q4mCqxNToR89Gssn-2N70",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:34"
+  },
+  {
+    "business_name": "Susheela Degree College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "University",
+    "all_categories": "University",
+    "pincode": "507204",
+    "phone_number": "+91 88976 00117",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 15,
+    "address": "W9P8+R69, Jilugumaadu, Madhira, Didugupadu, Telangana 507203",
+    "area": "Jilugumaadu",
+    "latitude": 16.9370326,
+    "longitude": 80.36560709999999,
+    "place_id": "ChIJv01HTDOxNToRvNpEqZuMBJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv01HTDOxNToRvNpEqZuMBJ0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Irani Dude khammam",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "507170",
+    "phone_number": "+91 96669 68735",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FCI GODOWN ROAD, beside PRIYADARSHINI DEGREE AND PG COLLAGE, Sarathi Nagar, Khammam, Telangana 507003",
+    "area": "Sarathi Nagar",
+    "latitude": 17.2529877,
+    "longitude": 80.1327506,
+    "place_id": "ChIJ8SFG-PhZNDoRyel8DZq5wGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SFG-PhZNDoRyel8DZq5wGU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:22"
+  },
+  {
+    "business_name": "ONE STOP CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507170",
+    "phone_number": "+91 76708 25450",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Mamatha Hospital Rd, nearby Address:, beside ZUDIO, Radhakrishna Nagar, Netaji Nagar, Khammam, Telangana 507002",
+    "area": "Radhakrishna Nagar, Netaji Nagar",
+    "latitude": 17.2475269,
+    "longitude": 80.1665289,
+    "place_id": "ChIJUW1Zv-1ZNDoRl2FGIwKU1KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW1Zv-1ZNDoRl2FGIwKU1KU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:24"
+  }
+]

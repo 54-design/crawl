@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VR Pro Films",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer, Service establishment",
+    "pincode": "507201",
+    "phone_number": "+91 96665 52703",
+    "website": "https://www.vrprofilms.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VR Pro Films, 507201, India",
+    "area": "507201",
+    "latitude": 16.5163384,
+    "longitude": 80.63702889999999,
+    "place_id": "ChIJnS9YHgELNjoRCLVwCL8LKHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnS9YHgELNjoRCLVwCL8LKHc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:19:25"
+  },
+  {
+    "business_name": "Mana Rythu Drones",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone shop",
+    "all_categories": "Drone shop",
+    "pincode": "507201",
+    "phone_number": "+91 97038 86677",
+    "website": "https://manarythudrones.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Tadikonda, Andhra Pradesh 522236",
+    "area": "507201",
+    "latitude": 16.4267821,
+    "longitude": 80.4537335,
+    "place_id": "ChIJZRYuEAnzNToRSiF3v_yXLe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRYuEAnzNToRSiF3v_yXLe0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:19:28"
+  }
+]

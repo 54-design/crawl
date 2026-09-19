@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAYURI TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "507318",
+    "phone_number": "+91 92464 60666",
+    "website": "http://www.mayuribus.com/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "5-5-1311, OPP DMART,SUSHMA THEATRE SIGNAL VANASTHALIPURAM, Hyderabad, Telangana 500070",
+    "area": "Sharada Nagar, Indira Nagar, Auto Nagar",
+    "latitude": 17.3369242,
+    "longitude": 78.574422,
+    "place_id": "ChIJNX9Ng_qhyzsR_hAusz3pf3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX9Ng_qhyzsR_hAusz3pf3Y",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:44:45"
+  },
+  {
+    "business_name": "Ravi Fastag Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Auto tag agency",
+    "all_categories": "Auto tag agency",
+    "pincode": "507318",
+    "phone_number": "+91 98664 54780",
+    "website": "https://local360connect.in/biz/fastag-services",
+    "rating": 5,
+    "reviews_count": 35,
+    "address": "Bypass Road, near to New Bus stand and CPI office, Vijaynagar Colony-I, Khammam, Telangana 507002",
+    "area": "Vijaynagar Colony-I",
+    "latitude": 17.2614652,
+    "longitude": 80.15136079999999,
+    "place_id": "ChIJ38DWNWNZNDoRcbJS8N0okAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38DWNWNZNDoRcbJS8N0okAY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:44:47"
+  }
+]

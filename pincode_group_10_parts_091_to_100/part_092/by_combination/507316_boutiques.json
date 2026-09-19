@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AS fashion wears",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507316",
+    "phone_number": "+91 91003 91485",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-91, Main road, Maddukuru, Chandrugonda, Telangana 507166",
+    "area": "507316",
+    "latitude": 17.357341599999998,
+    "longitude": 80.6731501,
+    "place_id": "ChIJtyR51uMjNDoRT_saCfWuGUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyR51uMjNDoRT_saCfWuGUM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:42:43"
+  },
+  {
+    "business_name": "SAI FASHIONS",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8MCV+V3J, beside Vijaya Bank, Yerragunta, Telangana 507316",
+    "area": "507316",
+    "latitude": 17.3220369,
+    "longitude": 80.6929956,
+    "place_id": "ChIJeyH4ek4lNDoRVpVYchS_CwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyH4ek4lNDoRVpVYchS_CwY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:42:43"
+  }
+]

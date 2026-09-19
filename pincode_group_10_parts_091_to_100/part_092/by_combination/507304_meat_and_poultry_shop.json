@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Porkzza",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "507304",
+    "phone_number": "+91 80089 63205",
+    "website": "http://www.porkzza.in/",
+    "rating": 3.5,
+    "reviews_count": 20,
+    "address": "GM24+57J, Polyclinic Rd, Near Bhashyam Public School, Panpana, Gayathri Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Panpana, Gayathri Nagar, Benz Circle",
+    "latitude": 16.5004641,
+    "longitude": 80.6556337,
+    "place_id": "ChIJQ_iQksf6NToR99XVmeOohps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_iQksf6NToR99XVmeOohps",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:16"
+  },
+  {
+    "business_name": "FADIL MEAT AND POULTRY SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "507304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 7,
+    "address": "776Q+F22 - Bur Dubai - Al Fahidi - Dubai - United Arab Emirates",
+    "area": "Bur Dubai - Al Fahidi",
+    "latitude": 25.2611344,
+    "longitude": 55.2875273,
+    "place_id": "ChIJgUQJfLFDXz4RpRUbmsDeVf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUQJfLFDXz4RpRUbmsDeVf8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:16"
+  }
+]

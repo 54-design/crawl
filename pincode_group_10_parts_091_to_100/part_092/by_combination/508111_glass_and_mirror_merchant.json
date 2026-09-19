@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hakimi Enterprises - Glass, Hardware & Aluminium",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "508111",
+    "phone_number": "+91 98490 09530",
+    "website": "https://hakimiglass.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H, NO. 5-6-171/1/1A, Aghapura Rd, Bharat Nagar, Aghapura, Nampally, Hyderabad, Telangana 500001",
+    "area": "Bharat Nagar, Aghapura, Nampally",
+    "latitude": 17.3866248,
+    "longitude": 78.46404679999999,
+    "place_id": "ChIJR6F3jhSXyzsRzkf4k4z7QqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6F3jhSXyzsRzkf4k4z7QqE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:30"
+  },
+  {
+    "business_name": "Rahmat Glass enterprises",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass shop",
+    "all_categories": "Glass shop",
+    "pincode": "508111",
+    "phone_number": "+91 89798 29404",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Plot no.23, Pipeline Rd, near bajaj showroom, Shirdi Sai Nagar, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Shirdi Sai Nagar",
+    "latitude": 17.402245999999998,
+    "longitude": 78.3835836,
+    "place_id": "ChIJl47DRfaVyzsRWx0VReJyzSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl47DRfaVyzsRWx0VReJyzSM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:30"
+  }
+]

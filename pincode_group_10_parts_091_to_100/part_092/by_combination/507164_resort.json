@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Prakruthi Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "507164",
+    "phone_number": "+91 77990 18390",
+    "website": "https://www.vishalprakruthiresorts.in/",
+    "rating": 4,
+    "reviews_count": 1428,
+    "address": "Opp - Air Force Academy , Dundagal (Exit -5, Nehru Outer Ring Road, Hyderabad, Telangana 502313",
+    "area": "507164",
+    "latitude": 17.627841999999998,
+    "longitude": 78.3829784,
+    "place_id": "ChIJc7dyweGLyzsRoW4BzYFdhf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7dyweGLyzsRoW4BzYFdhf0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:47"
+  },
+  {
+    "business_name": "Aloha resort & convention",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "507164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "68G9+3H, Palmakole, Telangana 501218",
+    "area": "507164",
+    "latitude": 17.22513,
+    "longitude": 78.31895399999999,
+    "place_id": "ChIJjxhEbwC5yzsRGXPi96qX06Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxhEbwC5yzsRGXPi96qX06Y",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:48"
+  }
+]

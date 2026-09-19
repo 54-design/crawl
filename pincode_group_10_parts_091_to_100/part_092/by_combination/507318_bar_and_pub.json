@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saidulu kallu Point",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "507318",
+    "phone_number": "+91 87900 31790",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "65JQ+5X3, Gollagudem Rd, Velugumatla, Telangana 50",
+    "area": "507318",
+    "latitude": 17.2303863,
+    "longitude": 80.1899121,
+    "place_id": "ChIJeYsecgBRNDoRT7x7scV2hj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYsecgBRNDoRT7x7scV2hj4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:44:15"
+  },
+  {
+    "business_name": "Urban Beats Family Bar & Kitchen",
+    "search_category": "Bar and Pub",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Bar & grill",
+    "pincode": "507318",
+    "phone_number": "+91 98889 66618",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "beside Indian oil petrol Bunk, Dwarka Nagar Colony, Kharmanghat, Bairamalguda, Telangana 500079",
+    "area": "Dwarka Nagar Colony",
+    "latitude": 17.343026899999998,
+    "longitude": 78.5388941,
+    "place_id": "ChIJm1o5bzOZyzsRTkd7daXPhI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1o5bzOZyzsRTkd7daXPhI8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:44:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "507169",
+    "phone_number": "+91 88854 36069",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "744W+9H8, Narasimha Swami Gutta, Khammam, Telangana 507002",
+    "area": "Narasimha Swami Gutta",
+    "latitude": 17.2559248,
+    "longitude": 80.1464398,
+    "place_id": "ChIJh5syAABZNDoRv12wH4DCPLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5syAABZNDoRv12wH4DCPLU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:54"
+  },
+  {
+    "business_name": "KK DENTAL DEPO",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental supply store",
+    "all_categories": "Dental supply store",
+    "pincode": "507169",
+    "phone_number": "+91 93931 17116",
+    "website": "https://m.facebook.com/KKDentalDepo/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "29-12-04, Venkataratnam Street (BJP OFFICE ROAD Nakkala Road, 4th, LEFT LANE, near AKSHYA PHARMACY, Suryaraopeta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Suryaraopeta, Governor Peta",
+    "latitude": 16.5122092,
+    "longitude": 80.63283899999999,
+    "place_id": "ChIJfxbVAADwNToRYhrB71SHnYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxbVAADwNToRYhrB71SHnYA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:56"
+  }
+]

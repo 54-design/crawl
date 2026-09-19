@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KK PLAZA",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "5-1-201, Wyra Rd, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.2514879,
+    "longitude": 80.1623261,
+    "place_id": "ChIJZYSCd1tZNDoRTDT35JmQeXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYSCd1tZNDoRTDT35JmQeXI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:45:51"
+  },
+  {
+    "business_name": "Vestige Branch Khammam",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "65X3+WQC, Khammam - Sathupally Rd, Yedulapuram, Khammam, Telangana 507002",
+    "area": "Yedulapuram",
+    "latitude": 17.2498073,
+    "longitude": 80.154421,
+    "place_id": "ChIJOSzrg5FZNDoRSNTlFDc0wVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSzrg5FZNDoRSNTlFDc0wVA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:45:51"
+  }
+]

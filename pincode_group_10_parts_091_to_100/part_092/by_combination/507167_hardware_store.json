@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Laxmi Venkateswara paints,electrical and general store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Electrical supply store, Paint store",
+    "pincode": "507167",
+    "phone_number": "+91 99495 28295",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thallada 1/225, Telangana 507167",
+    "area": "507167",
+    "latitude": 17.2160184,
+    "longitude": 80.42143159999999,
+    "place_id": "ChIJdfYAfNtJNDoR_mA2UPuv5jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfYAfNtJNDoR_mA2UPuv5jE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:08:42"
+  },
+  {
+    "business_name": "karuna Timber depo",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "507167",
+    "phone_number": "+91 70959 89561",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-8, Leela Sundaraiah Nagar, Wyra, Telangana 507165",
+    "area": "Leela Sundaraiah Nagar",
+    "latitude": 17.1960832,
+    "longitude": 80.35554549999999,
+    "place_id": "ChIJySDGFW9PNDoRHkrTjYBIA8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySDGFW9PNDoRHkrTjYBIA8U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:08:42"
+  }
+]

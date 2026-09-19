@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haseena's Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Designer Clothing Store, Fashion design school, Fashion designer, Stitching Class",
+    "pincode": "507211",
+    "phone_number": "+91 99668 81727",
+    "website": "https://www.instagram.com/haseenasboutique?igsh=MXAzdTE3ZHp5ZWdsYw==",
+    "rating": 4.9,
+    "reviews_count": 105,
+    "address": "Shop no. 183, Sai Nilayam, opposite to Sai Techno School, Durganagar Colony, Kistareddypet, Hyderabad, Telangana 502319",
+    "area": "Durganagar Colony",
+    "latitude": 17.5447666,
+    "longitude": 78.29305219999999,
+    "place_id": "ChIJVUAqjgLzyzsRC0j3SbKMYzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUAqjgLzyzsRC0j3SbKMYzU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:41"
+  },
+  {
+    "business_name": "Kasam Brothers",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Bridal shop, Children's clothing store, Dress store, Shopping mall",
+    "pincode": "507211",
+    "phone_number": "+91 98482 87933",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 1395,
+    "address": "Hyderabad - Warangal Hwy, Kothur Jenda, Gandhi Nagar, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "area": "Kothur Jenda, Gandhi Nagar, Kakaji Nagar Colony",
+    "latitude": 18.007061,
+    "longitude": 79.5693709,
+    "place_id": "ChIJZVnLcoNFMzoRTKocjRDKXRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVnLcoNFMzoRTKocjRDKXRY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:42"
+  }
+]

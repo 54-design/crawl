@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pabhakar Fashion Designer",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "507203",
+    "phone_number": "+91 87900 94083",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-20, Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.9221975,
+    "longitude": 80.3632927,
+    "place_id": "ChIJSQVPUT2xNToR8TIn4QEPjrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQVPUT2xNToR8TIn4QEPjrQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:36"
+  },
+  {
+    "business_name": "Osm Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior architect office, Interior Decorator",
+    "pincode": "507203",
+    "phone_number": "+91 95367 00999",
+    "website": "http://www.osminteriors.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st Floor, Atisha Residency, M No. 733, Green Hills Rd, KPHB Phase 15, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "KPHB Phase 15, Kukatpally",
+    "latitude": 17.4680137,
+    "longitude": 78.39562389999999,
+    "place_id": "ChIJQQfVWCORyzsRYbUXa0LQ0-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQfVWCORyzsRYbUXa0LQ0-Y",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:37"
+  }
+]

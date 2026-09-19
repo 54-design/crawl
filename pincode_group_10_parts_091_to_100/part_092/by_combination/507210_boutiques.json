@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer Dresses",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507210",
+    "phone_number": "+91 81424 69129",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6-68/2, Garla, Telangana 507210",
+    "area": "507210",
+    "latitude": 17.487852999999998,
+    "longitude": 80.1423286,
+    "place_id": "ChIJLRidUadhNDoRVhcxX8hC7Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRidUadhNDoRVhcxX8hC7Jo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:29:00"
+  },
+  {
+    "business_name": "KR Embriodery 2nd nain road Dornakal",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Fashion designer",
+    "pincode": "507210",
+    "phone_number": "+91 80086 58134",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Second Main Rd, belly servaiah complex, Dornakal, Telangana 506381",
+    "area": "belly servaiah complex",
+    "latitude": 17.4439442,
+    "longitude": 80.1503163,
+    "place_id": "ChIJwTwafLZhNDoRbMqezkn9-mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTwafLZhNDoRbMqezkn9-mw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:29:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunduru enterprises",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "507306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Madikonda, Kazipet, Telangana 506003",
+    "area": "Madikonda",
+    "latitude": 17.967799799999998,
+    "longitude": 79.49216729999999,
+    "place_id": "ChIJEX_eD2xPMzoRe5SEQ2D5dEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEX_eD2xPMzoRe5SEQ2D5dEE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:22"
+  },
+  {
+    "business_name": "S S Iron Cement Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "507306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No 19, 9-443, Khammam Bypass Rd, near Nagamayya Arch, Shambunipet, Warangal, Telangana 506005",
+    "area": "Shambunipet",
+    "latitude": 17.9522245,
+    "longitude": 79.5997386,
+    "place_id": "ChIJz5KmB9RaMzoRLyePxAQFta8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5KmB9RaMzoRLyePxAQFta8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Lifestyle",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507170",
+    "phone_number": "N/A",
+    "website": "https://www.familylifestyle.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kasba Bazar, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2466149,
+    "longitude": 80.1407804,
+    "place_id": "ChIJE6l9n_9ZNDoRx5dQ1yX3I_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6l9n_9ZNDoRx5dQ1yX3I_Q",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:26"
+  },
+  {
+    "business_name": "Santoshi fancy dresses",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store",
+    "pincode": "507170",
+    "phone_number": "+91 92469 01150",
+    "website": "https://g.co/kgs/qNYDyAx",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "church compound, 7-2-14, near Gandhi Park, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2415594,
+    "longitude": 80.1420752,
+    "place_id": "ChIJC4wc1B1ZNDoRQJoXNVSddCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4wc1B1ZNDoRQJoXNVSddCI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:29"
+  }
+]

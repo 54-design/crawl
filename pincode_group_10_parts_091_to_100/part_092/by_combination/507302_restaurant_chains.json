@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chilly's Multi Cuisine Family Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "507302",
+    "phone_number": "+91 73864 90908",
+    "website": "http://www.geteazy.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shivaji Chowk,Bhainsa Road, Nirmal - Mancherial Rd, Eidgoam, Nirmal, Telangana 504106",
+    "area": "Eidgoam",
+    "latitude": 19.087238499999998,
+    "longitude": 78.3455403,
+    "place_id": "ChIJA2pw82SMzTsRx8Blkjc9BMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2pw82SMzTsRx8Blkjc9BMw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:58"
+  },
+  {
+    "business_name": "KRITUNGA - THE PALEGAR'S CUSINE",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant, Family restaurant",
+    "pincode": "507302",
+    "phone_number": "+91 94929 94321",
+    "website": "https://www.geteazy.in/Kritungarestaurant.html",
+    "rating": 4,
+    "reviews_count": 1040,
+    "address": "SRI BALAJI TOWERS, above RELIANCE SMART NEAR CHAIN GATE, Nirmal, Telangana 504106",
+    "area": "Indira Nagar",
+    "latitude": 19.0918457,
+    "longitude": 78.3446809,
+    "place_id": "ChIJbcqv2l6NzTsRlrfuaxRI5eA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcqv2l6NzTsRlrfuaxRI5eA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:34:00"
+  }
+]

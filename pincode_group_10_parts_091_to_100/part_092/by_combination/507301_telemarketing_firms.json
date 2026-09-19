@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Products",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "507301",
+    "phone_number": "+91 97041 28889",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7-11, Aswaraopeta, Telangana 507301",
+    "area": "Aswaraopeta",
+    "latitude": 17.241172799999998,
+    "longitude": 81.1288256,
+    "place_id": "ChIJlZNnbwONNjoRAAAA0GdgjFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZNnbwONNjoRAAAA0GdgjFo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:39"
+  },
+  {
+    "business_name": "Aasrithaa Marketing Services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Agricultural service, Business management consultant, Online Share Trading Center, Tour operator, Travel agency",
+    "pincode": "507301",
+    "phone_number": "+91 98495 31277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Buttayagudem - Kongalavarigudem Rd, opp. Padma Theatre, Jangareddygudem, Lakshmudugudem, Andhra Pradesh 534448",
+    "area": "507301",
+    "latitude": 17.1910281,
+    "longitude": 81.32192359999999,
+    "place_id": "ChIJ__tSUkP3NjoRaMWnZBSwkZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__tSUkP3NjoRaMWnZBSwkZ4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:39"
+  }
+]

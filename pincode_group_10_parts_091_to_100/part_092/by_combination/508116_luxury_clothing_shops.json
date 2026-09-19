@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United vogue",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "508116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "beside BSNL OFFICE, Bhuvanagiri, Telangana 508116",
+    "area": "508116",
+    "latitude": 17.5212172,
+    "longitude": 78.89401649999999,
+    "place_id": "ChIJOSBYSABvyzsRNZVISwDke-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSBYSABvyzsRNZVISwDke-M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:03:45"
+  },
+  {
+    "business_name": "Smiley Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "508116",
+    "phone_number": "+91 93472 91755",
+    "website": "https://www.instagram.com/smileyboutique_1/profilecard/?igsh=MngzbHJteGI2ZnBv",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "NTPC 'X' Road, Annojiguda, ghatkesar, Secunderabad, Telangana 500088",
+    "area": "Annojiguda",
+    "latitude": 17.435924,
+    "longitude": 78.6624676,
+    "place_id": "ChIJA7h5WXd1yzsRmGH91p2AyF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7h5WXd1yzsRmGH91p2AyF0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:03:46"
+  }
+]

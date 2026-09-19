@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandamama towers",
+    "search_category": "Commercial Complex",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "508002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "376G+W4M, Srinivas Nagar Colony, Nalgonda, Telangana 508001",
+    "area": "Srinivas Nagar Colony",
+    "latitude": 17.0623377,
+    "longitude": 79.275309,
+    "place_id": "ChIJx94bq38pyzsRX246mrq4xO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx94bq38pyzsRX246mrq4xO8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:49:27"
+  },
+  {
+    "business_name": "Geetanjali Apartments",
+    "search_category": "Commercial Complex",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "508002",
+    "phone_number": "+91 98480 45017",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 46,
+    "address": "376C+9F8, VT Rd, Ramgiri, Nalgonda, Telangana 508001",
+    "area": "Ramgiri",
+    "latitude": 17.0609242,
+    "longitude": 79.2712099,
+    "place_id": "ChIJfx1STXIpyzsRNa46amsddjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfx1STXIpyzsRNa46amsddjM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:49:27"
+  }
+]

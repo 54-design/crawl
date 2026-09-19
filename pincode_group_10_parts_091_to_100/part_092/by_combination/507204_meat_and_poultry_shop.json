@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "507204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "35PQ+C6, Mathikepally, Telangana 507208",
+    "area": "507204",
+    "latitude": 17.0860588,
+    "longitude": 80.1880486,
+    "place_id": "ChIJDx1ewctTNDoR0DewjY6D9kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDx1ewctTNDoR0DewjY6D9kQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:23:32"
+  },
+  {
+    "business_name": "J.P Chickens",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "507204",
+    "phone_number": "+91 94416 66151",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "77R7+HMX, Phirangipuram, Andhra Pradesh 522529",
+    "area": "507204",
+    "latitude": 16.291487,
+    "longitude": 80.26424399999999,
+    "place_id": "ChIJgYLFSRd4SjoR6JhLPq9xCD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYLFSRd4SjoR6JhLPq9xCD8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:23:32"
+  }
+]

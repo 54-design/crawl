@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "507209",
+    "phone_number": "+91 90306 72729",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagarjuna junior College, Main Road, beside Vignan high school, Tiruvuru, Andhra Pradesh 521235",
+    "area": "507209",
+    "latitude": 17.110754,
+    "longitude": 80.607871,
+    "place_id": "ChIJ7aRwN68zNDoRAK-7G1tJ6M8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7aRwN68zNDoRAK-7G1tJ6M8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:27:14"
+  },
+  {
+    "business_name": "Jagan Footwear (Gurram)",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler",
+    "pincode": "507209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganesh Center, 9/274, Main Road, beside Appollo Pharmacy, near Jio Store, Tiruvuru, Andhra Pradesh 521235",
+    "area": "507209",
+    "latitude": 17.1151279,
+    "longitude": 80.6088779,
+    "place_id": "ChIJheCeUQAzNDoRrX1m_2f4UhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJheCeUQAzNDoRrX1m_2f4UhE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:27:14"
+  }
+]

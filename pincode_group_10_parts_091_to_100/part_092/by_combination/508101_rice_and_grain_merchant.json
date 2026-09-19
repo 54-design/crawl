@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nazeer Kirana Shop",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "508101",
+    "phone_number": "+91 94410 25466",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "J863+HG5, Hill Colony, Nagarjuna Sagar, Nandikonda, Telangana 508202",
+    "area": "Hill Colony",
+    "latitude": 16.6113769,
+    "longitude": 79.3038644,
+    "place_id": "ChIJ7w04gsK1yjsR1pelbm8wC54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7w04gsK1yjsR1pelbm8wC54",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:15"
+  },
+  {
+    "business_name": "Gundlagudem, Telangana 508101",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "508101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gundlagudem, Telangana",
+    "area": "508101",
+    "latitude": 17.659885,
+    "longitude": 79.0758037,
+    "place_id": "ChIJfemK65heyzsRNuAeiK8-ZVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfemK65heyzsRNuAeiK8-ZVA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:16"
+  }
+]

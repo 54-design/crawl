@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sujatha cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "507164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khammam penuballi mudalam KARIGUDA, Telangana 507302",
+    "area": "507164",
+    "latitude": 17.2072951,
+    "longitude": 80.66007429999999,
+    "place_id": "ChIJDa6_Kf4vNDoRHidYgtNVMYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa6_Kf4vNDoRHidYgtNVMYs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:24"
+  },
+  {
+    "business_name": "YoDrives car rentals Kukatpally",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Bus ticket agency, Bus tour agency, Car rental agency, Chauffeur service, Carpooling location, Minibus taxi service, Taxi service, Van rental agency",
+    "pincode": "507164",
+    "phone_number": "+91 94296 90678",
+    "website": "http://www.yodrives.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Survey No. 121, K.R.B.Nagar Society, Plot No.72, H.No 2-22-114/5/1, Vijaya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vijaya Nagar Colony, Kukatpally",
+    "latitude": 17.4995305,
+    "longitude": 78.4091273,
+    "place_id": "ChIJd4ynpaORyzsR1lfzZbVP-ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4ynpaORyzsR1lfzZbVP-ZA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:25"
+  }
+]

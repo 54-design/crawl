@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Forest Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507301",
+    "phone_number": "+91 77994 33300",
+    "website": "https://www.laforestresort.com/",
+    "rating": 4.5,
+    "reviews_count": 873,
+    "address": "Gudpally Village Road, Gudupally, Telangana 501102",
+    "area": "507301",
+    "latitude": 17.278304,
+    "longitude": 77.9138511,
+    "place_id": "ChIJzVliZwBhyTsRaMPzYe9HJRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVliZwBhyTsRaMPzYe9HJRA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:05"
+  },
+  {
+    "business_name": "Country Hills Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "507301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 128,
+    "address": "GV4X+FJ8, Bhuvanagiri, Telangana 508116",
+    "area": "507301",
+    "latitude": 17.505136699999998,
+    "longitude": 78.9012893,
+    "place_id": "ChIJT6LOv31vyzsRpXdCpo1el3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6LOv31vyzsRpXdCpo1el3E",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:05"
+  }
+]

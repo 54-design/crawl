@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jockey Exclusive Store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Baby clothing store, Children's clothing store, Lingerie store, Clothing store, Sportswear store, Underwear store, Women's clothing store",
+    "pincode": "507183",
+    "phone_number": "+91 96664 59359",
+    "website": "https://stores.jockey.in/jockey-exclusive-store-ravindra-colony-nalgonda-31994/home",
+    "rating": 4.9,
+    "reviews_count": 211,
+    "address": "Shop, Hyderabad Rd, Ravindra Nagar Colony, Vivekananda Nagar Colony, Nalgonda, Telangana 508001",
+    "area": "Ravindra Nagar Colony, Vivekananda Nagar Colony",
+    "latitude": 17.0680349,
+    "longitude": 79.2662312,
+    "place_id": "ChIJffTxyP0pyzsRUKITnZBzhbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffTxyP0pyzsRUKITnZBzhbg",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:56"
+  },
+  {
+    "business_name": "Vastra Shopping Mall",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507183",
+    "phone_number": "+91 87422 33870",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "201, 5-1-201, Wyra Rd, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.2513945,
+    "longitude": 80.1611401,
+    "place_id": "ChIJU9ptEcNZNDoRPB-sx9enw5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9ptEcNZNDoRPB-sx9enw5w",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:58"
+  }
+]

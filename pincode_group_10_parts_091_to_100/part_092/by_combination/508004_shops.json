@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh kiranam",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "508004",
+    "phone_number": "+91 97046 04878",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 17,
+    "address": "27J3+VCF, Venkataramana Colony, Gandhamvarigudam, Nilagiri Colony, Nalgonda, Telangana 508001",
+    "area": "Venkataramana Colony, Gandhamvarigudam, Nilagiri Colony",
+    "latitude": 17.032197099999998,
+    "longitude": 79.2535338,
+    "place_id": "ChIJ2Qou4LYpyzsRT5weGGpipjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Qou4LYpyzsRT5weGGpipjs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:09"
+  },
+  {
+    "business_name": "Jay Gurudev Electricals And Sanitary",
+    "search_category": "Shops",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Store",
+    "pincode": "508004",
+    "phone_number": "+91 84019 25244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "508001, DVK Rd, Kanaka Durga Colony, Nilagiri Colony, Nalgonda, Telangana 508001",
+    "area": "Kanaka Durga Colony, Nilagiri Colony",
+    "latitude": 17.0383911,
+    "longitude": 79.262537,
+    "place_id": "ChIJ9wcHcAApyzsRU8iGwAljuqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wcHcAApyzsRU8iGwAljuqY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Akshara Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Surgeon",
+    "pincode": "508004",
+    "phone_number": "+91 93476 74950",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite suraksha hospital, New Prakasham Bazar, Bottu Guda, Nalgonda, Telangana 508001",
+    "area": "New Prakasham Bazar, Bottu Guda",
+    "latitude": 17.0541111,
+    "longitude": 79.26844849999999,
+    "place_id": "ChIJcXPRz3kpyzsRp0tVshfzrbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXPRz3kpyzsRp0tVshfzrbM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:49:53"
+  },
+  {
+    "business_name": "Surya hospital, nalgonda",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "508004",
+    "phone_number": "+91 99083 77733",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "27R7+4RV, GV Gudem Rd, Chaitanyapuri Colony, Nalgonda, Telangana 508001",
+    "area": "Chaitanyapuri Colony",
+    "latitude": 17.0403539,
+    "longitude": 79.264533,
+    "place_id": "ChIJYyGyiH4pyzsRlBIKUYUPio0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyGyiH4pyzsRlBIKUYUPio0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:49:53"
+  }
+]

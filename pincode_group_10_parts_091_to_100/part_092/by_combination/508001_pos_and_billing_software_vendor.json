@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Federal Bank",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Business banking service, Car finance and loan company, Financial advisor, Financial institution, Investment service, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "508001",
+    "phone_number": "+91 1800 425 1199",
+    "website": "https://www.federal.bank.in/?utm_source=branch_locator&utm_medium=brand_website",
+    "rating": 4.8,
+    "reviews_count": 55,
+    "address": "No 1491, Block 2 Ward, No 6, Door No 6/2/958, Sy, Old Venkateshwara Colony, Nalgonda, Telangana 508001",
+    "area": "Old Venkateshwara Colony",
+    "latitude": 17.070947099999998,
+    "longitude": 79.2629393,
+    "place_id": "ChIJP30n42gpyzsRmq9bN0JVxA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP30n42gpyzsRmq9bN0JVxA0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:47:10"
+  },
+  {
+    "business_name": "POS Software System",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "508001",
+    "phone_number": "+91 93427 29630",
+    "website": "http://chennaipos.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Maraimalai Nagar, Chennai, Tamil Nadu 603209",
+    "area": "508001",
+    "latitude": 12.7871346,
+    "longitude": 80.0217066,
+    "place_id": "ChIJIW4hoyD5UjoRt6D60NxN2VU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIW4hoyD5UjoRt6D60NxN2VU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:47:12"
+  }
+]

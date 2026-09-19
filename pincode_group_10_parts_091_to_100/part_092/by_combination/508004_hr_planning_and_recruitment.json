@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spring HR Services LLP",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "508004",
+    "phone_number": "+91 88501 70453",
+    "website": "https://springhr.com/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "S.S, Aurus Chambers, A-401, Amruthwar Marg, Lower Parel West, Worli, Mumbai, Maharashtra 400013",
+    "area": "Lower Parel West, Worli",
+    "latitude": 19.004357499999998,
+    "longitude": 72.8228196,
+    "place_id": "ChIJfwuIZsi0KYkRdJLQPxjNVYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwuIZsi0KYkRdJLQPxjNVYA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:50:50"
+  },
+  {
+    "business_name": "JHR INDIA STAFFING SERVICES PVT LTD",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "508004",
+    "phone_number": "+91 82405 12768",
+    "website": "http://www.jhrindia.com/",
+    "rating": 4.9,
+    "reviews_count": 46,
+    "address": "3/81, Raja Subodh Chandra Mallick Rd, Ramkrishna Upanibesh, Baghajatin Colony, Kolkata, West Bengal 700032",
+    "area": "Ramkrishna Upanibesh, Baghajatin Colony",
+    "latitude": 22.486376999999997,
+    "longitude": 88.374741,
+    "place_id": "ChIJAY4Sk9lxAjoRyE9tTwLPIko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAY4Sk9lxAjoRyE9tTwLPIko",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:50:50"
+  }
+]

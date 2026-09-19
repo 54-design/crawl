@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ultimate vision",
+    "search_category": "Tuition Center",
+    "primary_category": "Private Tutor",
+    "all_categories": "Private Tutor",
+    "pincode": "508111",
+    "phone_number": "N/A",
+    "website": "https://pandirirenuka.blogspot.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arruru, Telangana 508112",
+    "area": "508111",
+    "latitude": 17.3918668,
+    "longitude": 79.09003009999999,
+    "place_id": "ChIJyWZWsCRByzsRAvA7eSBOKJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWZWsCRByzsRAvA7eSBOKJI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:54"
+  },
+  {
+    "business_name": "Sri Vani Institute",
+    "search_category": "Tuition Center",
+    "primary_category": "Tutoring service",
+    "all_categories": "Tutoring service",
+    "pincode": "508111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Maramma colony, Voligonda, Telangana 508112",
+    "area": "Maramma colony",
+    "latitude": 17.375229,
+    "longitude": 79.0220873,
+    "place_id": "ChIJddTUPYVByzsRhDLCIAnE4IQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddTUPYVByzsRhDLCIAnE4IQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:55"
+  }
+]

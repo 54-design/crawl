@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Western Union",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service",
+    "pincode": "507316",
+    "phone_number": "+91 87612 87195",
+    "website": "https://www.westernunion.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D No 1, 281madhira Rd, near Venkata Sai Ram Trading Company, Khammam, Channapattana, Telangana 562160",
+    "area": "507316",
+    "latitude": 12.65751,
+    "longitude": 77.203874,
+    "place_id": "ChIJLyVcdGtTrjsR4KOc83cBh_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLyVcdGtTrjsR4KOc83cBh_U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:37"
+  },
+  {
+    "business_name": "Worthing FX-Bureau De Change -Currency Exchange",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, ATM, Check cashing service, Money order service, Currency exchange service",
+    "pincode": "507316",
+    "phone_number": "01903 202702",
+    "website": "http://www.worthingfx.co.uk/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "35 Chapel Rd, Worthing BN11 1EG, United Kingdom",
+    "area": "507316",
+    "latitude": 50.8126258,
+    "longitude": -0.3706676,
+    "place_id": "ChIJAQC8t4WidUgRMJtwt94EQL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQC8t4WidUgRMJtwt94EQL4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:39"
+  }
+]

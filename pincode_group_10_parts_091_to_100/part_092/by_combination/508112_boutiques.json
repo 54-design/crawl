@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swapna Ladies Emporium",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "508112",
+    "phone_number": "+91 96667 94309",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "92FG+9MG, Venkateshwara Colony, Voligonda, Telangana 508112",
+    "area": "Venkateshwara Colony",
+    "latitude": 17.373436299999998,
+    "longitude": 79.0267145,
+    "place_id": "ChIJYcx7vuxByzsRLMoSzWglVp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcx7vuxByzsRLMoSzWglVp0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:50"
+  },
+  {
+    "business_name": "Sri RaghuRama Traders",
+    "search_category": "Boutiques",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "508112",
+    "phone_number": "+91 99488 71113",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1-10/6, near Bustand, Main Road, Voligonda, Telangana 508112",
+    "area": "508112",
+    "latitude": 17.378174599999998,
+    "longitude": 79.0187773,
+    "place_id": "ChIJr27fAGRByzsRKyolAzuncps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr27fAGRByzsRKyolAzuncps",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SV Internet, Xerox and Stationery",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "507165",
+    "phone_number": "+91 90103 15246",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bonakal - Khammam Rd, Pakabanda Bazar, Shanti Nagar, Mustafa Nagar, Khammam, Telangana 507001",
+    "area": "Pakabanda Bazar, Shanti Nagar, Mustafa Nagar",
+    "latitude": 17.2390091,
+    "longitude": 80.1446098,
+    "place_id": "ChIJxbCedQBZNDoRTRItWJ2HGXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbCedQBZNDoRTRItWJ2HGXA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:05:42"
+  },
+  {
+    "business_name": "Sri Sir Xerox Shop",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "507165",
+    "phone_number": "+91 95056 84664",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "10-36, Traku Road, Ramachandra Nagar Colony, Moti Nagar, Khammam, Telangana 507003",
+    "area": "Ramachandra Nagar Colony, Moti Nagar",
+    "latitude": 17.2507581,
+    "longitude": 80.1365345,
+    "place_id": "ChIJdWKmy0xZNDoRxoujKuGIc7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWKmy0xZNDoRxoujKuGIc7k",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:05:42"
+  }
+]

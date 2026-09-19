@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anu Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "507163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "no. 13, 7-8/10, Road, near maisamma Temple, Sri Ram Nagar, Khammam, Telangana 507003",
+    "area": "Sri Ram Nagar",
+    "latitude": 17.2467407,
+    "longitude": 80.1104557,
+    "place_id": "ChIJgy0btTZZNDoRrBxpy6SAyCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgy0btTZZNDoRrBxpy6SAyCE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:01:22"
+  },
+  {
+    "business_name": "VK Couture",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "507163",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Warangal x road, Sri Ram Nagar, Khammam, Telangana 507002",
+    "area": "Sri Ram Nagar",
+    "latitude": 17.246416699999997,
+    "longitude": 80.11133339999999,
+    "place_id": "ChIJqzexJwhZNDoRwrwh7ozI4tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzexJwhZNDoRwrwh7ozI4tk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:01:22"
+  }
+]

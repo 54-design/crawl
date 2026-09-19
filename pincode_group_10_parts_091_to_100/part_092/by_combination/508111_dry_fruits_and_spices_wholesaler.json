@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nut shop",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "508111",
+    "phone_number": "+91 63003 63863",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 60,
+    "address": "Phase 4, Panchayatiraj Teachers Colony, Hastinapuram, Hyderabad, Telangana 500079",
+    "area": "Phase 4, Panchayatiraj Teachers Colony, Hastinapuram",
+    "latitude": 17.3235982,
+    "longitude": 78.5555814,
+    "place_id": "ChIJDQdSNz2jyzsRI2i53K1yAHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQdSNz2jyzsRI2i53K1yAHk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:54:45"
+  },
+  {
+    "business_name": "Sreeja Dry Fruits & Spices",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "508111",
+    "phone_number": "+91 97057 91709",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 258,
+    "address": "Plot.No.990, Shop, No.2, Pragathi Nagar Rd, Pragathi Nagar, Kukatpally, Hyderabad, Telangana 500090",
+    "area": "Pragathi Nagar, Kukatpally",
+    "latitude": 17.5194935,
+    "longitude": 78.3960534,
+    "place_id": "ChIJ_0Wt0RyOyzsRR4ZOdGwQFdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0Wt0RyOyzsRR4ZOdGwQFdY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:54:47"
+  }
+]

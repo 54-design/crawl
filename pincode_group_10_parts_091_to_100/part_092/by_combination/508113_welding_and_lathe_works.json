@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gandhi Nagar",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "508113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "374G+C5M, Rahamath Nagar, Ramgiri, Nalgonda, Telangana 508001",
+    "area": "Rahamath Nagar, Ramgiri",
+    "latitude": 17.056096999999998,
+    "longitude": 79.2754178,
+    "place_id": "ChIJxbS8JgApyzsRn15vob4F4EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbS8JgApyzsRn15vob4F4EQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:59:40"
+  },
+  {
+    "business_name": "Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "508113",
+    "phone_number": "0342 0088605",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "RPP8+W4C, Chak No.60 SB, Pakistan",
+    "area": "508113",
+    "latitude": 31.8373653,
+    "longitude": 72.7153574,
+    "place_id": "ChIJUSESKO8rIjkRH8bnayRFWGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSESKO8rIjkRH8bnayRFWGU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:59:42"
+  }
+]

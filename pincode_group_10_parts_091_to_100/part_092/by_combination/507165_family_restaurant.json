@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amma family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "507165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "opp. Mary immaculate school, Wyra, Telangana 507165",
+    "area": "507165",
+    "latitude": 17.1999413,
+    "longitude": 80.34546569999999,
+    "place_id": "ChIJFRP3FqdPNDoRsmPPYGqi-QQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRP3FqdPNDoRsmPPYGqi-QQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:04:42"
+  },
+  {
+    "business_name": "Mahalaxmi family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "507165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Ring Road, Wyra, Telangana 507165",
+    "area": "507165",
+    "latitude": 17.1930878,
+    "longitude": 80.36194689999999,
+    "place_id": "ChIJlRwADDhPNDoRTM-IlH0wZ-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRwADDhPNDoRTM-IlH0wZ-o",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:04:43"
+  }
+]

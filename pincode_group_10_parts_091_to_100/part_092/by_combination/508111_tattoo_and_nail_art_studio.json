@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANIQ",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Tattoo artist",
+    "pincode": "508111",
+    "phone_number": "+91 96668 33811",
+    "website": "https://aniqsalon-bhagyalatha.com/",
+    "rating": 4.8,
+    "reviews_count": 434,
+    "address": "Rama devi arcade, Shanti nagar X road, Bhagyalatha Colony, Hayathnagar, Hyderabad, Telangana 501505",
+    "area": "Bhagyalatha Colony, Hayathnagar",
+    "latitude": 17.3278362,
+    "longitude": 78.5876136,
+    "place_id": "ChIJARgAnI6hyzsR7pce2sZQcm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARgAnI6hyzsR7pce2sZQcm8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:39"
+  },
+  {
+    "business_name": "Bommas Tattoos",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "508111",
+    "phone_number": "+91 70322 28153",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Vinayaka chorastha, Ambetkar Statu back side, Medikuntapally, Bhuvanagiri, Telangana 508116",
+    "area": "Medikuntapally",
+    "latitude": 17.5174001,
+    "longitude": 78.8877586,
+    "place_id": "ChIJOXxsvF5vyzsRyq12bSLHXjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXxsvF5vyzsRyq12bSLHXjs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:39"
+  }
+]

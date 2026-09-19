@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cholamandalam Investment and Finance Company Limited",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Car finance and loan company, Finance broker, Financial advisor, Financial institution, Mortgage lender",
+    "pincode": "508101",
+    "phone_number": "+91 80 4446 5274",
+    "website": "https://www.cholamandalam.com/branch/sai-nagar",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "No. 6-2-8/21/D, Hyderabad Rd, above Yamaha Showroom, Sai Nagar, Jangaon, Telangana 506167",
+    "area": "Sai Nagar",
+    "latitude": 17.7133252,
+    "longitude": 79.1555649,
+    "place_id": "ChIJZwN5eGlZyzsRLot_UvC5Pc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwN5eGlZyzsRLot_UvC5Pc0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:48"
+  },
+  {
+    "business_name": "Eicher Truck Showroom",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "508101",
+    "phone_number": "+91 86868 92915",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/c, Plot no 15-14, IDA, Katedhan, Hyderabad, Telangana 500077",
+    "area": "IDA",
+    "latitude": 17.3130609,
+    "longitude": 78.4374519,
+    "place_id": "ChIJg11Jhki9yzsRcSlVAL2TQxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg11Jhki9yzsRcSlVAL2TQxk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:49"
+  }
+]

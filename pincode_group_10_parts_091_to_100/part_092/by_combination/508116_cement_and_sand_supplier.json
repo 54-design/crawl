@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMB Bricks Manufacturer & Suppliers",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Brick Manufacturer",
+    "all_categories": "Brick Manufacturer",
+    "pincode": "508116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Namath Pally, Bhuvanagiri, Nyamutapalli, Telangana 508285",
+    "area": "Namath Pally",
+    "latitude": 17.4577873,
+    "longitude": 78.9392999,
+    "place_id": "ChIJq5_AWjhpyzsR06Ae4iv_MLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5_AWjhpyzsR06Ae4iv_MLA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:04:08"
+  },
+  {
+    "business_name": "Kaveri Precast Walls",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Ready mix concrete supplier",
+    "all_categories": "Ready mix concrete supplier",
+    "pincode": "508116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GV4W+7PR, Hyderabad - Warangal Hwy, Bhuvanagiri, Telangana 508116",
+    "area": "508116",
+    "latitude": 17.5057272,
+    "longitude": 78.8967553,
+    "place_id": "ChIJB3vEExtvyzsRpekN5NvHxyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3vEExtvyzsRpekN5NvHxyQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:04:11"
+  }
+]

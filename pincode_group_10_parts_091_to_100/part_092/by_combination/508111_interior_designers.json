@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Immaculate Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Building designer, Design agency, Interior architect office, Interior construction contractor, Interior Decorator",
+    "pincode": "508111",
+    "phone_number": "+91 79813 09825",
+    "website": "https://immaculateinteriors.in/",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "1st floor , 201, Sai Sampada Plaza, sri, near Metro Station Ngri, Vikrampuri, Habsiguda, Hyderabad, Telangana 500007",
+    "area": "Vijayanagar Colony, Vikrampuri, Habsiguda",
+    "latitude": 17.4156646,
+    "longitude": 78.5448613,
+    "place_id": "ChIJT5GZleqZyzsR7ij_ykcVF7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5GZleqZyzsR7ij_ykcVF7Q",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:34"
+  },
+  {
+    "business_name": "Om Interior Gallery",
+    "search_category": "Interior Designers",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "508111",
+    "phone_number": "N/A",
+    "website": "http://www.heritagedoors.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "13, Chintalkunta Rd, Vivekananda Colony, L. B. Nagar, Hyderabad, Telangana 500074",
+    "area": "Vivekananda Colony, L. B. Nagar",
+    "latitude": 17.3417893,
+    "longitude": 78.55172139999999,
+    "place_id": "ChIJrZCbVKaYyzsRXaT4B4MM7bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZCbVKaYyzsRXaT4B4MM7bQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:35"
+  }
+]

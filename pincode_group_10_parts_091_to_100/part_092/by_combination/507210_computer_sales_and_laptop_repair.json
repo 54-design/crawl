@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Logix infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer service, Computer Wholesaler, Printer ink refill store, Printer repair service",
+    "pincode": "507210",
+    "phone_number": "+91 98255 95179",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "1ST Floor, Heera Panna complex, S t road, nr. Vaibhav Fatak, Nehru Park Society, Talav Gate, Junagadh, Gujarat 362001",
+    "area": "Nehru Park Society, Talav Gate",
+    "latitude": 21.5218788,
+    "longitude": 70.4572507,
+    "place_id": "ChIJ8x5j7owBWDkRJ2p-skLPwWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8x5j7owBWDkRJ2p-skLPwWM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:29:51"
+  },
+  {
+    "business_name": "Computer and Laptop Sales and Service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer consultant, Computer desk store, Computer Rental Agency, Computer repair service, Computer software store, Computer store, Computer Wholesaler, Desktop publishing service, Industrial equipment supplier",
+    "pincode": "507210",
+    "phone_number": "+91 90522 25536",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 93,
+    "address": "S9A, Block1, RBR COMPLEX Balajinagar Takietown Road, Indira Nagar Colony, Miyapur, Telangana 500049",
+    "area": "Indira Nagar Colony",
+    "latitude": 17.497022299999998,
+    "longitude": 78.3596337,
+    "place_id": "ChIJvTYammySyzsRN-JxAaL47E4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTYammySyzsRN-JxAaL47E4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:29:52"
+  }
+]

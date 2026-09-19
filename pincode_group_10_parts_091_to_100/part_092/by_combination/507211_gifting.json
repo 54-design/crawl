@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramdev Gifts Toys & Sports",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "507211",
+    "phone_number": "+91 90240 93600",
+    "website": "https://api1.vyaparapp.in/store/ramdevgifttoys",
+    "rating": 4,
+    "reviews_count": 122,
+    "address": "Shop No 1, Plot No 288,, Vivekananda Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Vivekananda Nagar, Kukatpally",
+    "latitude": 17.4937154,
+    "longitude": 78.41044749999999,
+    "place_id": "ChIJOyYWg8CRyzsRu5YJPM0iKGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyYWg8CRyzsRu5YJPM0iKGo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:31:24"
+  },
+  {
+    "business_name": "Rajanna Personalized Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "507211",
+    "phone_number": "+91 98494 76974",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "FV98+J5J, Shiva Sai Nagar, Vemulawada, Telangana 505302",
+    "area": "Shiva Sai Nagar",
+    "latitude": 18.4726797,
+    "longitude": 78.8624446,
+    "place_id": "ChIJY_ieOtvjzDsRSL7MR_-0UrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_ieOtvjzDsRSL7MR_-0UrE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:31:24"
+  }
+]

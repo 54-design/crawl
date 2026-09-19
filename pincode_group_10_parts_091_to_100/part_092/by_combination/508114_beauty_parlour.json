@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soundarya Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "508114",
+    "phone_number": "+91 98485 46598",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Choutuppal, Yadadri, Bhuvanagiri, Telangana 508252",
+    "area": "Yadadri",
+    "latitude": 17.2513513,
+    "longitude": 78.89512859999999,
+    "place_id": "ChIJX0PohM0RyzsRa-rZt0MEcDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0PohM0RyzsRa-rZt0MEcDc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:47"
+  },
+  {
+    "business_name": "Lalitha Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Make-up artist",
+    "pincode": "508114",
+    "phone_number": "+91 95157 81894",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "40, Cheruku bavi road, Choutuppal, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.2443007,
+    "longitude": 78.9287521,
+    "place_id": "ChIJjfPsQxERyzsRQJct_qHDXr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfPsQxERyzsRQJct_qHDXr4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:47"
+  }
+]

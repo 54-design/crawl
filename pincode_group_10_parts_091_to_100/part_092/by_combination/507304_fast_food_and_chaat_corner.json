@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Street food corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507304",
+    "phone_number": "+91 70284 41332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guhaghar Bypass Road, opposite aapala super bazar, Pagmala, Chiplun, Maharashtra 415605",
+    "area": "Pagmala",
+    "latitude": 17.5199201,
+    "longitude": 73.5094141,
+    "place_id": "ChIJ6wJUXFkHwjsRxlgSQ9tD4AE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wJUXFkHwjsRxlgSQ9tD4AE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:24"
+  },
+  {
+    "business_name": "Chaat Baat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "507304",
+    "phone_number": "+91 90214 71845",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop no-02 and 04, Lake view plaza, near Shahnaz lawn, beside Satyavishnu Hospital Road, Chatrapathi Nagar, N 12, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Chatrapathi Nagar, N 12, Cidco",
+    "latitude": 19.9021819,
+    "longitude": 75.3442879,
+    "place_id": "ChIJhQvDssaj2zsRRV-sz7S2_qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQvDssaj2zsRRV-sz7S2_qg",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:24"
+  }
+]

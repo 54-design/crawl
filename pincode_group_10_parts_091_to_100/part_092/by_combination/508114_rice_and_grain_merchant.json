@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Chandra super market",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "508114",
+    "phone_number": "+91 63040 14021",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "Choutuppal - Valigonda Rd, near National Highway 65, opposite Sathya traders, Choutuppal, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.2495124,
+    "longitude": 78.9068944,
+    "place_id": "ChIJ8_tzGNgRyzsRMXcmH-pz5Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_tzGNgRyzsRMXcmH-pz5Go",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:00"
+  },
+  {
+    "business_name": "Shree Ganesh Raw Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QX86+HV, Tungidighi, Balchiar, West Bengal 733215",
+    "area": "508114",
+    "latitude": 25.7663676,
+    "longitude": 87.96229389999999,
+    "place_id": "ChIJEZMkP_Ax5TkRYVZW_fClQ3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZMkP_Ax5TkRYVZW_fClQ3o",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:00"
+  }
+]

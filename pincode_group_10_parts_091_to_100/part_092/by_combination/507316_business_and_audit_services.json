@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raparthi nagar",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "507316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "749X+4WP, Raparthi Nagar, Khammam, Telangana 507002",
+    "area": "Raparthi Nagar",
+    "latitude": 17.2678378,
+    "longitude": 80.1498281,
+    "place_id": "ChIJ7yGhNwBZNDoRn5OF3ISO7E8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yGhNwBZNDoRn5OF3ISO7E8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:45"
+  },
+  {
+    "business_name": "Rao&Rao enterprises",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507316",
+    "phone_number": "+91 98662 29328",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Vm banjar, mainroad, Penuballi, Telangana 507302",
+    "area": "507316",
+    "latitude": 17.212123599999998,
+    "longitude": 80.6632206,
+    "place_id": "ChIJ54cHB0wuNDoR0ZgFJswHim4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54cHB0wuNDoR0ZgFJswHim4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:45"
+  }
+]

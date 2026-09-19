@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Taraka Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "508113",
+    "phone_number": "+91 98488 24325",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 21,
+    "address": "4, Kothapet Rd, Haripuri Colony, Vasavi Colony, Kothapet, Hyderabad, Telangana 500102",
+    "area": "Haripuri Colony, Vasavi Colony, Kothapet",
+    "latitude": 17.3596577,
+    "longitude": 78.5457741,
+    "place_id": "ChIJXx4VpL-YyzsR1OaLzWYMtZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXx4VpL-YyzsR1OaLzWYMtZk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:58:31"
+  },
+  {
+    "business_name": "Malabar Gold & Diamonds - Miryalaguda",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "508113",
+    "phone_number": "+91 99637 85916",
+    "website": "https://www.malabargoldanddiamonds.com/stores/india/telangana/miryalaguda/miryalaguda-store",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Survey no 730 to 736 and 737, Block No 19, H.No: 19-812, Ground floor & First floor, Plot No 17, Miryalaguda, Telangana 508207",
+    "area": "Reddy Colony",
+    "latitude": 16.8648267,
+    "longitude": 79.5573917,
+    "place_id": "ChIJGTweZgAvNToRwtm6ofmUlDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTweZgAvNToRwtm6ofmUlDE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:58:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishore general store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507305",
+    "phone_number": "+91 96403 98567",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chinthakani, Velugumatla, Telangana 507318",
+    "area": "507305",
+    "latitude": 17.2346687,
+    "longitude": 80.2019284,
+    "place_id": "ChIJidkjYQBRNDoR5wtlkrklwT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidkjYQBRNDoR5wtlkrklwT4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:38:59"
+  },
+  {
+    "business_name": "ఉల్లిగడ్డల రాంబాబు",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "507305",
+    "phone_number": "+91 81849 63149",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Velugumatla, Khammam, Telangana 507002",
+    "area": "507305",
+    "latitude": 17.245953,
+    "longitude": 80.2026995,
+    "place_id": "ChIJrdWzdABRNDoR_LNcVk_7sZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdWzdABRNDoR_LNcVk_7sZs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:00"
+  }
+]

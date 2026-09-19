@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshitha Online Services",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "507168",
+    "phone_number": "+91 90004 38932",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambedkar Centre, 1-41, Thimmaraopet, Telangana 507168",
+    "area": "507168",
+    "latitude": 17.3746068,
+    "longitude": 80.3662641,
+    "place_id": "ChIJleEtD_NBNDoRtZ78YzMu3kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleEtD_NBNDoRtZ78YzMu3kU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:57"
+  },
+  {
+    "business_name": "Amangal Net Center",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "507168",
+    "phone_number": "+91 98850 82789",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 55,
+    "address": "HNO, 12-99, DAKAIAH HOTEL STREET, Amangal, Telangana 509321",
+    "area": "507168",
+    "latitude": 16.8500855,
+    "longitude": 78.53126929999999,
+    "place_id": "ChIJrw4hMg1RyjsRQCCDvyD6wmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrw4hMg1RyjsRQCCDvyD6wmQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:58"
+  }
+]

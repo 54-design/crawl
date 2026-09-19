@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "tempo service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency",
+    "pincode": "507160",
+    "phone_number": "+91 80973 44097",
+    "website": "http://www.tciexpress.in/",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "6XMJ+PM4, manorama nagar, Ghodbunder Rd, Manpada, Thane West, Thane, Maharashtra 400607",
+    "area": "Manpada, Thane West",
+    "latitude": 19.2342674,
+    "longitude": 72.9817042,
+    "place_id": "ChIJXfPomLa75zsRFYJo1ExhHP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfPomLa75zsRFYJo1ExhHP8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:58:01"
+  },
+  {
+    "business_name": "Tempo Gujarat",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "507160",
+    "phone_number": "+91 63513 68844",
+    "website": "http://www.tempogujrat.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near by shiv petrol pump, Nichimandal, Gujarat 363641",
+    "area": "507160",
+    "latitude": 22.8866408,
+    "longitude": 70.9995574,
+    "place_id": "ChIJBdAhBQCNWTkRJS9Cgosvu6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdAhBQCNWTkRJS9Cgosvu6o",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 05:58:03"
+  }
+]

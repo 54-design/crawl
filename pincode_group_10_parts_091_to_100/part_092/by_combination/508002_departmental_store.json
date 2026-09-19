@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva kiranam & General stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "508002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road No 3, Sri Nagar Colony, Amulya Colony, Nalgonda, Telangana 508001",
+    "area": "Sri Nagar Colony, Amulya Colony",
+    "latitude": 17.0653951,
+    "longitude": 79.2866748,
+    "place_id": "ChIJAy3UWAApyzsRTy9EQatgJeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAy3UWAApyzsRTy9EQatgJeY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:47:38"
+  },
+  {
+    "business_name": "Tip Top Big Bazar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Home goods store",
+    "pincode": "508002",
+    "phone_number": "+91 94899 24889",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Mainroad, Ramagiri Rd, Ramgiri, Nalgonda, Telangana 508001",
+    "area": "Ramgiri",
+    "latitude": 17.0602719,
+    "longitude": 79.2720212,
+    "place_id": "ChIJr3XfeGYpyzsRw39b03w5BNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3XfeGYpyzsRw39b03w5BNQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:47:41"
+  }
+]

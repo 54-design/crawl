@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Focus Business Partners Pty Ltd",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Bookkeeping service",
+    "pincode": "507182",
+    "phone_number": "N/A",
+    "website": "http://www.focusbp.com.au/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Level 1/423 Nepean Hwy, Chelsea VIC 3196, Australia",
+    "area": "507182",
+    "latitude": -38.0534208,
+    "longitude": 145.1161998,
+    "place_id": "ChIJ5504x0YL1moR-s3rY5xkzvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5504x0YL1moR-s3rY5xkzvA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:21"
+  },
+  {
+    "business_name": "KOTESHWAR & COMPANY, Chartered Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "507182",
+    "phone_number": "+91 99859 02244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21-84,Vivekananda Nagar Gaddiannaram, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Lalitha Residency, Sharada Nagar, Dilsukhnagar",
+    "latitude": 17.3610452,
+    "longitude": 78.53150389999999,
+    "place_id": "ChIJk-iQ1kCZyzsReCq4X94GsEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-iQ1kCZyzsReCq4X94GsEw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:23"
+  }
+]

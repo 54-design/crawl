@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavani mess A/C veg and NonVeg",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "507208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7, Dr, Wyra Rd, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.251559999999998,
+    "longitude": 80.1634665,
+    "place_id": "ChIJdxnWyaRZNDoRHJPHFF-qMY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxnWyaRZNDoRHJPHFF-qMY0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:25:20"
+  },
+  {
+    "business_name": "The London Shakes",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "507208",
+    "phone_number": "+91 874297355",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "7546+RWR, Khammam Bypass Rd, Bank Colony, Khammam, Telangana 507002",
+    "area": "Bank Colony",
+    "latitude": 17.2571217,
+    "longitude": 80.1622783,
+    "place_id": "ChIJ45_FfNpZNDoRcML-g8ARuaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45_FfNpZNDoRcML-g8ARuaQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:25:20"
+  }
+]

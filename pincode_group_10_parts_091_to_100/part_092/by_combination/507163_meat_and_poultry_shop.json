@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOLDEN MUTTON AND CHICKEN CORNER",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "507163",
+    "phone_number": "+91 88013 74545",
+    "website": "https://goldenmuttonchickencorner.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Golden Mutton Chicken Corner, 564, 1919, Syed Ali Chabutra, Shah Ali Banda, Hyderabad, Telangana 500065",
+    "area": "Syed Ali Chabutra, Aliabad North, Shah Ali Banda",
+    "latitude": 17.3477118,
+    "longitude": 78.47077999999999,
+    "place_id": "ChIJAQAANPeXyzsRdUgD4AwUok0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAANPeXyzsRdUgD4AwUok0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:01:03"
+  },
+  {
+    "business_name": "Eshwarjee Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat processor",
+    "all_categories": "Meat processor",
+    "pincode": "507163",
+    "phone_number": "+91 98661 77416",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite gramapanchayat, Raipole, Telangana 501508",
+    "area": "507163",
+    "latitude": 17.204474899999997,
+    "longitude": 78.7151823,
+    "place_id": "ChIJ36jdH-YJyzsRMcjH_mYdC-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36jdH-YJyzsRMcjH_mYdC-A",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:01:03"
+  }
+]

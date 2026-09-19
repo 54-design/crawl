@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tuniga Car Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "507306",
+    "phone_number": "+91 83338 29229",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramalyam Vedi, Yerraguntapalli, Andhra Pradesh 534460",
+    "area": "507306",
+    "latitude": 17.1413017,
+    "longitude": 81.0095053,
+    "place_id": "ChIJ9-SjpkKJNjoRXEtx5D2gS5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-SjpkKJNjoRXEtx5D2gS5w",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:16"
+  },
+  {
+    "business_name": "Sathupalli car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "507306",
+    "phone_number": "+91 95533 50455",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Main road, Sathupally, Telangana 507303",
+    "area": "507306",
+    "latitude": 17.20852,
+    "longitude": 80.838472,
+    "place_id": "ChIJY1u3eiODNjoR2_STLJ79rG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1u3eiODNjoR2_STLJ79rG0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:16"
+  }
+]

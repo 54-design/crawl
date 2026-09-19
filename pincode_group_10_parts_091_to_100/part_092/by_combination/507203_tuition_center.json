@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Tuition Point",
+    "search_category": "Tuition Center",
+    "primary_category": "Studying center",
+    "all_categories": "Studying center",
+    "pincode": "507203",
+    "phone_number": "+91 99484 11317",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sai Baba Temple Rd, Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.922381899999998,
+    "longitude": 80.3611504,
+    "place_id": "ChIJ3RHsYXaxNToRcCT-BIDnHoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RHsYXaxNToRcCT-BIDnHoU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:55"
+  },
+  {
+    "business_name": "Sri krishna Navodaya",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "507203",
+    "phone_number": "+91 81064 57338",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Azad road, Mulakalapalli Vari Veedhi, near girls high school, Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.921359199999998,
+    "longitude": 80.3602603,
+    "place_id": "ChIJfcEKsb-xNToR3mTlFEGd3dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcEKsb-xNToR3mTlFEGd3dQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shuddham Food's - Distributor Beed",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Food manufacturer, Spices Wholesaler, Wholesale grocer",
+    "pincode": "507183",
+    "phone_number": "+91 72765 36111",
+    "website": "https://shuddham-foods.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mauli Chowk, Peth, Beed, Maharashtra 431122",
+    "area": "Peth",
+    "latitude": 18.9949914,
+    "longitude": 75.76632599999999,
+    "place_id": "ChIJ0xH5ktsrxTsRVAKZ6gO0vZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xH5ktsrxTsRVAKZ6gO0vZI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:45"
+  },
+  {
+    "business_name": "KESARI AGENCY",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "507183",
+    "phone_number": "N/A",
+    "website": "https://kesari-agency.grexa.site/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "No.15, 8, Bunder Street, Parry's Corner, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Parry's Corner, George Town",
+    "latitude": 13.0909003,
+    "longitude": 80.2827156,
+    "place_id": "ChIJgQVA1yRvUjoR_U14_TrG-R8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQVA1yRvUjoR_U14_TrG-R8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:45"
+  }
+]

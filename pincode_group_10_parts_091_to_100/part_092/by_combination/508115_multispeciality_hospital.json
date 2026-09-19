@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARATH SUPER SPECIALITY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "508115",
+    "phone_number": "+91 91770 79786",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 17,
+    "address": "Omkar Theatre, STREET, near vinayak chowrasta, Medikuntapally, Bhuvanagiri, Telangana 508116",
+    "area": "Medikuntapally",
+    "latitude": 17.518285,
+    "longitude": 78.88788,
+    "place_id": "ChIJMQwjmVZvyzsRhnhVKJtkCKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQwjmVZvyzsRhnhVKJtkCKo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:02:03"
+  },
+  {
+    "business_name": "PRASHANTI MULTI SPECIALITY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "508115",
+    "phone_number": "+91 98494 77769",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "Prashanthi Multi-specialty Hospital, opposite Area Hospital, Bhuvanagiri, Telangana 508116",
+    "area": "508115",
+    "latitude": 17.5123317,
+    "longitude": 78.88209839999999,
+    "place_id": "ChIJibcwIItvyzsR4jIBUXUWSkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibcwIItvyzsR4jIBUXUWSkY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:02:03"
+  }
+]

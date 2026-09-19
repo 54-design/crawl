@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saampradaaya Bhojanam Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "508002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 100,
+    "address": "H No 19 1022, Block, No 19, Nagarjuna Sagar Rd, Miryalaguda, Telangana 508207",
+    "area": "508002",
+    "latitude": 16.8624476,
+    "longitude": 79.5554459,
+    "place_id": "ChIJyRHkPS0vNToRL2ZaEWI2RjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRHkPS0vNToRL2ZaEWI2RjY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:47:49"
+  },
+  {
+    "business_name": "Sri Ganesh Kiranam",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "508002",
+    "phone_number": "+91 92988 07440",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 28,
+    "address": "3727+RMV, Tulsi Nagar, Nalgonda, Telangana 508001",
+    "area": "Tulsi Nagar",
+    "latitude": 17.0521215,
+    "longitude": 79.26417239999999,
+    "place_id": "ChIJTd7leQopyzsRNFDNShHjp3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTd7leQopyzsRNFDNShHjp3I",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:47:51"
+  }
+]

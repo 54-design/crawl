@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair saloon shop, Abbugudem",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "507316",
+    "phone_number": "+91 98666 85211",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abbugudem, Telangana 507316",
+    "area": "507316",
+    "latitude": 17.3824008,
+    "longitude": 80.7110428,
+    "place_id": "ChIJ_7nRMQAjNDoRi1n7tlNKrAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7nRMQAjNDoRi1n7tlNKrAY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:10"
+  },
+  {
+    "business_name": "RANGA Hair Cut Salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "507316",
+    "phone_number": "+91 99635 23934",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9QFJ+MMX, Annapureddipalle, Telangana 507315",
+    "area": "507316",
+    "latitude": 17.374257099999998,
+    "longitude": 80.7816567,
+    "place_id": "ChIJo-tedwAhNDoRWqYJPfJrYlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-tedwAhNDoRWqYJPfJrYlw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:43:13"
+  }
+]

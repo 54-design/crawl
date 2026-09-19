@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB Social Consulting",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "508004",
+    "phone_number": "N/A",
+    "website": "https://www.absocial.org/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "AB Social Consulting, 508004, India",
+    "area": "508004",
+    "latitude": 30.627476599999998,
+    "longitude": -81.635065,
+    "place_id": "ChIJJ2Ul7EkXuwoRt3rsCOZMBqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2Ul7EkXuwoRt3rsCOZMBqk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:06"
+  },
+  {
+    "business_name": "AB Client Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business administration service",
+    "all_categories": "Business administration service, Service establishment",
+    "pincode": "508004",
+    "phone_number": "07778 031146",
+    "website": "https://abclientsolutions.co.uk/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "AB Client Solutions, 508004, India",
+    "area": "508004",
+    "latitude": 51.1172726,
+    "longitude": 0.5456238999999999,
+    "place_id": "ChIJzcEMB4VJ30cRZAGbflqqZnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcEMB4VJ30cRZAGbflqqZnc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:51:06"
+  }
+]

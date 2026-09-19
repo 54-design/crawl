@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Mechanical Works",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "507165",
+    "phone_number": "+91 98489 49294",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sai Ram Theater Road, beside DMart Khammam, Khammam, Telangana 507003",
+    "area": "Ramachandra Nagar Colony, Moti Nagar",
+    "latitude": 17.2512522,
+    "longitude": 80.1343273,
+    "place_id": "ChIJnX1xlJNZNDoRHS-ay2kfDfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnX1xlJNZNDoRHS-ay2kfDfA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:05:14"
+  },
+  {
+    "business_name": "Anwar Auto Mechanic Work",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "507165",
+    "phone_number": "+91 79978 24656",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaluvodu, 1-54, Jalagam Nagar, Khammam, Telangana 507003",
+    "area": "Jalagam Nagar",
+    "latitude": 17.248611399999998,
+    "longitude": 80.1297803,
+    "place_id": "ChIJ4dGVv7lZNDoRtVIm2NE1JVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dGVv7lZNDoRtVIm2NE1JVU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:05:14"
+  }
+]

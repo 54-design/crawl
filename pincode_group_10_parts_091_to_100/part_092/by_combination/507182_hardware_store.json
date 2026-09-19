@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padmavathi Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "507182",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C5V2+W6M, Dornakal, Telangana 506381",
+    "area": "507182",
+    "latitude": 17.4448281,
+    "longitude": 80.1505476,
+    "place_id": "ChIJC7oD-IxgNDoRqk_mPabrUUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7oD-IxgNDoRqk_mPabrUUE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:15:42"
+  },
+  {
+    "business_name": "JAI BHAVANI PLYWOOD,GLASS & HARDWARE",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "507182",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2, Bank St, Shanti Nagar, Dornakal, Telangana 506381",
+    "area": "Shanti Nagar",
+    "latitude": 17.4426032,
+    "longitude": 80.1493758,
+    "place_id": "ChIJW0Z_IABhNDoRGVljaPuNdxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0Z_IABhNDoRGVljaPuNdxE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:15:42"
+  }
+]

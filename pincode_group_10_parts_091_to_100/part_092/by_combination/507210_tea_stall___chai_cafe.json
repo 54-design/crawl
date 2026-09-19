@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr.Macha Irani chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "507210",
+    "phone_number": "+91 62814 95494",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rd, Bayyaram, Telangana 507211",
+    "area": "507210",
+    "latitude": 17.566591499999998,
+    "longitude": 80.1019161,
+    "place_id": "ChIJFRO-bOxjNDoR9qLr_mQL8yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRO-bOxjNDoR9qLr_mQL8yE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:45"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Tea house",
+    "pincode": "507210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Wazirpur, Wazirpur Village, Ashok Vihar, Delhi, 110052",
+    "area": "Wazirpur, Wazirpur Village, Ashok Vihar",
+    "latitude": 28.689942,
+    "longitude": 77.174396,
+    "place_id": "ChIJZYaKHRUCDTkRp9KWFIox2Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYaKHRUCDTkRp9KWFIox2Go",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:47"
+  }
+]

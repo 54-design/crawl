@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devagiri Residency",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "508101",
+    "phone_number": "+91 92469 67337",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 38,
+    "address": "Exactly, opposite to Hotel sannidhi, emirald, Yadagirigutta, Telangana 508115",
+    "area": "emirald",
+    "latitude": 17.5718338,
+    "longitude": 78.94396569999999,
+    "place_id": "ChIJuyERzp5nyzsRjtBdLFK4Dhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyERzp5nyzsRjtBdLFK4Dhw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:37"
+  },
+  {
+    "business_name": "SRI SEETHA RAM MOTORS",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "508101",
+    "phone_number": "+91 79894 65482",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 16,
+    "address": "Reddy Gudem, Main Road, beside Sri Kalyana Rama Chandra Swmy Vari Mandiram, near JMJ School, Alair, Bhuvanagiri, Telangana 508101",
+    "area": "508101",
+    "latitude": 17.634180399999998,
+    "longitude": 79.0282462,
+    "place_id": "ChIJbXXdDABdyzsRruKBZdlb4tE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXXdDABdyzsRruKBZdlb4tE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:39"
+  }
+]

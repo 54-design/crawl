@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree distributors",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "508105",
+    "phone_number": "+91 98814 15100",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "253, 54, opp. Pavitra Heights, New Nana Peth, Ganesh Peth, Pune, Maharashtra 411002",
+    "area": "New Nana Peth, Ganesh Peth",
+    "latitude": 18.5144058,
+    "longitude": 73.8664471,
+    "place_id": "ChIJbwbFvpTBwjsRjwGf0En2CYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwbFvpTBwjsRjwGf0En2CYY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:53:04"
+  },
+  {
+    "business_name": "Sri venkata manikanta coconut merchants",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "508105",
+    "phone_number": "+91 94402 41060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "KK Rd, near Sln ice cream parlor, Ponnur, Andhra Pradesh 522124",
+    "area": "508105",
+    "latitude": 16.0680049,
+    "longitude": 80.5478274,
+    "place_id": "ChIJbTw83EIRSjoRtbXOpFNNPzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTw83EIRSjoRtbXOpFNNPzo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:53:05"
+  }
+]

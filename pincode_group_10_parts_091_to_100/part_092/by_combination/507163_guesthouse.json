@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajkumar house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "507163",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@ridewithrajkumar?si=Pi3dvJHdWtu8UE_1",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "7428+QQF, 12, Teachers Colony Rd, Deadend, Nayudupet, Khammam, Telangana 507003",
+    "area": "Deadend, Nayudupet",
+    "latitude": 17.251484299999998,
+    "longitude": 80.11701649999999,
+    "place_id": "ChIJMyU-9KJZNDoRpfzsVFk5zrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyU-9KJZNDoRpfzsVFk5zrI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:03"
+  },
+  {
+    "business_name": "OYO Flagship Venus Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "507163",
+    "phone_number": "+91 124 620 1464",
+    "website": "https://www.oyorooms.com/168264/",
+    "rating": 2.8,
+    "reviews_count": 6,
+    "address": "House no. 9-1-74 Women's Police Station, Kaman Bazaar, Gandhi Chowk, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.248402,
+    "longitude": 80.1398421,
+    "place_id": "ChIJPy-pkbVZNDoRS10QWweimAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPy-pkbVZNDoRS10QWweimAI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:06"
+  }
+]

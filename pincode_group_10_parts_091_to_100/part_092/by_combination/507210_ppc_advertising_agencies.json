@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neon Rocks Agency",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment, Public relations firm, Website designer",
+    "pincode": "507210",
+    "phone_number": "07887 693475",
+    "website": "https://www.neonrocksagency.com/",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Neon Rocks Agency, 507210, India",
+    "area": "507210",
+    "latitude": 51.5286416,
+    "longitude": -0.1015987,
+    "place_id": "ChIJoaRgX52PdUgRCKzs-5swNRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaRgX52PdUgRCKzs-5swNRU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:11"
+  },
+  {
+    "business_name": "WeDiscover",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "507210",
+    "phone_number": "N/A",
+    "website": "https://www.we-discover.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "WeDiscover, 507210, India",
+    "area": "507210",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJhR2kEeSFdUgRbMX_X3SER6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhR2kEeSFdUgRbMX_X3SER6U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:11"
+  }
+]

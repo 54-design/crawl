@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rythumitra Traders",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Pharmacy",
+    "pincode": "507304",
+    "phone_number": "+91 80962 74374",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2CQ6+X8W, Konijerla, Andhra Pradesh 521401",
+    "area": "507304",
+    "latitude": 17.0399882,
+    "longitude": 80.4108181,
+    "place_id": "ChIJVXL_BCC1NToR7rrtwYMekRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXL_BCC1NToR7rrtwYMekRA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:35"
+  },
+  {
+    "business_name": "NR MEDICALS",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "507304",
+    "phone_number": "+91 94405 15788",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "beside manasa hotel, Ashok Nagar Colony, Bhadrachalam, Telangana 507111",
+    "area": "Ashok Nagar Colony",
+    "latitude": 17.6713733,
+    "longitude": 80.8926384,
+    "place_id": "ChIJp0Nb-smoNjoRH-Ta6nPO__M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0Nb-smoNjoRH-Ta6nPO__M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:35"
+  }
+]

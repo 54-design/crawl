@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic mini cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Chauffeur service, Tour agency, Tour operator, Transportation service",
+    "pincode": "507210",
+    "phone_number": "+91 80884 62007",
+    "website": "https://classic-mini-cabs.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.72, N.B.S.Complex, 12-3-25(N, plot No.9, Gunj Main Rd, Raichur, Karnataka 584102",
+    "area": "Rajendra Gunj",
+    "latitude": 16.2168223,
+    "longitude": 77.359158,
+    "place_id": "ChIJxaCQeHbXyTsR0MuJh8g08rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaCQeHbXyTsR0MuJh8g08rc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:29:16"
+  },
+  {
+    "business_name": "Tirumala Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Auto upholsterer, Taxi service",
+    "pincode": "507210",
+    "phone_number": "+91 96039 66966",
+    "website": "http://www.tirumalatravels.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "H, 4-41-C/131, Road No. 8, Papi Reddy Nagar, Papi Reddy Colony, Kamalaprasad Nagar, Hyderabad, Telangana 500037",
+    "area": "Papi Reddy Nagar, Papi Reddy Colony, Kamalaprasad Nagar",
+    "latitude": 17.496057,
+    "longitude": 78.43021159999999,
+    "place_id": "ChIJKZ4lycqRyzsRjV8aBFOkTrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZ4lycqRyzsRjV8aBFOkTrk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:29:16"
+  }
+]

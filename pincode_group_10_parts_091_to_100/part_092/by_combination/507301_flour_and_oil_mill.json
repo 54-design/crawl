@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oil & flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "507301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R & b, road, Peravali, Andhra Pradesh 534328",
+    "area": "507301",
+    "latitude": 16.748924799999998,
+    "longitude": 81.7442702,
+    "place_id": "ChIJQ9SfAh-5NzoR3HddHSBlMXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9SfAh-5NzoR3HddHSBlMXw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:32"
+  },
+  {
+    "business_name": "Saraswathi Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "507301",
+    "phone_number": "+91 92463 31345",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "beside Krishna Nagar Colony Road, Sadguru Nagar, Tirumala Colony, ARCH, L. B. Nagar, Chintalkunta, Hyderabad, Telangana 500074",
+    "area": "Sadguru Nagar, Tirumala Colony, ARCH, L. B. Nagar",
+    "latitude": 17.3415856,
+    "longitude": 78.5530552,
+    "place_id": "ChIJPQMntKeYyzsRHRQtIa3Hxi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQMntKeYyzsRHRQtIa3Hxi8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:33:33"
+  }
+]

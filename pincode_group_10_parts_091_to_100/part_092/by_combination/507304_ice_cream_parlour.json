@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IAN VIAN JOY Ice cream parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "507304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "29H7+R9X, Rompimalla, Telangana 507304",
+    "area": "507304",
+    "latitude": 17.029612699999998,
+    "longitude": 80.3634889,
+    "place_id": "ChIJc_l8HD2zNToR4jJforuee98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_l8HD2zNToR4jJforuee98",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:25"
+  },
+  {
+    "business_name": "GSRB ICE CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "507304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29H7+GF3, Nemali - Siripuram Rd, Rompimalla, Telangana 507304",
+    "area": "507304",
+    "latitude": 17.028676,
+    "longitude": 80.363159,
+    "place_id": "ChIJoa0pIgCzNToRs-06sXZsJyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoa0pIgCzNToRs-06sXZsJyA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasavi Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "508111",
+    "phone_number": "+91 97057 70555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "92GC+7QW, Main Road, Voligonda, Hyderabad, Telangana 508112",
+    "area": "508111",
+    "latitude": 17.3757451,
+    "longitude": 79.0219566,
+    "place_id": "ChIJc_C12AJAyzsRFBx7q1S74hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_C12AJAyzsRFBx7q1S74hM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:12"
+  },
+  {
+    "business_name": "sarojini eye care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "508111",
+    "phone_number": "+91 99122 02512",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road Near. Ambetker Statue, Thungathurthi, Telangana 508280",
+    "area": "508111",
+    "latitude": 17.4138114,
+    "longitude": 79.5840278,
+    "place_id": "ChIJq6qqamy4NDoReOOnB79oQAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqamy4NDoReOOnB79oQAs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:12"
+  }
+]

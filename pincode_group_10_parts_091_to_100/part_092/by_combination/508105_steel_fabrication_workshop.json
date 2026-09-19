@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GP Fabrication works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works",
+    "pincode": "508105",
+    "phone_number": "+91 80 4871 8185",
+    "website": "https://www.gpfabricationworks.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Alkapur, Puppalguda, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Puppalguda",
+    "latitude": 17.3949559,
+    "longitude": 78.3828198,
+    "place_id": "ChIJ2zVKKpWVyzsRq1ZmMHFVlFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zVKKpWVyzsRq1ZmMHFVlFY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:54:27"
+  },
+  {
+    "business_name": "Harshitha steel shop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel distributor",
+    "all_categories": "Steel distributor",
+    "pincode": "508105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HWPW+C9R, Shivaji Rd, Sivalayam Veedhi, Yadagirigutta, Telangana 508115",
+    "area": "Sivalayam Veedhi",
+    "latitude": 17.5861057,
+    "longitude": 78.94590509999999,
+    "place_id": "ChIJhWo3guFnyzsRU16ar84KBKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWo3guFnyzsRU16ar84KBKg",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:54:28"
+  }
+]

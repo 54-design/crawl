@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaveri engineering works",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "508004",
+    "phone_number": "+91 99661 61465",
+    "website": "http://kaveriengineeringworks.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "x road, Kanagal, Telangana 508255",
+    "area": "508004",
+    "latitude": 16.9429657,
+    "longitude": 79.21548779999999,
+    "place_id": "ChIJpbAGz2rXyjsRomSkyEU1BXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbAGz2rXyjsRomSkyEU1BXA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:50:55"
+  },
+  {
+    "business_name": "S K Aluminium Works",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminum window",
+    "all_categories": "Aluminum window, Aluminum frames supplier, Aluminum welder",
+    "pincode": "508004",
+    "phone_number": "+91 87904 52054",
+    "website": "https://skaluminiumworks.com/",
+    "rating": 5,
+    "reviews_count": 75,
+    "address": "Maansi Sweet Home, Warasiguda Rd, Indira Nagar, Padmarao Nagar, Hyderabad, Secunderabad, Telangana 500061",
+    "area": "Indira Nagar, Padmarao Nagar",
+    "latitude": 17.420008799999998,
+    "longitude": 78.5176255,
+    "place_id": "ChIJNwcEqPuZyzsRaBLS4DCOZIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwcEqPuZyzsRaBLS4DCOZIM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:50:56"
+  }
+]

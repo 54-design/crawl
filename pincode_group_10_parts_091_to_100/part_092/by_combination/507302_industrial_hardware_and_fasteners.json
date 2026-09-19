@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Continental Trading Co",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Industrial equipment supplier, Paint store, Tool store, Wholesaler",
+    "pincode": "507302",
+    "phone_number": "+91 40 6632 2037",
+    "website": "https://continentaltrad.com/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Ganji Complex, Hill St, Old Ghasmandi, Ranigunj, Secunderabad, Telangana 500003",
+    "area": "Old Ghasmandi, Ranigunj",
+    "latitude": 17.4333635,
+    "longitude": 78.4926437,
+    "place_id": "ChIJI8ur6BuayzsRPF6qS9r3IRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8ur6BuayzsRPF6qS9r3IRU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:35:16"
+  },
+  {
+    "business_name": "Industrial Bolt Center",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Importer",
+    "pincode": "507302",
+    "phone_number": "+91 90190 74325",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "108, 3rd Cross, RS Gardens, Vidyanagar, Bommasandra Indl Area, Bommasandra, Karnataka 560099",
+    "area": "RS Gardens, Vidyanagar, Bommasandra Indl Area",
+    "latitude": 12.822558599999999,
+    "longitude": 77.6865953,
+    "place_id": "ChIJ6eAEE0VsrjsRMwukHWPndGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eAEE0VsrjsRMwukHWPndGM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:35:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sips & Stories",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "63JQ+GPM, Chityala, Telangana 508114",
+    "area": "508114",
+    "latitude": 17.231326499999998,
+    "longitude": 79.0892867,
+    "place_id": "ChIJgdwdFgA9yzsRuY1AcNoYB8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdwdFgA9yzsRuY1AcNoYB8w",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:07"
+  },
+  {
+    "business_name": "TEA TIME chityala",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Tea store",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "https://teatimegroup.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main road, Chityala, Telangana 508114",
+    "area": "508114",
+    "latitude": 17.232941099999998,
+    "longitude": 79.12021779999999,
+    "place_id": "ChIJu3sz8AU7yzsRg73yjlS0ZdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3sz8AU7yzsRg73yjlS0ZdU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:09"
+  }
+]

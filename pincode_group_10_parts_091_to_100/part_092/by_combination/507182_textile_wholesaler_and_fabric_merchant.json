@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parvati Fabrics Ltd.",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing manufacturer, Wholesaler",
+    "pincode": "507182",
+    "phone_number": "+91 80 3762 6562",
+    "website": "http://parvatifabricsltd.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "F- Tower, Shree Kuberji Textile Park, Delhi Gate, Japan Market, Begampura, Surat, Gujarat 395003",
+    "area": "Japan Market, Begampura",
+    "latitude": 21.199897999999997,
+    "longitude": 72.83978909999999,
+    "place_id": "ChIJJ7LtQfFO4DsRZ2DdZ3fS_PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7LtQfFO4DsRZ2DdZ3fS_PA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:15:14"
+  },
+  {
+    "business_name": "The House of Textiles",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Fabric wholesaler",
+    "pincode": "507182",
+    "phone_number": "+91 86558 50804",
+    "website": "https://www.thehouseoftextiles.com/",
+    "rating": 4.6,
+    "reviews_count": 70,
+    "address": "A & B Wing, Ground floor Mafatlal Chamber, Mafatlal Mills Compound, NM Joshi Marg, near to Marathon Futurex, behind SBI Bank, Lower Parel, Mumbai, Maharashtra 400013",
+    "area": "BDD Chawl, Lower Parel",
+    "latitude": 18.9936398,
+    "longitude": 72.8306384,
+    "place_id": "ChIJQZTzv-vO5zsRyQvrzy5mK9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZTzv-vO5zsRyQvrzy5mK9w",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:15:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Venture",
+    "search_category": "Property Developers",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "66F9+3R, Velugumatla, Telangana 507318",
+    "area": "507318",
+    "latitude": 17.2226577,
+    "longitude": 80.2195019,
+    "place_id": "ChIJS5_cUJhRNDoRIDwzRzyKPTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5_cUJhRNDoRIDwzRzyKPTU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:45:33"
+  },
+  {
+    "business_name": "MANDANAPULAKE VIEW HOMES",
+    "search_category": "Property Developers",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "758P+C53, Ballepally, Telangana 507002",
+    "area": "507318",
+    "latitude": 17.2660129,
+    "longitude": 80.18542269999999,
+    "place_id": "ChIJ3YpHPJxZNDoRy4sHiCrB-sU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YpHPJxZNDoRy4sHiCrB-sU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:45:36"
+  }
+]

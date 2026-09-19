@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Celebrino Castle",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "507167",
+    "phone_number": "+91 86880 18893",
+    "website": "https://www.celebrinocastle.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, RR building, Ayyappa Society, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Ayyappa Society, VIP Hills, Jaihind Enclave, Madhapur",
+    "latitude": 17.4521131,
+    "longitude": 78.38802989999999,
+    "place_id": "ChIJ4zwoUgCRyzsRJaMEUJAuvBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zwoUgCRyzsRJaMEUJAuvBw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:09:06"
+  },
+  {
+    "business_name": "Vintash Events - Corporate Events, Wedding Planners & Event Organisers",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Wedding planner",
+    "pincode": "507167",
+    "phone_number": "+91 94478 18350",
+    "website": "http://vintashevents.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anand Raj, #30, Mutthu Nilayam, Deepa Nursing Home Main Road Behind Indian Oil Petrol Pump, Marathahalli, Bengaluru, Karnataka 560037",
+    "area": "HAL Central Township, Marathahalli Village, Marathahalli",
+    "latitude": 12.955215899999999,
+    "longitude": 77.6915616,
+    "place_id": "ChIJ6f5QYJkTrjsRk5ui3Hbi_8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6f5QYJkTrjsRk5ui3Hbi_8U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:09:07"
+  }
+]

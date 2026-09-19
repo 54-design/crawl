@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanalakshmi Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "508113",
+    "phone_number": "+91 95731 98375",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Opp: Police Station, Main Road Hyderabad Road, centre, Chityala, Telangana 508114",
+    "area": "508113",
+    "latitude": 17.230486799999998,
+    "longitude": 79.1272445,
+    "place_id": "ChIJoaIZDp47yzsRMBUPnQfk4Ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaIZDp47yzsRMBUPnQfk4Ts",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:58:44"
+  },
+  {
+    "business_name": "Sri Venkata Ramana Medical And General Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "508113",
+    "phone_number": "+91 99123 82937",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "653V+QJR, Beside: Busstand, High School Road, Varkatpally, Narketpally, Telangana 508254",
+    "area": "Varkatpally",
+    "latitude": 17.20448,
+    "longitude": 79.194013,
+    "place_id": "ChIJ5Ut0HKQ6yzsRIsOWTWRoeJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Ut0HKQ6yzsRIsOWTWRoeJI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:58:44"
+  }
+]

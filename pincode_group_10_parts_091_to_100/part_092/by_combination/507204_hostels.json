@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Boys Hostal",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "507204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "3697+RV2, Nagulavancha, Telangana 507208",
+    "area": "507204",
+    "latitude": 17.0695197,
+    "longitude": 80.21464,
+    "place_id": "ChIJSWWkQjlTNDoRmY40KXfmxZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWWkQjlTNDoRmY40KXfmxZw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:28"
+  },
+  {
+    "business_name": "sc boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "507204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "46M4+445, Khammam, Telangana 507208",
+    "area": "507204",
+    "latitude": 17.1327671,
+    "longitude": 80.2053723,
+    "place_id": "ChIJPUmfw-hTNDoRNcwmC9iNcD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUmfw-hTNDoRNcwmC9iNcD0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:31"
+  }
+]

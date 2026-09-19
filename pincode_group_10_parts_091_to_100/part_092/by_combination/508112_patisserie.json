@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri laxmi Bangalore bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "508112",
+    "phone_number": "+91 72075 05118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GV8P+765, Rythu Bazar Main, Bank Colony, Neredmet, Secunderabad, Bhuvanagiri, Telangana 508116",
+    "area": "Bank Colony, Neredmet",
+    "latitude": 17.515645,
+    "longitude": 78.88560679999999,
+    "place_id": "ChIJfUfzMwBvyzsROyoo9qC65tM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUfzMwBvyzsROyoo9qC65tM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:35"
+  },
+  {
+    "business_name": "Roopa Bengaluru Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "508112",
+    "phone_number": "+91 86887 10334",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1-99, Bhuvanagiri Town Main Rd, opp. Bus Stand, Medikuntapally, Bhuvanagiri, Telangana 508116",
+    "area": "Medikuntapally",
+    "latitude": 17.516785499999997,
+    "longitude": 78.8866601,
+    "place_id": "ChIJRQvCS0xvyzsRPoSfZ2cG3TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQvCS0xvyzsRPoSfZ2cG3TY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:37"
+  }
+]

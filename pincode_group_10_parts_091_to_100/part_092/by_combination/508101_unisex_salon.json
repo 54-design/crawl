@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkteshwara Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "508101",
+    "phone_number": "+91 81798 88657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3-35/2, Vanaparthy, Telangana 506303",
+    "area": "508101",
+    "latitude": 17.621551999999998,
+    "longitude": 79.2362426,
+    "place_id": "ChIJR2y75T1XyzsRWewe5rNkK8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2y75T1XyzsRWewe5rNkK8o",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:08"
+  },
+  {
+    "business_name": "Balaji Hairstyle",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "508101",
+    "phone_number": "+91 97017 47063",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Geetha Nagar, Jangaon, Telangana 506167",
+    "area": "Geetha Nagar",
+    "latitude": 17.7289076,
+    "longitude": 79.14850349999999,
+    "place_id": "ChIJYxRy59JZyzsRil_2F6w8eLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxRy59JZyzsRil_2F6w8eLA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:52:09"
+  }
+]

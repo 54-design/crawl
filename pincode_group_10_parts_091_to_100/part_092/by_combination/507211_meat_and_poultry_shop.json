@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Reddy Chicken Market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "507211",
+    "phone_number": "+91 95814 49075",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Road Number 3 KPHB Phase I, Rd Number 3, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally",
+    "latitude": 17.4915807,
+    "longitude": 78.39822459999999,
+    "place_id": "ChIJ6z3m3pKRyzsR8zF7Pi97iEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6z3m3pKRyzsR8zF7Pi97iEU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:22"
+  },
+  {
+    "business_name": "Ram Reddy Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "507211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "83, HMT Rd, Venkat Nagar, Bhagya Nagar Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Venkat Nagar, Bhagya Nagar Colony, Kukatpally",
+    "latitude": 17.495093699999998,
+    "longitude": 78.40310509999999,
+    "place_id": "ChIJqz1e3yORyzsRTwMAM3gGtfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz1e3yORyzsRTwMAM3gGtfk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:22"
+  }
+]

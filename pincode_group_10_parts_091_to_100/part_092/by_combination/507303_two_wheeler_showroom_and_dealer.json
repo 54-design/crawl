@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishnu Motors Consultancy",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop, Two Wheeler Dealer",
+    "pincode": "507303",
+    "phone_number": "+91 73864 83898",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Suresh cycle shop, road, Sathupally, Telangana 507303",
+    "area": "507303",
+    "latitude": 17.2103228,
+    "longitude": 80.8367138,
+    "place_id": "ChIJV6RVakOCNjoRs66XYiJd-80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6RVakOCNjoRs66XYiJd-80",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:36:04"
+  },
+  {
+    "business_name": "Sri Sai Pujitha Bike Bazar",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "507303",
+    "phone_number": "+91 89788 52554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Beside Kalpatharu Complex, Sathupally, Telangana 507303",
+    "area": "507303",
+    "latitude": 17.210527799999998,
+    "longitude": 80.83471109999999,
+    "place_id": "ChIJxYjbEoqDNjoRQNoNNBw5uQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYjbEoqDNjoRQNoNNBw5uQM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:36:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nexcampus Technologies Pvt Ltd",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Business development service, Software company, Software Training Institute",
+    "pincode": "508112",
+    "phone_number": "+91 92814 21375",
+    "website": "https://nexcampus.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-12-78, Pochammawada, Bhuvanagiri, Telangana 508116",
+    "area": "Pochammawada",
+    "latitude": 17.507769,
+    "longitude": 78.8802139,
+    "place_id": "ChIJpzi7WedvyzsRU-f5uE4wves",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzi7WedvyzsRU-f5uE4wves",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:57:36"
+  },
+  {
+    "business_name": "Vathsalya Institute of Science and Technology",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College, Technical school, University",
+    "pincode": "508112",
+    "phone_number": "+91 98663 17406",
+    "website": "http://vathsalya.ac.in/",
+    "rating": 3,
+    "reviews_count": 106,
+    "address": "Lumbini Enclave, P.Anantharam, Bhuvanagiri, Telangana 508116",
+    "area": "Lumbini Enclave",
+    "latitude": 17.502534999999998,
+    "longitude": 78.8426271,
+    "place_id": "ChIJgS_s4dZvyzsRJQjwprnAFNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgS_s4dZvyzsRJQjwprnAFNk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:57:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALMadad Cranes",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "507211",
+    "phone_number": "+91 70062 32397",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pantha Chowk, Srinagar, Jammu and Kashmir 191101",
+    "area": "Pantha Chowk",
+    "latitude": 34.0403101,
+    "longitude": 74.88797199999999,
+    "place_id": "ChIJwzJvpeiJ4TgRSS78gcNxX1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzJvpeiJ4TgRSS78gcNxX1M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:30:59"
+  },
+  {
+    "business_name": "AR Towing services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "507211",
+    "phone_number": "+91 98263 58960",
+    "website": "https://artowingserviceindore.com/index.php",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "101-102, Machnic Nagar, Badi Bhamori, Indore, Madhya Pradesh 452014",
+    "area": "Badi Bhamori",
+    "latitude": 22.693805599999997,
+    "longitude": 75.86612769999999,
+    "place_id": "ChIJBUz1ANT9YjkRPOIAVajbi2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUz1ANT9YjkRPOIAVajbi2M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:31:00"
+  }
+]

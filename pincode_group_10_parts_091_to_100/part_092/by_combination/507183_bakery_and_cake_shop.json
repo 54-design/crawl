@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 live BAKERS",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Chocolate shop",
+    "pincode": "507183",
+    "phone_number": "+91 99795 84446",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 581,
+    "address": "स्वामिनारायण पार्क पार्ट -1, karnavati mega mall, Karnavati Rd, opp. to 3g make palace, Near ccr cafe, Pranami Nagar, Mahadev Nagar Tekra, Ahmedabad, Gujarat 382418",
+    "area": "Pranami Nagar, Mahadev Nagar Tekra",
+    "latitude": 23.007120999999998,
+    "longitude": 72.65977819999999,
+    "place_id": "ChIJh739t7SHXjkRKi0kCDz1pu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh739t7SHXjkRKi0kCDz1pu0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:49"
+  },
+  {
+    "business_name": "Annie's Baking Delights",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "507183",
+    "phone_number": "+91 99208 32943",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 269,
+    "address": "Sector 19, Ulwe, Navi Mumbai, Wahal, Maharashtra 410206",
+    "area": "Sector 19, Ulwe",
+    "latitude": 18.9737905,
+    "longitude": 73.0281439,
+    "place_id": "ChIJ_ZsEP-3D5zsRRuKWmhvDS9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZsEP-3D5zsRRuKWmhvDS9I",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:16:49"
+  }
+]

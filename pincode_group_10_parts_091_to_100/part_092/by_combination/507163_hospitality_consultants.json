@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TallOak Hospitality Pvt. Ltd.",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Hotel",
+    "pincode": "507163",
+    "phone_number": "+91 97110 70213",
+    "website": "http://www.talloakhospitality.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1160, Ashiyana Colony, Sector K, Ashiyana, Lucknow, Uttar Pradesh 226012",
+    "area": "Ashiyana Colony, Sector K, Ashiyana",
+    "latitude": 26.787465299999997,
+    "longitude": 80.9137834,
+    "place_id": "ChIJQVPcM-T9mzkRBG7Ptk05aJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVPcM-T9mzkRBG7Ptk05aJM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:07"
+  },
+  {
+    "business_name": "Kish Hospitality Consultant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Branding agency, Business management consultant, Corporate office, Educational consultant, Employment consultant, Executive search firm, Hotel, Recruiter, Villa",
+    "pincode": "507163",
+    "phone_number": "+91 86695 74085",
+    "website": "http://www.kishhospitality.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd Floor, Shabana Chambers, T6, Panjim, Panaji, Goa 403001",
+    "area": "Panjim",
+    "latitude": 15.499253,
+    "longitude": 73.82253899999999,
+    "place_id": "ChIJM1i-OQzBvzsRnfUYFXKyhbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1i-OQzBvzsRnfUYFXKyhbg",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:02:07"
+  }
+]

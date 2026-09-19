@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siva diagnostic center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "507202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rd, Kanumuru, Gampalagudem, Andhra Pradesh 521403",
+    "area": "Kanumuru",
+    "latitude": 16.9997054,
+    "longitude": 80.5238069,
+    "place_id": "ChIJ39qMwurLNToR-kwaeoFVCu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39qMwurLNToR-kwaeoFVCu0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:20:34"
+  },
+  {
+    "business_name": "LSR Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "507202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite to ZPHIGH SCHOOL, Gampala, Gud, Peda Komira, Andhra Pradesh 521403",
+    "area": "Gampala",
+    "latitude": 16.9829863,
+    "longitude": 80.5186657,
+    "place_id": "ChIJK1BUdBjLNToR7SmicMJhBhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1BUdBjLNToR7SmicMJhBhQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:20:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Overseas Bank",
+    "search_category": "EXIMS",
+    "primary_category": "Public Sector Bank",
+    "all_categories": "Public Sector Bank, Bank",
+    "pincode": "507303",
+    "phone_number": "+91 89259 52495",
+    "website": "https://locate.iob.in/indian-overseas-bank-sathupally-public-sector-bank-sathupally-sathupally-380885/Home",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "D No 4/21, Dr BR Ambedkar Nagar Road, Sathupally, Telangana 507303",
+    "area": "507303",
+    "latitude": 17.211358999999998,
+    "longitude": 80.83305399999999,
+    "place_id": "ChIJJV9CQ12CNjoRxWVeHCwdNBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJV9CQ12CNjoRxWVeHCwdNBo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:03"
+  },
+  {
+    "business_name": "SBI Branch Sathupalli Main",
+    "search_category": "EXIMS",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "507303",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Sath Ally, D.no:17-221, Main Road, Sathupally, Telangana 507303",
+    "area": "507303",
+    "latitude": 17.2109843,
+    "longitude": 80.8325169,
+    "place_id": "ChIJ0-ODzEKCNjoRdNAHfHOlhc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-ODzEKCNjoRdNAHfHOlhc0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:37:03"
+  }
+]

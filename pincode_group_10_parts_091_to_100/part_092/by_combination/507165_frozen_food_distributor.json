@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amma Home Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Wholesale Food Store",
+    "pincode": "507165",
+    "phone_number": "+91 98487 88034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15-7-42, near Raja Rajeswari Temple, Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Rotary Nagar",
+    "latitude": 17.2462722,
+    "longitude": 80.17178249999999,
+    "place_id": "ChIJ5cKuZ-ZZNDoRbB5VVZybgos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cKuZ-ZZNDoRbB5VVZybgos",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:04:36"
+  },
+  {
+    "business_name": "Frozen Mart & HANUMAN ENTERPRISES",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Frozen food store, Ice cream shop",
+    "pincode": "507165",
+    "phone_number": "+91 79933 89043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10-2-53/A/1, Vidyanagar, Karimnagar, Telangana 505451",
+    "area": "Vidyanagar",
+    "latitude": 18.4575809,
+    "longitude": 79.09913949999999,
+    "place_id": "ChIJDzA9rfrZzDsROf5DLYQbO6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzA9rfrZzDsROf5DLYQbO6E",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:04:36"
+  }
+]

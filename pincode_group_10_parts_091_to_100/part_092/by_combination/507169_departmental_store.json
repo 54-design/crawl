@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anu kiranam",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "507169",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3592+H9Q, Gandhasiri, Narsapuram D, Telangana 507158",
+    "area": "507169",
+    "latitude": 17.0689608,
+    "longitude": 80.1509963,
+    "place_id": "ChIJ4fytKABVNDoRgtVtbjMl214",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fytKABVNDoRgtVtbjMl214",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:29"
+  },
+  {
+    "business_name": "kiranam&General store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507169",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "338C+5RH, Biravunapally, Telangana 507160",
+    "area": "507169",
+    "latitude": 17.065448099999998,
+    "longitude": 80.0721042,
+    "place_id": "ChIJeXyIa___NDoRVdO3aY6vXmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXyIa___NDoRVdO3aY6vXmc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:11:29"
+  }
+]

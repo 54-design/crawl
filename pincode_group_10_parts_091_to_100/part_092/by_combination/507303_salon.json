@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishore Frinds Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "507303",
+    "phone_number": "+91 95052 59670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2-19/A, Sathupally, Telangana 507303",
+    "area": "507303",
+    "latitude": 17.212210199999998,
+    "longitude": 80.8301513,
+    "place_id": "ChIJxUHzl0aDNjoR7ajXY4I6VbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUHzl0aDNjoR7ajXY4I6VbI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:36:22"
+  },
+  {
+    "business_name": "Lohitha beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "507303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Khammam SH-42, Khammam Sathupally Road, Main Road, Sathupally, Telangana 507303",
+    "area": "507303",
+    "latitude": 17.211252599999998,
+    "longitude": 80.8331145,
+    "place_id": "ChIJfcX-BHWDNjoRO-QNbqgiL30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcX-BHWDNjoRO-QNbqgiL30",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:36:23"
+  }
+]

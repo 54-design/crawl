@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Yerrupalem",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "507201",
+    "phone_number": "+91 77022 01609",
+    "website": "https://www.mygromor.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D.No: 6-122/1, Main Road, Yerrupalem, Telangana 507201",
+    "area": "507201",
+    "latitude": 16.822356799999998,
+    "longitude": 80.46672,
+    "place_id": "ChIJJ2NKpojHNToRKbALvItxJU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2NKpojHNToRKbALvItxJU8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:18:27"
+  },
+  {
+    "business_name": "Kvr",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Service establishment",
+    "pincode": "507201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Kvr, 507201, India",
+    "area": "507201",
+    "latitude": 17.876567599999998,
+    "longitude": 79.2792012,
+    "place_id": "ChIJj9tlQlbHNToRDK8dff4jblY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9tlQlbHNToRDK8dff4jblY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:18:30"
+  }
+]

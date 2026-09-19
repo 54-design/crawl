@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HUSHEN FOOTWEAR",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Store",
+    "pincode": "507305",
+    "phone_number": "+91 86689 85796",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gopal Puram Mahindra Shorumm, 1-311, Raghunadapalem, Telangana 507002",
+    "area": "507305",
+    "latitude": 17.2445351,
+    "longitude": 80.1877076,
+    "place_id": "ChIJ_ZOWrqRbNDoRZxrhMmTVYwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZOWrqRbNDoRZxrhMmTVYwg",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:28"
+  },
+  {
+    "business_name": "HealthLine Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "507305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "65W9+8WV, Opp Vijay Diary Milk, Netaji Nagar, Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Netaji Nagar, Rotary Nagar",
+    "latitude": 17.2458501,
+    "longitude": 80.1698076,
+    "place_id": "ChIJyftXMxpZNDoRUeFibgc6Fmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyftXMxpZNDoRUeFibgc6Fmc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:29"
+  }
+]

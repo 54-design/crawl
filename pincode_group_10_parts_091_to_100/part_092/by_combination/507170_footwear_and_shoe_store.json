@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahman Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "507170",
+    "phone_number": "+91 73960 37870",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Burma Shell Rd, Gandhi Nagar, Praksh Nagar, Khammam, Telangana 507003",
+    "area": "Gandhi Nagar, Praksh Nagar",
+    "latitude": 17.2457131,
+    "longitude": 80.13850219999999,
+    "place_id": "ChIJ0U52AWRZNDoRKNRvyIi6s7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U52AWRZNDoRKNRvyIi6s7M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:29"
+  },
+  {
+    "business_name": "Rosy Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Footwear wholesaler",
+    "all_categories": "Footwear wholesaler",
+    "pincode": "507170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jama Masjid Rd, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.248887,
+    "longitude": 80.1401255,
+    "place_id": "ChIJmZhlhzJYNDoRCdKP687tB-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZhlhzJYNDoRCdKP687tB-w",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:29"
+  }
+]

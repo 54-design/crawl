@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AKBAR KITCHEN",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant",
+    "pincode": "507203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Madhira - Wyra Rd, Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.920682499999998,
+    "longitude": 80.3648329,
+    "place_id": "ChIJowk_DJqxNToRwKjRQHomBV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowk_DJqxNToRwKjRQHomBV4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:21:58"
+  },
+  {
+    "business_name": "Swarna Bar And Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "507203",
+    "phone_number": "+91 92907 04040",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4-75, Samatha Nagar, Madhira, Didugupadu, Telangana 507203",
+    "area": "Samatha Nagar",
+    "latitude": 16.9349031,
+    "longitude": 80.3657032,
+    "place_id": "ChIJU6I_uXG3NToR6G84K8zCPQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6I_uXG3NToR6G84K8zCPQk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:00"
+  }
+]

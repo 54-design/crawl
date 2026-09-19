@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.R. Beauty Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "508114",
+    "phone_number": "+91 70323 37148",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road, near ramalayam, Chinnakondur, Lakkaram, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.255560499999998,
+    "longitude": 78.8967321,
+    "place_id": "ChIJeTkfPFYRyzsRanOP3LTHl2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTkfPFYRyzsRanOP3LTHl2Y",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:49"
+  },
+  {
+    "business_name": "REX HAIR SALOON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Hair removal service",
+    "pincode": "508114",
+    "phone_number": "+91 83328 36350",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 5,
+    "address": "Choutuppal, Yadadri, Telangana 508252",
+    "area": "Choutuppal",
+    "latitude": 17.250792099999998,
+    "longitude": 78.90157529999999,
+    "place_id": "ChIJueoiMm8RyzsRAvz6xNWRu1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueoiMm8RyzsRAvz6xNWRu1A",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:50"
+  }
+]

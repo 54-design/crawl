@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Industrial Fasteners Stores",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "507211",
+    "phone_number": "+91 44 4307 2652",
+    "website": "http://www.ifs.ind.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Old No. 113, New No. 231, Thambu Chetty Street, Chennai, Tamil Nadu 600001",
+    "area": "Mannadi, George Town",
+    "latitude": 13.0936255,
+    "longitude": 80.2891515,
+    "place_id": "ChIJ53-i7U9vUjoRmg3uXO48esE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53-i7U9vUjoRmg3uXO48esE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:31:49"
+  },
+  {
+    "business_name": "Shree Hardware Stores",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "507211",
+    "phone_number": "+91 2646 220 791",
+    "website": "http://www.shreehardwarestores.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Unit No. 5, 6, opp. AIA Office, GIDC, Ankleshwar GIDC, Ankleshwar, Gujarat 393002",
+    "area": "GIDC, Ankleshwar GIDC",
+    "latitude": 21.6137415,
+    "longitude": 73.0102266,
+    "place_id": "ChIJSQjXkOYj4DsRFP5ejQ3uUh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQjXkOYj4DsRFP5ejQ3uUh4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:31:49"
+  }
+]

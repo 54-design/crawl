@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KUMAR'S Fancy & Bangle Store",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Bangle Shop",
+    "all_categories": "Bangle Shop",
+    "pincode": "508112",
+    "phone_number": "+91 91002 29507",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Hno: 4-38, near X road, RAYAGIRI, Raigiri, Bhuvanagiri, Telangana 508116",
+    "area": "RAYAGIRI",
+    "latitude": 17.535876,
+    "longitude": 78.9388156,
+    "place_id": "ChIJKVDLn1JpyzsR-FRGZidLT1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVDLn1JpyzsR-FRGZidLT1U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:46"
+  },
+  {
+    "business_name": "Swamy Ayappa Jewellers works",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Jewelry designer",
+    "pincode": "508112",
+    "phone_number": "+91 95427 72266",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "1-2-35/9 swarna kara veedhi station road, Bhuvanagiri, Telangana 508116",
+    "area": "508112",
+    "latitude": 17.521494699999998,
+    "longitude": 78.8934713,
+    "place_id": "ChIJD16FtXJvyzsRs3jvm19duDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD16FtXJvyzsRs3jvm19duDI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:49"
+  }
+]

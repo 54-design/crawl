@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Non-Local Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "508112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HIG CHITRAPURI HILLS, Chitrapuri Colony, Hyderabad, Telangana 500104",
+    "area": "Chitrapuri Colony",
+    "latitude": 17.4168575,
+    "longitude": 78.37675349999999,
+    "place_id": "ChIJOWWPhjaVyzsRK2HcIbpc_bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWWPhjaVyzsRK2HcIbpc_bA",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:39"
+  },
+  {
+    "business_name": "Lingarajpally, Telangana 508112",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "508112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lingarajpally, Telangana",
+    "area": "508112",
+    "latitude": 17.3895818,
+    "longitude": 79.0419053,
+    "place_id": "ChIJ8dQ8_bdAyzsRFz2j4BaqARQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dQ8_bdAyzsRFz2j4BaqARQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:56:39"
+  }
+]

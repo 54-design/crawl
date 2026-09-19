@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apex Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "507204",
+    "phone_number": "+91 99260 77704",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 64,
+    "address": "Narmada Square, 163, Scheme 97, Vip Paraspar Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Scheme 97, Vip Paraspar Nagar",
+    "latitude": 22.676199,
+    "longitude": 75.8259655,
+    "place_id": "ChIJAcfm7d39YjkRHurks8o8Jdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcfm7d39YjkRHurks8o8Jdc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:05"
+  },
+  {
+    "business_name": "Tyre power",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "507204",
+    "phone_number": "+91 80941 23452",
+    "website": "https://www.tyrepower.com.au/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot no. 95, Gandhi Path Rd, Arpit Nagar, B Block, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Arpit Nagar, B Block, Vaishali Nagar",
+    "latitude": 26.9060261,
+    "longitude": 75.73217559999999,
+    "place_id": "ChIJ8b6nIgW1bTkRdkA7jVy_tLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8b6nIgW1bTkRdkA7jVy_tLo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:24:05"
+  }
+]

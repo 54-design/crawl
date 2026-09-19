@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jani footwear wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "507201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RFCC+VVC, Gandhi Center, Yerrupalem, Telangana 507201",
+    "area": "Gandhi Center",
+    "latitude": 16.8221856,
+    "longitude": 80.4721411,
+    "place_id": "ChIJSc8sAILHNToR3mtSegk3Bok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSc8sAILHNToR3mtSegk3Bok",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:18:44"
+  },
+  {
+    "business_name": "D-Brand foot wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Shopping mall",
+    "pincode": "507201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "64XR+7WH, Kasba Bazar, Opp Bharatamma kirana, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.248186399999998,
+    "longitude": 80.14236029999999,
+    "place_id": "ChIJj0rWVi1YNDoRXwr2pp7j1_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0rWVi1YNDoRXwr2pp7j1_I",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:18:45"
+  }
+]

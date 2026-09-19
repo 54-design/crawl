@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DNS complex",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "507166",
+    "phone_number": "+91 63027 89966",
+    "website": "https://newvisionaryschool.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GJM4+8MG, Tallada - Kothagudem Rd, Sri Ramanjaneya Nagar Colony, Kothagudem, Telangana 507101",
+    "area": "Sri Ramanjaneya Nagar Colony",
+    "latitude": 17.5333091,
+    "longitude": 80.6067135,
+    "place_id": "ChIJR8LeDGQXNDoRvvXAygiE_2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8LeDGQXNDoRvvXAygiE_2A",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:07:23"
+  },
+  {
+    "business_name": "VISHWA COMPUTERS ACADEMY",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "507166",
+    "phone_number": "+91 97053 09475",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 62,
+    "address": "#7-3-139, 1st floor, beside Reliance Smart, Nehru Nagar, Khammam, Telangana 507001",
+    "area": "Nehru Nagar",
+    "latitude": 17.2521306,
+    "longitude": 80.1479087,
+    "place_id": "ChIJXQ9ONQdZNDoRykrrRyfh9_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ9ONQdZNDoRykrrRyfh9_s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:07:24"
+  }
+]

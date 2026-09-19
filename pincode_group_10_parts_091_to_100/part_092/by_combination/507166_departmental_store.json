@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Supermarket - Vidyanagar, kothagudem",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "507166",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.9,
+    "reviews_count": 334,
+    "address": "H . No. 3-2-198, Vidyanagar Colony, Vidyanagar Chunchupalli, Babucamp, Kothagudem, Telangana 507101",
+    "area": "Vidyanagar Colony, Vidyanagar Chunchupalli, Babucamp",
+    "latitude": 17.5365398,
+    "longitude": 80.6145744,
+    "place_id": "ChIJz4tLHrMXNDoRlX7wzrdy9U4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4tLHrMXNDoRlX7wzrdy9U4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:06:15"
+  },
+  {
+    "business_name": "NRB Great Supermarket",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "507166",
+    "phone_number": "+91 93951 48005",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "GJQ8+PRH, Sri Ramanjaneya Nagar Colony, Kothagudem, Telangana 507101",
+    "area": "Sri Ramanjaneya Nagar Colony",
+    "latitude": 17.539319,
+    "longitude": 80.6171186,
+    "place_id": "ChIJne55vkwXNDoRxY2b1s0T4XQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJne55vkwXNDoRxY2b1s0T4XQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:06:15"
+  }
+]

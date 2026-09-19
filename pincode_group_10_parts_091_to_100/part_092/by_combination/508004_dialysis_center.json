@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FREE DIALYSIS",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "508004",
+    "phone_number": "+91 99489 84290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PILOR NUM 1555, METRO STATION, Pratap Nagar, Dilsukhnagar, CHAITHANAYAPURI, Hyderabad, Telangana 500035",
+    "area": "Pratap Nagar, Dilsukhnagar",
+    "latitude": 17.368454,
+    "longitude": 78.53620409999999,
+    "place_id": "ChIJoYA3ZqyZyzsRtGHs1yxllXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYA3ZqyZyzsRtGHs1yxllXk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:49:58"
+  },
+  {
+    "business_name": "Srinivasa Kidney and SuperSpeciality Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Hospital",
+    "pincode": "508004",
+    "phone_number": "+91 74798 83884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "jagdevpur cross roads, opp. Krishnaveni talent school, Pragati nagar, Bhuvanagiri, Telangana 508116",
+    "area": "Pragati nagar",
+    "latitude": 17.514701199999998,
+    "longitude": 78.8829238,
+    "place_id": "ChIJmQYCPgBvyzsRHxprizkF0Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQYCPgBvyzsRHxprizkF0Cs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:50:00"
+  }
+]

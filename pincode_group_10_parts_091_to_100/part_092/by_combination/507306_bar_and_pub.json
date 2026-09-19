@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Koti cooldrinks",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "507306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7266+4X, Malkaram, Dammapeta, Telangana 507306",
+    "area": "507306",
+    "latitude": 17.2602315,
+    "longitude": 81.0124452,
+    "place_id": "ChIJ6XV8cJGPNjoRw6lkSVlkXS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XV8cJGPNjoRw6lkSVlkXS4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:40:47"
+  },
+  {
+    "business_name": "Nagesh kirana&wines",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "507306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9XV6+2J, Ankampalem, Telangana 507306",
+    "area": "507306",
+    "latitude": 17.3925332,
+    "longitude": 80.9615975,
+    "place_id": "ChIJnZkxaHmZNjoRi_w3Ltz5SHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZkxaHmZNjoRi_w3Ltz5SHE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:40:47"
+  }
+]

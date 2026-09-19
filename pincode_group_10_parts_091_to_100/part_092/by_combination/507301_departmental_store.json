@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Disposal Fancy And General Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "507301",
+    "phone_number": "+91 95533 22580",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2-17, near Bustand, Aswaraopeta, Telangana 507301",
+    "area": "507301",
+    "latitude": 17.2462031,
+    "longitude": 81.1312363,
+    "place_id": "ChIJ2_ZEoGiNNjoRxNgf4u3wRTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_ZEoGiNNjoRxNgf4u3wRTY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:32:02"
+  },
+  {
+    "business_name": "More Supermarket - Jangareddygudem",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "507301",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.8,
+    "reviews_count": 378,
+    "address": "Aswaraopeta - Jangareddygudem Rd, Jangareddygudem, Andhra Pradesh 534447",
+    "area": "507301",
+    "latitude": 17.1224843,
+    "longitude": 81.2905418,
+    "place_id": "ChIJuZxIRhv3NjoRFHFxLRAU7YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZxIRhv3NjoRFHFxLRAU7YE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:32:05"
+  }
+]

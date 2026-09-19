@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SINUS ENT HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "508111",
+    "phone_number": "+91 90639 92621",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "GV7M+RW2, Bhuvanagiri-Nalgonda Rd, Pahadinagar, Medikuntapally, Bhuvanagiri, Telangana 508116",
+    "area": "Pahadinagar, Medikuntapally",
+    "latitude": 17.5145019,
+    "longitude": 78.88476159999999,
+    "place_id": "ChIJD_apOINvyzsRLnzeG2iTVaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_apOINvyzsRLnzeG2iTVaM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:15"
+  },
+  {
+    "business_name": "santha hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "508111",
+    "phone_number": "+91 98480 92214",
+    "website": "http://santhahospitals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Doctors Colony Rd, Doctors Colony, Miryalaguda, Telangana 508207",
+    "area": "Doctors Colony",
+    "latitude": 16.868465399999998,
+    "longitude": 79.5612254,
+    "place_id": "ChIJAQAA1GIlNToR1956HMg9U0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA1GIlNToR1956HMg9U0Q",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:55:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeev Kumar Auditorium",
+    "search_category": "Media and Event",
+    "primary_category": "Auditorium",
+    "all_categories": "Auditorium, Performing arts theater",
+    "pincode": "507167",
+    "phone_number": "+91 97277 40902",
+    "website": "https://www.suratmunicipal.gov.in/Services/SanjeevkumarHome",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "14, Hazira Rd, Behind Rajhans Theater, Adajan Gam, Pal Gam, Surat, Gujarat 394510",
+    "area": "Behind Rajhans Theater, Adajan Gam, Pal Gam",
+    "latitude": 21.1853198,
+    "longitude": 72.7846687,
+    "place_id": "ChIJwzCOyrRN4DsRkMQ29dn-wkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzCOyrRN4DsRkMQ29dn-wkQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:09:06"
+  },
+  {
+    "business_name": "Gandra Srinivas Rao Home",
+    "search_category": "Media and Event",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Housing complex",
+    "pincode": "507167",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-69, Yerraboinapalli, Telangana 507209",
+    "area": "507167",
+    "latitude": 17.1389463,
+    "longitude": 80.52983259999999,
+    "place_id": "ChIJv5IDHgA1NDoRmyokpGR5R-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5IDHgA1NDoRmyokpGR5R-k",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:09:06"
+  }
+]

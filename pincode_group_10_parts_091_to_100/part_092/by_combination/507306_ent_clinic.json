@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Vamshi ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, ENT Specialist",
+    "pincode": "507306",
+    "phone_number": "+91 91213 34007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 146,
+    "address": "6-2-250 , 1st Floor HNA Plaza, opp. Zubair Bookstall, Chowrastha, Warangal, Telangana 506011",
+    "area": "Chowrastha, Kakaji Nagar Colony",
+    "latitude": 18.0052149,
+    "longitude": 79.5703186,
+    "place_id": "ChIJvbRV-dFFMzoRFMqlzEHFlGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbRV-dFFMzoRFMqlzEHFlGc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:04"
+  },
+  {
+    "business_name": "Trinath E.N.T. Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Cancer treatment center, Hospital",
+    "pincode": "507306",
+    "phone_number": "+91 99891 51333",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Warangal - Narsampet Rd, Narsampet, Telangana 506132",
+    "area": "507306",
+    "latitude": 17.9232486,
+    "longitude": 79.8875906,
+    "place_id": "ChIJQf9fi2plMzoRzcJYfK5zg-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQf9fi2plMzoRzcJYfK5zg-M",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:41:06"
+  }
+]

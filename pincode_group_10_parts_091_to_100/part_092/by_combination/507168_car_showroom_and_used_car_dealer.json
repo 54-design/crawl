@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kr car bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "507168",
+    "phone_number": "+91 79898 51025",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "65WG+V79, Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Rotary Nagar",
+    "latitude": 17.2471662,
+    "longitude": 80.1757446,
+    "place_id": "ChIJVc2obQBZNDoRyfEvcoH6bYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc2obQBZNDoRyfEvcoH6bYg",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:19"
+  },
+  {
+    "business_name": "Ingens Auto Arena - Pre-owned Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "507168",
+    "phone_number": "N/A",
+    "website": "https://www.autoarena.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "861/A, Road No. 45 Jubilee Hills, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "CBI Colony, Jubilee Hills",
+    "latitude": 17.4323492,
+    "longitude": 78.39993319999999,
+    "place_id": "ChIJG7uR1UuRyzsROt9ea3EKIl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7uR1UuRyzsROt9ea3EKIl8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:21"
+  }
+]

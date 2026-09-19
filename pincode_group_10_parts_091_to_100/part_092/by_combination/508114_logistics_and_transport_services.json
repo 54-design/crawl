@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRL Logistics Ltd - Choutuppal",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Courier service, Transportation service",
+    "pincode": "508114",
+    "phone_number": "+91 91602 84422",
+    "website": "https://vrlgroup.in/vrl_logistics_service.aspx",
+    "rating": 3.5,
+    "reviews_count": 41,
+    "address": "NITHIN TOWERS, NH65, near LINGOJIGUDEM, Choutuppal, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.245373,
+    "longitude": 78.922777,
+    "place_id": "ChIJPZrSrgopyzsRyHvDMMXxREc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZrSrgopyzsRyHvDMMXxREc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:36"
+  },
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "508114",
+    "phone_number": "+91 866 663 8787",
+    "website": "https://navata.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "7V3R+F97, RDO office lane, Choutuppal, Lakkaram, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.2612529,
+    "longitude": 78.8918456,
+    "place_id": "ChIJT2cCyXsRyzsR6HtciU97La4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2cCyXsRyzsR6HtciU97La4",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:00:36"
+  }
+]

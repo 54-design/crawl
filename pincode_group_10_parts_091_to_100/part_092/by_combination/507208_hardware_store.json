@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Veera Bramhendra Swami Welding Works",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "507208",
+    "phone_number": "+91 98663 86989",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "67J4+W3X, Thanikella, Telangana 507305",
+    "area": "507208",
+    "latitude": 17.2323616,
+    "longitude": 80.2552256,
+    "place_id": "ChIJw5O3OQ1QNDoRAAAAsAg28A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5O3OQ1QNDoRAAAAsAg28A8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:25:52"
+  },
+  {
+    "business_name": "Sarwar Iron, Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "507208",
+    "phone_number": "+91 96667 19518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khanapuram Industrial Area, Khanapuram, Khammam, Telangana 507002",
+    "area": "Khanapuram Industrial Area, Khanapuram",
+    "latitude": 17.266147,
+    "longitude": 80.1726058,
+    "place_id": "ChIJpRfGuJNZNDoRiuYgn9spN1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRfGuJNZNDoRiuYgn9spN1E",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:25:53"
+  }
+]

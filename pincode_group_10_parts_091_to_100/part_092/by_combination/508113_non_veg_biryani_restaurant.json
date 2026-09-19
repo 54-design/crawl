@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAA Chinese Fast Food Center CHICKEN DUM BIRYANI",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "508113",
+    "phone_number": "+91 99499 23616",
+    "website": "https://aaa-chinese-fast-food.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SH-2, Narketpally, Telangana 508254",
+    "area": "508113",
+    "latitude": 17.203573,
+    "longitude": 79.1978556,
+    "place_id": "ChIJ_8U9OQA7yzsR45fNeB53vGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8U9OQA7yzsR45fNeB53vGI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:58:21"
+  },
+  {
+    "business_name": "Red Bucket Biryani | Narketpalle",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "508113",
+    "phone_number": "+91 96523 08408",
+    "website": "https://redbucketbiryani.com/restaurants-in-narketpally/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "H.No:1-51, Dist, beside GSR Function Hall, Narketpally, Telangana 508254",
+    "area": "508113",
+    "latitude": 17.2039276,
+    "longitude": 79.1976268,
+    "place_id": "ChIJEf7SzDg7yzsRI65Rwo1J7kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEf7SzDg7yzsRI65Rwo1J7kM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:58:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Wholesale Hosiery & Handloom",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "508001",
+    "phone_number": "+91 99085 06944",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no:21-1, 1067/B/14, Pathergatti Rd, Madina Market, Rikab Gunj, Ghansi Bazaar, Hyderabad, Telangana 500002",
+    "area": "Madina Market, Rikab Gunj, Ghansi Bazaar",
+    "latitude": 17.3682452,
+    "longitude": 78.4748836,
+    "place_id": "ChIJVVBOQIGXyzsROAo9ixFZZOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVBOQIGXyzsROAo9ixFZZOI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:46:15"
+  },
+  {
+    "business_name": "Jockey showroom",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "508001",
+    "phone_number": "N/A",
+    "website": "https://stores.jockey.in/location/telangana/nalgonda",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3796+7X6, Meerbagh Colony, Ravindra Nagar, Nalgonda, Telangana 508001",
+    "area": "Meerbagh Colony, Ravindra Nagar",
+    "latitude": 17.0681512,
+    "longitude": 79.26238169999999,
+    "place_id": "ChIJjY_10kspyzsRXOYZjJWjC8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjY_10kspyzsRXOYZjJWjC8c",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:46:15"
+  }
+]

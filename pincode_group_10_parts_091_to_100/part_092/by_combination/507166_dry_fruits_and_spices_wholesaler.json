@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flyberry Gourmet",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Gourmet grocery store, Health food store",
+    "pincode": "507166",
+    "phone_number": "+91 90734 09999",
+    "website": "http://www.flyberry.in/",
+    "rating": 4.8,
+    "reviews_count": 512,
+    "address": "Store Number 2, Triveni St, Mythri Nagar, Hafeezpet, Madeenaguda, Telangana 500049",
+    "area": "Mythri Nagar, Hafeezpet",
+    "latitude": 17.4939578,
+    "longitude": 78.3478847,
+    "place_id": "ChIJ7dxAptCTyzsRLU1fWoJda8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dxAptCTyzsRLU1fWoJda8Y",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:06:18"
+  },
+  {
+    "business_name": "Krishna spice and dry fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Store",
+    "pincode": "507166",
+    "phone_number": "+91 98452 47877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Holy family School Ramraj, cotton pakka, Sindhanur, Karnataka 584128",
+    "area": "cotton pakka",
+    "latitude": 15.7626175,
+    "longitude": 76.7550993,
+    "place_id": "ChIJM0cBwUfrtzsRJYuasbG0MAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0cBwUfrtzsRJYuasbG0MAI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:06:19"
+  }
+]

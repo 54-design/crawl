@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Areej International Travel & Tourism",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency",
+    "pincode": "507170",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Towards, Station Rd, inside Meer Complex, opp. ATM, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2487989,
+    "longitude": 80.1413755,
+    "place_id": "ChIJDQVHSOpZNDoR6Lau8MD47k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQVHSOpZNDoR6Lau8MD47k8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:50"
+  },
+  {
+    "business_name": "S S car Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency",
+    "pincode": "507170",
+    "phone_number": "+91 96401 90946",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Mamillagudem Rd, Mayuri Center, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Mayuri Center, Braman Bazar, Nizampet",
+    "latitude": 17.2519477,
+    "longitude": 80.14021149999999,
+    "place_id": "ChIJoUPX_JhZNDoR8wDLesIKE68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUPX_JhZNDoR8wDLesIKE68",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:13:50"
+  }
+]

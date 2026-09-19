@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pedallers Point - Somajiguda",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Exercise equipment store",
+    "pincode": "507168",
+    "phone_number": "+91 98666 85428",
+    "website": "https://www.pedallerspoint.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop No. 4, Shanti Shikara Apartments, Raj Bhavan Rd, Somajiguda, Hyderabad, Telangana 500082",
+    "area": "Somajiguda",
+    "latitude": 17.4259078,
+    "longitude": 78.45743019999999,
+    "place_id": "ChIJ6V7WTUuXyzsR6PlSrk5igN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6V7WTUuXyzsR6PlSrk5igN0",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:24"
+  },
+  {
+    "business_name": "Sri Krishna Bike Mechanic Work",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "507168",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-2, Julurupadu Road, Enkoor, Telangana 507168",
+    "area": "507168",
+    "latitude": 17.3317315,
+    "longitude": 80.4408637,
+    "place_id": "ChIJjb-thDBHNDoRSCX2m6PzneY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjb-thDBHNDoRSCX2m6PzneY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:10:24"
+  }
+]

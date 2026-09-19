@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MVM Fancy and Stationary",
+    "search_category": "Boutiques",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "507306",
+    "phone_number": "+91 70938 01253",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shiva complex, Malkaram Rd, Dammapeta, Telangana 507306",
+    "area": "507306",
+    "latitude": 17.2678287,
+    "longitude": 81.0094055,
+    "place_id": "ChIJez10gbOPNjoRiZCV5MGyl7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJez10gbOPNjoRiZCV5MGyl7Q",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:40:56"
+  },
+  {
+    "business_name": "Tanu's collections",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "507306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, Dammapeta, Telangana 507306",
+    "area": "507306",
+    "latitude": 17.2657496,
+    "longitude": 81.01209,
+    "place_id": "ChIJ1xv3O0ePNjoRXUfwJKZY50o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xv3O0ePNjoRXUfwJKZY50o",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:40:58"
+  }
+]

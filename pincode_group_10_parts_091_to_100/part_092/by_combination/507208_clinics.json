@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "neurospine clinics",
+    "search_category": "Clinics",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "507208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "flat no 102, park view apartment, Mamatha Hospital Rd, Dwaraka Nagar, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Dwaraka Nagar, Kaviraj Nagar",
+    "latitude": 17.246490899999998,
+    "longitude": 80.16304219999999,
+    "place_id": "ChIJI0y8QNFZNDoREJYSPFjCYNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0y8QNFZNDoREJYSPFjCYNc",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:25:35"
+  },
+  {
+    "business_name": "ShivaKeshava Medicals",
+    "search_category": "Clinics",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "507208",
+    "phone_number": "+91 98484 87409",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Srinagar Colony, 2nd Line, Rotary Nagar, Khammam, Telangana 507002",
+    "area": "Netaji Nagar, Rotary Nagar",
+    "latitude": 17.2449822,
+    "longitude": 80.1724456,
+    "place_id": "ChIJt_feh8NZNDoRHCBfmkTqVgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_feh8NZNDoRHCBfmkTqVgQ",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:25:35"
+  }
+]

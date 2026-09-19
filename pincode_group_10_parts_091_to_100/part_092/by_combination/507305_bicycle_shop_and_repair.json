@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vinayak Bike Repair Shops",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "507305",
+    "phone_number": "+91 84998 22386",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tanikella, 1-502, Telangana 507305",
+    "area": "507305",
+    "latitude": 17.2269813,
+    "longitude": 80.27307499999999,
+    "place_id": "ChIJQYFt381RNDoRXyPhBGrze0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYFt381RNDoRXyPhBGrze0U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:32"
+  },
+  {
+    "business_name": "RAVI CYCLE STORES",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "507305",
+    "phone_number": "+91 94409 19881",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Wyra-Tallada Rd, Leela Sundaraiah Nagar, Wyra, Telangana 507165",
+    "area": "Leela Sundaraiah Nagar",
+    "latitude": 17.1948652,
+    "longitude": 80.3591575,
+    "place_id": "ChIJtRevTtFONDoROzWlKQ2GK1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRevTtFONDoROzWlKQ2GK1c",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atidhi Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "507209",
+    "phone_number": "+91 80958 33399",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "XGM8+6RX, Gampalagudem Main Rd, Peda Komira, Andhra Pradesh 521403",
+    "area": "507209",
+    "latitude": 16.9831113,
+    "longitude": 80.5170976,
+    "place_id": "ChIJQ2O6XwDLNToRs_CzdCvoE0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2O6XwDLNToRs_CzdCvoE0U",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:27:58"
+  },
+  {
+    "business_name": "Baireddy Estate",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "507209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H.No 1, 06, Thallapenta Rd, Tallapenta, Telangana 507209",
+    "area": "507209",
+    "latitude": 17.2384204,
+    "longitude": 80.622716,
+    "place_id": "ChIJR6KdO_oxNDoRTu0LWOnyrIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6KdO_oxNDoRTu0LWOnyrIw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:27:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arogya Matha Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4QHQ+78W, Vemsoor, Telangana 507164",
+    "area": "507164",
+    "latitude": 17.1282453,
+    "longitude": 80.7883325,
+    "place_id": "ChIJ1wI6fmEqNDoR_tiD67WdK9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wI6fmEqNDoR_tiD67WdK9c",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:10"
+  },
+  {
+    "business_name": "Sri Geeta Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "507164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5R94+8PF, Rejerla, Telangana 507303",
+    "area": "507164",
+    "latitude": 17.168305999999998,
+    "longitude": 80.8067907,
+    "place_id": "ChIJJTtp0AYqNDoRKZF0Ov4e2Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTtp0AYqNDoRKZF0Ov4e2Xs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:03:10"
+  }
+]

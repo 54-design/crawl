@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bangalore Rice Treaders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop, Agricultural service, Department store, Wholesale grocer",
+    "pincode": "507210",
+    "phone_number": "+91 97424 23983",
+    "website": "https://mystore.shpx.in/checkin?token=#8ed3703",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VJX9+553, Vivekananda Nagar, Kodichikknahalli, Seenappa Layout, Bommanahalli, Bengaluru, Karnataka 560076",
+    "area": "Vivekananda Nagar, Kodichikknahalli, Seenappa Layout, Bommanahalli",
+    "latitude": 12.8979,
+    "longitude": 77.61793,
+    "place_id": "ChIJd3P5IN0UrjsRetObUcQ__Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3P5IN0UrjsRetObUcQ__Mw",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:41"
+  },
+  {
+    "business_name": "Indian Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "507210",
+    "phone_number": "+91 93102 63007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 30, Nisra, Uttar Pradesh 262001",
+    "area": "507210",
+    "latitude": 28.6710824,
+    "longitude": 79.72102939999999,
+    "place_id": "ChIJw_ew8FRroDkRRFQ33ZtF0Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_ew8FRroDkRRFQ33ZtF0Zs",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akter Pan Shop",
+    "search_category": "Shops",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "507167",
+    "phone_number": "+91 99491 40024",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "opp. forest checkpost, Thallada, Telangana 507167",
+    "area": "507167",
+    "latitude": 17.2174439,
+    "longitude": 80.4226113,
+    "place_id": "ChIJdQJgO0VINDoRaoWGXO-9M4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQJgO0VINDoRaoWGXO-9M4Q",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:09:41"
+  },
+  {
+    "business_name": "Sri Vasavi Iron and general stores",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "507167",
+    "phone_number": "+91 98855 67269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "H.NO: 1-275/2, Tallada, Khammam Rd, Thallada, Telangana 507167",
+    "area": "507167",
+    "latitude": 17.2148696,
+    "longitude": 80.4203862,
+    "place_id": "ChIJMwV1DFBINDoR3AcSzUboW8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwV1DFBINDoR3AcSzUboW8o",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:09:43"
+  }
+]

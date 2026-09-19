@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajiv Medical & Fancy General Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "507305",
+    "phone_number": "+91 90103 30609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7697+64, Khanapuram Haveli, Telangana 507002",
+    "area": "507305",
+    "latitude": 17.2677816,
+    "longitude": 80.2136773,
+    "place_id": "ChIJCfIfbABbNDoRC2r8ZRxzQVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfIfbABbNDoRC2r8ZRxzQVk",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:24"
+  },
+  {
+    "business_name": "సేవాలాలా తండా",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "507305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67Q5+7F2, Thanikella, Telangana 507305",
+    "area": "507305",
+    "latitude": 17.2381404,
+    "longitude": 80.25863989999999,
+    "place_id": "ChIJ8Y3bCwBRNDoRN8yTFRKw2K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Y3bCwBRNDoRN8yTFRKw2K8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:39:25"
+  }
+]

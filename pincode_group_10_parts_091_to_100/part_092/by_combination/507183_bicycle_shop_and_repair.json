@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amb Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "507183",
+    "phone_number": "+91 88849 73710",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "96, Road, Doddanekundi, Vibhutipura, Bengaluru, Karnataka 560037",
+    "area": "Doddanekundi, Vibhutipura",
+    "latitude": 12.9719693,
+    "longitude": 77.6962137,
+    "place_id": "ChIJx2KwzeYTrjsRnoH5hsxOe3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2KwzeYTrjsRnoH5hsxOe3k",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:17:19"
+  },
+  {
+    "business_name": "Ali Cycle Repair/Spare",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "507183",
+    "phone_number": "+91 99125 08452",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Tuljaram Nagar, Hyderabad, Telangana 500006",
+    "area": "Tuljaram Nagar",
+    "latitude": 17.369999999999997,
+    "longitude": 78.44676,
+    "place_id": "ChIJozEBgqSXyzsRZgLzTUACrQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozEBgqSXyzsRZgLzTUACrQ8",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:17:21"
+  }
+]

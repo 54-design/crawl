@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Ice Factory",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Ice supplier",
+    "all_categories": "Ice supplier",
+    "pincode": "507209",
+    "phone_number": "+91 99493 28179",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "13-80/a,Khankhanpet, Kalluru, Telangana 507209",
+    "area": "507209",
+    "latitude": 17.1993614,
+    "longitude": 80.56374579999999,
+    "place_id": "ChIJD6gQ2iIxNDoRrXTylalrKeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6gQ2iIxNDoRrXTylalrKeE",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:26"
+  },
+  {
+    "business_name": "JCB India (Varun Motors, Tiruvuru)",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Construction equipment supplier",
+    "all_categories": "Construction equipment supplier",
+    "pincode": "507209",
+    "phone_number": "+91 91547 75517",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Factory Center, 2-1A, Nadim, Tiruvuru, Chittela, Andhra Pradesh 521235",
+    "area": "507209",
+    "latitude": 17.0777706,
+    "longitude": 80.6049374,
+    "place_id": "ChIJzzfpTBMzNDoRDw19YsM4L3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzfpTBMzNDoRDw19YsM4L3s",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:28:26"
+  }
+]

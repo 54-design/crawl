@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Communications",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Airline ticket agency, Bus ticket agency, Digital printing service, Money transfer service, Passport Agent, Railway Ticket Agent",
+    "pincode": "507203",
+    "phone_number": "+91 77025 00454",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "RV Complex, 1-24, Main Rd, Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.924487499999998,
+    "longitude": 80.3639651,
+    "place_id": "ChIJ6WqCqESxNToR8ZuLuLfDH1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WqCqESxNToR8ZuLuLfDH1g",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:27"
+  },
+  {
+    "business_name": "Madhira",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Train station",
+    "all_categories": "Train station",
+    "pincode": "507203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Madhira, Telangana 507203",
+    "area": "507203",
+    "latitude": 16.9217829,
+    "longitude": 80.3661807,
+    "place_id": "ChIJ_3a0SNW2NToRnU_qlzzgROI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3a0SNW2NToRnU_qlzzgROI",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:22:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sr Degree College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "658C+HRQ, Kothagudem, Khammam, Telangana 507318",
+    "area": "507318",
+    "latitude": 17.2164583,
+    "longitude": 80.1721049,
+    "place_id": "ChIJ____P0dXNDoRQH7F-b1Lklo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P0dXNDoRQH7F-b1Lklo",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:45:16"
+  },
+  {
+    "business_name": "New Generation College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Prison",
+    "all_categories": "Prison",
+    "pincode": "507318",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7525+6VV, Chirumarri,mudhigonda, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.250610899999998,
+    "longitude": 80.15968339999999,
+    "place_id": "ChIJ84hBX8NZNDoRfezC37y6wdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84hBX8NZNDoRfezC37y6wdM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:45:17"
+  }
+]

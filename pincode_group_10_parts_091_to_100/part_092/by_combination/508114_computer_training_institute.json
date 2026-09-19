@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Altech Computer Training Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "508114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "H No:4-52, near Gandhi Park, Choutuppal, Lakkaram, Telangana 508252",
+    "area": "508114",
+    "latitude": 17.255129999999998,
+    "longitude": 78.8975322,
+    "place_id": "ChIJS8sxCmURyzsRkmKb5oVxZoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8sxCmURyzsRkmKb5oVxZoY",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:01:03"
+  },
+  {
+    "business_name": "ALTECH COMPUTER AND VOCATIONAL TRAINING CENTER",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "508114",
+    "phone_number": "+91 98662 93329",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ALTECH COMPUTER AND VOCATIONAL TRAINING CENTER Gandhi Park, Vidhya Nagar, Choutuppal, Lakkaram, Telangana 508252",
+    "area": "Vidhya Nagar",
+    "latitude": 17.254497699999998,
+    "longitude": 78.8975966,
+    "place_id": "ChIJB8IJcYgRyzsR4Y8SXbI3bPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8IJcYgRyzsR4Y8SXbI3bPU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 07:01:03"
+  }
+]

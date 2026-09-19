@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House Of Armuse",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Fashion designer",
+    "pincode": "507204",
+    "phone_number": "+91 99281 11711",
+    "website": "http://houseofarmuse.com/",
+    "rating": 4.2,
+    "reviews_count": 191,
+    "address": "C-63/B, Sarojini Marg, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.910160599999998,
+    "longitude": 75.8038165,
+    "place_id": "ChIJAyamro-1bTkRYK1NkWthkHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyamro-1bTkRYK1NkWthkHU",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:23:52"
+  },
+  {
+    "business_name": "NJ TRENDS",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing wholesaler",
+    "pincode": "507204",
+    "phone_number": "+91 97042 46065",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-9-176/1, sharvani college, lane, Kishanpura, Hanamkonda, Telangana 506001",
+    "area": "Opposite Police Head Quarters, Kishanpura",
+    "latitude": 18.0115108,
+    "longitude": 79.55922269999999,
+    "place_id": "ChIJP4Q5cn1PMzoRU1-PbNH8_hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4Q5cn1PMzoRU1-PbNH8_hM",
+    "part_id": "part_092",
+    "crawled_at": "2026-09-19 06:23:52"
+  }
+]
