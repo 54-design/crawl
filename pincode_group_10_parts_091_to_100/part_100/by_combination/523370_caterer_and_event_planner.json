@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Celebrats event",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "523370",
+    "phone_number": "+91 81097 02044",
+    "website": "https://celebrats.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Celebrats event, 523370, India",
+    "area": "523370",
+    "latitude": 23.1994097,
+    "longitude": 77.4058914,
+    "place_id": "ChIJ1ff7EP8K-4cRutcT6HdnH1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ff7EP8K-4cRutcT6HdnH1s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:36"
+  },
+  {
+    "business_name": "Master Planner Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Catering food and drink supplier, Event management company, Event venue, Music management and promotion, Photographer, Restaurant supply store, Wedding planner",
+    "pincode": "523370",
+    "phone_number": "+91 91758 78715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Siddhi Vihar Society, 5th floor, flat no.507, Opp. Abane Hospital, near Hanuman temple, Gadital, Hadapsar, Pune, Maharashtra 411028",
+    "area": "Navnath Colony, Gadital, Hadapsar",
+    "latitude": 18.499110899999998,
+    "longitude": 73.9383299,
+    "place_id": "ChIJS35o_OLDwjsRa8tkbF36qAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS35o_OLDwjsRa8tkbF36qAE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:36"
+  }
+]

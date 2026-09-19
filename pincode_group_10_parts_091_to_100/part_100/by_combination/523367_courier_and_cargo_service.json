@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badinenipalle Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "523367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7XG8+336, Unnamed Road, Badineni Palle, Andhra Pradesh 523373",
+    "area": "523367",
+    "latitude": 15.2751735,
+    "longitude": 78.9651453,
+    "place_id": "ChIJF9uPBurptDsR-WuoUDN_yQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9uPBurptDsR-WuoUDN_yQU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:59:30"
+  },
+  {
+    "business_name": "The Professional Couriers",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 39,
+    "address": "Opposite Agricultural Office, Yadava Street, Head Post Office St, Giddalur, Andhra Pradesh 523357",
+    "area": "523367",
+    "latitude": 15.3776345,
+    "longitude": 78.9268747,
+    "place_id": "ChIJ3WcXeSfktDsRT73VTUurR9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3WcXeSfktDsRT73VTUurR9g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:59:30"
+  }
+]

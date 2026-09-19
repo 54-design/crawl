@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Srinivasa Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "523286",
+    "phone_number": "+91 90006 85753",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Kotthapatnam, Bus Stand, Near, New Bypass Junction, Kammapalam, Cumbu, East Kammapalem, Ongole, Andhra Pradesh 523001",
+    "area": "Kammapalam, Cumbu, East Kammapalem",
+    "latitude": 15.5037927,
+    "longitude": 80.0538712,
+    "place_id": "ChIJzWbO-_0ASzoRIaprbhtNLyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWbO-_0ASzoRIaprbhtNLyw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:11:54"
+  },
+  {
+    "business_name": "Sri Hari & Ramanamma Flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "523286",
+    "phone_number": "+91 63034 31926",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Seetaram Puram, 35-4-8, Seetha Ram Puram, Gaddalagunta, Ongole, Andhra Pradesh 523001",
+    "area": "Seetha Ram Puram, Gaddalagunta",
+    "latitude": 15.499245199999999,
+    "longitude": 80.04089189999999,
+    "place_id": "ChIJozuFJAABSzoRbIRENv_9Iak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozuFJAABSzoRbIRENv_9Iak",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:11:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Am pets Nd Aquarium's",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "523245",
+    "phone_number": "+91 86393 16222",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kovur Main Rd, Chinnapadugupadu, Kovur, Andhra Pradesh 524137",
+    "area": "Chinnapadugupadu",
+    "latitude": 14.5039061,
+    "longitude": 79.98568159999999,
+    "place_id": "ChIJKwQFZumNTDoRuUJGiyvk_YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwQFZumNTDoRuUJGiyvk_YM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:37"
+  },
+  {
+    "business_name": "Chinni Pet Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium, Bird shop, Cat boarding service, Dog breeder, Animal feed store, Pet boarding service, Pet groomer, Pet store, Pet trainer",
+    "pincode": "523245",
+    "phone_number": "+91 77995 99729",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near Clock Tower, VRC Centre, Nellore, Andhra Pradesh 524003",
+    "area": "VRC Centre",
+    "latitude": 14.4467764,
+    "longitude": 79.9824345,
+    "place_id": "ChIJUfYPqRWNTDoRHPAf3Ms-ArE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfYPqRWNTDoRHPAf3Ms-ArE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxup India Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Accountant, Accounting firm, Auditor, Certified public accountant, Consultant, Media company, Tax collector's office, Tax consultant, Tax preparation",
+    "pincode": "523346",
+    "phone_number": "+91 80992 79989",
+    "website": "https://taxupindia.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Near Old Toll Gate, Vijayawada - Guntur Hwy, Tadepalle, Andhra Pradesh 522501",
+    "area": "Tadepalle",
+    "latitude": 16.4800467,
+    "longitude": 80.6174384,
+    "place_id": "ChIJ4z_-wW7wNToRR-4nPKgUOQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4z_-wW7wNToRR-4nPKgUOQE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:08"
+  },
+  {
+    "business_name": "Legal and Financial Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "523346",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C69C+QVC, Maruthi Hall Rd, near Sree Rama, Sbi Colony, Pulivendula, Andhra Pradesh 516390",
+    "area": "Sbi Colony",
+    "latitude": 14.419435799999999,
+    "longitude": 78.2221361,
+    "place_id": "ChIJ97J6237rszsRXMKV44srmko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97J6237rszsRXMKV44srmko",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:09"
+  }
+]

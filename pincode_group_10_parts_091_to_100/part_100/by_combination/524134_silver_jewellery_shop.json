@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BALU GOLD & SILVER JEWELLERY SHOP",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "524134",
+    "phone_number": "+91 70936 87894",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Clock Tower Rd, Rapur, Andhra Pradesh 524408",
+    "area": "524134",
+    "latitude": 14.2018537,
+    "longitude": 79.5350728,
+    "place_id": "ChIJeXkGmWTRTDoRsDp5WgRPq2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXkGmWTRTDoRsDp5WgRPq2w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:05"
+  },
+  {
+    "business_name": "THANGUTURI JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "524134",
+    "phone_number": "N/A",
+    "website": "https://mybillbook.in/store/thanguturi_jewelry",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Old Bus-stand, Main Road, Chitvel, Andhra Pradesh 516104",
+    "area": "524134",
+    "latitude": 14.1715854,
+    "longitude": 79.3309407,
+    "place_id": "ChIJxYtWYd8tszsRbN_xAUD9C9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYtWYd8tszsRbN_xAUD9C9Q",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:05"
+  }
+]

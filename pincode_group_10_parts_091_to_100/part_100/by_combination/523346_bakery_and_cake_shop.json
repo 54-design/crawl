@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy bites bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523346",
+    "phone_number": "+91 96664 09860",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nellore Rd, opposite CPI office, Pamuru, Andhra Pradesh 523108",
+    "area": "523346",
+    "latitude": 15.0912396,
+    "longitude": 79.4105247,
+    "place_id": "ChIJAcsFenFLSzoRcyRyMMsv8x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcsFenFLSzoRcyRyMMsv8x8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:44"
+  },
+  {
+    "business_name": "SHINE BAKERS",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523346",
+    "phone_number": "+91 99125 97524",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9VCM+F2H, Main road, Nandyal Highway, Kristam, Settipalli, Giddalur, Andhra Pradesh 523357",
+    "area": "Kristam, Settipalli",
+    "latitude": 15.371193799999999,
+    "longitude": 78.8826023,
+    "place_id": "ChIJEWl0rGTltDsRftjrRLt6Ku0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWl0rGTltDsRftjrRLt6Ku0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Medi Systems",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "523247",
+    "phone_number": "+91 98492 57497",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "26-13-120, 26-13-120, B.V.Nagar, NGO Colony, Nellore, Andhra Pradesh 524004",
+    "area": "B.V.Nagar, NGO Colony",
+    "latitude": 14.4197999,
+    "longitude": 79.96804039999999,
+    "place_id": "ChIJNdyQqyzzTDoR-haLpg_Md90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdyQqyzzTDoR-haLpg_Md90",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:40"
+  },
+  {
+    "business_name": "Venkata sai Medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "523247",
+    "phone_number": "+91 90324 70790",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stop, Kurichedu,, Kurichedu, Andhra Pradesh 523304",
+    "area": "523247",
+    "latitude": 15.9048334,
+    "longitude": 79.57748699999999,
+    "place_id": "ChIJT6rG_vXHSjoRXpRRZh-DXYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6rG_vXHSjoRXpRRZh-DXYw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DSR Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523357",
+    "phone_number": "+91 85002 91853",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Potti sreeramulu road, Giddalur, Andhra Pradesh 523357",
+    "area": "523357",
+    "latitude": 15.376456899999999,
+    "longitude": 78.9264233,
+    "place_id": "ChIJby-RzifktDsRteQDPf1tspw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJby-RzifktDsRteQDPf1tspw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:56:36"
+  },
+  {
+    "business_name": "Wood Land Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523357",
+    "phone_number": "+91 91772 70117",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "9WGG+Q7P, Giddalur, Andhra Pradesh 523357",
+    "area": "523357",
+    "latitude": 15.3769501,
+    "longitude": 78.9257119,
+    "place_id": "ChIJYQjQSybktDsR96Rz2w171s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQjQSybktDsR96Rz2w171s8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:56:36"
+  }
+]

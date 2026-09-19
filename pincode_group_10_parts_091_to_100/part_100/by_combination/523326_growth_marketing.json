@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Greenlemon",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Graphic designer, Web hosting company, Website designer",
+    "pincode": "523326",
+    "phone_number": "+91 77365 77118",
+    "website": "https://www.greenlemon.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2nd Floor, Aroosa Plaza, Stadium Puthiyara Rd, Puthiyara, Kozhikode, Keralam 673004",
+    "area": "Puthiyara",
+    "latitude": 11.255294899999999,
+    "longitude": 75.7892409,
+    "place_id": "ChIJc2EmuDtZpjsRza59jQwpY6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2EmuDtZpjsRza59jQwpY6I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:33:50"
+  },
+  {
+    "business_name": "Let's Grow Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Advertising agency, Business management consultant, Direct mail advertising, Service establishment, Graphic designer, Internet marketing service, Public relations firm, Web hosting company, Website designer",
+    "pincode": "523326",
+    "phone_number": "N/A",
+    "website": "http://www.letsgrowmarketing.co.za/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Let's Grow Marketing, 523326, India",
+    "area": "523326",
+    "latitude": -29.980667999999998,
+    "longitude": 24.6837724,
+    "place_id": "ChIJ6yrr410_o6sRtFxmVPgjE7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yrr410_o6sRtFxmVPgjE7E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:33:50"
+  }
+]

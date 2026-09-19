@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Easovation Solutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "523333",
+    "phone_number": "+91 96240 45500",
+    "website": "http://www.easovation.com/",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "A - 801, Samudra Complex, Near Classic Gold Hotel, Off C. G. Road, Ahmedabad, Gujarat 380006, Umashankar Joshi Marg, Gujarat 380006",
+    "area": "Vasant Vihar, Navrangpura",
+    "latitude": 23.033101,
+    "longitude": 72.55867839999999,
+    "place_id": "ChIJbz5EMvKEXjkR_vrpeIKhcYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbz5EMvKEXjkR_vrpeIKhcYo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:33"
+  },
+  {
+    "business_name": "Digital POS Systems Limited",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "523333",
+    "phone_number": "0742 786797",
+    "website": "https://www.digitalpos.co.ke/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Purvi House, Nairobi, Kenya",
+    "area": "523333",
+    "latitude": -1.2675001,
+    "longitude": 36.812022,
+    "place_id": "ChIJoZgFr-MXLxgR00IPFT9CcGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZgFr-MXLxgR00IPFT9CcGQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:33"
+  }
+]

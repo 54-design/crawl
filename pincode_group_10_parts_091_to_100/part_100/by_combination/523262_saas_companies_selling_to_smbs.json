@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Websoft Technology",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "523262",
+    "phone_number": "N/A",
+    "website": "https://websofttechnology.com.my/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "271, Jalan Permai 2, Taman Desa Permai, 09000 Lunas, Kedah, Malaysia",
+    "area": "Taman Desa Permai",
+    "latitude": 5.4366942,
+    "longitude": 100.5369367,
+    "place_id": "ChIJaY8VT0tmzwAR14UvMP3FA2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY8VT0tmzwAR14UvMP3FA2w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:48"
+  },
+  {
+    "business_name": "Cloud Software SAS",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "523262",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cloud Software SAS, 523262, India",
+    "area": "523262",
+    "latitude": -11.9522731,
+    "longitude": -85.863942,
+    "place_id": "ChIJPUOppIhYcoIRleVlDyqQDcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUOppIhYcoIRleVlDyqQDcM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:48"
+  }
+]

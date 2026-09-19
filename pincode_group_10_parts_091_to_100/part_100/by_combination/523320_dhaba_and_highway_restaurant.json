@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel new aryabhavan",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "W36V+4VH, NH 765, Doranala, Pedda Dornala, Andhra Pradesh 523331",
+    "area": "Doranala",
+    "latitude": 15.9103044,
+    "longitude": 79.0947286,
+    "place_id": "ChIJmXpVbE1BtTsRWxbXSzc7SOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXpVbE1BtTsRWxbXSzc7SOc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:23"
+  },
+  {
+    "business_name": "GOLDEN FAMILY RESTAURANT",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523320",
+    "phone_number": "+91 78424 26066",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "junction, beside Urvasi theater, Bestavaripeta, Pusalapadu, Andhra Pradesh 523334",
+    "area": "523320",
+    "latitude": 15.5362651,
+    "longitude": 79.0970566,
+    "place_id": "ChIJWxUUOg0htTsRR_ZM7xYM21o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxUUOg0htTsRR_ZM7xYM21o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:24"
+  }
+]

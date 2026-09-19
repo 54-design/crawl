@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LUCKY shopping mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping Mall Operators",
+    "all_categories": "Shopping Mall Operators",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FX2F+2XW, Meclince Rd, Santhapeta Patta, Nellore, Andhra Pradesh 524001",
+    "area": "Santhapeta Patta",
+    "latitude": 14.4501122,
+    "longitude": 79.97496509999999,
+    "place_id": "ChIJqz_dAdKMTDoRissrqXimJio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz_dAdKMTDoRissrqXimJio",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:20"
+  },
+  {
+    "business_name": "LUCKY shopping mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F222+PR6, NTR Rd, RK Nagar, Saraswathi Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "RK Nagar, Saraswathi Nagar",
+    "latitude": 14.451789,
+    "longitude": 80.0020234,
+    "place_id": "ChIJ44K7o66MTDoRlZCi5OvwOfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44K7o66MTDoRlZCi5OvwOfY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:20"
+  }
+]

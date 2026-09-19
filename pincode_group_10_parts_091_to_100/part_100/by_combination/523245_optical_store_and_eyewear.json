@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Katyal Optics | Optical Store in Noida",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center, Sunglasses store",
+    "pincode": "523245",
+    "phone_number": "+91 98100 99098",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "shop no 4, P P-38, Sector 12 P block market, Noida, Uttar Pradesh 201301",
+    "area": "Block P, Sector 12",
+    "latitude": 28.59463,
+    "longitude": 77.3397837,
+    "place_id": "ChIJsUE8oAblDDkR5we0sJNr0i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUE8oAblDDkR5we0sJNr0i4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:53"
+  },
+  {
+    "business_name": "Himalaya Optical Bowbazar",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center, Optometrist, Sunglasses store",
+    "pincode": "523245",
+    "phone_number": "+91 33 4070 1096",
+    "website": "https://himalayaoptical.com/a/store-locator/himalaya-optical-bowbazar.html",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "301/B, Bepin Behari Ganguly St, Poddar Court, Lal Bazar, Kolkata, West Bengal 700012",
+    "area": "Poddar Court, Lal Bazar",
+    "latitude": 22.5717905,
+    "longitude": 88.3541412,
+    "place_id": "ChIJ56XEfK93AjoRGp0RBVGQJwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56XEfK93AjoRGp0RBVGQJwc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:53"
+  }
+]

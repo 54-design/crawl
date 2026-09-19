@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitanya Diagnostic center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Medical diagnostic imaging center",
+    "pincode": "523369",
+    "phone_number": "+91 73828 31333",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "KN Rd, Ambedkar Nagar, Kadakatla, Andhra Pradesh 534101",
+    "area": "Ambedkar Nagar",
+    "latitude": 16.8166385,
+    "longitude": 81.52314539999999,
+    "place_id": "ChIJSwlv74q1NzoR1LsfpSzilJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwlv74q1NzoR1LsfpSzilJk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:02:14"
+  },
+  {
+    "business_name": "Medlife medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "523369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, opposite andhra bank atm, Komarolu, Andhra Pradesh 523373",
+    "area": "523369",
+    "latitude": 15.268061099999999,
+    "longitude": 79.0003869,
+    "place_id": "ChIJQ0KFL9HptDsR4zPYh2WN0WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0KFL9HptDsR4zPYh2WN0WM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:02:15"
+  }
+]

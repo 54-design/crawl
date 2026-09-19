@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Professional Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Sightseeing Tour Operator, Tour operator, Travel agency",
+    "pincode": "524127",
+    "phone_number": "+91 80722 41348",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "30, 113, Vellala St, Gopal Pillai Nagar, Thanthai Periyar Nagar, Ayanavaram, Chennai, Tamil Nadu 600023",
+    "area": "Gopal Pillai Nagar, Thanthai Periyar Nagar, Ayanavaram",
+    "latitude": 13.0963171,
+    "longitude": 80.22631179999999,
+    "place_id": "ChIJH2Ds47JlUjoRgcNF0hL9XXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2Ds47JlUjoRgcNF0hL9XXs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:30:10"
+  },
+  {
+    "business_name": "City Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Chauffeur service, Transportation service",
+    "pincode": "524127",
+    "phone_number": "+91 44 2794 5579",
+    "website": "https://www.citytaxi.co.in/",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "1/74, Perumal Koil Street Kannambakkam Village, Post, Pallavada, Gummidipoondi, Tamil Nadu 601202",
+    "area": "524127",
+    "latitude": 13.493319399999999,
+    "longitude": 80.0335916,
+    "place_id": "ChIJ3y2aQkZ5TToRHeTyeeSyFdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3y2aQkZ5TToRHeTyeeSyFdk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:30:10"
+  }
+]

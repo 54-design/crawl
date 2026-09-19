@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hemambika Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "523316",
+    "phone_number": "+91 98499 76909",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 7, 251B, Main Road, Shivaji Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Shivaji Nagar",
+    "latitude": 15.738456399999999,
+    "longitude": 79.2702008,
+    "place_id": "ChIJw6f9DFExtTsR_L1h6tRQTfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6f9DFExtTsR_L1h6tRQTfI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:46"
+  },
+  {
+    "business_name": "KRISHNA MEDICALS",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "523316",
+    "phone_number": "+91 98499 76925",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police Station Area, 7/254, Ganesh Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Ganesh Nagar",
+    "latitude": 15.738687299999999,
+    "longitude": 79.2701502,
+    "place_id": "ChIJgS1FTysxtTsRu5QE_qh3S4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgS1FTysxtTsRu5QE_qh3S4s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI SAI BABA FURNITURES",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "524003",
+    "phone_number": "+91 82474 53398",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "26-2-5A, Current Office Centre To BV Nagar, opp. of bhargavi auto mobiles, beside Nanda Orbit mall, retwik enclave, Rithwik Enclave, Vedayapalem, Nellore, Andhra Pradesh 524004",
+    "area": "retwik enclave, Rithwik Enclave, Vedayapalem",
+    "latitude": 14.4169024,
+    "longitude": 79.95928169999999,
+    "place_id": "ChIJNfxx0bjzTDoRp-7wQjJH8A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfxx0bjzTDoRp-7wQjJH8A4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:15:37"
+  },
+  {
+    "business_name": "HAPPY AUCTION HALL",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Used appliance store",
+    "all_categories": "Used appliance store",
+    "pincode": "524003",
+    "phone_number": "+91 80191 93030",
+    "website": "http://www.happyauctionhall.com/",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "E 11 INDUSTRIAL ESTATE, Andhra kesari Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "Andhra kesari Nagar, Vedayapalem Industrial Estate, Vedayapalem",
+    "latitude": 14.419331999999999,
+    "longitude": 79.95768319999999,
+    "place_id": "ChIJqS7llh7zTDoRrMLUjf_9vtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqS7llh7zTDoRrMLUjf_9vtE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:15:39"
+  }
+]

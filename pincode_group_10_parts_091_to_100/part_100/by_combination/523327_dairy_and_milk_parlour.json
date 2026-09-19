@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dodla dairy parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "523327",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3WG6+Q8W, Sundipenta, Srisailam Project, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0769859,
+    "longitude": 78.91084169999999,
+    "place_id": "ChIJw5gRTwBltTsRxAEPHRM9lcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5gRTwBltTsRxAEPHRM9lcU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:33:59"
+  },
+  {
+    "business_name": "Gollavidipi, Andhra Pradesh 523327",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "523327",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gollavidipi, Andhra Pradesh",
+    "area": "523327",
+    "latitude": 16.098537399999998,
+    "longitude": 79.2676668,
+    "place_id": "ChIJu80nHu5RtTsRQHNnrP9KNo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu80nHu5RtTsRQHNnrP9KNo0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:34:00"
+  }
+]

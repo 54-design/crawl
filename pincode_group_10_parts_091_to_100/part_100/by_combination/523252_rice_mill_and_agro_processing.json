@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakkavaram Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "523252",
+    "phone_number": "+91 70751 53532",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "MQXV+RR5, Lakkavaram, Andhra Pradesh 523264",
+    "area": "523252",
+    "latitude": 15.697493099999999,
+    "longitude": 79.79544159999999,
+    "place_id": "ChIJ5T-hkE_mSjoRZBrXqN1vXTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5T-hkE_mSjoRZBrXqN1vXTo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:34"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "523252",
+    "phone_number": "+91 86866 60333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "53FC+76, Medepally, Telangana 507158",
+    "area": "523252",
+    "latitude": 17.1732089,
+    "longitude": 80.0705333,
+    "place_id": "ChIJW7_6f6v5NDoR8eYHQEi-nLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7_6f6v5NDoR8eYHQEi-nLs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:36"
+  }
+]

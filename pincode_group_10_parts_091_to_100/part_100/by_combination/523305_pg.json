@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHAVANA WOMEN’S HOSTEL",
+    "search_category": "PG",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel, Student dormitory, Working women's hostel",
+    "pincode": "523305",
+    "phone_number": "+91 89776 79066",
+    "website": "https://bhavanawomenshostels-ui.github.io/resources/",
+    "rating": 4.8,
+    "reviews_count": 68,
+    "address": "Srinivasa Nagar, Nandyala, Andhra Pradesh 518501",
+    "area": "Srinivasa Nagar",
+    "latitude": 15.4860188,
+    "longitude": 78.4830894,
+    "place_id": "ChIJFfGzi2GttTsR3hsZ24tgTs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfGzi2GttTsR3hsZ24tgTs0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:47"
+  },
+  {
+    "business_name": "Kanthi boys hostel",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Backpacker Hostel, Student dormitory",
+    "pincode": "523305",
+    "phone_number": "+91 90000 56988",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 479,
+    "address": "MJM3+WJG, Venugopal Nagar, Old Town, Anantapur, Andhra Pradesh 515005",
+    "area": "Venugopal Nagar, Old Town",
+    "latitude": 14.6848125,
+    "longitude": 77.6040781,
+    "place_id": "ChIJZVouzvhLsTsRpBiVijGMmnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVouzvhLsTsRpBiVijGMmnE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Leads",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "523247",
+    "phone_number": "+91 40 4004 4004",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NCL LB, Godavari Block D-5th Floor, Flat No.511, Jeedimetla Pipeline Rd, Suchitra, Jeedimetla, Hyderabad, Telangana 500055",
+    "area": "Suchitra, Subhash Nagar, Jeedimetla",
+    "latitude": 17.5124,
+    "longitude": 78.45913999999999,
+    "place_id": "ChIJiSjp6RuQyzsRoc4IDqyGJi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSjp6RuQyzsRoc4IDqyGJi8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:40:49"
+  },
+  {
+    "business_name": "Aiclex Technologies",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "523247",
+    "phone_number": "N/A",
+    "website": "https://aiclex.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Survey No. 21, near HDFC Bank, Raghoba Patil Nagar, Sainath Nagar, Kharadi, Pune, Maharashtra 411014",
+    "area": "Raghoba Patil Nagar, Sainath Nagar, Kharadi",
+    "latitude": 18.5406119,
+    "longitude": 73.9346746,
+    "place_id": "ChIJq988X-sLlWURuHDdvJyYZko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq988X-sLlWURuHDdvJyYZko",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:40:50"
+  }
+]

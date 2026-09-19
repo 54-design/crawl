@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vani Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "523291",
+    "phone_number": "+91 94909 52055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Thummalapalli Complex,Road, 11, Wyra Rd, Kaviraj Nagar, Khammam, Telangana 507002",
+    "area": "Kaviraj Nagar",
+    "latitude": 17.2514701,
+    "longitude": 80.1619563,
+    "place_id": "ChIJm2emG8NZNDoRbLPMnim74aQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2emG8NZNDoRbLPMnim74aQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:09"
+  },
+  {
+    "business_name": "Eshwarappa Homeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "523291",
+    "phone_number": "+91 98491 33769",
+    "website": "https://www.eshwarappahomeopathyclinics.com/branches.php",
+    "rating": 2.5,
+    "reviews_count": 20,
+    "address": "Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally",
+    "latitude": 17.487126099999998,
+    "longitude": 78.3915423,
+    "place_id": "ChIJAwS1GIyRyzsRFZCrt8mCOHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwS1GIyRyzsRFZCrt8mCOHk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:09"
+  }
+]

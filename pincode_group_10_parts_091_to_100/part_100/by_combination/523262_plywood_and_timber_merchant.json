@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Plywoods",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Hardware store",
+    "pincode": "523262",
+    "phone_number": "+91 99800 10030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "103/2, Haralur Main Rd, HSR Extension, Reliable Residency Layout Phase 3, Extension, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "HSR Extension, Reliable Residency Layout Phase 3, Extension, HSR Layout",
+    "latitude": 12.8960926,
+    "longitude": 77.6579813,
+    "place_id": "ChIJI6VxMfMTrjsRIQG2nxGZIi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6VxMfMTrjsRIQG2nxGZIi4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:50:49"
+  },
+  {
+    "business_name": "Pandian Timber Depot",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store, Logging contractor",
+    "pincode": "523262",
+    "phone_number": "+91 44 4266 3345",
+    "website": "http://www.pandiantimber.com/",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "No.67, 139, Dr Natesan Rd, krishnampet, Meccapuram, Mylapore, Chennai, Tamil Nadu 600005",
+    "area": "krishnampet, Meccapuram, Mylapore",
+    "latitude": 13.0466021,
+    "longitude": 80.2746509,
+    "place_id": "ChIJWV7b2CZmUjoRVt44aumfnCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWV7b2CZmUjoRVt44aumfnCs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:50:50"
+  }
+]

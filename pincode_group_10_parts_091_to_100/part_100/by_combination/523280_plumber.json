@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohammad Electrical & Plumbing Works",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "523280",
+    "phone_number": "+91 81217 46588",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4/611-1, Rajupet, Municipal Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Rajupet, Municipal Quarters",
+    "latitude": 16.1770732,
+    "longitude": 81.1233841,
+    "place_id": "ChIJlZyZaHHnSToRuGia-hUAneA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZyZaHHnSToRuGia-hUAneA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:01"
+  },
+  {
+    "business_name": "Sri Sai Durga Electrical and Plumbing Works",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Plumber",
+    "pincode": "523280",
+    "phone_number": "+91 94417 38510",
+    "website": "https://srisaidurgaelectricalandplumbingworks.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "33-14-51, near Simhala Devulu Jn, Daba Gardens, Allipuram, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.7167274,
+    "longitude": 83.3023393,
+    "place_id": "ChIJZYbXRvRDOToRXKTaVsvmFus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYbXRvRDOToRXKTaVsvmFus",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:01"
+  }
+]

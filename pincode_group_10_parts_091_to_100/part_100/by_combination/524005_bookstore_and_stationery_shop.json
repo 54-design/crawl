@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basha note book works",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sundharayya colany . D block, last . Nellore, Nellore, Andhra Pradesh 524003",
+    "area": "524005",
+    "latitude": 14.3933818,
+    "longitude": 79.9684056,
+    "place_id": "ChIJgyQkE1nzTDoRcgVpUGZLcOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyQkE1nzTDoRcgVpUGZLcOA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:48"
+  },
+  {
+    "business_name": "Krishika stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Office supply wholesaler, Stationery wholesaler",
+    "pincode": "524005",
+    "phone_number": "+91 99419 51284",
+    "website": "https://krishika-stationery.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "270, Linghi Chetty Street, facing, Krishnan Koil St, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Seethakadi Nagar, George Town",
+    "latitude": 13.0988311,
+    "longitude": 80.2904728,
+    "place_id": "ChIJr3KiSk5vUjoR5ikKHDtIoNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3KiSk5vUjoR5ikKHDtIoNU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:50"
+  }
+]

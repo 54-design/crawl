@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Emporium",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothes and fabric wholesaler",
+    "all_categories": "Clothes and fabric wholesaler",
+    "pincode": "524124",
+    "phone_number": "+91 98525 25296",
+    "website": "https://linktr.ee/ParasEmporium",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "740, Danapith Dhal, nr. Mansuri Masjid, opp. Fire Brigade, Dhalgarwad, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Dhalgarwad, Khadia",
+    "latitude": 23.0224527,
+    "longitude": 72.5855553,
+    "place_id": "ChIJC2-FljiFXjkR7mfs3KOLxVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2-FljiFXjkR7mfs3KOLxVM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:09"
+  },
+  {
+    "business_name": "Saibaba Textiles",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "524124",
+    "phone_number": "+91 90110 69722",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Office No. 1,2 & 3, 765/1A, 1st Floor, Omkar Chambers, RB Kumthekar Rd, Sadashiv Peth, Pune, Maharashtra 411030",
+    "area": "Sadashiv Peth",
+    "latitude": 18.513585,
+    "longitude": 73.8518344,
+    "place_id": "ChIJ2zBNlnHAwjsRIDShSlgxqxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zBNlnHAwjsRIDShSlgxqxo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:10"
+  }
+]

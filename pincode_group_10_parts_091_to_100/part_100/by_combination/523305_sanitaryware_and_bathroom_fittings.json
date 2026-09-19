@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Relax Bath Solutions",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "523305",
+    "phone_number": "+91 95024 44607",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "288/5 Narsingi, Gandipet Main Road, opp. D-Mart, Dist, Hyderabad, Telangana 500089",
+    "area": "Dist",
+    "latitude": 17.3847254,
+    "longitude": 78.3604454,
+    "place_id": "ChIJhSSowpmVyzsROm1yaFDfZuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSSowpmVyzsROm1yaFDfZuc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:27"
+  },
+  {
+    "business_name": "Standard Tiless",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "523305",
+    "phone_number": "+91 63038 35856",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "19-2, 81/62, Rajan Colony, Tad Bun, Hyderabad, Telangana 500053",
+    "area": "Rajan Colony, Tad Bun",
+    "latitude": 17.3424503,
+    "longitude": 78.4554275,
+    "place_id": "ChIJZ45U_ciXyzsRuSscylbqXBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ45U_ciXyzsRuSscylbqXBE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:27"
+  }
+]

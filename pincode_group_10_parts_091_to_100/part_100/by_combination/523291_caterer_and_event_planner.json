@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrutha Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "523291",
+    "phone_number": "+91 98499 99959",
+    "website": "http://www.amruthacaterers.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "H.no:-12-11, 1410/1, Ramalayam St, Bank Colony, Boudhanagar Colony, Secunderabad, Telangana 500061",
+    "area": "Bank Colony, Boudhanagar Colony",
+    "latitude": 17.4171317,
+    "longitude": 78.5184199,
+    "place_id": "ChIJKWYvFIOZyzsRkrvIsEIGBXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWYvFIOZyzsRkrvIsEIGBXk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:49"
+  },
+  {
+    "business_name": "VTR GRAND",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Function room facility",
+    "pincode": "523291",
+    "phone_number": "+91 90106 45454",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3A-15-19/1, Perugu Chettu St, Southen Street, Eluru, Andhra Pradesh 534001",
+    "area": "Southen Street",
+    "latitude": 16.706540399999998,
+    "longitude": 81.1051408,
+    "place_id": "ChIJ80PLpMUUNjoRiandk3wmGgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80PLpMUUNjoRiandk3wmGgc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:49"
+  }
+]

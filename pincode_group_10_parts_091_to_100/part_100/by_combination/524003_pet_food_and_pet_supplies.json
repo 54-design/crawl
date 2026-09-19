@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaria pet foods",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "524003",
+    "phone_number": "+91 91825 00839",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarangandi centre, beside alludu sweet shop, ZP Colony, Nellore, Andhra Pradesh 524004",
+    "area": "ZP Colony",
+    "latitude": 14.426148,
+    "longitude": 79.95818419999999,
+    "place_id": "ChIJDfV6PpDzTDoR6UcU1-GfxYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfV6PpDzTDoR6UcU1-GfxYw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:14:46"
+  },
+  {
+    "business_name": "Chinni Pet Boarding Center",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet boarding service",
+    "all_categories": "Pet boarding service",
+    "pincode": "524003",
+    "phone_number": "+91 77995 99799",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Iskcon temple road, sub station road, near Hanuman junction, beside manmantra hotel, Nellore, Andhra Pradesh 524004",
+    "area": "Indira Nagar",
+    "latitude": 14.418860899999999,
+    "longitude": 79.97602549999999,
+    "place_id": "ChIJNw1Jw1vzTDoRUSqaqdtEofc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNw1Jw1vzTDoRUSqaqdtEofc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:14:49"
+  }
+]

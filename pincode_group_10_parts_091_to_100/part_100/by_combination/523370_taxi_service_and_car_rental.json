@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cab Rental Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "523370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pune - Nagar Rd, Wagholi, Pune, Maharashtra 412207",
+    "area": "Wagholi",
+    "latitude": 18.5769521,
+    "longitude": 73.9683556,
+    "place_id": "ChIJoZm3WyYb9QIRWFjvc-4oezI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZm3WyYb9QIRWFjvc-4oezI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:12"
+  },
+  {
+    "business_name": "TAXI & RENTAL SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "523370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Candolim Rd, Calangute, Candolim, Goa 403515",
+    "area": "523370",
+    "latitude": 15.5253777,
+    "longitude": 73.7653256,
+    "place_id": "ChIJxcRSEJ_BvzsR1a7QA_9dx4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxcRSEJ_BvzsR1a7QA_9dx4w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:12"
+  }
+]

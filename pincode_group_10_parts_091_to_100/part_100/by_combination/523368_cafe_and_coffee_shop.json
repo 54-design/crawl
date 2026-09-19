@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Palace",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Tea store",
+    "pincode": "523368",
+    "phone_number": "+91 99084 34708",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Radha complex, Gajulapalli, Andhra Pradesh 518583",
+    "area": "523368",
+    "latitude": 15.3992858,
+    "longitude": 78.62011989999999,
+    "place_id": "ChIJkYEqFDJVtDsRRvsfksquqio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYEqFDJVtDsRRvsfksquqio",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:06"
+  },
+  {
+    "business_name": "Balaji Coffee",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee store",
+    "all_categories": "Coffee store",
+    "pincode": "523368",
+    "phone_number": "+91 85922 32235",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "G23X+9V2, Trunk Rd, near Bombay Dyeing, MaratiPalem, Ongole, Andhra Pradesh 523001",
+    "area": "MaratiPalem",
+    "latitude": 15.5033751,
+    "longitude": 80.0496469,
+    "place_id": "ChIJp4lUwwMBSzoRSYmBEk83PDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4lUwwMBSzoRSYmBEk83PDA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:07"
+  }
+]

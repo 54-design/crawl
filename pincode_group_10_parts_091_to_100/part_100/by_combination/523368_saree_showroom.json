@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rama Cloth Stores",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "523368",
+    "phone_number": "+91 866 666 1696",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 4586,
+    "address": "Seshadri, 29-1-1, Sheshadri Sastry St, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5103138,
+    "longitude": 80.6290436,
+    "place_id": "ChIJ-6WoqiHxNToRp7Cf8f_wcd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6WoqiHxNToRp7Cf8f_wcd0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:06"
+  },
+  {
+    "business_name": "Vinayaka Silks",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing store",
+    "pincode": "523368",
+    "phone_number": "+91 70135 26868",
+    "website": "https://www.vinayakasilks.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MMSR Tower, Plot No 24, near to Marrichettu Circle, Sri Laxmi Nagar Colony, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Sri Laxmi Nagar Colony",
+    "latitude": 17.4059286,
+    "longitude": 78.3748317,
+    "place_id": "ChIJcZ9RusWVyzsROgqdJgV7QUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZ9RusWVyzsROgqdJgV7QUk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:07"
+  }
+]

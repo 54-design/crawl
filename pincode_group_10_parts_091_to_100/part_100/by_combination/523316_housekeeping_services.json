@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V C H S (V3)",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "523316",
+    "phone_number": "+91 80801 86237",
+    "website": "http://www.vcarehousekeepingservices.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Zenda Chowk, near Manoj Digital Photo Studio, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mahal",
+    "latitude": 21.141876999999997,
+    "longitude": 79.1117349,
+    "place_id": "ChIJeRtZ-VHB1DsRwiq4Y40HbNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRtZ-VHB1DsRwiq4Y40HbNM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:29:51"
+  },
+  {
+    "business_name": "SANIKA ENTERPRISES home cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, House clearance service, Pest control service, Window cleaning service",
+    "pincode": "523316",
+    "phone_number": "+91 75072 58976",
+    "website": "https://homecleaningservices.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Lonkar Ali, Mundhwa, Pune, Maharashtra 411036",
+    "area": "Lonkar Ali, Mundhwa",
+    "latitude": 18.5326545,
+    "longitude": 73.9326887,
+    "place_id": "ChIJVaXPZXy_wjsRcN-vUJVUuk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaXPZXy_wjsRcN-vUJVUuk8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:29:51"
+  }
+]

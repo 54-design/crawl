@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Food Mart",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "523280",
+    "phone_number": "+91 93920 30827",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pillar Number 222, Address - Shop no.25, 108/1/D, Rajendra Nagar Rd, beside Mahindra Neon Motors, Attapur, Hyderabad, Telangana 500052",
+    "area": "Wadi-E-Mahmood, Attapur",
+    "latitude": 17.343917599999997,
+    "longitude": 78.417579,
+    "place_id": "ChIJb7R9AACXyzsR62CbkLSHhcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7R9AACXyzsR62CbkLSHhcw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:17"
+  },
+  {
+    "business_name": "ITC VISTA FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "523280",
+    "phone_number": "+91 80088 89191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7-1-32/6/4, Jamuna Tirth, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Jamuna Tirth, Ameerpet",
+    "latitude": 17.4420994,
+    "longitude": 78.45357059999999,
+    "place_id": "ChIJw99vV_6RyzsRwGVVQb_ycik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw99vV_6RyzsRwGVVQb_ycik",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SD Appliance Repairs",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "523246",
+    "phone_number": "N/A",
+    "website": "http://www.sd-repairs.co.uk/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "129 Newborough Rd, Shirley, Solihull B90 2HE, United Kingdom",
+    "area": "Shirley",
+    "latitude": 52.4128283,
+    "longitude": -1.8402094,
+    "place_id": "ChIJK_mdw_a5cEgRyRpmOlmzc5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_mdw_a5cEgRyRpmOlmzc5E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:10"
+  },
+  {
+    "business_name": "AS Washing Machine Repair Shop",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service, Refrigerator repair service",
+    "pincode": "523246",
+    "phone_number": "+91 99080 69643",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 105,
+    "address": "near Masjid, Kondapur, Camelot Layout, Gachibowli, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Camelot Layout, Gachibowli",
+    "latitude": 17.464185699999998,
+    "longitude": 78.34621299999999,
+    "place_id": "ChIJ_3nQtHKTyzsR1eqLfj0mCQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3nQtHKTyzsR1eqLfj0mCQ4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:12"
+  }
+]

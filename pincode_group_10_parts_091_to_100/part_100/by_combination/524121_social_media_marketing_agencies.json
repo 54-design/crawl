@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luma Tech Services",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "524121",
+    "phone_number": "N/A",
+    "website": "https://lumatech.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9-1-42, Brahmin St, opposite HP Gas Office, Sullurupeta, Andhra Pradesh 524121",
+    "area": "524121",
+    "latitude": 13.7011281,
+    "longitude": 80.0171283,
+    "place_id": "ChIJv_Haca3FVWAR9spmHDLKM-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_Haca3FVWAR9spmHDLKM-k",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:23:52"
+  },
+  {
+    "business_name": "Asura Creative Works",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Video editing service",
+    "all_categories": "Video editing service",
+    "pincode": "524121",
+    "phone_number": "+91 80085 13569",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Kattava, Sullurupeta, Kadalur, Andhra Pradesh 524121",
+    "area": "524121",
+    "latitude": 13.664290399999999,
+    "longitude": 80.0001449,
+    "place_id": "ChIJ71zGzEtzTToRUIxYyCDDERU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71zGzEtzTToRUIxYyCDDERU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:23:54"
+  }
+]

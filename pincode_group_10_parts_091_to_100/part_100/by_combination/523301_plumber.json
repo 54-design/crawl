@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National electrical and plumbing stores",
+    "search_category": "Plumber",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "523301",
+    "phone_number": "+91 99667 65126",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Choutra Center, Gabbiti, Tana Veedhi St, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "523301",
+    "latitude": 16.0903557,
+    "longitude": 80.16737839999999,
+    "place_id": "ChIJm8GzjHtjSjoRaTV5eOOnLV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8GzjHtjSjoRaTV5eOOnLV4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:18:08"
+  },
+  {
+    "business_name": "PSF Fire Security",
+    "search_category": "Plumber",
+    "primary_category": "Fire damage restoration service",
+    "all_categories": "Fire damage restoration service",
+    "pincode": "523301",
+    "phone_number": "+91 93906 38285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indian oil petrol bunk back side, Rajakala colony, CR Colony, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "Rajakala colony, CR Colony",
+    "latitude": 16.1007934,
+    "longitude": 80.1705333,
+    "place_id": "ChIJwy_0E_ljSjoRaKm9iyrPMo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwy_0E_ljSjoRaKm9iyrPMo8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:18:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coorg coffee house",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "523329",
+    "phone_number": "+91 76598 75727",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "near to skbr college, opposite bikkana hotel, Suryanagar, Amalapuram, Andhra Pradesh 533201",
+    "area": "Suryanagar",
+    "latitude": 16.5687248,
+    "longitude": 81.99932919999999,
+    "place_id": "ChIJw-FUrfblNzoRiJdp8qqKyaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-FUrfblNzoRiJdp8qqKyaU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:37:54"
+  },
+  {
+    "business_name": "VASANTH COFFEE WORKS",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "General store",
+    "all_categories": "General store, Coffee roastery",
+    "pincode": "523329",
+    "phone_number": "+91 63053 25773",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "11-1-11, Gandhi Rd, near Nalugukalla Mandapam, Balaji Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Balaji Colony",
+    "latitude": 13.6312889,
+    "longitude": 79.4189394,
+    "place_id": "ChIJffqsSQlLTToRnPwzC5NUsuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffqsSQlLTToRnPwzC5NUsuc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:37:54"
+  }
+]

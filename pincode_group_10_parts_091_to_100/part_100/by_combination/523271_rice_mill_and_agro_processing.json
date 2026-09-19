@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice mill, kamepalli",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "523271",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kamepalli-Patchava Rd, Kamepalli Agraharam, Andhra Pradesh 523271",
+    "area": "523271",
+    "latitude": 15.332946799999998,
+    "longitude": 79.79820389999999,
+    "place_id": "ChIJGUySOAAXSzoRhUayXRrutfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUySOAAXSzoRhUayXRrutfQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:00:47"
+  },
+  {
+    "business_name": "Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "523271",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8QRC+4Q9, Patchava, Andhra Pradesh 523271",
+    "area": "523271",
+    "latitude": 15.340282499999999,
+    "longitude": 79.7719858,
+    "place_id": "ChIJv77fLwAXSzoR--Gf0go45iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv77fLwAXSzoR--Gf0go45iU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:00:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinnamala Bus Stop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW55+C76, Nellore, Vinnamala, Andhra Pradesh 524126",
+    "area": "524126",
+    "latitude": 13.9085267,
+    "longitude": 79.90813299999999,
+    "place_id": "ChIJdSWe4rkaTToRd_Z6gG2Yk4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSWe4rkaTToRd_Z6gG2Yk4A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:22"
+  },
+  {
+    "business_name": "VIJAY AGENCIES",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "524126",
+    "phone_number": "+91 88973 02626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "APS RTC, CKM Complex, Bus stand, L.A.Sagaram, Nayudupeta, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.905863499999999,
+    "longitude": 79.8910459,
+    "place_id": "ChIJj1oCDosbTToRo304owPW7LQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1oCDosbTToRo304owPW7LQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:23"
+  }
+]

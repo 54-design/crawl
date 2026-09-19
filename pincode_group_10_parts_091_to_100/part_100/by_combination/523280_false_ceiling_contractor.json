@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aim interiors",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder, Interior Decorator",
+    "pincode": "523280",
+    "phone_number": "N/A",
+    "website": "http://aiminteriors.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thennampalayam, Tiruppur, Tamil Nadu 641604",
+    "area": "Thennampalayam",
+    "latitude": 11.0851125,
+    "longitude": 77.3435435,
+    "place_id": "ChIJ7-gGZQAHqTsRii-XXpjsxfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-gGZQAHqTsRii-XXpjsxfQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:05"
+  },
+  {
+    "business_name": "LA Ceilings",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor, Service establishment",
+    "pincode": "523280",
+    "phone_number": "N/A",
+    "website": "https://www.laceilings.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "LA Ceilings, 523280, India",
+    "area": "523280",
+    "latitude": 33.982617499999996,
+    "longitude": -118.30430799999999,
+    "place_id": "ChIJ9QycL8vC6YEREX7qjvKdsAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QycL8vC6YEREX7qjvKdsAk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:05"
+  }
+]

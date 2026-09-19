@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shine bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Giddalur Porumamilla Rd, Mundlapadu, Andhra Pradesh 523367",
+    "area": "523367",
+    "latitude": 15.330376699999999,
+    "longitude": 78.90088589999999,
+    "place_id": "ChIJV84hhynltDsRrDGZBgyKcso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV84hhynltDsRrDGZBgyKcso",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:11"
+  },
+  {
+    "business_name": "THE Caramel Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523367",
+    "phone_number": "+91 85922 84574",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 634,
+    "address": "37-1/421(9), Bhagya Nagar 5th Lane, Near RIMS Hospital, Ramnagar, Ongole, Andhra Pradesh 523001",
+    "area": "Ramnagar",
+    "latitude": 15.489080999999999,
+    "longitude": 80.048097,
+    "place_id": "ChIJUUJdLh8BSzoR-QdupD4k_GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUJdLh8BSzoR-QdupD4k_GI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:14"
+  }
+]

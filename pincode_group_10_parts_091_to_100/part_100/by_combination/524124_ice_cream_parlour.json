@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neela's Kitchen & Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Restaurant",
+    "pincode": "524124",
+    "phone_number": "+91 95731 46415",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "Tada, Andhra Pradesh 524401",
+    "area": "524124",
+    "latitude": 13.5878977,
+    "longitude": 80.03546519999999,
+    "place_id": "ChIJ8xgSagB3TToR1DbzA1ltYto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xgSagB3TToR1DbzA1ltYto",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:04"
+  },
+  {
+    "business_name": "Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "524124",
+    "phone_number": "+91 96514 51750",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Tada, Andhra Pradesh 524401",
+    "area": "524124",
+    "latitude": 13.5872203,
+    "longitude": 80.0348016,
+    "place_id": "ChIJo5qdbkN3TToRbsj9ay4g-Mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5qdbkN3TToRbsj9ay4g-Mo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:04"
+  }
+]

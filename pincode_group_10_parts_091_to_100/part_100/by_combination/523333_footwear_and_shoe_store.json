@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The classic footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523333",
+    "phone_number": "+91 90009 38955",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaganayakula colony, Bestavaripeta, Andhra Pradesh 523334",
+    "area": "Jaganayakula colony",
+    "latitude": 15.549895699999999,
+    "longitude": 79.1017964,
+    "place_id": "ChIJJSIBHU4htTsR1VL68CENjm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSIBHU4htTsR1VL68CENjm0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:29"
+  },
+  {
+    "business_name": "Hitech Smart Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H4H5+QWX, Bus Stand Rd, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.5794851,
+    "longitude": 79.1098713,
+    "place_id": "ChIJLarsJokntTsRt_p7iTnOsEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLarsJokntTsRt_p7iTnOsEA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:29"
+  }
+]

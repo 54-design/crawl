@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru hair style {Classic}",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "523346",
+    "phone_number": "+91 70958 63716",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Government college ground, opposite SBI ATM, Cumbum, pakkana, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum, pakkana",
+    "latitude": 15.584814799999998,
+    "longitude": 79.11334959999999,
+    "place_id": "ChIJ97_xj3UntTsRlfjhw6miXEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97_xj3UntTsRlfjhw6miXEs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:53:33"
+  },
+  {
+    "business_name": "Deepya cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Beauty product supplier, Beauty Products Wholesaler, Cosmetics store, Cosmetic Products Manufacturer, Cosmetics industry, Cosmetics wholesaler",
+    "pincode": "523346",
+    "phone_number": "N/A",
+    "website": "https://www.deepyacosmetics.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "3-77, Thotavaripalem Main Rd, Thotavari Palem, Ipurupalem, Andhra Pradesh 523166",
+    "area": "Thotavari Palem",
+    "latitude": 15.8402237,
+    "longitude": 80.39847089999999,
+    "place_id": "ChIJ52afdpBHSjoRaWUEHynOfO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52afdpBHSjoRaWUEHynOfO4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:53:34"
+  }
+]

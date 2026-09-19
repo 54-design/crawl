@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavan new fancy stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "R6CJ+722, Peda Araveedu, Andhra Pradesh 523320",
+    "area": "523320",
+    "latitude": 15.820649699999999,
+    "longitude": 79.2300195,
+    "place_id": "ChIJ02BAfwA3tTsRbn9COqHeorw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02BAfwA3tTsRbn9COqHeorw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:14"
+  },
+  {
+    "business_name": "Sri Venkateswara Tea stall, groceries & vegetables",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q5WW+5X9, Puchchokdyapalle, Peda Araveedu, Andhra Pradesh 523329",
+    "area": "Puchchokdyapalle",
+    "latitude": 15.795353899999999,
+    "longitude": 79.1975215,
+    "place_id": "ChIJL5zKBgA5tTsRuqf3F2-MXN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5zKBgA5tTsRuqf3F2-MXN4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:14"
+  }
+]

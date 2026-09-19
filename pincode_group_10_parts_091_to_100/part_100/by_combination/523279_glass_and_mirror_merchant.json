@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.B Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass shop",
+    "all_categories": "Glass shop",
+    "pincode": "523279",
+    "phone_number": "+91 95425 59379",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "uppal Depot, Shop no 10-24/1, opp Global international high School peerzadiguda, medchal, Hyderabad, Telangana 500098",
+    "area": "Indira Nagar Colony, Sai Nagar, medchal",
+    "latitude": 17.3975075,
+    "longitude": 78.588291,
+    "place_id": "ChIJTVe1pOifyzsRwJhn1DPlxOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVe1pOifyzsRwJhn1DPlxOs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:14"
+  },
+  {
+    "business_name": "Rathod Glass Agency",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Glass manufacturer, Glass repair service",
+    "pincode": "523279",
+    "phone_number": "+91 93000 01028",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 30,
+    "address": "Shop No. 3, Raipur Ice Factory Building, Fafadih, Raipur, Chhattisgarh 492009",
+    "area": "R.V.H. Colony, Jagriti Nagar, Fafadih",
+    "latitude": 21.2635607,
+    "longitude": 81.6370814,
+    "place_id": "ChIJn3Gjx5PdKDoRSTf16ZHfouM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3Gjx5PdKDoRSTf16ZHfouM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:14"
+  }
+]

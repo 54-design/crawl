@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Interior Design Studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "523302",
+    "phone_number": "+91 77994 49111",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.2342193,
+    "longitude": 80.0443806,
+    "place_id": "ChIJOWYRZxOBSjoRpQyOCQnPFp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWYRZxOBSjoRpQyOCQnPFp0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:20:02"
+  },
+  {
+    "business_name": "SP interior creations",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "523302",
+    "phone_number": "+91 79956 33046",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "62QR+2JQ, Old Checkpost Rd, Arundelpet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Arundelpet",
+    "latitude": 16.2375765,
+    "longitude": 80.0416237,
+    "place_id": "ChIJMZPGdk2BSjoRlOkkppUdCOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZPGdk2BSjoRlOkkppUdCOA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:20:02"
+  }
+]

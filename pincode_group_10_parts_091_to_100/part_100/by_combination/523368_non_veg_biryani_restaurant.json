@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani Darbar",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523368",
+    "phone_number": "+91 96666 23373",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "M493+FGV, Nizamabad - Hyderabad Rd, opposite Joyalukkas, Phulong, Nizamabad, Telangana 503003",
+    "area": "Phulong",
+    "latitude": 18.668591499999998,
+    "longitude": 78.1038375,
+    "place_id": "ChIJe_uET0bbzTsRSppAfZjgt0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_uET0bbzTsRSppAfZjgt0k",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:02"
+  },
+  {
+    "business_name": "Ambur Star Briyani - Thirumullaivoyal",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "523368",
+    "phone_number": "+91 98884 97373",
+    "website": "http://www.amburstarbriyani.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No:58, Madras Thiruvallur High Rd, Lenin Nagar, Thirumullaivoyal, Avadi, Tamil Nadu 600062",
+    "area": "Lenin Nagar, Thirumullaivoyal",
+    "latitude": 13.128772699999999,
+    "longitude": 80.13944819999999,
+    "place_id": "ChIJh6NY9_VjUjoR9Sucwlxg8ZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6NY9_VjUjoR9Sucwlxg8ZE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:05"
+  }
+]

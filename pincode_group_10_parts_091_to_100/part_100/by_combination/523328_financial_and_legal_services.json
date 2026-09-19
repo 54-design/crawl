@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legal Finance Hub",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Legal services",
+    "pincode": "523328",
+    "phone_number": "+91 99900 97154",
+    "website": "https://www.legalfinancehub.com/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Rc 350, near NIB Police chowki, Khora Colony, Sector 62A, Noida, Uttar Pradesh 201020",
+    "area": "Khora Colony, Sector 62A",
+    "latitude": 28.625945599999998,
+    "longitude": 77.3530679,
+    "place_id": "ChIJE1-v8VvlDDkRFRxNmL5SI5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1-v8VvlDDkRFRxNmL5SI5U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:37:21"
+  },
+  {
+    "business_name": "CA",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor",
+    "pincode": "523328",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Water tank line, Veldurthi, Veldhurthy, Andhra Pradesh 522613",
+    "area": "523328",
+    "latitude": 16.34636,
+    "longitude": 79.36689539999999,
+    "place_id": "ChIJEeC_houryjsRcphsp21dO14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeC_houryjsRcphsp21dO14",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:37:21"
+  }
+]

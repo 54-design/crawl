@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Driver",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523335",
+    "phone_number": "+91 90591 79364",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ranga suresh, Pedda Rd, Kandukur, Pedakandukuru, Andhra Pradesh 523336",
+    "area": "523335",
+    "latitude": 15.643526999999999,
+    "longitude": 79.04527379999999,
+    "place_id": "ChIJXyOEGCUjtTsRLiaITBhOxQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyOEGCUjtTsRLiaITBhOxQs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:38"
+  },
+  {
+    "business_name": "Bhuwan motor driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523335",
+    "phone_number": "+91 73822 14141",
+    "website": "http://www.bhuwanmotordrivingschool.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NPC Nadiu colony, opp. police station, Bangarupalem, Andhra Pradesh 517416",
+    "area": "Bangarupalem, kurappali",
+    "latitude": 13.196473699999999,
+    "longitude": 78.916601,
+    "place_id": "ChIJzzaeu8NlrTsRrQXN9xQCXYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzaeu8NlrTsRrQXN9xQCXYg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:40"
+  }
+]

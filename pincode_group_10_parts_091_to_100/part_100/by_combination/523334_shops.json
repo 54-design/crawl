@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali puncher shop",
+    "search_category": "Shops",
+    "primary_category": "Artist",
+    "all_categories": "Artist",
+    "pincode": "523334",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nandyal - Ongole Rd, to, Giddalur, Bestavaripeta, Andhra Pradesh 523334",
+    "area": "to",
+    "latitude": 15.5503073,
+    "longitude": 79.1026315,
+    "place_id": "ChIJxcb_OwghtTsRFKTW_0KyPSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxcb_OwghtTsRFKTW_0KyPSI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:48:49"
+  },
+  {
+    "business_name": "STAR AWARDS & TROPHY & MEMENTOS",
+    "search_category": "Shops",
+    "primary_category": "Trophy shop",
+    "all_categories": "Trophy shop",
+    "pincode": "523334",
+    "phone_number": "+91 88559 36723",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MRO OFFICE ROAD, Sri Nagar Colony, Bestavaripeta, Andhra Pradesh 523334",
+    "area": "Sri Nagar Colony",
+    "latitude": 15.549614199999999,
+    "longitude": 79.1026189,
+    "place_id": "ChIJM8EmIrghtTsRi_PaxwqHCYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8EmIrghtTsRi_PaxwqHCYU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:48:51"
+  }
+]

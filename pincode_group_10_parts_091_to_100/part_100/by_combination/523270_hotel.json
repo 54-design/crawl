@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R K Lodge & Mini Function Hall",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Hotel",
+    "pincode": "523270",
+    "phone_number": "+91 87901 83268",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 20,
+    "address": "R K Lodge & Mini Function Hall, Singarayakonda, Andhra Pradesh 523101",
+    "area": "523270",
+    "latitude": 15.255659,
+    "longitude": 80.0240845,
+    "place_id": "ChIJmQQyTr0LSzoRvHaE3eHusSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQQyTr0LSzoRvHaE3eHusSI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:58:26"
+  },
+  {
+    "business_name": "Satya’s residency",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "523270",
+    "phone_number": "+91 80992 35354",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "Near, Kandukur Rd, Somarajupalle, Andhra Pradesh 523101",
+    "area": "523270",
+    "latitude": 15.2494521,
+    "longitude": 80.02335529999999,
+    "place_id": "ChIJeSzWAioLSzoRDkHsDvgSuAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSzWAioLSzoRDkHsDvgSuAI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:58:26"
+  }
+]

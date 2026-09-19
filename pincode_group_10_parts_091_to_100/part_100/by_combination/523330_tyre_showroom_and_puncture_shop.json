@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arjun Tyres Rajahmundry",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523330",
+    "phone_number": "+91 95425 79032",
+    "website": "https://www.arjuntyres.com/",
+    "rating": 4.2,
+    "reviews_count": 120,
+    "address": "RTC Complex Internal Rd, opp. New Basha Bike Bazar, Tadithota, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Tadithota",
+    "latitude": 16.9991696,
+    "longitude": 81.78228089999999,
+    "place_id": "ChIJP4I9Bn2jNzoRkysSlwisBJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4I9Bn2jNzoRkysSlwisBJw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:10"
+  },
+  {
+    "business_name": "Shriram Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "523330",
+    "phone_number": "+91 99669 16769",
+    "website": "https://www.mrftyres.com/",
+    "rating": 3.7,
+    "reviews_count": 246,
+    "address": "22- 345/2,, Katamanchi,, Chittoor, Andhra Pradesh 517001",
+    "area": "Kattamanchi",
+    "latitude": 13.2282956,
+    "longitude": 79.1108033,
+    "place_id": "ChIJWTjas1JZrTsRoX5qNMZkeoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTjas1JZrTsRoX5qNMZkeoE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:11"
+  }
+]

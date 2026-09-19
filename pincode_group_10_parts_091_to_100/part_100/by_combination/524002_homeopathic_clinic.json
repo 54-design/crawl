@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Harihara Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "524002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2-2-32, Nazir Thota, Nawabpet, Nellore, Andhra Pradesh 524003",
+    "area": "Nazir Thota, Nawabpet",
+    "latitude": 14.4359111,
+    "longitude": 79.9876809,
+    "place_id": "ChIJ55Hg48ONTDoRC2wZx9s0JwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55Hg48ONTDoRC2wZx9s0JwE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:08"
+  },
+  {
+    "business_name": "Gurmeetha homoeo care",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "524002",
+    "phone_number": "+91 63033 81982",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 4, near peddapattivari school, chinna Balayya nagar, Nawabpet, Nellore, Andhra Pradesh 524002",
+    "area": "chinna Balayya nagar, Nawabpet",
+    "latitude": 14.4584158,
+    "longitude": 80.0027741,
+    "place_id": "ChIJSQeKbACNTDoRA8GCCldSgMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQeKbACNTDoRA8GCCldSgMQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:08"
+  }
+]

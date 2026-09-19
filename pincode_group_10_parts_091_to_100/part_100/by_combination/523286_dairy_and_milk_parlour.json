@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "523286",
+    "phone_number": "+91 92479 09247",
+    "website": "https://www.hapdaily.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "No. 9-2-32, Gandhi Rd, Gadiyaram Vari Veedhi, Bandla Metla, Ongole, Andhra Pradesh 523001",
+    "area": "Gadiyaram Vari Veedhi, Bandla Metla",
+    "latitude": 15.505889,
+    "longitude": 80.0417332,
+    "place_id": "ChIJe5GYcUEBSzoRljd5J7tMUQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5GYcUEBSzoRljd5J7tMUQg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:11:56"
+  },
+  {
+    "business_name": "HAP daily",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy, Dairy store, Dairy Products Supplier, Food products supplier, Health food store, Ice cream shop, Milk delivery service",
+    "pincode": "523286",
+    "phone_number": "+91 81210 97139",
+    "website": "https://www.hapdaily.com/",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "34-1-07, Raja Panagal Rd, Gadiyaram Vari Veedhi, Bandla Metla, Ongole, Andhra Pradesh 523001",
+    "area": "Gadiyaram Vari Veedhi, Bandla Metla",
+    "latitude": 15.503369099999999,
+    "longitude": 80.0450759,
+    "place_id": "ChIJldmF0wUBSzoRxllFYGe5G1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldmF0wUBSzoRxllFYGe5G1U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:11:56"
+  }
+]

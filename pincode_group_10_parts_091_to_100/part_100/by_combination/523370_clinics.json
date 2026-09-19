@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri renuka yellamma vet medicals",
+    "search_category": "Clinics",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "523370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "STAR LODGE, Bus Stand Rd, near cumbum, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.579976299999998,
+    "longitude": 79.1100496,
+    "place_id": "ChIJ03qiOmEntTsRa8V1-oj6Q9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03qiOmEntTsRa8V1-oj6Q9c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:56"
+  },
+  {
+    "business_name": "Venkata ramana Digital xray",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "H4J6+CQ5, Bus Stand Rd, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.581010399999998,
+    "longitude": 79.1119959,
+    "place_id": "ChIJPb14CfsntTsRxr_CMhLkrtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb14CfsntTsRxr_CMhLkrtI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitanya Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 10,
+    "address": "3-2-44a, Ramakrishnapuram, Vinnamala, Andhra Pradesh 524126",
+    "area": "Ramakrishnapuram",
+    "latitude": 13.9084951,
+    "longitude": 79.89923689999999,
+    "place_id": "ChIJLbkhZ74aTToRaXDaOALT3mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbkhZ74aTToRaXDaOALT3mw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:06"
+  },
+  {
+    "business_name": "Dr. chandrakala(SSM Hospital, Naidupeta, Andhra Pradesh",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "524126",
+    "phone_number": "+91 86232 77001",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "13°54'31.0\"N 79°53'54.8\"E, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.908610999999999,
+    "longitude": 79.898561,
+    "place_id": "ChIJLXA-ar4aTToRzf0eBkIuF4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXA-ar4aTToRzf0eBkIuF4w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:06"
+  }
+]

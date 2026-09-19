@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doorstep Full Car Detailing Service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "523326",
+    "phone_number": "+91 70239 91074",
+    "website": "https://www.facebook.com/dootstepcarwashservice/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D.no:45-38 2/B, near SKML sweet shop, Akkayyapalem, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Akkayyapalem",
+    "latitude": 17.7352775,
+    "longitude": 83.29995249999999,
+    "place_id": "ChIJScGG3y5DOToR9bWdiwzjVkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScGG3y5DOToR9bWdiwzjVkA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:44"
+  },
+  {
+    "business_name": "Auto Tools & Chemical",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "523326",
+    "phone_number": "+91 97175 29021",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "C 245, Main 100 Feet Rd, West Jyoti Nagar, Durgapuri Extension, Hardevpuri, Shahdara, Delhi, 110093",
+    "area": "West Jyoti Nagar, Durgapuri Extension, Hardevpuri, Shahdara",
+    "latitude": 28.6895396,
+    "longitude": 77.2958894,
+    "place_id": "ChIJnzbojJb7DDkRciYXPZnv-mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzbojJb7DDkRciYXPZnv-mM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:45"
+  }
+]

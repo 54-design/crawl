@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjaneyulu Salon Shop",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "523315",
+    "phone_number": "+91 90108 21885",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jagadeeswari Theatre, Road, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.745268399999999,
+    "longitude": 79.2689365,
+    "place_id": "ChIJy2F-pVgxtTsRSB1DE3sSLIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2F-pVgxtTsRSB1DE3sSLIM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:27:26"
+  },
+  {
+    "business_name": "SEVEN HILLS",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "523315",
+    "phone_number": "+91 82979 98541",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Shop No 01, RAMALAKSHMAN STREET, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.7419516,
+    "longitude": 79.272238,
+    "place_id": "ChIJTQ_lNbsxtTsREd9zqmlYSYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQ_lNbsxtTsREd9zqmlYSYs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:27:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Adda",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "523372",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chai Adda, 563-A, Gajulapalli, Andhra Pradesh 518583",
+    "area": "523372",
+    "latitude": 15.4007955,
+    "longitude": 78.61310879999999,
+    "place_id": "ChIJy68DBQBVtDsRMXxBl2RsxYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy68DBQBVtDsRMXxBl2RsxYQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:07:20"
+  },
+  {
+    "business_name": "SMAKH Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523372",
+    "phone_number": "+91 97034 86846",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 36,
+    "address": "Gajulapalle Metta Main Road Ongole, Ongole - Kurnool Main Rd, Gajulapalli, Andhra Pradesh 518583",
+    "area": "523372",
+    "latitude": 15.399748599999999,
+    "longitude": 78.61787,
+    "place_id": "ChIJ6Tkkp_lVtDsRVrWyG_jPR5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tkkp_lVtDsRVrWyG_jPR5o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:07:20"
+  }
+]

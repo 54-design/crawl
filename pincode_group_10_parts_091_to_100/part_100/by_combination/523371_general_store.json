@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BRAHAM SHOP",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523371",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "P894+24J, Rayavaram, Andhra Pradesh 523371",
+    "area": "523371",
+    "latitude": 15.7175861,
+    "longitude": 79.305274,
+    "place_id": "ChIJc9CDi9wztTsRtHm8MAdh9-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9CDi9wztTsRtHm8MAdh9-0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:05:24"
+  },
+  {
+    "business_name": "గుండె బొమ్ము గాలయ్య కిరాణా",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523371",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M7GC+PH8, Kethagudipi, Surepalle, Andhra Pradesh 523371",
+    "area": "523371",
+    "latitude": 15.6768883,
+    "longitude": 79.27013199999999,
+    "place_id": "ChIJ7UqIWAAvtTsRYH1QcPqqT04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UqIWAAvtTsRYH1QcPqqT04",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:05:26"
+  }
+]

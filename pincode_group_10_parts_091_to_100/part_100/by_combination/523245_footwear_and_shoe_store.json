@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walkway Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523245",
+    "phone_number": "+91 471 401 0804",
+    "website": "https://stores.walkwayshoes.com/walkway-shoes-mall-of-travancore-pettah-village-thiruvananthapuram-kerala",
+    "rating": 4.7,
+    "reviews_count": 138,
+    "address": "1st Flr, Mall of Travancore, Pettah, Thiruvananthapuram, Keralam 695026",
+    "area": "Pettah",
+    "latitude": 8.4872186,
+    "longitude": 76.9264388,
+    "place_id": "ChIJuxIwaMm7BTsRk1bHFZ9ITQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxIwaMm7BTsRk1bHFZ9ITQI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:50"
+  },
+  {
+    "business_name": "Navi Mumbai Shoes Corner",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523245",
+    "phone_number": "+91 70218 01538",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Sector 1, Shiravane, Thane Belapur Road, Taha, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Sector 1, Taha, Nerul",
+    "latitude": 19.0494078,
+    "longitude": 73.0198467,
+    "place_id": "ChIJlUdhifnB5zsRbBL1HdisFvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUdhifnB5zsRbBL1HdisFvg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:50"
+  }
+]

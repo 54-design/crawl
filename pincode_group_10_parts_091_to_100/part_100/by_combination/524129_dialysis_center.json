@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NephroPlus Dialysis & Kidney Care Clinic in Srikalahasti",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "524129",
+    "phone_number": "+91 99087 62345",
+    "website": "https://www.nephroplus.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Medical Superintendent Govt Hospital, Srikalahasti, Andhra Pradesh 517644",
+    "area": "524129",
+    "latitude": 13.7514027,
+    "longitude": 79.7107012,
+    "place_id": "ChIJNX9nOlk_TToRw6va2y1wPRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX9nOlk_TToRw6va2y1wPRE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:31:46"
+  },
+  {
+    "business_name": "Apollo Dialysis Clinic - Punganuru",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Medical clinic",
+    "pincode": "524129",
+    "phone_number": "+91 84478 95815",
+    "website": "https://www.apollodialysis.com/",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "Hospital Chowk, Dist, Punganur, Andhra Pradesh 517247",
+    "area": "Rampalli",
+    "latitude": 13.395785199999999,
+    "longitude": 78.5551577,
+    "place_id": "ChIJqc63ku17sjsRjNOtdGRp8OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc63ku17sjsRjNOtdGRp8OU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:31:47"
+  }
+]

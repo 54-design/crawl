@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "523265",
+    "phone_number": "+91 98495 21126",
+    "website": "https://www.instagram.com/ds_pkl_1989?igsh=MzhoaGN5ZTJlZjU2",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Karumuri Vari St, Palakollu, Andhra Pradesh 534260",
+    "area": "523265",
+    "latitude": 16.5161052,
+    "longitude": 81.7297834,
+    "place_id": "ChIJQVTz6knbNzoRyQBqx97TobY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVTz6knbNzoRyQBqx97TobY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:56:48"
+  },
+  {
+    "business_name": "Jaya Shri Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Office supply store, Book store",
+    "pincode": "523265",
+    "phone_number": "+91 99483 15167",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "Mavullama, Ammawari Temple Street, Gandhinagar, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Gandhinagar",
+    "latitude": 16.5430142,
+    "longitude": 81.524011,
+    "place_id": "ChIJqS2BHa_SNzoRcRiXEEctNms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqS2BHa_SNzoRcRiXEEctNms",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:56:50"
+  }
+]

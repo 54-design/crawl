@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phani Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523373",
+    "phone_number": "+91 94400 94444",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 220,
+    "address": "GGV5+8WV, Suryanarayana Puram, Tammi Raju Nagar, Bhimavaram, Andhra Pradesh 534202",
+    "area": "Suryanarayana Puram, Tammi Raju Nagar",
+    "latitude": 16.543363499999998,
+    "longitude": 81.5097955,
+    "place_id": "ChIJn3uPW1EtNjoRj2DXNeK5NrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3uPW1EtNjoRj2DXNeK5NrM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:09:41"
+  },
+  {
+    "business_name": "Mohan Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523373",
+    "phone_number": "+91 99499 66995",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "CMQW+24X, Narsapur - Mogaltur Rd, beside Old police station, Roypeta, Narsapur, Andhra Pradesh 534275",
+    "area": "Roypeta",
+    "latitude": 16.4376142,
+    "longitude": 81.6953528,
+    "place_id": "ChIJ8-jBptDZNzoRXFVVkRw6Xqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-jBptDZNzoRXFVVkRw6Xqs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:09:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "karthik electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523367",
+    "phone_number": "+91 90523 63014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kristam Setti Palle, Andhra Pradesh 523357",
+    "area": "523367",
+    "latitude": 15.369003399999999,
+    "longitude": 78.8822666,
+    "place_id": "ChIJFVqmlfjktDsRX5nYagT6k2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVqmlfjktDsRX5nYagT6k2s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:48"
+  },
+  {
+    "business_name": "Pavan Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "523367",
+    "phone_number": "+91 99491 14485",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2Q5G+23C, Lakshmivarapu Pet, Seshayya Metta, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "Lakshmivarapu Pet, Seshayya Metta",
+    "latitude": 17.0075517,
+    "longitude": 81.7751562,
+    "place_id": "ChIJsWm7EAukNzoRcndKBgdsahU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWm7EAukNzoRcndKBgdsahU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:50"
+  }
+]

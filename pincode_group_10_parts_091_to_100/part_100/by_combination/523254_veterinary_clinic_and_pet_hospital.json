@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Chirag Dave's Pets' Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "523254",
+    "phone_number": "+91 79 4005 9855",
+    "website": "http://www.petsclinic.co.in/",
+    "rating": 4.3,
+    "reviews_count": 564,
+    "address": "GF-1 Ravija Plaza, Beside Times Square Arcade, Thaltej - Shilaj Rd, Thaltej, Ahmedabad, Gujarat 380059",
+    "area": "Thaltej",
+    "latitude": 23.0499495,
+    "longitude": 72.5017524,
+    "place_id": "ChIJm6m_sF6bXjkR3o6OPsR7F-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6m_sF6bXjkR3o6OPsR7F-c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:45:10"
+  },
+  {
+    "business_name": "Oasis Pet Care",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet groomer, Pet store",
+    "pincode": "523254",
+    "phone_number": "+91 96633 31798",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 229,
+    "address": "No. 136, Chandrasekarapura, Meenakshi Gardens, Akshayanagar, Bengaluru, Karnataka 560076",
+    "area": "Chandrasekarapura, Meenakshi Gardens, Akshayanagar",
+    "latitude": 12.861182699999999,
+    "longitude": 77.6050163,
+    "place_id": "ChIJn5MDyR5rrjsRiLvpLWgWsfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5MDyR5rrjsRiLvpLWgWsfA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:45:11"
+  }
+]

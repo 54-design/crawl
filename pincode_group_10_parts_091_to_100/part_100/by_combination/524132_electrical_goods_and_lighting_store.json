@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Electrical and Plumbing works",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "524132",
+    "phone_number": "+91 63002 64365",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Friends Electrical and Plumbing works, opposite Boys Hostel, Rani Peta, Venkatagiri, Akbarnivasa Khandrika, Andhra Pradesh 524132",
+    "area": "Rani Peta",
+    "latitude": 13.9494615,
+    "longitude": 79.5900644,
+    "place_id": "ChIJOeB1PiclTToR9E355-1lidg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeB1PiclTToR9E355-1lidg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:41"
+  },
+  {
+    "business_name": "Andhra Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "524132",
+    "phone_number": "+91 85662 44103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10/178, Kadapa - Tirupati Rd, Old bustand, Jagadampalli, Koduru, Andhra Pradesh 516101",
+    "area": "Old bustand, Jagadampalli",
+    "latitude": 13.959052199999999,
+    "longitude": 79.3501024,
+    "place_id": "ChIJ4z36mZ3UsjsR9gfMAqBHwtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4z36mZ3UsjsR9gfMAqBHwtE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:43"
+  }
+]

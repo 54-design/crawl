@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani bites",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523262",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "centre gate, bus stand, Pandaripuram, Ongole, Andhra Pradesh 523001",
+    "area": "Pandaripuram",
+    "latitude": 15.5116129,
+    "longitude": 80.0415012,
+    "place_id": "ChIJFa-_opcBSzoRbAuR-jWftsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFa-_opcBSzoRbAuR-jWftsY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:50:11"
+  },
+  {
+    "business_name": "AAHA KITCHEN",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523262",
+    "phone_number": "+91 96528 11059",
+    "website": "http://www.aahakitchen.in/",
+    "rating": 4.5,
+    "reviews_count": 96,
+    "address": "5-302, 7th Cross Rd, Venkateswara Nagar, Ongole, Andhra Pradesh 523002",
+    "area": "Venkateswara Nagar",
+    "latitude": 15.514488,
+    "longitude": 80.0392463,
+    "place_id": "ChIJTeYFSwABSzoRI1bfEE28psE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTeYFSwABSzoRI1bfEE28psE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:50:11"
+  }
+]

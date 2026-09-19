@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maheswari MMS Shop",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "523328",
+    "phone_number": "+91 85208 05318",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-4, Bimma Vari Bazar, near Mpp School, Durgi, Andhra Pradesh 522612",
+    "area": "523328",
+    "latitude": 16.425095199999998,
+    "longitude": 79.5385005,
+    "place_id": "ChIJUaVkAqBRNToRtlXsuKnqv54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUaVkAqBRNToRtlXsuKnqv54",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:36:45"
+  },
+  {
+    "business_name": "Kajal outcall spa & home services",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "523328",
+    "phone_number": "+91 62064 18184",
+    "website": "https://kajal.outcallspa.online/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rajiv Gandhi Nagar Gachibowli Hyderabad Telangana 500032 Gachhibowli, Telangana 500032",
+    "area": "Rajiv gandhi Nagar, Gachibowli",
+    "latitude": 17.4440839,
+    "longitude": 78.3611485,
+    "place_id": "ChIJF15mTgCTyzsRhciQlrF7L4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF15mTgCTyzsRhciQlrF7L4U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:36:48"
+  }
+]

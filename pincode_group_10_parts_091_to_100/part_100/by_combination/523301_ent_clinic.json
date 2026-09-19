@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavani Hospitals",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "12-206, Chirala Rd, Kasu Venkatareddy Nagar, Manu Kondavari Palem, Chilakaluripet, Manukondavari palem, Andhra Pradesh 522616",
+    "area": "Kasu Venkatareddy Nagar, Manu Kondavari Palem",
+    "latitude": 16.0828366,
+    "longitude": 80.1726889,
+    "place_id": "ChIJG_tIKwBjSjoRy1dXeyZwZNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_tIKwBjSjoRy1dXeyZwZNs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:17:49"
+  },
+  {
+    "business_name": "Sivaramaiah Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "523301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "35R7+6PC, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "523301",
+    "latitude": 16.0905669,
+    "longitude": 80.1642705,
+    "place_id": "ChIJgQiwuxRjSjoRR4hgXpgQlNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQiwuxRjSjoRR4hgXpgQlNM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:17:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Anshara Shaik",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "College Rd, Bhagyanagar Colony, Kambham, Andhra Pradesh 523333",
+    "area": "Bhagyanagar Colony",
+    "latitude": 15.5810421,
+    "longitude": 79.1096242,
+    "place_id": "ChIJKbUYB3whtTsR-lJe-Qg-17M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbUYB3whtTsR-lJe-Qg-17M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:21"
+  },
+  {
+    "business_name": "Narasimha Tent House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G4X2+8M6, Sri Nagar Colony, Bestavaripeta, Andhra Pradesh 523334",
+    "area": "Sri Nagar Colony",
+    "latitude": 15.548283099999999,
+    "longitude": 79.10163829999999,
+    "place_id": "ChIJrZfqTAAhtTsRfOLByE0_EKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZfqTAAhtTsRfOLByE0_EKI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:21"
+  }
+]

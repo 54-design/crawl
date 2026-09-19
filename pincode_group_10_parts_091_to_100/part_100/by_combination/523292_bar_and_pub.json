@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rupali",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523292",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62RP+PJ, Somarajupalle, Andhra Pradesh 523104",
+    "area": "523292",
+    "latitude": 15.241818599999998,
+    "longitude": 80.0365796,
+    "place_id": "ChIJVSknHgALSzoRD7jBQ5FchyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSknHgALSzoRD7jBQ5FchyE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:15:44"
+  },
+  {
+    "business_name": "Pamur",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523292",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bungabhavi street, 8-458/a, near paeasabharathi school, Singarayakonda, Andhra Pradesh 523101",
+    "area": "523292",
+    "latitude": 15.250074499999998,
+    "longitude": 80.0211892,
+    "place_id": "ChIJae5xEgALSzoR20x_uaZdrDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJae5xEgALSzoR20x_uaZdrDg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:15:44"
+  }
+]

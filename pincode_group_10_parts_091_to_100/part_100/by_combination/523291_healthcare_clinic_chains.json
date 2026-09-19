@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healthcare Hospitals",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523291",
+    "phone_number": "+91 72411 22333",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 608,
+    "address": "hdfc bank, s turning up satairs to, Akividu, Andhra Pradesh 534235",
+    "area": "523291",
+    "latitude": 16.5817043,
+    "longitude": 81.37674179999999,
+    "place_id": "ChIJD37pqRcxNjoR2Iu72_KtU_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD37pqRcxNjoR2Iu72_KtU_A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:18"
+  },
+  {
+    "business_name": "Care Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523291",
+    "phone_number": "+91 86762 32933",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 76,
+    "address": "Vatsalya Hospital, Katuru Rd, beside charan poornima diabetic hospital, Gandigunta, Vuyyuru, Andhra Pradesh 521165",
+    "area": "Gandigunta",
+    "latitude": 16.3679378,
+    "longitude": 80.8438621,
+    "place_id": "ChIJH_m2hE8ANjoRXtWSNZi9qBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_m2hE8ANjoRXtWSNZi9qBs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:18"
+  }
+]

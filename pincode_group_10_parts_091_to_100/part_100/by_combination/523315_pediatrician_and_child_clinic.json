@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vennela Children's Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "523315",
+    "phone_number": "+91 82928 54747",
+    "website": "https://www.vennelachildrenshospital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Guntur Rd, beside Ramalinga Reddy Gari Eye Hospital, Barampet, Narasaraopeta, Andhra Pradesh 522601",
+    "area": "Barampet",
+    "latitude": 16.2367478,
+    "longitude": 80.0556531,
+    "place_id": "ChIJ3cXNukaBSjoRSpCOJM1NgVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cXNukaBSjoRSpCOJM1NgVs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:59"
+  },
+  {
+    "business_name": "Riya General and Children Hospital, Markapur",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523315",
+    "phone_number": "+91 70132 51400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivaji Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Shivaji Nagar",
+    "latitude": 15.7385329,
+    "longitude": 79.2640736,
+    "place_id": "ChIJL2RCkcYxtTsRdZZcxNRZ4Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2RCkcYxtTsRdZZcxNRZ4Y0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:59"
+  }
+]

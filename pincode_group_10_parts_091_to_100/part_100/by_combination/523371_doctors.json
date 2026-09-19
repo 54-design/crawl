@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Mitta Nikhil Reddy",
+    "search_category": "Doctors",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "523371",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/999, Tarlupadu Rd, Thotavari St, back side, Srinagar Colony, Markapur, Andhra Pradesh 523316",
+    "area": "back side, Srinagar Colony",
+    "latitude": 15.7321361,
+    "longitude": 79.2640138,
+    "place_id": "ChIJR0DkCQAxtTsR8m2KP5-XIvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0DkCQAxtTsR8m2KP5-XIvs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:05:46"
+  },
+  {
+    "business_name": "Noorulla first aid Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523371",
+    "phone_number": "+91 94403 22623",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside flyover, near airtel tower, Rayavaram, Andhra Pradesh 523371",
+    "area": "523371",
+    "latitude": 15.7185928,
+    "longitude": 79.3044676,
+    "place_id": "ChIJH4BxvH0ztTsR-__aeGQAyI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4BxvH0ztTsR-__aeGQAyI4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:05:48"
+  }
+]

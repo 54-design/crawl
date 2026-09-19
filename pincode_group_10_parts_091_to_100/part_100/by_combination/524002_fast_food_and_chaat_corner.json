@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RKRI Food court",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "524002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1149,
+    "address": "CXHG+G6J, Mini Bypass Road, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Magunta Layout",
+    "latitude": 14.4288408,
+    "longitude": 79.9755146,
+    "place_id": "ChIJix06NDvzTDoRbqZ26Xw50lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJix06NDvzTDoRbqZ26Xw50lk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:12:55"
+  },
+  {
+    "business_name": "CHAAT EXPRESS",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Panipuri shop, Cafe",
+    "pincode": "524002",
+    "phone_number": "+91 94939 99955",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 43,
+    "address": "opp. Vanam restaurant, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Magunta Layout",
+    "latitude": 14.4345828,
+    "longitude": 79.976603,
+    "place_id": "ChIJl1Nagi_zTDoRv6sdkLKzlJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1Nagi_zTDoRv6sdkLKzlJw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:12:57"
+  }
+]

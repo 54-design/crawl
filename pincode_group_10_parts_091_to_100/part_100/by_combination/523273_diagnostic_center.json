@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "523273",
+    "phone_number": "+91 99899 72426",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 216,
+    "address": "Government Hospital Rd, near Yadava Bavi, Nandigama, Andhra Pradesh 521185",
+    "area": "523273",
+    "latitude": 16.772753899999998,
+    "longitude": 80.2881949,
+    "place_id": "ChIJXTBkdTu9NToRfScEvfW5VG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTBkdTu9NToRfScEvfW5VG8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:24"
+  },
+  {
+    "business_name": "Om Sri Amma Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "523273",
+    "phone_number": "+91 92914 02286",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 43,
+    "address": "Q7FJ+4PX, Ramannapet Rd, Nehru Nagar, Nandigama, Andhra Pradesh 521185",
+    "area": "Nehru Nagar",
+    "latitude": 16.772868199999998,
+    "longitude": 80.28184639999999,
+    "place_id": "ChIJEZV60Ku8NToRm3uI2zkYwgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZV60Ku8NToRm3uI2zkYwgY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:24"
+  }
+]

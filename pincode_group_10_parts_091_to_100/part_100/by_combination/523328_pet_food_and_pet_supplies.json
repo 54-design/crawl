@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pets n dogs",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Dog breeder",
+    "pincode": "523328",
+    "phone_number": "+91 95815 24730",
+    "website": "https://www.instagram.com/petsndogs_vizag?igsh=MWlqd2FqdGR5eGJycA==",
+    "rating": 4.8,
+    "reviews_count": 100,
+    "address": "Marripalem Main Rd, Sai Nagar, Marripalem, Visakhapatnam, Andhra Pradesh 530018",
+    "area": "Sai Nagar, Marripalem",
+    "latitude": 17.740283599999998,
+    "longitude": 83.2515645,
+    "place_id": "ChIJrwZY5ZZpOToRsxuXitSnYCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwZY5ZZpOToRsxuXitSnYCo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:56"
+  },
+  {
+    "business_name": "VK Pet Mart",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "523328",
+    "phone_number": "+91 73308 05079",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No:2, H.No:5-2-41/B, Ramalayam Rd, near Ramalayam temple, Shanthi Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Shanthi Nagar, Kukatpally",
+    "latitude": 17.487010899999998,
+    "longitude": 78.4132339,
+    "place_id": "ChIJaQXGt52RyzsRQC9fmfUI3lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQXGt52RyzsRQC9fmfUI3lQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REDDY WATER PLANT",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523315",
+    "phone_number": "+91 96427 66676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Toorpu Veedhi, Collage Road, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.740791799999998,
+    "longitude": 79.2735429,
+    "place_id": "ChIJL3sHn4kxtTsRcrcT6HTEh_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3sHn4kxtTsRcrcT6HTEh_U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:44"
+  },
+  {
+    "business_name": "RR WINES",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523315",
+    "phone_number": "+91 94402 53297",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C4, Mandal Revenue Office, 1/213, Cumbum Rd, Srinagar Colony, Markapur, Andhra Pradesh 523316",
+    "area": "Srinagar Colony",
+    "latitude": 15.7377291,
+    "longitude": 79.26714729999999,
+    "place_id": "ChIJZyDtiGsxtTsRNsKKu2QGj0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyDtiGsxtTsRNsKKu2QGj0c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:44"
+  }
+]

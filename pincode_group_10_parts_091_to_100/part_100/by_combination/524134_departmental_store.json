@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "524134",
+    "phone_number": "+91 97059 70579",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "6G2M+FWV, Bazzar St, Rapur, Andhra Pradesh 524408",
+    "area": "524134",
+    "latitude": 14.201236699999999,
+    "longitude": 79.5347838,
+    "place_id": "ChIJbdSEgV7QTDoR2c5STyrT_j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdSEgV7QTDoR2c5STyrT_j4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:36:47"
+  },
+  {
+    "business_name": "Rishi Super Market",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "524134",
+    "phone_number": "+91 99599 96468",
+    "website": "https://www.rishisupermarket.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Andhe Reddaiah Nethivari Palli (Village, Chitvel (Mandal, Post, Venkotarajupalle, Andhra Pradesh 516110",
+    "area": "Venkotarajupalle",
+    "latitude": 14.0905252,
+    "longitude": 79.3570723,
+    "place_id": "ChIJ-XH-vv8rszsR0Ot3Rk_YGa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XH-vv8rszsR0Ot3Rk_YGa8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:36:47"
+  }
+]

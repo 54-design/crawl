@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "523281",
+    "phone_number": "+91 63056 78431",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, RTC Rd, Vengamamba Nagar, Vinjamur, Andhra Pradesh 524228",
+    "area": "Vengamamba Nagar",
+    "latitude": 14.8371993,
+    "longitude": 79.5791102,
+    "place_id": "ChIJ2688giFZSzoRAWgka3bvgHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2688giFZSzoRAWgka3bvgHA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:10:26"
+  },
+  {
+    "business_name": "Apollo Pharmacy Kavali Main Road",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "523281",
+    "phone_number": "+91 79 4747 9373",
+    "website": "https://www.apollopharmacy.in/?utm_source=gmb&utm_medium=organic&utm_campaign=sulekhapromanage-apollo-pharmacy",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Vaddi Palem, Kavali, Andhra Pradesh 524201",
+    "area": "Vaddi Palem",
+    "latitude": 14.9144809,
+    "longitude": 79.993172,
+    "place_id": "ChIJ2R01n_N7SzoRddrEIBcgjhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2R01n_N7SzoRddrEIBcgjhw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:10:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Bike Garage",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "523370",
+    "phone_number": "+91 99854 97511",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganesh Plaza, 7-92c-4, Markapur Road, beside Ganesh Electrical, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.5808296,
+    "longitude": 79.11129509999999,
+    "place_id": "ChIJ3S8V0nsntTsR9SM0BAA2Sww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3S8V0nsntTsR9SM0BAA2Sww",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:08"
+  },
+  {
+    "business_name": "SR Honda NEW Site",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Honda dealer",
+    "pincode": "523370",
+    "phone_number": "+91 83283 48879",
+    "website": "https://www.google.com/maps/dir//Cumbum,+Andhra+Pradesh+523333/@15.5800679,79.1131562,94m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x3bb520ce57bcbe29:0x62eb27355a7aa115!2m2!1d79.1125135!2d15.5898209!3e3",
+    "rating": 1,
+    "reviews_count": 3,
+    "address": "By Pass Road, Cumbum, Andhra Pradesh 523333",
+    "area": "Cumbum, Nehru Nagar",
+    "latitude": 15.589849099999999,
+    "longitude": 79.11252329999999,
+    "place_id": "ChIJObdtrrcntTsRGa10D4E3bbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObdtrrcntTsRGa10D4E3bbA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:08"
+  }
+]

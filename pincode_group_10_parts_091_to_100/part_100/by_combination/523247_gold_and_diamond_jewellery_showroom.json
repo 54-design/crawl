@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.M Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523247",
+    "phone_number": "+91 86442 23852",
+    "website": "http://www.mmjewellers.in/",
+    "rating": 4.7,
+    "reviews_count": 729,
+    "address": "7-28-103, Anjaneya Pantulu Street, Ganganamma Peta, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Ganganamma Peta, Ramalingeswara Pet",
+    "latitude": 16.2395358,
+    "longitude": 80.64752779999999,
+    "place_id": "ChIJjROuzA4GSjoRMxrgo7mBp2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjROuzA4GSjoRMxrgo7mBp2E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:26"
+  },
+  {
+    "business_name": "Jain Gold",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Gold dealer, Goldsmith, Jewelry designer, Silversmith",
+    "pincode": "523247",
+    "phone_number": "+91 861 231 9131",
+    "website": "https://atelierbyjaingold.in/",
+    "rating": 4.7,
+    "reviews_count": 924,
+    "address": "Achari St, Ramesh Reddy Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Ramesh Reddy Nagar",
+    "latitude": 14.4471534,
+    "longitude": 79.9802564,
+    "place_id": "ChIJr7_Qh8yMTDoRDSOzyomugvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7_Qh8yMTDoRDSOzyomugvg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:26"
+  }
+]

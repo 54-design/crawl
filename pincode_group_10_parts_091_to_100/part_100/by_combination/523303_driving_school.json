@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elisha's House",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XVX6+574, Pittambanda, Enugupalem, Andhra Pradesh 522649",
+    "area": "Pittambanda",
+    "latitude": 15.9978818,
+    "longitude": 79.8607071,
+    "place_id": "ChIJLSo8qYOTSjoRpYOM8BQvoRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSo8qYOTSjoRpYOM8BQvoRQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:21:44"
+  },
+  {
+    "business_name": "Pujitha Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523303",
+    "phone_number": "+91 94406 46104",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 105,
+    "address": "VW9G+55X, Ravulapalem - Mandapeta Rd, Gandhi Nagar, Mandapeta, Andhra Pradesh 533308",
+    "area": "Gandhi Nagar",
+    "latitude": 16.867998,
+    "longitude": 81.92548719999999,
+    "place_id": "ChIJffIjh5OWNzoRDF8ExsPMjrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffIjh5OWNzoRDF8ExsPMjrc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:21:45"
+  }
+]

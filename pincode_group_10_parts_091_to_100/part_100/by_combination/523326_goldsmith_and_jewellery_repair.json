@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyothirlinga Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "H2H3+XJ5, Unnamed Road, Amalapuram, Andhra Pradesh 533201",
+    "area": "523326",
+    "latitude": 16.5798859,
+    "longitude": 82.0040941,
+    "place_id": "ChIJ3StITqnvNzoRFpazsOW63oI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3StITqnvNzoRFpazsOW63oI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:25"
+  },
+  {
+    "business_name": "Yasoram Silver Mall",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523326",
+    "phone_number": "+91 80866 13613",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 135,
+    "address": "Court Rd, near District Hospital, Palakkad, Santhi Nagar, Sultanpet, Palakkad, Keralam 678001",
+    "area": "Santhi Nagar, Sultanpet",
+    "latitude": 10.770213199999999,
+    "longitude": 76.6577913,
+    "place_id": "ChIJlRdgw-VtqDsRHNfvpP7gn2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRdgw-VtqDsRHNfvpP7gn2Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ram Kids",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Nursery school",
+    "pincode": "523246",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TV Tower, Road, ASR Nagar, Bhimavaram, Andhra Pradesh 534202",
+    "area": "ASR Nagar",
+    "latitude": 16.5402202,
+    "longitude": 81.50860229999999,
+    "place_id": "ChIJi9vavlEtNjoRSNkznDa3y7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9vavlEtNjoRSNkznDa3y7w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:30"
+  },
+  {
+    "business_name": "Ritzy Schools Tanuku",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "523246",
+    "phone_number": "+91 94907 18626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House No 34-12, 20, Sthri Samajam Rd, beside Rotary Club, Venkatarayapuram, Sajjapuram, Andhra Pradesh 534211",
+    "area": "Venkatarayapuram",
+    "latitude": 16.7517084,
+    "longitude": 81.6803699,
+    "place_id": "ChIJt9Zg6vm3NzoRBGepbmOAqts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9Zg6vm3NzoRBGepbmOAqts",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:30"
+  }
+]

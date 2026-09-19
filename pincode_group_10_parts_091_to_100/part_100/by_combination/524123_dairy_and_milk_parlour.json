@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirumala Milk Products",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "524123",
+    "phone_number": "+91 1800 419 1070",
+    "website": "http://www.tirumalamilk.com/",
+    "rating": 4,
+    "reviews_count": 214,
+    "address": "CXRG+825, opp. raithu bazaar, Somasekara Puram, Nellore, Andhra Pradesh 524003",
+    "area": "Somasekara Puram",
+    "latitude": 14.4407693,
+    "longitude": 79.9751179,
+    "place_id": "ChIJoxTQhy3zTDoRo1B_vf_kBdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxTQhy3zTDoRo1B_vf_kBdQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:24:01"
+  },
+  {
+    "business_name": "Arokya Milk Center",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "524123",
+    "phone_number": "N/A",
+    "website": "https://www.hap.in/arokya/",
+    "rating": 4,
+    "reviews_count": 11,
+    "address": "524137, 3-2-28, Kovur Main Rd, PRR Colony, Chinnapadugupadu, Kovur, Andhra Pradesh 524137",
+    "area": "PRR Colony, Chinnapadugupadu",
+    "latitude": 14.500138399999999,
+    "longitude": 79.98532,
+    "place_id": "ChIJz4u1b12MTDoRMC4uC-fXeGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4u1b12MTDoRMC4uC-fXeGU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:24:01"
+  }
+]

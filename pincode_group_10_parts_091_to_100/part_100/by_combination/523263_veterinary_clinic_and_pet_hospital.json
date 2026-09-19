@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kurnool Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet groomer, Pet supply store, Veterinary pharmacy",
+    "pincode": "523263",
+    "phone_number": "+91 81868 68612",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 82,
+    "address": "NH 40, Sri Nagar Colony, Salam Nagar, B Camp, Kurnool, Andhra Pradesh 518002",
+    "area": "Sri Nagar Colony, Salam Nagar, B Camp",
+    "latitude": 15.8053215,
+    "longitude": 78.04392039999999,
+    "place_id": "ChIJ0WGe4ZTdtTsR1_oVaowsj0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WGe4ZTdtTsR1_oVaowsj0o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:52:25"
+  },
+  {
+    "business_name": "Dr Ramesh’s pet care centre",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "523263",
+    "phone_number": "+91 94936 86603",
+    "website": "https://rameshpetcarecenter.in/",
+    "rating": 4.8,
+    "reviews_count": 803,
+    "address": "193, A.P.G.O Colony, Sector 4, Sector 2, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "A.P.G.O Colony, Sector 4, Sector 2, MVP Colony",
+    "latitude": 17.741354599999998,
+    "longitude": 83.3286396,
+    "place_id": "ChIJVVEnRNVDOToRH3EskYxaaIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVEnRNVDOToRH3EskYxaaIQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:52:26"
+  }
+]

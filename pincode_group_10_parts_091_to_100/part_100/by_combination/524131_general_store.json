@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasad Naidu General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "524131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ganesha Temple, Road, Pedda Pariya, Andhra Pradesh 524402",
+    "area": "524131",
+    "latitude": 14.031955499999999,
+    "longitude": 79.8718007,
+    "place_id": "ChIJv_GPMdMdTToRrNYz6pEgr5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_GPMdMdTToRrNYz6pEgr5E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:33:12"
+  },
+  {
+    "business_name": "General Store Sree Sai",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "524131",
+    "phone_number": "+91 63036 91130",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Kamakur, Andhra Pradesh 524131",
+    "area": "524131",
+    "latitude": 13.9693413,
+    "longitude": 79.7113364,
+    "place_id": "ChIJh-q7UikjTToR55c5jUrcDC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-q7UikjTToR55c5jUrcDC4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:33:13"
+  }
+]

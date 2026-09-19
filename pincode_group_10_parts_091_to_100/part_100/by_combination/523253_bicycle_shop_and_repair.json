@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basha Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler",
+    "pincode": "523253",
+    "phone_number": "+91 85000 66846",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "PH88+WJF, Velugodu, Andhra Pradesh 518533",
+    "area": "523253",
+    "latitude": 15.7173129,
+    "longitude": 78.566557,
+    "place_id": "ChIJsTcaL4CmtTsRJ3P4mA3hjRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTcaL4CmtTsRJ3P4mA3hjRk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:43:27"
+  },
+  {
+    "business_name": "SRI SRINIVASA CYCLE STORES",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "523253",
+    "phone_number": "+91 99899 59788",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Main Rd, Anaparthy, Anai, Andhra Pradesh 533342",
+    "area": "Anaparthy",
+    "latitude": 16.9346314,
+    "longitude": 81.9552422,
+    "place_id": "ChIJSRgD6lWXNzoRcPfzjzU7Grc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRgD6lWXNzoRcPfzjzU7Grc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:43:27"
+  }
+]

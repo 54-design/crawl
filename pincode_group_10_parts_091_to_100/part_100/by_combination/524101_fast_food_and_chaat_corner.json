@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Gari Vindu",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "524101",
+    "phone_number": "+91 89770 80100",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Hanuman Junction, 1/6/1-1, near Hanuman Statue, Jalayya Nagaram, Atmakur, Andhra Pradesh 524322",
+    "area": "Jalayya Nagaram",
+    "latitude": 14.6369741,
+    "longitude": 79.63762129999999,
+    "place_id": "ChIJEU2lPaulTDoRv6nXO0-pn8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEU2lPaulTDoRv6nXO0-pn8s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:34"
+  },
+  {
+    "business_name": "Gudur Junction",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Train station",
+    "all_categories": "Train station",
+    "pincode": "524101",
+    "phone_number": "+91 91779 37021",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Foot Over Bridge, Narsingharao Pet, Gudur, West Gudur Rural, Andhra Pradesh 524101",
+    "area": "Narsingharao Pet",
+    "latitude": 14.1486521,
+    "longitude": 79.8455678,
+    "place_id": "ChIJZTdXku7jTDoRseyMd-jnoZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTdXku7jTDoRseyMd-jnoZQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:34"
+  }
+]

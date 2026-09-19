@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tech Encryptors",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "523346",
+    "phone_number": "+91 94939 24114",
+    "website": "http://techencryptors.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "14-14-15, Bethany Peta, Bhimavaram, Chinamiram Rural, Andhra Pradesh 534204",
+    "area": "Bhimavaram",
+    "latitude": 16.5201812,
+    "longitude": 81.4883097,
+    "place_id": "ChIJVVVVVREtNjoR5eO32faGVYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVREtNjoR5eO32faGVYY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:22"
+  },
+  {
+    "business_name": "K Algorithms",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "523346",
+    "phone_number": "+91 94946 28808",
+    "website": "https://kalgorithms.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "K Algorithms, 523346, India",
+    "area": "523346",
+    "latitude": 25.403360499999998,
+    "longitude": 55.525949399999995,
+    "place_id": "ChIJAwA2356ljqoRrPYT9vp2AUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwA2356ljqoRrPYT9vp2AUI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:24"
+  }
+]

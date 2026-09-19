@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Priya Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store",
+    "pincode": "523247",
+    "phone_number": "+91 88865 57676",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plat No D-6, industrial Estate, Industrial Park, Road No 1, National Highway, Tetali, Tanuku, Vadluru, Andhra Pradesh 534218",
+    "area": "Tetali",
+    "latitude": 16.792524699999998,
+    "longitude": 81.6612475,
+    "place_id": "ChIJQ-qKJH23NzoRD_beTqGM3rA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-qKJH23NzoRD_beTqGM3rA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:56"
+  },
+  {
+    "business_name": "Sri Varalakshmi Cement &Steel Trades",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523247",
+    "phone_number": "+91 98486 74242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shoop6, Addanki - Darsi Rd, Darsi, Andhra Pradesh 523247",
+    "area": "523247",
+    "latitude": 15.773269399999998,
+    "longitude": 79.685198,
+    "place_id": "ChIJCY-a24XDSjoRQ6QPhW0ABk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCY-a24XDSjoRQ6QPhW0ABk8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:57"
+  }
+]

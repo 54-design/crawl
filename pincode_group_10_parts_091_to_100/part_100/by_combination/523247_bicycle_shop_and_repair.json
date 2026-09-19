@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "523247",
+    "phone_number": "+91 93930 46058",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Darsi, Andhra Pradesh 523247",
+    "area": "523247",
+    "latitude": 15.7693772,
+    "longitude": 79.6793945,
+    "place_id": "ChIJ7XS0lAnDSjoRP18LS0FgSM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XS0lAnDSjoRP18LS0FgSM8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:47"
+  },
+  {
+    "business_name": "Bujji cycle shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "523247",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "QMCJ+F97, Vinukonda - Darsi Rd, Darsi, Andhra Pradesh 523247",
+    "area": "523247",
+    "latitude": 15.7711531,
+    "longitude": 79.6809139,
+    "place_id": "ChIJl6cdf6fDSjoRmYMxH3z6WaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6cdf6fDSjoRmYMxH3z6WaE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:50"
+  }
+]

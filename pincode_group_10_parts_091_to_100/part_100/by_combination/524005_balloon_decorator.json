@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARTY THINGS",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "524005",
+    "phone_number": "+91 93927 61006",
+    "website": "http://www.partythings.in/",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Trunk Rd, opp. Babu icecream, near Gandhi Bomma, Brindavan Colony, Nellore, Andhra Pradesh 524001",
+    "area": "Brindavan Colony",
+    "latitude": 14.453921099999999,
+    "longitude": 79.9851317,
+    "place_id": "ChIJEcj3vz2NTDoRnKrnYvQPPf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcj3vz2NTDoRnKrnYvQPPf0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:34"
+  },
+  {
+    "business_name": "Anil Event Services",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, G.N.T. Rd, Nellore, Padugupadu, Andhra Pradesh 524137",
+    "area": "524005",
+    "latitude": 14.4877912,
+    "longitude": 79.9903061,
+    "place_id": "ChIJbbpQsYuMTDoRQCDmgysdnXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbpQsYuMTDoRQCDmgysdnXs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:34"
+  }
+]

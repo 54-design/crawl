@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padma's wellness Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "523279",
+    "phone_number": "+91 94907 96888",
+    "website": "https://padmaswellnesscenter.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bolusuvari St, Veedhi, Agraharam, Eluru, Andhra Pradesh 534002",
+    "area": "Veedhi, Agraharam",
+    "latitude": 16.7113834,
+    "longitude": 81.10622409999999,
+    "place_id": "ChIJG7S98KkVNjoR5qWYTAN2J-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7S98KkVNjoR5qWYTAN2J-Q",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:24"
+  },
+  {
+    "business_name": "Padma wellness club",
+    "search_category": "Wellness Center",
+    "primary_category": "Weight loss service",
+    "all_categories": "Weight loss service, Wellness center",
+    "pincode": "523279",
+    "phone_number": "+91 79936 94556",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "Prashanthi Nagar, Payakapuram, Payikapuram, Andhra Pradesh 520015",
+    "area": "Prashanthi Nagar, Payakapuram",
+    "latitude": 16.546866899999998,
+    "longitude": 80.6510255,
+    "place_id": "ChIJw7Z0H9HlNToRBDJDU5RzTaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7Z0H9HlNToRBDJDU5RzTaY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:24"
+  }
+]

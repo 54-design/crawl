@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Birds Nest Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "523252",
+    "phone_number": "+91 94401 04954",
+    "website": "http://birdsnest.in/",
+    "rating": 4,
+    "reviews_count": 1410,
+    "address": "SH 41, near Geddada, Pedageddada, Andhra Pradesh 533288",
+    "area": "523252",
+    "latitude": 17.478537499999998,
+    "longitude": 81.729057,
+    "place_id": "ChIJEf1fUskXNzoRnW5DQQo2NDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEf1fUskXNzoRnW5DQQo2NDE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:03"
+  },
+  {
+    "business_name": "GURU RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "523252",
+    "phone_number": "+91 99598 72009",
+    "website": "https://gandikotagururesorts.com/",
+    "rating": 4.5,
+    "reviews_count": 159,
+    "address": "vi, GANDIKOTA, guru reort, near haritha resort, Gandikota, jammalamadugu, Andhra Pradesh 516434",
+    "area": "523252",
+    "latitude": 14.807582199999999,
+    "longitude": 78.290275,
+    "place_id": "ChIJka_w3icLtDsRU26XVsBHJsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka_w3icLtDsRU26XVsBHJsk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:04"
+  }
+]

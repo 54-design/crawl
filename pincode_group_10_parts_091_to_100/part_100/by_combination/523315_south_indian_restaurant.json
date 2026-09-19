@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poornayya masala",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "523315",
+    "phone_number": "+91 79811 78067",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "P7QC+X83, Unnamed Road, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.739886299999998,
+    "longitude": 79.27079669999999,
+    "place_id": "ChIJPbNSWtgxtTsRvMNHvdsOdxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbNSWtgxtTsRvMNHvdsOdxk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:43"
+  },
+  {
+    "business_name": "Purnayya Masala Food World",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "523315",
+    "phone_number": "+91 95029 09285",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "P7Q9 QCJ, College Road, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.7395269,
+    "longitude": 79.2684697,
+    "place_id": "ChIJAWSNpH8xtTsRp8Pzfc-goBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWSNpH8xtTsRp8Pzfc-goBQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:43"
+  }
+]

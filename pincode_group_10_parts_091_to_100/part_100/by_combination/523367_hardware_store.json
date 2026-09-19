@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulabi Enterprises",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "523367",
+    "phone_number": "+91 90006 96286",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 3, beside Racharla, Gate, Giddalur, Andhra Pradesh 523357",
+    "area": "Gate",
+    "latitude": 15.3873997,
+    "longitude": 78.9190345,
+    "place_id": "ChIJyXmcuwTltDsR0XKG3Q3rar4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXmcuwTltDsR0XKG3Q3rar4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:50"
+  },
+  {
+    "business_name": "Sankar Reddy Hardware Center",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "523367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9WGG+W8Q, Railway Station Rd, Giddalur, Andhra Pradesh 523357",
+    "area": "523367",
+    "latitude": 15.3773349,
+    "longitude": 78.92587069999999,
+    "place_id": "ChIJj0mOTCbktDsRsP2mBiJah20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0mOTCbktDsRsP2mBiJah20",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:50"
+  }
+]

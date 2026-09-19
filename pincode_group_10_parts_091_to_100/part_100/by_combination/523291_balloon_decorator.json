@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons Unlimited",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "523291",
+    "phone_number": "+91 96667 88501",
+    "website": "https://www.balloonsunlimited.co.in/blog.html",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "new, Rtc bus stand road, opp. Domino's pizza, Nagarajupeta, Chinna Chauku, Andhra Pradesh 516001",
+    "area": "Nagarajupeta",
+    "latitude": 14.4640572,
+    "longitude": 78.8315567,
+    "place_id": "ChIJI8WsAjlzszsR5KTqcNLdBAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8WsAjlzszsR5KTqcNLdBAI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:45"
+  },
+  {
+    "business_name": "Balloons Unlimited Proddatur",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "523291",
+    "phone_number": "+91 93813 88933",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 92,
+    "address": "Balloons Unlimited, opp. to dosart, YMR Colony, Proddatur, Andhra Pradesh 516360",
+    "area": "YMR Colony",
+    "latitude": 14.756643799999999,
+    "longitude": 78.55072609999999,
+    "place_id": "ChIJqY_8A2V5tDsRGW2UiM0DZys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqY_8A2V5tDsRGW2UiM0DZys",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:46"
+  }
+]

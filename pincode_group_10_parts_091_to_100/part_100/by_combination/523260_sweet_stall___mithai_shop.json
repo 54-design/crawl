@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Bakery And Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523260",
+    "phone_number": "+91 94944 28181",
+    "website": "https://www.instagram.com/hindustanbakerykavali/",
+    "rating": 4,
+    "reviews_count": 760,
+    "address": "Beside Udayagiri bridge, Trunk Rd, Kavali, Andhra Pradesh 524201",
+    "area": "Christian Peta",
+    "latitude": 14.912960199999999,
+    "longitude": 79.9929214,
+    "place_id": "ChIJV5aURPF7SzoR8g_a1uKNtRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5aURPF7SzoR8g_a1uKNtRU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:46:31"
+  },
+  {
+    "business_name": "Madhurams Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "523260",
+    "phone_number": "+91 88142 21155",
+    "website": "http://www.madhurams.co.in/",
+    "rating": 3.7,
+    "reviews_count": 530,
+    "address": "Court Road, opp. Open Air Theartre, Palakollu, Andhra Pradesh 534260",
+    "area": "523260",
+    "latitude": 16.516171099999998,
+    "longitude": 81.7279112,
+    "place_id": "ChIJuadMZv7aNzoRwoOGMnekClM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuadMZv7aNzoRwoOGMnekClM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:46:34"
+  }
+]

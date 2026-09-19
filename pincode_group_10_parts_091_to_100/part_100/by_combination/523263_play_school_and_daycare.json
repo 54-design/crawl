@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "523263",
+    "phone_number": "+91 96523 50565",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sheela Nagar, Gajuwaka, Andhra Pradesh 530012",
+    "area": "Sheela Nagar",
+    "latitude": 17.7162057,
+    "longitude": 83.19761609999999,
+    "place_id": "ChIJgTXPpfJoOToRYFZh0d9qitg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTXPpfJoOToRYFZh0d9qitg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:53:05"
+  },
+  {
+    "business_name": "The Sandbox Preschool",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool, Day care center",
+    "pincode": "523263",
+    "phone_number": "+91 81256 57585",
+    "website": "http://www.thesandbox.co.in/",
+    "rating": 4.9,
+    "reviews_count": 63,
+    "address": "D:no 89-30-02, opposite lions club park, Sainagar, Morampudi, Rajamahendravaram, Andhra Pradesh 533107",
+    "area": "Sainagar, Morampudi",
+    "latitude": 16.996226699999998,
+    "longitude": 81.8068885,
+    "place_id": "ChIJeSFQCJKjNzoRvYMXPb2kqEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSFQCJKjNzoRvYMXPb2kqEk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:53:06"
+  }
+]

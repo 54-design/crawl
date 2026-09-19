@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Chaat Corner (JCC)",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, North Indian restaurant",
+    "pincode": "523370",
+    "phone_number": "+91 87911 11171",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "30 B, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "New Mandi",
+    "latitude": 29.4668949,
+    "longitude": 77.7099571,
+    "place_id": "ChIJIV1wCgwbDDkRUlRDxWQ__uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIV1wCgwbDDkRUlRDxWQ__uM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:41"
+  },
+  {
+    "business_name": "Rajesh Panipuri Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dessert shop, Panipuri shop",
+    "pincode": "523370",
+    "phone_number": "+91 90988 06125",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 711,
+    "address": "Shop No. 1, Netaji Subhash Marg, Chiman Bagh Chouraha, Indore GPO, Indore, Madhya Pradesh 452007",
+    "area": "Indore GPO",
+    "latitude": 22.7243137,
+    "longitude": 75.86212549999999,
+    "place_id": "ChIJ2cTjKXP9YjkR7gs73-yLcmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cTjKXP9YjkR7gs73-yLcmk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:43"
+  }
+]

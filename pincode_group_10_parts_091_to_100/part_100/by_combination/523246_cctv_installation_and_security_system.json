@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cctv installation",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "523246",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flat no:- 212, Devender Nagar colony, Church Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Church Colony, Uppal",
+    "latitude": 17.387643999999998,
+    "longitude": 78.5514958,
+    "place_id": "ChIJh8Z-QnyZyzsRv2l_wXPCKC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8Z-QnyZyzsRv2l_wXPCKC8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:38"
+  },
+  {
+    "business_name": "Vashishta Systems",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Security system supplier",
+    "all_categories": "Security system supplier",
+    "pincode": "523246",
+    "phone_number": "+91 96033 88809",
+    "website": "http://www.vashishtasystems.com/",
+    "rating": 4.1,
+    "reviews_count": 41,
+    "address": "Flat no. 205, beside Lal Bungalow, Greenlands, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Greenlands, Ameerpet",
+    "latitude": 17.4351379,
+    "longitude": 78.4520617,
+    "place_id": "ChIJcXGqYtCQyzsR_d7-pxzK8hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXGqYtCQyzsR_d7-pxzK8hw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:38"
+  }
+]

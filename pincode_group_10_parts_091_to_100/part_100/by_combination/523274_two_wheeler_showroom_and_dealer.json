@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OLA Electric Store",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "523274",
+    "phone_number": "+91 80 6896 4050",
+    "website": "https://www.olaelectric.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trunk Rd, Ravuri Somaiah Nagar, Tanguturu, Andhra Pradesh 523274",
+    "area": "Ravuri Somaiah Nagar",
+    "latitude": 15.3397575,
+    "longitude": 80.0339284,
+    "place_id": "ChIJZfPd76kJSzoRxxSeaGmR-fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfPd76kJSzoRxxSeaGmR-fo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:05:16"
+  },
+  {
+    "business_name": "Prime Motors - TVS 3 Wheeler",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer, Electric motor vehicle dealer",
+    "pincode": "523274",
+    "phone_number": "+91 89298 35352",
+    "website": "https://3wdealers.tvsmotor.com/prime-motors-tvs-3-wheeler-motor-vehicle-dealer-gt-road-prakasam-479970/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": null,
+    "reviews_count": null,
+    "address": "515/5, Wood Complex, No 6, GT Road, Venkateswara Colony, Ongole, Andhra Pradesh 523002",
+    "area": "Venkateswara Colony",
+    "latitude": 15.5199149,
+    "longitude": 80.0411105,
+    "place_id": "ChIJIQetX5wBSzoR7aAg5lIFvSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQetX5wBSzoR7aAg5lIFvSc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:05:19"
+  }
+]

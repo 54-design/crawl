@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kasturi coaching centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "524004",
+    "phone_number": "+91 98481 98856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vengalrao Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "Vengalrao Nagar",
+    "latitude": 14.4192634,
+    "longitude": 79.9493131,
+    "place_id": "ChIJ56YCg0bzTDoRmzHm4FVIZ3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56YCg0bzTDoRmzHm4FVIZ3M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:52"
+  },
+  {
+    "business_name": "SP Home tuition",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "524004",
+    "phone_number": "+91 95506 74949",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26/3/1490, nearby Address: Sri Herbal Beauty Parlour, Chandra Mouli Nagar, Vedayapalem, Nellore, Andhra Pradesh 524004",
+    "area": "Chandra Mouli Nagar, Vedayapalem",
+    "latitude": 14.4108729,
+    "longitude": 79.95734929999999,
+    "place_id": "ChIJFZrMmP3zTDoR1097gXMuQl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZrMmP3zTDoR1097gXMuQl8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:52"
+  }
+]

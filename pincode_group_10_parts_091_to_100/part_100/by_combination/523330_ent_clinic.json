@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vallabhaa Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Dermatologist, Ear piercing service, Eye care center, General practitioner, Obstetrician-gynecologist, Oral surgeon, Hospital, Otolaryngology clinic, Pain management physician",
+    "pincode": "523330",
+    "phone_number": "+91 99493 80624",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 982,
+    "address": "Near SK Fast Foods Opp Sapthagiri Gramina Bank, Tirumala Bypass Rd, Tirupati, Andhra Pradesh 517501",
+    "area": "Korlagunta",
+    "latitude": 13.6389097,
+    "longitude": 79.4275892,
+    "place_id": "ChIJz_sA1VtDOToRwMl_8e4RNxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_sA1VtDOToRwMl_8e4RNxo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:01"
+  },
+  {
+    "business_name": "Navya's Healing Hands Helath Services",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "523330",
+    "phone_number": "+91 85000 20615",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "10-13-504A, 1st floor, opp. Ashalatha hospital, Reddy and Reddy's Colony, Tirupati, Andhra Pradesh 517501",
+    "area": "Reddy and Reddy's Colony",
+    "latitude": 13.6360073,
+    "longitude": 79.4214262,
+    "place_id": "ChIJ5Q7tNgFLTToRrIyqfN-hxwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Q7tNgFLTToRrIyqfN-hxwo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vengamamba Bus Transport",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "523271",
+    "phone_number": "+91 63665 45656",
+    "website": "http://svbt.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "16-6-77/A, Pamuru Rd, Kandukur, Kakutur, Andhra Pradesh 523113",
+    "area": "523271",
+    "latitude": 15.204904399999998,
+    "longitude": 79.8595199,
+    "place_id": "ChIJqwc4whYTSzoRoin_ASchIcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwc4whYTSzoRoin_ASchIcI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:51"
+  },
+  {
+    "business_name": "VAARAHI BUS TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency, Service establishment",
+    "pincode": "523271",
+    "phone_number": "N/A",
+    "website": "https://www.vaarahitravels.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VAARAHI BUS TRAVELS, 523271, India",
+    "area": "523271",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ9ZaDByhIloYRuK4_VVsWXcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZaDByhIloYRuK4_VVsWXcE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:51"
+  }
+]

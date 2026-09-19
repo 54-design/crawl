@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naturals Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Dessert restaurant, Dessert shop, Frozen dessert supplier",
+    "pincode": "523246",
+    "phone_number": "+91 80 4124 6086",
+    "website": "https://naturalicecreams.in/",
+    "rating": 4.4,
+    "reviews_count": 1281,
+    "address": "House Of Lords, 15/16, St Mark's Rd, opposite State Bank of India Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.971539,
+    "longitude": 77.6008106,
+    "place_id": "ChIJMT36hisUrjsRNRbJSmIz90s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMT36hisUrjsRNRbJSmIz90s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:37:34"
+  },
+  {
+    "business_name": "My Cream Dairy - Ice Creams",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "523246",
+    "phone_number": "+91 97018 58131",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "Plot no 20/2, Ravindra Nagar Colony, Ravindra Nagar, Habsiguda, Hyderabad, Telangana 500013",
+    "area": "Ravindra Nagar Colony, Ravindra Nagar, Habsiguda",
+    "latitude": 17.4042515,
+    "longitude": 78.53827849999999,
+    "place_id": "ChIJzUlAvuCZyzsRHcF0CSRYarQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUlAvuCZyzsRHcF0CSRYarQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:37:34"
+  }
+]

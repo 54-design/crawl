@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop No 5,Siva Sankar Car Travels",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "523279",
+    "phone_number": "+91 94924 93220",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, Trunk Rd, Tanguturu, Andhra Pradesh 523274",
+    "area": "523279",
+    "latitude": 15.3424012,
+    "longitude": 80.0351647,
+    "place_id": "ChIJUdERlIkJSzoR7omvUNMSoEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdERlIkJSzoR7omvUNMSoEM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:03"
+  },
+  {
+    "business_name": "Vinay Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "523279",
+    "phone_number": "+91 70130 88182",
+    "website": "https://www.cardekho.com/used-cars+in+hyderabad?dealerId=F4E90BE48E9094AB9637A8E33C57D94F",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "HMDA, plot no 1483, Uppal Bhagayath Rd, near TeaTime, Raghavendra Nagar Colony, Gayatri Nagar, Peerzadiguda, Hyderabad, Telangana 500039",
+    "area": "Raghavendra Nagar Colony, Gayatri Nagar, Peerzadiguda",
+    "latitude": 17.3891881,
+    "longitude": 78.57190899999999,
+    "place_id": "ChIJKwnX6O6fyzsRfrxXNR7UVvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwnX6O6fyzsRfrxXNR7UVvU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:03"
+  }
+]

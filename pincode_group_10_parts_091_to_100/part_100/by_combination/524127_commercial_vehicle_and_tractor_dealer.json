@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tractor Sales & Service",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "524127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "BM ROAD, SH 275, beside Police Bavana, Ramanagara, Karnataka 562159",
+    "area": "Haji Nagar, Vijaya Nagar",
+    "latitude": 12.7295202,
+    "longitude": 77.2876908,
+    "place_id": "ChIJy6GPWlZPrjsRZWWKHn-Xl1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6GPWlZPrjsRZWWKHn-Xl1E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:30:08"
+  },
+  {
+    "business_name": "Tractor dealers",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "524127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "VCH2+6WP, Gaddindla, Arimuthanapalle, Andhra Pradesh 517423",
+    "area": "Gaddindla",
+    "latitude": 12.8780796,
+    "longitude": 78.4023304,
+    "place_id": "ChIJe6uEfx-9rTsRo-zgcAgj1jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6uEfx-9rTsRo-zgcAgj1jw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:30:08"
+  }
+]

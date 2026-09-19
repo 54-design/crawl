@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Naidupet",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Fertilizer Store, Store",
+    "pincode": "524126",
+    "phone_number": "+91 97016 01845",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 3-2-62, D, Darga Rd, L.A.Sagaram, Nayudupeta, Vinnamala, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.908026999999999,
+    "longitude": 79.899513,
+    "place_id": "ChIJh4eusWsbTToRGQ5nWvI3rDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4eusWsbTToRGQ5nWvI3rDY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:27:42"
+  },
+  {
+    "business_name": "Radhika wellness world.",
+    "search_category": "Organic Food Store",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Nutritionist",
+    "pincode": "524126",
+    "phone_number": "+91 98858 89643",
+    "website": "http://radhikawellnessworld.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "West Street, L.A.Sagaram, Nayudupeta, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.905863499999999,
+    "longitude": 79.8910459,
+    "place_id": "ChIJAYRNbZobTToRvPB3krDTTHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYRNbZobTToRvPB3krDTTHw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:27:42"
+  }
+]

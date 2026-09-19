@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ESIC-Markapur",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523316",
+    "phone_number": "+91 85962 22982",
+    "website": "http://esic.nic.in/",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Ganesh Nagar Road, Shivaji Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "Shivaji Nagar",
+    "latitude": 15.7370244,
+    "longitude": 79.2671486,
+    "place_id": "ChIJ_4jder0xtTsR7vaRy-NZLQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4jder0xtTsR7vaRy-NZLQE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:49"
+  },
+  {
+    "business_name": "MOTHER CARE COLLEGE OF NURSING",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "523316",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Q7CF+882, Markapur, Idupur, Andhra Pradesh 523316",
+    "area": "523316",
+    "latitude": 15.7706849,
+    "longitude": 79.2734452,
+    "place_id": "ChIJXwibc2AxtTsR_DYPNKvwA6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwibc2AxtTsR_DYPNKvwA6E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:50"
+  }
+]

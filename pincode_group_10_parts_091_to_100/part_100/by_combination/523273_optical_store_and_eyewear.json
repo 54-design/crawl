@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Eye Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "523273",
+    "phone_number": "+91 89533 06337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C27G+J3M, Hanuman Ganj, Uttar Pradesh 221505",
+    "area": "523273",
+    "latitude": 25.414082099999998,
+    "longitude": 82.0251318,
+    "place_id": "ChIJLU1pcDxNhTkRCcCkNwiXgtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLU1pcDxNhTkRCcCkNwiXgtk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:16"
+  },
+  {
+    "business_name": "Barman Optical (Optical Shop, Optical Store , Eye Clinic)",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "523273",
+    "phone_number": "+91 72752 00293",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Anpara, Uttar Pradesh 231225",
+    "area": "523273",
+    "latitude": 24.1946248,
+    "longitude": 82.7806561,
+    "place_id": "ChIJH_us4aYljzkRkYeEsvpuEdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_us4aYljzkRkYeEsvpuEdk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool Care",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Washer & dryer repair service",
+    "pincode": "524002",
+    "phone_number": "+91 99487 66082",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "F272+6Q9, Tana Veedhi St, Nawabpet, Paruchuru, Nellore, Andhra Pradesh 524002",
+    "area": "Nawabpet",
+    "latitude": 14.4630393,
+    "longitude": 80.0019904,
+    "place_id": "ChIJRWVa9KOMTDoRWTpcyMb6cw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWVa9KOMTDoRWTpcyMb6cw4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:37"
+  },
+  {
+    "business_name": "DJ COOL ZONE",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "524002",
+    "phone_number": "+91 90307 68438",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FXVP+57C, Kovur Main Rd, near Rukmini Kalyana Mandapam, Chinnapadugupadu, nellore, Padugupadu, Andhra Pradesh 524137",
+    "area": "Chinnapadugupadu",
+    "latitude": 14.492401599999999,
+    "longitude": 79.9855893,
+    "place_id": "ChIJwQXMDgCNTDoR48WzVk4DxYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQXMDgCNTDoR48WzVk4DxYQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:37"
+  }
+]

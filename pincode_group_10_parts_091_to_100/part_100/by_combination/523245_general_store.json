@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinivasa General Store and mineral water plant",
+    "search_category": "General Store",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "523245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CFG4+CJC, SH 35, Thummagunta, Andhra Pradesh 523223",
+    "area": "523245",
+    "latitude": 15.424912599999999,
+    "longitude": 79.45777389999999,
+    "place_id": "ChIJ6ZLJKQAtSzoRpY1jLVa21Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZLJKQAtSzoRpY1jLVa21Ns",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:34"
+  },
+  {
+    "business_name": "Balakrishna general store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "523245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HH89+98F, Rachapalle, Kambhalapadu, Andhra Pradesh 523240",
+    "area": "523245",
+    "latitude": 15.565937,
+    "longitude": 79.56831,
+    "place_id": "ChIJKZGrBABhsjsRU6G7x6nBiF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZGrBABhsjsRU6G7x6nBiF0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:35:36"
+  }
+]

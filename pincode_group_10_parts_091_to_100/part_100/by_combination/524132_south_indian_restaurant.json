@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bageecha Restaurant, juice king",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "524132",
+    "phone_number": "+91 96525 75651",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 287,
+    "address": "Kadapa - Tirupati Rd, Railway kodur, Settigunta, Andhra Pradesh 517620",
+    "area": "Railway kodur",
+    "latitude": 13.8438977,
+    "longitude": 79.3984469,
+    "place_id": "ChIJJ_JfkNwzTToRvmOqW_UZJ0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_JfkNwzTToRvmOqW_UZJ0c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:08"
+  },
+  {
+    "business_name": "Sri padma shanmukha Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "524132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near to keshava reddy school, kukkaladoddi, Kadapa, Balupalle, Andhra Pradesh 516101",
+    "area": "kukkaladoddi",
+    "latitude": 13.7822874,
+    "longitude": 79.4205037,
+    "place_id": "ChIJP912VWszTToRVmXFVmf2XLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP912VWszTToRVmXFVmf2XLo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:09"
+  }
+]

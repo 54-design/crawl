@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chanti Wines",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523357",
+    "phone_number": "+91 99516 87636",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 20,
+    "address": "7282+W8Q, Komarolu, Andhra Pradesh 523373",
+    "area": "523357",
+    "latitude": 15.2673277,
+    "longitude": 79.00084799999999,
+    "place_id": "ChIJwac-GMnptDsRoHDPcUQPShY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwac-GMnptDsRoHDPcUQPShY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:56:29"
+  },
+  {
+    "business_name": "Uday",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523357",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "7282+GX3, Unnamed Road, Komarolu, Andhra Pradesh 523373",
+    "area": "523357",
+    "latitude": 15.2662625,
+    "longitude": 79.0024274,
+    "place_id": "ChIJTQ93CP7ptDsRhmRvRK_Igw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQ93CP7ptDsRhmRvRK_Igw8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:56:29"
+  }
+]

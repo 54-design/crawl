@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Dance Gallery (G Square)",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "523252",
+    "phone_number": "+91 89781 68257",
+    "website": "https://gsquare.dance/",
+    "rating": 5,
+    "reviews_count": 152,
+    "address": "Nukalamma Temple St, opp. Ganapathi Towers, Rama Rao Peta, Kakinada, Andhra Pradesh 533001",
+    "area": "Rama Rao Peta",
+    "latitude": 16.964726,
+    "longitude": 82.2346779,
+    "place_id": "ChIJJ6t6KugpODoR073ritU5M0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6t6KugpODoR073ritU5M0g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:11"
+  },
+  {
+    "business_name": "Sree Thyagaraja School of Music & Dance",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "523252",
+    "phone_number": "+91 98472 29972",
+    "website": "http://thyagarajaschoolofmusic.com/",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "Panamkuttymala, Punalur, Keralam 691305",
+    "area": "Panamkuttymala",
+    "latitude": 9.013479499999999,
+    "longitude": 76.9166383,
+    "place_id": "ChIJJQq9Pyd0BjsRCzkjw0hbItw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQq9Pyd0BjsRCzkjw0hbItw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:12"
+  }
+]

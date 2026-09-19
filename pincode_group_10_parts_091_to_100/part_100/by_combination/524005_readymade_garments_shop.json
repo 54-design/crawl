@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Giri Shopping Mall",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Dress store",
+    "pincode": "524005",
+    "phone_number": "+91 98858 46105",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "WX9W+96M, Polu Vari St, Vaddi Palem, Kavali, Andhra Pradesh 524201",
+    "area": "Vaddi Palem",
+    "latitude": 14.917135199999999,
+    "longitude": 79.9955014,
+    "place_id": "ChIJKc8QYLV7SzoRCGfFBhHpmyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKc8QYLV7SzoRCGfFBhHpmyg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:48"
+  },
+  {
+    "business_name": "Raymond Linen",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "524005",
+    "phone_number": "+91 95814 38183",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Nishitha Towers, Lecturer's Colony, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Lecturer's Colony, Magunta Layout",
+    "latitude": 14.435327299999999,
+    "longitude": 79.9771797,
+    "place_id": "ChIJbzlkZeTzTDoRA8-fbgETqyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzlkZeTzTDoRA8-fbgETqyY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:49"
+  }
+]

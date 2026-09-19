@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaravathi Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523356",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "9WHM+P36, Opposite to vitta subba ratnam kalyanamandapam, Ongole - Kurnool Main Rd, near to RTC bustand, Giddalur, Andhra Pradesh 523357",
+    "area": "Ganesh Nagar",
+    "latitude": 15.379289,
+    "longitude": 78.9326335,
+    "place_id": "ChIJvWvbwCbntDsRPzGwfuyYSIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWvbwCbntDsRPzGwfuyYSIM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:40"
+  },
+  {
+    "business_name": "Madhuram Tiffins",
+    "search_category": "Family Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "523356",
+    "phone_number": "+91 93921 23170",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "8-2-1, Nandyal - Ongole Rd, beside Hp Petrol Pump, Giddalur, Andhra Pradesh 523357",
+    "area": "523356",
+    "latitude": 15.379471299999999,
+    "longitude": 78.938495,
+    "place_id": "ChIJJ-FgMQDntDsR4pdk0Wd_tlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-FgMQDntDsR4pdk0Wd_tlk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:40"
+  }
+]

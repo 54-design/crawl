@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "laptop solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer desk store, Computer Hardware Company, Computer service, Computer software store, Computer store, Computer support and services, Used computer store",
+    "pincode": "523332",
+    "phone_number": "+91 83286 03652",
+    "website": "http://www.laptopsolution.in/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "manikanta residency, Abhaya Anjeneya Temple Street, Mythri Nagar, Hafeezpet, Madeenaguda, Hyderabad, Telangana 500049",
+    "area": "Mythri Nagar, Hafeezpet",
+    "latitude": 17.493518599999998,
+    "longitude": 78.345179,
+    "place_id": "ChIJu6fkRPaTyzsRVSMUhOTNRZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6fkRPaTyzsRVSMUhOTNRZU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:37"
+  },
+  {
+    "business_name": "SS ComputerTech Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer consultant, Computer networking service, Computer service, Computer software store, Computer support and services, Data recovery service, Repair service, Screen repair service",
+    "pincode": "523332",
+    "phone_number": "+91 80199 86660",
+    "website": "https://www.sscomputersolutions.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Uppal - Ramanthapur Rd, beside Airtel Shop friends mobiles, near Hyderabad Public school, Sharada Nagar, Uppal, Hyderabad, Telangana 500013",
+    "area": "Sharada Nagar, Uppal",
+    "latitude": 17.398920099999998,
+    "longitude": 78.5360448,
+    "place_id": "ChIJ_0n_28CZyzsRQ4sn90kDzu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0n_28CZyzsRQ4sn90kDzu0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:40"
+  }
+]

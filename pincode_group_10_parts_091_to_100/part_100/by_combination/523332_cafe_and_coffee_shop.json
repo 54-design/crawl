@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Café Chai Local",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523332",
+    "phone_number": "+91 70133 27471",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 36,
+    "address": "10/A/1, Road, Mathanagar, Huzur Nagar, Kodad, Telangana 508206",
+    "area": "Mathanagar",
+    "latitude": 16.9968278,
+    "longitude": 79.9566617,
+    "place_id": "ChIJbbsY0cgbNToR9pfLh0FqeWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbsY0cgbNToR9pfLh0FqeWU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:32"
+  },
+  {
+    "business_name": "Coffee & More",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee store",
+    "all_categories": "Coffee store",
+    "pincode": "523332",
+    "phone_number": "+91 70325 16999",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1303,
+    "address": "Bhaskar Plaza, Road No. 1, Prem Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Prem Nagar, Banjara Hills",
+    "latitude": 17.4114053,
+    "longitude": 78.4497322,
+    "place_id": "ChIJFegzT36XyzsRKv6yvDU_Bfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFegzT36XyzsRKv6yvDU_Bfo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:32"
+  }
+]

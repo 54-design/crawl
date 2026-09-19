@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swarna's Bakery House",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Chicken wings restaurant, Dessert shop, Fast food restaurant, Ice cream shop, Juice shop, Pizza restaurant",
+    "pincode": "523291",
+    "phone_number": "+91 99632 17624",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bungalow St, opposite to Municipal Office, near Railway Station Road, Vaddi Palem, Kavali, Andhra Pradesh 524201",
+    "area": "Vaddi Palem",
+    "latitude": 14.916192899999999,
+    "longitude": 79.9900775,
+    "place_id": "ChIJt_C6M9p7SzoRBJHZZ1muW5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_C6M9p7SzoRBJHZZ1muW5s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:13:53"
+  },
+  {
+    "business_name": "Just Bake Amalapuram",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Sweet shop, Cupcake shop, Sweets and dessert buffet, Donut shop, Indian sweets shop, Pastry shop",
+    "pincode": "523291",
+    "phone_number": "+91 89700 10111",
+    "website": "https://www.justbake.in/",
+    "rating": 4.2,
+    "reviews_count": 106,
+    "address": "beside LIC Office, Konkapalli, Amalapuram, Andhra Pradesh 533201",
+    "area": "Konkapalli",
+    "latitude": 16.5640388,
+    "longitude": 81.9970464,
+    "place_id": "ChIJ-XaZ7ZLvNzoRbmwpxCcD5hg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XaZ7ZLvNzoRbmwpxCcD5hg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:13:56"
+  }
+]

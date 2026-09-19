@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arun Sirpi",
+    "search_category": "Architects",
+    "primary_category": "Building designer",
+    "all_categories": "Building designer",
+    "pincode": "524124",
+    "phone_number": "+91 86670 03923",
+    "website": "https://www.arunsirpi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8th street, Karanai Puducherry Rd, Vinayagapuram, Urapakkam, Chennai, Tamil Nadu 603202",
+    "area": "Vinayagapuram, Urapakkam",
+    "latitude": 12.8415296,
+    "longitude": 80.0931258,
+    "place_id": "ChIJH8_2jwr3UjoRdUpAhzyHp_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8_2jwr3UjoRdUpAhzyHp_Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:43"
+  },
+  {
+    "business_name": "Space Studio Chennai",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "524124",
+    "phone_number": "N/A",
+    "website": "https://spacestudiochennai.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Status Quo Building, N0 11/38, Sterling Rd, Seetha Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+    "area": "Seetha Nagar, Nungambakkam",
+    "latitude": 13.065248299999999,
+    "longitude": 80.24155669999999,
+    "place_id": "ChIJZSmcqn1mUjoRlBHk1-cyQSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSmcqn1mUjoRlBHk1-cyQSU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:43"
+  }
+]

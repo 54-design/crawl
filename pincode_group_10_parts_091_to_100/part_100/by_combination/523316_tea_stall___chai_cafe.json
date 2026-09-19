@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tripura chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "523316",
+    "phone_number": "+91 94495 13566",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "9W5V+37C, Kiragavalu Santhemala, Kiragavalu, Karnataka 571424",
+    "area": "Kiragavalu Santhemala",
+    "latitude": 12.357693,
+    "longitude": 76.943142,
+    "place_id": "ChIJEbxgYQAPrzsRvCU-ecubmjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbxgYQAPrzsRvCU-ecubmjM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:33"
+  },
+  {
+    "business_name": "Tea break cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "523316",
+    "phone_number": "+91 95733 54344",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Venkateshwara colony Opposite:, Samskruthi school of excellence, Kantivanam Colony, Hyderabad, Serilingampalle (M), Telangana 500084",
+    "area": "Kantivanam Colony",
+    "latitude": 17.4808164,
+    "longitude": 78.3466759,
+    "place_id": "ChIJK8MPd9yTyzsRp4dn64lYx_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8MPd9yTyzsRp4dn64lYx_8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "River Service Vedayapalem",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Scooter repair shop",
+    "all_categories": "Scooter repair shop, Mechanic, Motorcycle parts store",
+    "pincode": "524004",
+    "phone_number": "+91 92402 02507",
+    "website": "https://www.rideriver.com/",
+    "rating": 5,
+    "reviews_count": 369,
+    "address": "No.25-2/13, D, Current Office Centre To BV Nagar, Andhra kesari Nagar, Postal Colony, Vedayapalem, Nellore, Andhra Pradesh 524004",
+    "area": "Andhra kesari Nagar, Postal Colony, Vedayapalem",
+    "latitude": 14.418645099999999,
+    "longitude": 79.9606264,
+    "place_id": "ChIJ5UsC1dfzTDoRIkPRc05tg0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UsC1dfzTDoRIkPRc05tg0c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:12"
+  },
+  {
+    "business_name": "Hari Bike mechanic",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "524004",
+    "phone_number": "+91 79955 92950",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "26/2/1493, 1, near Smart Bazaar, Venkata Reddy Nagar, Ayyapagudi, Mahathma Gandhi Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "Venkata Reddy Nagar, Ayyapagudi, Mahathma Gandhi Nagar",
+    "latitude": 14.405781099999999,
+    "longitude": 79.9526432,
+    "place_id": "ChIJsWHXKgDzTDoRRgaqbVFNSLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWHXKgDzTDoRRgaqbVFNSLk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:12"
+  }
+]

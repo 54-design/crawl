@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green farms venkatagiri",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "524132",
+    "phone_number": "+91 70933 88328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WH4M+CR, Inagalur, Andhra Pradesh 524132",
+    "area": "524132",
+    "latitude": 13.906062499999999,
+    "longitude": 79.58456249999999,
+    "place_id": "ChIJXwiReQAlTToRbwMwKlkmjx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwiReQAlTToRbwMwKlkmjx0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:00"
+  },
+  {
+    "business_name": "Hari Chicken & Mutton Centre",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "524132",
+    "phone_number": "+91 79975 54493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jagadampalli, Koduru, Andhra Pradesh 516101",
+    "area": "Jagadampalli",
+    "latitude": 13.9628798,
+    "longitude": 79.348445,
+    "place_id": "ChIJy2VnlGXVsjsRpK1qXsMaNAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2VnlGXVsjsRpK1qXsMaNAg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:00"
+  }
+]

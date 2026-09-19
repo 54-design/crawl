@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523273",
+    "phone_number": "+91 97700 91471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hanumana, Madhya Pradesh 486335",
+    "area": "523273",
+    "latitude": 24.7959152,
+    "longitude": 82.1070629,
+    "place_id": "ChIJL3iDN4l7hTkR-ypcEjwx29I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3iDN4l7hTkR-ypcEjwx29I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:02"
+  },
+  {
+    "business_name": "A-1 Assam Tea Traders",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "523273",
+    "phone_number": "+91 90302 84007",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "S. No. 3-124/13, Uppal - Ramanthapur Rd, beside Masjid-e-Qutub Shahi Street, Rahat Nagar, Amberpet, Hyderabad, Telangana 500013",
+    "area": "Rahat Nagar, Amberpet",
+    "latitude": 17.399155999999998,
+    "longitude": 78.5360024,
+    "place_id": "ChIJ1a2IIBGZyzsRdJQp7Tb6MPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1a2IIBGZyzsRdJQp7Tb6MPs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:04"
+  }
+]

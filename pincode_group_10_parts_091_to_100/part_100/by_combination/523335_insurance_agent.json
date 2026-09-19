@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "523335",
+    "phone_number": "+91 98499 17306",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-211, Papinenipalli, Ardhaveedu, Ardhaveedu, Andhra Pradesh 523335",
+    "area": "523335",
+    "latitude": 15.679364199999998,
+    "longitude": 78.9349771,
+    "place_id": "ChIJ10N7SxwZtTsRtI6qXrDBNi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10N7SxwZtTsRtI6qXrDBNi8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:50:17"
+  },
+  {
+    "business_name": "ARAVINDHAN",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "523335",
+    "phone_number": "+91 90432 95813",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6 Park Road, near by BSNL Office, Dharmapuri, Tamil Nadu 636701",
+    "area": "523335",
+    "latitude": 12.131193999999999,
+    "longitude": 78.1617121,
+    "place_id": "ChIJpdIHWokXrDsR4SzrJqCtuT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdIHWokXrDsR4SzrJqCtuT4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:50:19"
+  }
+]

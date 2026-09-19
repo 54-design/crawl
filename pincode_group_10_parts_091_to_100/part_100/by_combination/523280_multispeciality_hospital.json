@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santhi Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523280",
+    "phone_number": "+91 98663 81977",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Beach Rd, Kothapatnam, Andhra Pradesh 523286",
+    "area": "523280",
+    "latitude": 15.446524199999999,
+    "longitude": 80.167872,
+    "place_id": "ChIJvzKOYkCpSzoRF3dw8lACxEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzKOYkCpSzoRF3dw8lACxEQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:37"
+  },
+  {
+    "business_name": "Sri Venkata Lakshmi Mulla Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523280",
+    "phone_number": "+91 63046 33199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Vinukunonda road, ravindra hosptal back side, indira nagar, Erragondapalem, Andhra Pradesh 523327",
+    "area": "indira nagar",
+    "latitude": 16.0372549,
+    "longitude": 79.30636179999999,
+    "place_id": "ChIJ8xJTYfdNtTsROxuLHOqXOIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xJTYfdNtTsROxuLHOqXOIo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR Tiffins, Chaat and Many More",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "524124",
+    "phone_number": "+91 70324 66246",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 19,
+    "address": "Plot No 1, opp. Ibrahimpatnam Police Station, MBR nagar Colony, Ibrahimpatnam, Telangana 501506",
+    "area": "MBR nagar Colony",
+    "latitude": 17.1872744,
+    "longitude": 78.64944489999999,
+    "place_id": "ChIJuRkMJAynyzsRsN3d0hkc8EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRkMJAynyzsRsN3d0hkc8EI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:03"
+  },
+  {
+    "business_name": "Sri Siddeshwar Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Panipuri shop",
+    "pincode": "524124",
+    "phone_number": "+91 99899 93027",
+    "website": "https://www.swiggy.com/city/hyderabad/sri-siddheshwar-chat-bhandar-borabanda-allapur-rest905730",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "PT No - 292 Vivekananda Nagar Allapur Vivekananda Nagar, Vivekananda Nagar, Statue, Hyderabad, Telangana 500018",
+    "area": "Vivekananda Nagar, Statue, Borabanda",
+    "latitude": 17.4599992,
+    "longitude": 78.39992649999999,
+    "place_id": "ChIJs-8yufORyzsRcnqEx_7wODU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-8yufORyzsRcnqEx_7wODU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:05"
+  }
+]

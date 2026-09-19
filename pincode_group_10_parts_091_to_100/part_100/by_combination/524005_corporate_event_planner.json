@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubhamastu Eventz",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "524005",
+    "phone_number": "+91 99630 77884",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5/17, Prakash Nagar, Stonehouse Pet, Nellore, Andhra Pradesh 524002",
+    "area": "Prakash Nagar, Stonehouse Pet",
+    "latitude": 14.4589752,
+    "longitude": 79.9910821,
+    "place_id": "ChIJbw1KBKaNTDoRT8IH2bfLJow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbw1KBKaNTDoRT8IH2bfLJow",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:42"
+  },
+  {
+    "business_name": "360 video booth&instant photo booth",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "524005",
+    "phone_number": "+91 77300 74297",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kisan Nagar, Zakir Hussain Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "Kisan Nagar, Zakir Hussain Nagar",
+    "latitude": 14.4677484,
+    "longitude": 80.0021841,
+    "place_id": "ChIJfeZgs_GNTDoRoEhZIPzGG34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeZgs_GNTDoRoEhZIPzGG34",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:42"
+  }
+]

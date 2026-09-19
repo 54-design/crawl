@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Function Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Function room facility",
+    "all_categories": "Function room facility",
+    "pincode": "523335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MX7H+VMV, Ardhaveedu, Andhra Pradesh 523336",
+    "area": "523335",
+    "latitude": 15.664737599999999,
+    "longitude": 78.9791673,
+    "place_id": "ChIJHaWbL0oYtTsRhlIL_KJ9eE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaWbL0oYtTsRhlIL_KJ9eE8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:56"
+  },
+  {
+    "business_name": "Kotthur",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "523335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2-89, Bus stand, kothuru, Ardhaveedu, Andhra Pradesh 523336",
+    "area": "523335",
+    "latitude": 15.6537166,
+    "longitude": 79.019392,
+    "place_id": "ChIJG4JNfAAjtTsRG2DYfmnz7UU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4JNfAAjtTsRG2DYfmnz7UU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:56"
+  }
+]

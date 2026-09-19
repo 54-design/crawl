@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL MOTORS",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Mechanic",
+    "pincode": "523356",
+    "phone_number": "+91 90008 92734",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nandyal to Ongole high, Giddalur, Andhra Pradesh 523357",
+    "area": "Sri Nidhi Nagar",
+    "latitude": 15.379342699999999,
+    "longitude": 78.935932,
+    "place_id": "ChIJnb1QUKrntDsR3XIVkyin63I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnb1QUKrntDsR3XIVkyin63I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:55:08"
+  },
+  {
+    "business_name": "New Climate Control Systems",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Electrical supply store, Electronics Accessories Wholesaler, Refrigerator repair service",
+    "pincode": "523356",
+    "phone_number": "+91 89194 04605",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 8,
+    "address": "Metro Hotel, Cellar, 8-4-393/15/41A, Moosapet Rd, beside Limra Function Hall, Prem Nagar, Erragadda, Hyderabad, Telangana 500114",
+    "area": "Prem Nagar, Erragadda",
+    "latitude": 17.4569381,
+    "longitude": 78.43316209999999,
+    "place_id": "ChIJs_I-qOOQyzsR-GgYUdds4O0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_I-qOOQyzsR-GgYUdds4O0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:55:09"
+  }
+]

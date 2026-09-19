@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malli Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "523328",
+    "phone_number": "+91 63003 61629",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Main Road Bake SideJio Office Durgi, Durgi, Andhra Pradesh 522612",
+    "area": "523328",
+    "latitude": 16.424402,
+    "longitude": 79.5413636,
+    "place_id": "ChIJnzIqwyNRNToRYfOiBGSV_jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzIqwyNRNToRYfOiBGSV_jE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:50"
+  },
+  {
+    "business_name": "Manikanta Milkdairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "523328",
+    "phone_number": "+91 78424 75089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Repakakhandrika, Andhra Pradesh 534328",
+    "area": "523328",
+    "latitude": 16.7184957,
+    "longitude": 81.7428879,
+    "place_id": "ChIJU2IXVinHNzoR3ENApFhoiI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2IXVinHNzoR3ENApFhoiI0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:51"
+  }
+]

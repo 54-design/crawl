@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simhapuri Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "524003",
+    "phone_number": "+91 90141 80082",
+    "website": "https://www.simhapuritravels.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Madras Bus Stand, R. No. 6, R.T.C.Road, near Dist. Courts, Ramesh Reddy Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Ramesh Reddy Nagar",
+    "latitude": 14.4444337,
+    "longitude": 79.97868869999999,
+    "place_id": "ChIJdfRkLTPzTDoR4TjUJOOSu3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfRkLTPzTDoR4TjUJOOSu3Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:15:22"
+  },
+  {
+    "business_name": "VBR TRAVELS NELLORE",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Bus tour agency, Car leasing service, Minibus taxi service, Van rental agency",
+    "pincode": "524003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 74,
+    "address": "OPPSit APTRANSCO-Telecom Division kotthor, VBRTRAVELS ROAD, Podalakur Rd, gadhamrosayyanagar, Nellore, Andhra Pradesh 524004",
+    "area": "524003",
+    "latitude": 14.4116731,
+    "longitude": 79.9325618,
+    "place_id": "ChIJbR-QgkrzTDoR6KYaGVzAkZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbR-QgkrzTDoR6KYaGVzAkZk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:15:23"
+  }
+]

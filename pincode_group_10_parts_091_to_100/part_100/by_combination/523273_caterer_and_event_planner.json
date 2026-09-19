@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna Events & Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Caterer, Entertainment agency",
+    "pincode": "523273",
+    "phone_number": "+91 70037 26671",
+    "website": "https://instagram.com/annapurna_eventsandservices?igshid=MzRlODBiNWFlZA==",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "House no. 42, Girish Rd, Tarapur, Silchar, Assam 788003",
+    "area": "Tarapur",
+    "latitude": 24.8288688,
+    "longitude": 92.78327379999999,
+    "place_id": "ChIJu_52LWhLTjcRdZ9QJ2NK1JU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_52LWhLTjcRdZ9QJ2NK1JU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:56"
+  },
+  {
+    "business_name": "KK Event Management Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event management company, Entertainment agency, Event planner, Party planner, Photographer, Photography service, Wedding planner",
+    "pincode": "523273",
+    "phone_number": "+91 92463 45355",
+    "website": "http://kkeventsindia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Balaji Kranthi High School, Road no: 6, Devamma Basthi, Jagathgiri Gutta, Hyderabad, Telangana 500037",
+    "area": "Devamma Basthi, Jagathgiri Gutta",
+    "latitude": 17.5007902,
+    "longitude": 78.4303281,
+    "place_id": "ChIJDfL2B7eQyzsRbbJ4hl3H0gI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfL2B7eQyzsRbbJ4hl3H0gI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:04:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Style fitness zone",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "524124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PunjabNational Bank back side, Tada, Andhra Pradesh 524401",
+    "area": "524124",
+    "latitude": 13.5856417,
+    "longitude": 80.0387776,
+    "place_id": "ChIJp0ow4MZ3TToRiJ8ZkKg2RNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0ow4MZ3TToRiJ8ZkKg2RNk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:24"
+  },
+  {
+    "business_name": "Active studio gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "524124",
+    "phone_number": "+91 97000 87770",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "L.A.Sagaram, Nayudupeta, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.9047114,
+    "longitude": 79.90076789999999,
+    "place_id": "ChIJO9PXXrwaTToRYAYYYLuwMJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9PXXrwaTToRYAYYYLuwMJQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veerabrahmendra Chicken Traders",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523357",
+    "phone_number": "+91 73960 62064",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shasi 1-352, Racherla Gate Center, Giddalur, Andhra Pradesh 523357",
+    "area": "Racherla Gate Center",
+    "latitude": 15.383054399999999,
+    "longitude": 78.931032,
+    "place_id": "ChIJk4m2BxfntDsRJC1A2e5e-kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4m2BxfntDsRJC1A2e5e-kM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:56:23"
+  },
+  {
+    "business_name": "Shee Ganpati Subramanya General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Service establishment",
+    "pincode": "523357",
+    "phone_number": "+91 87900 91977",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shee Ganpati Subramanya General Store, 523357, India",
+    "area": "523357",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJYVhn6lLntDsRoIjdaIj_xjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVhn6lLntDsRoIjdaIj_xjs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:56:24"
+  }
+]

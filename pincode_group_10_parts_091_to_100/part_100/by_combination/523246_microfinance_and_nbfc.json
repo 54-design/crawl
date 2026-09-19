@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NFC Finance",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "523246",
+    "phone_number": "+91 484 239 2362",
+    "website": "https://nfcfinance.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X7HG+XQ7, Broadway, Marine Drive, Ernakulam, Keralam 682031",
+    "area": "Marine Drive",
+    "latitude": 9.9799007,
+    "longitude": 76.27692189999999,
+    "place_id": "ChIJ2Ro0NVENCDsRGdfr55iPfGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Ro0NVENCDsRGdfr55iPfGY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:43"
+  },
+  {
+    "business_name": "Money Bridge Financial Consultants",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "523246",
+    "phone_number": "+91 86556 67565",
+    "website": "http://mbfc.co.in/",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "S38 2nd Floor, Sej Plaza, Marve Rd, near Nutan School, Malad, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Malad West",
+    "latitude": 19.1920424,
+    "longitude": 72.8455044,
+    "place_id": "ChIJXW_tsua25zsR1xqh95eVVJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXW_tsua25zsR1xqh95eVVJA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:43"
+  }
+]

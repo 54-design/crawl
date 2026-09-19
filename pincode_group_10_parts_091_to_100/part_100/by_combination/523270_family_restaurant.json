@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "suresh restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523270",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Nethivaripalem, Ilavera, Andhra Pradesh 523271",
+    "area": "Nethivaripalem",
+    "latitude": 15.374203,
+    "longitude": 79.83378549999999,
+    "place_id": "ChIJZUgPWfsbSzoRARCiZe27ucI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUgPWfsbSzoRARCiZe27ucI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:57:36"
+  },
+  {
+    "business_name": "Sri Lakshmi Hotal",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523270",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "CV73+GWR, Kondapi, Andhra Pradesh 523270",
+    "area": "523270",
+    "latitude": 15.4138533,
+    "longitude": 79.8547725,
+    "place_id": "ChIJzbxi07UbSzoRxLRpk69HQHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbxi07UbSzoRxLRpk69HQHM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:57:36"
+  }
+]

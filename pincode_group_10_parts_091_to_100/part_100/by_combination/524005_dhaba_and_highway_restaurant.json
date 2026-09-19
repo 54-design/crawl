@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HQ62+6PH, SH 436, Viroor, Andhra Pradesh 524309",
+    "area": "524005",
+    "latitude": 14.5605561,
+    "longitude": 79.75185309999999,
+    "place_id": "ChIJYfXF5bKXTDoRKimvM7O_ZnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfXF5bKXTDoRKimvM7O_ZnI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:42"
+  },
+  {
+    "business_name": "Jana Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba, Family restaurant",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 139,
+    "address": "GVHR+5G7, Rebala, Andhra Pradesh 524305",
+    "area": "524005",
+    "latitude": 14.527906499999999,
+    "longitude": 79.89128219999999,
+    "place_id": "ChIJ8W_KsiaSTDoRaEx8eTT8lVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W_KsiaSTDoRaEx8eTT8lVY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:43"
+  }
+]

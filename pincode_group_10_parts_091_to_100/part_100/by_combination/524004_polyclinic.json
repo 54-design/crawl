@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VM POLYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Diabetologist, Emergency care physician, Neonatal physician",
+    "pincode": "524004",
+    "phone_number": "+91 86224 50958",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "VM POLYCLINIC, Kovur - Nellore Rd, beside CHENNAKESAVA SWAMY TEMPLE, Kovur, Andhra Pradesh 524137",
+    "area": "524004",
+    "latitude": 14.5027864,
+    "longitude": 79.98536849999999,
+    "place_id": "ChIJKXhX8GeNTDoRzzdWHRKhAiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXhX8GeNTDoRzzdWHRKhAiA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:07"
+  },
+  {
+    "business_name": "CHANDRA POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "524004",
+    "phone_number": "+91 92814 00108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mandhabailu center, MANDABAYALU, Kovur, Andhra Pradesh 524137",
+    "area": "MANDABAYALU",
+    "latitude": 14.5024956,
+    "longitude": 79.98448139999999,
+    "place_id": "ChIJM75RgZGNTDoRuTSnTz_aFbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM75RgZGNTDoRuTSnTz_aFbs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:07"
+  }
+]

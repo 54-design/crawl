@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishore Tiffins",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "524101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9/223, Bazar St, Swarna Bharathi Nagar, Gudur, West Gudur Rural, Andhra Pradesh 524101",
+    "area": "Swarna Bharathi Nagar",
+    "latitude": 14.1487558,
+    "longitude": 79.8525654,
+    "place_id": "ChIJ2br2oojjTDoRP0OgQtDDvlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2br2oojjTDoRP0OgQtDDvlU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:31"
+  },
+  {
+    "business_name": "Subbu Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "524101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "WV5W+J6G, L.A.Sagaram, Vinnamala, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.9090654,
+    "longitude": 79.8955764,
+    "place_id": "ChIJ-ZF9ADIbTToR9vToC6OY_Hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZF9ADIbTToR9vToC6OY_Hk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Quality Pest Control Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "524137",
+    "phone_number": "+91 88859 14421",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1B/2-746, Gudupalli Padu - Narayana Reddy Pet, Allipuram, Nellore, Pedda Cherukur, Andhra Pradesh 524002",
+    "area": "Allipuram",
+    "latitude": 14.448365899999999,
+    "longitude": 80.0536332,
+    "place_id": "ChIJzQ3lZwCLTDoRJZkoYcoUnzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQ3lZwCLTDoRJZkoYcoUnzw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:12"
+  },
+  {
+    "business_name": "Maruthi Hygiene Liquids Gudipallipadu",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "524137",
+    "phone_number": "+91 81429 51022",
+    "website": "https://www.instagram.com/sudheer_maruthi_higiene_liquid?igsh=MW16bGhndmU3dGZyZw==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gudipallipadu center, near NTR statue, Nellore, Gudupalli Padu, Andhra Pradesh 524314",
+    "area": "524137",
+    "latitude": 14.453017299999999,
+    "longitude": 80.0471203,
+    "place_id": "ChIJBX_Y8QOLTDoRLifN4qcDjfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBX_Y8QOLTDoRLifN4qcDjfU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:12"
+  }
+]

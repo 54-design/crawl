@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh Tiffins",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Breakfast restaurant, Takeout restaurant",
+    "pincode": "523335",
+    "phone_number": "+91 96182 41223",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 110,
+    "address": "HIG-158, Kukatpally Housing Board Colony, KPHB 5th Phase, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, KPHB 5th Phase, Kukatpally",
+    "latitude": 17.4816845,
+    "longitude": 78.3920716,
+    "place_id": "ChIJ-TTAcY-RyzsR08GzIJ05x1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TTAcY-RyzsR08GzIJ05x1U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:03"
+  },
+  {
+    "business_name": "Sri Surya Tiffin center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "523335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "Valasapakala, Ramanayapeta, Vakalapudi, Andhra Pradesh 533005",
+    "area": "Valasapakala, Ramanayapeta",
+    "latitude": 16.9939164,
+    "longitude": 82.25668519999999,
+    "place_id": "ChIJG_yi-B0pODoRq_TMaNFueJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_yi-B0pODoRq_TMaNFueJ0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:04"
+  }
+]

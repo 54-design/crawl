@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.MART PROVISIONS",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "M.R.O office, Road Arabasthan Street, Donakonda, Bada Puram, Andhra Pradesh 523305",
+    "area": "Donakonda",
+    "latitude": 15.8316213,
+    "longitude": 79.48190199999999,
+    "place_id": "ChIJZaOEcpXJSjoRstRjFm4bYas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaOEcpXJSjoRstRjFm4bYas",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:24:41"
+  },
+  {
+    "business_name": "USHODAYA ELECTRICALS AND GENERAL STORES",
+    "search_category": "Provision Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523305",
+    "phone_number": "+91 94415 87022",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Pullalacheruvu road, opp. TTD kalyanamandapam, Erragondapalem, Andhra Pradesh 523327",
+    "area": "523305",
+    "latitude": 16.0420286,
+    "longitude": 79.3098615,
+    "place_id": "ChIJUW_rPs9NtTsRB_VvGyFV6do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW_rPs9NtTsRB_VvGyFV6do",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:24:43"
+  }
+]

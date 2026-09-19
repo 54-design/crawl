@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Splash Carcare",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto care products store, Auto painting, Auto Accessories Store, Car stereo store, Auto restoration service, Vehicle wrapping service, Window tinting service",
+    "pincode": "523252",
+    "phone_number": "+91 90000 33014",
+    "website": "https://splashcarcare.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "313, Banjara Hills Rd Number 3, nr. Levant restaurant, UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills",
+    "latitude": 17.4253309,
+    "longitude": 78.43800279999999,
+    "place_id": "ChIJey703KiXyzsRBf8ZE2uj4UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey703KiXyzsRBf8ZE2uj4UA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:32"
+  },
+  {
+    "business_name": "Maruthi hydralic foam& water servicing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "523252",
+    "phone_number": "+91 77991 00256",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Darsi Rd, beside Sri jahnavi high school, Turu Gangavaram, Ramabhadrapuram, Andhra Pradesh 523264",
+    "area": "Turu Gangavaram",
+    "latitude": 15.715321099999999,
+    "longitude": 79.8346394,
+    "place_id": "ChIJdUphB-bnSjoRaxIwcIento0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUphB-bnSjoRaxIwcIento0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:35"
+  }
+]

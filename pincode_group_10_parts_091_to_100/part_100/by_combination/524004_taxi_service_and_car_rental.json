@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cabs Nellore",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "524004",
+    "phone_number": "N/A",
+    "website": "https://nellorecabs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "first line, 7/3/786 wears colony, settygunta road, Main Rd, opp. site sbi bank, Nellore, Andhra Pradesh 524002",
+    "area": "Bujabuja Nellore",
+    "latitude": 14.3921294,
+    "longitude": 79.93498009999999,
+    "place_id": "ChIJtbz3vlbzTDoRspkWxNeX_bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbz3vlbzTDoRspkWxNeX_bA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:18"
+  },
+  {
+    "business_name": "GADES TRAVELS 1",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Auto broker, Bus ticket agency, Bus tour agency, Taxi service, Tour agency, Transportation service, Used car dealer",
+    "pincode": "524004",
+    "phone_number": "+91 98490 54673",
+    "website": "https://sites.google.com/view/gadestravels/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GX7Q+Q28, Kovur Main Rd, near Highway Sai Baba Temple, Kovur, Andhra Pradesh 524137",
+    "area": "524004",
+    "latitude": 14.514503,
+    "longitude": 79.9875319,
+    "place_id": "ChIJk7VRCdeNTDoRvwZg8Q3R2tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7VRCdeNTDoRvwZg8Q3R2tk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:17:18"
+  }
+]

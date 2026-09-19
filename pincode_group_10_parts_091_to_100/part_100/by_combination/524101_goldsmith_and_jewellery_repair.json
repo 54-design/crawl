@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "santhosh jewllery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "524101",
+    "phone_number": "+91 90007 99328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hospital Rd, Swarna Bharathi Nagar, West Gudur Rural, Andhra Pradesh 524101",
+    "area": "Swarna Bharathi Nagar",
+    "latitude": 14.1466142,
+    "longitude": 79.8499089,
+    "place_id": "ChIJqSAdkkLjTDoRABFUAOy6mi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSAdkkLjTDoRABFUAOy6mi8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:39"
+  },
+  {
+    "business_name": "SULLURPET JEWELLERS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "524101",
+    "phone_number": "+91 91678 35555",
+    "website": "https://sullurpetjewellers.com/",
+    "rating": 4.9,
+    "reviews_count": 105,
+    "address": "8-2-30, Panduranga St, Babuji Colony, Sullurupeta, Andhra Pradesh 524121",
+    "area": "Babuji Colony",
+    "latitude": 13.7020865,
+    "longitude": 80.0158872,
+    "place_id": "ChIJu6uUH0V1TToR3711wVWdKck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6uUH0V1TToR3711wVWdKck",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:40"
+  }
+]

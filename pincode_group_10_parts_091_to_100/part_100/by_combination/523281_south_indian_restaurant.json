@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vamsi Mess",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant, Caterer, Takeout restaurant",
+    "pincode": "523281",
+    "phone_number": "+91 99088 70777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 488,
+    "address": "south, beside SBI bank, Janathapet, Kavali, Andhra Pradesh 524201",
+    "area": "Janathapet",
+    "latitude": 14.912365,
+    "longitude": 79.9862351,
+    "place_id": "ChIJIxp1rYx7SzoRFtOVaYZQG6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxp1rYx7SzoRFtOVaYZQG6M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:10:13"
+  },
+  {
+    "business_name": "Hindustan Military Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "523281",
+    "phone_number": "+91 98483 27308",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 32,
+    "address": "6W84+WX9 mro office, Sai Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Sai Nagar",
+    "latitude": 15.2172951,
+    "longitude": 79.9074926,
+    "place_id": "ChIJ12zo320TSzoRX-E39_wyRP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12zo320TSzoRX-E39_wyRP0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:10:13"
+  }
+]

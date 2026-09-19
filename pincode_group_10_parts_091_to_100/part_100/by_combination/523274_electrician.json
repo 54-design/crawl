@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROHITH HOUSE",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "523274",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "82MR+XHH, Arundathi Nagar, Tanguturu, Andhra Pradesh 523274",
+    "area": "Arundathi Nagar",
+    "latitude": 15.3349288,
+    "longitude": 80.0414799,
+    "place_id": "ChIJBalz4ZMJSzoRl_Oj2R1eecI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBalz4ZMJSzoRl_Oj2R1eecI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:05:29"
+  },
+  {
+    "business_name": "Rafi Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Electrical repair shop",
+    "pincode": "523274",
+    "phone_number": "+91 70133 36876",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Road, opp. ZP School, Madanur, Ethamukkala, Andhra Pradesh 523280",
+    "area": "523274",
+    "latitude": 15.371182399999999,
+    "longitude": 80.1106266,
+    "place_id": "ChIJA7UmdLSnSzoRaYX8tvxtyyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7UmdLSnSzoRaYX8tvxtyyQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:05:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coldman Logistics, Sricity, AP",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "524121",
+    "phone_number": "N/A",
+    "website": "http://www.coldman.in/",
+    "rating": 4,
+    "reviews_count": 53,
+    "address": "Satyavadu, Racherla, Varadaiahpalem, Sy. 201, Mopurapalle, Andhra Pradesh 517646",
+    "area": "Mopurapalle",
+    "latitude": 13.549250599999999,
+    "longitude": 79.9859125,
+    "place_id": "ChIJf8xKwkxxTToRT0gRPiEz4xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8xKwkxxTToRT0gRPiEz4xA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:23:46"
+  },
+  {
+    "business_name": "AMAZON LINQ Shopping Stop",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "524121",
+    "phone_number": "+91 98885 41114",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 77,
+    "address": "Panduranga St, Sullurupeta, Andhra Pradesh 524121",
+    "area": "524121",
+    "latitude": 13.7023692,
+    "longitude": 80.01516649999999,
+    "place_id": "ChIJXbqSOq90TToRqPtZyvzegwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbqSOq90TToRqPtZyvzegwc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:23:46"
+  }
+]

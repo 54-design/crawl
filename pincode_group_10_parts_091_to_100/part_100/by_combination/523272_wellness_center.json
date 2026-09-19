@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishitha Wellness World",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "523272",
+    "phone_number": "+91 88855 10455",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "F2MX+J92 Opp. Old Z.P. Office, South By-Pass Road, Balaji Tirupathi Rao Kalyana Mandapam, Ongole, Andhra Pradesh 523001",
+    "area": "Ambedkar Colony, Ramnagar",
+    "latitude": 15.4840941,
+    "longitude": 80.0483673,
+    "place_id": "ChIJ7x-1aDYBSzoRs3GbiXZjBCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x-1aDYBSzoRs3GbiXZjBCA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:02:01"
+  },
+  {
+    "business_name": "Aster Preventive & Wellness Health Centre - Top Family Health Checkup Packages in Ongole",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Doctor, Family practice physician, Internal medicine ward, Medical clinic, Pain management physician, Medical Center",
+    "pincode": "523272",
+    "phone_number": "+91 79 4281 0814",
+    "website": "https://www.asterhospitals.in/hospitals/aster-ramesh-ongole",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 5, near South Bypass Junction, Ambedkar Colony, Pragathy Colony, Pelluru, Andhra Pradesh 523001",
+    "area": "Ambedkar Colony, Pragathy Colony",
+    "latitude": 15.479147,
+    "longitude": 80.04856,
+    "place_id": "ChIJqz-91RwBSzoRjSW7jQKrmhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz-91RwBSzoRjSW7jQKrmhU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:02:01"
+  }
+]

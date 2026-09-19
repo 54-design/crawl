@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "523286",
+    "phone_number": "+91 99513 19872",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-29A, CHAITANYA SCHOOL STREET, Kothapatnam, Andhra Pradesh 523286",
+    "area": "523286",
+    "latitude": 15.4459051,
+    "longitude": 80.1669775,
+    "place_id": "ChIJIehfzmOpSzoRqtvFasGee90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIehfzmOpSzoRqtvFasGee90",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:13:15"
+  },
+  {
+    "business_name": "TATA PLAY (TATA Sky)",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Satellite Communication Services Provider",
+    "all_categories": "Satellite Communication Services Provider",
+    "pincode": "523286",
+    "phone_number": "+91 78010 36526",
+    "website": "https://www.tataplay.com/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "opp. to Kalyana Mandapam, near Bus Stand, Kothapatnam, Andhra Pradesh 523286",
+    "area": "523286",
+    "latitude": 15.446956499999999,
+    "longitude": 80.1654058,
+    "place_id": "ChIJkwqgQ4upSzoRBmUwF06hvHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwqgQ4upSzoRBmUwF06hvHE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:13:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kallipedu school",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XW88+828, Kallipedu, Andhra Pradesh 524126",
+    "area": "524126",
+    "latitude": 13.965776199999999,
+    "longitude": 79.9150806,
+    "place_id": "ChIJG6Vsd8kbTToRA4QTZ8ONrzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6Vsd8kbTToRA4QTZ8ONrzM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:49"
+  },
+  {
+    "business_name": "MPP school",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XX93+6FH, Kalavagattu village, Annamedu, Andhra Pradesh 524126",
+    "area": "524126",
+    "latitude": 13.9680726,
+    "longitude": 79.9537338,
+    "place_id": "ChIJoz96PwAFTToRFNjPCvXIxGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz96PwAFTToRFNjPCvXIxGM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:49"
+  }
+]

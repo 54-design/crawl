@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI Customer Service Point",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Money order service",
+    "all_categories": "Money order service, Bus ticket agency, Fax Service Provider, Internet cafe, Railway Ticket Agent",
+    "pincode": "523253",
+    "phone_number": "+91 96766 76007",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "KAMEPALLI ROAD, KONDAPI POST, KONDAPI MANDALAM, Kondapi, Andhra Pradesh 523270",
+    "area": "523253",
+    "latitude": 15.4117682,
+    "longitude": 79.8574819,
+    "place_id": "ChIJlUPrIakZSzoRQdvqK3D1kqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUPrIakZSzoRQdvqK3D1kqE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:43:28"
+  },
+  {
+    "business_name": "Car Travels Annavaram PALLAVI TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523253",
+    "phone_number": "+91 63058 52693",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "mani road, Annavaram, Andhra Pradesh 533406",
+    "area": "523253",
+    "latitude": 17.2813652,
+    "longitude": 82.3971498,
+    "place_id": "ChIJ-2XrnqLPOToRMHVepeRU4LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2XrnqLPOToRMHVepeRU4LE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:43:29"
+  }
+]

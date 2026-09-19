@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sree Mallikarjuna Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "524005",
+    "phone_number": "+91 98484 96262",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W11/902/3, Trunk Rd, near st Joseph's hospital, Santhapet, Nellore, Andhra Pradesh 524001",
+    "area": "Santhapet",
+    "latitude": 14.4570624,
+    "longitude": 79.9827181,
+    "place_id": "ChIJc3_IhLaNTDoR0cq3kO8YwKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3_IhLaNTDoR0cq3kO8YwKw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:17"
+  },
+  {
+    "business_name": "Chandra Traders",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Refrigerator store",
+    "all_categories": "Refrigerator store, Air conditioning store",
+    "pincode": "524005",
+    "phone_number": "+91 861 232 4448",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NO.11, NC BUILDINGS, Subedarpet, Nellore, Andhra Pradesh 524001",
+    "area": "Subedarpet",
+    "latitude": 14.456769399999999,
+    "longitude": 79.98812559999999,
+    "place_id": "ChIJFy8RIbiMTDoRBS8sh3wF3fA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy8RIbiMTDoRBS8sh3wF3fA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:17"
+  }
+]

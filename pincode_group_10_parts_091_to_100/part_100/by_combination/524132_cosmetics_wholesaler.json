@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalyan fancy and gifts",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "524132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "16/361, Anandhapuram St, Anandhapuram, Poli Setty Gunta, Peerjathipeta, Venkatagiri, Andhra Pradesh 524132",
+    "area": "Anandhapuram, Poli Setty Gunta, Peerjathipeta",
+    "latitude": 13.9547288,
+    "longitude": 79.5799811,
+    "place_id": "ChIJmaZwWwAlTToRC5z3DSaqrok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaZwWwAlTToRC5z3DSaqrok",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:54"
+  },
+  {
+    "business_name": "Lakshmi Vinayaka Bangles And Fancy",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "524132",
+    "phone_number": "+91 81257 67775",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "XH5J G7H, Venkatagiri, Andhra Pradesh 524132",
+    "area": "524132",
+    "latitude": 13.9588624,
+    "longitude": 79.58054349999999,
+    "place_id": "ChIJd64vA6klTToRQ4sz0ZQBv3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd64vA6klTToRQ4sz0ZQBv3g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SVC CABLE NETWORK",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cable company",
+    "all_categories": "Cable company",
+    "pincode": "523373",
+    "phone_number": "+91 91580 15333",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar Rd, Komarolu, Andhra Pradesh 523373",
+    "area": "523373",
+    "latitude": 15.265118999999999,
+    "longitude": 79.00099349999999,
+    "place_id": "ChIJ8y1KsA7ptDsR_GDEPMy74YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y1KsA7ptDsR_GDEPMy74YY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:10:17"
+  },
+  {
+    "business_name": "Tirupati Cell Point",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "523373",
+    "phone_number": "+91 90003 12366",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7292+686, Komarolu, Andhra Pradesh 523373",
+    "area": "523373",
+    "latitude": 15.2680288,
+    "longitude": 79.0007795,
+    "place_id": "ChIJUfUlFcnptDsR3NoOFx_ImaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfUlFcnptDsR3NoOFx_ImaA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:10:17"
+  }
+]

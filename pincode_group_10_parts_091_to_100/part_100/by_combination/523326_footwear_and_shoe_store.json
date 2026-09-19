@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SP Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523326",
+    "phone_number": "+91 99890 11678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "9-2-143, Kacheri street, Sullurupeta, Andhra Pradesh 524121",
+    "area": "523326",
+    "latitude": 13.7008177,
+    "longitude": 80.0167821,
+    "place_id": "ChIJoSla3EB1TToRG9CSjdBtWp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSla3EB1TToRG9CSjdBtWp8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:27"
+  },
+  {
+    "business_name": "Teja Popular Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Shopping mall",
+    "pincode": "523326",
+    "phone_number": "+91 94407 80762",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "NH16, Ravulapalem, Andhra Pradesh 533238",
+    "area": "523326",
+    "latitude": 16.761095,
+    "longitude": 81.8418212,
+    "place_id": "ChIJS-UUMDG_NzoRr1ofUq13adg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-UUMDG_NzoRr1ofUq13adg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:27"
+  }
+]

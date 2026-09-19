@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Labtin Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "524002",
+    "phone_number": "+91 86860 73073",
+    "website": "https://www.labtin.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Center, Mini Bypass Road, opposite SBI Bank, BV Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "BV Nagar",
+    "latitude": 14.414632,
+    "longitude": 79.9658019,
+    "place_id": "ChIJCYcVevvzTDoR8HNsoL_WUDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYcVevvzTDoR8HNsoL_WUDc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:15"
+  },
+  {
+    "business_name": "Apollo 24|7 Lab Test | B V Nagar Nellore | Nellore",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Health consultant, Laboratory, Medical laboratory, Pathologist",
+    "pincode": "524002",
+    "phone_number": "+91 80 4557 2851",
+    "website": "https://www.apollo247.com/lab-tests",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Door No 26, 1/764/2, opposite Andhra Pragathi, Gremeena Bank, BV Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "Gremeena Bank, BV Nagar",
+    "latitude": 14.416120999999999,
+    "longitude": 79.964508,
+    "place_id": "ChIJ5RDq-QnzTDoR0q4J6eNLzQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RDq-QnzTDoR0q4J6eNLzQY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:16"
+  }
+]

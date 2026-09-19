@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalakshmi Bhojanam Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Catering food and drink supplier, Caterer, Restaurant supply store",
+    "pincode": "523260",
+    "phone_number": "+91 88865 01469",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Valaparla Main Rd, near Bhavana Rushi Temple, Jangamaheswarapuram, Andhra Pradesh 523260",
+    "area": "523260",
+    "latitude": 15.9236233,
+    "longitude": 80.04959989999999,
+    "place_id": "ChIJRYgLlXX1SjoR3R-KLKwx3w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYgLlXX1SjoR3R-KLKwx3w0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:47:31"
+  },
+  {
+    "business_name": "Hotel Lakshmi",
+    "search_category": "Hotel",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "523260",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W3C2+GG6, Valaparla Main Rd, Jangamaheswarapuram, Andhra Pradesh 523260",
+    "area": "523260",
+    "latitude": 15.9212841,
+    "longitude": 80.05125819999999,
+    "place_id": "ChIJQRTyEQD1SjoRh76uVBAyCyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRTyEQD1SjoRh76uVBAyCyk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:47:31"
+  }
+]

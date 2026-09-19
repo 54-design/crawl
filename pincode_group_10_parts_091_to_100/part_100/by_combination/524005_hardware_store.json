@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BS TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Iron & Steel Store",
+    "pincode": "524005",
+    "phone_number": "+91 70753 74770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gopuram St, opp. Railway Gate, Guruthota, Ranganaykulapet, Nellore, Andhra Pradesh 524001",
+    "area": "Guruthota, Ranganaykulapet",
+    "latitude": 14.465414299999999,
+    "longitude": 79.9895439,
+    "place_id": "ChIJX2evVr6MTDoR0PqjyY4LXjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2evVr6MTDoR0PqjyY4LXjc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:19"
+  },
+  {
+    "business_name": "Siva Sakthi Hardware & Power Tools",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Tool repair shop, Tool store",
+    "pincode": "524005",
+    "phone_number": "+91 89852 71543",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FX4Q+Q3X, NSB Road, opp. RKT Petrol Pump, Ramji Nagar, Nellore, Andhra Pradesh 524001",
+    "area": "Ramji Nagar",
+    "latitude": 14.456995399999998,
+    "longitude": 79.9877235,
+    "place_id": "ChIJ3c9-GLiMTDoRnYuhnOZLTHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3c9-GLiMTDoRnYuhnOZLTHE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:20"
+  }
+]

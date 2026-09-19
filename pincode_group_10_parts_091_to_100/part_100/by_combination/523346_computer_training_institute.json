@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "523346",
+    "phone_number": "+91 93583 23823",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Beside LIC Offiec, Jampala Complex, SVM Centre, Cumbum, Andhra Pradesh 523333, Cumbum, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.586588899999999,
+    "longitude": 79.1145469,
+    "place_id": "ChIJFRMFCsontTsRXoxr9WfLSfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRMFCsontTsRXoxr9WfLSfE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:53:49"
+  },
+  {
+    "business_name": "SREE COMPUTERS",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "523346",
+    "phone_number": "+91 94912 22680",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Racharla Bustand,Opp Krishna Talkies,Pikkili Pullaiha Complex,2nd Floor, Giddalur, Andhra Pradesh 523357",
+    "area": "Basha Nagar",
+    "latitude": 15.376358,
+    "longitude": 78.925086,
+    "place_id": "ChIJp0-xOybktDsR3UrEWfB1xGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0-xOybktDsR3UrEWfB1xGo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:53:49"
+  }
+]

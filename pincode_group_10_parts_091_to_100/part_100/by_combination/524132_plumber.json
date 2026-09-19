@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadha Siva Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "524132",
+    "phone_number": "+91 96662 00958",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "Venkotarajupalle, Koduru, Nagaripadu, Andhra Pradesh 516110",
+    "area": "Venkotarajupalle",
+    "latitude": 14.1000269,
+    "longitude": 79.35739149999999,
+    "place_id": "ChIJoVi2FyUrszsR2i4JJjIGxEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVi2FyUrszsR2i4JJjIGxEE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:47"
+  },
+  {
+    "business_name": "HARSHA HDPE PIPES",
+    "search_category": "Plumber",
+    "primary_category": "Pipe Manufacturer",
+    "all_categories": "Pipe Manufacturer",
+    "pincode": "524132",
+    "phone_number": "+91 95505 51350",
+    "website": "http://www.harshapolymers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beside teja pipes Sarvepally, Venkatachalam, bit 2, Andhra Pradesh 524323",
+    "area": "Venkatachalam, bit 2",
+    "latitude": 14.2812533,
+    "longitude": 79.9922955,
+    "place_id": "ChIJO1QxZmfxTDoRh_oXS7m4JPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1QxZmfxTDoRh_oXS7m4JPg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:35:48"
+  }
+]

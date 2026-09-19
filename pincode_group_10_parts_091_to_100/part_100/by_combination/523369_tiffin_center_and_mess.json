@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshay Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "523369",
+    "phone_number": "+91 91600 47022",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH163, Subedari, Hanamkonda, Telangana 506001",
+    "area": "Subedari",
+    "latitude": 17.9950424,
+    "longitude": 79.5467462,
+    "place_id": "ChIJoeQse5tPMzoRWJFPwU2OClI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeQse5tPMzoRWJFPwU2OClI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:01:54"
+  },
+  {
+    "business_name": "Madhuram Tiffins And Meals",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523369",
+    "phone_number": "+91 80198 60404",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "KLN Reddy Colony, Subedari, Hanamkonda, Telangana 506001",
+    "area": "KLN Reddy Colony, Subedari",
+    "latitude": 17.997400499999998,
+    "longitude": 79.546598,
+    "place_id": "ChIJkSw_K6dPMzoRpjy3Q3AGLZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSw_K6dPMzoRpjy3Q3AGLZQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:01:54"
+  }
+]

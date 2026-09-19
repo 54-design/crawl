@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAIDU DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "524137",
+    "phone_number": "+91 63029 06095",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 52,
+    "address": "Shop No 11 National Highway, Rajupalem - Isakapalle Rd, Ramanapalem, Andhra Pradesh 524366",
+    "area": "524137",
+    "latitude": 14.537958,
+    "longitude": 79.99238509999999,
+    "place_id": "ChIJq3AoZJ6PTDoRq6_fqL2fn1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3AoZJ6PTDoRq6_fqL2fn1I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:38:46"
+  },
+  {
+    "business_name": "KUSHI FAMILY DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Cafe",
+    "pincode": "524137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near highway, beside union bank of india, North Rajupalem, Nellore, Andhra Pradesh 524126",
+    "area": "524137",
+    "latitude": 14.5505584,
+    "longitude": 79.9911486,
+    "place_id": "ChIJi1_DWQCPTDoREYpISxP5jpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1_DWQCPTDoREYpISxP5jpY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:38:46"
+  }
+]

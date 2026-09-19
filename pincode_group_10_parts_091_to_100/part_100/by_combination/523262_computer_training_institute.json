@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAY Software",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "523262",
+    "phone_number": "+91 98487 52955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kurnool Rd, Srinivasa Colony, Virat Nagar, Ongole, Andhra Pradesh 523002",
+    "area": "Srinivasa Colony, Virat Nagar",
+    "latitude": 15.521719699999998,
+    "longitude": 80.0314568,
+    "place_id": "ChIJXQxZBQsBSzoRKa-CGJpMd2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQxZBQsBSzoRKa-CGJpMd2A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:16"
+  },
+  {
+    "business_name": "IGNIT COMPUTER TRAINING CENTRE",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "523262",
+    "phone_number": "+91 99892 46301",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Venkateshwara Nagar, Tarapuri Colony, Nagaram, Secunderabad, Telangana 500083",
+    "area": "Venkateshwara Nagar, Tarapuri Colony, Nagaram",
+    "latitude": 17.4893034,
+    "longitude": 78.6011709,
+    "place_id": "ChIJdRuJCwCdyzsRjGqkfbmn550",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRuJCwCdyzsRjGqkfbmn550",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SmartWay Healthcare",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Medical equipment supplier, Hospital equipment and supplies, Medical supply store",
+    "pincode": "523252",
+    "phone_number": "+91 89211 72300",
+    "website": "http://www.smartwayhealthcare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SmartWay Healthcare Shop No: 21/497 , Ground Floor, Kaipadamugal , Thrikkakkara North, Ernakulam – 682 021, Cochin, Keralam 682021",
+    "area": "Vidya Nagar Colony, Thrikkakara, Kaipadamugal",
+    "latitude": 10.0413947,
+    "longitude": 76.33818699999999,
+    "place_id": "ChIJI-mvx-INCDsRYOGTNfg6_fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-mvx-INCDsRYOGTNfg6_fw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:31"
+  },
+  {
+    "business_name": "NEW HOPES NEPHRO CARE DIALYSIS CENTERS",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "523252",
+    "phone_number": "+91 97054 88287",
+    "website": "http://www.newhopesnephrocare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road No. 4, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally",
+    "latitude": 17.4894092,
+    "longitude": 78.39619359999999,
+    "place_id": "ChIJ6YumY6CRyzsR-xsnMW92i50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YumY6CRyzsR-xsnMW92i50",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:31"
+  }
+]

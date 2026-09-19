@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PALNADU HOSPITALS",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523279",
+    "phone_number": "+91 72988 84222",
+    "website": "http://www.palnaduhospitals.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Julakallu - Piduguralla Rd, Palnadu, Piduguralla, Andhra Pradesh 522413",
+    "area": "Palnadu",
+    "latitude": 16.479887299999998,
+    "longitude": 79.8919386,
+    "place_id": "ChIJ0_yHZP1vNToRqCjvuCqyV6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_yHZP1vNToRqCjvuCqyV6U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:06:57"
+  },
+  {
+    "business_name": "Aiswariya clinic & diagnostic centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523279",
+    "phone_number": "+91 94977 41956",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "97P8+3CP, Uppada, Keralam 679334",
+    "area": "Uppada",
+    "latitude": 11.3852216,
+    "longitude": 76.2660776,
+    "place_id": "ChIJqa7lSAAXpjsRzFaV4pkilGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqa7lSAAXpjsRzFaV4pkilGw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:06:57"
+  }
+]

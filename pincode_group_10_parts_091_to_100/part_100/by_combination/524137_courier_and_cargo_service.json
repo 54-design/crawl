@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Services NLR",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "524137",
+    "phone_number": "+91 99129 05556",
+    "website": "https://smart-services-nlr.ueniweb.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Rajendra Nagar, Kukkalagunta, Kotamitta, Nellore, Andhra Pradesh 524001",
+    "area": "Kukkalagunta, Kotamitta",
+    "latitude": 14.455209499999999,
+    "longitude": 79.9770465,
+    "place_id": "ChIJTYmSubuNTDoRiuo1EYg7bjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYmSubuNTDoRiuo1EYg7bjs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:10"
+  },
+  {
+    "business_name": "Train Food Order",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "524137",
+    "phone_number": "+91 83094 82047",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sathapet Masjid center, Kapatipalem, Santhapet, Nellore, Andhra Pradesh 524001",
+    "area": "Kapatipalem, Santhapet",
+    "latitude": 14.4584397,
+    "longitude": 79.9821966,
+    "place_id": "ChIJyZuIeJONTDoRjNybiMyQWZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZuIeJONTDoRjNybiMyQWZs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:11"
+  }
+]

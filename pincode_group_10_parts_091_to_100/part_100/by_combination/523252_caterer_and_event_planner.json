@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya catering services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "523252",
+    "phone_number": "+91 98662 56678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Door no:33-14106/A, Allipuram Market Rd, opp. sri lakshmi narayana handlooms, near iyyengar bakery, Visakhapatnam, Andhra Pradesh 530004",
+    "area": "Daba Gardens, Mahaarajupeta",
+    "latitude": 17.717981899999998,
+    "longitude": 83.295632,
+    "place_id": "ChIJ-Zpki8JDOToR9buQtNvnwms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Zpki8JDOToR9buQtNvnwms",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:01"
+  },
+  {
+    "business_name": "Friend's Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "523252",
+    "phone_number": "+91 90101 74722",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opposite Coromandel Bus Stop, Ramnagar, Sriharipuram, Visakhapatnam, Andhra Pradesh 530011",
+    "area": "Opposite Coromandel Bus Stop, Ramnagar, Sriharipuram",
+    "latitude": 17.6900974,
+    "longitude": 83.238697,
+    "place_id": "ChIJP2vpb7NpOToRcLuaQZqHdS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2vpb7NpOToRcLuaQZqHdS8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:42:04"
+  }
+]

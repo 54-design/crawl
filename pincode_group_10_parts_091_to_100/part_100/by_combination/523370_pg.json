@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Better Inn",
+    "search_category": "PG",
+    "primary_category": "Youth Hostel",
+    "all_categories": "Youth Hostel, Boys' hostel, Girls' hostel, Backpacker Hostel, Hotel, Motel, Serviced accommodation, Student housing center, Working women's hostel",
+    "pincode": "523370",
+    "phone_number": "+91 96668 79025",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "23-111/2/B, Madhura Nagar, Shamshabad, Hyderabad, Telangana 501218",
+    "area": "Madhura Nagar, Shamshabad",
+    "latitude": 17.262276699999997,
+    "longitude": 78.3863841,
+    "place_id": "ChIJr6FbJga9yzsRMPiCvWLRceM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6FbJga9yzsRMPiCvWLRceM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:36"
+  },
+  {
+    "business_name": "Aashirwad ladies pg",
+    "search_category": "PG",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel, Working women's hostel",
+    "pincode": "523370",
+    "phone_number": "+91 77600 55115",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Aashirwad Building, 20/1, 9th Main Rd, next to Apollo Hospital, Bairasandra Extension, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "area": "Bairasandra Extension, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar",
+    "latitude": 12.9361757,
+    "longitude": 77.5842199,
+    "place_id": "ChIJFUsgLpYVrjsRB2K_QHkuvB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUsgLpYVrjsRB2K_QHkuvB8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:04:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jakeer fancy stor, cement and electronics shop",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH565, Markapur, Rayavaram, Andhra Pradesh 523371",
+    "area": "523315",
+    "latitude": 15.7176911,
+    "longitude": 79.30566999999999,
+    "place_id": "ChIJ8VkTEPsztTsRHa90B40FHzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VkTEPsztTsRHa90B40FHzQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:21"
+  },
+  {
+    "business_name": "LUCKY HOME",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523315",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Q84H+M86, SC Colony, Peda Yachavaram, Andhra Pradesh 523315",
+    "area": "SC Colony",
+    "latitude": 15.7562188,
+    "longitude": 79.327867,
+    "place_id": "ChIJ1RCYMwAztTsRThff59QQ4f8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RCYMwAztTsRThff59QQ4f8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:28:21"
+  }
+]

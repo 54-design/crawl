@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Five Star Chicken",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "524004",
+    "phone_number": "+91 94905 86650",
+    "website": "https://fivestarchicken.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6th lane, Childrens Park Rd, Pinakini Avenue, Ramji Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Pinakini Avenue, Ramji Nagar",
+    "latitude": 14.4400517,
+    "longitude": 79.99302519999999,
+    "place_id": "ChIJq-IfMUXzTDoRTxUUDgySs1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-IfMUXzTDoRTxUUDgySs1Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:16:47"
+  },
+  {
+    "business_name": "Prestige Xclusive - Naellore [Closed]",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "524004",
+    "phone_number": "+91 861 230 7222",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "No.25-10-769, Vedyapalem Bus Stop, GNT Rd, Vedayapalem, Nellore, Andhra Pradesh 524004",
+    "area": "Vedayapalem",
+    "latitude": 14.4112425,
+    "longitude": 79.955772,
+    "place_id": "ChIJva7JYcDzTDoRsCVsJDEufGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJva7JYcDzTDoRsCVsJDEufGg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:16:48"
+  }
+]

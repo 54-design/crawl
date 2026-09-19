@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523333",
+    "phone_number": "+91 96408 54851",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Indian Bakery, Bestavaripeta, Andhra Pradesh 523334",
+    "area": "523333",
+    "latitude": 15.5513754,
+    "longitude": 79.1024707,
+    "place_id": "ChIJpSbpwV0htTsRydRP1udYoQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSbpwV0htTsRydRP1udYoQo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:17"
+  },
+  {
+    "business_name": "Nachiyar'ss Bakery and Sweets",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523333",
+    "phone_number": "+91 96777 71557",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 440,
+    "address": "347-K, LF Main Rd, Nethaji Nagar, Bharathiyar Nagar, Cumbum, Tamil Nadu 625516",
+    "area": "Nethaji Nagar, Bharathiyar Nagar",
+    "latitude": 9.7412653,
+    "longitude": 77.286576,
+    "place_id": "ChIJQeqZ3acDBzsRY6_b2gIR7Vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeqZ3acDBzsRY6_b2gIR7Vo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:18"
+  }
+]

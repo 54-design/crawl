@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jp fancy store &book centre",
+    "search_category": "Boutiques",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "524134",
+    "phone_number": "+91 81487 42236",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 21,
+    "address": "Dakkili, Andhra Pradesh 524134",
+    "area": "524134",
+    "latitude": 14.1050305,
+    "longitude": 79.55060929999999,
+    "place_id": "ChIJsfG53RjXTDoRwTcTRExBZAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfG53RjXTDoRwTcTRExBZAE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:10"
+  },
+  {
+    "business_name": "Asha Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "524134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FX2R+7VQ, Balaji Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "Balaji Nagar",
+    "latitude": 14.4507107,
+    "longitude": 79.99220269999999,
+    "place_id": "ChIJI5lUBACNTDoRr23hermjRIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5lUBACNTDoRr23hermjRIE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:13"
+  }
+]

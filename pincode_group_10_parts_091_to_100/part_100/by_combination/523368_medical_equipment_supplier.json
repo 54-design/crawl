@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Medical Equipments",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "523368",
+    "phone_number": "+91 80 4731 2604",
+    "website": "https://www.galaxymedicalequipments.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "156a, Aani St, Chinmaya Nagar Stage 2, Chinmaya Nagar Stage 1, Virugambakkam, Chennai, Tamil Nadu 600092",
+    "area": "Chinmaya Nagar Stage 2, Chinmaya Nagar Stage 1, Virugambakkam",
+    "latitude": 13.0601308,
+    "longitude": 80.1944457,
+    "place_id": "ChIJMXPBWgBnUjoRpcvT00ADalg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXPBWgBnUjoRpcvT00ADalg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:27"
+  },
+  {
+    "business_name": "Vishal Surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "523368",
+    "phone_number": "+91 98661 44448",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "Bus Depot Rd, Mayuri Center, Balaji Nagar, Khammam, Telangana 507001",
+    "area": "Mayuri Center, Balaji Nagar",
+    "latitude": 17.2536786,
+    "longitude": 80.1408939,
+    "place_id": "ChIJN2OgbDNYNDoRFaetJkg8mTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2OgbDNYNDoRFaetJkg8mTE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:27"
+  }
+]

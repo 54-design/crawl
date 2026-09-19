@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Medical & General Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PS Nagar, Markapur, Andhra Pradesh 523316",
+    "area": "PS Nagar",
+    "latitude": 15.72166,
+    "longitude": 79.26182039999999,
+    "place_id": "ChIJVd18qsYxtTsRj6W0EfmslLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVd18qsYxtTsRj6W0EfmslLM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:37"
+  },
+  {
+    "business_name": "BHANU MEDICALS",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "523320",
+    "phone_number": "+91 79813 90326",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Srinagar Colony, Markapur, Andhra Pradesh 523316",
+    "area": "Srinagar Colony",
+    "latitude": 15.7257783,
+    "longitude": 79.2639147,
+    "place_id": "ChIJXzk37MAxtTsRZ8wmbqdb6sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzk37MAxtTsRZ8wmbqdb6sw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:38"
+  }
+]

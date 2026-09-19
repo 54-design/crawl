@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bella Wellness Spa",
+    "search_category": "Wellness Center",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "523332",
+    "phone_number": "+91 77940 70099",
+    "website": "https://bellawellness.in/",
+    "rating": 4.8,
+    "reviews_count": 191,
+    "address": "5,On, Lenskart.com at Sainikpuri, Hyderabad (First Lens Replacement Free), Plot No.37 - 18-4/1, Plot No. 1 & 2, above 1st Floor, Defence Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "Defence Colony, Sainikpuri",
+    "latitude": 17.4895739,
+    "longitude": 78.5398343,
+    "place_id": "ChIJBfpr1CCbyzsRVUhwVq1RAcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfpr1CCbyzsRVUhwVq1RAcc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:18"
+  },
+  {
+    "business_name": "Sethayussu Wellness Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "523332",
+    "phone_number": "+91 84979 57381",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 115,
+    "address": "H.no 1 B, block, 57-126-B, Rd No 4, opp. Kinetic brundavan apartments, near Botanical Garden Road, Kondapur, Sri Ram Nagar, Gachibowli, Hyderabad, Telangana 500084",
+    "area": "Kondapur, Sri Ram Nagar, Gachibowli",
+    "latitude": 17.4596554,
+    "longitude": 78.352105,
+    "place_id": "ChIJWVaHEACTyzsRqsgzCTtQYzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVaHEACTyzsRqsgzCTtQYzI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:19"
+  }
+]

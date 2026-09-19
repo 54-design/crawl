@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VDAC",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "523253",
+    "phone_number": "+91 95154 68571",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kondapi, Andhra Pradesh 523270",
+    "area": "523253",
+    "latitude": 15.412934499999999,
+    "longitude": 79.8559646,
+    "place_id": "ChIJUVJaaQAbSzoRrj_F15wFPxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVJaaQAbSzoRrj_F15wFPxw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:44:00"
+  },
+  {
+    "business_name": "K.V.R TUITION POINT",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "523253",
+    "phone_number": "+91 90308 08516",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Gannavaram, Andhra Pradesh 521101",
+    "area": "523253",
+    "latitude": 16.542507699999998,
+    "longitude": 80.8140118,
+    "place_id": "ChIJ-0mdxpUJNjoRh4QBy2GovQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0mdxpUJNjoRh4QBy2GovQg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:44:00"
+  }
+]

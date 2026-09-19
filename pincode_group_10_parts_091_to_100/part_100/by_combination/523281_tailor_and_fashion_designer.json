@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajeswari fashion tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "523281",
+    "phone_number": "+91 90636 48973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd line, Singmanenipalli, Kandukuru, Andhra Pradesh 523113",
+    "area": "2nd line",
+    "latitude": 15.1533237,
+    "longitude": 79.85945939999999,
+    "place_id": "ChIJQSwtlHVtSzoRaNbuoDl3uoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSwtlHVtSzoRaNbuoDl3uoI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:10:19"
+  },
+  {
+    "business_name": "Hanny Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "523281",
+    "phone_number": "+91 95508 29121",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite to Suvarna kalyana mandapam, Parasupet, Parasupeta, Reserve Police Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Parasupet, Parasupeta, Reserve Police Quarters",
+    "latitude": 16.1887465,
+    "longitude": 81.1446504,
+    "place_id": "ChIJ73ahSsTnSToRj5km7ZuQOlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73ahSsTnSToRj5km7ZuQOlk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:10:22"
+  }
+]

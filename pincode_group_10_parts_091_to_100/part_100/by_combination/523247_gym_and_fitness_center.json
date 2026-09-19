@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PREM FITNESS STUDIO & GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "523247",
+    "phone_number": "+91 70135 54053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th FLOOR, ICICI BANK BUILDING, Addanki - Darsi Rd, Muslim Bazaar, Darsi, Andhra Pradesh 523247",
+    "area": "Muslim Bazaar",
+    "latitude": 15.771283899999998,
+    "longitude": 79.6805923,
+    "place_id": "ChIJ0de-CADDSjoRS7p3IoatVQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0de-CADDSjoRS7p3IoatVQA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:40"
+  },
+  {
+    "business_name": "B.V.S.R.Nutrition Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "523247",
+    "phone_number": "+91 95422 07988",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "QMFG+4X4, Kurichedu Rd, Muslim Bazaar, Darsi, Andhra Pradesh 523247",
+    "area": "Muslim Bazaar",
+    "latitude": 15.77277,
+    "longitude": 79.6774523,
+    "place_id": "ChIJCWcdxaDDSjoRlIIdQrA_MmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWcdxaDDSjoRlIIdQrA_MmI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:39:42"
+  }
+]

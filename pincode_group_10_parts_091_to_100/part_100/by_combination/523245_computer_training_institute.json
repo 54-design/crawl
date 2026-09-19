@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premier Tech Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Educational institution",
+    "pincode": "523245",
+    "phone_number": "+91 86882 21907",
+    "website": "https://premiertecheducation.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "First floor, Opp:, Fortune Toyota Service Centre, H.No. 9-4-133/A/7, 7 Tombs Rd, Raghava Colony, Neeraj Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "Raghava Colony, Neeraj Colony, Toli Chowki",
+    "latitude": 17.3986689,
+    "longitude": 78.4111238,
+    "place_id": "ChIJ_Q6-fsWXyzsRKJIuuKl0D1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Q6-fsWXyzsRKJIuuKl0D1M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:36:43"
+  },
+  {
+    "business_name": "CYBERAEGIS",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "523245",
+    "phone_number": "+91 88858 73399",
+    "website": "http://www.cyberaegis.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ground Floor, Srigiri Complex, beside CMR Mall, Gaddiannaram, Madhura Puri Colony, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Gaddiannaram, Madhura Puri Colony, Dilsukhnagar",
+    "latitude": 17.3680885,
+    "longitude": 78.52397839999999,
+    "place_id": "ChIJUdpS7_aYyzsRkGm1dKpuft8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdpS7_aYyzsRkGm1dKpuft8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:36:43"
+  }
+]

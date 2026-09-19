@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Queens Designer Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "523271",
+    "phone_number": "+91 86864 34777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NTR Statue, Near, opposite Hotel Sarayu Grand, Kandukur, Andhra Pradesh 523105",
+    "area": "Kota Reddy Nagar",
+    "latitude": 15.213616499999999,
+    "longitude": 79.9020161,
+    "place_id": "ChIJcdYgxxATSzoRxjIqdVR4DM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdYgxxATSzoRxjIqdVR4DM4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:33"
+  },
+  {
+    "business_name": "Mebaz",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bridal shop, Designer Clothing Store, Men's clothing store",
+    "pincode": "523271",
+    "phone_number": "+91 80 3700 2715",
+    "website": "https://stores.mebaz.com/mebaz-clothing-stores-waltair-ward-visakhapatnam-126717/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": 2489,
+    "address": "Waltair Ward, D No 10/1/39, Plot No 41 & 42, opposite Airtel Showroom, Asilmetta Junction, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "Asilmetta Junction, Asilmetta",
+    "latitude": 17.725153,
+    "longitude": 83.3145505,
+    "place_id": "ChIJ2VvMGp5DOToRnwLVRkA7P50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VvMGp5DOToRnwLVRkA7P50",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:34"
+  }
+]

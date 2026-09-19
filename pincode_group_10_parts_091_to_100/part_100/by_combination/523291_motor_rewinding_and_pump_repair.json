@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Drive Repair",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Automation company, Electrical equipment supplier, Electronic parts supplier, Repair service",
+    "pincode": "523291",
+    "phone_number": "+91 80762 31501",
+    "website": "https://www.driverepair.co.in/",
+    "rating": 5,
+    "reviews_count": 49,
+    "address": "A-5/C-1, Laxmi Garden, Raj Nagar, Loni, Ghaziabad, Uttar Pradesh 201102",
+    "area": "Laxmi Garden, Raj Nagar, Loni",
+    "latitude": 28.7327707,
+    "longitude": 77.2889059,
+    "place_id": "ChIJG8IHRa75DDkReZfN-WNqISs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8IHRa75DDkReZfN-WNqISs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:15:17"
+  },
+  {
+    "business_name": "Motor rewinding & pumps services",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "523291",
+    "phone_number": "+91 98804 65435",
+    "website": "N/A",
+    "rating": 1.6,
+    "reviews_count": null,
+    "address": "47/A,2nd a main road 9th b cross venkatapura, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034",
+    "area": "Teacher's Colony, Jakkasandra, 1st Block Koramangala, Koramangala",
+    "latitude": 12.9207524,
+    "longitude": 77.6331237,
+    "place_id": "ChIJPf6aA4sUrjsR_lpcF8YSpoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPf6aA4sUrjsR_lpcF8YSpoE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:15:20"
+  }
+]

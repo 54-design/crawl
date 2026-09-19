@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IC Computer World",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "523270",
+    "phone_number": "+91 91826 74468",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "10-29-10/14, opposite kundan dry fruits, Bhanoji Nagar, Maharani Peta, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002",
+    "area": "Bhanoji Nagar, Maharani Peta, Ram Nagar",
+    "latitude": 17.7168062,
+    "longitude": 83.3079515,
+    "place_id": "ChIJb3v624FDOToRHRhQzNb6onY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3v624FDOToRHRhQzNb6onY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:58:42"
+  },
+  {
+    "business_name": "Vishal Peripherals | Visakhapatnam",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "523270",
+    "phone_number": "+91 92480 71736",
+    "website": "https://vishalperipherals.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 1, Ground Floor, 1st Ln, beside Kalavaibhav Shopping Mall, Dhaba Garden, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dhaba Garden, Dwaraka Nagar",
+    "latitude": 17.7253605,
+    "longitude": 83.306011,
+    "place_id": "ChIJv_Jk7TxDOToR8_LXFUA2KeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_Jk7TxDOToR8_LXFUA2KeM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:58:42"
+  }
+]

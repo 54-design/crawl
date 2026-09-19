@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel prime land tiffin",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523334",
+    "phone_number": "+91 79818 33099",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "45/185-6, Narasimha Reddy Nagar, Bangar Pet, Kurnool, Andhra Pradesh 518004",
+    "area": "Narasimha Reddy Nagar, Bangar Pet",
+    "latitude": 15.834055099999999,
+    "longitude": 78.0331649,
+    "place_id": "ChIJPWWFjOrntTsRtqghCofjZGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWWFjOrntTsRtqghCofjZGY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:47:14"
+  },
+  {
+    "business_name": "Sri Manga Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Breakfast restaurant, Restaurant",
+    "pincode": "523334",
+    "phone_number": "+91 98492 05022",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop Number 8, 2-293/1/2, Srinagar Colony Main Rd, near Bus Stop, Sri Nagar Colony, Indiranagar Basti, Indiranagar, Hyderabad, Telangana 500045",
+    "area": "Sri Nagar Colony, Indiranagar Basti, Indiranagar",
+    "latitude": 17.4296871,
+    "longitude": 78.4275893,
+    "place_id": "ChIJnz4NLiqRyzsRmsPKSSQILvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnz4NLiqRyzsRmsPKSSQILvY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:47:14"
+  }
+]

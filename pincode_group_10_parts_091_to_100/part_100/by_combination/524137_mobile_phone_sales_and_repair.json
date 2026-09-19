@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RVR Mobiles Sales & Service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "524137",
+    "phone_number": "+91 96403 70737",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Veguru pallipalem, Pallipalem, Veguru, Andhra Pradesh 524137",
+    "area": "524137",
+    "latitude": 14.531048499999999,
+    "longitude": 80.0518518,
+    "place_id": "ChIJ2Y_CQqWLTDoRfC35V0yq42I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Y_CQqWLTDoRfC35V0yq42I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:01"
+  },
+  {
+    "business_name": "Sri Mobiles Sales & Services",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "524137",
+    "phone_number": "+91 99850 57515",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Trunk Rd, opp. Axis Bank, VRC Centre, Nellore, Andhra Pradesh 524001",
+    "area": "VRC Centre",
+    "latitude": 14.4539794,
+    "longitude": 79.98369559999999,
+    "place_id": "ChIJM7goFQWNTDoRlCmcV0VnPmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7goFQWNTDoRlCmcV0VnPmM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:05"
+  }
+]

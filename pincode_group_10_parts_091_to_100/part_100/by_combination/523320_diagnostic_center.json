@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blood centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P7R3+CXG, Vemulakota, Andhra Pradesh 523316",
+    "area": "523320",
+    "latitude": 15.7410749,
+    "longitude": 79.2549664,
+    "place_id": "ChIJzxeLTAAxtTsRTgCey_ESr04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxeLTAAxtTsRTgCey_ESr04",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:46"
+  },
+  {
+    "business_name": "చింతల అగ్రహారం గ్రామ ఆరోగ్య ఉప కేంద్రం",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V4GW+F56, Markapur Dornala Rd, Kata Kani Palle, Andhra Pradesh 523331",
+    "area": "523320",
+    "latitude": 15.877058,
+    "longitude": 79.14597619999999,
+    "place_id": "ChIJtRmXAAA5tTsRPA7gD5UQits",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRmXAAA5tTsRPA7gD5UQits",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:46"
+  }
+]

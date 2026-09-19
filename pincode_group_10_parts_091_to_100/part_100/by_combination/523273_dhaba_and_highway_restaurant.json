@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHALEEL BHAI FAMILY DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Hyderabadi restaurant, Indian restaurant",
+    "pincode": "523273",
+    "phone_number": "N/A",
+    "website": "https://khaleelbhairestaurant.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "addanki bypass, opp. vaishnavi apartment, dist, Miryalaguda, Telangana 508207",
+    "area": "dist",
+    "latitude": 16.8592367,
+    "longitude": 79.5637966,
+    "place_id": "ChIJ2bm78mAlNToRnLzL4j6CEAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bm78mAlNToRnLzL4j6CEAg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:06"
+  },
+  {
+    "business_name": "V Grand Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "523273",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Power station back side, New National highway -16, Nallajerla - Lakshminagaram Rd, Nallajerla, Andhra Pradesh 534112",
+    "area": "Pullalapadu",
+    "latitude": 16.944343099999998,
+    "longitude": 81.3965499,
+    "place_id": "ChIJYxbNggxRNjoR1JITuSodXUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxbNggxRNjoR1JITuSodXUU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Family Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "524123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "VW8G+XHG, Nelaballi, Andhra Pradesh 524126",
+    "area": "524123",
+    "latitude": 13.867443399999999,
+    "longitude": 79.9264578,
+    "place_id": "ChIJPWhOIhQPTToR860ia7cTIUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWhOIhQPTToR860ia7cTIUs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:24:13"
+  },
+  {
+    "business_name": "AMMA RUCHULU",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "524123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Near National highway, road-71, Chavali, Andhra Pradesh 524126",
+    "area": "524123",
+    "latitude": 13.8727627,
+    "longitude": 79.8513631,
+    "place_id": "ChIJJ8dtT0gRTToR9fIDj718lXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8dtT0gRTToR9fIDj718lXY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:24:16"
+  }
+]

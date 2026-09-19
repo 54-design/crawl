@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "523280",
+    "phone_number": "N/A",
+    "website": "https://www.indiaproperty.com/ongole-individual-houses-sale",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F25W+MQJ Saibaba Central School, Ongole, Pelluru, Andhra Pradesh 523272",
+    "area": "523280",
+    "latitude": 15.4592011,
+    "longitude": 80.0468784,
+    "place_id": "ChIJ-9ILHdAHSzoRDYw5ea1C6PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9ILHdAHSzoRDYw5ea1C6PQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:41"
+  },
+  {
+    "business_name": "Devi Seafoods Ltd, Hatchery",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Aquaculture farm",
+    "all_categories": "Aquaculture farm",
+    "pincode": "523280",
+    "phone_number": "N/A",
+    "website": "http://www.deviseafoods.com/",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "94VQ+GPM, Rajupalem, Ethamukkala, Raju Palem, Andhra Pradesh 523280",
+    "area": "523280",
+    "latitude": 15.393838899999999,
+    "longitude": 80.1392984,
+    "place_id": "ChIJ1Wm-EmGoSzoRLcCGMUhYnu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Wm-EmGoSzoRLcCGMUhYnu0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:42"
+  }
+]

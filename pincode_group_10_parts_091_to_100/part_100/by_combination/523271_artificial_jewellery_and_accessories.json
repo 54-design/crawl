@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi Jewlers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523271",
+    "phone_number": "+91 92467 70450",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Kanigiri Rd, Santhosh Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Santhosh Nagar",
+    "latitude": 15.2168481,
+    "longitude": 79.9027727,
+    "place_id": "ChIJbx7IJs0TSzoRuA2se30Y-hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbx7IJs0TSzoRuA2se30Y-hs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:30"
+  },
+  {
+    "business_name": "Samar gold work",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "523271",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6W64+PQC, Pedda Bazar, DV Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Pedda Bazar, DV Nagar",
+    "latitude": 15.211824199999999,
+    "longitude": 79.9068793,
+    "place_id": "ChIJ8zYeOgATSzoRgo8H-eNU-M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zYeOgATSzoRgo8H-eNU-M4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:32"
+  }
+]

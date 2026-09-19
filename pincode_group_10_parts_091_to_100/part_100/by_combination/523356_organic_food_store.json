@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BNK Farm Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "523356",
+    "phone_number": "+91 91223 34449",
+    "website": "https://bnkfarmfoods.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V, M),Krishna(D, 1-104, Opp Bhavanarushi Temple, Gosala, Penamaluru, Vijayawada, Andhra Pradesh 521151",
+    "area": "523356",
+    "latitude": 16.4419269,
+    "longitude": 80.74184129999999,
+    "place_id": "ChIJNX9h7NP9NToRxx8zpjtGoY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX9h7NP9NToRxx8zpjtGoY0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:28"
+  },
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Giddaluru",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Organic shop, Store",
+    "pincode": "523356",
+    "phone_number": "+91 97016 01785",
+    "website": "https://www.mygromor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mubarak Complex, D.No 8-17-173, Racherla Rd, Racherla Gate Center, Giddalur, Andhra Pradesh 523357",
+    "area": "Racherla Gate Center",
+    "latitude": 15.3825176,
+    "longitude": 78.9341592,
+    "place_id": "ChIJm76eQR_ntDsRHYhL8nil9CM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm76eQR_ntDsRHYhL8nil9CM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:30"
+  }
+]

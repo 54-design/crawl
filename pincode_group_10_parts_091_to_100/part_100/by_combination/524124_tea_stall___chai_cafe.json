@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea4U Hot & Cool",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "524124",
+    "phone_number": "+91 94455 88385",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "102, GNT Rd, Kottai Karai, Arambakkam, Tamil Nadu 601201",
+    "area": "Kottai Karai",
+    "latitude": 13.5318218,
+    "longitude": 80.0725795,
+    "place_id": "ChIJMwnDljh3TToRRJgLw1ih704",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwnDljh3TToRRJgLw1ih704",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:25:59"
+  },
+  {
+    "business_name": "Mr.Tea Cafe-Upar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Cafe, Chinese restaurant, Coffee shop, Italian restaurant",
+    "pincode": "524124",
+    "phone_number": "+91 92575 41318",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3rd Floor, Shopping center, 380, 381, above IDBI Bank, near Ghodewala Baba Circle, Kota, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1688919,
+    "longitude": 75.8482101,
+    "place_id": "ChIJMT__giubbzkRIl_BqUdXEXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMT__giubbzkRIl_BqUdXEXA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:00"
+  }
+]

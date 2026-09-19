@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Maruti Courier Service Pvt Ltd-MIYAPUR BRANCH",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523316",
+    "phone_number": "+91 81793 87918",
+    "website": "http://www.shreemaruti.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1-117, opp. KFC, Friends Colony, Indira Nagar Colony, Miyapur, Hyderabad, Telangana 500049",
+    "area": "Friends Colony, Indira Nagar Colony",
+    "latitude": 17.4954458,
+    "longitude": 78.35524199999999,
+    "place_id": "ChIJwwYC7pKTyzsRJQjyn25TeJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwYC7pKTyzsRJQjyn25TeJ8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:29:51"
+  },
+  {
+    "business_name": "COURIER POINT",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523316",
+    "phone_number": "+91 93471 38235",
+    "website": "http://www.xgoo.in/",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "Cyber Valley, Road, near RTO Kondapur Road, Subhash Chandra Bose Nagar, office, Hafeezpet, Hyderabad, Telangana 500049",
+    "area": "Subhash Chandra Bose Nagar, office, Hafeezpet",
+    "latitude": 17.4759331,
+    "longitude": 78.3637917,
+    "place_id": "ChIJhe-bneWTyzsRTVxe6rgdw0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhe-bneWTyzsRTVxe6rgdw0M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:29:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "523332",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "H6CG+V5V, Golla Palle, Andhra Pradesh 523371",
+    "area": "523332",
+    "latitude": 15.572242699999999,
+    "longitude": 79.2254276,
+    "place_id": "ChIJxUCwqvMotTsRRgrF_5-qIRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUCwqvMotTsRRgrF_5-qIRo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:24"
+  },
+  {
+    "business_name": "Ayyad Golf Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Golf course",
+    "pincode": "523332",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H69G+QGJ, Golla Palle, Rolagam Padu, Andhra Pradesh 523371",
+    "area": "523332",
+    "latitude": 15.569467399999999,
+    "longitude": 79.2262792,
+    "place_id": "ChIJ2y7SifMotTsRQrUKkhWhIgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y7SifMotTsRQrUKkhWhIgU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:25"
+  }
+]

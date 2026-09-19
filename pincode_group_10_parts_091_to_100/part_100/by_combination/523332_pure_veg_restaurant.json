@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANNAPURNA PURE VEG RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523332",
+    "phone_number": "+91 78934 90130",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Cumbum markapur highway, Cumbum, nx57, Markapur, Kandulapuram, Andhra Pradesh 523333",
+    "area": "Cumbum, nx57",
+    "latitude": 15.601446,
+    "longitude": 79.1214419,
+    "place_id": "ChIJC7fN_4MntTsRRYSj0qWbuBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7fN_4MntTsRRYSj0qWbuBM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:25"
+  },
+  {
+    "business_name": "Mahanadi food plaza",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "523332",
+    "phone_number": "+91 70932 38219",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "H4X9+VR3, Cumbum, Kandulapuram, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.599637699999999,
+    "longitude": 79.119535,
+    "place_id": "ChIJ_2jpCgAntTsR1otMpbH_QPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2jpCgAntTsR1otMpbH_QPA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:25"
+  }
+]

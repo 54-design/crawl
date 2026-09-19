@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr P Siva Reddy Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Contact lenses supplier, Lasik surgeon, Ophthalmologist, Ophthalmology clinic, Optician, Optometrist, Sunglasses store, Surgeon",
+    "pincode": "523332",
+    "phone_number": "+91 80966 65550",
+    "website": "https://psreyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3-5-886, Himayat Nagar Rd, near old MLA quarters, beside KIA showroom, Vittalwadi, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Vittalwadi, Himayatnagar",
+    "latitude": 17.397806799999998,
+    "longitude": 78.48431649999999,
+    "place_id": "ChIJ_3G-cduZyzsRatQsCXlBSsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3G-cduZyzsRatQsCXlBSsE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:45"
+  },
+  {
+    "business_name": "Shalini eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523332",
+    "phone_number": "+91 83093 56127",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 85,
+    "address": "6F4G+J35, road, Tukkuguda, Mankhal, Hyderabad, Telangana 501359",
+    "area": "Tukkuguda",
+    "latitude": 17.206519399999998,
+    "longitude": 78.4752338,
+    "place_id": "ChIJ6YPIXgClyzsRtQMjDp53sPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YPIXgClyzsRtQMjDp53sPA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:47"
+  }
+]

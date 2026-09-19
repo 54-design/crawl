@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR DHABA & RESTAURANAT",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "1, Road, Nuzendla, Thimmayapalem, Andhra Pradesh 522647",
+    "area": "523304",
+    "latitude": 16.0369393,
+    "longitude": 79.7388315,
+    "place_id": "ChIJKx6pVWyVSjoRJmcNJIBfI9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKx6pVWyVSjoRJmcNJIBfI9o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:22:59"
+  },
+  {
+    "business_name": "Puri Jagannath Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "SH 88, Kattapalle, Erragondapalem, Andhra Pradesh 523327",
+    "area": "Kattapalle",
+    "latitude": 16.0207063,
+    "longitude": 79.308865,
+    "place_id": "ChIJIWwHSedNtTsR5_7VrgjMPm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWwHSedNtTsR5_7VrgjMPm4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:22:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SURENDRA M",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "524127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X23W+X5M, Chittamuru, Andhra Pradesh 524127",
+    "area": "524127",
+    "latitude": 13.954968,
+    "longitude": 80.0454168,
+    "place_id": "ChIJac-7oDIHTToRRK1MLd-hPME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJac-7oDIHTToRRK1MLd-hPME",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:29:56"
+  },
+  {
+    "business_name": "Balaji Orthocare Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "524127",
+    "phone_number": "+91 76710 09989",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "near shayamasundarapuram entrance, Kota, Andhra Pradesh 524411",
+    "area": "524127",
+    "latitude": 14.0326849,
+    "longitude": 80.044302,
+    "place_id": "ChIJ-Sidu68BTToRFshxBo5Mrio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Sidu68BTToRFshxBo5Mrio",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:29:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POWER SECURITY SERVICES & HOUSEKEEPING",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "523280",
+    "phone_number": "+91 91213 33375",
+    "website": "https://powersecurities.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "MIG Plot No. 61, 1-53-8/1, Sector 1, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "MVP Sector 1, Sector 1, MVP Colony",
+    "latitude": 17.7448486,
+    "longitude": 83.3301927,
+    "place_id": "ChIJWzFcw6pcOToRplG5O6O2AVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzFcw6pcOToRplG5O6O2AVk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:39"
+  },
+  {
+    "business_name": "RAVUS SECURITY & HOUSEKEEPING AGENCY",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service, Home help service agency",
+    "pincode": "523280",
+    "phone_number": "+91 86860 35111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Flat No 102, Sita Ramaraju Enclave, Ranga St, opp. : Prince Hotel, beside : VRL Logistics, Daba Gardens, Allipuram, Visakhapatnam, Andhra Pradesh 530020",
+    "area": "Daba Gardens, Allipuram",
+    "latitude": 17.7156541,
+    "longitude": 83.2997176,
+    "place_id": "ChIJ-1hFQxlDOToR9nHv8XUEzps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1hFQxlDOToR9nHv8XUEzps",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:41"
+  }
+]

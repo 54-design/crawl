@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finout",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Auditor, Bookkeeping service, Business management consultant, Chartered accountant",
+    "pincode": "523332",
+    "phone_number": "+91 88860 64052",
+    "website": "https://finout.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1st Floor, MGR Estates, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Dwarakapuri, Punjagutta",
+    "latitude": 17.4242185,
+    "longitude": 78.4529711,
+    "place_id": "ChIJ8a2WlzGXyzsRtvidZdG3rTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8a2WlzGXyzsRtvidZdG3rTQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:49"
+  },
+  {
+    "business_name": "Seth Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Legal services",
+    "pincode": "523332",
+    "phone_number": "+91 120 458 5437",
+    "website": "http://www.sethassociates.com/",
+    "rating": 4,
+    "reviews_count": 13,
+    "address": "7th floor, Tower-B, Unit No. 721, Plot no.7, Noida-Greater Noida Expy, Sector 142, Noida, Uttar Pradesh 201301",
+    "area": "Sector 142",
+    "latitude": 28.500935,
+    "longitude": 77.410078,
+    "place_id": "ChIJr-EOOsDlDDkR4uqo9RcXijo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-EOOsDlDDkR4uqo9RcXijo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:50"
+  }
+]

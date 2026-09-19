@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JCB",
+    "search_category": "Tuition Center",
+    "primary_category": "Private Tutor",
+    "all_categories": "Private Tutor",
+    "pincode": "523246",
+    "phone_number": "N/A",
+    "website": "https://www.mukheshjcb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vaddimadugu, Konakanametla, Markapur, Andhra Pradesh 523241",
+    "area": "523246",
+    "latitude": 15.6752942,
+    "longitude": 79.43690409999999,
+    "place_id": "ChIJwUxJgA7TSjoR6WMtALh_Ms4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUxJgA7TSjoR6WMtALh_Ms4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:31"
+  },
+  {
+    "business_name": "CLR Educational Institutions Cumbum",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "523246",
+    "phone_number": "+91 90637 00050",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "J44F+M3H, Cumbum, Nehru Nagar, Kandulapuram, Andhra Pradesh 523333",
+    "area": "Cumbum, Nehru Nagar",
+    "latitude": 15.6066937,
+    "longitude": 79.12273909999999,
+    "place_id": "ChIJVVVVILImtTsRhqb_7IEFfPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVILImtTsRhqb_7IEFfPU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:32"
+  }
+]

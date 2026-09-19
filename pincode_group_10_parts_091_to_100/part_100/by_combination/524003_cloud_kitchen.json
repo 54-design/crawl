@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "familybucketbiryani",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "524003",
+    "phone_number": "+91 90008 19449",
+    "website": "http://familybucketbiryani.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "flat no : 105, 2nd floor, sriraga enclave, landmark : anjaneya tiles mall, 4th Cross Rd, B.V.Nagar, BV Nagar, Nellore, Andhra Pradesh 524004",
+    "area": "B.V.Nagar, BV Nagar",
+    "latitude": 14.415802099999999,
+    "longitude": 79.96439649999999,
+    "place_id": "ChIJdWBdxyzzTDoR6TLNFBcoGlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWBdxyzzTDoR6TLNFBcoGlA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:14:53"
+  },
+  {
+    "business_name": "Behrouz Biryani Nellore",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant, Mughlai restaurant",
+    "pincode": "524003",
+    "phone_number": "+91 77000 50050",
+    "website": "http://behrouzbiryani.com/?utm_source=GMB&utm_medium=organic&utm_campaign=Behrouz%20Biryani%20Nellore",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Plot 332, Central Ave, Central Avenue, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Central Avenue, Magunta Layout",
+    "latitude": 14.433276,
+    "longitude": 79.975392,
+    "place_id": "ChIJ_bUtN3rzTDoRJ2BZt9-Lvx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bUtN3rzTDoRJ2BZt9-Lvx0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:14:53"
+  }
+]

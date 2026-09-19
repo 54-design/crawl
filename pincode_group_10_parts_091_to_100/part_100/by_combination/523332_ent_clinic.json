@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Sudhakar ENT Care Center",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hearing aid store",
+    "all_categories": "Hearing aid store, Audiologist, Doctor, Hearing aid repair service, Hospital, Medical Center, ENT Specialist, Otolaryngology clinic, Private hospital, Speech & Hearing Specialist",
+    "pincode": "523332",
+    "phone_number": "+91 427 403 0040",
+    "website": "https://www.sudhakarentcare.com/",
+    "rating": 4.9,
+    "reviews_count": 6376,
+    "address": "Arthanari Gounder St, opp. New Bus Stand Road, near Kalaignar Maaligai, Arthanari Nagar, Swarnapuri, Salem, Tamil Nadu 636004",
+    "area": "Arthanari Nagar, Swarnapuri",
+    "latitude": 11.671226599999999,
+    "longitude": 78.1398464,
+    "place_id": "ChIJxbpbDkTwqzsRourEHYDux5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbpbDkTwqzsRourEHYDux5A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:49"
+  },
+  {
+    "business_name": "Royal Pearl Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "523332",
+    "phone_number": "+91 80 4803 6378",
+    "website": "http://www.skullbasesurgery.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-12, 3rd Cross Rd, Thillai Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620018",
+    "area": "Thillai Nagar, Tennur",
+    "latitude": 10.8252612,
+    "longitude": 78.6837815,
+    "place_id": "ChIJKWdvC6P1qjsRTvxeo3vyDnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWdvC6P1qjsRTvxeo3vyDnc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:49"
+  }
+]

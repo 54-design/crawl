@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gene Mart",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "523254",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opposite Govt.School,Chinthalapalem,sankavaram post,kanigiri, ongole, Andhra Pradesh 523254",
+    "area": "523254",
+    "latitude": 15.395116799999998,
+    "longitude": 79.5239759,
+    "place_id": "ChIJHeq3JswvSzoRqa0NpFSkZug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeq3JswvSzoRqa0NpFSkZug",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:44:37"
+  },
+  {
+    "business_name": "near sachivalyam palicharlapadu",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523254",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8HW8+WWM, Kottayeruvaripalle, Hazis Puram, Andhra Pradesh 523254",
+    "area": "Kottayeruvaripalle",
+    "latitude": 15.3473305,
+    "longitude": 79.567306,
+    "place_id": "ChIJMRCPlyc7SzoRqwlSvbjNQzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRCPlyc7SzoRqwlSvbjNQzI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:44:37"
+  }
+]

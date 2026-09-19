@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Supermarket - Kovur Nellore AP",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "https://more.in/",
+    "rating": 1.5,
+    "reviews_count": 2,
+    "address": "Ground Floor, Kovur - Nellore Rd, More supermaket, Nellore, Kovur, Andhra Pradesh 524137",
+    "area": "More supermaket",
+    "latitude": 14.5014463,
+    "longitude": 79.9853651,
+    "place_id": "ChIJzdBHlmqNTDoRSQZu5D5qc4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdBHlmqNTDoRSQZu5D5qc4A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:30"
+  },
+  {
+    "business_name": "RAMAKRISHNA TRADING COMPANY",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3/306/2, Lakshmi Puram Main Rd, Stonehouse Pet, Nellore, Andhra Pradesh 524002",
+    "area": "Stonehouse Pet",
+    "latitude": 14.4592551,
+    "longitude": 79.99504189999999,
+    "place_id": "ChIJGx7icwCNTDoRgp-EprGohFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGx7icwCNTDoRgp-EprGohFw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:30"
+  }
+]

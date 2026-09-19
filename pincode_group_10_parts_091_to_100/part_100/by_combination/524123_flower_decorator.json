@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurudev marketing",
+    "search_category": "Flower Decorator",
+    "primary_category": "Artificial plant supplier",
+    "all_categories": "Artificial plant supplier, Shopping mall",
+    "pincode": "524123",
+    "phone_number": "+91 44 2538 2153",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 42,
+    "address": "No:40, Narayana Mudali Street, Sowcarpet, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Sowcarpet, George Town",
+    "latitude": 13.090489999999999,
+    "longitude": 80.27993289999999,
+    "place_id": "ChIJTS93BFdvUjoRrM9w-7DPc38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTS93BFdvUjoRrM9w-7DPc38",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:25:05"
+  },
+  {
+    "business_name": "Porur BalaMurugan Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "524123",
+    "phone_number": "+91 80727 54725",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 48,
+    "address": "Karambakkam First St, Devi Nagar, Porur, Chennai, Tamil Nadu 600116",
+    "area": "Devi Nagar, Porur",
+    "latitude": 13.035012199999999,
+    "longitude": 80.1559182,
+    "place_id": "ChIJo_WHsyJhUjoRj9bK5Y0kYsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_WHsyJhUjoRj9bK5Y0kYsk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:25:05"
+  }
+]

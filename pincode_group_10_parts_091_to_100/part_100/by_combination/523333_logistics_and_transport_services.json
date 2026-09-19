@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navata Road Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "523333",
+    "phone_number": "+91 88866 79313",
+    "website": "http://www.navata.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "D.NO.7-155A, opp. G.J. COLLEGE, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.584593499999999,
+    "longitude": 79.1130919,
+    "place_id": "ChIJ_5nayzEntTsRj_YJcoRyA70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5nayzEntTsRj_YJcoRyA70",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:52"
+  },
+  {
+    "business_name": "DTDC COURIER INTERNATIONAL & NATIONAL",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Bank, Travel agency",
+    "pincode": "523333",
+    "phone_number": "+91 96768 24436",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main Rd, opposite UNION BANK OF INDIA, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.581423,
+    "longitude": 79.1102453,
+    "place_id": "ChIJG1nmWbUmtTsRGKVTjMn09Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1nmWbUmtTsRGKVTjMn09Z0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:53"
+  }
+]

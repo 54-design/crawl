@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VSR Car Care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "524137",
+    "phone_number": "+91 98857 74444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Infront of: Bharath Petrol Pump, National High Way, NTR Nagar, Nawabpet, Nellore, Andhra Pradesh 524002",
+    "area": "NTR Nagar, Nawabpet",
+    "latitude": 14.453502799999999,
+    "longitude": 80.0091746,
+    "place_id": "ChIJ-X9v4xKLTDoRo0riQCPfqHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-X9v4xKLTDoRo0riQCPfqHU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:39:14"
+  },
+  {
+    "business_name": "Noor Water Service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "524137",
+    "phone_number": "+91 82978 21936",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Buchi road, beside Growmore, North Rajupalem, Andhra Pradesh 524366",
+    "area": "524137",
+    "latitude": 14.5514689,
+    "longitude": 79.9892034,
+    "place_id": "ChIJ3RnBOWKPTDoRRPo_tSr_-aU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RnBOWKPTDoRRPo_tSr_-aU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:39:15"
+  }
+]

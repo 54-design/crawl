@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manikanta bhojanam hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "523260",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W3F2+C27, Valaparla Main Rd, Jangamaheswarapuram, Andhra Pradesh 523260",
+    "area": "523260",
+    "latitude": 15.923539,
+    "longitude": 80.0500349,
+    "place_id": "ChIJN2lcT9T0SjoR5uZumYLyILs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2lcT9T0SjoR5uZumYLyILs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:46:39"
+  },
+  {
+    "business_name": "Sri Nakshatra Family Restaurant Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523260",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 22,
+    "address": "SH 88, Millampalle, Andhra Pradesh 523327",
+    "area": "523260",
+    "latitude": 16.046875,
+    "longitude": 79.3048184,
+    "place_id": "ChIJmyBFMwBNtTsRrI1b2lr2kto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyBFMwBNtTsRrI1b2lr2kto",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:46:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mee Seva Centre",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523301",
+    "phone_number": "+91 98852 96265",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "meeseva centre, gannavaram road, near coperative bank, Martur, Andhra Pradesh 523301",
+    "area": "523301",
+    "latitude": 15.985805899999999,
+    "longitude": 80.10457389999999,
+    "place_id": "ChIJN5cd29BhSjoRH9bONfwUWTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5cd29BhSjoRH9bONfwUWTg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:19:10"
+  },
+  {
+    "business_name": "Srikanth EnterPrises",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "523301",
+    "phone_number": "+91 97011 18269",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Chennai - Guntur Hwy, David Colony, Martur, Andhra Pradesh 523301",
+    "area": "David Colony",
+    "latitude": 15.9907984,
+    "longitude": 80.1060451,
+    "place_id": "ChIJ9QZyK9FhSjoRKQ1aP8WdAKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QZyK9FhSjoRKQ1aP8WdAKk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:19:10"
+  }
+]

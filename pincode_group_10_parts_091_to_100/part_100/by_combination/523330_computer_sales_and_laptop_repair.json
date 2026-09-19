@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Camera store, Electronics repair shop, Printer repair service",
+    "pincode": "523330",
+    "phone_number": "+91 99594 59059",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 698,
+    "address": "18-1046, Prakashan high road, opp. Railway Station Road, Thotapalyam, Chittoor, Andhra Pradesh 517001",
+    "area": "Thotapalyam",
+    "latitude": 13.220123399999999,
+    "longitude": 79.1015177,
+    "place_id": "ChIJ5YTstjxdrTsRZfjQd3DeCsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YTstjxdrTsRZfjQd3DeCsk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:50"
+  },
+  {
+    "business_name": "Tadacomputers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "523330",
+    "phone_number": "+91 70321 75767",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tirupati Rd, Tada, Andhra Pradesh 524401",
+    "area": "523330",
+    "latitude": 13.589602099999999,
+    "longitude": 80.031483,
+    "place_id": "ChIJoYeqJAB3TToRZgOZL0LimbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYeqJAB3TToRZgOZL0LimbQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:51"
+  }
+]

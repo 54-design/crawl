@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya dental",
+    "search_category": "Dental Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "523265",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babylon Turnpike, Roosevelt, Nuzendla, Andhra Pradesh 522660",
+    "area": "523265",
+    "latitude": 15.9128998,
+    "longitude": 79.7399875,
+    "place_id": "ChIJ84W2D-PBSjoR0w46VJZJdJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84W2D-PBSjoR0w46VJZJdJU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:56:00"
+  },
+  {
+    "business_name": "Sri Meghana Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Dentist, Denture care center, Hospital",
+    "pincode": "523265",
+    "phone_number": "+91 94944 75558",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "1st floor, gollagudem centre, KN Rd, beside Reliance smart bazar, Housing Board Colony, Kadakatla, Andhra Pradesh 534101",
+    "area": "Housing Board Colony",
+    "latitude": 16.8199579,
+    "longitude": 81.5214767,
+    "place_id": "ChIJ-X2XQ-K1NzoRz-Ge-IWuiUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-X2XQ-K1NzoRz-Ge-IWuiUE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:56:01"
+  }
+]

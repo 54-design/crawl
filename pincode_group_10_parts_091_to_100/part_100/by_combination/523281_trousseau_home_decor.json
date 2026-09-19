@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Floors & More",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store, Carpet store, Flooring store, Mattress store, Wallpaper store, Window treatment store, Wood and laminate flooring supplier, Wood floor refinishing service",
+    "pincode": "523281",
+    "phone_number": "+91 94191 05841",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "Patel Nagar, 36, 15, Akhnoor Road, opposite Pillar No, Jammu, Jammu and Kashmir 180016",
+    "area": "Suraj Nagar",
+    "latitude": 32.733136,
+    "longitude": 74.8396748,
+    "place_id": "ChIJqfb7db-FHjkRzWG7KH3THPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfb7db-FHjkRzWG7KH3THPg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:11:10"
+  },
+  {
+    "business_name": "Kriday jewels",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523281",
+    "phone_number": "+91 90321 00825",
+    "website": "https://kridayjewels.in/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Babu Khan Estate, Fateh Maidan, Basheer Bagh, Hyderabad, Telangana 500001",
+    "area": "Fateh Maidan, Basheer Bagh",
+    "latitude": 17.4005925,
+    "longitude": 78.4746174,
+    "place_id": "ChIJcyOpfTiZyzsRYn5O8CkqGGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyOpfTiZyzsRYn5O8CkqGGM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:11:10"
+  }
+]

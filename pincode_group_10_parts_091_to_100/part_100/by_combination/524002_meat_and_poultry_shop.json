@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JABBAR Chiken Stall",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "524002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Narayana Reddy Pet, Gudupalli Padu, Andhra Pradesh 524002",
+    "area": "Narayana Reddy Pet",
+    "latitude": 14.4681515,
+    "longitude": 80.0387434,
+    "place_id": "ChIJnYffuj2LTDoR1Uv7Z5NzEKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYffuj2LTDoR1Uv7Z5NzEKc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:12:46"
+  },
+  {
+    "business_name": "UKM CHICKEN & MUTTON STALL",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "524002",
+    "phone_number": "+91 92477 37284",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "47-172 b, sai nagar, f.c.i, cilony, Nawabpet, siridi, Nellore, Andhra Pradesh 524002",
+    "area": "sai nagar, f.c.i, cilony, Nawabpet",
+    "latitude": 14.454536,
+    "longitude": 80.0046756,
+    "place_id": "ChIJoVZu_GuNTDoRT7OKUiLE2og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVZu_GuNTDoRT7OKUiLE2og",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:12:46"
+  }
+]

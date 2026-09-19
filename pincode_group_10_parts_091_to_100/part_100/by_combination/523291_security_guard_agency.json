@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hemasri Securities",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "523291",
+    "phone_number": "N/A",
+    "website": "http://www.hemasrisecurities.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "4-16, 3rd Rd, Sri Nagar Colony, Yanamalakuduru, Auto Nagar, Vijayawada, Andhra Pradesh 520007",
+    "area": "Sri Nagar Colony, Yanamalakuduru, Auto Nagar",
+    "latitude": 16.4964259,
+    "longitude": 80.672062,
+    "place_id": "ChIJNYMJxyr7NToRug8KedKMXnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYMJxyr7NToRug8KedKMXnQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:15:10"
+  },
+  {
+    "business_name": "RAMAYAPATTANAM PUBLIC BEACH",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Public beach",
+    "all_categories": "Public beach",
+    "pincode": "523291",
+    "phone_number": "+91 76849 97224",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "323X+JMP, Ramayapatnam, Andhra Pradesh 523291",
+    "area": "523291",
+    "latitude": 15.0540939,
+    "longitude": 80.0492007,
+    "place_id": "ChIJ____P_12SzoR_KbMcOCa9vY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P_12SzoR_KbMcOCa9vY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:15:11"
+  }
+]

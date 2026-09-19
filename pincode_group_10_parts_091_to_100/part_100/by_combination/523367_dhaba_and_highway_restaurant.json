@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MRM DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Dhaba",
+    "pincode": "523367",
+    "phone_number": "+91 89198 94043",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 249,
+    "address": "near jersey dairy, Kalakada, Pothuvari Palle, Andhra Pradesh 517236",
+    "area": "523367",
+    "latitude": 13.8011169,
+    "longitude": 78.7966951,
+    "place_id": "ChIJQfx4CmnxsjsR7X8230gT7ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfx4CmnxsjsR7X8230gT7ec",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:14"
+  },
+  {
+    "business_name": "FRIENDS DHABA- 2",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "523367",
+    "phone_number": "+91 96666 69573",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Divancheruvu, Palacherla, Andhra Pradesh 533353",
+    "area": "Divancheruvu",
+    "latitude": 17.051187499999997,
+    "longitude": 81.8556875,
+    "place_id": "ChIJ4QugHnahNzoRDSrxVpwMgp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QugHnahNzoRDSrxVpwMgp8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:16"
+  }
+]

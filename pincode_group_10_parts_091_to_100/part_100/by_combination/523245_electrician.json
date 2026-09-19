@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global technology",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service, Air conditioning contractor, Carpenter, Electrician, Fabrication Engineer, Gypsum Product Supplier, Painter, Plumber, Security system installation service, Water Filter Supplier",
+    "pincode": "523245",
+    "phone_number": "+91 77805 17507",
+    "website": "https://www.globaltechnology2814.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Swaraj Nagar, Allapur, Borabanda, Hyderabad, Telangana 500114",
+    "area": "Allapur, Borabanda",
+    "latitude": 17.4547919,
+    "longitude": 78.4096816,
+    "place_id": "ChIJD_b67L-RyzsR0vqufE_0mjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_b67L-RyzsR0vqufE_0mjo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:36:21"
+  },
+  {
+    "business_name": "Mr Electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "523245",
+    "phone_number": "+91 73372 47288",
+    "website": "https://mrelectrician.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near ramaraju park, Ramaraju Nagar, Shivaji Palem, Pithapuram Colony, Maddilapalem, Visakhapatnam, Andhra Pradesh 530017",
+    "area": "Ramaraju Nagar, Shivaji Palem, Pithapuram Colony, Maddilapalem",
+    "latitude": 17.7329632,
+    "longitude": 83.32857609999999,
+    "place_id": "ChIJDYa0FFtDOToRxEzJqHeAj6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYa0FFtDOToRxEzJqHeAj6U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:36:21"
+  }
+]

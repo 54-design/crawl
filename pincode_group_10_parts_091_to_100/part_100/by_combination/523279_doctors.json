@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Srinivasa Hospitals",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523279",
+    "phone_number": "+91 88182 20889",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward 30, Ambedkar Nagar, Kadakatla, Andhra Pradesh 534101",
+    "area": "Ward 30, Ambedkar Nagar",
+    "latitude": 16.8190763,
+    "longitude": 81.5216801,
+    "place_id": "ChIJx0I--rG0NzoROM-l6gcZEXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0I--rG0NzoROM-l6gcZEXQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:06:54"
+  },
+  {
+    "business_name": "Arka Multispecialty Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Diabetes center, Diabetologist, Endocrinologist, Nephrologist, Neurologist",
+    "pincode": "523279",
+    "phone_number": "+91 95228 66999",
+    "website": "http://www.arkahospitals.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "10/219-E, Eluru road - Bypass road, junction, beside Nayara petrol bunk, Gudivada, Andhra Pradesh 521301",
+    "area": "Teacher Colony, Satyanarayana Puram",
+    "latitude": 16.444803,
+    "longitude": 80.9919326,
+    "place_id": "ChIJEXOesocbNjoRRV6a-H1n9k0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXOesocbNjoRRV6a-H1n9k0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:06:54"
+  }
+]

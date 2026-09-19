@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Bottoms Lounge Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523346",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 503,
+    "address": "Opposit, Aparna Amaravati one, Kunchanapalle, Tadepalle, Andhra Pradesh 522501",
+    "area": "Kunchanapalle",
+    "latitude": 16.4693125,
+    "longitude": 80.62118749999999,
+    "place_id": "ChIJZ5sxSYnxNToRFn7U6GZKJrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5sxSYnxNToRFn7U6GZKJrw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:50"
+  },
+  {
+    "business_name": "SVT BAR RESTUARENT",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "523346",
+    "phone_number": "+91 90004 58988",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "HARSHA COMPLEX, Piduguralla, Andhra Pradesh 522413",
+    "area": "523346",
+    "latitude": 16.4797212,
+    "longitude": 79.8932212,
+    "place_id": "ChIJk_LyzuNvNToRwYHgksT-py0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_LyzuNvNToRwYHgksT-py0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:52"
+  }
+]

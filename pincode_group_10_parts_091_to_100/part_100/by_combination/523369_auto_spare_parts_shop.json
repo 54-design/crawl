@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.V.narayana automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Electronics store, Machine shop, Motorcycle parts store",
+    "pincode": "523369",
+    "phone_number": "+91 94410 72183",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main road, Komarolu, Andhra Pradesh 523373",
+    "area": "523369",
+    "latitude": 15.2680273,
+    "longitude": 79.0007164,
+    "place_id": "ChIJbZvwE8nptDsReqVZQH1nO9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZvwE8nptDsReqVZQH1nO9A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:02:19"
+  },
+  {
+    "business_name": "Srinivasul Auto Serives",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "523369",
+    "phone_number": "+91 95025 32583",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G.venkatapuram, Chittoor, Rajupalem, Andhra Pradesh 523369",
+    "area": "523369",
+    "latitude": 15.341317499999999,
+    "longitude": 78.987783,
+    "place_id": "ChIJ186kZNHntDsRjybyhnJ3dbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ186kZNHntDsRjybyhnJ3dbs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:02:19"
+  }
+]

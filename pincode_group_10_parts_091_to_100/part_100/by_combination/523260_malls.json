@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankarao Genaral Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523260",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WXFH+J34, Govada, Chinakotha Palle, Andhra Pradesh 523260",
+    "area": "Govada",
+    "latitude": 15.9240193,
+    "longitude": 79.9776929,
+    "place_id": "ChIJ6QDnq5TzSjoR5sx8vq-o78A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QDnq5TzSjoR5sx8vq-o78A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:48:08"
+  },
+  {
+    "business_name": "Ayyagaru Shopping Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523260",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "XW7J+7CW, Kukatlapalli, Andhra Pradesh 523303",
+    "area": "523260",
+    "latitude": 15.9632337,
+    "longitude": 79.9310862,
+    "place_id": "ChIJ24EbUBKNSjoRQBOX2Bdz_c4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24EbUBKNSjoRQBOX2Bdz_c4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:48:09"
+  }
+]

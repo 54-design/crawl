@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "523252",
+    "phone_number": "N/A",
+    "website": "http://www.bhilwarataxiservice.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "CMG2+624, Ajmer - Nasirabad Rd, Adarsh Nagar, Ajmer, Rajasthan 305002",
+    "area": "Adarsh Nagar",
+    "latitude": 26.425503,
+    "longitude": 74.65006749999999,
+    "place_id": "ChIJ-9vZ3BfhazkRrZyb0BxnHEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9vZ3BfhazkRrZyb0BxnHEY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:39"
+  },
+  {
+    "business_name": "Nellore citi cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "523252",
+    "phone_number": "N/A",
+    "website": "https://nelloreciticabs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CXPQ+Q37, 1st Line, Harinathpuram, Nellore, Andhra Pradesh 524003",
+    "area": "Harinathpuram",
+    "latitude": 14.436917999999999,
+    "longitude": 79.9876852,
+    "place_id": "ChIJxeMFRknzTDoRhLcUakqV714",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxeMFRknzTDoRhLcUakqV714",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:40"
+  }
+]

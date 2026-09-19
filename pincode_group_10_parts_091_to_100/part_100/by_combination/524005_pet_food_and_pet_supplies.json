@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rainbow Aquarium & Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop, Pet store",
+    "pincode": "524005",
+    "phone_number": "+91 80088 57772",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "First Floor, Mypadu Rd, above SSE Cool Care A/C Service, beside HP Petrol Pump, Kisan Nagar, Ram Nagar, Nellore, Andhra Pradesh 524002",
+    "area": "Kisan Nagar, Ram Nagar",
+    "latitude": 14.4644011,
+    "longitude": 80.0036489,
+    "place_id": "ChIJX-5KX1pfTDoRD4h1b5oaZi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-5KX1pfTDoRD4h1b5oaZi0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:38"
+  },
+  {
+    "business_name": "Yogi's Happy Pet's",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "524005",
+    "phone_number": "+91 86861 20919",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 92,
+    "address": "19-12-355, Telephone Colony, Lingeswar Nagar, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Telephone Colony, Lingeswar Nagar, Bairagi patteda",
+    "latitude": 13.6180405,
+    "longitude": 79.4219414,
+    "place_id": "ChIJj9aca79LTToRRiOgdoPA2nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9aca79LTToRRiOgdoPA2nk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:38"
+  }
+]

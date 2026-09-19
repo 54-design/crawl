@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mancha cyber cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "523329",
+    "phone_number": "+91 95029 39907",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Radham St, near apgb bank, Tarlupadu, Andhra Pradesh 523332",
+    "area": "523329",
+    "latitude": 15.657625399999999,
+    "longitude": 79.2239033,
+    "place_id": "ChIJ0SZLokgvtTsRvnhO1329zAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SZLokgvtTsRvnhO1329zAo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:38:58"
+  },
+  {
+    "business_name": "pothurajuturu",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "523329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "P24H+7RH, Nagulavaram - Velagalapaya Rd, Magutur, Andhra Pradesh 523333",
+    "area": "523329",
+    "latitude": 15.705685899999999,
+    "longitude": 79.02962219999999,
+    "place_id": "ChIJ9b-0gRs9tTsRkfZzw7QUWdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9b-0gRs9tTsRkfZzw7QUWdo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:39:00"
+  }
+]

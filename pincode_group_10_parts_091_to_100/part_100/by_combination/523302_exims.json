@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indo Nacop Chemicals Ltd",
+    "search_category": "EXIMS",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "523302",
+    "phone_number": "+91 86462 72954",
+    "website": "http://nacop.co.in/",
+    "rating": 4.2,
+    "reviews_count": 42,
+    "address": "23-579, Vishnukundina Nagar, Vinukonda Post Guntur District, Andhra Pradesh 522647",
+    "area": "523302",
+    "latitude": 16.06667,
+    "longitude": 79.73560599999999,
+    "place_id": "ChIJeV_snmO9SjoROkgPmaRwFZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeV_snmO9SjoROkgPmaRwFZQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:20:50"
+  },
+  {
+    "business_name": "GALAXY EXIMM",
+    "search_category": "EXIMS",
+    "primary_category": "Chemical Exporter",
+    "all_categories": "Chemical Exporter",
+    "pincode": "523302",
+    "phone_number": "+91 94425 57588",
+    "website": "https://galaxyeximm.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14/63-5, Ayeepalayam Athanoor (P.O, Rasipuram (T.K, Tamil Nadu 636301",
+    "area": "523302",
+    "latitude": 11.5117134,
+    "longitude": 78.14944059999999,
+    "place_id": "ChIJDScKBAvpqzsRRxDFN8CnhYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDScKBAvpqzsRRxDFN8CnhYI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:20:50"
+  }
+]

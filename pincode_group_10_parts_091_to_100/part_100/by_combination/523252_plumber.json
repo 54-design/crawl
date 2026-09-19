@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trisha plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "523252",
+    "phone_number": "+91 74889 00675",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 98,
+    "address": "Near child jail barmasia, near Pani tank, Dhanbad, Jharkhand 826007",
+    "area": "Barmasia",
+    "latitude": 23.7815138,
+    "longitude": 86.4444312,
+    "place_id": "ChIJT8cIY5i99jkRiq0IOAp7A08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8cIY5i99jkRiq0IOAp7A08",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:47"
+  },
+  {
+    "business_name": "N.S Electricals",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrician",
+    "pincode": "523252",
+    "phone_number": "+91 77363 17535",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Unnamed Road, Pallimukku, Kollam, Keralam 691010",
+    "area": "Pallimukku",
+    "latitude": 8.8775949,
+    "longitude": 76.6243001,
+    "place_id": "ChIJxTxwicH9BTsRGOpU4mdu9wA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTxwicH9BTsRGOpU4mdu9wA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:47"
+  }
+]

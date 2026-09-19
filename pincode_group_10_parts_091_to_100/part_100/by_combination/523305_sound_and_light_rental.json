@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electronic Goods",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Office supply store",
+    "all_categories": "Office supply store",
+    "pincode": "523305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Electronic Guards S-60, S-60, Okhla Phase II, Okhla, New Delhi, Delhi 110020",
+    "area": "S-60, Okhla Phase II, Okhla",
+    "latitude": 28.537457,
+    "longitude": 77.279111,
+    "place_id": "ChIJv-DaJmnjDDkRJ6kpmlPQvOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-DaJmnjDDkRJ6kpmlPQvOI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:45"
+  },
+  {
+    "business_name": "Live Stage",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Stage lighting equipment supplier",
+    "all_categories": "Stage lighting equipment supplier",
+    "pincode": "523305",
+    "phone_number": "N/A",
+    "website": "http://www.livestage.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "126, VGP Rd, VGP Salai, West Saidapet, Saidapet, Chennai, Tamil Nadu 600015",
+    "area": "VGP Salai, West Saidapet, Saidapet",
+    "latitude": 13.0204191,
+    "longitude": 80.2148469,
+    "place_id": "ChIJG0VkZQBnUjoRBLC8kwq6aak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0VkZQBnUjoRBLC8kwq6aak",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:45"
+  }
+]

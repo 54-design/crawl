@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Satyanarayana Ramaiah General Stores",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523329",
+    "phone_number": "+91 96401 16244",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "P6F4+9C9, Chinthagunta, Andhra Pradesh 523329",
+    "area": "523329",
+    "latitude": 15.7234061,
+    "longitude": 79.2061161,
+    "place_id": "ChIJFd00ogwwtTsR0Rvhm9cAN28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFd00ogwwtTsR0Rvhm9cAN28",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:37:38"
+  },
+  {
+    "business_name": "Mudhasanamma Kirana",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523329",
+    "phone_number": "+91 99636 06649",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Katamraju Road, markapuram, Kolabhimunipadu, Vemulakota, Andhra Pradesh 523329",
+    "area": "markapuram",
+    "latitude": 15.7623912,
+    "longitude": 79.2080113,
+    "place_id": "ChIJ_Yr2X9UxtTsRaYzUaN00tHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Yr2X9UxtTsRaYzUaN00tHM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:37:38"
+  }
+]

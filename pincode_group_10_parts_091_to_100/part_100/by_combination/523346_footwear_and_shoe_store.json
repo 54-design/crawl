@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venky Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523346",
+    "phone_number": "+91 93908 43572",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Piduguralla, Andhra Pradesh 522413",
+    "area": "523346",
+    "latitude": 16.480342099999998,
+    "longitude": 79.8879941,
+    "place_id": "ChIJt5PbqylvNToRIPqBVOSNqyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5PbqylvNToRIPqBVOSNqyw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:55"
+  },
+  {
+    "business_name": "VARIETY SHOE MART",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523346",
+    "phone_number": "+91 98667 68988",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "D.no: 8/2/9, mydukur road, 4roads center, opp. to: R&B bungalow, Badvel, Andhra Pradesh 516233",
+    "area": "523346",
+    "latitude": 14.7395721,
+    "longitude": 79.0609549,
+    "place_id": "ChIJ1acaC6hfszsRli7wskI3nl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1acaC6hfszsRli7wskI3nl8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:55"
+  }
+]

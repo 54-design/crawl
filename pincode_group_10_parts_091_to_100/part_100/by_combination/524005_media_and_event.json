@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TV5 News",
+    "search_category": "Media and Event",
+    "primary_category": "Advertising service",
+    "all_categories": "Advertising service",
+    "pincode": "524005",
+    "phone_number": "+91 99631 55531",
+    "website": "http://www.tv5news.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Venkatramapuram, Srinivasa Agraharam, VRC Centre, Nellore, Andhra Pradesh 524001",
+    "area": "Venkatramapuram, Srinivasa Agraharam, VRC Centre",
+    "latitude": 14.4516963,
+    "longitude": 79.9890238,
+    "place_id": "ChIJe1itY7aMTDoRS31sZ2VJZgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1itY7aMTDoRS31sZ2VJZgo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:41"
+  },
+  {
+    "business_name": "Perfect Events",
+    "search_category": "Media and Event",
+    "primary_category": "Media and Event",
+    "all_categories": "Media and Event",
+    "pincode": "524005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21-6-49, Achari St, Kapatipalem, Santhapet, Nellore, Andhra Pradesh 524001",
+    "area": "Kapatipalem, Santhapet",
+    "latitude": 14.4578673,
+    "longitude": 79.9890546,
+    "place_id": "ChIJJzbQS8mMTDoR2NFZvqAO5JU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzbQS8mMTDoR2NFZvqAO5JU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:19:44"
+  }
+]

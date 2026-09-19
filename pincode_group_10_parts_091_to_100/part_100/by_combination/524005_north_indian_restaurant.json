@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maniteja Noodles",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "524005",
+    "phone_number": "+91 97002 38083",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1357,
+    "address": "Lakshmipuram, Nellore, Andhra Pradesh 524002",
+    "area": "Lakshmipuram",
+    "latitude": 14.45895,
+    "longitude": 79.995175,
+    "place_id": "ChIJXSUE-rqMTDoR1SQJQGzE4cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSUE-rqMTDoR1SQJQGzE4cU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:45"
+  },
+  {
+    "business_name": "Raja Noodles & Fried Rice",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Noodle shop",
+    "pincode": "524005",
+    "phone_number": "+91 80082 28757",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "12/452, Narayana Rao Peta, Kukkalagunta, R L Nagar, Santhapeta Patta, Nellore, Andhra Pradesh 524001",
+    "area": "Narayana Rao Peta, Kukkalagunta, R L Nagar, Santhapeta Patta",
+    "latitude": 14.4570005,
+    "longitude": 79.9775087,
+    "place_id": "ChIJRZUpcsWMTDoRvziS-qGxw5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZUpcsWMTDoRvziS-qGxw5U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:18:45"
+  }
+]

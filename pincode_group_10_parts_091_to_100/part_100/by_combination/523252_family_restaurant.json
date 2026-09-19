@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ullagallu vinayaka restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "523252",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 60,
+    "address": "RQ39+MVQ, Ullagallu, Chinnavullagallu, Andhra Pradesh 523265",
+    "area": "Ullagallu",
+    "latitude": 15.8042214,
+    "longitude": 79.76974709999999,
+    "place_id": "ChIJr8YTuILpSjoRcoGjH_ZTey0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8YTuILpSjoRcoGjH_ZTey0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:09"
+  },
+  {
+    "business_name": "M & M Royal Family Hotel Ullagallu.",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523252",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/m-m-royal-hotel/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Addanki - Darsi Rd, near Marcus Masjid, Ullagallu, Pedavullagallu, Andhra Pradesh 523265",
+    "area": "Ullagallu",
+    "latitude": 15.8048284,
+    "longitude": 79.76107139999999,
+    "place_id": "ChIJl5Huj4bpSjoRztQziv6ADpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5Huj4bpSjoRztQziv6ADpo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:41:11"
+  }
+]

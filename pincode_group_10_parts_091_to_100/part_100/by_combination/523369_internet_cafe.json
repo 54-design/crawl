@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ORANGE INTERNET CAFE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "523369",
+    "phone_number": "+91 93964 92100",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 19,
+    "address": "D NO 3-20-29 6, opp. ARMY RECRUITMENT OFFICE, Ravindra Nagar, Pattabhipuram, Guntur, Andhra Pradesh 522006",
+    "area": "Ravindra Nagar, Pattabhipuram",
+    "latitude": 16.307489,
+    "longitude": 80.4138795,
+    "place_id": "ChIJESR2qHl1SjoRZlId7Dvwz80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESR2qHl1SjoRZlId7Dvwz80",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:02:59"
+  },
+  {
+    "business_name": "GAFFFARSSHA Xerox & Online Centre",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Bookbinder, Business banking service, Fax Service Provider, Lamination service, Print shop, Printing equipment supplier",
+    "pincode": "523369",
+    "phone_number": "+91 96403 07344",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Andhra Bank colony, beside of Andhra Bank, Komarolu, Andhra Pradesh 523373",
+    "area": "523369",
+    "latitude": 15.2677318,
+    "longitude": 79.0002671,
+    "place_id": "ChIJV1atTp3ptDsRgslUoT2rBiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1atTp3ptDsRgslUoT2rBiQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:01"
+  }
+]

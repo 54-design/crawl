@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "McDee Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chicken shop, Fried chicken takeaway",
+    "pincode": "524134",
+    "phone_number": "+91 861 235 2200",
+    "website": "https://sites.google.com/view/ntr-mandi/home",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "CXQC+856, Reliance Super Rd, near KVR petrol bunk, Ambedkar Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Ambedkar Nagar",
+    "latitude": 14.4382899,
+    "longitude": 79.9703858,
+    "place_id": "ChIJNUicqC7zTDoRpe8xERVQl-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUicqC7zTDoRpe8xERVQl-U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:36:59"
+  },
+  {
+    "business_name": "ANDHRA KITCHEN",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "524134",
+    "phone_number": "+91 82496 64648",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nellore - Krishnapatnam Port Rd, Muttukuru, Andhra Pradesh 524344",
+    "area": "524134",
+    "latitude": 14.2874951,
+    "longitude": 80.0968542,
+    "place_id": "ChIJCTsLG6f3TDoRAta9rlGnxqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTsLG6f3TDoRAta9rlGnxqs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:00"
+  }
+]

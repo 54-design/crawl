@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR TRADERS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "524101",
+    "phone_number": "+91 70131 32825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2/35, Narsingharao Pet, West Gudur Rural, Andhra Pradesh 524101",
+    "area": "Narsingharao Pet",
+    "latitude": 14.1498695,
+    "longitude": 79.84057109999999,
+    "place_id": "ChIJV_2SPQDjTDoRLK9lB2R3zh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_2SPQDjTDoRLK9lB2R3zh0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:30"
+  },
+  {
+    "business_name": "SHINE PET AND VET CLINIC",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "524101",
+    "phone_number": "+91 95028 24882",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "opposite Government Hospital, Swarna Bharathi Nagar, West Gudur Rural, Andhra Pradesh 524101",
+    "area": "Swarna Bharathi Nagar",
+    "latitude": 14.1469454,
+    "longitude": 79.8490291,
+    "place_id": "ChIJs6_hYBfjTDoRvF_Sa9z2BnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6_hYBfjTDoRvF_Sa9z2BnQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Krupa Boys PG",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel, Backpacker Hostel",
+    "pincode": "523332",
+    "phone_number": "+91 91452 67234",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "411, Karakambadi Rd, near SVCE Collage, Mangalam, Tirupati, Chennayyagunta, Andhra Pradesh 516507",
+    "area": "Mangalam",
+    "latitude": 13.6605282,
+    "longitude": 79.48289079999999,
+    "place_id": "ChIJMyT-RTdJTToRzmoHDcmrdes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyT-RTdJTToRzmoHDcmrdes",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:24"
+  },
+  {
+    "business_name": "Venky boys hostel",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "523332",
+    "phone_number": "+91 88861 44882",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 41,
+    "address": "Lakshmipuram Circle, 19-9-29/A1, Tiruchanoor Rd, Korramenugunta, Tirupati, Andhra Pradesh 517501",
+    "area": "Korramenugunta",
+    "latitude": 13.6224052,
+    "longitude": 79.43062359999999,
+    "place_id": "ChIJmdUVhOJLTToRBlRtLeZNAEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdUVhOJLTToRBlRtLeZNAEE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:24"
+  }
+]

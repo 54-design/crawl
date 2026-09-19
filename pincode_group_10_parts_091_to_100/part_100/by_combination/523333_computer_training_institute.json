@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer world",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Institute of technology",
+    "all_categories": "Institute of technology",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Park street, Cumbum, H:N:- 20-63, Nehru Nagar, Kandulapuram, Andhra Pradesh 523333",
+    "area": "Cumbum, H:N:- 20-63, Nehru Nagar",
+    "latitude": 15.589849099999999,
+    "longitude": 79.11252329999999,
+    "place_id": "ChIJN5oGfh8ntTsRr9knxnW5SH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5oGfh8ntTsRr9knxnW5SH8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:24"
+  },
+  {
+    "business_name": "Edtech Academy Pvt Ltd",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Spg Mission Palem, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum",
+    "latitude": 15.5823754,
+    "longitude": 79.1123669,
+    "place_id": "ChIJUS0svtkntTsR2yies89PphE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUS0svtkntTsR2yies89PphE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:28"
+  }
+]

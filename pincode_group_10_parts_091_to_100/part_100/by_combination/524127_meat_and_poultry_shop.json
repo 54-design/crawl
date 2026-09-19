@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 NATIONAL BEEF STALL",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "524127",
+    "phone_number": "+91 79042 82768",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "i, Ayanambakkam Rd, ICF Employees Colony, Keishana salai, Chennai, Tamil Nadu 600077",
+    "area": "ICF Employees Colony, Keishana salai",
+    "latitude": 13.0912186,
+    "longitude": 80.14648269999999,
+    "place_id": "ChIJ65AodmhjUjoREBIR9lp1Ygs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65AodmhjUjoREBIR9lp1Ygs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:29:35"
+  },
+  {
+    "business_name": "Neeleri Muniraju pork shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "524127",
+    "phone_number": "+91 91086 84083",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bagaluru, international airport road, Bagaluru, Karnataka 562149",
+    "area": "Razack Palya",
+    "latitude": 13.137207199999999,
+    "longitude": 77.66879589999999,
+    "place_id": "ChIJ52553l8brjsR2FQkEFeUWnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52553l8brjsR2FQkEFeUWnI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:29:35"
+  }
+]

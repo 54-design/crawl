@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Praveen Books & Fancy",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Gift shop, Jewelry store",
+    "pincode": "524137",
+    "phone_number": "+91 98850 62377",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "main road, Kovur - Nellore Rd, PRR Colony, Chinnapadugupadu, Kovur, Andhra Pradesh 524137",
+    "area": "PRR Colony, Chinnapadugupadu",
+    "latitude": 14.500088199999999,
+    "longitude": 79.9855001,
+    "place_id": "ChIJG9CtcV2MTDoR-Si7PGX6dIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9CtcV2MTDoR-Si7PGX6dIM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:39:56"
+  },
+  {
+    "business_name": "Noor Shadi Mahal & Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Book store",
+    "pincode": "524137",
+    "phone_number": "+91 98661 91436",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 46,
+    "address": "Janda Street, near union bank, Chinna Bazar, VRC Centre, Nellore, Andhra Pradesh 524001",
+    "area": "Chinna Bazar, VRC Centre",
+    "latitude": 14.4520114,
+    "longitude": 79.97922679999999,
+    "place_id": "ChIJNV0XXM6MTDoR7Leq4vuZGMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNV0XXM6MTDoR7Leq4vuZGMc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:39:58"
+  }
+]

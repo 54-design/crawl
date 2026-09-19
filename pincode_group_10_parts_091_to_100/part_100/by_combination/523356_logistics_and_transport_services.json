@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ekart logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523356",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 36,
+    "address": "9WFP+F34, Giddalur, Andhra Pradesh 523357",
+    "area": "523356",
+    "latitude": 15.373648,
+    "longitude": 78.9352119,
+    "place_id": "ChIJcRkRSk3ntDsRtMLIpSyzs-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRkRSk3ntDsRtMLIpSyzs-E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:55:09"
+  },
+  {
+    "business_name": "Ecom Express",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "523356",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Racherla Gate Center, Giddalur, Andhra Pradesh 523357",
+    "area": "Racherla Gate Center",
+    "latitude": 15.3826974,
+    "longitude": 78.9324729,
+    "place_id": "ChIJh5HJmZ7mtDsRL7Wee264bc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5HJmZ7mtDsRL7Wee264bc4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:55:10"
+  }
+]

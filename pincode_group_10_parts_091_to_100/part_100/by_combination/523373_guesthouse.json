@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farm house",
+    "search_category": "Guesthouse",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "523373",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "73F2+P85, Komarolu, Chinthalapalli, Andhra Pradesh 523373",
+    "area": "523373",
+    "latitude": 15.2742618,
+    "longitude": 79.0508657,
+    "place_id": "ChIJcwBqbgDDtDsRAERZxBYlv1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwBqbgDDtDsRAERZxBYlv1Y",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:10:04"
+  },
+  {
+    "business_name": "Thamballa palle grama sachivalaya",
+    "search_category": "Guesthouse",
+    "primary_category": "Indoor lodging",
+    "all_categories": "Indoor lodging",
+    "pincode": "523373",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "82X2+7F7, Giddalur - Narava - Komarolu Rd, Thamballa Palle, Andhra Pradesh 523369",
+    "area": "523373",
+    "latitude": 15.3481712,
+    "longitude": 79.0011639,
+    "place_id": "ChIJBylocXbntDsR5Zj_TYjGMCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBylocXbntDsR5Zj_TYjGMCw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:10:04"
+  }
+]

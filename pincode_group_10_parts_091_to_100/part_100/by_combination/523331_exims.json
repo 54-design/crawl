@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EXIM Bank",
+    "search_category": "EXIMS",
+    "primary_category": "Public Sector Bank",
+    "all_categories": "Public Sector Bank",
+    "pincode": "523331",
+    "phone_number": "+91 40 2330 7817",
+    "website": "http://www.eximbankindia.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2nd Floor, Golden Edifice, Near Khairatabad Circle, Khairatabad Rd, Khairtabad, Hyderabad, Telangana 500004",
+    "area": "Anand Nagar Colony, Khairtabad",
+    "latitude": 17.4127902,
+    "longitude": 78.46000599999999,
+    "place_id": "ChIJ8_EkdEWXyzsRfnZBDRc55BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_EkdEWXyzsRfnZBDRc55BM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:07"
+  },
+  {
+    "business_name": "Coastal Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "523331",
+    "phone_number": "+91 74168 88989",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QVP3+V54, Hanuman Jct Rd, NSP Colony, Nuzividu, Andhra Pradesh 521201",
+    "area": "NSP Colony",
+    "latitude": 16.787138499999998,
+    "longitude": 80.85296129999999,
+    "place_id": "ChIJq6qqqs51NjoRg_69Ac0gYXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqs51NjoRg_69Ac0gYXg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:43:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "524134",
+    "phone_number": "+91 97018 36721",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M, 2/174, Main Road, near Police Station, Chitvel, Andhra Pradesh 516104",
+    "area": "524134",
+    "latitude": 14.1714921,
+    "longitude": 79.3317048,
+    "place_id": "ChIJRxix9eotszsRj9OkA6xdHh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxix9eotszsRj9OkA6xdHh0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:07"
+  },
+  {
+    "business_name": "Paragon foot Wear (Bata)",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "524134",
+    "phone_number": "+91 99661 12087",
+    "website": "http://www.paragonfootwear.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "12-101, East Street, Venkatagiri, Andhra Pradesh 524132",
+    "area": "524134",
+    "latitude": 13.9559596,
+    "longitude": 79.57991659999999,
+    "place_id": "ChIJEzYyiOglTToR-aInhTjnzoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzYyiOglTToR-aInhTjnzoo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:07"
+  }
+]

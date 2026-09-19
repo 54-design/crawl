@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Lakshmi Grand",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge, Lodging",
+    "pincode": "523301",
+    "phone_number": "+91 89127 48090",
+    "website": "http://www.hotellakshmigrand.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "33-14-200, Allipuram Market Rd, near Gandhi Statue, Nerella Koneru, Allipuram, Visakhapatnam, Andhra Pradesh 530004",
+    "area": "Nerella Koneru, Allipuram",
+    "latitude": 17.7190629,
+    "longitude": 83.29585399999999,
+    "place_id": "ChIJwSDtmB9DOToRh5DK7UjJHrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSDtmB9DOToRh5DK7UjJHrU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:18:29"
+  },
+  {
+    "business_name": "Indismart Hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "523301",
+    "phone_number": "+91 33 4010 1350",
+    "website": "https://indismart.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "X-1, Salt Lake Electronics Complex, X1, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "EP Block, Sector V, Bidhannagar",
+    "latitude": 22.5716148,
+    "longitude": 88.4341216,
+    "place_id": "ChIJD6yIlq51AjoRNkwyc81w5M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6yIlq51AjoRNkwyc81w5M4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:18:29"
+  }
+]

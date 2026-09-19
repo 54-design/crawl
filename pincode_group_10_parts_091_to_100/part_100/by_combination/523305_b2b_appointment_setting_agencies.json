@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HirePlusPlus Technologies Private Limited",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "523305",
+    "phone_number": "N/A",
+    "website": "https://www.hireplusplus.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "T-HUB Phase 2.0, 7th Floor, MATH, Center of Excellence for AI/ML, Knowledge City Rd, Hyderabad, Telangana 500032",
+    "area": "Silpa Gram Craft Village, Madhapur",
+    "latitude": 17.4337861,
+    "longitude": 78.3788388,
+    "place_id": "ChIJw8PIh1-TyzsRZ-zGmAhH1b8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8PIh1-TyzsRZ-zGmAhH1b8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:25"
+  },
+  {
+    "business_name": "Sangamam Communications Pvt Ltd.",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Advertising agency, Design agency, Internet marketing service, Marketing agency, Marketing consultant, Software Training Institute, Web hosting company, Website designer",
+    "pincode": "523305",
+    "phone_number": "+91 95265 43210",
+    "website": "https://www.sangamam.co.in/",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "34/342(2), Sangamam Building, Panamanna South Ottapalam, Palakkad, Keralam 679501",
+    "area": "Panamanna South",
+    "latitude": 10.7958524,
+    "longitude": 76.3595191,
+    "place_id": "ChIJgWHVBf3bpzsRXB1yrudzUks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWHVBf3bpzsRXB1yrudzUks",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lassi shop Gudur",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "524101",
+    "phone_number": "+91 74164 74667",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SANGAM THEATER CENTRE, beside BANK OF INDIA, East Street, East Gudur Rural, Andhra Pradesh 524101",
+    "area": "East Street",
+    "latitude": 14.147311,
+    "longitude": 79.85283749999999,
+    "place_id": "ChIJhcYiY_vjTDoRkAaeCwAaZBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcYiY_vjTDoRkAaeCwAaZBI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:29"
+  },
+  {
+    "business_name": "Lassi Shop Venkatagiri",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "524101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 82,
+    "address": "16-43, East Street, Venkatagiri, Andhra Pradesh 524132",
+    "area": "524101",
+    "latitude": 13.9573539,
+    "longitude": 79.5817319,
+    "place_id": "ChIJPbL8rT0lTToRurJ6OtJv9hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbL8rT0lTToRurJ6OtJv9hk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:20:31"
+  }
+]

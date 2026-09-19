@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MALIK BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "523301",
+    "phone_number": "+91 95505 52317",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1 Town Police Station Beside Chilakaluripet Chowtra Center OLD POLICE STATION, Chilakaluripet, Andhra Pradesh 522616",
+    "area": "523301",
+    "latitude": 16.0895734,
+    "longitude": 80.17179879999999,
+    "place_id": "ChIJ-TnOCupjSjoRPaOcQnp7bpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TnOCupjSjoRPaOcQnp7bpg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:17:25"
+  },
+  {
+    "business_name": "Banglore Ayangar Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "523301",
+    "phone_number": "+91 91338 50365",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Government Hospital, Road, Martur, Andhra Pradesh 523301",
+    "area": "523301",
+    "latitude": 15.986559499999998,
+    "longitude": 80.1038916,
+    "place_id": "ChIJb0KA2lVhSjoRgGj97Agkg9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0KA2lVhSjoRgGj97Agkg9Q",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:17:28"
+  }
+]

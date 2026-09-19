@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leaf home yoga classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "523304",
+    "phone_number": "+91 98491 50590",
+    "website": "https://leafyogavillage.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "54JJ+R32, Srinivas Nagar Colony, Machilipatnam, Andhra Pradesh 521001",
+    "area": "Srinivas Nagar Colony",
+    "latitude": 16.1820092,
+    "longitude": 81.1301427,
+    "place_id": "ChIJzQYah4XnSToRrFQd6Jk7eI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQYah4XnSToRrFQd6Jk7eI8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:23:24"
+  },
+  {
+    "business_name": "Radha Soami Satsang Beas, Tripuranthakam",
+    "search_category": "Yoga Center",
+    "primary_category": "Religious organization",
+    "all_categories": "Religious organization",
+    "pincode": "523304",
+    "phone_number": "+91 98140 86511",
+    "website": "http://rssb.org/",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "NH 544D, Tripuranthakam, Andhra Pradesh 523326",
+    "area": "523304",
+    "latitude": 15.9966365,
+    "longitude": 79.4532727,
+    "place_id": "ChIJfbr5G_SzSjoRW-Bi0-yVBDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbr5G_SzSjoRW-Bi0-yVBDE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:23:24"
+  }
+]

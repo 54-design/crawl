@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mechanic srinivas bike point vijaya",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P7VG+C32, college road, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.7435187,
+    "longitude": 79.2751335,
+    "place_id": "ChIJf0b6nkYxtTsR0gWh8b7uUOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0b6nkYxtTsR0gWh8b7uUOA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:38:19"
+  },
+  {
+    "business_name": "Vijaya bike point విజయ బైక్ పాయింట్",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P7VG+C32, college road, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.7435175,
+    "longitude": 79.2751354,
+    "place_id": "ChIJC_OkiloxtTsRrG-T4f6CIVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_OkiloxtTsRrG-T4f6CIVw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:38:19"
+  }
+]

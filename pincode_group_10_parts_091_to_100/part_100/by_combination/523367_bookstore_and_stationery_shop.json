@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shruthi Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "523367",
+    "phone_number": "+91 94403 63487",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 53,
+    "address": "Ananthapur Rd, Gooty, Andhra Pradesh 515401",
+    "area": "523367",
+    "latitude": 15.111730199999998,
+    "longitude": 77.6366975,
+    "place_id": "ChIJ9w50rMyVtjsR0kRGWHrROV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w50rMyVtjsR0kRGWHrROV4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:59:18"
+  },
+  {
+    "business_name": "Annaya PEN SHOP",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "523367",
+    "phone_number": "+91 90104 11616",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 77,
+    "address": "No 2, Clock Tower Clock Tower, Main Bazar, Paidichintapadu, Eluru, Andhra Pradesh 534001",
+    "area": "Main Bazar, Paidichintapadu",
+    "latitude": 16.7049622,
+    "longitude": 81.1076803,
+    "place_id": "ChIJN4B5-cYVNjoRUzCSt8GRBbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4B5-cYVNjoRUzCSt8GRBbA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:59:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dsk Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "523320",
+    "phone_number": "+91 99623 40655",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "State Highway 49, No.2/245, Periyar Rd, Palavakkam, Chennai, Tamil Nadu 600041",
+    "area": "Gandhi Nagar, Palavakkam",
+    "latitude": 12.964582799999999,
+    "longitude": 80.25269879999999,
+    "place_id": "ChIJOThFpxVdUjoRbudgg5Us6A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOThFpxVdUjoRbudgg5Us6A8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:53"
+  },
+  {
+    "business_name": "Apollo Tyres - Gupta Tyre House",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service, Wheel store",
+    "pincode": "523320",
+    "phone_number": "+91 79 4272 7707",
+    "website": "https://store.apollotyres.com/apollo-tyres-gupta-tyre-house-tyre-shop-mungra-badshahpur-jaunpur-128116/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "M647+9J3, Sarokhanpur Satariya, opposite Kuldeep Dharam Kata, Mungra Badshahpur, Uttar Pradesh 222202",
+    "area": "523320",
+    "latitude": 25.6583527,
+    "longitude": 82.2142557,
+    "place_id": "ChIJFarDp40JkDkRitBVHtPKrrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFarDp40JkDkRitBVHtPKrrE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:53"
+  }
+]

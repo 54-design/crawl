@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRIDEVI SHOP",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "524134",
+    "phone_number": "+91 93927 00195",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, VARDHANAPALLI, Andhra Pradesh 524132",
+    "area": "524134",
+    "latitude": 14.023778499999999,
+    "longitude": 79.6275474,
+    "place_id": "ChIJRyfd2uonTToR47XL5VxrRhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyfd2uonTToR47XL5VxrRhs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:04"
+  },
+  {
+    "business_name": "Mini Kids Park",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Park, Women's clothing store",
+    "pincode": "524134",
+    "phone_number": "+91 86864 63631",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sunday Market, Trunk Rd, Pogathota, Nellore, Andhra Pradesh 524001",
+    "area": "Pogathota",
+    "latitude": 14.451349599999999,
+    "longitude": 79.9845878,
+    "place_id": "ChIJSyzwkcmMTDoRufbB2-e0ewo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyzwkcmMTDoRufbB2-e0ewo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:37:07"
+  }
+]

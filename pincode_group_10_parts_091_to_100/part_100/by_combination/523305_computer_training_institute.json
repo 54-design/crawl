@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snd computer institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Educational institution",
+    "pincode": "523305",
+    "phone_number": "+91 78158 07500",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8V7V+6W3, RIMS Road, Chinnabondilipuram, Junction, Balaga, Srikakulam, Andhra Pradesh 532001",
+    "area": "Chinnabondilipuram, Junction, Balaga",
+    "latitude": 18.3130041,
+    "longitude": 83.8948344,
+    "place_id": "ChIJbdpRcAAVPDoRCO5Ho_pLYC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdpRcAAVPDoRCO5Ho_pLYC4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:55"
+  },
+  {
+    "business_name": "NEXGEN Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "523305",
+    "phone_number": "+91 63010 12437",
+    "website": "http://www.nex-gen.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Arts College Rd, RTC Complex Area, Shanti Nagar Colony, Balaga, Srikakulam, Andhra Pradesh 532001",
+    "area": "RTC Complex Area, Shanti Nagar Colony, Balaga",
+    "latitude": 18.3076448,
+    "longitude": 83.8934288,
+    "place_id": "ChIJt4pK6n0VPDoR1nD6_zWIt6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4pK6n0VPDoR1nD6_zWIt6M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:55"
+  }
+]

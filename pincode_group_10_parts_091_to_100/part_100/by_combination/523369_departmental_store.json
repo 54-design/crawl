@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Superk - Bharath Supermarket Komarolu",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "523369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Apgb, bank Street, Komarolu, Andhra Pradesh 523373",
+    "area": "523369",
+    "latitude": 15.268809699999998,
+    "longitude": 79.0004922,
+    "place_id": "ChIJM8NhLinptDsRyDbMHH_DAJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8NhLinptDsRyDbMHH_DAJg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:01:44"
+  },
+  {
+    "business_name": "Sweetha general stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "523369",
+    "phone_number": "+91 96409 03424",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Oppsite hanuman temple, Komarolu, Andhra Pradesh 523373",
+    "area": "523369",
+    "latitude": 15.268809699999998,
+    "longitude": 79.0004922,
+    "place_id": "ChIJCyUP_RDptDsRUHRL3WfaPhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyUP_RDptDsRUHRL3WfaPhs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:01:44"
+  }
+]

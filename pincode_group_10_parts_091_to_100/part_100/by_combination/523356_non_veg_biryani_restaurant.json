@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shilpa Garden Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "523356",
+    "phone_number": "+91 99487 21369",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "9WHJ+JQV, Ongole - Kurnool Main Rd, near Venkateswara Theater, Ganesh Nagar, Giddalur, Andhra Pradesh 523357",
+    "area": "Ganesh Nagar",
+    "latitude": 15.3791169,
+    "longitude": 78.9319366,
+    "place_id": "ChIJY2SwU5zmtDsRayXICIB7K7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2SwU5zmtDsRayXICIB7K7o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:36"
+  },
+  {
+    "business_name": "Hotel New Kwality Hyderabadi Biryani & Chinese Restaurant.",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "523356",
+    "phone_number": "+91 89993 36771",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Unnamed Road, Dafni Pura, Rohidas Nagar, Karanja Lad, Maharashtra 444105",
+    "area": "Dafni Pura, Rohidas Nagar",
+    "latitude": 20.4855433,
+    "longitude": 77.4906118,
+    "place_id": "ChIJaT4iiMM30TsRIQbeVQKojLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaT4iiMM30TsRIQbeVQKojLQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:54:39"
+  }
+]

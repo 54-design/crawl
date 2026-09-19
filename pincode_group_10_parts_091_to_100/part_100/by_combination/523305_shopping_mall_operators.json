@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PPR SHOPPING MALL",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523305",
+    "phone_number": "+91 75692 47148",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "PPR SHOPPING MALL, opposite telephone exchange office, beside icici bank, Kodad, Telangana 508206",
+    "area": "Nayanagar",
+    "latitude": 16.995786499999998,
+    "longitude": 79.9712041,
+    "place_id": "ChIJYXG-V3ADNToRq3imsQTu_Ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXG-V3ADNToRq3imsQTu_Ak",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:29"
+  },
+  {
+    "business_name": "N V N Complex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "523305",
+    "phone_number": "+91 86832 55916",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "NVN Complex, National Highway 9, Nayanagar, Kodad, Telangana 508206",
+    "area": "Nayanagar",
+    "latitude": 16.9948572,
+    "longitude": 79.9742594,
+    "place_id": "ChIJhxeRTK0DNToRWAEvRdfzk08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxeRTK0DNToRWAEvRdfzk08",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:29"
+  }
+]

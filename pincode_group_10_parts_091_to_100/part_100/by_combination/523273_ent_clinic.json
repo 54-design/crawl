@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAITRA NEURO & ENT CARE",
+    "search_category": "ENT Clinic",
+    "primary_category": "Neurologist",
+    "all_categories": "Neurologist, Doctor, Hospital",
+    "pincode": "523273",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "62, Street No 1, Yerramukkapalli, Kadapa, Andhra Pradesh 516004",
+    "area": "Yerramukkapalli",
+    "latitude": 14.4601955,
+    "longitude": 78.8235854,
+    "place_id": "ChIJqYO-UwBzszsRJ64kNmg-f58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYO-UwBzszsRJ64kNmg-f58",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:24"
+  },
+  {
+    "business_name": "SUDHEER ENT & GENERAL HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523273",
+    "phone_number": "+91 81068 74187",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SKBR, College Rd, beside CHAITANYA BANK, near Samsung service centre, Amalapuram, Andhra Pradesh 533201",
+    "area": "523273",
+    "latitude": 16.5661129,
+    "longitude": 81.99763039999999,
+    "place_id": "ChIJKTrTO2DlNzoRq5pq7Kwb7sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTrTO2DlNzoRq5pq7Kwb7sg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:27"
+  }
+]

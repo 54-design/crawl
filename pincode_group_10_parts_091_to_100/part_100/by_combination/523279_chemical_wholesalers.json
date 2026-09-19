@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balajee Chemical Supplies",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "523279",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Survey no 189/3,JRD, Tata Industrial Estate, behind Kiran Engineers, Auto Nagar, Kanuru, Andhra Pradesh 520007",
+    "area": "Auto Nagar",
+    "latitude": 16.500839799999998,
+    "longitude": 80.68028939999999,
+    "place_id": "ChIJNVi9CMn7NToR144YQm5bTn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVi9CMn7NToR144YQm5bTn4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:56"
+  },
+  {
+    "business_name": "Vasavi Chemical Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Chemical wholesaler",
+    "pincode": "523279",
+    "phone_number": "+91 86492 52385",
+    "website": "http://vasavilime.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "13, 148, opp. Shirdi Sai Temple, Piduguralla, Andhra Pradesh 522413",
+    "area": "523279",
+    "latitude": 16.4948409,
+    "longitude": 79.8990585,
+    "place_id": "ChIJb-BNr4lvNToRozlO4n1d1cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-BNr4lvNToRozlO4n1d1cQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:58"
+  }
+]

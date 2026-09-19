@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends car travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kokuluka center, Erragondapalem, Andhra Pradesh 523327",
+    "area": "523326",
+    "latitude": 16.0378106,
+    "longitude": 79.3038645,
+    "place_id": "ChIJFVVGCXRNtTsRg-p0NY96CVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVVGCXRNtTsRg-p0NY96CVM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:47"
+  },
+  {
+    "business_name": "SAIMAHESH TRANSPORTS & TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523326",
+    "phone_number": "+91 94407 06782",
+    "website": "https://saimaheshtravels.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Old bus stand, market road, near panchayat office, beside Kota durga temple, Palakonda, Andhra Pradesh 532440",
+    "area": "523326",
+    "latitude": 18.602735799999998,
+    "longitude": 83.7537729,
+    "place_id": "ChIJ79uj34B7PDoRZ2kfFzZnshc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79uj34B7PDoRZ2kfFzZnshc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:49"
+  }
+]

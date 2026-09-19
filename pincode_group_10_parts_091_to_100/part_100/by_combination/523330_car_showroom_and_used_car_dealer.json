@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Truevalue",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto broker",
+    "all_categories": "Auto broker",
+    "pincode": "523330",
+    "phone_number": "+91 98666 00850",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 75,
+    "address": "Somaladoddi, Andhra Pradesh 515004",
+    "area": "523330",
+    "latitude": 14.7282043,
+    "longitude": 77.6046238,
+    "place_id": "ChIJL2ZxUBy1tjsR-ticKPLvv0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2ZxUBy1tjsR-ticKPLvv0o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:10"
+  },
+  {
+    "business_name": "Harsha Toyota (Nellore) Sales, Service & U-Trust",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Toyota dealer",
+    "all_categories": "Toyota dealer, Car dealer",
+    "pincode": "523330",
+    "phone_number": "+91 877 668 2121",
+    "website": "http://www.harshatoyota.com/",
+    "rating": 4.6,
+    "reviews_count": 1766,
+    "address": "SY No-83, NH-5, Venkatachalam Mandal, Kakutur, Andhra Pradesh 524324",
+    "area": "523330",
+    "latitude": 14.3603925,
+    "longitude": 79.9281797,
+    "place_id": "ChIJL7ZMcwXyTDoRmHBPi_LN-ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7ZMcwXyTDoRmHBPi_LN-ls",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:40:11"
+  }
+]

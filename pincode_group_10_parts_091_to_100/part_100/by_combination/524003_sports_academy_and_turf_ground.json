@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MSR Sports Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports school",
+    "all_categories": "Sports school, Badminton complex, Badminton court, Cricket ground, Football club, Martial arts club, Soccer practice, Sports club, Training center, Volleyball court",
+    "pincode": "524003",
+    "phone_number": "+91 97909 99074",
+    "website": "https://msrsportsacademy.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "506, Ponniyamman Koil St, Mahalakshmi Nagar, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+    "area": "Mahalakshmi Nagar, Iyyappanthangal",
+    "latitude": 13.0401422,
+    "longitude": 80.13846079999999,
+    "place_id": "ChIJs6CM2KhhUjoRx3tC6iFL7kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6CM2KhhUjoRx3tC6iFL7kc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:15:58"
+  },
+  {
+    "business_name": "Ambapuram Play Ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "524003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 36,
+    "address": "CW9G+2CX, Ambapuram, Nellore, Ambapuram, Andhra Pradesh 524004",
+    "area": "Ambapuram",
+    "latitude": 14.417624,
+    "longitude": 79.926119,
+    "place_id": "ChIJc2ukwZjyTDoRr-WTj5Yuj2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2ukwZjyTDoRr-WTj5Yuj2s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:16:02"
+  }
+]

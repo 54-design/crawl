@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaveri Shoe Mart",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523253",
+    "phone_number": "+91 94940 60747",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RTC, Bus Stand Road, Kondapi, Andhra Pradesh 523270",
+    "area": "523253",
+    "latitude": 15.4132348,
+    "longitude": 79.8558686,
+    "place_id": "ChIJow-e4cUbSzoRfd9jj18YM4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow-e4cUbSzoRfd9jj18YM4U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:43:06"
+  },
+  {
+    "business_name": "Trends Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523253",
+    "phone_number": "+91 70135 07361",
+    "website": "https://stores.trends-footwear.com/trends-footwear-rrl-footprint-undi-road-bhimavaram-shoe-shop-vempadu-west-godavari-477371/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.6,
+    "reviews_count": 97,
+    "address": "No 172/5, Coastal City Center, Undi Rd, Balusumoodi, Vempadu, Bhimavaram, Andhra Pradesh 534201",
+    "area": "Balusumoodi",
+    "latitude": 16.546868099999998,
+    "longitude": 81.5175416,
+    "place_id": "ChIJYZAYGKvSNzoR30tle5OKeZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZAYGKvSNzoR30tle5OKeZM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:43:07"
+  }
+]

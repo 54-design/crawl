@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "523327",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "29CW+J6P, Ramasamudram, Andhra Pradesh 523327",
+    "area": "523327",
+    "latitude": 16.0215834,
+    "longitude": 79.39557959999999,
+    "place_id": "ChIJK1qcRQCzSjoRg4B0r_euuxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1qcRQCzSjoRg4B0r_euuxY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:35"
+  },
+  {
+    "business_name": "Komarolu Rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "523327",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "482C+48X, SH 88, Komarolu, Andhra Pradesh 523327",
+    "area": "523327",
+    "latitude": 16.100353899999998,
+    "longitude": 79.32087229999999,
+    "place_id": "ChIJeb8lchZTtTsRBiqswCdR-NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeb8lchZTtTsRBiqswCdR-NU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:35"
+  }
+]

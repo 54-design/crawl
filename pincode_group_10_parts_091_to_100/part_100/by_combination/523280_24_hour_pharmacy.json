@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDICINE ON WHEELS",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "523280",
+    "phone_number": "+91 91197 76600",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 37,
+    "address": "SHOP NO 5, Shree Ganesh Complex, Shastri Puram Rd, Sulabh Puram colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "area": "Sulabh Puram colony, Sikandra",
+    "latitude": 27.2023658,
+    "longitude": 77.94674359999999,
+    "place_id": "ChIJ0_R_zB13dDkRrewre-Oyys8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_R_zB13dDkRrewre-Oyys8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:37"
+  },
+  {
+    "business_name": "Jain Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "523280",
+    "phone_number": "+91 484 280 8059",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Vennala High School Rd, Arakkakadavu, Vennala, Ernakulam, Kakkanad, Keralam 682028",
+    "area": "Arakkakadavu, Vennala",
+    "latitude": 9.994612499999999,
+    "longitude": 76.3258493,
+    "place_id": "ChIJyYFlqd0MCDsRRYvpuUndP90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYFlqd0MCDsRRYvpuUndP90",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:37"
+  }
+]

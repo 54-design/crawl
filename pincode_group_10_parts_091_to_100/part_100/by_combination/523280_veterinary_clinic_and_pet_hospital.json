@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Visha Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Veterinary pharmacy",
+    "pincode": "523280",
+    "phone_number": "+91 97866 69571",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 244,
+    "address": "Chennai, Nithyananda Nagar, Irumbuliyur, Tambaram, Tamil Nadu 600045",
+    "area": "Nithyananda Nagar, Irumbuliyur",
+    "latitude": 12.9191562,
+    "longitude": 80.10442909999999,
+    "place_id": "ChIJrQDPJ2dfUjoR2GBpQZAIFhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQDPJ2dfUjoR2GBpQZAIFhE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:43"
+  },
+  {
+    "business_name": "Lovely paws pet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "523280",
+    "phone_number": "+91 86880 51317",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "AS Rao Nagar, Hyderabad, Secunderabad, Telangana 500062",
+    "area": "AS Rao Nagar",
+    "latitude": 17.477250599999998,
+    "longitude": 78.5528788,
+    "place_id": "ChIJI4LyJH6byzsRDadR7fYwgXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4LyJH6byzsRDadR7fYwgXg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:45"
+  }
+]

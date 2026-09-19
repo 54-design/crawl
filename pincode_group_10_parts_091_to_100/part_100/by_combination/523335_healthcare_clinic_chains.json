@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RECOVER HOSPITALS",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Medical diagnostic imaging center",
+    "pincode": "523335",
+    "phone_number": "+91 83410 85108",
+    "website": "http://www.recoverhospitals.com/",
+    "rating": 3.4,
+    "reviews_count": 75,
+    "address": "Mallapur, Hyderabad, Telangana 500005",
+    "area": "Mallapur",
+    "latitude": 17.2920279,
+    "longitude": 78.4982891,
+    "place_id": "ChIJPwL8F02jyzsRA06nENA20hA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwL8F02jyzsRA06nENA20hA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:26"
+  },
+  {
+    "business_name": "Lakshmee Foundation Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523335",
+    "phone_number": "+91 98487 95656",
+    "website": "https://lakshmeefoundationhospital.com/",
+    "rating": 4.9,
+    "reviews_count": 493,
+    "address": "First Floor, GM57+PR, Ring Rd, opposite Novotel Hotel, Venkateswara Nagar, Veterinary Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Venkateswara Nagar, Veterinary Colony",
+    "latitude": 16.5092844,
+    "longitude": 80.66455479999999,
+    "place_id": "ChIJbUn9AD3lNToRWzR06nA9vRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUn9AD3lNToRWzR06nA9vRM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:26"
+  }
+]

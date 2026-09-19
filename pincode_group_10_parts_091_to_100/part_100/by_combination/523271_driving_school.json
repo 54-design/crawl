@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Vengamamba Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523271",
+    "phone_number": "+91 90004 02924",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 45, 8, opp. Lic Office, Nancharamma Colony, Santhosh Nagar, Kandukur, Andhra Pradesh 523105",
+    "area": "Nancharamma Colony, Santhosh Nagar",
+    "latitude": 15.2181681,
+    "longitude": 79.8977082,
+    "place_id": "ChIJ2RLA5EETSzoReLfVfnMpUoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RLA5EETSzoReLfVfnMpUoA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:54"
+  },
+  {
+    "business_name": "Pavan Kumar",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523271",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8V82+4CX, Paidipadu, Andhra Pradesh 523271",
+    "area": "523271",
+    "latitude": 15.3153683,
+    "longitude": 79.8511229,
+    "place_id": "ChIJO8vkBNURSzoRClR4hdLh_WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8vkBNURSzoRClR4hdLh_WQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:59:54"
+  }
+]

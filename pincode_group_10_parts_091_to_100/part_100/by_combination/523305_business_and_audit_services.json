@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayesh & Co.",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "523305",
+    "phone_number": "+91 98981 69088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Aspire Business Centre (ABC Complex, 411, BRTS, opp. Rabari Colony, Rabari Colony, Amraiwadi, Ahmedabad, Gujarat 380026",
+    "area": "Rabari Colony, Amraiwadi",
+    "latitude": 23.0040485,
+    "longitude": 72.6372964,
+    "place_id": "ChIJ04S0dS6HXjkR2Tz9Oe8HMCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04S0dS6HXjkR2Tz9Oe8HMCs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:13"
+  },
+  {
+    "business_name": "Jayesh R. Mor & Co.",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "523305",
+    "phone_number": "+91 79 2656 1414",
+    "website": "http://jayeshrmor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "105, Sahajanand, C.G.Road, Navrangpura,, near Swastik Char Rasta, Ahmedabad, Gujarat 380009",
+    "area": "Swastik Society, Navrangpura",
+    "latitude": 23.0374072,
+    "longitude": 72.5623978,
+    "place_id": "ChIJrap6pPSEXjkRyR8w-2gXfnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrap6pPSEXjkRyR8w-2gXfnk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:13"
+  }
+]

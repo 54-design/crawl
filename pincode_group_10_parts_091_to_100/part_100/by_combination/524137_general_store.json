@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAK. FANCY",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "524137",
+    "phone_number": "+91 96421 08609",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "Shop No 1, Main Road, Sreerangaraja -Puram, Andhra Pradesh 524137",
+    "area": "524137",
+    "latitude": 14.5007784,
+    "longitude": 79.9296154,
+    "place_id": "ChIJs-xr7KmNTDoRBjV2bRFs7ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-xr7KmNTDoRBjV2bRFs7ao",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:38:43"
+  },
+  {
+    "business_name": "SRINIVASA PROVJANCY STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "524137",
+    "phone_number": "+91 98853 36863",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "INAMADUGU CENTER, X ROAD, Padugupadu, Andhra Pradesh 524137",
+    "area": "524137",
+    "latitude": 14.501966399999999,
+    "longitude": 79.99180779999999,
+    "place_id": "ChIJJe-DO0KNTDoRarlA8s4blNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJe-DO0KNTDoRarlA8s4blNQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:38:43"
+  }
+]

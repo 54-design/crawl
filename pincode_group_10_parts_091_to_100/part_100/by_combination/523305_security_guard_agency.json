@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GUJJAR SECURITY FORCE",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "523305",
+    "phone_number": "+91 80903 87825",
+    "website": "https://www.gujjarsecurityforce.com/",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Padma Rao Nagar colony, New Town Colony, Isnapur, Hyderabad, Telangana 502307",
+    "area": "New Town Colony, Isnapur",
+    "latitude": 17.546630999999998,
+    "longitude": 78.2131398,
+    "place_id": "ChIJdQlZQsfzyzsRy_PWsZwd7r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQlZQsfzyzsRy_PWsZwd7r0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:09"
+  },
+  {
+    "business_name": "Hitech Detective Security & House Keeping Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "523305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9-8-16/1, Kasba Bazar, above Bull Jeans, Braman Bazar, Nizampet, Khammam, Telangana 507001",
+    "area": "Braman Bazar, Nizampet",
+    "latitude": 17.2459181,
+    "longitude": 80.1414392,
+    "place_id": "ChIJ4-Faee9ZNDoRmdGrewkhRq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-Faee9ZNDoRmdGrewkhRq0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:26:11"
+  }
+]

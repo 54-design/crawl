@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakrithi Fresh Organic Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Juice shop",
+    "pincode": "523254",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ramnagar, Hanamkonda, Telangana 506001",
+    "area": "Ramnagar",
+    "latitude": 18.0085378,
+    "longitude": 79.5529844,
+    "place_id": "ChIJkT0-E7dPMzoRBupNxlQJyMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkT0-E7dPMzoRBupNxlQJyMI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:44:37"
+  },
+  {
+    "business_name": "Real organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523254",
+    "phone_number": "N/A",
+    "website": "http://www.realorganics.in/",
+    "rating": 4,
+    "reviews_count": 324,
+    "address": "Real organics, Visweswara Estate, D n 59 A-20-1/14, near Cafe coffee day, Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony, Vijayawada, Andhra Pradesh 520008",
+    "area": "Kanaka Durga Gazetted Officers Colony, Guru Nanak Colony",
+    "latitude": 16.5039403,
+    "longitude": 80.6650647,
+    "place_id": "ChIJEbCIzzv7NToRdPqfYeYKYkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbCIzzv7NToRdPqfYeYKYkQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:44:38"
+  }
+]

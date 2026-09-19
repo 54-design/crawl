@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sasiorganics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "524003",
+    "phone_number": "+91 70324 56767",
+    "website": "https://www.sasiorganics.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Housing Board, HIG 04, near Bsnl Tower, Kallurupalli, Nellore, Andhra Pradesh 524003",
+    "area": "524003",
+    "latitude": 14.3885135,
+    "longitude": 79.9555843,
+    "place_id": "ChIJJ7bm62TzTDoRYik0OF3FbqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7bm62TzTDoRYik0OF3FbqY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:14:37"
+  },
+  {
+    "business_name": "RH ORGANIC JUICE",
+    "search_category": "Organic Food Store",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "524003",
+    "phone_number": "+91 91215 00725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 203,
+    "address": "Subbareddy stadium, A.C, Medical College Rd, opp. Government, Lakeview Colony, Revenue Colony, Nellore, Andhra Pradesh 524004",
+    "area": "Lakeview Colony, Revenue Colony",
+    "latitude": 14.425742,
+    "longitude": 79.964779,
+    "place_id": "ChIJQc_tVGHzTDoRbSVCdtwrN9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQc_tVGHzTDoRbSVCdtwrN9I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:14:38"
+  }
+]

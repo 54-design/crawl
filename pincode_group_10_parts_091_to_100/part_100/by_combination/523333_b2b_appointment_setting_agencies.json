@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Business Leads UK",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "https://www.business-leads-uk.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Business Centre, Edward St, Reddtich B97 6HA, United Kingdom",
+    "area": "523333",
+    "latitude": 52.307421999999995,
+    "longitude": -1.946524,
+    "place_id": "ChIJWQxFtTXAcEgRJKzblv1_mNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQxFtTXAcEgRJKzblv1_mNU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:58"
+  },
+  {
+    "business_name": "Appointment Setter",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "http://www.appointment-setter.co.uk/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21 Southampton Row, London WC1B 5HA, United Kingdom",
+    "area": "523333",
+    "latitude": 51.518243999999996,
+    "longitude": -0.12096509999999999,
+    "place_id": "ChIJP6f-RDQbdkgRCQySdZ3RH-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6f-RDQbdkgRCQySdZ3RH-g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:58"
+  }
+]

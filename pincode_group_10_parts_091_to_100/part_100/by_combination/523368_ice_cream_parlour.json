@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "సంఘం పాల దుకాణం హోల్ సేల్",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "523368",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 382, Racherla, Andhra Pradesh 523368",
+    "area": "523368",
+    "latitude": 15.460689499999999,
+    "longitude": 78.965347,
+    "place_id": "ChIJ3bJF9cnhtDsRxCPNZiLPzW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bJF9cnhtDsRxCPNZiLPzW8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:05"
+  },
+  {
+    "business_name": "Dumont Creamery",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "523368",
+    "phone_number": "+91 85220 50506",
+    "website": "https://dumont.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ward no.24, D.No.24/2, Military colony, Revenue, II, Nellore, Andhra Pradesh 524003",
+    "area": "Sujathamma Colony, II",
+    "latitude": 14.428846199999999,
+    "longitude": 79.9664296,
+    "place_id": "ChIJ82Dq8WnzTDoR3Y-7iH61XHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82Dq8WnzTDoR3Y-7iH61XHg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:06"
+  }
+]

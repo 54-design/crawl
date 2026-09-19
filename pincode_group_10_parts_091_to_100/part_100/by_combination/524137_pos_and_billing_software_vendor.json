@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Bank - Nellore Branch",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Business banking service, Car finance and loan company, Financial institution, Investment bank, Loan agency, Money transfer service, Private Sector Bank, Savings bank",
+    "pincode": "524137",
+    "phone_number": "+91 861 233 3553",
+    "website": "https://www.southindianbank.bank.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "K.V.K Towers, No. 15-292-A, Brindavanam Rd, opp. My Home, Colony, Brindavan Colony, Nellore, Andhra Pradesh 524001",
+    "area": "Colony, Brindavan Colony",
+    "latitude": 14.4541782,
+    "longitude": 79.9860101,
+    "place_id": "ChIJbz7GpQ3zTDoRqIni1NuIAJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbz7GpQ3zTDoRqIni1NuIAJI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:03"
+  },
+  {
+    "business_name": "VG SOLUTION & TECHNOLOGY",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Printing equipment supplier",
+    "all_categories": "Printing equipment supplier",
+    "pincode": "524137",
+    "phone_number": "+91 97898 19629",
+    "website": "https://www.vgsolutionandtechnology.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "New No:71, Old No:118, 1st Floor Vanniyar Street, Choolaimedu, Chennai, Tamil Nadu 600094",
+    "area": "RR Nagar, Choolaimedu",
+    "latitude": 13.058712,
+    "longitude": 80.2246649,
+    "place_id": "ChIJlxphqZU4rTsRVHkUUsLpGXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxphqZU4rTsRVHkUUsLpGXY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:40:03"
+  }
+]

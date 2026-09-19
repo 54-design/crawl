@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singhal Sanitary and Hardware Store",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Pipe supplier",
+    "all_categories": "Pipe supplier, Bathroom remodeler, Bathroom supply store, Hardware store, Kitchen remodeler, Kitchen supply store, Water Pump Supplier, Water Tank Cleaners, Window treatment store",
+    "pincode": "523246",
+    "phone_number": "+91 90458 65935",
+    "website": "https://sshs.abhisheksinghal.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sardhana Rd, Kanker Khera, Meerut, Uttar Pradesh 250001",
+    "area": "Kanker Khera",
+    "latitude": 29.0247793,
+    "longitude": 77.6865426,
+    "place_id": "ChIJPRs2KftlDDkRMT0gHUKqZQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRs2KftlDDkRMT0gHUKqZQM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:03"
+  },
+  {
+    "business_name": "Better Home",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service, Air conditioning store, Appliance store, Building materials market, Glass & mirror shop, Home improvement store",
+    "pincode": "523246",
+    "phone_number": "+91 98849 03890",
+    "website": "https://www.betterhomeapp.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "934, Poonamallee High Rd, Arumbakkam, Chennai, Tamil Nadu 600106",
+    "area": "Arumbakkam",
+    "latitude": 13.0772553,
+    "longitude": 80.2083012,
+    "place_id": "ChIJnySS_0lvUjoRiK9sbvkcHng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnySS_0lvUjoRiK9sbvkcHng",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:38:05"
+  }
+]

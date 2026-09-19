@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ismail cycle shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Bicycle Shop",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kapa street, LBS Nagar, Cumbum, Kambham, Andhra Pradesh 523333",
+    "area": "LBS Nagar",
+    "latitude": 15.583044,
+    "longitude": 79.1115942,
+    "place_id": "ChIJe3UAcAAhtTsRenlOJjkD4IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3UAcAAhtTsRenlOJjkD4IU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:49"
+  },
+  {
+    "business_name": "Friends Auto Mobiles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Bike sharing station",
+    "pincode": "523333",
+    "phone_number": "+91 81870 88437",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9169, MAIN ROAD, opp. SBI BANK, Sri Nagar Colony, Bestavaripeta, Andhra Pradesh 523334",
+    "area": "Sri Nagar Colony",
+    "latitude": 15.5472346,
+    "longitude": 79.1013147,
+    "place_id": "ChIJOVCGOtAgtTsRbZgWdMjb86g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVCGOtAgtTsRbZgWdMjb86g",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:51"
+  }
+]

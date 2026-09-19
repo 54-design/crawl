@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Coffee day - Gooty Pedavagur",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Takeout restaurant, Pastry shop, Restaurant, Sandwich shop",
+    "pincode": "523367",
+    "phone_number": "+91 1800 102 5093",
+    "website": "https://www.cafecoffeeday.com/",
+    "rating": 4,
+    "reviews_count": 1924,
+    "address": "SY No. 585/A, 3J7J+Q6M HPCL KPS Filling Station, Hyderabad - Bengaluru Hwy, Pedavagur, Gooty, Anantapuram, Andhra Pradesh 515401",
+    "area": "Pedavagur",
+    "latitude": 15.0657541,
+    "longitude": 77.63060589999999,
+    "place_id": "ChIJo8FJqYqVtjsRNYnlazpONzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8FJqYqVtjsRNYnlazpONzQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:19"
+  },
+  {
+    "business_name": "Godavari Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "523367",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "2Q6C+9GR హోటల్, లలిత, మహల్, ప్రక్కన, Aryapuram, Rajamahendravaram, Andhra Pradesh 533104",
+    "area": "ప్రక్కన, Aryapuram",
+    "latitude": 17.010972499999998,
+    "longitude": 81.77129029999999,
+    "place_id": "ChIJ6xbfcwClNzoR9Acy_cy69wA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xbfcwClNzoR9Acy_cy69wA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:58:21"
+  }
+]

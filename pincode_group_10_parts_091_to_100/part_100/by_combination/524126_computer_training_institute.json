@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RS Computer Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "524126",
+    "phone_number": "+91 73388 09171",
+    "website": "http://www.rsacademy.net.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3-3-40, L.A.Sagaram, Gindivari thota, Nayudupeta, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram, Gindivari thota",
+    "latitude": 13.905863499999999,
+    "longitude": 79.8910459,
+    "place_id": "ChIJs6nC8GcbTToRAVp_hCzgEmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6nC8GcbTToRAVp_hCzgEmY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:51"
+  },
+  {
+    "business_name": "Medha Computers",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "https://www.medhacomputers.in/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "D.No : 7, 4-22, Brahmin St, Naidupet, Vinnamala, Andhra Pradesh 524126",
+    "area": "Naidupet",
+    "latitude": 13.9067837,
+    "longitude": 79.8931739,
+    "place_id": "ChIJScNS5x8bTToRaS8fMgbpuDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScNS5x8bTToRaS8fMgbpuDE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:51"
+  }
+]

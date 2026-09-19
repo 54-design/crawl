@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.mohan dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "524124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 16, Tada, Andhra Pradesh 524401",
+    "area": "524124",
+    "latitude": 13.5927475,
+    "longitude": 80.03093009999999,
+    "place_id": "ChIJD7wXZgB3TToR0w3r1fnMtLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7wXZgB3TToR0w3r1fnMtLU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:18"
+  },
+  {
+    "business_name": "SM Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "524124",
+    "phone_number": "+91 87788 49684",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yamini complex, GNT road, Arambakkam, Gummidipoondi, Tamil Nadu 601201",
+    "area": "524124",
+    "latitude": 13.5437733,
+    "longitude": 80.0683207,
+    "place_id": "ChIJB9TLgeV3TToRf2sjkrXuguo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9TLgeV3TToRf2sjkrXuguo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:26:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tea Scotch Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Vegetarian cafe and deli",
+    "all_categories": "Vegetarian cafe and deli, Cafe",
+    "pincode": "523262",
+    "phone_number": "+91 88663 24437",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3,4 Brij Industries, near Kum Kum Restaurant, opp. Saibaba Temple, Makarpura, Vadodara, Gujarat 390010",
+    "area": "Krishna Nagar, Makarpura GIDC, Makarpura",
+    "latitude": 22.257622899999998,
+    "longitude": 73.1956119,
+    "place_id": "ChIJBQ9_CqXFXzkRu7NJH8S8w8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQ9_CqXFXzkRu7NJH8S8w8w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:50:10"
+  },
+  {
+    "business_name": "Tea Post - A Place to Talk",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Cafe, Coffee shop, Coffee store, Fast food restaurant",
+    "pincode": "523262",
+    "phone_number": "+91 99988 83920",
+    "website": "http://www.facebook.com/TeaPost.MalharPoint",
+    "rating": 4,
+    "reviews_count": 989,
+    "address": "Siddharth Patel Square, G-6, Old Padra Rd, Malhar Point, Bhakti Nagar, Akota, Vadodara, Gujarat 390007",
+    "area": "Malhar Point, Bhakti Nagar, Akota",
+    "latitude": 22.304065599999998,
+    "longitude": 73.1661549,
+    "place_id": "ChIJ92OknkzJXzkRFfUzaRNYmJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92OknkzJXzkRFfUzaRNYmJQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:50:11"
+  }
+]

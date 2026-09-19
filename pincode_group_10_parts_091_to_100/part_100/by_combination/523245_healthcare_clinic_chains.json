@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Care Diagnostics & Polyclinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "523245",
+    "phone_number": "+91 79758 84115",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "68QR+6H2, Gaddige Main Road, opp. Masjid, Hunsur Taluk, Rathnapuri Post, Mysore, Uddurkaval, Dist -571189 571189",
+    "area": "Rathnapuri Post",
+    "latitude": 12.2380234,
+    "longitude": 76.3413813,
+    "place_id": "ChIJnxQUbSKPpTsRjfwxPl13_4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxQUbSKPpTsRjfwxPl13_4I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:36:05"
+  },
+  {
+    "business_name": "clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "523245",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "98JG+HCV, Pali, Chhattisgarh 495449",
+    "area": "523245",
+    "latitude": 22.3814751,
+    "longitude": 82.3260332,
+    "place_id": "ChIJhW9sgbL5JzoRIwuuRQIfTAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhW9sgbL5JzoRIwuuRQIfTAU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:36:05"
+  }
+]

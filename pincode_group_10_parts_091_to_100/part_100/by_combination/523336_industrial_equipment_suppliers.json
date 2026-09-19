@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Industrial Equipment Stores",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier",
+    "pincode": "523336",
+    "phone_number": "+91 94468 23198",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pallithazam, Kothamangalam, Keralam 686691",
+    "area": "Pallithazam",
+    "latitude": 10.0636127,
+    "longitude": 76.6284415,
+    "place_id": "ChIJiZtXGBDmBzsRKFo7UF16V5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZtXGBDmBzsRKFo7UF16V5A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:24"
+  },
+  {
+    "business_name": "Vasavi Food Catering and Suppliers",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "523336",
+    "phone_number": "+91 95428 21650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "College Rd, Thurimella, Andhra Pradesh 523372",
+    "area": "523336",
+    "latitude": 15.524278299999999,
+    "longitude": 78.9858264,
+    "place_id": "ChIJgSvtix4ftTsROvWZkWBo9AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSvtix4ftTsROvWZkWBo9AA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:25"
+  }
+]

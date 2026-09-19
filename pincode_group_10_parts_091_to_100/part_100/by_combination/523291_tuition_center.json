@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Bidika",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "523291",
+    "phone_number": "+91 63040 92837",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahi Bidika, Ramayapatnam, Kavali, Andhra Pradesh 523291",
+    "area": "523291",
+    "latitude": 15.065883999999999,
+    "longitude": 80.0420204,
+    "place_id": "ChIJEy3xgOZ3SzoRupCfj9ogRqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy3xgOZ3SzoRupCfj9ogRqk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:55"
+  },
+  {
+    "business_name": "Methods Coaching Centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "523291",
+    "phone_number": "+91 92474 45194",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Vaddi Palem, Janathapet, Kavali, Andhra Pradesh 524201",
+    "area": "Vaddi Palem, Janathapet",
+    "latitude": 14.917817999999999,
+    "longitude": 79.98641169999999,
+    "place_id": "ChIJ5f1iU417SzoR5oVYW_LTg-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5f1iU417SzoR5oVYW_LTg-w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:56"
+  }
+]

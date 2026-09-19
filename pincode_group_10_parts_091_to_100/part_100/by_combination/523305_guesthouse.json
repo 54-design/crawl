@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welcome lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "523305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.736150299999998,
+    "longitude": 79.2694298,
+    "place_id": "ChIJQ5rwS5YxtTsRVGHFVHzPoGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5rwS5YxtTsRVGHFVHzPoGo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:47"
+  },
+  {
+    "business_name": "Trinetra Home Stay",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "523305",
+    "phone_number": "+91 90145 30748",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "western colony, 7-37-94/2, Sundipenta, Srisailam, Srisailam Project, Andhra Pradesh 518102",
+    "area": "Sundipenta",
+    "latitude": 16.0729732,
+    "longitude": 78.9062831,
+    "place_id": "ChIJyViSyUFltTsRo9e-g8pn6Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyViSyUFltTsRo9e-g8pn6Aw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:25:47"
+  }
+]

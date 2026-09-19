@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naidu Auto Consultants",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used motorcycle dealer",
+    "all_categories": "Used motorcycle dealer",
+    "pincode": "524137",
+    "phone_number": "+91 861 232 9239",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Opp. Town Hall, Danduvari Street, Trunk Road, 17/292/2, Trunk Rd, Kukkalagunta, VRC Centre, Nellore, Andhra Pradesh 524001",
+    "area": "Kukkalagunta, VRC Centre",
+    "latitude": 14.4489599,
+    "longitude": 79.98247789999999,
+    "place_id": "ChIJ66xuv8uMTDoRIjDgJZ4bFEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66xuv8uMTDoRIjDgJZ4bFEg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:39:16"
+  },
+  {
+    "business_name": "VIDA - Sarayu Auto, Ramamurthy Nagar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Electric motor scooter dealer",
+    "all_categories": "Electric motor scooter dealer",
+    "pincode": "524137",
+    "phone_number": "+91 74284 81186",
+    "website": "https://www.vidaworld.com/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Mini Bypass Road, Ramamurthy Nagar, Nellore, Andhra Pradesh 524003",
+    "area": "Ramamurthy Nagar",
+    "latitude": 14.4449685,
+    "longitude": 79.986997,
+    "place_id": "ChIJz3xUf9ONTDoRlBpGfDV6FyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3xUf9ONTDoRlBpGfDV6FyI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:39:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fabulous Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "524002",
+    "phone_number": "+91 83095 55934",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 40,
+    "address": "2nd Floor, IRA Complex, 3rd Cross St, Central Avenue, Magunta Layout, Nellore, Andhra Pradesh 524003",
+    "area": "Central Avenue, Magunta Layout",
+    "latitude": 14.4316327,
+    "longitude": 79.9740499,
+    "place_id": "ChIJV8UQGmTzTDoRjEnJi0ax4tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8UQGmTzTDoRjEnJi0ax4tk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:07"
+  },
+  {
+    "business_name": "Maguvastra",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "524002",
+    "phone_number": "+91 76758 57676",
+    "website": "http://maguvastra.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Door no, : 1215, Muthukur Rd, near HP Petrol Bunk, Harinathpuram, Nellore, Andhra Pradesh 524004",
+    "area": "Harinathpuram",
+    "latitude": 14.437634599999999,
+    "longitude": 79.9914099,
+    "place_id": "ChIJEW6KAlnzTDoRmkw1FE_sh2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW6KAlnzTDoRmkw1FE_sh2c",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:13:07"
+  }
+]

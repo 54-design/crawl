@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Krishna ITI",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Educational institution, College",
+    "pincode": "523327",
+    "phone_number": "+91 75695 57453",
+    "website": "http://www.srikrishnaiti.in/",
+    "rating": 4.5,
+    "reviews_count": 76,
+    "address": "Sri Krishna ITI, near Boyalapalli Markapur Road, Erragondapalem, Boyala Palle, Andhra Pradesh 523327",
+    "area": "523327",
+    "latitude": 15.9761522,
+    "longitude": 79.3233436,
+    "place_id": "ChIJKxMRm49LtTsRr4PuJd0djP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxMRm49LtTsRr4PuJd0djP0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:34:41"
+  },
+  {
+    "business_name": "Nagendra Auto stand",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "523327",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "57RQ+X5G, Murikimalla, Andhra Pradesh 523327",
+    "area": "523327",
+    "latitude": 16.1924348,
+    "longitude": 79.28796779999999,
+    "place_id": "ChIJJ5rSr2JXtTsRqfpQO5n6YOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5rSr2JXtTsRqfpQO5n6YOk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:34:43"
+  }
+]

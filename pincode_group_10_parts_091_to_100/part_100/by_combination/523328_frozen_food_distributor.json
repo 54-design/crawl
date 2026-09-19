@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rouchira Enterprises -Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "523328",
+    "phone_number": "+91 70752 59595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "shop no 3, Plot no 64, Kapra Municipal Office Rd, Ashok Enclave, Siva Puri Colony, Kapra, Hyderabad, Secunderabad, Telangana 500103",
+    "area": "Ashok Enclave, Siva Puri Colony, Kapra",
+    "latitude": 17.4857323,
+    "longitude": 78.5574626,
+    "place_id": "ChIJFyfyyWSbyzsREm_Vy6rDRsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFyfyyWSbyzsREm_Vy6rDRsU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:57"
+  },
+  {
+    "business_name": "AKREETI Food Services Company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, FMCG Goods Wholesaler, Food and beverage consultant",
+    "pincode": "523328",
+    "phone_number": "+91 98648 50495",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Puberun Path, Bagharbari, Guwahati, Assam 781037",
+    "area": "Bagharbari",
+    "latitude": 26.1417213,
+    "longitude": 91.8300076,
+    "place_id": "ChIJy1lC5LdZWjcRTLxUo6E6uVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1lC5LdZWjcRTLxUo6E6uVE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:35:58"
+  }
+]

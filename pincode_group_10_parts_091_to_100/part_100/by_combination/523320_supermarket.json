@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagurvali Tiffen",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523320",
+    "phone_number": "+91 86880 66686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Puchchokdyapalle, Puchakaya Palli, Peda Araveedu, Andhra Pradesh 523329",
+    "area": "Puchchokdyapalle, Puchakaya Palli",
+    "latitude": 15.7963787,
+    "longitude": 79.19868939999999,
+    "place_id": "ChIJ9W1wf7I5tTsRatlAlRTyVkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9W1wf7I5tTsRatlAlRTyVkc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:13"
+  },
+  {
+    "business_name": "Subbarayudu kirana&genaral store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "W4RJ+VWP, Peda Bommala Puram, Andhra Pradesh 523331",
+    "area": "523320",
+    "latitude": 15.9422188,
+    "longitude": 79.1323304,
+    "place_id": "ChIJ62rnW5VHtTsR07ii3uA3yic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62rnW5VHtTsR07ii3uA3yic",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:30:13"
+  }
+]

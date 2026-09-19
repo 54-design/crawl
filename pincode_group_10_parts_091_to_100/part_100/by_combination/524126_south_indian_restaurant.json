@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Srinivasa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "524126",
+    "phone_number": "+91 94902 47266",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C9, Koneti Raju Palem, Konetirajupalem, Andhra Pradesh 524421",
+    "area": "524126",
+    "latitude": 13.9176033,
+    "longitude": 79.8178764,
+    "place_id": "ChIJUVN2ZwAZTToRrHMdyv6usQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVN2ZwAZTToRrHMdyv6usQs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:27:49"
+  },
+  {
+    "business_name": "Heritage Sale Point (Gomathi Dairy Parlour)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "524126",
+    "phone_number": "+91 98483 48001",
+    "website": "http://www.heritagefoods.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NaiduA Ramakrishna, Door No:1, Srikalahasti - Masalapadu Rd, Nellore, Andhra Pradesh 524126",
+    "area": "524126",
+    "latitude": 13.8926921,
+    "longitude": 79.8818526,
+    "place_id": "ChIJ5Zn2wYQbTToRmAQ4Gw615aU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Zn2wYQbTToRmAQ4Gw615aU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:27:49"
+  }
+]

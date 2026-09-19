@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trade Expo House",
+    "search_category": "Tradeshows",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "http://www.trade-exposition.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-21/13 (Old Plot # C-32), Arvind Mega Park Nr. Chancharvadi Mandir Parikh Packaging Lane Vasna Chancharvadi, Nr, Moraiya, Gujarat 382213",
+    "area": "523333",
+    "latitude": 22.891558399999997,
+    "longitude": 72.43192599999999,
+    "place_id": "ChIJr2o6PmGRXjkRuTZmFjUbrjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2o6PmGRXjkRuTZmFjUbrjA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:54"
+  },
+  {
+    "business_name": "Tringcity",
+    "search_category": "Tradeshows",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "523333",
+    "phone_number": "+91 99668 66899",
+    "website": "http://www.tringcity.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Anjaneya Varada Veedhi, Tallamudunurupadu, Andhra Pradesh 534102",
+    "area": "Tallamudunurupadu",
+    "latitude": 16.793233999999998,
+    "longitude": 81.5260488,
+    "place_id": "ChIJMfQChtC0NzoRg1oLoknizpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfQChtC0NzoRg1oLoknizpM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:46:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Usha designer boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-5-237/1, Ramakrishnapuram, L A Sagaram, Naidupet, Vinnamala, Andhra Pradesh 524126",
+    "area": "Ramakrishnapuram, L A Sagaram",
+    "latitude": 13.9084799,
+    "longitude": 79.89818129999999,
+    "place_id": "ChIJRUXvRAAbTToR4rK7xCM6UTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUXvRAAbTToR4rK7xCM6UTc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:02"
+  },
+  {
+    "business_name": "Aaira Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "524126",
+    "phone_number": "+91 99922 29965",
+    "website": "http://www.aairaboutique.com/",
+    "rating": 4.9,
+    "reviews_count": 114,
+    "address": "1st,floor, 19-12-395, opposite New Ganesh Pharmacy, Telephone Colony, Lingeswar Nagar, Bairagi patteda, Tirupati, Andhra Pradesh 517501",
+    "area": "Telephone Colony, Lingeswar Nagar, Bairagi patteda",
+    "latitude": 13.6175914,
+    "longitude": 79.4222363,
+    "place_id": "ChIJ_V3bS_tLTToRWw6I-vhROP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_V3bS_tLTToRWw6I-vhROP8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Anagha Consultancy",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "523280",
+    "phone_number": "+91 90005 98288",
+    "website": "https://www.sramcs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-3-183/40/19, SBI Colony, GANDHINAGAR, Kavadiguda, Hyderabad, Telangana 500080",
+    "area": "SBI Colony, GANDHINAGAR, Kavadiguda",
+    "latitude": 17.4184965,
+    "longitude": 78.4897788,
+    "place_id": "ChIJFWY2NACZyzsRyYJBA3MnI_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWY2NACZyzsRyYJBA3MnI_E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:42"
+  },
+  {
+    "business_name": "AVS & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accounting firm, Auditor",
+    "pincode": "523280",
+    "phone_number": "+91 95554 47788",
+    "website": "https://www.camantra.com/",
+    "rating": 4.9,
+    "reviews_count": 791,
+    "address": "Unit No-812, 8th Floor, Tower-A, The I-Thum, Plot No: A-40, opp. Electronic City metro, Sector 62, Noida, Uttar Pradesh 201309",
+    "area": "Block A, Industrial Area, Sector 62",
+    "latitude": 28.6271146,
+    "longitude": 77.37231349999999,
+    "place_id": "ChIJAWSKzgHlDDkRUXUIN3MqIRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWSKzgHlDDkRUXUIN3MqIRA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:43"
+  }
+]

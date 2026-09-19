@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SNS TRADERS",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "523346",
+    "phone_number": "+91 81065 01949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Rice mill, Gospadu, Nandyala, Andhra Pradesh 518674",
+    "area": "523346",
+    "latitude": 15.3577754,
+    "longitude": 78.4175631,
+    "place_id": "ChIJQ3YQSUZPtDsRIinUxmzkEBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3YQSUZPtDsRIinUxmzkEBY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:53:26"
+  },
+  {
+    "business_name": "Cement Shop",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "523346",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "57MH+944, Chandrasekharapuram, Andhra Pradesh 523112",
+    "area": "523346",
+    "latitude": 15.1833926,
+    "longitude": 79.2778361,
+    "place_id": "ChIJM3YN7_LJtDsRv3_KLFQFvko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3YN7_LJtDsRv3_KLFQFvko",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:53:26"
+  }
+]

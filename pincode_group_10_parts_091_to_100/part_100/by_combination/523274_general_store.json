@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devarapalli's House",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523274",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "82QW+958, Tanguturu, Andhra Pradesh 523274",
+    "area": "523274",
+    "latitude": 15.3384146,
+    "longitude": 80.0454677,
+    "place_id": "ChIJVVDrTAAJSzoRIEUIsqkKBQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVDrTAAJSzoRIEUIsqkKBQk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:04:46"
+  },
+  {
+    "business_name": "SRINU SUDARSI",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523274",
+    "phone_number": "+91 96524 30048",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-2, Main Road, Tanguturu, K Bitragunta, Andhra Pradesh 523274",
+    "area": "523274",
+    "latitude": 15.3133789,
+    "longitude": 80.0289718,
+    "place_id": "ChIJS_qmr44JSzoRXr8tQM5OdoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_qmr44JSzoRXr8tQM5OdoA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:04:46"
+  }
+]

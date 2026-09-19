@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trupthi Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Restaurant, Sports complex, Swimming pool, Water park, Wedding venue",
+    "pincode": "523273",
+    "phone_number": "+91 96771 42168",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 775,
+    "address": "Trupthi resorts, Kondampeta, Andhra Pradesh 532127",
+    "area": "Trupthi resorts",
+    "latitude": 18.456692,
+    "longitude": 83.6265,
+    "place_id": "ChIJzwRxhFF2PDoRva_oXme1EI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwRxhFF2PDoRva_oXme1EI0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:58"
+  },
+  {
+    "business_name": "Kavuri Grand",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "523273",
+    "phone_number": "+91 94935 95678",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 514,
+    "address": "Surya Lanka Beach Road, beside substation, Muthyapalem, Maruproluvaripalem Rural, Andhra Pradesh 522102",
+    "area": "Muthyapalem",
+    "latitude": 15.8750983,
+    "longitude": 80.4920545,
+    "place_id": "ChIJ5fUDPCQ_SjoR3_7KwUtDTnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fUDPCQ_SjoR3_7KwUtDTnk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:03:58"
+  }
+]

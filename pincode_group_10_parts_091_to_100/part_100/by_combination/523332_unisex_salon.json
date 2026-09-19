@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banu's Beauty Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "523332",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Court centre, Opposite to Head post office,h-1/52, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.7359865,
+    "longitude": 79.2696663,
+    "place_id": "ChIJkWT4BBYxtTsRZ69vN9i1qLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWT4BBYxtTsRZ69vN9i1qLc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:15"
+  },
+  {
+    "business_name": "Pavan beauty stores",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler, Cosmetics wholesaler",
+    "pincode": "523332",
+    "phone_number": "+91 96187 20001",
+    "website": "http://beautyzon.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R.K. PLAZA, (Nimbu Market, Feel khana Begum Bazar Rd, near Aziz plaza, Hyderabad, Telangana 500012",
+    "area": "Feelkhana",
+    "latitude": 17.3761342,
+    "longitude": 78.4733948,
+    "place_id": "ChIJnar_yvmXyzsRdobnoWP6cLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnar_yvmXyzsRdobnoWP6cLo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:44:16"
+  }
+]

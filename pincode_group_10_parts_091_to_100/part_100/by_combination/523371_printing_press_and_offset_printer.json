@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Compuprint",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Digital printing service, Offset Printer, Screen printer",
+    "pincode": "523371",
+    "phone_number": "+91 44 2811 6768",
+    "website": "http://compuprint.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flat C, ARISTO, 9, 2nd St, Gopalapuram, Chennai, Tamil Nadu 600086",
+    "area": "Gopalapuram",
+    "latitude": 13.0482427,
+    "longitude": 80.2563061,
+    "place_id": "ChIJ_z0XOzhmUjoRyeu2XgZHv3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_z0XOzhmUjoRyeu2XgZHv3I",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:06:37"
+  },
+  {
+    "business_name": "sai visweswara offset printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "523371",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/svpress/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nehru Bazar, near Municipality Office, beside sahara office, Markapur, Andhra Pradesh 523316",
+    "area": "Markapur",
+    "latitude": 15.7396979,
+    "longitude": 79.2708212,
+    "place_id": "ChIJuVp-hN0xtTsR5T3aPoLURK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVp-hN0xtTsR5T3aPoLURK0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:06:37"
+  }
+]

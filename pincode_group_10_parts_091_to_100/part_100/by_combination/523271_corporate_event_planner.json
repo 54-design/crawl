@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nb events services",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "523271",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kandukuru, Pandalapadu, Nelluru, Andhra Pradesh 523271",
+    "area": "Kandukuru",
+    "latitude": 15.298264699999999,
+    "longitude": 79.881483,
+    "place_id": "ChIJ5UKTJHcRSzoRjjyTxat2ZBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UKTJHcRSzoRjjyTxat2ZBo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:00:20"
+  },
+  {
+    "business_name": "KV EVENTS",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "523271",
+    "phone_number": "+91 90140 02251",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prasanthi Nagar, 2nd line, Kandukur, Andhra Pradesh 523109",
+    "area": "523271",
+    "latitude": 15.207844499999998,
+    "longitude": 79.8853657,
+    "place_id": "ChIJO37_DAATSzoRAut1CiCA1ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO37_DAATSzoRAut1CiCA1ow",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:00:22"
+  }
+]

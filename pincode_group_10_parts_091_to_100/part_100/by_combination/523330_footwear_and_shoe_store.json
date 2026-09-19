@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walkway Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523330",
+    "phone_number": "+91 93218 25119",
+    "website": "https://stores.walkwayshoes.com/walkway-shoes-rk-plaza-gajuwaka-vishakhapatnam",
+    "rating": 4.1,
+    "reviews_count": 37,
+    "address": "Revenue ward 64, RK Plaza, opp. Lucky Shopping Mall, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Gajuwaka",
+    "latitude": 17.6856232,
+    "longitude": 83.21249449999999,
+    "place_id": "ChIJb840xwtpOToR_vkL7atX5ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb840xwtpOToR_vkL7atX5ls",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:39:50"
+  },
+  {
+    "business_name": "Metro Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "523330",
+    "phone_number": "+91 863 406 1291",
+    "website": "https://stores.metroshoes.com/metro-shoes-lakshmipurammainroad-guntur-andhrapradesh-gnr",
+    "rating": 4.7,
+    "reviews_count": 94,
+    "address": "Shop No:2 Ground Floor Opp:, Sbi Bank, 5-87-34/1, Lakshmipuram Main Rd, Ashok Nagar, Guntur, Andhra Pradesh 522007",
+    "area": "Ashok Nagar",
+    "latitude": 16.310435,
+    "longitude": 80.429098,
+    "place_id": "ChIJY1d_HMl1SjoRK8-suG-pNPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1d_HMl1SjoRK8-suG-pNPM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:39:51"
+  }
+]

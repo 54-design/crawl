@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahatma Gandhi Institute For Comprehensive Healthcare",
+    "search_category": "Therapy Center",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Home health care service, Psychologist",
+    "pincode": "523261",
+    "phone_number": "+91 863 222 3111",
+    "website": "https://mgicmh.org/",
+    "rating": 4.9,
+    "reviews_count": 344,
+    "address": "7CXX+8X3, Kothapeta, Guntur, Andhra Pradesh 522001",
+    "area": "Kothapeta",
+    "latitude": 16.2979439,
+    "longitude": 80.4486611,
+    "place_id": "ChIJPwAAAMwKSjoRPdDJqZrpBAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwAAAMwKSjoRPdDJqZrpBAA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:49:16"
+  },
+  {
+    "business_name": "JAZA Healthcare (ജസ ഹെൽത്ത് കെയർ )",
+    "search_category": "Therapy Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "523261",
+    "phone_number": "+91 85940 11117",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "KSHB Colony, Perinthalmanna, Keralam 679322",
+    "area": "KSHB Colony",
+    "latitude": 10.9761011,
+    "longitude": 76.2304798,
+    "place_id": "ChIJy6aIwqvNpzsRmI2nbJ6yom8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6aIwqvNpzsRmI2nbJ6yom8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:49:16"
+  }
+]

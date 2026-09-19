@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarun Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Pen store",
+    "pincode": "523262",
+    "phone_number": "+91 98185 88681",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 122,
+    "address": "628/1, Village Chora, Sharma Market, near E.S.I Hospital, Sector 22, Noida, Uttar Pradesh 201307",
+    "area": "Chora Sadatpur, Sector 22",
+    "latitude": 28.5927559,
+    "longitude": 77.3461268,
+    "place_id": "ChIJH6u5VFDlDDkRCWe1icvebZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6u5VFDlDDkRCWe1icvebZY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:20"
+  },
+  {
+    "business_name": "Ambica Paper Mart and Stationary",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery wholesaler",
+    "all_categories": "Stationery wholesaler, Paper distributor",
+    "pincode": "523262",
+    "phone_number": "+91 98495 97912",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sri ram Nagar, 10-4-92, opp. best Westren street Trends backside, near krishna temple road, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Gajuwaka",
+    "latitude": 17.6854478,
+    "longitude": 83.2064674,
+    "place_id": "ChIJCcOPjAZpOToR0clrQtlDOEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcOPjAZpOToR0clrQtlDOEI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:20"
+  }
+]

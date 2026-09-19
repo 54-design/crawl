@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandanaz",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "523346",
+    "phone_number": "+91 90102 21376",
+    "website": "http://www.chandanaz.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandhi Nagar, Kurnool, Andhra Pradesh 518001",
+    "area": "Gandhi Nagar",
+    "latitude": 15.8311686,
+    "longitude": 78.0388368,
+    "place_id": "ChIJXan9JQDntTsR1bn9wt_3sNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXan9JQDntTsR1bn9wt_3sNk",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:54"
+  },
+  {
+    "business_name": "Chandanaz",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Gold dealer, Jewelry store",
+    "pincode": "523346",
+    "phone_number": "+91 90912 44244",
+    "website": "https://www.chandanaz.com/stores/proddatur",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "9/412, 8/696, Gandhi Rd, Holmus Pet, Proddatur, Andhra Pradesh 516360",
+    "area": "Holmus Pet",
+    "latitude": 14.7512478,
+    "longitude": 78.5482711,
+    "place_id": "ChIJDZpLKYh5tDsRtJURsBprmMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZpLKYh5tDsRtJURsBprmMQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:52:54"
+  }
+]

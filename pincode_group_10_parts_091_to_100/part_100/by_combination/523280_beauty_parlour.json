@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty Collection",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Products Wholesaler",
+    "pincode": "523280",
+    "phone_number": "+91 98444 16948",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Down muthuoot fincorp gold loan, ghandhi circle, 431/467/5, Brahmin St, Varthur, Devasthanagalu, Bengaluru, Karnataka 560087",
+    "area": "Varthur, Devasthanagalu",
+    "latitude": 12.940374499999999,
+    "longitude": 77.7466377,
+    "place_id": "ChIJs5p94IcNrjsRBd3F_4V6N4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5p94IcNrjsRBd3F_4V6N4M",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:08"
+  },
+  {
+    "business_name": "Aiswarya Beauty Parlour & Stitching Centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Aerobics Class, Tailor, Yoga studio",
+    "pincode": "523280",
+    "phone_number": "+91 98952 61654",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 966,
+    "address": "Near New Bhima Jewellery, Selection Fancy Store, Sub Station, Service Rd, Kazhakkoottam, Keralam 695582",
+    "area": "Bypass Junction",
+    "latitude": 8.566198,
+    "longitude": 76.874252,
+    "place_id": "ChIJkdAbJgC_BTsRXgiJNRmt9us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdAbJgC_BTsRXgiJNRmt9us",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:09:09"
+  }
+]

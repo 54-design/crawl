@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloths",
+    "search_category": "Departmental Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "523370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Market center, Ravipadu, Andhra Pradesh 523370",
+    "area": "523370",
+    "latitude": 15.5742213,
+    "longitude": 79.1511312,
+    "place_id": "ChIJm5DZBI4ntTsRS4RNpt8KFro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5DZBI4ntTsRS4RNpt8KFro",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:30"
+  },
+  {
+    "business_name": "Kasireddy kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523370",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "F3XX+MMW, Pusalapadu, Andhra Pradesh 523334",
+    "area": "523370",
+    "latitude": 15.499244599999999,
+    "longitude": 79.0991878,
+    "place_id": "ChIJl5v9T8zftDsRpuiXFoeEIcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5v9T8zftDsRpuiXFoeEIcs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:30"
+  }
+]

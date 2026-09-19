@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCREDDY COOL DRINKS AND PAN SHOP",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dornal road, near old wines, Peda Araveedu, Andhra Pradesh 523320",
+    "area": "523320",
+    "latitude": 15.8169101,
+    "longitude": 79.22199669999999,
+    "place_id": "ChIJzUBaWwA3tTsRwVJz0c7XJkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUBaWwA3tTsRwVJz0c7XJkA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:04"
+  },
+  {
+    "business_name": "TANGELLU VALKANAIZING WORK SHOP",
+    "search_category": "Shops",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "523320",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near nayara filling station, Kunta, Obulakkapalle, Andhra Pradesh 523320",
+    "area": "Kunta",
+    "latitude": 15.902702,
+    "longitude": 79.3051292,
+    "place_id": "ChIJkxByQpJLtTsROBWZNLiz0_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxByQpJLtTsROBWZNLiz0_w",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:07"
+  }
+]

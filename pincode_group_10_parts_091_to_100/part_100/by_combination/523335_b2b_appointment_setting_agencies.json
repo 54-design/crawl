@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Consultants Online",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "523335",
+    "phone_number": "N/A",
+    "website": "http://www.consultants-on-line.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Consultants Online, 523335, India",
+    "area": "523335",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJwboOIOUcbkgRnpHgwaE2_Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwboOIOUcbkgRnpHgwaE2_Xc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:50:39"
+  },
+  {
+    "business_name": "Adskhan",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "523335",
+    "phone_number": "N/A",
+    "website": "https://adskhan.ueniweb.com/?utm_campaign=gmb",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Vadakarai, Grant Lyon, Red Hills, Vedakarai, Tamil Nadu 600052",
+    "area": "Vadakarai, Grant Lyon, Red Hills",
+    "latitude": 13.1864046,
+    "longitude": 80.1998978,
+    "place_id": "ChIJcQOo4K57UjoRvO_lhnrT25E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQOo4K57UjoRvO_lhnrT25E",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:50:39"
+  }
+]

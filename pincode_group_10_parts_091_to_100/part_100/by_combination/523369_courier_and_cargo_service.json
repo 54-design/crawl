@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "523369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 14,
+    "address": "7282+G8R, Komarolu, Andhra Pradesh 523373",
+    "area": "523369",
+    "latitude": 15.2663683,
+    "longitude": 79.0007589,
+    "place_id": "ChIJ26Xf4MjptDsR3ijP_wTFkT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26Xf4MjptDsR3ijP_wTFkT4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:08"
+  },
+  {
+    "business_name": "Reddicherla Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "523369",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6XJQ+7Q9, Reddicherla, Komarolu, Andhra Pradesh 516217",
+    "area": "523369",
+    "latitude": 15.230673,
+    "longitude": 78.98948639999999,
+    "place_id": "ChIJIbn39ljptDsRnMswXOgSMjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbn39ljptDsRnMswXOgSMjg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:03:09"
+  }
+]

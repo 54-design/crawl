@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "523261",
+    "phone_number": "+91 89125 62684",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 61,
+    "address": "Shop No.47-15-4, Gur Banga Complex, Diamond Park Rd, Dondaparthy, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530016",
+    "area": "Dondaparthy, Dwaraka Nagar",
+    "latitude": 17.7254088,
+    "longitude": 83.30324929999999,
+    "place_id": "ChIJU0VxRiNDOToRFvYW0QSi1h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0VxRiNDOToRFvYW0QSi1h4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:49:30"
+  },
+  {
+    "business_name": "Ambika Paper Agencies",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Paper store",
+    "all_categories": "Paper store",
+    "pincode": "523261",
+    "phone_number": "+91 90309 85034",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 107,
+    "address": "17/6, Rajaji Street, Opp. Collector Office, Nellore, Andhra Pradesh 524001",
+    "area": "VRC Centre",
+    "latitude": 14.4512577,
+    "longitude": 79.98186009999999,
+    "place_id": "ChIJv3oLRcmMTDoRyu7OH7_0e3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3oLRcmMTDoRyu7OH7_0e3A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:49:30"
+  }
+]

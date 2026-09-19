@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bikes, cars&lauries mechanic",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "523292",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "4255+F9G, Chennai - Kolkata Hwy, Chagollu, Andhra Pradesh 523292",
+    "area": "523292",
+    "latitude": 15.108686299999999,
+    "longitude": 80.0084557,
+    "place_id": "ChIJxbXk9bhzSzoRSR0CzQx6MnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbXk9bhzSzoRSR0CzQx6MnA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:16:10"
+  },
+  {
+    "business_name": "meharajulla bike mechanic",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "523292",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "52C5+2XW, Ulavapadu Rd, Ulavapadu, Kollurupadu Rajupalem, Andhra Pradesh 523292",
+    "area": "Ulavapadu",
+    "latitude": 15.1701147,
+    "longitude": 80.0099606,
+    "place_id": "ChIJrXrxmKd0SzoRvbHk-nMwMjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXrxmKd0SzoRvbHk-nMwMjs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:16:10"
+  }
+]

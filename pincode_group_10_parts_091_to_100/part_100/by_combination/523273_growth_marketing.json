@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "W3 Logics",
+    "search_category": "Growth Marketing",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, E-commerce service, Internet marketing service, Software company, Web hosting company",
+    "pincode": "523273",
+    "phone_number": "+91 63096 25463",
+    "website": "https://www.w3logics.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2nd Floor, Vijaya Complex, opp. Union Bank, Bhanugudi Junction, Kakinada, Andhra Pradesh 533003",
+    "area": "Bhanugudi Junction, Kondayya Palem",
+    "latitude": 16.9697575,
+    "longitude": 82.2367514,
+    "place_id": "ChIJf4xmSfUpODoRItoDfGRsZfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4xmSfUpODoRItoDfGRsZfY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:04:35"
+  },
+  {
+    "business_name": "GodX Media",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "523273",
+    "phone_number": "+91 98359 83329",
+    "website": "https://godxmedia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GodX Media, 523273, India",
+    "area": "523273",
+    "latitude": 9.374110199999999,
+    "longitude": -74.9524576,
+    "place_id": "ChIJm0tUoykfUCURVchGC82baFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0tUoykfUCURVchGC82baFI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:04:37"
+  }
+]

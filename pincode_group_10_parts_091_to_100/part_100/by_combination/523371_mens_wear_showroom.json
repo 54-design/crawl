@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MENS PICK",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "523371",
+    "phone_number": "+91 99484 44433",
+    "website": "https://menspick.online/",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "sarada Nagar, 45-29-31, Water Tank Street, Tadithota, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Tadithota",
+    "latitude": 17.002529199999998,
+    "longitude": 81.7828569,
+    "place_id": "ChIJ9cOWzAWjNzoRm80mVgeLa94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cOWzAWjNzoRm80mVgeLa94",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:05:35"
+  },
+  {
+    "business_name": "Peter England Menswear Exclusive Showroom",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Clothing Accessories Store, Tuxedo shop, Western apparel store",
+    "pincode": "523371",
+    "phone_number": "+91 883 405 5022",
+    "website": "https://peterengland.abfrl.in/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "No. 54-6-5/1, Anala Venkatappa Rao Rd, beside MedPlus, Prakasam Nagar, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Prakasam Nagar",
+    "latitude": 17.0096702,
+    "longitude": 81.79436849999999,
+    "place_id": "ChIJh297xJOjNzoRjWtYIUR0gEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh297xJOjNzoRjWtYIUR0gEs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:05:37"
+  }
+]

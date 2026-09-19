@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Venkataramana Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523279",
+    "phone_number": "+91 866 257 4699",
+    "website": "https://www.srivenkataramanatravels.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Gayathri Towers Shop # 1, MG Rd, Vijayawada, Andhra Pradesh 520002",
+    "area": "Governor Peta",
+    "latitude": 16.5113633,
+    "longitude": 80.6187671,
+    "place_id": "ChIJmZSUgh3wNToRxe1yGt5Jmr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZSUgh3wNToRxe1yGt5Jmr0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:07"
+  },
+  {
+    "business_name": "GOBUS travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523279",
+    "phone_number": "+91 94931 51511",
+    "website": "https://www.gobustravels.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Savutripeta, Savitrupet, Tadepalligudem, Andhra Pradesh 534102",
+    "area": "Savutripeta, Savitrupet",
+    "latitude": 16.8065802,
+    "longitude": 81.53364479999999,
+    "place_id": "ChIJecRreoy1NzoRdYkVNtoS_j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecRreoy1NzoRdYkVNtoS_j4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:07:10"
+  }
+]

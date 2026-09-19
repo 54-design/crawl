@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JTG Fashions - A Readymade Blouse Shop",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing manufacturer, Clothing store",
+    "pincode": "523302",
+    "phone_number": "+91 74164 90507",
+    "website": "https://jtgfashions.com/",
+    "rating": 3.5,
+    "reviews_count": 20,
+    "address": "D.no:50-115-4, Shree sai arcade, Flat no - 101, MIG 197, opposite hill view park, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "Seethammadara",
+    "latitude": 17.7447791,
+    "longitude": 83.30866639999999,
+    "place_id": "ChIJu5abMutdOToRtTMeSrvhdQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5abMutdOToRtTMeSrvhdQc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:19:27"
+  },
+  {
+    "business_name": "Satya Sai Durga Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "523302",
+    "phone_number": "+91 95503 23638",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Tamarapalli, Andhra Pradesh 533355",
+    "area": "523302",
+    "latitude": 16.735345499999998,
+    "longitude": 82.0309424,
+    "place_id": "ChIJUR_qXF3tNzoR2uLlb7t2ZSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUR_qXF3tNzoR2uLlb7t2ZSc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:19:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "leela digitials",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Service establishment",
+    "pincode": "523254",
+    "phone_number": "+91 99088 34547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "leela digitials, 523254, India",
+    "area": "523254",
+    "latitude": 15.414109499999999,
+    "longitude": 79.51383129999999,
+    "place_id": "ChIJbUy0dtlMPgsRimoJTHzi11o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUy0dtlMPgsRimoJTHzi11o",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:45:40"
+  },
+  {
+    "business_name": "Hari photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "523254",
+    "phone_number": "+91 97013 24623",
+    "website": "https://sites.google.com/view/hariprasadsworld/home",
+    "rating": 5,
+    "reviews_count": 95,
+    "address": "Kadapa - Bengaluru Hwy, Gurrappagari Palli, Rayachoty, Andhra Pradesh 516269",
+    "area": "Gurrappagari Palli",
+    "latitude": 14.0464454,
+    "longitude": 78.7484836,
+    "place_id": "ChIJjaCNuHoDszsR4VanctcSULM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjaCNuHoDszsR4VanctcSULM",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:45:40"
+  }
+]

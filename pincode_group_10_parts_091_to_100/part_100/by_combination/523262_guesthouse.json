@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oqtis Hotel Supply",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "523262",
+    "phone_number": "+91 98989 73726",
+    "website": "https://oqtishotelsupply.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block No 22B, Outer Ring Road, nr. Anthem Circle, Chhedchha, Surat, Gujarat 395013",
+    "area": "Chhedchha",
+    "latitude": 21.1939387,
+    "longitude": 72.9159214,
+    "place_id": "ChIJrdfYY4VBFmIRX5SofSgn5EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdfYY4VBFmIRX5SofSgn5EI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:10"
+  },
+  {
+    "business_name": "SRI HANUMAN LODGE",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "523262",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "RTC Bus Stand, Backside, Kapu Kalyanamandapam Road, Vantavari colony, Ongole, Andhra Pradesh 523001",
+    "area": "Vantavari colony",
+    "latitude": 15.510421699999998,
+    "longitude": 80.04073629999999,
+    "place_id": "ChIJKdZGl1oBSzoRklmmFarc9ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdZGl1oBSzoRklmmFarc9ZI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:51:11"
+  }
+]

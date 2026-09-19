@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Planet Explorer Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "523326",
+    "phone_number": "+91 99332 00680",
+    "website": "http://www.blueplanetexplorer.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Blue Planet Explorer Tours & Travels, 523326, India",
+    "area": "523326",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJPR_CaOfaSYIRrVqAHIpJQq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPR_CaOfaSYIRrVqAHIpJQq0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:48"
+  },
+  {
+    "business_name": "Jayanthi Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "523326",
+    "phone_number": "+91 94947 44666",
+    "website": "https://www.jayanthitravels.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Shop no 2, Rtc Bus Stand, beside Creative Mobiles, Amalapuram, Andhra Pradesh 533201",
+    "area": "523326",
+    "latitude": 16.5788683,
+    "longitude": 81.99896269999999,
+    "place_id": "ChIJD9zY8ILvNzoRYnu7Gk4o6xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9zY8ILvNzoRYnu7Gk4o6xs",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:32:48"
+  }
+]

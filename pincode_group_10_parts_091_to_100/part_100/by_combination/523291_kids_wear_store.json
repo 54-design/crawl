@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy kids wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523291",
+    "phone_number": "+91 63021 22522",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "D.no.7/6/333c, Theertha Katta St, Nehru Nagar, Tirupati, Andhra Pradesh 517501",
+    "area": "Nehru Nagar",
+    "latitude": 13.634286699999999,
+    "longitude": 79.4184392,
+    "place_id": "ChIJT-2ExYtLTToRFjnHwN1RmDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-2ExYtLTToRFjnHwN1RmDQ",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:03"
+  },
+  {
+    "business_name": "Choice Children's Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store, Clothing store, Women's clothing store",
+    "pincode": "523291",
+    "phone_number": "+91 98983 23311",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 80,
+    "address": "SHOP NO.: G1, 2, Gurukrupa Complex, MG Rd, near HDFC Bank, Gandhi Nagar, Kalal Darwaja, Godhra, Gujarat 389001",
+    "area": "Gandhi Nagar, Kalal Darwaja",
+    "latitude": 22.7737357,
+    "longitude": 73.6200849,
+    "place_id": "ChIJY2R1bFGbYDkRh2Es28NB99s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2R1bFGbYDkRh2Es28NB99s",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:03"
+  }
+]

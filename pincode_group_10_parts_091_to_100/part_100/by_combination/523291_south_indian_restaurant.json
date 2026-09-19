@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Lakshmi Srinivasa dhaba & Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "523291",
+    "phone_number": "+91 95051 81098",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 32,
+    "address": "Beside check post,Vinjamur-kaligiri, Main Rd, Vinjamur, Andhra Pradesh 524228",
+    "area": "523291",
+    "latitude": 14.841918499999998,
+    "longitude": 79.5829306,
+    "place_id": "ChIJlWv_4llZSzoR0pKJ4KJkgsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWv_4llZSzoR0pKJ4KJkgsU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:13:57"
+  },
+  {
+    "business_name": "Andhra kitchens",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant, North Indian restaurant, South Indian restaurant",
+    "pincode": "523291",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1186,
+    "address": "VX7P+8M, Kavali, Musunuru, Andhra Pradesh 524201",
+    "area": "523291",
+    "latitude": 14.8633125,
+    "longitude": 79.9866875,
+    "place_id": "ChIJsXedisB9SzoRXe85kFmKewo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXedisB9SzoRXe85kFmKewo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:13:59"
+  }
+]

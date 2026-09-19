@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Family restaurant, Hotel, Indian restaurant, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "523265",
+    "phone_number": "+91 83388 13339",
+    "website": "https://www.instagram.com/bharat_punjabi_dhaba_atkuru?igsh=MXF5dWp1dDNidmRhYg==",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NH 16, Atkuru, Andhra Pradesh 521286",
+    "area": "523265",
+    "latitude": 16.5685558,
+    "longitude": 80.8575858,
+    "place_id": "ChIJkYoXNP4INjoRShZ8W_n2Ax4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYoXNP4INjoRShZ8W_n2Ax4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:55:43"
+  },
+  {
+    "business_name": "RK Family Restaurant & Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "523265",
+    "phone_number": "+91 89195 37442",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Opp RTC Garage, NH-16, Sundar Nagar, Ravulapadu, Ravulapalem, Andhra Pradesh 533238",
+    "area": "Sundar Nagar, Ravulapadu",
+    "latitude": 16.7449851,
+    "longitude": 81.8340891,
+    "place_id": "ChIJF3msK_TBNzoR19cHLC9xQls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3msK_TBNzoR19cHLC9xQls",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:55:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PADMA GARMENTS",
+    "search_category": "Saree Showroom",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "523274",
+    "phone_number": "+91 98669 47109",
+    "website": "http://www.padmagarments.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4-7, Chellemma Thota, Tanguturu, Andhra Pradesh 523274",
+    "area": "Chellemma Thota",
+    "latitude": 15.341389,
+    "longitude": 80.0383353,
+    "place_id": "ChIJ1SMlb2oJSzoR6ZXRIwPXkIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SMlb2oJSzoR6ZXRIwPXkIA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:04:55"
+  },
+  {
+    "business_name": "Kalamandir Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "523274",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, Tanguturu, Andhra Pradesh 523274",
+    "area": "523274",
+    "latitude": 15.34025,
+    "longitude": 80.03662539999999,
+    "place_id": "ChIJ7ZaoYukISzoReN65yjkNxhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZaoYukISzoReN65yjkNxhU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:04:55"
+  }
+]

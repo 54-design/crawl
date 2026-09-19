@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Export",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "524124",
+    "phone_number": "+91 80987 88511",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gummidi Pundi, No.110, Taluk Perumal Kovil Street, Nochikuppam, Nochikkuppam, Arambakkam, Nellore, Andhra Pradesh 601201",
+    "area": "Nochikuppam, Nochikkuppam",
+    "latitude": 13.542581199999999,
+    "longitude": 80.0754115,
+    "place_id": "ChIJu1wjsgl3TToRk10nm2wdSO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1wjsgl3TToRk10nm2wdSO4",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:25:55"
+  },
+  {
+    "business_name": "Madesh Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "524124",
+    "phone_number": "+91 77023 15107",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12-2, Panduranga St, Babuji Colony, Sullurupeta, Andhra Pradesh 524121",
+    "area": "Babuji Colony",
+    "latitude": 13.7020219,
+    "longitude": 80.0156446,
+    "place_id": "ChIJx6slKsZ1TToRyqPrYN4t-UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6slKsZ1TToRyqPrYN4t-UA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:25:58"
+  }
+]

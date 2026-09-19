@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vyaaptam Digital Marketing Service",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Design agency, Graphic designer, Internet marketing service, Marketing consultant, Web hosting company, Website designer",
+    "pincode": "523279",
+    "phone_number": "+91 63967 16516",
+    "website": "https://www.vyaaptam.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aslali Circle, Umang Aslali, B-713, Sardar Patel Ring Rd, nr. Saubhagya Hotel, Aslali, Ahmedabad, Gujarat 382427",
+    "area": "Aslali",
+    "latitude": 22.9277689,
+    "longitude": 72.5912311,
+    "place_id": "ChIJ5wg1QqmPXjkRIYckN78nwMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wg1QqmPXjkRIYckN78nwMU",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:03"
+  },
+  {
+    "business_name": "Boot & Boost Entrepreneur LLP",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "523279",
+    "phone_number": "+91 63874 04696",
+    "website": "https://bootboost.in/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "2 - 97/5, 2nd floor Pawan Mohan Arcade, Sri Ram Nagar, Hydershakote, Municipal, Bandlaguda Jagir, Hyderabad, Telangana 500091",
+    "area": "Municipal, Hydershakote",
+    "latitude": 17.3688501,
+    "longitude": 78.39098489999999,
+    "place_id": "ChIJHWm9YKuXyzsR7pb-L6h-MT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWm9YKuXyzsR7pb-L6h-MT8",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venkateswarlu Domala",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523333",
+    "phone_number": "+91 90329 76798",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Shop Back, Cumbum, Bus, Kambham, Andhra Pradesh 523333",
+    "area": "Cumbum, Bus",
+    "latitude": 15.5830063,
+    "longitude": 79.1091374,
+    "place_id": "ChIJbVKykZghtTsRLlej6emB2qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVKykZghtTsRLlej6emB2qo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:13"
+  },
+  {
+    "business_name": "Lakshmi kondaiah general and fancy stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "523333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G4W2+WJC, Sri Nagar Colony, Bestavaripeta, Andhra Pradesh 523334",
+    "area": "Sri Nagar Colony",
+    "latitude": 15.5473159,
+    "longitude": 79.1014948,
+    "place_id": "ChIJobzJCo8htTsRBQLWXxNj9EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobzJCo8htTsRBQLWXxNj9EA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:45:14"
+  }
+]

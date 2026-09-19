@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Chillies Family Restaurant & Daba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "523270",
+    "phone_number": "+91 91608 50500",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "L.A.Sagaram, Nayudupeta, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.900119499999999,
+    "longitude": 79.8940721,
+    "place_id": "ChIJ21WQeNobTToROZ3cxg-xe38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21WQeNobTToROZ3cxg-xe38",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:57:34"
+  },
+  {
+    "business_name": "Sri Vengamamba Punjabi Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Cafe",
+    "pincode": "523270",
+    "phone_number": "+91 72070 55755",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Nellore Golagamudi Anikepalli Rd, Kanuparthipadu, Andhra Pradesh 524003",
+    "area": "523270",
+    "latitude": 14.398098699999998,
+    "longitude": 79.9753219,
+    "place_id": "ChIJgXskY4bzTDoRSym1sKtoRaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXskY4bzTDoRSym1sKtoRaA",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 09:57:34"
+  }
+]

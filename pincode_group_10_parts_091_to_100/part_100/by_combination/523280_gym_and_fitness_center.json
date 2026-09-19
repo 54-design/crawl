@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Palass",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "523280",
+    "phone_number": "+91 95053 28583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "94RQ+9F8, Beach, ramlayem, Rajupalem, Andhra Pradesh 523280",
+    "area": "523280",
+    "latitude": 15.390903799999998,
+    "longitude": 80.13868959999999,
+    "place_id": "ChIJOaQewGOoSzoRW3LKEQEkm-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaQewGOoSzoRW3LKEQEkm-0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:45"
+  },
+  {
+    "business_name": "AYUSHMAN BHARAT HELTH WELLNESS CENTER",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "523280",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9464+XWP, మడనూరు-1, Madanur, Andhra Pradesh 523280",
+    "area": "మడనూరు-1",
+    "latitude": 15.3624648,
+    "longitude": 80.10732879999999,
+    "place_id": "ChIJiUwhm_qnSzoR1qsBU_GUJQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUwhm_qnSzoR1qsBU_GUJQ0",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:45"
+  }
+]

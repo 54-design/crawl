@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uma Childrens Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523291",
+    "phone_number": "+91 86742 48000",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Eluru Rd, Rajendra Nagar, Teacher Colony, Satyanarayana Puram, Gudivada, Andhra Pradesh 521301",
+    "area": "Rajendra Nagar, Teacher Colony, Satyanarayana Puram",
+    "latitude": 16.443235299999998,
+    "longitude": 80.9920344,
+    "place_id": "ChIJe7sB21MbNjoRk4S7Pv_2dgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7sB21MbNjoRk4S7Pv_2dgY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:14"
+  },
+  {
+    "business_name": "Vikram Kumar Child Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523291",
+    "phone_number": "+91 83673 91513",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sri Divya Hospitals 8, 6-3, Chamarthivari St, Gandhi Nagar, Pratap Nagar, Kakinada, Andhra Pradesh 533004",
+    "area": "Gandhi Nagar, Pratap Nagar",
+    "latitude": 16.9708959,
+    "longitude": 82.2260153,
+    "place_id": "ChIJq6qqqlooODoRzKK2dJ8tdlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqlooODoRzKK2dJ8tdlc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:14:14"
+  }
+]

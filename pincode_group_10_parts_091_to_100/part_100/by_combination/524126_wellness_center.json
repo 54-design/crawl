@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAA Wellness world",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WV5X+8C7, L.A.Sagaram, Vinnamala, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.9082998,
+    "longitude": 79.89853959999999,
+    "place_id": "ChIJmdbDHgAbTToRZQrt4ZedcTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdbDHgAbTToRZQrt4ZedcTc",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:38"
+  },
+  {
+    "business_name": "SAI SANJAI WELLNESS CENTER",
+    "search_category": "Wellness Center",
+    "primary_category": "Weight loss service",
+    "all_categories": "Weight loss service",
+    "pincode": "524126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chandra Digital Studio, c/o, Darga Rd, near Government Hospital, L.A.Sagaram, Vinnamala, Andhra Pradesh 524126",
+    "area": "L.A.Sagaram",
+    "latitude": 13.9071574,
+    "longitude": 79.8999316,
+    "place_id": "ChIJQ06W5oUbTToR2C-26LCc_Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ06W5oUbTToR2C-26LCc_Gg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:28:38"
+  }
+]

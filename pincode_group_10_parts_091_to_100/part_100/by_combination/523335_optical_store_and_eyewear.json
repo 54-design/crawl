@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fareeda Optik",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Sunglasses store",
+    "pincode": "523335",
+    "phone_number": "+91 70349 99333",
+    "website": "http://www.fareedaoptik.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Church Rd, Old Busstand, Vatakara, Keralam 673101",
+    "area": "Old Busstand",
+    "latitude": 11.5987153,
+    "longitude": 75.5886005,
+    "place_id": "ChIJA_nGIW-EpjsRC7wBK5u1GUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_nGIW-EpjsRC7wBK5u1GUw",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:14"
+  },
+  {
+    "business_name": "fareeda optik",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center",
+    "pincode": "523335",
+    "phone_number": "+91 496 251 5105",
+    "website": "https://fareedaoptik.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Vatakara Link Rd, Edodi, Vatakara, Keralam 673101",
+    "area": "Edodi",
+    "latitude": 11.5978493,
+    "longitude": 75.5893349,
+    "place_id": "ChIJZ2UVu26EpjsRC1zK-8hwA8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2UVu26EpjsRC1zK-8hwA8A",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:49:14"
+  }
+]

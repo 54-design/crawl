@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cars99",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "523368",
+    "phone_number": "+91 94480 16929",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1118,
+    "address": "Cars99, 57/58, Outer Ring Rd, near Saibaba Temple, Chowdeshwari Nagar, Kempegowda Layout, Laggere, Bengaluru, Karnataka 560058",
+    "area": "Chowdeshwari Nagar, Kempegowda Layout, Laggere",
+    "latitude": 13.0027061,
+    "longitude": 77.5256096,
+    "place_id": "ChIJC6T7bnc9rjsRWLRsL3HtWoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6T7bnc9rjsRWLRsL3HtWoY",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:32"
+  },
+  {
+    "business_name": "Trust Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Car finance and loan company",
+    "pincode": "523368",
+    "phone_number": "+91 96661 27703",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 80,
+    "address": "beside ESI, opp. to reliance digital, Koundinya Nagar, Savarkar Nagar, Ram Reddy Colony, Nacharam, Hyderabad, Secunderabad, Telangana 500076",
+    "area": "Koundinya Nagar, Savarkar Nagar, Ram Reddy Colony, Nacharam",
+    "latitude": 17.4305943,
+    "longitude": 78.5527712,
+    "place_id": "ChIJ7Z8tQtOZyzsRIgURsEonWZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Z8tQtOZyzsRIgURsEonWZg",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:00:35"
+  }
+]

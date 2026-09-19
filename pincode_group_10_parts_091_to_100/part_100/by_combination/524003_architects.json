@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "indianplans",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "524003",
+    "phone_number": "N/A",
+    "website": "https://indianplans.in/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "HK Babu Nagar, Ambapuram, Nellore-1 Rular, Andhra Pradesh 524004",
+    "area": "HK Babu Nagar",
+    "latitude": 14.412814399999998,
+    "longitude": 79.9290244,
+    "place_id": "ChIJm00To27zTDoRdE_fy_y9ZgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm00To27zTDoRdE_fy_y9ZgE",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:15:35"
+  },
+  {
+    "business_name": "MLD Constructions",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "524003",
+    "phone_number": "+91 94934 54789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Flat No.104, DSR Square Apartment, 5th St, Harinathpuram, Nellore, Andhra Pradesh 524003",
+    "area": "Harinathpuram",
+    "latitude": 14.434899099999999,
+    "longitude": 79.99140489999999,
+    "place_id": "ChIJqx0NAQDzTDoRQpbFwRtC3wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqx0NAQDzTDoRQpbFwRtC3wo",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 11:15:37"
+  }
+]

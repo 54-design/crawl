@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Rajan Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523280",
+    "phone_number": "N/A",
+    "website": "https://drrajaneyehospital.com/",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "36-A, 4th Cross Rd, Co-operative Colony, Thiruvalluvar Nagar, Krishnagiri, Tamil Nadu 635001",
+    "area": "Co-operative Colony, Thiruvalluvar Nagar",
+    "latitude": 12.5202914,
+    "longitude": 78.21885139999999,
+    "place_id": "ChIJ7Ym6AAo1rDsRCGKYKUAI7eI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Ym6AAo1rDsRCGKYKUAI7eI",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:40"
+  },
+  {
+    "business_name": "Saijyothi Eye Hospital | Best Eye Hospital in Kompally, Hyderabad",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "523280",
+    "phone_number": "+91 94928 00777",
+    "website": "http://www.saijyothieyehospital.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd Floor, Vaishnavi Lamani Arcade, Doolapally Rd, above Ratnadeep super market, Devender Colony, Kompally, Hyderabad, Telangana 500100",
+    "area": "Devender Colony, Kompally",
+    "latitude": 17.5417335,
+    "longitude": 78.48863949999999,
+    "place_id": "ChIJDd6TrPeFyzsRxOjepZzS-5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDd6TrPeFyzsRxOjepZzS-5U",
+    "part_id": "part_100",
+    "crawled_at": "2026-09-19 10:08:40"
+  }
+]
